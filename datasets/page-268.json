@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-36027",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Три дня в Москве",
+      "title_orig": "Tri dnya v Moskve",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1975,
+      "kinopoisk_id": "421342",
+      "imdb_id": "tt2063845",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-30T11:23:54Z",
+      "updated_at": "2019-04-30T11:23:54Z"
+    },
+    {
+      "id": "movie-36029",
+      "type": "russian-movie",
+      "link": "",
+      "title": "34-й скорый",
+      "title_orig": "34-y skoryy",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1981,
+      "kinopoisk_id": "46795",
+      "imdb_id": "tt0081967",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-30T11:21:49Z",
+      "updated_at": "2019-04-30T11:21:49Z"
+    },
+    {
+      "id": "movie-36030",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Двадцать шесть дней из жизни Достоевского",
+      "title_orig": "Dvadtsat shest dney iz zhizni Dostoevskogo",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1981,
+      "kinopoisk_id": "44341",
+      "imdb_id": "tt0132932",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-30T11:20:49Z",
+      "updated_at": "2019-04-30T11:20:49Z"
+    },
+    {
+      "id": "movie-36031",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Голубые горы, или Неправдоподобная история",
+      "title_orig": "Tsisperi mtebi anu daujerebeli ambavi",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1984,
+      "kinopoisk_id": "42352",
+      "imdb_id": "tt0087349",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-30T11:19:38Z",
+      "updated_at": "2019-04-30T11:19:38Z"
+    },
+    {
       "id": "movie-9481",
       "type": "russian-movie",
       "link": "",
@@ -1918,93 +1998,6 @@
       "blocked_countries": [],
       "created_at": "2019-04-28T18:15:02Z",
       "updated_at": "2019-04-29T05:16:37Z"
-    },
-    {
-      "id": "movie-35863",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Трава зеленее",
-      "title_orig": "Grass is Greener",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1254819",
-      "imdb_id": "tt10050782",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-29T05:10:21Z",
-      "updated_at": "2019-04-29T05:10:21Z"
-    },
-    {
-      "id": "movie-35296",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Золото Флинна",
-      "title_orig": "In Like Flynn",
-      "other_title": "Подобно Флинну",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "959559",
-      "imdb_id": "tt5303442",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [
-        "RU"
-      ],
-      "created_at": "2019-04-19T05:15:51Z",
-      "updated_at": "2019-04-29T05:00:08Z"
-    },
-    {
-      "id": "serial-16520",
-      "type": "russian-serial",
-      "link": "",
-      "title": "Следствие ведут знатоки: Побег",
-      "title_orig": "Pobeg",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1973,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "kinopoisk_id": "88716",
-      "imdb_id": "tt0274726",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-04-28T09:16:25Z",
-      "updated_at": "2019-04-28T09:16:25Z"
-    },
-    {
-      "id": "movie-35847",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Следствие ведут знатоки: Свидетель",
-      "title_orig": "Svidetel",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1974,
-      "kinopoisk_id": "88732",
-      "imdb_id": "tt0284531",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-28T09:14:48Z",
-      "updated_at": "2019-04-28T09:14:48Z"
     }
   ]
 }

@@ -1,6 +1,95 @@
 {
   "results": [
     {
+      "id": "movie-30114",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Останови смерть",
+      "title_orig": "Inteqam: The Perfect Game",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2004,
+      "kinopoisk_id": "265901",
+      "imdb_id": "tt0349620",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-12-26T07:34:17Z",
+      "updated_at": "2018-12-26T07:34:17Z"
+    },
+    {
+      "id": "movie-30049",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Седьмая пуля",
+      "title_orig": "Sedmaya pulya",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1972,
+      "kinopoisk_id": "43643",
+      "imdb_id": "tt0171726",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-12-24T20:21:50Z",
+      "updated_at": "2018-12-26T07:10:13Z"
+    },
+    {
+      "id": "serial-13870",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Богатый мужчина, бедная женщина",
+      "title_orig": "Rich Man, Poor Woman",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2012,
+      "last_season": 1,
+      "last_episode": 11,
+      "episodes_count": 11,
+      "kinopoisk_id": "695883",
+      "imdb_id": "tt2404115",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-12-26T01:44:00Z",
+      "updated_at": "2018-12-26T01:44:00Z"
+    },
+    {
+      "id": "serial-13869",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Сияющий офис",
+      "title_orig": "Jachebalgwang Opiseu",
+      "other_title": "Ослепительный офис / Self Radiation Office / Radiant Office",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "1009105",
+      "imdb_id": "tt6464184",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-12-26T01:16:51Z",
+      "updated_at": "2018-12-26T01:16:51Z"
+    },
+    {
       "id": "serial-12717",
       "type": "anime-serial",
       "link": "",
@@ -2107,95 +2196,6 @@
       "blocked_countries": [],
       "created_at": "2018-12-15T19:29:19Z",
       "updated_at": "2018-12-17T08:07:22Z"
-    },
-    {
-      "id": "movie-29664",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Потерянная земля",
-      "title_orig": "Huang cheng ji",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1120960",
-      "imdb_id": "tt8291232",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-12-15T15:20:43Z",
-      "updated_at": "2018-12-17T08:01:20Z"
-    },
-    {
-      "id": "serial-13687",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Страна приливов",
-      "title_orig": "Tidelands",
-      "translation": {
-        "id": 752,
-        "title": "IDEAFILM",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 8,
-      "episodes_count": 8,
-      "kinopoisk_id": "1118017",
-      "imdb_id": "tt6898970",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-12-16T14:06:27Z",
-      "updated_at": "2018-12-16T14:06:27Z"
-    },
-    {
-      "id": "movie-29677",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Наклбол",
-      "title_orig": "Knuckleball",
-      "translation": {
-        "id": 882,
-        "title": "English",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1015404",
-      "imdb_id": "tt6284256",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-12-16T07:10:13Z",
-      "updated_at": "2018-12-16T07:10:13Z"
-    },
-    {
-      "id": "serial-13671",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Этой зимой дует ветер",
-      "title_orig": "That Winter, the Wind Blows",
-      "other_title": "Той зимой, когда ветер дул / Barami Boond That Winter, The Wind Blows / Geu Gyeo-ool, Barami Boonda / Wind Blows in Winter / geu gyeo-ul, ba-lam-i boon-da",
-      "translation": {
-        "id": 620,
-        "title": "GREEN TEA",
-        "type": "voice"
-      },
-      "year": 2013,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "738939",
-      "imdb_id": "tt2806646",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-12-13T08:04:06Z",
-      "updated_at": "2018-12-15T19:23:02Z"
     }
   ]
 }

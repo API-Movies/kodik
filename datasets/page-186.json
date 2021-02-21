@@ -1,6 +1,100 @@
 {
   "results": [
     {
+      "id": "movie-46664",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Телохранители и убийцы",
+      "title_orig": "Shi yue wei cheng",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 2009,
+      "kinopoisk_id": "454190",
+      "imdb_id": "tt1403130",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-12-24T19:23:44Z",
+      "updated_at": "2019-12-24T19:23:44Z"
+    },
+    {
+      "id": "serial-6948",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Садистская смесь",
+      "title_orig": "Blend S",
+      "other_title": "ブレンド・S",
+      "translation": {
+        "id": 767,
+        "title": "SHIZA Project",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1111850",
+      "imdb_id": "tt7657580",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9269",
+      "shikimori_id": "34618",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-12-03T14:51:44Z",
+      "updated_at": "2019-12-24T19:07:42Z"
+    },
+    {
+      "id": "movie-46669",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Подводное чудовище 2",
+      "title_orig": "Shen hai ju yao 2",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1263769",
+      "imdb_id": "tt10324120",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-12-24T18:59:18Z",
+      "updated_at": "2019-12-24T18:59:18Z"
+    },
+    {
+      "id": "serial-11987",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Летняя буря! [ТВ-1]",
+      "title_orig": "Natsu no Arashi!",
+      "other_title": "夏のあらし!",
+      "translation": {
+        "id": 761,
+        "title": "Onibaku",
+        "type": "voice"
+      },
+      "year": 2009,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "455107",
+      "imdb_id": "tt1409062",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7176",
+      "shikimori_id": "5597",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-08-13T16:53:09Z",
+      "updated_at": "2019-12-24T18:58:07Z"
+    },
+    {
       "id": "serial-6362",
       "type": "anime-serial",
       "link": "",
@@ -2349,86 +2443,6 @@
       "blocked_countries": [],
       "created_at": "2019-12-23T11:31:26Z",
       "updated_at": "2019-12-23T11:31:26Z"
-    },
-    {
-      "id": "movie-30351",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Сегодня в романтическом кинотеатре",
-      "title_orig": "Konya romance gekijo de",
-      "translation": {
-        "id": 635,
-        "title": "RusFilm",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1047512",
-      "imdb_id": "tt6908760",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-02T12:37:12Z",
-      "updated_at": "2019-12-23T11:22:51Z"
-    },
-    {
-      "id": "movie-30902",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Пятеро героев: атака зомби",
-      "title_orig": "5 Cowok Jagoan",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1302159",
-      "imdb_id": "tt10681664",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-16T00:56:47Z",
-      "updated_at": "2019-12-23T11:20:22Z"
-    },
-    {
-      "id": "movie-46607",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Касание Дзен",
-      "title_orig": "Xia nü",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1971,
-      "kinopoisk_id": "24748",
-      "imdb_id": "tt0064451",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-12-23T11:18:51Z",
-      "updated_at": "2019-12-23T11:18:51Z"
-    },
-    {
-      "id": "movie-46608",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Живые мертвецы в Токио",
-      "title_orig": "Batoru gâru: Tokyo crisis wars",
-      "translation": {
-        "id": 680,
-        "title": "den904",
-        "type": "voice"
-      },
-      "year": 1991,
-      "kinopoisk_id": "243541",
-      "imdb_id": "tt0225156",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-12-23T11:17:48Z",
-      "updated_at": "2019-12-23T11:17:48Z"
     }
   ]
 }

@@ -1,6 +1,102 @@
 {
   "results": [
     {
+      "id": "serial-24744",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Легенда о мечнике: Девять небесных песен",
+      "title_orig": "Nine Songs of the Moving Heavens",
+      "translation": {
+        "id": 1295,
+        "title": "GrandStudio",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 2,
+      "last_episode": 30,
+      "episodes_count": 86,
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-13T07:56:35Z",
+      "updated_at": "2020-05-09T10:10:09Z"
+    },
+    {
+      "id": "serial-25154",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Сказание о демонах сакуры [ТВ-2]",
+      "title_orig": "Hakuouki: Hekketsu-roku - Shinsengumi Kitan",
+      "other_title": "Hakuoki: Demon of the Fleeting Blossom - Record of the Jade Blood",
+      "translation": {
+        "id": 654,
+        "title": "AniFilm",
+        "type": "voice"
+      },
+      "year": 2010,
+      "last_season": 2,
+      "last_episode": 10,
+      "episodes_count": 11,
+      "kinopoisk_id": "523360",
+      "imdb_id": "tt1658978",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7942",
+      "shikimori_id": "9065",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-26T16:38:24Z",
+      "updated_at": "2020-05-09T09:46:44Z"
+    },
+    {
+      "id": "serial-25267",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Разноцветье",
+      "title_orig": "Colorful",
+      "other_title": "カラフル",
+      "translation": {
+        "id": 1048,
+        "title": "Евгения Лурье",
+        "type": "voice"
+      },
+      "year": 1999,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 6,
+      "kinopoisk_id": "261428",
+      "imdb_id": "tt0844490",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2736",
+      "shikimori_id": "841",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-29T15:51:40Z",
+      "updated_at": "2020-05-09T09:33:35Z"
+    },
+    {
+      "id": "movie-55028",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Пробужденный",
+      "title_orig": "Awoken",
+      "translation": {
+        "id": 861,
+        "title": "LakeFilms",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1123965",
+      "imdb_id": "tt7838536",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-09T09:21:19Z",
+      "updated_at": "2020-05-09T09:21:19Z"
+    },
+    {
       "id": "movie-55027",
       "type": "foreign-movie",
       "link": "",
@@ -2262,104 +2358,6 @@
       "blocked_seasons": {},
       "created_at": "2020-04-28T14:34:42Z",
       "updated_at": "2020-05-06T08:29:44Z"
-    },
-    {
-      "id": "serial-25467",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Солнечное счастье",
-      "title_orig": "Xing Fu Zui Qing Tian",
-      "other_title": "Счастье как солнечный день / Sunny Happiness / Happiness is like sunny day",
-      "translation": {
-        "id": 620,
-        "title": "GREEN TEA",
-        "type": "voice"
-      },
-      "year": 2011,
-      "last_season": 1,
-      "last_episode": 25,
-      "episodes_count": 25,
-      "kinopoisk_id": "658400",
-      "imdb_id": "tt2473914",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-06T02:35:29Z",
-      "updated_at": "2020-05-06T02:35:29Z"
-    },
-    {
-      "id": "movie-54869",
-      "type": "anime",
-      "link": "",
-      "title": "Принцесса морского бриза",
-      "title_orig": "Lupin III: Princess of the Breeze",
-      "other_title": "Люпен III: Принцесса бриза - Город скрытый в небесах / Люпен III: Принцесса морского бриза — Скрытый город в небе / Lupin Sansei: Princess of the Breeze",
-      "translation": {
-        "id": 827,
-        "title": "Persona99",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "789374",
-      "imdb_id": "tt3122078",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1784",
-      "shikimori_id": "20141",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-06T02:32:41Z",
-      "updated_at": "2020-05-06T02:32:41Z"
-    },
-    {
-      "id": "movie-54868",
-      "type": "anime",
-      "link": "",
-      "title": "Люпен III: Ещё одна страница",
-      "title_orig": "Lupin the III: Another Page",
-      "other_title": "Люпен III: Книга о разнообразии мира - Неизвестная страница (спецвыпуск 23) / Lupin Sansei: Touhou Kenbunroku - Another Page",
-      "translation": {
-        "id": 827,
-        "title": "Persona99",
-        "type": "voice"
-      },
-      "year": 2012,
-      "kinopoisk_id": "713113",
-      "imdb_id": "tt2438634",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1222",
-      "shikimori_id": "15783",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-06T02:31:57Z",
-      "updated_at": "2020-05-06T02:31:57Z"
-    },
-    {
-      "id": "serial-25466",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Люпен III: Женщина по имени Фудзико Минэ",
-      "title_orig": "Lupin the Third: Mine Fujiko to Iu Onna",
-      "other_title": "Lupin the Third: The Woman Called Fujiko Mine",
-      "translation": {
-        "id": 827,
-        "title": "Persona99",
-        "type": "voice"
-      },
-      "year": 2012,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "675205",
-      "imdb_id": "tt2298919",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=844",
-      "shikimori_id": "13203",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-06T02:31:00Z",
-      "updated_at": "2020-05-06T02:31:00Z"
     }
   ]
 }

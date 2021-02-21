@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-40132",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Люблю тебя, жизнь",
+      "title_orig": "Lyublyu tebya, zhizn",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1961,
+      "kinopoisk_id": "484721",
+      "imdb_id": "tt1543027",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-24T06:12:36Z",
+      "updated_at": "2019-07-24T06:12:36Z"
+    },
+    {
+      "id": "movie-40134",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Мегрэ у министра",
+      "title_orig": "Maigret at the Minister",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "478629",
+      "imdb_id": "tt9670766",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-24T06:10:46Z",
+      "updated_at": "2019-07-24T06:10:46Z"
+    },
+    {
+      "id": "movie-40135",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Ровесник века",
+      "title_orig": "Rovesnik veka",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1960,
+      "kinopoisk_id": "42131",
+      "imdb_id": "tt0175131",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-24T06:10:01Z",
+      "updated_at": "2019-07-24T06:10:01Z"
+    },
+    {
+      "id": "movie-40136",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Счастье Андруса",
+      "title_orig": "Andruse õnn",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1955,
+      "kinopoisk_id": "156052",
+      "imdb_id": "tt0446904",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-24T06:08:27Z",
+      "updated_at": "2019-07-24T06:08:27Z"
+    },
+    {
       "id": "movie-40137",
       "type": "russian-movie",
       "link": "",
@@ -2014,93 +2094,6 @@
       "blocked_countries": [],
       "created_at": "2019-07-21T06:45:58Z",
       "updated_at": "2019-07-21T06:45:58Z"
-    },
-    {
-      "id": "serial-8862",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Космический линкор Ямато 2202: Воины любви",
-      "title_orig": "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi",
-      "other_title": "Космический крейсер Ямато 2202: Воины любви / Uchuu Senkan Yamato 2202: Ai no Senshitachi",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 26,
-      "episodes_count": 26,
-      "kinopoisk_id": "1043149",
-      "imdb_id": "tt5592004",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8927",
-      "shikimori_id": "33064",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-01-19T05:41:35Z",
-      "updated_at": "2019-07-20T20:12:30Z"
-    },
-    {
-      "id": "movie-39952",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Те, кто любят ненавидеть",
-      "title_orig": "Los que aman odian",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "842368",
-      "imdb_id": "tt3864934",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-20T18:46:29Z",
-      "updated_at": "2019-07-20T18:46:29Z"
-    },
-    {
-      "id": "movie-39954",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Пахуна: маленькие посетители",
-      "title_orig": "Pahuna: The Little Visitors",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1048280",
-      "imdb_id": "tt6940696",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-20T18:42:36Z",
-      "updated_at": "2019-07-20T18:42:36Z"
-    },
-    {
-      "id": "movie-39956",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Мы вам перезвоним",
-      "title_orig": "We'll Get Back to You",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1038586",
-      "imdb_id": "tt6559642",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-20T18:40:12Z",
-      "updated_at": "2019-07-20T18:40:12Z"
     }
   ]
 }

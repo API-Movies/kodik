@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-63211",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Бравый инспектор Мамочкин",
+      "title_orig": "Bravyy inspektor Mamochkin",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1977,
+      "kinopoisk_id": "258043",
+      "imdb_id": "tt6053118",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-12T14:21:03Z",
+      "updated_at": "2020-11-12T14:21:03Z"
+    },
+    {
+      "id": "movie-63212",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Брак",
+      "title_orig": "Brak",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "260237",
+      "imdb_id": "tt1284448",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-12T14:19:43Z",
+      "updated_at": "2020-11-12T14:19:43Z"
+    },
+    {
+      "id": "movie-63203",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Братец Кролик и братец Лис",
+      "title_orig": "Bratets Krolik i bratets Lis",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1972,
+      "kinopoisk_id": "520537",
+      "imdb_id": "tt6194502",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-12T12:36:40Z",
+      "updated_at": "2020-11-12T12:36:40Z"
+    },
+    {
+      "id": "movie-63188",
+      "type": "russian-movie",
+      "link": "",
+      "title": "В зоопарке — ремонт",
+      "title_orig": "V zooparke - remont!",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "259330",
+      "imdb_id": "tt4053858",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-12T12:33:54Z",
+      "updated_at": "2020-11-12T12:33:54Z"
+    },
+    {
       "id": "movie-63189",
       "type": "russian-movie",
       "link": "",
@@ -2075,93 +2155,6 @@
       "blocked_seasons": {},
       "created_at": "2020-09-30T18:14:15Z",
       "updated_at": "2020-11-10T05:19:38Z"
-    },
-    {
-      "id": "serial-30064",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Идеальная девушка",
-      "title_orig": "My Fair Lady",
-      "other_title": "Yojosuknyeo / The Perfect Girl",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2003,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-11-09T20:59:33Z",
-      "updated_at": "2020-11-10T05:18:26Z"
-    },
-    {
-      "id": "movie-62971",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Мастер меча",
-      "title_orig": "San shao ye de jian",
-      "translation": {
-        "id": 940,
-        "title": "Phoenixes",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "952198",
-      "imdb_id": "tt5269396",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-09T20:56:58Z",
-      "updated_at": "2020-11-09T20:56:58Z"
-    },
-    {
-      "id": "serial-30063",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Мэджикано",
-      "title_orig": "Majikano",
-      "translation": {
-        "id": 827,
-        "title": "Persona99",
-        "type": "voice"
-      },
-      "year": 2006,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "408681",
-      "imdb_id": "tt0972671",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-11-09T20:22:56Z",
-      "updated_at": "2020-11-09T20:22:56Z"
-    },
-    {
-      "id": "movie-62959",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Саван призрака. Начало",
-      "title_orig": "Pocong the Origin",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1256989",
-      "imdb_id": "tt10092770",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-09T19:52:24Z",
-      "updated_at": "2020-11-09T19:52:24Z"
     }
   ]
 }

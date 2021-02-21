@@ -1,6 +1,91 @@
 {
   "results": [
     {
+      "id": "serial-21324",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Путь выборов",
+      "title_orig": "Way of Choices",
+      "other_title": "Путь выбора",
+      "translation": {
+        "id": 923,
+        "title": "AnimeVost",
+        "type": "voice"
+      },
+      "year": 2015,
+      "last_season": 1,
+      "last_episode": 61,
+      "episodes_count": 61,
+      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=72975",
+      "shikimori_id": "31838",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-16T07:41:31Z",
+      "updated_at": "2020-05-25T16:44:49Z"
+    },
+    {
+      "id": "movie-55786",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Парни из рая",
+      "title_orig": "Tengoku kara kita otoko-tachi",
+      "translation": {
+        "id": 989,
+        "title": "Премьер Видео Фильм",
+        "type": "voice"
+      },
+      "year": 2000,
+      "kinopoisk_id": "94611",
+      "imdb_id": "tt0304809",
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-25T16:23:50Z",
+      "updated_at": "2020-05-25T16:23:50Z"
+    },
+    {
+      "id": "movie-55785",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Первая любовь",
+      "title_orig": "Choh chin luen hau dik yi yan sai gaai",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 1997,
+      "kinopoisk_id": "22853",
+      "imdb_id": "tt0146745",
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-25T16:20:03Z",
+      "updated_at": "2020-05-25T16:20:03Z"
+    },
+    {
+      "id": "movie-55784",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Саймон и Тада Такаси",
+      "title_orig": "Saimon & Tada Takashi",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1112895",
+      "imdb_id": "tt8051280",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-25T16:03:06Z",
+      "updated_at": "2020-05-25T16:03:06Z"
+    },
+    {
       "id": "movie-55783",
       "type": "foreign-movie",
       "link": "",
@@ -2363,98 +2448,6 @@
       "blocked_countries": [],
       "created_at": "2020-05-24T05:19:39Z",
       "updated_at": "2020-05-24T05:19:39Z"
-    },
-    {
-      "id": "movie-55749",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Смех без причины",
-      "title_orig": "Naan Sirithaa",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2020,
-      "kinopoisk_id": "1314445",
-      "imdb_id": "tt11138290",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-24T05:17:23Z",
-      "updated_at": "2020-05-24T05:17:23Z"
-    },
-    {
-      "id": "serial-23872",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Я знаю твой секрет",
-      "title_orig": "I Know Your Secret",
-      "other_title": "Твой секрет / Wo Zhi Dao Ni De Mi Mi",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 37,
-      "episodes_count": 37,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-03-18T22:56:13Z",
-      "updated_at": "2020-05-23T22:25:33Z"
-    },
-    {
-      "id": "serial-26008",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Японский нуар",
-      "title_orig": "Nippon Noir",
-      "other_title": "Японский нуар: Бунт детектива Y / Nippon Noir: Detective Y's Rebellion / Nippon Nowaru: Keiji Y no Hanran",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "kinopoisk_id": "1291867",
-      "imdb_id": "tt10756782",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-23T22:19:00Z",
-      "updated_at": "2020-05-23T22:19:00Z"
-    },
-    {
-      "id": "serial-25957",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Отмена действия",
-      "title_orig": "Control Z",
-      "translation": {
-        "id": 936,
-        "title": "KeborTV",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 8,
-      "episodes_count": 8,
-      "kinopoisk_id": "1355725",
-      "imdb_id": "tt11937662",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-22T16:09:42Z",
-      "updated_at": "2020-05-23T21:18:36Z"
     }
   ]
 }

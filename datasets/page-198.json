@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-46082",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Любимое уравнение профессора",
+      "title_orig": "Hakase no aishita sûshiki",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2006,
+      "kinopoisk_id": "256552",
+      "imdb_id": "tt0498505",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-12-10T07:50:27Z",
+      "updated_at": "2019-12-10T07:50:27Z"
+    },
+    {
+      "id": "movie-46083",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Портрет в кристалле",
+      "title_orig": "Shui jing ren",
+      "translation": {
+        "id": 694,
+        "title": "Береговых",
+        "type": "voice"
+      },
+      "year": 1983,
+      "kinopoisk_id": "398946",
+      "imdb_id": "tt0084678",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-12-10T07:49:23Z",
+      "updated_at": "2019-12-10T07:49:23Z"
+    },
+    {
+      "id": "movie-46084",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Истина",
+      "title_orig": "Fa nei qing",
+      "translation": {
+        "id": 694,
+        "title": "Береговых",
+        "type": "voice"
+      },
+      "year": 1988,
+      "kinopoisk_id": "198711",
+      "imdb_id": "tt0095124",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-12-10T07:48:27Z",
+      "updated_at": "2019-12-10T07:48:27Z"
+    },
+    {
+      "id": "movie-46085",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Истина: Последняя глава",
+      "title_orig": "Fa nei qing 2",
+      "translation": {
+        "id": 694,
+        "title": "Береговых",
+        "type": "voice"
+      },
+      "year": 1989,
+      "kinopoisk_id": "266121",
+      "imdb_id": "tt0097320",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-12-10T07:47:40Z",
+      "updated_at": "2019-12-10T07:47:40Z"
+    },
+    {
       "id": "movie-46086",
       "type": "foreign-movie",
       "link": "",
@@ -2241,114 +2321,6 @@
       "blocked_countries": [],
       "created_at": "2019-12-09T13:09:34Z",
       "updated_at": "2019-12-09T13:09:34Z"
-    },
-    {
-      "id": "serial-20135",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Сказание об Арслане [ТВ-2]",
-      "title_orig": "Arslan Senki: Fuujin Ranbu",
-      "other_title": "The Heroic Legend of Arslan: Dust Storm Dance",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 2,
-      "last_episode": 8,
-      "episodes_count": 8,
-      "kinopoisk_id": "943888",
-      "imdb_id": "tt5023666",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8511",
-      "shikimori_id": "31821",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-12-09T13:00:07Z",
-      "updated_at": "2019-12-09T13:05:18Z"
-    },
-    {
-      "id": "serial-20136",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Сказание об Арслане [ТВ-1]",
-      "title_orig": "Arslan Senki (2015)",
-      "other_title": "The Heroic Legend of Arslan (2015)",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 1,
-      "last_episode": 25,
-      "episodes_count": 26,
-      "kinopoisk_id": "943888",
-      "imdb_id": "tt5023666",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8197",
-      "shikimori_id": "28249",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-12-09T13:05:11Z",
-      "updated_at": "2019-12-09T13:05:11Z"
-    },
-    {
-      "id": "serial-20134",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Сказание об Арслане OVA",
-      "title_orig": "Arslan Senki",
-      "other_title": "The Heroic Legend of Arslan",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 1991,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "64100",
-      "imdb_id": "tt0103720",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=644",
-      "shikimori_id": "1762",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-12-09T12:56:58Z",
-      "updated_at": "2019-12-09T12:56:58Z"
-    },
-    {
-      "id": "serial-20118",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Индекс волшебства [ТВ-2]",
-      "title_orig": "Toaru Majutsu no Index II",
-      "other_title": "A Certain Magical Index II",
-      "translation": {
-        "id": 739,
-        "title": "Animedia",
-        "type": "voice"
-      },
-      "year": 2010,
-      "last_season": 2,
-      "last_episode": 24,
-      "episodes_count": 24,
-      "kinopoisk_id": "437359",
-      "imdb_id": "tt1308089",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6609",
-      "shikimori_id": "8937",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-12-08T17:21:09Z",
-      "updated_at": "2019-12-09T09:26:56Z"
     }
   ]
 }

@@ -1,6 +1,100 @@
 {
   "results": [
     {
+      "id": "movie-45847",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Послание",
+      "title_orig": "Feng sheng",
+      "translation": {
+        "id": 598,
+        "title": "Сербин",
+        "type": "voice"
+      },
+      "year": 2009,
+      "kinopoisk_id": "470895",
+      "imdb_id": "tt1434423",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-12-05T05:54:58Z",
+      "updated_at": "2019-12-05T05:54:58Z"
+    },
+    {
+      "id": "movie-45846",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Послание",
+      "title_orig": "Feng sheng",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2009,
+      "kinopoisk_id": "470895",
+      "imdb_id": "tt1434423",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-12-05T05:53:59Z",
+      "updated_at": "2019-12-05T05:53:59Z"
+    },
+    {
+      "id": "serial-5315",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Боевые библиотекари: Книга Банторры",
+      "title_orig": "Tatakau Shisho: The Book of Bantorra",
+      "other_title": "Войны Библиотекарей: Книга Банторры / The Book of Bantorra",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2009,
+      "last_season": 1,
+      "last_episode": 27,
+      "episodes_count": 27,
+      "kinopoisk_id": "666662",
+      "imdb_id": "tt1706644",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7345",
+      "shikimori_id": "6758",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-10-29T15:53:48Z",
+      "updated_at": "2019-12-05T05:51:42Z"
+    },
+    {
+      "id": "serial-8303",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Борьба за власть времён бакумацу - никто не вечен",
+      "title_orig": "Bakumatsu Kikansetsu Irohanihoheto",
+      "other_title": "Intrigue in the Bakumatsu: Irohanihoheto",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2006,
+      "last_season": 1,
+      "last_episode": 26,
+      "episodes_count": 26,
+      "kinopoisk_id": "480513",
+      "imdb_id": "tt1359083",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5954",
+      "shikimori_id": "1576",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-01-04T05:06:17Z",
+      "updated_at": "2019-12-05T05:45:49Z"
+    },
+    {
       "id": "serial-5323",
       "type": "anime-serial",
       "link": "",
@@ -2474,100 +2568,6 @@
       "blocked_seasons": {},
       "created_at": "2017-11-26T17:30:35Z",
       "updated_at": "2019-12-03T07:58:00Z"
-    },
-    {
-      "id": "serial-5637",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Девочка-волшебница Мадока [ТВ]",
-      "title_orig": "Mahou Shoujo Madoka Magica",
-      "other_title": "Волшебница Мадока Магика / Puella Magi Madoka Magica",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2011,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "574536",
-      "imdb_id": "tt1773185",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8039",
-      "shikimori_id": "9756",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-05T16:20:43Z",
-      "updated_at": "2019-12-03T07:55:53Z"
-    },
-    {
-      "id": "movie-45767",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Взвейся в небо",
-      "title_orig": "R2B: riteontu beyiseu",
-      "translation": {
-        "id": 613,
-        "title": "DeadSno & den904",
-        "type": "voice"
-      },
-      "year": 2012,
-      "kinopoisk_id": "692266",
-      "imdb_id": "tt2253742",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-12-03T07:55:12Z",
-      "updated_at": "2019-12-03T07:55:12Z"
-    },
-    {
-      "id": "serial-5224",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Дьявольский принц Энма",
-      "title_orig": "Dororon Enma-kun: Meeramera",
-      "other_title": "Адский патруль Энмы! Дадим Жару! / Доророн Энма-кун / Ghastly Prince Enma Burning Up",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2011,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "624267",
-      "imdb_id": "tt1856932",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7951",
-      "shikimori_id": "9493",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-10-28T23:02:44Z",
-      "updated_at": "2019-12-03T07:54:16Z"
-    },
-    {
-      "id": "movie-45766",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Взвейся в небо",
-      "title_orig": "R2B: riteontu beyiseu",
-      "translation": {
-        "id": 620,
-        "title": "GREEN TEA",
-        "type": "voice"
-      },
-      "year": 2012,
-      "kinopoisk_id": "692266",
-      "imdb_id": "tt2253742",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-12-03T07:54:08Z",
-      "updated_at": "2019-12-03T07:54:08Z"
     }
   ]
 }

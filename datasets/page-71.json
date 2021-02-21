@@ -1,6 +1,98 @@
 {
   "results": [
     {
+      "id": "serial-24692",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Милая девушка",
+      "title_orig": "The Sweet Girl",
+      "other_title": "Милашка / Xiao nu shang fa jie wa",
+      "translation": {
+        "id": 556,
+        "title": "Jade Studio",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 5,
+      "episodes_count": 5,
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-11T12:50:20Z",
+      "updated_at": "2020-08-12T21:27:10Z"
+    },
+    {
+      "id": "movie-58854",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Бессмертный герой",
+      "title_orig": "Sekai kara kibo ga kietanara",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1283177",
+      "imdb_id": "tt10572668",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-12T21:13:01Z",
+      "updated_at": "2020-08-12T21:13:01Z"
+    },
+    {
+      "id": "serial-28652",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "От любви не убежать",
+      "title_orig": "Asktan Kaçilmaz",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 11,
+      "episodes_count": 11,
+      "kinopoisk_id": "909655",
+      "imdb_id": "tt4518946",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-12T20:57:02Z",
+      "updated_at": "2020-08-12T20:57:02Z"
+    },
+    {
+      "id": "serial-17779",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Президентский помощник",
+      "title_orig": "Bojwagwan",
+      "other_title": "Советник / Советник президента / Помощник президента / Глава администрации / Начальник штабa / Bojwagwan - Sesangeul Woomjikineun Saramdeul / Aide: People Make the World Go Round / The President`s Aide",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 2,
+      "last_episode": 10,
+      "episodes_count": 20,
+      "kinopoisk_id": "1232576",
+      "imdb_id": "tt10220476",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-07-26T20:28:55Z",
+      "updated_at": "2020-08-12T13:54:32Z"
+    },
+    {
       "id": "movie-58807",
       "type": "anime",
       "link": "",
@@ -2294,104 +2386,6 @@
       "blocked_seasons": {},
       "created_at": "2020-07-27T12:43:49Z",
       "updated_at": "2020-08-10T10:05:00Z"
-    },
-    {
-      "id": "serial-28541",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Флинт — детектив, путешествующий во времени",
-      "title_orig": "Jikuu Tantei Genshi-kun",
-      "other_title": "Flint the Time Detective",
-      "translation": {
-        "id": 710,
-        "title": "РенТВ",
-        "type": "voice"
-      },
-      "year": 1998,
-      "last_season": 1,
-      "last_episode": 39,
-      "episodes_count": 38,
-      "kinopoisk_id": "695906",
-      "imdb_id": "tt0238782",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3438",
-      "shikimori_id": "2281",
-      "quality": "VHSRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-10T09:08:14Z",
-      "updated_at": "2020-08-10T09:08:14Z"
-    },
-    {
-      "id": "serial-28540",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Захватчики комнаты в шесть татами",
-      "title_orig": "Rokujouma no Shinryakusha!?",
-      "other_title": "Захватчики шести татами",
-      "translation": {
-        "id": 739,
-        "title": "Animedia",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "880692",
-      "imdb_id": "tt3633800",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2142",
-      "shikimori_id": "22865",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-10T09:02:35Z",
-      "updated_at": "2020-08-10T09:02:35Z"
-    },
-    {
-      "id": "movie-58744",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Любовь – проблема для отаку",
-      "title_orig": "Wotaku ni Koi wa Muzukashii",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2020,
-      "kinopoisk_id": "1197648",
-      "imdb_id": "tt9018612",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-10T08:56:33Z",
-      "updated_at": "2020-08-10T08:56:33Z"
-    },
-    {
-      "id": "serial-28066",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Профессиональная жена",
-      "title_orig": "Job - Wife",
-      "other_title": "Mia Archeep / Job as a Wife / Perfect Wife",
-      "translation": {
-        "id": 864,
-        "title": "Julia Prosenuk",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "mdl_id": "38755-mia-archeep",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-25T14:40:23Z",
-      "updated_at": "2020-08-10T08:47:03Z"
     }
   ]
 }

@@ -1,6 +1,96 @@
 {
   "results": [
     {
+      "id": "movie-59240",
+      "type": "anime",
+      "link": "",
+      "title": "Сверхплоская монограмма",
+      "title_orig": "Superflat Monogram",
+      "other_title": "スーパーフラット・モノグラム / すーぱーふらっと・ものぐらむ",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 2003,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6382",
+      "shikimori_id": "2290",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-21T11:28:59Z",
+      "updated_at": "2020-08-21T11:28:59Z"
+    },
+    {
+      "id": "movie-59239",
+      "type": "anime",
+      "link": "",
+      "title": "Идолмастер: Жить для тебя!",
+      "title_orig": "The Idolmaster: Live for You!",
+      "other_title": "The Idolm@ster: Live For You! / The Idolm@ster Live For You!",
+      "translation": {
+        "id": 1041,
+        "title": "Eladiel",
+        "type": "voice"
+      },
+      "year": 2008,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6856",
+      "shikimori_id": "4033",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-21T11:26:54Z",
+      "updated_at": "2020-08-21T11:26:54Z"
+    },
+    {
+      "id": "movie-59238",
+      "type": "anime",
+      "link": "",
+      "title": "Покемон: Тайный властитель миражных покемонов",
+      "title_orig": "Special: The Mastermind of Mirage Pokémon",
+      "other_title": "Senritsu no Mirage Pokemon / Pokemon: The Mastermind of Mirage Pokemon / Pokemon 10th Anniversary Special",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2006,
+      "kinopoisk_id": "450555",
+      "imdb_id": "tt1371721",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6701",
+      "shikimori_id": "1527",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-21T11:24:11Z",
+      "updated_at": "2020-08-21T11:24:11Z"
+    },
+    {
+      "id": "serial-28850",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Для сердца 2 OVA-1",
+      "title_orig": "To Heart 2 (2007)",
+      "other_title": "トゥハート2 (2007)",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2007,
+      "last_season": 2,
+      "last_episode": 3,
+      "episodes_count": 3,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6144",
+      "shikimori_id": "1720",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-21T11:22:15Z",
+      "updated_at": "2020-08-21T11:22:15Z"
+    },
+    {
       "id": "serial-28849",
       "type": "anime-serial",
       "link": "",
@@ -2274,96 +2364,6 @@
       "blocked_seasons": {},
       "created_at": "2020-08-05T16:54:48Z",
       "updated_at": "2020-08-18T07:42:25Z"
-    },
-    {
-      "id": "serial-28769",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Комната 9",
-      "title_orig": "Nain rum",
-      "other_title": "Комната номер девять / Комната № 9 / Камера № 9 / Room №9 / Room No. 9 / Room Number Nine / Room Nine / Nainroom / Nainrum / na-in-rum",
-      "translation": {
-        "id": 622,
-        "title": "HighHopes",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1174439",
-      "imdb_id": "tt8970084",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-18T05:03:59Z",
-      "updated_at": "2020-08-18T07:38:24Z"
-    },
-    {
-      "id": "movie-59073",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Псих в маске",
-      "title_orig": "Kamen Byoto",
-      "translation": {
-        "id": 791,
-        "title": "RealFake",
-        "type": "voice"
-      },
-      "year": 2020,
-      "kinopoisk_id": "1320416",
-      "imdb_id": "tt11257832",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-18T07:35:21Z",
-      "updated_at": "2020-08-18T07:35:52Z"
-    },
-    {
-      "id": "serial-27708",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Поезд",
-      "title_orig": "Teurein",
-      "other_title": "Train",
-      "translation": {
-        "id": 639,
-        "title": "SoftBox",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1365994",
-      "imdb_id": "tt11827694",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-12T12:59:30Z",
-      "updated_at": "2020-08-18T07:32:39Z"
-    },
-    {
-      "id": "movie-59072",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Авианосец «Ибуки»",
-      "title_orig": "Kubo Ibuki",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1209002",
-      "imdb_id": "tt8649224",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-18T06:34:18Z",
-      "updated_at": "2020-08-18T06:34:18Z"
     }
   ]
 }

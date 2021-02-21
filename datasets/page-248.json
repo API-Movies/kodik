@@ -1,6 +1,91 @@
 {
   "results": [
     {
+      "id": "serial-17601",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Спасибо",
+      "title_orig": "Thank You",
+      "other_title": "We Were There / Komabseubnida / Gomap seupnida",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2007,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "839508",
+      "imdb_id": "tt1765453",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-07-15T22:04:42Z",
+      "updated_at": "2019-07-15T22:04:42Z"
+    },
+    {
+      "id": "movie-39788",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Зомбиармия",
+      "title_orig": "Zombiepura",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1122187",
+      "imdb_id": "tt8001748",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-15T18:16:39Z",
+      "updated_at": "2019-07-15T18:16:39Z"
+    },
+    {
+      "id": "movie-39777",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Бывает же",
+      "title_orig": "Khdeba kholme...",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1988,
+      "kinopoisk_id": "373404",
+      "imdb_id": "tt0821993",
+      "quality": "DVBRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-15T13:00:02Z",
+      "updated_at": "2019-07-15T13:00:02Z"
+    },
+    {
+      "id": "movie-39778",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Моя бабушка",
+      "title_orig": "Chemi bebia",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1929,
+      "kinopoisk_id": "45483",
+      "imdb_id": "tt0249816",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-15T12:59:05Z",
+      "updated_at": "2019-07-15T12:59:05Z"
+    },
+    {
       "id": "movie-39779",
       "type": "russian-movie",
       "link": "",
@@ -1997,86 +2082,6 @@
       "blocked_countries": [],
       "created_at": "2019-07-12T05:17:18Z",
       "updated_at": "2019-07-12T05:17:18Z"
-    },
-    {
-      "id": "movie-39637",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Трамвай в другие города",
-      "title_orig": "Трамвай в другие города",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1962,
-      "kinopoisk_id": "585205",
-      "imdb_id": "tt3898784",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-12T05:15:50Z",
-      "updated_at": "2019-07-12T05:15:50Z"
-    },
-    {
-      "id": "movie-39638",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Урок жизни",
-      "title_orig": "Urok zhizni",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1955,
-      "kinopoisk_id": "42532",
-      "imdb_id": "tt0048770",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-12T05:14:45Z",
-      "updated_at": "2019-07-12T05:14:45Z"
-    },
-    {
-      "id": "movie-39639",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Весенние голоса",
-      "title_orig": "Vesenniye golosa",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1955,
-      "kinopoisk_id": "45740",
-      "imdb_id": "tt0049790",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-12T05:13:29Z",
-      "updated_at": "2019-07-12T05:13:29Z"
-    },
-    {
-      "id": "movie-39640",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Вольница",
-      "title_orig": "Volnitsa",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1956,
-      "kinopoisk_id": "45830",
-      "imdb_id": "tt0048796",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-12T05:12:54Z",
-      "updated_at": "2019-07-12T05:12:54Z"
     }
   ]
 }

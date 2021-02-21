@@ -1,6 +1,100 @@
 {
   "results": [
     {
+      "id": "serial-30831",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Секретарь",
+      "title_orig": "El Secretario",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2011,
+      "last_season": 1,
+      "last_episode": 124,
+      "episodes_count": 124,
+      "kinopoisk_id": "644530",
+      "imdb_id": "tt2048219",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-12-16T12:57:51Z",
+      "updated_at": "2020-12-16T12:57:51Z"
+    },
+    {
+      "id": "movie-64528",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Раскрашенная кожа",
+      "title_orig": "The Painted Skin",
+      "translation": {
+        "id": 1510,
+        "title": "FSG Libertas.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "mdl_id": "63035-almost-human",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-16T12:36:07Z",
+      "updated_at": "2020-12-16T12:36:07Z"
+    },
+    {
+      "id": "serial-30240",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Безграничная любовь",
+      "title_orig": "Bepanah Pyarr",
+      "translation": {
+        "id": 1566,
+        "title": "FSG STAR PLUS TV.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 190,
+      "episodes_count": 190,
+      "kinopoisk_id": "1275027",
+      "imdb_id": "tt10285314",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-11-29T09:02:18Z",
+      "updated_at": "2020-12-16T12:23:10Z"
+    },
+    {
+      "id": "serial-27340",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Индекс волшебства [ТВ-1]",
+      "title_orig": "Toaru Majutsu no Index",
+      "other_title": "A Certain Magical Index",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2008,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 24,
+      "kinopoisk_id": "437359",
+      "imdb_id": "tt1308089",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6989",
+      "shikimori_id": "4654",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-07-01T18:03:33Z",
+      "updated_at": "2020-12-16T12:17:55Z"
+    },
+    {
       "id": "serial-29732",
       "type": "foreign-serial",
       "link": "",
@@ -2001,85 +2095,6 @@
       "blocked_countries": [],
       "created_at": "2020-12-15T07:06:59Z",
       "updated_at": "2020-12-15T07:06:59Z"
-    },
-    {
-      "id": "movie-64384",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Отзвуки прошлого",
-      "title_orig": "Antsyali ardzaganqnere",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1971,
-      "kinopoisk_id": "224228",
-      "imdb_id": "tt0410409",
-      "quality": "IPTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-12-15T07:06:09Z",
-      "updated_at": "2020-12-15T07:06:09Z"
-    },
-    {
-      "id": "movie-64385",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Водопад",
-      "title_orig": "Водопад",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1973,
-      "kinopoisk_id": "1338451",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-12-15T07:05:17Z",
-      "updated_at": "2020-12-15T07:05:17Z"
-    },
-    {
-      "id": "movie-64386",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Взрыв после полуночи",
-      "title_orig": "Paytyun kesgisherits heto",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1969,
-      "kinopoisk_id": "224298",
-      "imdb_id": "tt0410431",
-      "quality": "IPTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-12-15T07:02:40Z",
-      "updated_at": "2020-12-15T07:02:40Z"
-    },
-    {
-      "id": "movie-64387",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Валентина",
-      "title_orig": "Valentina",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1981,
-      "kinopoisk_id": "45655",
-      "imdb_id": "tt0083274",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-12-15T07:01:54Z",
-      "updated_at": "2020-12-15T07:01:54Z"
     }
   ]
 }

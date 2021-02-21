@@ -1,6 +1,93 @@
 {
   "results": [
     {
+      "id": "movie-23508",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Брачная гармония",
+      "title_orig": "Gunghap",
+      "other_title": "Marital Harmony",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "995878",
+      "imdb_id": "tt5961314",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-05-07T12:14:05Z",
+      "updated_at": "2019-09-20T22:54:03Z"
+    },
+    {
+      "id": "serial-17883",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Когда Дьявол назовёт твоё имя",
+      "title_orig": "Akmaga neoui ireumeul bureul ttae",
+      "other_title": "Когда Дьявол зовет тебя по имени / When the Devil Calls Your Name / Akmaga Neoui Yireumeul Booreul Ddae",
+      "translation": {
+        "id": 639,
+        "title": "SoftBox",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "1197773",
+      "imdb_id": "tt10015794",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-08-02T02:34:27Z",
+      "updated_at": "2019-09-20T22:52:44Z"
+    },
+    {
+      "id": "movie-42606",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Сакурада рисет, часть 2",
+      "title_orig": "Sakurada risetto kouhen",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1006737",
+      "imdb_id": "tt6090764",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-20T18:16:09Z",
+      "updated_at": "2019-09-20T18:16:09Z"
+    },
+    {
+      "id": "movie-42015",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Божественная ярость",
+      "title_orig": "Saja",
+      "other_title": "The Divine Fury",
+      "translation": {
+        "id": 639,
+        "title": "SoftBox",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1112788",
+      "imdb_id": "tt10550884",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-07T20:11:44Z",
+      "updated_at": "2019-09-20T18:14:44Z"
+    },
+    {
       "id": "movie-42552",
       "type": "foreign-movie",
       "link": "",
@@ -2042,89 +2129,6 @@
       "blocked_countries": [],
       "created_at": "2019-09-14T05:49:18Z",
       "updated_at": "2019-09-14T05:49:18Z"
-    },
-    {
-      "id": "serial-18280",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Земля любви, земля надежды",
-      "title_orig": "Terra Speranza",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2002,
-      "last_season": 1,
-      "last_episode": 220,
-      "episodes_count": 220,
-      "kinopoisk_id": "231145",
-      "imdb_id": "tt0288401",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-08-28T10:49:58Z",
-      "updated_at": "2019-09-13T16:36:41Z"
-    },
-    {
-      "id": "movie-42298",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Семья 420. Возвращение",
-      "title_orig": "Family 420 Once Again",
-      "translation": {
-        "id": 819,
-        "title": "AlphaProject",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1179471",
-      "imdb_id": "tt8733862",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-13T10:53:36Z",
-      "updated_at": "2019-09-13T10:53:36Z"
-    },
-    {
-      "id": "movie-42299",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Сакурада рисет, часть 1",
-      "title_orig": "Sakurada risetto zenpen",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1006736",
-      "imdb_id": "tt6070832",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-13T10:52:21Z",
-      "updated_at": "2019-09-13T10:52:21Z"
-    },
-    {
-      "id": "movie-42294",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Приди, приди, Кришная",
-      "title_orig": "Ra Ra Krishnayya",
-      "translation": {
-        "id": 959,
-        "title": "OnisFilms",
-        "type": "voice"
-      },
-      "year": 2014,
-      "imdb_id": "tt3822606",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-13T09:45:30Z",
-      "updated_at": "2019-09-13T09:45:30Z"
     }
   ]
 }

@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-27271",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мое последнее лето",
+      "title_orig": "Mon dernier été",
+      "translation": {
+        "id": 660,
+        "title": "GreenРай Studio",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1046896",
+      "imdb_id": "tt5562672",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-10-08T07:31:25Z",
+      "updated_at": "2018-10-08T07:31:25Z"
+    },
+    {
+      "id": "movie-27272",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Харизматы",
+      "title_orig": "Charismata",
+      "translation": {
+        "id": 660,
+        "title": "GreenРай Studio",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "975263",
+      "imdb_id": "tt5665022",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-10-08T07:29:47Z",
+      "updated_at": "2018-10-08T07:29:47Z"
+    },
+    {
+      "id": "movie-27279",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Крайность",
+      "title_orig": "Extremity",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1042849",
+      "imdb_id": "tt6664700",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-10-08T07:09:02Z",
+      "updated_at": "2018-10-08T07:09:02Z"
+    },
+    {
+      "id": "movie-27281",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Загадочная гаражная распродажа. Убийства ящика Пандоры",
+      "title_orig": "Garage Sale Mystery: Pandora's Box",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1148375",
+      "imdb_id": "tt8045978",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-10-08T07:05:54Z",
+      "updated_at": "2018-10-08T07:05:54Z"
+    },
+    {
       "id": "movie-27282",
       "type": "foreign-movie",
       "link": "",
@@ -2265,90 +2345,6 @@
       "blocked_seasons": {},
       "created_at": "2017-06-01T21:32:36Z",
       "updated_at": "2018-09-26T18:15:49Z"
-    },
-    {
-      "id": "serial-11463",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Энн",
-      "title_orig": "Anne",
-      "translation": {
-        "id": 618,
-        "title": "GoldTeam",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 7,
-      "episodes_count": 7,
-      "kinopoisk_id": "1009510",
-      "imdb_id": "tt5421602",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-07-07T19:26:16Z",
-      "updated_at": "2018-09-26T17:07:22Z"
-    },
-    {
-      "id": "movie-26677",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Падре",
-      "title_orig": "The Padre",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1090419",
-      "imdb_id": "tt6782276",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-09-13T14:39:22Z",
-      "updated_at": "2018-09-26T13:43:25Z"
-    },
-    {
-      "id": "movie-27008",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Дневники Осло",
-      "title_orig": "The Oslo Diaries",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1111993",
-      "imdb_id": "tt7689940",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-09-26T13:39:25Z",
-      "updated_at": "2018-09-26T13:39:25Z"
-    },
-    {
-      "id": "movie-6203",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Никто не узнает",
-      "title_orig": "Dare mo shiranai",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2004,
-      "kinopoisk_id": "79929",
-      "imdb_id": "tt0408664",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-04-27T10:23:32Z",
-      "updated_at": "2018-09-26T05:25:46Z"
     }
   ]
 }

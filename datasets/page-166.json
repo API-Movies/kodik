@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-48249",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Есть сэр!",
+      "title_orig": "Shen tan Power zhi wen mi zhui xiong",
+      "translation": {
+        "id": 680,
+        "title": "den904",
+        "type": "voice"
+      },
+      "year": 1994,
+      "kinopoisk_id": "37378",
+      "imdb_id": "tt0111166",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-24T11:01:51Z",
+      "updated_at": "2020-01-24T11:01:51Z"
+    },
+    {
+      "id": "movie-48250",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Доспех: Самурай-зомби",
+      "title_orig": "Yoroi: Samurai zonbi",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2008,
+      "kinopoisk_id": "427530",
+      "imdb_id": "tt1037229",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-24T11:00:41Z",
+      "updated_at": "2020-01-24T11:00:41Z"
+    },
+    {
+      "id": "movie-48251",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Годзилла: Парад монстров",
+      "title_orig": "Kaijû sôshingeki",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 1968,
+      "kinopoisk_id": "93499",
+      "imdb_id": "tt0063172",
+      "quality": "HDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-24T10:49:09Z",
+      "updated_at": "2020-01-24T10:49:09Z"
+    },
+    {
+      "id": "movie-48252",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Чёрный и белый: Начало",
+      "title_orig": "Pi zi ying xiong shou bu qu: Quan mian kai zhan",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "647248",
+      "imdb_id": "tt2414370",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-24T10:47:12Z",
+      "updated_at": "2020-01-24T10:47:12Z"
+    },
+    {
       "id": "movie-48253",
       "type": "foreign-movie",
       "link": "",
@@ -2205,103 +2285,6 @@
       "blocked_countries": [],
       "created_at": "2020-01-22T15:58:49Z",
       "updated_at": "2020-01-22T15:58:49Z"
-    },
-    {
-      "id": "movie-48135",
-      "type": "anime",
-      "link": "",
-      "title": "Мерседес-Бенц A-Класса",
-      "title_orig": "Next A-Class",
-      "other_title": "Новый А-класс",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 2012,
-      "imdb_id": "tt7111410",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1236",
-      "shikimori_id": "16331",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-22T15:53:45Z",
-      "updated_at": "2020-01-22T15:53:45Z"
-    },
-    {
-      "id": "serial-21618",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Боевые куклы",
-      "title_orig": "Power Dolls",
-      "other_title": "パワードール",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 1996,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "kinopoisk_id": "872969",
-      "imdb_id": "tt0363903",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4072",
-      "shikimori_id": "1820",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-01-22T15:52:33Z",
-      "updated_at": "2020-01-22T15:52:33Z"
-    },
-    {
-      "id": "movie-48134",
-      "type": "anime",
-      "link": "",
-      "title": "Цугумомо OVA",
-      "title_orig": "Tsugumomo (2020)",
-      "other_title": "つぐもも (2020)",
-      "translation": {
-        "id": 910,
-        "title": "AniStar",
-        "type": "voice"
-      },
-      "year": 2020,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10244",
-      "shikimori_id": "39470",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-22T15:49:21Z",
-      "updated_at": "2020-01-22T15:49:21Z"
-    },
-    {
-      "id": "serial-8148",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Школа убийц OVA",
-      "title_orig": "Gunslinger Girl: Il Teatrino",
-      "other_title": "Школа убийц: Театр марионеток",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 2008,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "kinopoisk_id": "703228",
-      "imdb_id": "tt1524247",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7054",
-      "shikimori_id": "4765",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-01-02T02:37:41Z",
-      "updated_at": "2020-01-22T14:57:25Z"
     }
   ]
 }

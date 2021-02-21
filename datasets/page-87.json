@@ -1,6 +1,93 @@
 {
   "results": [
     {
+      "id": "movie-57069",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Храбрецы",
+      "title_orig": "Lie huo ying xiong",
+      "translation": {
+        "id": 675,
+        "title": "zamez",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1258553",
+      "imdb_id": "tt10218674",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-06-24T07:16:42Z",
+      "updated_at": "2020-06-24T07:16:42Z"
+    },
+    {
+      "id": "movie-57070",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Подлинная история заключённой: Сексуальный ад",
+      "title_orig": "Jitsuroku onna kanbetsusho: Sei-jigoku",
+      "translation": {
+        "id": 857,
+        "title": "Воротилин",
+        "type": "voice"
+      },
+      "year": 1975,
+      "kinopoisk_id": "325376",
+      "imdb_id": "tt0228461",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-06-24T07:13:33Z",
+      "updated_at": "2020-06-24T07:13:33Z"
+    },
+    {
+      "id": "movie-57072",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Ип Ман 4",
+      "title_orig": "Yip Man 4",
+      "translation": {
+        "id": 582,
+        "title": "Есарев",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "634254",
+      "imdb_id": "tt2076298",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-06-24T07:00:22Z",
+      "updated_at": "2020-06-24T07:00:22Z"
+    },
+    {
+      "id": "serial-25353",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Моя реинкарнация в отомэ-игре в качестве главной злодейки",
+      "title_orig": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta...",
+      "other_title": "Моя реинкарнация в отомэ-игру в качестве главной злодейки / Я переродилась в Отоме-игре как главная злодейка / My Next Life as a Villainess: All Routes Lead to Doom!",
+      "translation": {
+        "id": 1237,
+        "title": "Jisedai",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1313574",
+      "imdb_id": "tt11821792",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10164",
+      "shikimori_id": "38555",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-03T06:45:03Z",
+      "updated_at": "2020-06-24T04:17:37Z"
+    },
+    {
       "id": "serial-26885",
       "type": "foreign-serial",
       "link": "",
@@ -2435,110 +2522,6 @@
       "blocked_countries": [],
       "created_at": "2020-06-19T21:34:08Z",
       "updated_at": "2020-06-19T21:34:08Z"
-    },
-    {
-      "id": "serial-24377",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Волны, слушайте меня",
-      "title_orig": "Nami yo Kiite Kure",
-      "other_title": "Волны, слушайте меня! / Волны слушайте меня / Радиоволна, Слушайте Меня! / Wave, Listen to Me!",
-      "translation": {
-        "id": 1273,
-        "title": "Wakanim.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1364796",
-      "imdb_id": "tt11785582",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10242",
-      "shikimori_id": "40513",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-03T20:51:02Z",
-      "updated_at": "2020-06-19T20:13:21Z"
-    },
-    {
-      "id": "serial-24371",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Волны, слушайте меня",
-      "title_orig": "Nami yo Kiite Kure",
-      "other_title": "Волны, слушайте меня! / Волны слушайте меня / Радиоволна, Слушайте Меня! / Wave, Listen to Me!",
-      "translation": {
-        "id": 643,
-        "title": "StudioBand",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1364796",
-      "imdb_id": "tt11785582",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10242",
-      "shikimori_id": "40513",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-03T18:50:46Z",
-      "updated_at": "2020-06-19T20:12:09Z"
-    },
-    {
-      "id": "serial-24370",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Слушатели",
-      "title_orig": "Listeners",
-      "other_title": "リスナーズ",
-      "translation": {
-        "id": 643,
-        "title": "StudioBand",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1353303",
-      "imdb_id": "tt10487750",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10379",
-      "shikimori_id": "40165",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-03T18:48:11Z",
-      "updated_at": "2020-06-19T20:11:40Z"
-    },
-    {
-      "id": "serial-24899",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Щенячья любовь: любовь подростков",
-      "title_orig": "Puppy love",
-      "other_title": "Щенячья любовь: подростки-негодники / Puppy Love Wai Pan Seb",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-18T11:31:06Z",
-      "updated_at": "2020-06-19T20:11:08Z"
     }
   ]
 }

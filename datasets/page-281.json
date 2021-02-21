@@ -1,6 +1,90 @@
 {
   "results": [
     {
+      "id": "serial-15715",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Хюррем Султан",
+      "title_orig": "Hürrem Sultan",
+      "translation": {
+        "id": 743,
+        "title": "BaibaKo",
+        "type": "voice"
+      },
+      "year": 2003,
+      "last_season": 1,
+      "last_episode": 8,
+      "episodes_count": 8,
+      "kinopoisk_id": "623705",
+      "imdb_id": "tt0424656",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-03-03T10:32:21Z",
+      "updated_at": "2019-03-05T11:59:42Z"
+    },
+    {
+      "id": "movie-33147",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Чужая жена и муж под кроватью",
+      "title_orig": "Chuzhaya zhena i muzh pod krovatyu",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1984,
+      "kinopoisk_id": "79878",
+      "imdb_id": "tt0087058",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-03-05T08:14:55Z",
+      "updated_at": "2019-03-05T08:14:55Z"
+    },
+    {
+      "id": "movie-33148",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Двенадцатая ночь",
+      "title_orig": "Dvenadtsataya noch",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1955,
+      "kinopoisk_id": "195661",
+      "imdb_id": "tt0049166",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-03-05T08:11:09Z",
+      "updated_at": "2019-03-05T08:11:09Z"
+    },
+    {
+      "id": "movie-33150",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Моя война",
+      "title_orig": "Wo de zhan zheng",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "998771",
+      "imdb_id": "tt6177592",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-03-05T08:08:59Z",
+      "updated_at": "2019-03-05T08:08:59Z"
+    },
+    {
       "id": "movie-33134",
       "type": "russian-movie",
       "link": "",
@@ -2065,94 +2149,6 @@
       "blocked_countries": [],
       "created_at": "2019-02-23T17:09:50Z",
       "updated_at": "2019-02-23T17:10:43Z"
-    },
-    {
-      "id": "movie-32741",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Первый раз",
-      "title_orig": "The First Time",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2018,
-      "imdb_id": "tt9827712",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-23T17:08:07Z",
-      "updated_at": "2019-02-23T17:08:07Z"
-    },
-    {
-      "id": "movie-32740",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Время Ашуры",
-      "title_orig": "Time of the Ashura",
-      "other_title": "Shi Guang Ji Zhi A Xiu Luo",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2017,
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-23T17:07:04Z",
-      "updated_at": "2019-02-23T17:07:04Z"
-    },
-    {
-      "id": "serial-13421",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Обещание богу",
-      "title_orig": "Singwaui yaksok",
-      "other_title": "A Promise With God / A Pledge To God",
-      "translation": {
-        "id": 639,
-        "title": "SoftBox",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 24,
-      "episodes_count": 24,
-      "kinopoisk_id": "1197735",
-      "imdb_id": "tt9257510",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-11-25T16:14:16Z",
-      "updated_at": "2019-02-23T17:04:40Z"
-    },
-    {
-      "id": "serial-13384",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Последняя императрица",
-      "title_orig": "Hwanghuui pumgyeok",
-      "other_title": "Достоинство императрицы / An Empress's Dignity / The Last Empress / Hwanghooui Poomkyeok / hwang-hu-eui pum-gyeok",
-      "translation": {
-        "id": 639,
-        "title": "SoftBox",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 26,
-      "episodes_count": 26,
-      "kinopoisk_id": "1199547",
-      "imdb_id": "tt9146104",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-11-22T14:06:05Z",
-      "updated_at": "2019-02-22T22:01:54Z"
     }
   ]
 }

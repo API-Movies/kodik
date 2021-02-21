@@ -1,6 +1,99 @@
 {
   "results": [
     {
+      "id": "movie-59322",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Бурёнка из Маслёнкино",
+      "title_orig": "Buryonka iz Maslyonkino",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1973,
+      "kinopoisk_id": "465625",
+      "imdb_id": "tt2382905",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-24T06:09:31Z",
+      "updated_at": "2020-08-24T06:09:31Z"
+    },
+    {
+      "id": "movie-59323",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Будь здоров!",
+      "title_orig": "Будь здоров!",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1982,
+      "kinopoisk_id": "974198",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-24T06:08:40Z",
+      "updated_at": "2020-08-24T06:08:40Z"
+    },
+    {
+      "id": "serial-28949",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Пять невест [ТВ-1]",
+      "title_orig": "Go-Toubun no Hanayome",
+      "other_title": "The Quintessential Quintuplets",
+      "translation": {
+        "id": 1068,
+        "title": "Crunchyroll",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1228297",
+      "imdb_id": "tt9584920",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9793",
+      "shikimori_id": "38101",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-24T04:32:45Z",
+      "updated_at": "2020-08-24T04:32:45Z"
+    },
+    {
+      "id": "serial-21280",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Туалетный мальчик Ханако",
+      "title_orig": "Jibaku Shounen Hanako-kun",
+      "other_title": "Туалетный мальчик Ханако-кун / Toilet-Bound Hanako-kun",
+      "translation": {
+        "id": 767,
+        "title": "SHIZA Project",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1345974",
+      "imdb_id": "tt10777610",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10144",
+      "shikimori_id": "39534",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-15T12:32:35Z",
+      "updated_at": "2020-08-24T03:30:39Z"
+    },
+    {
       "id": "serial-28137",
       "type": "foreign-serial",
       "link": "",
@@ -2298,96 +2391,6 @@
       "blocked_countries": [],
       "created_at": "2020-08-21T11:30:28Z",
       "updated_at": "2020-08-21T11:30:28Z"
-    },
-    {
-      "id": "movie-59240",
-      "type": "anime",
-      "link": "",
-      "title": "Сверхплоская монограмма",
-      "title_orig": "Superflat Monogram",
-      "other_title": "スーパーフラット・モノグラム / すーぱーふらっと・ものぐらむ",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 2003,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6382",
-      "shikimori_id": "2290",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-21T11:28:59Z",
-      "updated_at": "2020-08-21T11:28:59Z"
-    },
-    {
-      "id": "movie-59239",
-      "type": "anime",
-      "link": "",
-      "title": "Идолмастер: Жить для тебя!",
-      "title_orig": "The Idolmaster: Live for You!",
-      "other_title": "The Idolm@ster: Live For You! / The Idolm@ster Live For You!",
-      "translation": {
-        "id": 1041,
-        "title": "Eladiel",
-        "type": "voice"
-      },
-      "year": 2008,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6856",
-      "shikimori_id": "4033",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-21T11:26:54Z",
-      "updated_at": "2020-08-21T11:26:54Z"
-    },
-    {
-      "id": "movie-59238",
-      "type": "anime",
-      "link": "",
-      "title": "Покемон: Тайный властитель миражных покемонов",
-      "title_orig": "Special: The Mastermind of Mirage Pokémon",
-      "other_title": "Senritsu no Mirage Pokemon / Pokemon: The Mastermind of Mirage Pokemon / Pokemon 10th Anniversary Special",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2006,
-      "kinopoisk_id": "450555",
-      "imdb_id": "tt1371721",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6701",
-      "shikimori_id": "1527",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-21T11:24:11Z",
-      "updated_at": "2020-08-21T11:24:11Z"
-    },
-    {
-      "id": "serial-28850",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Для сердца 2 OVA-1",
-      "title_orig": "To Heart 2 (2007)",
-      "other_title": "トゥハート2 (2007)",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2007,
-      "last_season": 2,
-      "last_episode": 3,
-      "episodes_count": 3,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6144",
-      "shikimori_id": "1720",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-21T11:22:15Z",
-      "updated_at": "2020-08-21T11:22:15Z"
     }
   ]
 }

@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-51939",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Я твой враг",
+      "title_orig": "Main Tera Dushman",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 1989,
+      "kinopoisk_id": "36628",
+      "imdb_id": "tt0097813",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-18T12:12:11Z",
+      "updated_at": "2020-03-18T12:12:11Z"
+    },
+    {
+      "id": "movie-51940",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Гуру: Путь к успеху",
+      "title_orig": "Guru",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2007,
+      "kinopoisk_id": "252221",
+      "imdb_id": "tt0499375",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-18T12:11:24Z",
+      "updated_at": "2020-03-18T12:11:24Z"
+    },
+    {
+      "id": "movie-51941",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Гуру",
+      "title_orig": "Guru",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 1989,
+      "kinopoisk_id": "95266",
+      "imdb_id": "tt0097466",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-18T12:10:02Z",
+      "updated_at": "2020-03-18T12:10:02Z"
+    },
+    {
+      "id": "movie-51942",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Маньяк",
+      "title_orig": "Dushman",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 1998,
+      "kinopoisk_id": "39674",
+      "imdb_id": "tt0189492",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-18T12:09:00Z",
+      "updated_at": "2020-03-18T12:09:00Z"
+    },
+    {
       "id": "movie-51943",
       "type": "foreign-movie",
       "link": "",
@@ -2285,109 +2365,6 @@
       "blocked_seasons": {},
       "created_at": "2020-03-17T02:15:28Z",
       "updated_at": "2020-03-17T02:15:28Z"
-    },
-    {
-      "id": "serial-23759",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Семейка Франкенштейн",
-      "title_orig": "Shiyan Pin Jiating",
-      "other_title": "Будни семейки монстров / Jikkenhin Kazoku: Creatures Family Days",
-      "translation": {
-        "id": 923,
-        "title": "AnimeVost",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1122906",
-      "imdb_id": "tt8254088",
-      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=77708",
-      "shikimori_id": "36397",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-03-17T02:10:25Z",
-      "updated_at": "2020-03-17T02:10:25Z"
-    },
-    {
-      "id": "serial-23755",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Связь душ",
-      "title_orig": "Soul Link",
-      "translation": {
-        "id": 827,
-        "title": "Persona99",
-        "type": "voice"
-      },
-      "year": 2006,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "408789",
-      "imdb_id": "tt0996255",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5728",
-      "shikimori_id": "854",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-03-16T22:45:24Z",
-      "updated_at": "2020-03-16T22:45:24Z"
-    },
-    {
-      "id": "movie-51784",
-      "type": "anime",
-      "link": "",
-      "title": "Дух чудес OVA-1",
-      "title_orig": "Spirit of Wonder: China-san no yûutsu",
-      "other_title": "Дух чудес: Кольцо мисс Чайны",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1992,
-      "kinopoisk_id": "331613",
-      "imdb_id": "tt0105456",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3613",
-      "shikimori_id": "2419",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-16T22:42:14Z",
-      "updated_at": "2020-03-16T22:42:14Z"
-    },
-    {
-      "id": "serial-23754",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Звездный гонщик: Блистательный Такуто [ТВ]",
-      "title_orig": "Star Driver: Kagayaki no Takuto",
-      "other_title": "Звездный пилот: Блистательный Такт / Звездный пилот: Блистательный Такуто",
-      "translation": {
-        "id": 827,
-        "title": "Persona99",
-        "type": "voice"
-      },
-      "year": 2010,
-      "last_season": 1,
-      "last_episode": 25,
-      "episodes_count": 25,
-      "kinopoisk_id": "602371",
-      "imdb_id": "tt1729627",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6603",
-      "shikimori_id": "8934",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-03-16T22:41:08Z",
-      "updated_at": "2020-03-16T22:41:08Z"
     }
   ]
 }

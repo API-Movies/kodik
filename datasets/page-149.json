@@ -1,6 +1,90 @@
 {
   "results": [
     {
+      "id": "movie-49634",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Герои не плачут",
+      "title_orig": "Ying xiong wu lei",
+      "translation": {
+        "id": 580,
+        "title": "Дольский",
+        "type": "voice"
+      },
+      "year": 1986,
+      "kinopoisk_id": "19254",
+      "imdb_id": "tt0092264",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-17T12:51:43Z",
+      "updated_at": "2020-02-17T12:51:43Z"
+    },
+    {
+      "id": "movie-49635",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Как управлять парнями",
+      "title_orig": "Tuo Dan Gao Ji",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1115282",
+      "imdb_id": "tt8319694",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-17T12:37:36Z",
+      "updated_at": "2020-02-17T12:37:36Z"
+    },
+    {
+      "id": "movie-49611",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Король обольщения",
+      "title_orig": "Ahbuwei Wang",
+      "translation": {
+        "id": 613,
+        "title": "DeadSno & den904",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "692531",
+      "imdb_id": "tt2658278",
+      "quality": "HDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-17T12:33:43Z",
+      "updated_at": "2020-02-17T12:33:43Z"
+    },
+    {
+      "id": "serial-21593",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Как поживаешь, хлеб?",
+      "title_orig": "Hawayubeuredeu",
+      "other_title": "How Are You Bread",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 5,
+      "episodes_count": 5,
+      "kinopoisk_id": "1044897",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-21T21:50:45Z",
+      "updated_at": "2020-02-17T12:24:32Z"
+    },
+    {
       "id": "serial-22885",
       "type": "foreign-serial",
       "link": "",
@@ -2336,93 +2420,6 @@
       "blocked_seasons": {},
       "created_at": "2020-02-15T11:07:25Z",
       "updated_at": "2020-02-15T11:07:25Z"
-    },
-    {
-      "id": "serial-22815",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Остров",
-      "title_orig": "Island",
-      "other_title": "アイランド / Airando",
-      "translation": {
-        "id": 1068,
-        "title": "Crunchyroll",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1184840",
-      "imdb_id": "tt8526106",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8731",
-      "shikimori_id": "33012",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-02-15T11:04:33Z",
-      "updated_at": "2020-02-15T11:04:33Z"
-    },
-    {
-      "id": "movie-49493",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "От судьбы не уйдешь",
-      "title_orig": "Milenge Milenge",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2010,
-      "kinopoisk_id": "224670",
-      "imdb_id": "tt0443331",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-02-15T08:54:07Z",
-      "updated_at": "2020-02-15T08:54:07Z"
-    },
-    {
-      "id": "movie-49500",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Долина волков: Палестина",
-      "title_orig": "Kurtlar Vadisi: Filistin",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2011,
-      "kinopoisk_id": "573640",
-      "imdb_id": "tt1784499",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-02-15T08:49:50Z",
-      "updated_at": "2020-02-15T08:49:50Z"
-    },
-    {
-      "id": "movie-49505",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Раны войны",
-      "title_orig": "Forbidden Ground",
-      "translation": {
-        "id": 679,
-        "title": "datynet",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "662526",
-      "imdb_id": "tt2186783",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-02-15T08:43:23Z",
-      "updated_at": "2020-02-15T08:43:23Z"
     }
   ]
 }

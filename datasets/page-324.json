@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-7617",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Бомбейский бархат",
+      "title_orig": "Bombay Velvet",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "770992",
+      "imdb_id": "tt2979920",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-10-05T18:44:46Z",
+      "updated_at": "2017-01-25T06:50:34Z"
+    },
+    {
+      "id": "movie-7618",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Брат Баджранги",
+      "title_orig": "Bajrangi Bhaijaan",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "844021",
+      "imdb_id": "tt3863552",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-10-05T18:46:43Z",
+      "updated_at": "2017-01-25T06:49:17Z"
+    },
+    {
+      "id": "movie-7359",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Потерявшиеся во тьме",
+      "title_orig": "Lost After Dark",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "817239",
+      "imdb_id": "tt3397556",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-09-01T19:19:51Z",
+      "updated_at": "2017-01-25T06:39:44Z"
+    },
+    {
+      "id": "movie-11407",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Сильмидо",
+      "title_orig": "Silmido",
+      "translation": {
+        "id": 816,
+        "title": "Одноголосый",
+        "type": "voice"
+      },
+      "year": 2003,
+      "kinopoisk_id": "64392",
+      "imdb_id": "tt0387596",
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-01-24T19:01:44Z",
+      "updated_at": "2017-01-24T19:01:44Z"
+    },
+    {
       "id": "movie-11668",
       "type": "foreign-movie",
       "link": "",
@@ -1978,91 +2058,6 @@
       "blocked_countries": [],
       "created_at": "2016-12-20T16:40:28Z",
       "updated_at": "2017-01-10T11:53:02Z"
-    },
-    {
-      "id": "movie-8251",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Она испекла убийство: Загадка шоколадного печенья",
-      "title_orig": "Murder, She Baked: A Chocolate Chip Cookie Mystery",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "900140",
-      "imdb_id": "tt4621642",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-01-11T18:14:54Z",
-      "updated_at": "2017-01-10T10:35:32Z"
-    },
-    {
-      "id": "movie-3935",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Этот демон внутри",
-      "title_orig": "Mo jing",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "772869",
-      "imdb_id": "tt3511542",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2014-12-20T20:34:38Z",
-      "updated_at": "2017-01-10T08:57:47Z"
-    },
-    {
-      "id": "serial-2526",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Ты назови",
-      "title_orig": "Adini sen koy",
-      "other_title": "Ты назови...",
-      "translation": {
-        "id": 684,
-        "title": "Kerems13",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 3,
-      "episodes_count": 3,
-      "kinopoisk_id": "1008811",
-      "imdb_id": "tt6091552",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2016-12-30T19:21:41Z",
-      "updated_at": "2017-01-10T08:54:25Z"
-    },
-    {
-      "id": "movie-6047",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Эту пару создал Бог",
-      "title_orig": "Rab Ne Bana Di Jodi",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2008,
-      "kinopoisk_id": "416168",
-      "imdb_id": "tt1182937",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-04-21T14:21:42Z",
-      "updated_at": "2017-01-10T05:36:12Z"
     }
   ]
 }

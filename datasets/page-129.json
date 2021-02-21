@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-52215",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Туалет: История любви",
+      "title_orig": "Toilet - Ek Prem Katha",
+      "translation": {
+        "id": 770,
+        "title": "ZEE TV",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "987309",
+      "imdb_id": "tt5785170",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-23T07:24:00Z",
+      "updated_at": "2020-03-23T07:24:00Z"
+    },
+    {
+      "id": "movie-52216",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Прикоснись и увидишь",
+      "title_orig": "Touch Chesi Chudu",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1018903",
+      "imdb_id": "tt6468814",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-23T07:22:30Z",
+      "updated_at": "2020-03-23T07:22:30Z"
+    },
+    {
+      "id": "movie-52217",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Кровь за кровь",
+      "title_orig": "Veera",
+      "translation": {
+        "id": 764,
+        "title": "Red Media",
+        "type": "voice"
+      },
+      "year": 2011,
+      "kinopoisk_id": "575061",
+      "imdb_id": "tt1783411",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-23T07:20:11Z",
+      "updated_at": "2020-03-23T07:20:11Z"
+    },
+    {
+      "id": "movie-52218",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Воскрешение",
+      "title_orig": "Mera Saaya",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 1966,
+      "kinopoisk_id": "96991",
+      "imdb_id": "tt0060689",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-23T07:19:15Z",
+      "updated_at": "2020-03-23T07:19:15Z"
+    },
+    {
       "id": "movie-52213",
       "type": "anime",
       "link": "",
@@ -2403,107 +2483,6 @@
       "blocked_seasons": {},
       "created_at": "2020-01-04T19:54:06Z",
       "updated_at": "2020-03-21T18:52:29Z"
-    },
-    {
-      "id": "serial-23965",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Обещание в тысячу дней",
-      "title_orig": "Cheonilui yaksok",
-      "other_title": "Незабудка / A Thousand Days' Promise / A Thousand Days' Promise / Forget Me Not",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2011,
-      "last_season": 1,
-      "last_episode": 20,
-      "episodes_count": 20,
-      "kinopoisk_id": "687943",
-      "imdb_id": "tt2262521",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-03-21T18:48:17Z",
-      "updated_at": "2020-03-21T18:48:17Z"
-    },
-    {
-      "id": "movie-52167",
-      "type": "anime",
-      "link": "",
-      "title": "Гравитационный пик",
-      "title_orig": "Gravity Daze The Animation: Ouverture",
-      "other_title": "Gravity Daze The Animation～Ouverture～",
-      "translation": {
-        "id": 612,
-        "title": "DeadLine Studio",
-        "type": "voice"
-      },
-      "year": 2016,
-      "imdb_id": "tt6357348",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9076",
-      "shikimori_id": "33697",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-21T14:41:19Z",
-      "updated_at": "2020-03-21T14:41:33Z"
-    },
-    {
-      "id": "serial-6651",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Нахальный ангел",
-      "title_orig": "Tenshi na Konamaiki",
-      "other_title": "A Cheeky Angel",
-      "translation": {
-        "id": 820,
-        "title": "animereactor",
-        "type": "voice"
-      },
-      "year": 2002,
-      "last_season": 1,
-      "last_episode": 50,
-      "episodes_count": 50,
-      "kinopoisk_id": "408609",
-      "imdb_id": "tt0346414",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2507",
-      "shikimori_id": "200",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-26T17:25:33Z",
-      "updated_at": "2020-03-21T14:37:54Z"
-    },
-    {
-      "id": "serial-23960",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Наука влюблена, и мы докажем это",
-      "title_orig": "Rikei ga Koi ni Ochita no de Shoumei Shite Mita.",
-      "other_title": "Влюблённые учёные и научное доказательство любви",
-      "translation": {
-        "id": 1272,
-        "title": "AniLibria.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1284427",
-      "imdb_id": "tt10635210",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10158",
-      "shikimori_id": "38992",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-03-21T13:28:31Z",
-      "updated_at": "2020-03-21T14:06:42Z"
     }
   ]
 }

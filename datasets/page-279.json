@@ -1,6 +1,87 @@
 {
   "results": [
     {
+      "id": "movie-33783",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Путешествие в прошлое",
+      "title_orig": "Cong cong na nian",
+      "translation": {
+        "id": 622,
+        "title": "HighHopes",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "860818",
+      "imdb_id": "tt4284020",
+      "quality": "HDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-03-20T05:43:27Z",
+      "updated_at": "2019-03-20T05:43:27Z"
+    },
+    {
+      "id": "movie-33786",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Драматичная ночь",
+      "title_orig": "Geugjeogin harutbam",
+      "translation": {
+        "id": 622,
+        "title": "HighHopes",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "923459",
+      "imdb_id": "tt4471608",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-03-20T05:37:00Z",
+      "updated_at": "2019-03-20T05:37:00Z"
+    },
+    {
+      "id": "movie-33766",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Любовный роман",
+      "title_orig": "Yeonae soseol",
+      "translation": {
+        "id": 622,
+        "title": "HighHopes",
+        "type": "voice"
+      },
+      "year": 2002,
+      "kinopoisk_id": "65109",
+      "imdb_id": "tt0328675",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-03-20T05:29:16Z",
+      "updated_at": "2019-03-20T05:29:16Z"
+    },
+    {
+      "id": "movie-25580",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Планета зверей",
+      "title_orig": "Dong wu shi jie",
+      "other_title": "Dongwu shijie",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1047812",
+      "imdb_id": "tt7946836",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-08-06T06:05:18Z",
+      "updated_at": "2019-03-20T05:01:11Z"
+    },
+    {
       "id": "movie-33761",
       "type": "foreign-movie",
       "link": "",
@@ -1992,86 +2073,6 @@
       "blocked_countries": [],
       "created_at": "2019-03-13T07:11:04Z",
       "updated_at": "2019-03-13T07:11:04Z"
-    },
-    {
-      "id": "movie-33464",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Умные вещи",
-      "title_orig": "Umnyye veshchi",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1973,
-      "kinopoisk_id": "427077",
-      "imdb_id": "tt4818936",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-13T06:42:04Z",
-      "updated_at": "2019-03-13T06:42:04Z"
-    },
-    {
-      "id": "movie-20094",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Принцесса на горошине",
-      "title_orig": "Принцесса на горошине",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1976,
-      "kinopoisk_id": "43267",
-      "imdb_id": "tt0075104",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-12-18T19:39:45Z",
-      "updated_at": "2019-03-13T06:40:46Z"
-    },
-    {
-      "id": "movie-33457",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Теетта Раппаи",
-      "title_orig": "Theetta Rappai",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1174081",
-      "imdb_id": "tt8671138",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-12T21:04:28Z",
-      "updated_at": "2019-03-13T06:37:44Z"
-    },
-    {
-      "id": "movie-33467",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Кровавые кулаки",
-      "title_orig": "Dang kou tan",
-      "translation": {
-        "id": 786,
-        "title": "Проф. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1972,
-      "kinopoisk_id": "154545",
-      "imdb_id": "tt0164522",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-13T06:36:40Z",
-      "updated_at": "2019-03-13T06:36:40Z"
     }
   ]
 }

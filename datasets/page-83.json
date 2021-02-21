@@ -1,6 +1,99 @@
 {
   "results": [
     {
+      "id": "serial-27256",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Последний",
+      "title_orig": "Laseuteu",
+      "other_title": "Последний в иерархии этого мира / Last",
+      "translation": {
+        "id": 641,
+        "title": "STEPonee",
+        "type": "voice"
+      },
+      "year": 2015,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "957245",
+      "imdb_id": "tt5057310",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-06-29T16:36:45Z",
+      "updated_at": "2020-07-04T19:44:52Z"
+    },
+    {
+      "id": "serial-27248",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Кольцо Руби",
+      "title_orig": "Rubi-ui banji",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2013,
+      "last_season": 1,
+      "last_episode": 93,
+      "episodes_count": 92,
+      "imdb_id": "tt5839312",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-06-29T15:02:15Z",
+      "updated_at": "2020-07-04T19:31:34Z"
+    },
+    {
+      "id": "serial-27437",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Верный Гиндзиро",
+      "title_orig": "Kouha Ginjirou",
+      "other_title": "硬派銀次郎",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 1991,
+      "last_season": 1,
+      "last_episode": 3,
+      "episodes_count": 3,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6231",
+      "shikimori_id": "24489",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-07-04T17:39:03Z",
+      "updated_at": "2020-07-04T17:39:03Z"
+    },
+    {
+      "id": "movie-57518",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мне нет 18",
+      "title_orig": "Em chua 18",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1125259",
+      "imdb_id": "tt6416676",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-04T16:56:45Z",
+      "updated_at": "2020-07-04T16:56:45Z"
+    },
+    {
       "id": "movie-57520",
       "type": "foreign-movie",
       "link": "",
@@ -2270,99 +2363,6 @@
       "blocked_seasons": {},
       "created_at": "2020-07-02T08:33:23Z",
       "updated_at": "2020-07-02T10:39:35Z"
-    },
-    {
-      "id": "serial-25326",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Восьмой сын? Да вы шутите!",
-      "title_orig": "Hachi-nan tte, Sore wa Nai deshou!",
-      "other_title": "Восьмой сын, я так не думаю! / Восьмой сын, я так не думаю / The 8th Son? Are You Kidding Me?",
-      "translation": {
-        "id": 1237,
-        "title": "Jisedai",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1360372",
-      "imdb_id": "tt11886172",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10147",
-      "shikimori_id": "38830",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-01T13:52:07Z",
-      "updated_at": "2020-07-02T10:11:48Z"
-    },
-    {
-      "id": "serial-27243",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Злодейка",
-      "title_orig": "True Life of a Drama Queen",
-      "other_title": "Nang Rai / Nangrai",
-      "translation": {
-        "id": 1000,
-        "title": "Еха",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 15,
-      "episodes_count": 15,
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-29T10:27:09Z",
-      "updated_at": "2020-07-02T10:11:16Z"
-    },
-    {
-      "id": "serial-23870",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Принцесса-лекарь",
-      "title_orig": "Princess at Large",
-      "other_title": "В целом принцесса / Yi Fei Nan Qiu",
-      "translation": {
-        "id": 1230,
-        "title": "myau myau",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-03-18T22:50:39Z",
-      "updated_at": "2020-07-02T10:11:01Z"
-    },
-    {
-      "id": "movie-57407",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Королева",
-      "title_orig": "Queen",
-      "translation": {
-        "id": 831,
-        "title": "RAIM",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "807770",
-      "imdb_id": "tt3322420",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-07-02T06:37:22Z",
-      "updated_at": "2020-07-02T06:37:22Z"
     }
   ]
 }

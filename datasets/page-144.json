@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-50291",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Честный хлеб",
+      "title_orig": "Izzat Ki Roti",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 1993,
+      "kinopoisk_id": "368586",
+      "imdb_id": "tt0172617",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-25T12:08:26Z",
+      "updated_at": "2020-02-25T12:08:26Z"
+    },
+    {
+      "id": "movie-50292",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Любовь 2050",
+      "title_orig": "Love Story 2050",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2008,
+      "kinopoisk_id": "268516",
+      "imdb_id": "tt0490170",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-25T12:05:51Z",
+      "updated_at": "2020-02-25T12:05:51Z"
+    },
+    {
+      "id": "movie-50293",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Лудо",
+      "title_orig": "Ludo",
+      "translation": {
+        "id": 679,
+        "title": "datynet",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "903747",
+      "imdb_id": "tt3724898",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-25T12:05:15Z",
+      "updated_at": "2020-02-25T12:05:15Z"
+    },
+    {
+      "id": "movie-50294",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мистер и миссис Кханна",
+      "title_orig": "Main Aurr Mrs Khanna",
+      "translation": {
+        "id": 770,
+        "title": "ZEE TV",
+        "type": "voice"
+      },
+      "year": 2009,
+      "kinopoisk_id": "404301",
+      "imdb_id": "tt1174041",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-25T12:04:17Z",
+      "updated_at": "2020-02-25T12:04:17Z"
+    },
+    {
       "id": "movie-50295",
       "type": "foreign-movie",
       "link": "",
@@ -2126,114 +2206,6 @@
       "blocked_seasons": {},
       "created_at": "2020-02-24T11:02:46Z",
       "updated_at": "2020-02-24T11:02:46Z"
-    },
-    {
-      "id": "serial-23106",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Мой сосед Сэки [ТВ]",
-      "title_orig": "Tonari no Seki-kun",
-      "other_title": "Сэки-кун – парень за соседней партой / Сэки-кун за соседней партой / Мастак времяпрепровождения - Сэки",
-      "translation": {
-        "id": 826,
-        "title": "Cactus Team",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 21,
-      "episodes_count": 21,
-      "kinopoisk_id": "820588",
-      "imdb_id": "tt3296884",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1474",
-      "shikimori_id": "18139",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-02-24T11:01:02Z",
-      "updated_at": "2020-02-24T11:01:02Z"
-    },
-    {
-      "id": "serial-23105",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Тока Гэттан",
-      "title_orig": "Touka Gettan",
-      "other_title": "桃華月憚",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2007,
-      "last_season": 1,
-      "last_episode": 26,
-      "episodes_count": 26,
-      "kinopoisk_id": "542224",
-      "imdb_id": "tt1437145",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6324",
-      "shikimori_id": "2105",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-02-24T10:58:48Z",
-      "updated_at": "2020-02-24T10:58:48Z"
-    },
-    {
-      "id": "serial-23104",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Загадочная история \"Коноханы\"",
-      "title_orig": "Konohana Kitan",
-      "other_title": "Загадочная история «Коноханы» / Истории \"Коноханы\" / История Коноханы",
-      "translation": {
-        "id": 559,
-        "title": "Kansai",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1111821",
-      "imdb_id": "tt7535746",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9302",
-      "shikimori_id": "35241",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-02-24T10:43:51Z",
-      "updated_at": "2020-02-24T10:43:51Z"
-    },
-    {
-      "id": "serial-22760",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Повседневная Жизнь Бессмертного Короля",
-      "title_orig": "Xian Wang de Ri Chang Sheng Huo",
-      "other_title": "Будни короля необожителей / The Daily Life of the Immortal King",
-      "translation": {
-        "id": 1296,
-        "title": "AniPlay.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 9,
-      "episodes_count": 9,
-      "kinopoisk_id": "1378937",
-      "imdb_id": "tt11755260",
-      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=86963",
-      "shikimori_id": "41094",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-02-13T15:27:10Z",
-      "updated_at": "2020-02-24T10:08:04Z"
     }
   ]
 }

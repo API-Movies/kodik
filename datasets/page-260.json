@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-37755",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Черная гора",
+      "title_orig": "Chyornaya Gora",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1971,
+      "kinopoisk_id": "45550",
+      "imdb_id": "tt0067886",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-29T07:18:33Z",
+      "updated_at": "2019-05-29T07:18:33Z"
+    },
+    {
+      "id": "movie-37756",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Чрезвычайное поручение",
+      "title_orig": "Artakarg handznararutyun",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1966,
+      "kinopoisk_id": "43541",
+      "imdb_id": "tt0313895",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-29T07:17:31Z",
+      "updated_at": "2019-05-29T07:17:31Z"
+    },
+    {
+      "id": "movie-37758",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Дела давно минувших дней",
+      "title_orig": "Dela davno minuvshikh dney...",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1972,
+      "kinopoisk_id": "44117",
+      "imdb_id": "tt0068470",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-29T07:15:35Z",
+      "updated_at": "2019-05-29T07:15:35Z"
+    },
+    {
+      "id": "movie-31753",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Тайна железной двери",
+      "title_orig": "Tayna zheleznoy dveri",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1971,
+      "kinopoisk_id": "42177",
+      "imdb_id": "tt0066442",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-01T15:48:58Z",
+      "updated_at": "2019-05-29T07:14:44Z"
+    },
+    {
       "id": "serial-16858",
       "type": "foreign-serial",
       "link": "",
@@ -1955,86 +2035,6 @@
       "blocked_countries": [],
       "created_at": "2019-05-27T07:29:36Z",
       "updated_at": "2019-05-27T07:29:36Z"
-    },
-    {
-      "id": "movie-37588",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Опасные тропы",
-      "title_orig": "Opasnye tropy",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1955,
-      "kinopoisk_id": "42777",
-      "imdb_id": "tt0212403",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-27T07:24:56Z",
-      "updated_at": "2019-05-27T07:24:56Z"
-    },
-    {
-      "id": "movie-37589",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Привет с фронта",
-      "title_orig": "Privet s fronta",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1983,
-      "kinopoisk_id": "88735",
-      "imdb_id": "tt0261206",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-27T07:23:56Z",
-      "updated_at": "2019-05-27T07:23:56Z"
-    },
-    {
-      "id": "movie-37590",
-      "type": "russian-movie",
-      "link": "",
-      "title": "С вечера до полудня",
-      "title_orig": "S vechera do poludnya",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1982,
-      "kinopoisk_id": "95302",
-      "imdb_id": "tt0131570",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-27T07:23:08Z",
-      "updated_at": "2019-05-27T07:23:08Z"
-    },
-    {
-      "id": "movie-37575",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Мой брат слишком сильно меня любит",
-      "title_orig": "Ani ni aisaresugite komattemasu",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1008083",
-      "imdb_id": "tt6075764",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-27T06:31:29Z",
-      "updated_at": "2019-05-27T06:31:29Z"
     }
   ]
 }

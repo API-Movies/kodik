@@ -1,6 +1,99 @@
 {
   "results": [
     {
+      "id": "movie-25234",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "А потом полилась кровь",
+      "title_orig": "And Then There Was Blood",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "imdb_id": "tt7672714",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-25T19:43:06Z",
+      "updated_at": "2018-07-25T19:43:06Z"
+    },
+    {
+      "id": "serial-9989",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Мегалобокс",
+      "title_orig": "Megalo Box",
+      "other_title": "メガロボクス",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "1112532",
+      "imdb_id": "tt7965802",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9435",
+      "shikimori_id": "36563",
+      "quality": "HDTVRip 1080p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-04-07T16:05:18Z",
+      "updated_at": "2018-07-25T18:59:05Z"
+    },
+    {
+      "id": "serial-3516",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Моя геройская академия [ТВ-1]",
+      "title_orig": "Boku no Hero Academia",
+      "other_title": "My Hero Academia",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "975897",
+      "imdb_id": "tt5626028",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8530",
+      "shikimori_id": "31964",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-04-02T18:00:14Z",
+      "updated_at": "2018-07-25T18:41:12Z"
+    },
+    {
+      "id": "movie-25217",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Ларец Марии Медичи",
+      "title_orig": "Larets Marii Medichi",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1982,
+      "kinopoisk_id": "45041",
+      "imdb_id": "tt0166684",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-25T10:34:58Z",
+      "updated_at": "2018-07-25T10:34:58Z"
+    },
+    {
       "id": "movie-25218",
       "type": "russian-movie",
       "link": "",
@@ -2111,93 +2204,6 @@
       "blocked_countries": [],
       "created_at": "2018-07-08T22:05:27Z",
       "updated_at": "2018-07-09T05:30:14Z"
-    },
-    {
-      "id": "movie-24875",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Как нигде",
-      "title_orig": "Nowhere Else",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "662119",
-      "imdb_id": "tt2193167",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-07-09T05:26:44Z",
-      "updated_at": "2018-07-09T05:26:44Z"
-    },
-    {
-      "id": "serial-11391",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Рождество с семейкой Муди",
-      "title_orig": "A Moody Christmas",
-      "translation": {
-        "id": 777,
-        "title": "Кравец",
-        "type": "voice"
-      },
-      "year": 2012,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "726682",
-      "imdb_id": "tt2164274",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-07-08T08:40:58Z",
-      "updated_at": "2018-07-08T08:40:58Z"
-    },
-    {
-      "id": "serial-11467",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Энн",
-      "title_orig": "Anne",
-      "translation": {
-        "id": 752,
-        "title": "IDEAFILM",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 2,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "1009510",
-      "imdb_id": "tt5421602",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-07-07T19:26:16Z",
-      "updated_at": "2018-07-07T19:26:16Z"
-    },
-    {
-      "id": "movie-24852",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Большое футбольное приключение",
-      "title_orig": "Víti í Vestmannaeyjum",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "imdb_id": "tt7690774",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-07-06T22:35:37Z",
-      "updated_at": "2018-07-06T22:35:37Z"
     }
   ]
 }

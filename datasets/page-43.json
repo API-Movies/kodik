@@ -1,6 +1,93 @@
 {
   "results": [
     {
+      "id": "serial-30064",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Идеальная девушка",
+      "title_orig": "My Fair Lady",
+      "other_title": "Yojosuknyeo / The Perfect Girl",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2003,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-11-09T20:59:33Z",
+      "updated_at": "2020-11-10T05:18:26Z"
+    },
+    {
+      "id": "movie-62971",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мастер меча",
+      "title_orig": "San shao ye de jian",
+      "translation": {
+        "id": 940,
+        "title": "Phoenixes",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "952198",
+      "imdb_id": "tt5269396",
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-09T20:56:58Z",
+      "updated_at": "2020-11-09T20:56:58Z"
+    },
+    {
+      "id": "serial-30063",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Мэджикано",
+      "title_orig": "Majikano",
+      "translation": {
+        "id": 827,
+        "title": "Persona99",
+        "type": "voice"
+      },
+      "year": 2006,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "408681",
+      "imdb_id": "tt0972671",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-11-09T20:22:56Z",
+      "updated_at": "2020-11-09T20:22:56Z"
+    },
+    {
+      "id": "movie-62959",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Саван призрака. Начало",
+      "title_orig": "Pocong the Origin",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1256989",
+      "imdb_id": "tt10092770",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-09T19:52:24Z",
+      "updated_at": "2020-11-09T19:52:24Z"
+    },
+    {
       "id": "movie-62960",
       "type": "foreign-movie",
       "link": "",
@@ -2390,86 +2477,6 @@
       "blocked_seasons": {},
       "created_at": "2020-09-13T17:17:13Z",
       "updated_at": "2020-11-06T09:06:38Z"
-    },
-    {
-      "id": "movie-62855",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Три пингвина",
-      "title_orig": "Tri pingvina",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1961,
-      "kinopoisk_id": "260037",
-      "imdb_id": "tt6301976",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-06T07:48:37Z",
-      "updated_at": "2020-11-06T07:48:37Z"
-    },
-    {
-      "id": "movie-62856",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Снегурка",
-      "title_orig": "Snegurka",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1969,
-      "kinopoisk_id": "260079",
-      "imdb_id": "tt5898006",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-06T07:47:54Z",
-      "updated_at": "2020-11-06T07:47:54Z"
-    },
-    {
-      "id": "movie-62857",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Рикэ-хохолок",
-      "title_orig": "Rike-hoholok",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1985,
-      "kinopoisk_id": "654752",
-      "imdb_id": "tt8347644",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-06T07:45:58Z",
-      "updated_at": "2020-11-06T07:45:58Z"
-    },
-    {
-      "id": "movie-62858",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Каша из топора",
-      "title_orig": "Kasha iz topora",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1982,
-      "kinopoisk_id": "481589",
-      "imdb_id": "tt2962168",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-06T07:45:06Z",
-      "updated_at": "2020-11-06T07:45:06Z"
     }
   ]
 }

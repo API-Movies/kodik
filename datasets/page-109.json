@@ -1,6 +1,98 @@
 {
   "results": [
     {
+      "id": "movie-54781",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мерцание светлячков",
+      "title_orig": "Hotaru no hikari",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2012,
+      "kinopoisk_id": "607740",
+      "imdb_id": "tt2013233",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-03T23:32:33Z",
+      "updated_at": "2020-05-03T23:32:33Z"
+    },
+    {
+      "id": "serial-25372",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Бесконечная любовь",
+      "title_orig": "The Endless Love",
+      "other_title": "Вечная любовь",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 32,
+      "episodes_count": 32,
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-03T23:22:40Z",
+      "updated_at": "2020-05-03T23:22:40Z"
+    },
+    {
+      "id": "serial-25371",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Напоминания",
+      "title_orig": "ReminderS",
+      "other_title": "Воспоминания / REMINDERS / Because I Miss You",
+      "translation": {
+        "id": 840,
+        "title": "Храм Дорам ТВ",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 3,
+      "episodes_count": 3,
+      "imdb_id": "tt10286802",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-03T23:13:56Z",
+      "updated_at": "2020-05-03T23:13:56Z"
+    },
+    {
+      "id": "serial-25370",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Головоломки бога",
+      "title_orig": "Shineui kwijeu",
+      "other_title": "Загадки Бога 5: Перезагрузка / Quiz from God: Reboot",
+      "translation": {
+        "id": 1287,
+        "title": "Айчик",
+        "type": "voice"
+      },
+      "year": 2010,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "706624",
+      "imdb_id": "tt2150915",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-03T23:10:30Z",
+      "updated_at": "2020-05-03T23:10:30Z"
+    },
+    {
       "id": "serial-25369",
       "type": "foreign-serial",
       "link": "",
@@ -2144,93 +2236,6 @@
       "blocked_countries": [],
       "created_at": "2020-05-01T09:07:20Z",
       "updated_at": "2020-05-01T09:07:20Z"
-    },
-    {
-      "id": "movie-54674",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Сильнее дьявола",
-      "title_orig": "Taaqatwar",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 1989,
-      "kinopoisk_id": "34964",
-      "imdb_id": "tt0362213",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-01T09:03:10Z",
-      "updated_at": "2020-05-01T09:03:10Z"
-    },
-    {
-      "id": "serial-25320",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Планета Уит",
-      "title_orig": "Planet With",
-      "other_title": "プラネット・ウィズ",
-      "translation": {
-        "id": 827,
-        "title": "Persona99",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1180641",
-      "imdb_id": "tt8774888",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9648",
-      "shikimori_id": "37578",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-01T09:02:54Z",
-      "updated_at": "2020-05-01T09:02:54Z"
-    },
-    {
-      "id": "movie-54675",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Синий зонтик",
-      "title_orig": "The Blue Umbrella",
-      "translation": {
-        "id": 764,
-        "title": "Red Media",
-        "type": "voice"
-      },
-      "year": 2005,
-      "kinopoisk_id": "227215",
-      "imdb_id": "tt0457802",
-      "quality": "HDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-01T09:02:23Z",
-      "updated_at": "2020-05-01T09:02:23Z"
-    },
-    {
-      "id": "movie-54676",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Скромница",
-      "title_orig": "Sharmeelee",
-      "translation": {
-        "id": 886,
-        "title": "Формат АВ",
-        "type": "voice"
-      },
-      "year": 1971,
-      "kinopoisk_id": "182782",
-      "imdb_id": "tt0067742",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-01T09:01:35Z",
-      "updated_at": "2020-05-01T09:01:35Z"
     }
   ]
 }

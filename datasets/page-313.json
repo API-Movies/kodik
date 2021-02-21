@@ -1,6 +1,90 @@
 {
   "results": [
     {
+      "id": "movie-19607",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Бой за любовь",
+      "title_orig": "Paambhu Sattai",
+      "translation": {
+        "id": 764,
+        "title": "Red Media",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "982454",
+      "imdb_id": "tt5698088",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-11-14T06:51:19Z",
+      "updated_at": "2017-11-14T06:51:19Z"
+    },
+    {
+      "id": "movie-19606",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Четыре луны",
+      "title_orig": "Cuatro lunas",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "696345",
+      "imdb_id": "tt2260850",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-11-14T06:48:51Z",
+      "updated_at": "2017-11-14T06:48:51Z"
+    },
+    {
+      "id": "movie-19603",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Невиновный",
+      "title_orig": "8 Thottakkal",
+      "translation": {
+        "id": 764,
+        "title": "Red Media",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1057521",
+      "imdb_id": "tt6747242",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-11-14T06:37:24Z",
+      "updated_at": "2017-11-14T06:37:24Z"
+    },
+    {
+      "id": "serial-6011",
+      "type": "russian-serial",
+      "link": "",
+      "title": "Макар-следопыт",
+      "title_orig": "Макар-следопыт",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1984,
+      "last_season": 1,
+      "last_episode": 3,
+      "episodes_count": 3,
+      "kinopoisk_id": "95620",
+      "imdb_id": "tt0263692",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-11-13T22:13:29Z",
+      "updated_at": "2017-11-13T22:13:29Z"
+    },
+    {
       "id": "serial-6006",
       "type": "russian-serial",
       "link": "",
@@ -2083,87 +2167,6 @@
       "blocked_countries": [],
       "created_at": "2017-10-25T06:53:11Z",
       "updated_at": "2017-10-25T06:53:11Z"
-    },
-    {
-      "id": "movie-19193",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Она должна сгореть",
-      "title_orig": "She Who Must Burn",
-      "translation": {
-        "id": 679,
-        "title": "datynet",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "844924",
-      "imdb_id": "tt3589016",
-      "quality": "HDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-10-25T06:51:31Z",
-      "updated_at": "2017-10-25T06:51:31Z"
-    },
-    {
-      "id": "movie-19188",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "V.I.P.",
-      "title_orig": "V.I.P.",
-      "other_title": "ВИП",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1009102",
-      "imdb_id": "tt6413410",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-10-25T06:33:19Z",
-      "updated_at": "2017-10-25T06:33:19Z"
-    },
-    {
-      "id": "movie-19196",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Зло в нас",
-      "title_orig": "The Evil in Us",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "857989",
-      "imdb_id": "tt4035898",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-10-25T18:16:58Z",
-      "updated_at": "2017-10-25T06:32:10Z"
-    },
-    {
-      "id": "movie-19184",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Детектив-балерина",
-      "title_orig": "Keiji ballerino",
-      "translation": {
-        "id": 646,
-        "title": "XDUB Dorama",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "1001172",
-      "imdb_id": "tt5320608",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-10-25T06:03:34Z",
-      "updated_at": "2017-10-25T06:03:34Z"
     }
   ]
 }

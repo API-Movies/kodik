@@ -1,6 +1,98 @@
 {
   "results": [
     {
+      "id": "serial-29942",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "49",
+      "title_orig": "49",
+      "other_title": "Сорок девять / Forty Nine",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2013,
+      "last_season": 1,
+      "last_episode": 11,
+      "episodes_count": 11,
+      "kinopoisk_id": "806627",
+      "imdb_id": "tt3170540",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-10-28T20:11:11Z",
+      "updated_at": "2020-10-28T20:11:11Z"
+    },
+    {
+      "id": "movie-62441",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Рецепт",
+      "title_orig": "Doenjang",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2010,
+      "kinopoisk_id": "579545",
+      "imdb_id": "tt1773083",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-28T20:07:06Z",
+      "updated_at": "2020-10-28T20:07:06Z"
+    },
+    {
+      "id": "movie-62440",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Прекрасные отношения",
+      "title_orig": "Choegang romaenseu",
+      "other_title": "Прекрасная пара / Choi-gang lo-maen-seu",
+      "translation": {
+        "id": 1499,
+        "title": "ФСГ Альянс.Subtitles\t",
+        "type": "subtitles"
+      },
+      "year": 2007,
+      "kinopoisk_id": "519252",
+      "imdb_id": "tt1649294",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-28T19:34:20Z",
+      "updated_at": "2020-10-28T19:37:44Z"
+    },
+    {
+      "id": "serial-29941",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Сжечь ведьму",
+      "title_orig": "Burn the Witch",
+      "translation": {
+        "id": 1362,
+        "title": "Voice Group",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 3,
+      "episodes_count": 3,
+      "kinopoisk_id": "1399303",
+      "imdb_id": "tt12011442",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10435",
+      "shikimori_id": "41468",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-10-28T19:27:45Z",
+      "updated_at": "2020-10-28T19:27:45Z"
+    },
+    {
       "id": "serial-29071",
       "type": "foreign-serial",
       "link": "",
@@ -2030,85 +2122,6 @@
       "blocked_countries": [],
       "created_at": "2020-10-27T18:33:35Z",
       "updated_at": "2020-10-27T18:33:35Z"
-    },
-    {
-      "id": "movie-62336",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Девочка и дельфин",
-      "title_orig": "A Girl and a Dolphin",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1979,
-      "kinopoisk_id": "431075",
-      "imdb_id": "tt4866834",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-10-27T16:54:07Z",
-      "updated_at": "2020-10-27T16:54:07Z"
-    },
-    {
-      "id": "movie-62337",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Девочка и зайцы",
-      "title_orig": "Devochka i zaytsy",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1985,
-      "kinopoisk_id": "565245",
-      "imdb_id": "tt2397467",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-10-27T16:53:01Z",
-      "updated_at": "2020-10-27T16:53:01Z"
-    },
-    {
-      "id": "movie-62338",
-      "type": "russian-movie",
-      "link": "",
-      "title": "День рождения",
-      "title_orig": "Den rozhdeniya",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1959,
-      "kinopoisk_id": "430529",
-      "imdb_id": "tt2321253",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-10-27T16:51:39Z",
-      "updated_at": "2020-10-27T16:51:39Z"
-    },
-    {
-      "id": "movie-62339",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Жила-была курочка",
-      "title_orig": "Жила-была курочка",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1977,
-      "kinopoisk_id": "258111",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-10-27T16:50:23Z",
-      "updated_at": "2020-10-27T16:50:23Z"
     }
   ]
 }

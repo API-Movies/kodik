@@ -1,6 +1,90 @@
 {
   "results": [
     {
+      "id": "movie-37396",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Другой путь",
+      "title_orig": "Dareun gili itda",
+      "other_title": "Another Way",
+      "translation": {
+        "id": 641,
+        "title": "STEPonee",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "962368",
+      "imdb_id": "tt5469884",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-22T21:18:06Z",
+      "updated_at": "2019-10-24T14:07:02Z"
+    },
+    {
+      "id": "movie-22792",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "С Богами: Два мира",
+      "title_orig": "Singwa hamkke",
+      "other_title": "Встреча с богами: два мира / Along With the Gods: The Two Worlds",
+      "translation": {
+        "id": 641,
+        "title": "STEPonee",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1008561",
+      "imdb_id": "tt7160070",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-04-09T14:35:11Z",
+      "updated_at": "2019-10-24T14:06:20Z"
+    },
+    {
+      "id": "movie-17702",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Грань невинности",
+      "title_orig": "Xia tian 19 sui de xiao xiang",
+      "other_title": "Лето, портрет / Лето, портрет 19-летнего / Edge of Innocence",
+      "translation": {
+        "id": 641,
+        "title": "STEPonee",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "996635",
+      "imdb_id": "tt5801026",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-07-21T16:29:27Z",
+      "updated_at": "2019-10-24T14:05:29Z"
+    },
+    {
+      "id": "movie-20272",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Возвращение бывших",
+      "title_orig": "Qian Ren Gong Lue",
+      "other_title": "Бывшие / Ex Files",
+      "translation": {
+        "id": 641,
+        "title": "STEPonee",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "823678",
+      "imdb_id": "tt3579688",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-12-29T07:33:25Z",
+      "updated_at": "2019-10-24T14:04:02Z"
+    },
+    {
       "id": "movie-21210",
       "type": "foreign-movie",
       "link": "",
@@ -2232,99 +2316,6 @@
       "blocked_countries": [],
       "created_at": "2019-10-22T09:56:09Z",
       "updated_at": "2019-10-22T09:56:09Z"
-    },
-    {
-      "id": "serial-11842",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Запретная любовь",
-      "title_orig": "Ask-i Memnu",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2008,
-      "last_season": 2,
-      "last_episode": 41,
-      "episodes_count": 79,
-      "kinopoisk_id": "491522",
-      "imdb_id": "tt1286677",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-07-28T17:15:17Z",
-      "updated_at": "2019-10-22T09:49:48Z"
-    },
-    {
-      "id": "movie-44070",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Моя зомби-подруга",
-      "title_orig": "My Dead Girlfriend",
-      "other_title": "My Zombie Girlfriend",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2016,
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-22T09:40:52Z",
-      "updated_at": "2019-10-22T09:40:52Z"
-    },
-    {
-      "id": "serial-6499",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Алое сердце",
-      "title_orig": "Dalui yeonin - bobogyungsim Ryeo",
-      "other_title": "Алые сердца: Корё / Лунные влюбленные / Лунные влюблённые - Алые сердца: Корё / Алое Сердце: Эпоха Корё",
-      "translation": {
-        "id": 620,
-        "title": "GREEN TEA",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 20,
-      "episodes_count": 20,
-      "kinopoisk_id": "984001",
-      "imdb_id": "tt5320412",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-25T11:31:13Z",
-      "updated_at": "2019-10-22T08:50:59Z"
-    },
-    {
-      "id": "serial-4340",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Невеста речного Бога",
-      "title_orig": "Habaekeui sinbu 2017",
-      "other_title": "Невеста Бога воды 2017 / Невеста речного бога / Невеста бога воды / Habaekui shinboo 2017 / Bride of the Water God",
-      "translation": {
-        "id": 639,
-        "title": "SoftBox",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1008571",
-      "imdb_id": "tt6385752",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-07-21T13:52:46Z",
-      "updated_at": "2019-10-22T08:41:51Z"
     }
   ]
 }

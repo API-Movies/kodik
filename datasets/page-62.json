@@ -1,6 +1,101 @@
 {
   "results": [
     {
+      "id": "movie-60262",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Академия монстров",
+      "title_orig": "Cranston Academy: Monster Zone",
+      "translation": {
+        "id": 652,
+        "title": "@MUZOBOZ@",
+        "type": "voice"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1197918",
+      "imdb_id": "tt8524650",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-11T05:27:55Z",
+      "updated_at": "2020-09-11T05:27:55Z"
+    },
+    {
+      "id": "serial-29077",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Магистр дьявольского культа: Чиби",
+      "title_orig": "Mo Dao Zu Shi Q",
+      "other_title": "The Founder of Diabolism Q",
+      "translation": {
+        "id": 1467,
+        "title": "SovetRomantica.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 7,
+      "episodes_count": 7,
+      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=90645",
+      "shikimori_id": "40435",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-29T06:59:50Z",
+      "updated_at": "2020-09-11T03:05:37Z"
+    },
+    {
+      "id": "serial-20982",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Волейбол [ТВ-4, первый сезон]",
+      "title_orig": "Haikyuu!! To the Top",
+      "other_title": "Волейбол!! К вершине / Волейбол!!: К вершине",
+      "translation": {
+        "id": 1009,
+        "title": "Anistar Многоголосый",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 4,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "840073",
+      "imdb_id": "tt3398540",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9936",
+      "shikimori_id": "38883",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-10T21:21:15Z",
+      "updated_at": "2020-09-10T16:20:00Z"
+    },
+    {
+      "id": "movie-60246",
+      "type": "anime",
+      "link": "",
+      "title": "Убийца гоблинов: Корона гоблина",
+      "title_orig": "Goblin Slayer: Goblin's Crown",
+      "other_title": "Убийца гоблинов (фильм)",
+      "translation": {
+        "id": 557,
+        "title": "JAM",
+        "type": "voice"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1348838",
+      "imdb_id": "tt11151982",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10058",
+      "shikimori_id": "39576",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-10T16:02:52Z",
+      "updated_at": "2020-09-10T16:02:52Z"
+    },
+    {
       "id": "serial-20926",
       "type": "anime-serial",
       "link": "",
@@ -2266,97 +2361,6 @@
       "blocked_seasons": {},
       "created_at": "2020-08-04T22:10:43Z",
       "updated_at": "2020-09-03T16:08:37Z"
-    },
-    {
-      "id": "movie-59896",
-      "type": "anime",
-      "link": "",
-      "title": "Встреча клана Люпена",
-      "title_orig": "Rupan Sansei: Rupan Ikka Seizeroi",
-      "other_title": "Люпен III: Встреча клана Люпена",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2012,
-      "kinopoisk_id": "720272",
-      "imdb_id": "tt2551708",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1646",
-      "shikimori_id": "13247",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-03T15:28:29Z",
-      "updated_at": "2020-09-03T15:28:29Z"
-    },
-    {
-      "id": "movie-59895",
-      "type": "anime",
-      "link": "",
-      "title": "Люпен VIII",
-      "title_orig": "Lupin VIII",
-      "other_title": "Lupin Hassei",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2012,
-      "kinopoisk_id": "1378948",
-      "imdb_id": "tt7109278",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1659",
-      "shikimori_id": "13249",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-03T15:24:41Z",
-      "updated_at": "2020-09-03T15:24:41Z"
-    },
-    {
-      "id": "movie-59860",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Сопротивление: История Ю Гван-сун",
-      "title_orig": "Hanggeo: Yoo Gwan-soon iyagi",
-      "other_title": "Сопротивление: история Ю Кван Сун / Resistance: The Yoo Kwan Soon Story / Resistance: Yu Gwan-Sun's Story / A Resistance",
-      "translation": {
-        "id": 1407,
-        "title": "АрхиAsia",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1216727",
-      "imdb_id": "tt10276054",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-02T21:37:36Z",
-      "updated_at": "2020-09-03T09:15:36Z"
-    },
-    {
-      "id": "serial-29181",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Ниша",
-      "title_orig": "Nisha",
-      "translation": {
-        "id": 948,
-        "title": "CrazyCatStudio",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 9,
-      "episodes_count": 9,
-      "kinopoisk_id": "1334933",
-      "imdb_id": "tt11396194",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-09-03T08:10:41Z",
-      "updated_at": "2020-09-03T09:13:25Z"
     }
   ]
 }

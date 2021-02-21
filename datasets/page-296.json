@@ -1,6 +1,90 @@
 {
   "results": [
     {
+      "id": "serial-11463",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Энн",
+      "title_orig": "Anne",
+      "translation": {
+        "id": 618,
+        "title": "GoldTeam",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 7,
+      "episodes_count": 7,
+      "kinopoisk_id": "1009510",
+      "imdb_id": "tt5421602",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-07-07T19:26:16Z",
+      "updated_at": "2018-09-26T17:07:22Z"
+    },
+    {
+      "id": "movie-26677",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Падре",
+      "title_orig": "The Padre",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1090419",
+      "imdb_id": "tt6782276",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-09-13T14:39:22Z",
+      "updated_at": "2018-09-26T13:43:25Z"
+    },
+    {
+      "id": "movie-27008",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Дневники Осло",
+      "title_orig": "The Oslo Diaries",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1111993",
+      "imdb_id": "tt7689940",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-09-26T13:39:25Z",
+      "updated_at": "2018-09-26T13:39:25Z"
+    },
+    {
+      "id": "movie-6203",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Никто не узнает",
+      "title_orig": "Dare mo shiranai",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2004,
+      "kinopoisk_id": "79929",
+      "imdb_id": "tt0408664",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-04-27T10:23:32Z",
+      "updated_at": "2018-09-26T05:25:46Z"
+    },
+    {
       "id": "movie-26994",
       "type": "foreign-movie",
       "link": "",
@@ -2038,86 +2122,6 @@
       "blocked_countries": [],
       "created_at": "2018-09-10T07:54:54Z",
       "updated_at": "2018-09-10T07:54:54Z"
-    },
-    {
-      "id": "movie-26565",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Тоска",
-      "title_orig": "Ga'agua",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "988883",
-      "imdb_id": "tt5545984",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-09-10T07:21:36Z",
-      "updated_at": "2018-09-10T07:21:36Z"
-    },
-    {
-      "id": "movie-26567",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Жизнь после",
-      "title_orig": "La vida después",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "895554",
-      "imdb_id": "tt3174768",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-09-10T07:19:24Z",
-      "updated_at": "2018-09-10T07:19:24Z"
-    },
-    {
-      "id": "movie-26543",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Как подцепить девчонок",
-      "title_orig": "How to Get Girls",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "985380",
-      "imdb_id": "tt5706876",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-09-08T11:17:55Z",
-      "updated_at": "2018-09-10T07:09:53Z"
-    },
-    {
-      "id": "movie-26574",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Дети вверены тебе",
-      "title_orig": "Çocuklar Sana Emanet",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1112019",
-      "imdb_id": "tt7748432",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-09-10T06:53:14Z",
-      "updated_at": "2018-09-10T06:53:14Z"
     }
   ]
 }

@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-22778",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Кунхам: Пограничный остров",
+      "title_orig": "Gun-ham-do",
+      "translation": {
+        "id": 660,
+        "title": "GreenРай Studio",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "996621",
+      "imdb_id": "tt5969696",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-04-09T08:03:33Z",
+      "updated_at": "2018-04-09T08:03:33Z"
+    },
+    {
+      "id": "movie-22781",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "По стечению обстоятельств",
+      "title_orig": "Ittefaq",
+      "translation": {
+        "id": 660,
+        "title": "GreenРай Studio",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1049467",
+      "imdb_id": "tt6692354",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-04-09T07:57:08Z",
+      "updated_at": "2018-04-09T07:57:08Z"
+    },
+    {
+      "id": "movie-22772",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Дефективные",
+      "title_orig": "Defective",
+      "translation": {
+        "id": 660,
+        "title": "GreenРай Studio",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "942224",
+      "imdb_id": "tt4526372",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-04-09T06:49:25Z",
+      "updated_at": "2018-04-09T06:49:25Z"
+    },
+    {
+      "id": "movie-22745",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Проклятое общежитие: Повелитель кукол",
+      "title_orig": "Dào líng sùshè wáwá laoshi",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1074553",
+      "imdb_id": "tt6953274",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-04-07T21:15:05Z",
+      "updated_at": "2018-04-09T06:40:09Z"
+    },
+    {
       "id": "movie-22735",
       "type": "foreign-movie",
       "link": "",
@@ -1996,96 +2076,6 @@
       "blocked_seasons": {},
       "created_at": "2016-10-23T12:42:41Z",
       "updated_at": "2018-03-27T09:34:42Z"
-    },
-    {
-      "id": "serial-9713",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Забить на последней секунде",
-      "title_orig": "Buzâ bîto: Gakeppuchi no hîrô",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2009,
-      "last_season": 1,
-      "last_episode": 11,
-      "episodes_count": 11,
-      "kinopoisk_id": "470405",
-      "imdb_id": "tt1480945",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-03-17T23:12:54Z",
-      "updated_at": "2018-03-27T09:28:47Z"
-    },
-    {
-      "id": "movie-21944",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Злой дух",
-      "title_orig": "Pyewacket",
-      "other_title": "Близкий дух",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1004054",
-      "imdb_id": "tt5119116",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-03-27T04:56:06Z",
-      "updated_at": "2018-03-27T04:56:06Z"
-    },
-    {
-      "id": "movie-21939",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Создатель",
-      "title_orig": "The Maker",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 2011,
-      "kinopoisk_id": "614908",
-      "imdb_id": "tt1969151",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-03-26T19:57:34Z",
-      "updated_at": "2018-03-26T19:57:34Z"
-    },
-    {
-      "id": "serial-9699",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Гимнастика, которая сделала из нас мужчин",
-      "title_orig": "Tanburingu",
-      "other_title": "Shintaiso ga, oretachi o otoko ni shita",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2010,
-      "last_season": 1,
-      "last_episode": 11,
-      "episodes_count": 11,
-      "kinopoisk_id": "504717",
-      "imdb_id": "tt1627110",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-03-10T16:50:14Z",
-      "updated_at": "2018-03-26T14:08:07Z"
     }
   ]
 }

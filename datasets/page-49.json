@@ -1,6 +1,85 @@
 {
   "results": [
     {
+      "id": "movie-62227",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Сказ о Евпатии Коловрате",
+      "title_orig": "Skaz o Evpatii Kolovrate",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1985,
+      "kinopoisk_id": "460520",
+      "imdb_id": "tt5898292",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-26T12:13:33Z",
+      "updated_at": "2020-10-26T12:13:33Z"
+    },
+    {
+      "id": "movie-62229",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Не надо торопиться",
+      "title_orig": "Не надо торопиться",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1985,
+      "kinopoisk_id": "1271097",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-26T12:12:56Z",
+      "updated_at": "2020-10-26T12:12:56Z"
+    },
+    {
+      "id": "movie-62231",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Иван Иванович заболел...",
+      "title_orig": "Ivan Ivanych zabolel",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1966,
+      "kinopoisk_id": "594843",
+      "imdb_id": "tt7682968",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-26T12:11:35Z",
+      "updated_at": "2020-10-26T12:11:35Z"
+    },
+    {
+      "id": "movie-32605",
+      "type": "soviet-cartoon",
+      "link": "",
+      "title": "Павлиний хвост",
+      "title_orig": "Pavliniy khvost",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1946,
+      "kinopoisk_id": "259245",
+      "imdb_id": "tt1794902",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-26T15:34:05Z",
+      "updated_at": "2020-10-26T12:10:54Z"
+    },
+    {
       "id": "movie-62232",
       "type": "russian-movie",
       "link": "",
@@ -2206,101 +2285,6 @@
       "blocked_seasons": {},
       "created_at": "2020-10-23T02:24:39Z",
       "updated_at": "2020-10-23T02:24:39Z"
-    },
-    {
-      "id": "serial-17929",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Эпоха легенд",
-      "title_orig": "Cheng hong nian dai",
-      "other_title": "Огненные годы",
-      "translation": {
-        "id": 645,
-        "title": "Victory-Films",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 33,
-      "episodes_count": 33,
-      "kinopoisk_id": "1190702",
-      "imdb_id": "tt8981944",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-08-05T10:18:15Z",
-      "updated_at": "2020-10-22T17:55:22Z"
-    },
-    {
-      "id": "serial-29864",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Счастливый гороскоп: Инструкция по применению",
-      "title_orig": "Twelve Men in a Year",
-      "other_title": "В году двенадцать мужчин / 12 мужчин в году / Счастливый гороскоп: инструкция по применению / Ilnyeone Yeoldoo Namja / 12 Signs of Love",
-      "translation": {
-        "id": 1499,
-        "title": "ФСГ Альянс.Subtitles\t",
-        "type": "subtitles"
-      },
-      "year": 2012,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "731960",
-      "imdb_id": "tt2585230",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-10-22T16:26:57Z",
-      "updated_at": "2020-10-22T16:26:57Z"
-    },
-    {
-      "id": "serial-27642",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Великий правитель",
-      "title_orig": "Bei ling shao nian zhi zhi da zhu zai",
-      "other_title": "Верховный правитель / Великий мастер / Dominant / The Great Master / The Great Lord / The Great Thousand World / The Great Ruler",
-      "translation": {
-        "id": 1359,
-        "title": "Vonneks",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 26,
-      "episodes_count": 26,
-      "kinopoisk_id": "1291180",
-      "imdb_id": "tt11698258",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-10T10:47:29Z",
-      "updated_at": "2020-10-22T16:11:02Z"
-    },
-    {
-      "id": "movie-62106",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Бабье царство",
-      "title_orig": "Onna no za",
-      "translation": {
-        "id": 641,
-        "title": "STEPonee",
-        "type": "voice"
-      },
-      "year": 1962,
-      "kinopoisk_id": "164776",
-      "imdb_id": "tt0056310",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-10-22T16:00:07Z",
-      "updated_at": "2020-10-22T16:00:07Z"
     }
   ]
 }

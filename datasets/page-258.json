@@ -1,6 +1,90 @@
 {
   "results": [
     {
+      "id": "movie-38160",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Красные дипкурьеры",
+      "title_orig": "Krasnye dipkurery",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1977,
+      "kinopoisk_id": "44957",
+      "imdb_id": "tt0076283",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-06-10T06:57:16Z",
+      "updated_at": "2019-06-10T06:57:16Z"
+    },
+    {
+      "id": "serial-7885",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Стамбульская невеста",
+      "title_orig": "Istanbullu Gelin",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 3,
+      "last_episode": 34,
+      "episodes_count": 87,
+      "kinopoisk_id": "1045758",
+      "imdb_id": "tt6462806",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-12-29T07:02:07Z",
+      "updated_at": "2019-06-09T18:06:43Z"
+    },
+    {
+      "id": "movie-38144",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Страна теней",
+      "title_orig": "Shadowlands",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1227984",
+      "imdb_id": "tt6240094",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-06-09T11:39:47Z",
+      "updated_at": "2019-06-09T11:39:47Z"
+    },
+    {
+      "id": "movie-38127",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Потерянные в любви",
+      "title_orig": "Ru ying sui xin",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1115085",
+      "imdb_id": "tt10126628",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-06-08T07:15:27Z",
+      "updated_at": "2019-06-09T11:38:12Z"
+    },
+    {
       "id": "movie-38145",
       "type": "foreign-movie",
       "link": "",
@@ -1993,86 +2077,6 @@
       "blocked_countries": [],
       "created_at": "2019-06-03T13:07:14Z",
       "updated_at": "2019-06-03T13:07:14Z"
-    },
-    {
-      "id": "movie-37970",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Агент Винод",
-      "title_orig": "Agent Vinod",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2012,
-      "kinopoisk_id": "455301",
-      "imdb_id": "tt1395025",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-06-03T13:06:51Z",
-      "updated_at": "2019-06-03T13:06:51Z"
-    },
-    {
-      "id": "movie-37972",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Огарева, 6",
-      "title_orig": "Ogaryova, 6",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1980,
-      "kinopoisk_id": "42737",
-      "imdb_id": "tt0081267",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-06-03T13:05:40Z",
-      "updated_at": "2019-06-03T13:05:40Z"
-    },
-    {
-      "id": "movie-37975",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Ты должен жить",
-      "title_orig": "Ty dolzhen zhit",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1981,
-      "kinopoisk_id": "42382",
-      "imdb_id": "tt0081670",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-06-03T12:50:32Z",
-      "updated_at": "2019-06-03T12:50:32Z"
-    },
-    {
-      "id": "movie-37976",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Удивительные приключения Дениса Кораблева",
-      "title_orig": "Udivitelnye priklyucheniya Denisa Korablyova",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1979,
-      "kinopoisk_id": "412076",
-      "imdb_id": "tt1508359",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-06-03T12:47:07Z",
-      "updated_at": "2019-06-03T12:47:07Z"
     }
   ]
 }

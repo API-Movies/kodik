@@ -1,6 +1,109 @@
 {
   "results": [
     {
+      "id": "serial-21580",
+      "type": "anime-serial",
+      "link": "",
+      "title": "A3! Весна и лето",
+      "title_orig": "A3! Season Spring & Summer",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1315756",
+      "imdb_id": "tt11094154",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9976",
+      "shikimori_id": "39184",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-21T21:19:43Z",
+      "updated_at": "2020-09-28T13:28:30Z"
+    },
+    {
+      "id": "serial-27663",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Доктор для девушек-монстров",
+      "title_orig": "Monster Musume no Oisha-san",
+      "other_title": "Лекарь девушек монстров / Monster Girl Doctor",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1415681",
+      "imdb_id": "tt12312004",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10284",
+      "shikimori_id": "40708",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-07-11T05:34:11Z",
+      "updated_at": "2020-09-28T13:13:20Z"
+    },
+    {
+      "id": "serial-27459",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Непризнанный школой владыка демонов",
+      "title_orig": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou",
+      "other_title": "Непризнанный школой владыка демонов! Сильнейший владыка демонов в истории поступает в академию, переродившись своим потомком / The Misfit of Demon King Academy: History's Strongest Demon King Reincarnates and Goes to School with His Descendants",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "1392712",
+      "imdb_id": "tt12432974",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10239",
+      "shikimori_id": "40496",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-07-05T13:44:34Z",
+      "updated_at": "2020-09-28T13:11:02Z"
+    },
+    {
+      "id": "movie-49957",
+      "type": "anime",
+      "link": "",
+      "title": "Корабль-призрак",
+      "title_orig": "Sora tobu yûreisen",
+      "other_title": "Летающий Корабль-Призрак / Soratobu Yuureisen",
+      "translation": {
+        "id": 757,
+        "title": "MC Entertainment",
+        "type": "voice"
+      },
+      "year": 1969,
+      "kinopoisk_id": "79841",
+      "imdb_id": "tt0065021",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=142",
+      "shikimori_id": "2811",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-20T13:32:23Z",
+      "updated_at": "2020-09-28T12:39:58Z"
+    },
+    {
       "id": "movie-49958",
       "type": "anime",
       "link": "",
@@ -2314,84 +2417,6 @@
       "blocked_countries": [],
       "created_at": "2020-09-25T11:23:11Z",
       "updated_at": "2020-09-25T11:23:11Z"
-    },
-    {
-      "id": "movie-60940",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Подводные друзья",
-      "title_orig": "Veealused",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 1973,
-      "kinopoisk_id": "137809",
-      "imdb_id": "tt0452513",
-      "quality": "VHSRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-25T11:22:15Z",
-      "updated_at": "2020-09-25T11:22:15Z"
-    },
-    {
-      "id": "movie-60941",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Пони бегает по кругу",
-      "title_orig": "Pony begaet po krugu",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1974,
-      "kinopoisk_id": "257018",
-      "imdb_id": "tt6071080",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-25T11:20:01Z",
-      "updated_at": "2020-09-25T11:20:01Z"
-    },
-    {
-      "id": "movie-60942",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Приключения медвежонка Садко",
-      "title_orig": "Приключения медвежонка Садко",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1990,
-      "kinopoisk_id": "972194",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-25T11:19:07Z",
-      "updated_at": "2020-09-25T11:19:07Z"
-    },
-    {
-      "id": "movie-60943",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Притча о Гассане",
-      "title_orig": "Притча о Гассане",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1987,
-      "kinopoisk_id": "1007994",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-25T11:18:08Z",
-      "updated_at": "2020-09-25T11:18:08Z"
     }
   ]
 }

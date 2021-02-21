@@ -1,6 +1,100 @@
 {
   "results": [
     {
+      "id": "serial-25000",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Привет, Дракула",
+      "title_orig": "Annyeong deurakyulla",
+      "other_title": "Здравствуй, Дракула / Hi Dracula",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 1,
+      "episodes_count": 1,
+      "kinopoisk_id": "1325623",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-21T23:14:32Z",
+      "updated_at": "2020-04-21T23:18:58Z"
+    },
+    {
+      "id": "serial-24999",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Привет, Дракула",
+      "title_orig": "Annyeong deurakyulla",
+      "other_title": "Здравствуй, Дракула / Hi Dracula",
+      "translation": {
+        "id": 622,
+        "title": "HighHopes",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 2,
+      "episodes_count": 2,
+      "kinopoisk_id": "1325623",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-21T23:14:12Z",
+      "updated_at": "2020-04-21T23:14:12Z"
+    },
+    {
+      "id": "serial-24993",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Шаг в прошлое",
+      "title_orig": "A Step Into The Past (2018)",
+      "other_title": "Xun Qin Ji / A Legend of a Modern Man Gets Back to Qin Dynasty",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 40,
+      "episodes_count": 40,
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-21T16:07:02Z",
+      "updated_at": "2020-04-21T23:10:43Z"
+    },
+    {
+      "id": "serial-16866",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "И снова здравствуйте!",
+      "title_orig": "Hello Again!",
+      "other_title": "No You Nian Da Xue Ma? / Do you have a college?",
+      "translation": {
+        "id": 918,
+        "title": "Дораманутая / W3",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-05-26T18:32:01Z",
+      "updated_at": "2020-04-21T19:55:42Z"
+    },
+    {
       "id": "serial-24992",
       "type": "foreign-serial",
       "link": "",
@@ -2045,87 +2139,6 @@
       "blocked_countries": [],
       "created_at": "2020-04-21T07:37:39Z",
       "updated_at": "2020-04-21T07:37:39Z"
-    },
-    {
-      "id": "movie-53979",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Чудное мгновенье",
-      "title_orig": "Wo de qing di nu xu",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1111725",
-      "imdb_id": "tt7779936",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-21T07:18:04Z",
-      "updated_at": "2020-04-21T07:18:04Z"
-    },
-    {
-      "id": "movie-53980",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Черный Сад",
-      "title_orig": "Black Garden",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1064546",
-      "imdb_id": "tt6684976",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-21T07:14:41Z",
-      "updated_at": "2020-04-21T07:14:41Z"
-    },
-    {
-      "id": "movie-8443",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Воспоминания меча",
-      "title_orig": "Hyeomnyeo: Kar-ui gi-eok",
-      "other_title": "Меч помнит всё / Memories of the Sword",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "780393",
-      "imdb_id": "tt3054798",
-      "quality": "HDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-02-17T16:18:05Z",
-      "updated_at": "2020-04-21T06:46:53Z"
-    },
-    {
-      "id": "movie-53978",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Сознание",
-      "title_orig": "Conscious",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "964220",
-      "imdb_id": "tt5489276",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-21T06:42:47Z",
-      "updated_at": "2020-04-21T06:42:47Z"
     }
   ]
 }

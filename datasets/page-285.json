@@ -1,6 +1,97 @@
 {
   "results": [
     {
+      "id": "movie-31095",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Прикосновение",
+      "title_orig": "Touch",
+      "other_title": "Рассвет",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "797817",
+      "imdb_id": "tt3177264",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-22T09:14:58Z",
+      "updated_at": "2019-01-24T14:31:07Z"
+    },
+    {
+      "id": "serial-13240",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Невеста поневоле",
+      "title_orig": "Jao Sao Jum Yorm",
+      "other_title": "When I Marry A Stranger",
+      "translation": {
+        "id": 881,
+        "title": "STAR-TREK",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 8,
+      "episodes_count": 8,
+      "kinopoisk_id": "1199693",
+      "imdb_id": "tt8286954",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-11-13T19:06:33Z",
+      "updated_at": "2019-01-24T10:19:02Z"
+    },
+    {
+      "id": "serial-13120",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Улыбнись",
+      "title_orig": "Xiang kan ni wei xiao",
+      "other_title": "Smile / Sm:)e",
+      "translation": {
+        "id": 639,
+        "title": "SoftBox",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 24,
+      "kinopoisk_id": "1245274",
+      "imdb_id": "tt10244936",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-11-06T15:19:31Z",
+      "updated_at": "2019-01-24T10:16:56Z"
+    },
+    {
+      "id": "movie-2155",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Подвал",
+      "title_orig": "Crawlspace",
+      "translation": {
+        "id": 680,
+        "title": "den904",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "623360",
+      "imdb_id": "tt1890375",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2014-09-24T19:20:17Z",
+      "updated_at": "2019-01-24T07:43:05Z"
+    },
+    {
       "id": "movie-30203",
       "type": "foreign-movie",
       "link": "",
@@ -2046,105 +2137,6 @@
       "blocked_countries": [],
       "created_at": "2019-01-12T18:59:03Z",
       "updated_at": "2019-01-12T18:59:03Z"
-    },
-    {
-      "id": "serial-13974",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Мой сосед-адвокат Чо Дыль-хо",
-      "title_orig": "Dongnebyunhosa Jo Deul-ho",
-      "other_title": "Соседский адвокат Чо Дыль Хо / Местный адвокат Чо Дыль Хо / Мой адвокат, господин Чо / Neighborhood Lawyer Jo Deul Ho / My Lawyer, Mr. Jo",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 20,
-      "episodes_count": 20,
-      "kinopoisk_id": "990773",
-      "imdb_id": "tt5616430",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-01-09T22:45:29Z",
-      "updated_at": "2019-01-12T14:24:37Z"
-    },
-    {
-      "id": "serial-14025",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Хромированный Региос",
-      "title_orig": "Koukaku no Regios",
-      "other_title": "Chrome Shelled Regios",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2009,
-      "last_season": 1,
-      "last_episode": 24,
-      "episodes_count": 24,
-      "kinopoisk_id": "455467",
-      "imdb_id": "tt1394286",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7058",
-      "shikimori_id": "4186",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-01-12T09:55:50Z",
-      "updated_at": "2019-01-12T09:55:50Z"
-    },
-    {
-      "id": "serial-6618",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Морская невеста [ТВ]",
-      "title_orig": "Seto no Hanayome",
-      "other_title": "My Bride is a Mermaid",
-      "translation": {
-        "id": 557,
-        "title": "JAM",
-        "type": "voice"
-      },
-      "year": 2007,
-      "last_season": 1,
-      "last_episode": 26,
-      "episodes_count": 26,
-      "kinopoisk_id": "493803",
-      "imdb_id": "tt1739796",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6140",
-      "shikimori_id": "2104",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-26T01:07:56Z",
-      "updated_at": "2019-01-12T09:52:56Z"
-    },
-    {
-      "id": "movie-30761",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Когда я стану великаном",
-      "title_orig": "Kogda ya stanu velikanom",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1979,
-      "kinopoisk_id": "44849",
-      "imdb_id": "tt0077815",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-11T11:34:10Z",
-      "updated_at": "2019-01-11T11:34:10Z"
     }
   ]
 }

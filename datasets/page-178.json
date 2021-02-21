@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-23049",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Охота на монстра 2",
+      "title_orig": "Zhuo yao ji 2",
+      "translation": {
+        "id": 791,
+        "title": "RealFake",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1008195",
+      "imdb_id": "tt6170484",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-04-18T05:12:41Z",
+      "updated_at": "2020-01-07T13:16:47Z"
+    },
+    {
+      "id": "movie-47253",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Операция «Скорпион»",
+      "title_orig": "Jie zi zhan shi",
+      "translation": {
+        "id": 580,
+        "title": "Дольский",
+        "type": "voice"
+      },
+      "year": 1992,
+      "kinopoisk_id": "37199",
+      "imdb_id": "tt0102159",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-07T13:15:18Z",
+      "updated_at": "2020-01-07T13:15:18Z"
+    },
+    {
+      "id": "movie-47254",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Полководцы",
+      "title_orig": "Tau ming chong",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2007,
+      "kinopoisk_id": "276219",
+      "imdb_id": "tt0913968",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-07T13:13:59Z",
+      "updated_at": "2020-01-07T13:13:59Z"
+    },
+    {
+      "id": "movie-47255",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Женщина, которая ушла",
+      "title_orig": "Ang babaeng humayo",
+      "translation": {
+        "id": 677,
+        "title": "BadBajo",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "989724",
+      "imdb_id": "tt5843990",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-07T13:11:58Z",
+      "updated_at": "2020-01-07T13:11:58Z"
+    },
+    {
       "id": "movie-47256",
       "type": "foreign-movie",
       "link": "",
@@ -2198,103 +2278,6 @@
       "blocked_seasons": {},
       "created_at": "2020-01-05T05:08:15Z",
       "updated_at": "2020-01-05T22:08:30Z"
-    },
-    {
-      "id": "serial-20746",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Сакура - хранительница времени",
-      "title_orig": "T.P. Sakura: Time Paladin Sakura",
-      "other_title": "T.P.さくら 時空樹防衛戦",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2011,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7924",
-      "shikimori_id": "9393",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-01-05T22:07:24Z",
-      "updated_at": "2020-01-05T22:07:24Z"
-    },
-    {
-      "id": "serial-20745",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Дурни, тесты, аватары OVA",
-      "title_orig": "Baka to Test to Shoukanjuu: Matsuri",
-      "other_title": "Дурак, тест и призванные существа: Фестиваль / Балбес, тесты и призванные существа",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2011,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "kinopoisk_id": "679757",
-      "imdb_id": "tt2656402",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8057",
-      "shikimori_id": "9471",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-01-05T22:06:08Z",
-      "updated_at": "2020-01-05T22:06:08Z"
-    },
-    {
-      "id": "movie-47168",
-      "type": "anime",
-      "link": "",
-      "title": "Воскрешение Будды",
-      "title_orig": "Budda saitan",
-      "other_title": "The Rebirth of Buddha",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2009,
-      "kinopoisk_id": "479762",
-      "imdb_id": "tt1525803",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7431",
-      "shikimori_id": "6985",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-05T22:02:49Z",
-      "updated_at": "2020-01-05T22:02:49Z"
-    },
-    {
-      "id": "movie-47167",
-      "type": "anime",
-      "link": "",
-      "title": "Боевой доспех",
-      "title_orig": "Gundress",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 1999,
-      "kinopoisk_id": "233182",
-      "imdb_id": "tt0331508",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2742",
-      "shikimori_id": "1160",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-05T22:01:24Z",
-      "updated_at": "2020-01-05T22:01:24Z"
     }
   ]
 }

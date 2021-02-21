@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-31252",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Нога",
+      "title_orig": "Noga",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1991,
+      "kinopoisk_id": "41572",
+      "imdb_id": "tt0309922",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-24T22:38:26Z",
+      "updated_at": "2019-04-25T08:14:55Z"
+    },
+    {
+      "id": "movie-32864",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Василий Буслаев",
+      "title_orig": "Vasiliy Buslaev",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1982,
+      "kinopoisk_id": "45674",
+      "imdb_id": "tt0084850",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-25T21:34:34Z",
+      "updated_at": "2019-04-25T08:12:36Z"
+    },
+    {
+      "id": "movie-35724",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Ловкач",
+      "title_orig": "Loukyam",
+      "translation": {
+        "id": 651,
+        "title": "Люб. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "854824",
+      "imdb_id": "tt3982436",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-25T07:14:07Z",
+      "updated_at": "2019-04-25T07:14:07Z"
+    },
+    {
+      "id": "movie-35727",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Берег спасения",
+      "title_orig": "Bereg spaseniya",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1990,
+      "kinopoisk_id": "46086",
+      "imdb_id": "tt0312459",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-25T07:10:00Z",
+      "updated_at": "2019-04-25T07:10:00Z"
+    },
+    {
       "id": "movie-35697",
       "type": "foreign-movie",
       "link": "",
@@ -1928,86 +2008,6 @@
       "blocked_countries": [],
       "created_at": "2019-04-22T11:55:10Z",
       "updated_at": "2019-04-22T11:55:10Z"
-    },
-    {
-      "id": "movie-35501",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Деревня Утка",
-      "title_orig": "Derevnya Utka. Skazka.",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1977,
-      "kinopoisk_id": "44149",
-      "imdb_id": "tt0074396",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-22T11:52:32Z",
-      "updated_at": "2019-04-22T11:52:32Z"
-    },
-    {
-      "id": "movie-35504",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Человек с ружьем",
-      "title_orig": "Chelovek s ruzhyom",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1938,
-      "kinopoisk_id": "45467",
-      "imdb_id": "tt0029986",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-22T11:47:38Z",
-      "updated_at": "2019-04-22T11:47:38Z"
-    },
-    {
-      "id": "movie-35505",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Человек не сдается",
-      "title_orig": "Chelovek ne sdayotsya",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1961,
-      "kinopoisk_id": "45458",
-      "imdb_id": "tt0313877",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-22T11:46:41Z",
-      "updated_at": "2019-04-22T11:46:41Z"
-    },
-    {
-      "id": "movie-35506",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Чайка",
-      "title_orig": "Chayka",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1972,
-      "kinopoisk_id": "45434",
-      "imdb_id": "tt0065533",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-22T11:45:46Z",
-      "updated_at": "2019-04-22T11:45:46Z"
     }
   ]
 }

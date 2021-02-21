@@ -1,6 +1,85 @@
 {
   "results": [
     {
+      "id": "movie-62336",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Девочка и дельфин",
+      "title_orig": "A Girl and a Dolphin",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1979,
+      "kinopoisk_id": "431075",
+      "imdb_id": "tt4866834",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-27T16:54:07Z",
+      "updated_at": "2020-10-27T16:54:07Z"
+    },
+    {
+      "id": "movie-62337",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Девочка и зайцы",
+      "title_orig": "Devochka i zaytsy",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1985,
+      "kinopoisk_id": "565245",
+      "imdb_id": "tt2397467",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-27T16:53:01Z",
+      "updated_at": "2020-10-27T16:53:01Z"
+    },
+    {
+      "id": "movie-62338",
+      "type": "russian-movie",
+      "link": "",
+      "title": "День рождения",
+      "title_orig": "Den rozhdeniya",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1959,
+      "kinopoisk_id": "430529",
+      "imdb_id": "tt2321253",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-27T16:51:39Z",
+      "updated_at": "2020-10-27T16:51:39Z"
+    },
+    {
+      "id": "movie-62339",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Жила-была курочка",
+      "title_orig": "Жила-была курочка",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1977,
+      "kinopoisk_id": "258111",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-27T16:50:23Z",
+      "updated_at": "2020-10-27T16:50:23Z"
+    },
+    {
       "id": "movie-62340",
       "type": "russian-movie",
       "link": "",
@@ -1980,85 +2059,6 @@
       "blocked_countries": [],
       "created_at": "2020-10-26T12:14:46Z",
       "updated_at": "2020-10-26T12:14:46Z"
-    },
-    {
-      "id": "movie-62227",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Сказ о Евпатии Коловрате",
-      "title_orig": "Skaz o Evpatii Kolovrate",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1985,
-      "kinopoisk_id": "460520",
-      "imdb_id": "tt5898292",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-10-26T12:13:33Z",
-      "updated_at": "2020-10-26T12:13:33Z"
-    },
-    {
-      "id": "movie-62229",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Не надо торопиться",
-      "title_orig": "Не надо торопиться",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1985,
-      "kinopoisk_id": "1271097",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-10-26T12:12:56Z",
-      "updated_at": "2020-10-26T12:12:56Z"
-    },
-    {
-      "id": "movie-62231",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Иван Иванович заболел...",
-      "title_orig": "Ivan Ivanych zabolel",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1966,
-      "kinopoisk_id": "594843",
-      "imdb_id": "tt7682968",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-10-26T12:11:35Z",
-      "updated_at": "2020-10-26T12:11:35Z"
-    },
-    {
-      "id": "movie-32605",
-      "type": "soviet-cartoon",
-      "link": "",
-      "title": "Павлиний хвост",
-      "title_orig": "Pavliniy khvost",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1946,
-      "kinopoisk_id": "259245",
-      "imdb_id": "tt1794902",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-10-26T15:34:05Z",
-      "updated_at": "2020-10-26T12:10:54Z"
     }
   ]
 }

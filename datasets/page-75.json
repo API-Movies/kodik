@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-58451",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Кораблик",
+      "title_orig": "Korablik",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1956,
+      "kinopoisk_id": "256525",
+      "imdb_id": "tt1794833",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-04T07:34:35Z",
+      "updated_at": "2020-08-04T07:34:35Z"
+    },
+    {
+      "id": "movie-58424",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Как щенок учился плавать",
+      "title_orig": "Kak shchenok uchilsya plavat",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1984,
+      "kinopoisk_id": "260144",
+      "imdb_id": "tt6100210",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-04T07:33:43Z",
+      "updated_at": "2020-08-04T07:33:43Z"
+    },
+    {
+      "id": "movie-58425",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Какого рожна хочется?",
+      "title_orig": "Kakogo rozhna khochetsya?",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1975,
+      "kinopoisk_id": "491814",
+      "imdb_id": "tt7309660",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-04T07:32:46Z",
+      "updated_at": "2020-08-04T07:32:46Z"
+    },
+    {
+      "id": "movie-58426",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Какой звук издает комар?",
+      "title_orig": "Kakoy zvuk izdayot komar?",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1989,
+      "kinopoisk_id": "260048",
+      "imdb_id": "tt6480876",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-04T07:31:58Z",
+      "updated_at": "2020-08-04T07:31:58Z"
+    },
+    {
       "id": "movie-58427",
       "type": "russian-movie",
       "link": "",
@@ -2240,93 +2320,6 @@
       "blocked_countries": [],
       "created_at": "2020-07-31T19:04:44Z",
       "updated_at": "2020-07-31T19:04:44Z"
-    },
-    {
-      "id": "serial-28222",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Здравствуй, выпечка со вкусом любви!",
-      "title_orig": "Bonjour: Koiaji Patisserie",
-      "other_title": "Bonjour Sweet Love Patisserie",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 24,
-      "episodes_count": 24,
-      "kinopoisk_id": "893120",
-      "imdb_id": "tt4046254",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2685",
-      "shikimori_id": "25839",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-31T16:12:09Z",
-      "updated_at": "2020-07-31T16:12:09Z"
-    },
-    {
-      "id": "movie-58228",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Романтическая кукла",
-      "title_orig": "Romansu doru",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "kinopoisk_id": "1301760",
-      "imdb_id": "tt10914712",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-07-28T17:58:09Z",
-      "updated_at": "2020-07-31T13:58:50Z"
-    },
-    {
-      "id": "movie-58339",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Шторм выходит на берег",
-      "title_orig": "Landfall",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1023430",
-      "imdb_id": "tt6131562",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-07-31T11:42:05Z",
-      "updated_at": "2020-07-31T11:42:05Z"
-    },
-    {
-      "id": "movie-17234",
-      "type": "russian-movie",
-      "link": "",
-      "title": "В зоне особого внимания",
-      "title_orig": "В зоне особого внимания",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1978,
-      "kinopoisk_id": "45650",
-      "imdb_id": "tt0078450",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-06-23T11:41:15Z",
-      "updated_at": "2020-07-31T11:33:30Z"
     }
   ]
 }

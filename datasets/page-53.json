@@ -1,6 +1,92 @@
 {
   "results": [
     {
+      "id": "movie-27932",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Планета зверей",
+      "title_orig": "Dong wu shi jie",
+      "other_title": "Dongwu shijie",
+      "translation": {
+        "id": 794,
+        "title": "HDrezka Studio",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1047812",
+      "imdb_id": "tt7946836",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-10-31T23:58:58Z",
+      "updated_at": "2020-10-10T14:44:34Z"
+    },
+    {
+      "id": "movie-22154",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Телохранитель",
+      "title_orig": "The Bodyguard",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "947599",
+      "imdb_id": "tt4970038",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-12-23T07:26:10Z",
+      "updated_at": "2020-10-10T14:41:32Z"
+    },
+    {
+      "id": "movie-41614",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Чокнутая",
+      "title_orig": "Re loca",
+      "translation": {
+        "id": 794,
+        "title": "HDrezka Studio",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1092660",
+      "imdb_id": "tt7177720",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-08-29T07:07:44Z",
+      "updated_at": "2020-10-10T14:22:32Z"
+    },
+    {
+      "id": "serial-12929",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Давайте есть",
+      "title_orig": "Siksyareul habsida",
+      "other_title": "Кушать подано / Давай поужинаем / Время обедать / Let's Eat",
+      "translation": {
+        "id": 639,
+        "title": "SoftBox",
+        "type": "voice"
+      },
+      "year": 2013,
+      "last_season": 3,
+      "last_episode": 14,
+      "episodes_count": 14,
+      "kinopoisk_id": "815207",
+      "imdb_id": "tt3385484",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-07-20T08:47:10Z",
+      "updated_at": "2020-10-10T13:03:28Z"
+    },
+    {
       "id": "serial-23667",
       "type": "foreign-serial",
       "link": "",
@@ -2292,101 +2378,6 @@
       "blocked_seasons": {},
       "created_at": "2020-07-15T22:47:30Z",
       "updated_at": "2020-10-05T06:26:24Z"
-    },
-    {
-      "id": "serial-28110",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Декаданс",
-      "title_orig": "Deca-Dence",
-      "other_title": "Дека-данс",
-      "translation": {
-        "id": 761,
-        "title": "Onibaku",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1388542",
-      "imdb_id": "tt12443322",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10146",
-      "shikimori_id": "40056",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-27T07:21:12Z",
-      "updated_at": "2020-10-05T06:26:11Z"
-    },
-    {
-      "id": "movie-61331",
-      "type": "anime",
-      "link": "",
-      "title": "Мастера Меча Оффлайн: Порядковый ранг",
-      "title_orig": "Sword Art Online Movie: Ordinal Scale - Sword Art Offline",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2017,
-      "shikimori_id": "36439",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-10-05T05:29:53Z",
-      "updated_at": "2020-10-05T05:31:16Z"
-    },
-    {
-      "id": "serial-28144",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Предназначение любви",
-      "title_orig": "The Destiny of Love",
-      "other_title": "Желание судьбы / Prom Pissawat",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "mdl_id": "34176-prom-pissawat",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-28T17:59:18Z",
-      "updated_at": "2020-10-04T18:09:12Z"
-    },
-    {
-      "id": "serial-27759",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Мистер ошибка",
-      "title_orig": "Bay Yanlıs",
-      "other_title": "Мистер неправильный",
-      "translation": {
-        "id": 850,
-        "title": "AveTurk",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 14,
-      "episodes_count": 14,
-      "kinopoisk_id": "1392666",
-      "imdb_id": "tt12453442",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-13T14:18:30Z",
-      "updated_at": "2020-10-04T17:53:32Z"
     }
   ]
 }

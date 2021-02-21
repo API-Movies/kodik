@@ -1,6 +1,90 @@
 {
   "results": [
     {
+      "id": "movie-23251",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Незнакомец с моими детьми",
+      "title_orig": "A Stranger with My Kids",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "973200",
+      "imdb_id": "tt5612874",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-04-25T15:40:59Z",
+      "updated_at": "2018-04-26T04:23:27Z"
+    },
+    {
+      "id": "movie-22533",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Детектив из Чайнатауна 2",
+      "title_orig": "Tang ren jie tan an 2",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1047942",
+      "imdb_id": "tt7752454",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-04-01T12:38:52Z",
+      "updated_at": "2018-04-26T04:00:28Z"
+    },
+    {
+      "id": "serial-10233",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Трактаун",
+      "title_orig": "Trucktown",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 76,
+      "episodes_count": 76,
+      "kinopoisk_id": "1112472",
+      "imdb_id": "tt3860928",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-04-22T21:49:48Z",
+      "updated_at": "2018-04-25T11:36:06Z"
+    },
+    {
+      "id": "movie-23235",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Перерождение",
+      "title_orig": "Re: Born",
+      "translation": {
+        "id": 599,
+        "title": "Хихикающий доктор",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "978031",
+      "imdb_id": "tt5678110",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-04-25T06:10:36Z",
+      "updated_at": "2018-04-25T06:10:36Z"
+    },
+    {
       "id": "movie-23237",
       "type": "foreign-movie",
       "link": "",
@@ -2005,86 +2089,6 @@
       "blocked_countries": [],
       "created_at": "2018-04-10T04:47:44Z",
       "updated_at": "2018-04-10T04:47:44Z"
-    },
-    {
-      "id": "movie-22778",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Кунхам: Пограничный остров",
-      "title_orig": "Gun-ham-do",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "996621",
-      "imdb_id": "tt5969696",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-04-09T08:03:33Z",
-      "updated_at": "2018-04-09T08:03:33Z"
-    },
-    {
-      "id": "movie-22781",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "По стечению обстоятельств",
-      "title_orig": "Ittefaq",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1049467",
-      "imdb_id": "tt6692354",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-04-09T07:57:08Z",
-      "updated_at": "2018-04-09T07:57:08Z"
-    },
-    {
-      "id": "movie-22772",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Дефективные",
-      "title_orig": "Defective",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "942224",
-      "imdb_id": "tt4526372",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-04-09T06:49:25Z",
-      "updated_at": "2018-04-09T06:49:25Z"
-    },
-    {
-      "id": "movie-22745",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Проклятое общежитие: Повелитель кукол",
-      "title_orig": "Dào líng sùshè wáwá laoshi",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1074553",
-      "imdb_id": "tt6953274",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-04-07T21:15:05Z",
-      "updated_at": "2018-04-09T06:40:09Z"
     }
   ]
 }

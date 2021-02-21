@@ -1,6 +1,97 @@
 {
   "results": [
     {
+      "id": "serial-25677",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Стражи аэропорта",
+      "title_orig": "Airport Security Unit",
+      "translation": {
+        "id": 920,
+        "title": "Octopus",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 25,
+      "episodes_count": 25,
+      "kinopoisk_id": "1277484",
+      "imdb_id": "tt10497564",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-14T10:57:44Z",
+      "updated_at": "2020-05-14T17:20:15Z"
+    },
+    {
+      "id": "serial-24831",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Смертельное голосование",
+      "title_orig": "Social Death Vote",
+      "translation": {
+        "id": 941,
+        "title": "Pus'ki production",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 6,
+      "episodes_count": 6,
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-15T17:35:13Z",
+      "updated_at": "2020-05-14T16:45:42Z"
+    },
+    {
+      "id": "movie-47844",
+      "type": "anime",
+      "link": "",
+      "title": "Проект Кей: Семь историй (фильм первый)",
+      "title_orig": "K: Seven Stories Movie 1: R:B - Blaze",
+      "other_title": "Проект Кей: Семь историй. Красные — Пламя / K: Seven Stories",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2018,
+      "imdb_id": "tt8515024",
+      "shikimori_id": "33248",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-16T21:02:15Z",
+      "updated_at": "2020-05-14T15:37:14Z"
+    },
+    {
+      "id": "serial-25680",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Выдающаяся женщина",
+      "title_orig": "Prominent Woman",
+      "other_title": "Chooljoonghan Yeoja / Remarkable Woman / The Outstanding Woman",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 2,
+      "episodes_count": 2,
+      "imdb_id": "tt6953948",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-14T15:13:03Z",
+      "updated_at": "2020-05-14T15:13:03Z"
+    },
+    {
       "id": "movie-55282",
       "type": "foreign-movie",
       "link": "",
@@ -2122,86 +2213,6 @@
       "blocked_countries": [],
       "created_at": "2020-05-11T09:39:12Z",
       "updated_at": "2020-05-11T09:39:12Z"
-    },
-    {
-      "id": "movie-55140",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Лгунья",
-      "title_orig": "Jhoothi",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1985,
-      "kinopoisk_id": "96992",
-      "imdb_id": "tt0244567",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-11T09:38:23Z",
-      "updated_at": "2020-05-11T09:38:23Z"
-    },
-    {
-      "id": "movie-55141",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Любовь без памяти",
-      "title_orig": "Ek Ladka Ek Ladki",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1992,
-      "kinopoisk_id": "221873",
-      "imdb_id": "tt0291883",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-11T09:37:27Z",
-      "updated_at": "2020-05-11T09:37:27Z"
-    },
-    {
-      "id": "movie-55142",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Выше Бога",
-      "title_orig": "Maalik",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1972,
-      "kinopoisk_id": "96083",
-      "imdb_id": "tt0156754",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-11T09:37:09Z",
-      "updated_at": "2020-05-11T09:37:09Z"
-    },
-    {
-      "id": "movie-55112",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Мужчины с толстой кожей",
-      "title_orig": "Hombres de piel dura",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1248631",
-      "imdb_id": "tt9859504",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-11T09:01:00Z",
-      "updated_at": "2020-05-11T09:01:00Z"
     }
   ]
 }

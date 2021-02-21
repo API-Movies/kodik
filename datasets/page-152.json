@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-49178",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Миямото Мусаси: Дуэль у горы Хання",
+      "title_orig": "Miyamoto Musashi: Hannyazaka no kettô",
+      "translation": {
+        "id": 590,
+        "title": "Кузнецов",
+        "type": "voice"
+      },
+      "year": 1962,
+      "kinopoisk_id": "410188",
+      "imdb_id": "tt0176801",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-11T09:42:55Z",
+      "updated_at": "2020-02-11T09:42:55Z"
+    },
+    {
+      "id": "movie-49179",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Преступники",
+      "title_orig": "Xiang gang qi an",
+      "translation": {
+        "id": 694,
+        "title": "Береговых",
+        "type": "voice"
+      },
+      "year": 1976,
+      "kinopoisk_id": "116401",
+      "imdb_id": "tt0074358",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-11T09:40:28Z",
+      "updated_at": "2020-02-11T09:40:28Z"
+    },
+    {
+      "id": "movie-49180",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Просто герои",
+      "title_orig": "Yee dam kwan ying",
+      "translation": {
+        "id": 590,
+        "title": "Кузнецов",
+        "type": "voice"
+      },
+      "year": 1989,
+      "kinopoisk_id": "19253",
+      "imdb_id": "tt0094351",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-11T09:39:53Z",
+      "updated_at": "2020-02-11T09:39:53Z"
+    },
+    {
+      "id": "movie-49181",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Светлое будущее",
+      "title_orig": "Moo-jeok-ja",
+      "translation": {
+        "id": 675,
+        "title": "zamez",
+        "type": "voice"
+      },
+      "year": 2010,
+      "kinopoisk_id": "462730",
+      "imdb_id": "tt1138442",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-11T09:38:51Z",
+      "updated_at": "2020-02-11T09:38:51Z"
+    },
+    {
       "id": "movie-49182",
       "type": "foreign-movie",
       "link": "",
@@ -2257,105 +2337,6 @@
       "blocked_countries": [],
       "created_at": "2020-02-09T00:14:06Z",
       "updated_at": "2020-02-09T00:14:06Z"
-    },
-    {
-      "id": "movie-49055",
-      "type": "anime",
-      "link": "",
-      "title": "Поцелуй эти лепестки: Неразлучны с любимой моей",
-      "title_orig": "Sono Hanabira ni Kuchizuke o",
-      "other_title": "その花びらにくちづけを",
-      "translation": {
-        "id": 761,
-        "title": "Onibaku",
-        "type": "voice"
-      },
-      "year": 2010,
-      "kinopoisk_id": "684351",
-      "imdb_id": "tt4156210",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6680",
-      "shikimori_id": "7748",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-02-09T00:12:31Z",
-      "updated_at": "2020-02-09T00:12:31Z"
-    },
-    {
-      "id": "serial-22624",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Тайное послание",
-      "title_orig": "Sikeurit meseji",
-      "other_title": "Secret Message",
-      "translation": {
-        "id": 639,
-        "title": "SoftBox",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 1,
-      "last_episode": 18,
-      "episodes_count": 18,
-      "kinopoisk_id": "957733",
-      "imdb_id": "tt5150296",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-02-08T23:09:40Z",
-      "updated_at": "2020-02-08T23:09:40Z"
-    },
-    {
-      "id": "serial-22623",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Больные на голову",
-      "title_orig": "Ptzuim BaRosh",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2013,
-      "last_season": 2,
-      "last_episode": 8,
-      "episodes_count": 17,
-      "kinopoisk_id": "1047960",
-      "imdb_id": "tt2983900",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-02-08T22:43:41Z",
-      "updated_at": "2020-02-08T22:43:41Z"
-    },
-    {
-      "id": "serial-12940",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Освобождение шпионов",
-      "title_orig": "Release the Spyce",
-      "other_title": "Тайные миссии команды ЦукиКаге",
-      "translation": {
-        "id": 559,
-        "title": "Kansai",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1211346",
-      "imdb_id": "tt9238088",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9557",
-      "shikimori_id": "37221",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-10-22T18:00:37Z",
-      "updated_at": "2020-02-08T22:01:54Z"
     }
   ]
 }

@@ -1,6 +1,88 @@
 {
   "results": [
     {
+      "id": "movie-52524",
+      "type": "anime",
+      "link": "",
+      "title": "Люпен III против детектива Конана",
+      "title_orig": "Rupan Sansei vs. Meitantei Conan: The Movie",
+      "other_title": "Люпен III против Детектива Конана (фильм) / Lupin III vs. Detective Conan The Movie / Lupin Sansei vs. Meitantei Conan The Movie",
+      "translation": {
+        "id": 827,
+        "title": "Persona99",
+        "type": "voice"
+      },
+      "year": 2013,
+      "kinopoisk_id": "781545",
+      "imdb_id": "tt1397219",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1446",
+      "shikimori_id": "18429",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-26T09:39:05Z",
+      "updated_at": "2020-03-26T09:39:05Z"
+    },
+    {
+      "id": "movie-52462",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Слепой",
+      "title_orig": "Thaandavam",
+      "translation": {
+        "id": 976,
+        "title": "Индийское кино",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "673268",
+      "imdb_id": "tt2271641",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-26T09:38:23Z",
+      "updated_at": "2020-03-26T09:38:23Z"
+    },
+    {
+      "id": "movie-52463",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Танцовщица",
+      "title_orig": "Umrao Jaan Ada",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 1972,
+      "kinopoisk_id": "763091",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-26T09:37:38Z",
+      "updated_at": "2020-03-26T09:37:38Z"
+    },
+    {
+      "id": "movie-52464",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Сону, Титу и Свити",
+      "title_orig": "Sonu Ke Titu Ki Sweety",
+      "translation": {
+        "id": 657,
+        "title": "Fanstudio",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1100330",
+      "imdb_id": "tt7581902",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-26T09:36:52Z",
+      "updated_at": "2020-03-26T09:36:52Z"
+    },
+    {
       "id": "movie-52465",
       "type": "foreign-movie",
       "link": "",
@@ -2252,113 +2334,6 @@
       "blocked_countries": [],
       "created_at": "2020-03-24T18:29:50Z",
       "updated_at": "2020-03-24T18:29:50Z"
-    },
-    {
-      "id": "serial-8832",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Вторжение гигантов OVA-3",
-      "title_orig": "Shingeki no Kyojin: Lost Girls",
-      "other_title": "Атака титанов: Потерянные девушки / Вторжение титанов: Потерянные девушки / Attack on Titan: Lost Girls",
-      "translation": {
-        "id": 559,
-        "title": "Kansai",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 3,
-      "last_episode": 3,
-      "episodes_count": 3,
-      "kinopoisk_id": "1142541",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9371",
-      "shikimori_id": "36106",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-01-18T19:38:35Z",
-      "updated_at": "2020-03-24T18:06:22Z"
-    },
-    {
-      "id": "serial-5847",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Дом Пяти листьев",
-      "title_orig": "Sarai-ya Goyou",
-      "other_title": "House of Five Leaves",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2010,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "570089",
-      "imdb_id": "tt1710529",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7737",
-      "shikimori_id": "7588",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-11T23:05:03Z",
-      "updated_at": "2020-03-24T18:05:24Z"
-    },
-    {
-      "id": "serial-5598",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Голубые цветы",
-      "title_orig": "Aoi Hana",
-      "other_title": "Sweet Blue Flowers",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2009,
-      "last_season": 1,
-      "last_episode": 11,
-      "episodes_count": 11,
-      "kinopoisk_id": "500336",
-      "imdb_id": "tt1490066",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7232",
-      "shikimori_id": "6164",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-05T01:18:53Z",
-      "updated_at": "2020-03-24T18:03:07Z"
-    },
-    {
-      "id": "serial-5833",
-      "type": "anime-serial",
-      "link": "",
-      "title": "ДиарС",
-      "title_orig": "DearS",
-      "other_title": "ディアーズ",
-      "translation": {
-        "id": 739,
-        "title": "Animedia",
-        "type": "voice"
-      },
-      "year": 2004,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 13,
-      "kinopoisk_id": "408705",
-      "imdb_id": "tt1019037",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2583",
-      "shikimori_id": "63",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-11T22:49:42Z",
-      "updated_at": "2020-03-24T18:01:10Z"
     }
   ]
 }

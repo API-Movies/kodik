@@ -1,6 +1,106 @@
 {
   "results": [
     {
+      "id": "serial-20922",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Тама: Откуда же он взялся?",
+      "title_orig": "Uchi Tama?! Uchi no Tama Shirimasenka?",
+      "other_title": "Котик Тама? Откуда ты взялся? / Вы не видели нашего Таму? / Uchitama?! Have You Seen My Tama?",
+      "translation": {
+        "id": 910,
+        "title": "AniStar",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 11,
+      "episodes_count": 11,
+      "kinopoisk_id": "1343688",
+      "imdb_id": "tt10675070",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10112",
+      "shikimori_id": "39942",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-09T18:43:09Z",
+      "updated_at": "2020-11-15T15:36:42Z"
+    },
+    {
+      "id": "serial-23605",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Кошачий рай [ТВ]",
+      "title_orig": "Nekopara (2020)",
+      "other_title": "ネコぱら (2020)",
+      "translation": {
+        "id": 923,
+        "title": "AnimeVost",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1332628",
+      "imdb_id": "tt11405370",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10132",
+      "shikimori_id": "38924",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-03-12T23:25:05Z",
+      "updated_at": "2020-11-15T14:59:49Z"
+    },
+    {
+      "id": "serial-29296",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Первая любовь",
+      "title_orig": "Chu Lian Le Na Me Duo Nian",
+      "other_title": "Первый роман / First Romance / First Love After So Many Years",
+      "translation": {
+        "id": 918,
+        "title": "Дораманутая / W3",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 24,
+      "kinopoisk_id": "1417038",
+      "imdb_id": "tt12374142",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-09-17T10:32:44Z",
+      "updated_at": "2020-11-15T14:43:01Z"
+    },
+    {
+      "id": "movie-40926",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Курорт для ныряльщиков на Красном море",
+      "title_orig": "The Red Sea Diving Resort",
+      "other_title": "Operation Brothers",
+      "translation": {
+        "id": 794,
+        "title": "HDrezka Studio",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1045387",
+      "imdb_id": "tt4995776",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-08-10T23:49:39Z",
+      "updated_at": "2020-11-15T13:39:34Z"
+    },
+    {
       "id": "movie-15008",
       "type": "foreign-movie",
       "link": "",
@@ -2092,86 +2192,6 @@
       "blocked_countries": [],
       "created_at": "2020-11-12T14:22:07Z",
       "updated_at": "2020-11-12T14:22:07Z"
-    },
-    {
-      "id": "movie-63211",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Бравый инспектор Мамочкин",
-      "title_orig": "Bravyy inspektor Mamochkin",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1977,
-      "kinopoisk_id": "258043",
-      "imdb_id": "tt6053118",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-12T14:21:03Z",
-      "updated_at": "2020-11-12T14:21:03Z"
-    },
-    {
-      "id": "movie-63212",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Брак",
-      "title_orig": "Brak",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1987,
-      "kinopoisk_id": "260237",
-      "imdb_id": "tt1284448",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-12T14:19:43Z",
-      "updated_at": "2020-11-12T14:19:43Z"
-    },
-    {
-      "id": "movie-63203",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Братец Кролик и братец Лис",
-      "title_orig": "Bratets Krolik i bratets Lis",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1972,
-      "kinopoisk_id": "520537",
-      "imdb_id": "tt6194502",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-12T12:36:40Z",
-      "updated_at": "2020-11-12T12:36:40Z"
-    },
-    {
-      "id": "movie-63188",
-      "type": "russian-movie",
-      "link": "",
-      "title": "В зоопарке — ремонт",
-      "title_orig": "V zooparke - remont!",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1987,
-      "kinopoisk_id": "259330",
-      "imdb_id": "tt4053858",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-12T12:33:54Z",
-      "updated_at": "2020-11-12T12:33:54Z"
     }
   ]
 }

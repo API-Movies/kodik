@@ -1,6 +1,95 @@
 {
   "results": [
     {
+      "id": "movie-29664",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Потерянная земля",
+      "title_orig": "Huang cheng ji",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1120960",
+      "imdb_id": "tt8291232",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-12-15T15:20:43Z",
+      "updated_at": "2018-12-17T08:01:20Z"
+    },
+    {
+      "id": "serial-13687",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Страна приливов",
+      "title_orig": "Tidelands",
+      "translation": {
+        "id": 752,
+        "title": "IDEAFILM",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 8,
+      "episodes_count": 8,
+      "kinopoisk_id": "1118017",
+      "imdb_id": "tt6898970",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-12-16T14:06:27Z",
+      "updated_at": "2018-12-16T14:06:27Z"
+    },
+    {
+      "id": "movie-29677",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Наклбол",
+      "title_orig": "Knuckleball",
+      "translation": {
+        "id": 882,
+        "title": "English",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1015404",
+      "imdb_id": "tt6284256",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-12-16T07:10:13Z",
+      "updated_at": "2018-12-16T07:10:13Z"
+    },
+    {
+      "id": "serial-13671",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Этой зимой дует ветер",
+      "title_orig": "That Winter, the Wind Blows",
+      "other_title": "Той зимой, когда ветер дул / Barami Boond That Winter, The Wind Blows / Geu Gyeo-ool, Barami Boonda / Wind Blows in Winter / geu gyeo-ul, ba-lam-i boon-da",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2013,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "738939",
+      "imdb_id": "tt2806646",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-12-13T08:04:06Z",
+      "updated_at": "2018-12-15T19:23:02Z"
+    },
+    {
       "id": "serial-13717",
       "type": "foreign-serial",
       "link": "",
@@ -2061,107 +2150,6 @@
       ],
       "created_at": "2018-12-10T08:09:33Z",
       "updated_at": "2018-12-10T08:09:33Z"
-    },
-    {
-      "id": "serial-4224",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Весёлые деньки в общежитии монстров",
-      "title_orig": "Youkai Apartment no Yuuga na Nichijou",
-      "other_title": "Веселая жизнь в общаге с Йокаями",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 26,
-      "episodes_count": 26,
-      "kinopoisk_id": "1115500",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9195",
-      "shikimori_id": "35220",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-07-07T17:19:24Z",
-      "updated_at": "2018-12-09T21:02:52Z"
-    },
-    {
-      "id": "serial-13629",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Доктор Фрост",
-      "title_orig": "Dakteo Peuroseuteu",
-      "other_title": "Dr. Frost",
-      "translation": {
-        "id": 640,
-        "title": "Sound-Group",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "kinopoisk_id": "886289",
-      "imdb_id": "tt4208982",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-12-09T17:11:18Z",
-      "updated_at": "2018-12-09T17:11:18Z"
-    },
-    {
-      "id": "serial-13635",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Господин Пэк",
-      "title_orig": "Miseuteo Baek",
-      "other_title": "Мистер Бэк / Мистер Пэк / Mister Baek / Mr. Back",
-      "translation": {
-        "id": 640,
-        "title": "Sound-Group",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "885354",
-      "imdb_id": "tt4284152",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-12-09T17:02:44Z",
-      "updated_at": "2018-12-09T17:02:44Z"
-    },
-    {
-      "id": "serial-14367",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Сад падающих звёзд",
-      "title_orig": "Liu xing hua yuan",
-      "other_title": "Meteor Garden",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2001,
-      "last_season": 1,
-      "last_episode": 27,
-      "episodes_count": 27,
-      "kinopoisk_id": "401470",
-      "imdb_id": "tt0885981",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-12-09T16:24:14Z",
-      "updated_at": "2018-12-09T16:24:14Z"
     }
   ]
 }

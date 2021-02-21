@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-35311",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Последний гейм",
+      "title_orig": "Posledniy geym",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1981,
+      "kinopoisk_id": "43146",
+      "imdb_id": "tt0237591",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-19T06:11:29Z",
+      "updated_at": "2019-04-19T06:11:29Z"
+    },
+    {
+      "id": "movie-35313",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Приключения маленького Мука",
+      "title_orig": "Priklyucheniya malenkogo Muka",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1984,
+      "kinopoisk_id": "280225",
+      "imdb_id": "tt0261201",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-19T06:08:54Z",
+      "updated_at": "2019-04-19T06:08:54Z"
+    },
+    {
+      "id": "movie-35314",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Примите телеграмму в долг",
+      "title_orig": "Primite telegrammu v dolg",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1979,
+      "kinopoisk_id": "43265",
+      "imdb_id": "tt0146055",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-19T06:08:05Z",
+      "updated_at": "2019-04-19T06:08:05Z"
+    },
+    {
+      "id": "movie-35315",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Прощай, зелень лета",
+      "title_orig": "Proshchay, zelen leta...",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1985,
+      "kinopoisk_id": "43312",
+      "imdb_id": "tt0089846",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-19T06:06:37Z",
+      "updated_at": "2019-04-19T06:06:37Z"
+    },
+    {
       "id": "movie-35291",
       "type": "foreign-movie",
       "link": "",
@@ -1922,86 +2002,6 @@
       "blocked_countries": [],
       "created_at": "2019-02-03T01:07:06Z",
       "updated_at": "2019-04-17T07:45:50Z"
-    },
-    {
-      "id": "movie-31719",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Подарок черного колдуна",
-      "title_orig": "Podarok chyornogo kolduna",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1978,
-      "kinopoisk_id": "43041",
-      "imdb_id": "tt0078095",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-01T09:35:05Z",
-      "updated_at": "2019-04-17T07:44:01Z"
-    },
-    {
-      "id": "movie-31833",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Любимая женщина механика Гаврилова",
-      "title_orig": "Lyubimaya zhenshchina mekhanika Gavrilova",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1981,
-      "kinopoisk_id": "45137",
-      "imdb_id": "tt0155841",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-03T01:52:47Z",
-      "updated_at": "2019-04-17T07:42:48Z"
-    },
-    {
-      "id": "movie-31193",
-      "type": "russian-cartoon",
-      "link": "",
-      "title": "Алиса в Зазеркалье",
-      "title_orig": "Alisa v Zazerkale",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1982,
-      "kinopoisk_id": "43458",
-      "imdb_id": "tt0211192",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-23T22:17:40Z",
-      "updated_at": "2019-04-17T07:40:49Z"
-    },
-    {
-      "id": "movie-31194",
-      "type": "russian-cartoon",
-      "link": "",
-      "title": "Алиса в стране чудес",
-      "title_orig": "Alisa v strane chudes",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1981,
-      "kinopoisk_id": "43457",
-      "imdb_id": "tt0211191",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-23T22:18:52Z",
-      "updated_at": "2019-04-17T07:38:31Z"
     }
   ]
 }

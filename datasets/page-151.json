@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-49367",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Девушка из стали",
+      "title_orig": "Huang jiang nu xia",
+      "translation": {
+        "id": 1088,
+        "title": "Акира",
+        "type": "voice"
+      },
+      "year": 1970,
+      "kinopoisk_id": "116292",
+      "imdb_id": "tt0065958",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-13T15:51:34Z",
+      "updated_at": "2020-02-13T15:51:34Z"
+    },
+    {
+      "id": "movie-49368",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Удар",
+      "title_orig": "Wan-deuk-i",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2011,
+      "kinopoisk_id": "638645",
+      "imdb_id": "tt2088012",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-13T15:42:01Z",
+      "updated_at": "2020-02-13T15:42:01Z"
+    },
+    {
+      "id": "movie-49369",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Храбрецы",
+      "title_orig": "Lie huo ying xiong",
+      "translation": {
+        "id": 694,
+        "title": "Береговых",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1258553",
+      "imdb_id": "tt10218674",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-13T15:40:53Z",
+      "updated_at": "2020-02-13T15:40:53Z"
+    },
+    {
+      "id": "movie-49370",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Храбрые телохранители",
+      "title_orig": "The Bravest Escort Group",
+      "translation": {
+        "id": 694,
+        "title": "Береговых",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1169258",
+      "imdb_id": "tt10473414",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-13T15:39:19Z",
+      "updated_at": "2020-02-13T15:39:19Z"
+    },
+    {
       "id": "movie-49371",
       "type": "foreign-movie",
       "link": "",
@@ -2172,86 +2252,6 @@
       "blocked_countries": [],
       "created_at": "2020-02-11T09:44:06Z",
       "updated_at": "2020-02-11T09:44:06Z"
-    },
-    {
-      "id": "movie-49178",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Миямото Мусаси: Дуэль у горы Хання",
-      "title_orig": "Miyamoto Musashi: Hannyazaka no kettô",
-      "translation": {
-        "id": 590,
-        "title": "Кузнецов",
-        "type": "voice"
-      },
-      "year": 1962,
-      "kinopoisk_id": "410188",
-      "imdb_id": "tt0176801",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-02-11T09:42:55Z",
-      "updated_at": "2020-02-11T09:42:55Z"
-    },
-    {
-      "id": "movie-49179",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Преступники",
-      "title_orig": "Xiang gang qi an",
-      "translation": {
-        "id": 694,
-        "title": "Береговых",
-        "type": "voice"
-      },
-      "year": 1976,
-      "kinopoisk_id": "116401",
-      "imdb_id": "tt0074358",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-02-11T09:40:28Z",
-      "updated_at": "2020-02-11T09:40:28Z"
-    },
-    {
-      "id": "movie-49180",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Просто герои",
-      "title_orig": "Yee dam kwan ying",
-      "translation": {
-        "id": 590,
-        "title": "Кузнецов",
-        "type": "voice"
-      },
-      "year": 1989,
-      "kinopoisk_id": "19253",
-      "imdb_id": "tt0094351",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-02-11T09:39:53Z",
-      "updated_at": "2020-02-11T09:39:53Z"
-    },
-    {
-      "id": "movie-49181",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Светлое будущее",
-      "title_orig": "Moo-jeok-ja",
-      "translation": {
-        "id": 675,
-        "title": "zamez",
-        "type": "voice"
-      },
-      "year": 2010,
-      "kinopoisk_id": "462730",
-      "imdb_id": "tt1138442",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-02-11T09:38:51Z",
-      "updated_at": "2020-02-11T09:38:51Z"
     }
   ]
 }

@@ -1,6 +1,91 @@
 {
   "results": [
     {
+      "id": "movie-45135",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Операция «Феникс»",
+      "title_orig": "Dai lo oi mei lai",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2004,
+      "kinopoisk_id": "84056",
+      "imdb_id": "tt0407708",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-11-15T11:35:33Z",
+      "updated_at": "2019-11-15T11:35:33Z"
+    },
+    {
+      "id": "movie-45136",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Тайный агент",
+      "title_orig": "Kap ba ba dik sung",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 1995,
+      "kinopoisk_id": "23594",
+      "imdb_id": "tt0113153",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-11-15T11:34:39Z",
+      "updated_at": "2019-11-15T11:34:39Z"
+    },
+    {
+      "id": "serial-8600",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Великолепное наследие",
+      "title_orig": "Chanranhan yusan",
+      "other_title": "Shining Inheritance / Brilliant Legacy / Beautiful Legacy",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2009,
+      "last_season": 1,
+      "last_episode": 28,
+      "episodes_count": 28,
+      "kinopoisk_id": "678765",
+      "imdb_id": "tt2283335",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-01-10T00:19:57Z",
+      "updated_at": "2019-11-15T11:29:35Z"
+    },
+    {
+      "id": "movie-45129",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Дом в конце времен",
+      "title_orig": "La casa del fin de los tiempos",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2013,
+      "kinopoisk_id": "732734",
+      "imdb_id": "tt2640474",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-11-15T11:28:42Z",
+      "updated_at": "2019-11-15T11:28:42Z"
+    },
+    {
       "id": "serial-19753",
       "type": "foreign-serial",
       "link": "",
@@ -2176,90 +2261,6 @@
       "blocked_countries": [],
       "created_at": "2019-09-10T10:27:11Z",
       "updated_at": "2019-11-14T12:46:18Z"
-    },
-    {
-      "id": "serial-19741",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Будда",
-      "title_orig": "Buddha: Rajaon ka Raja",
-      "translation": {
-        "id": 770,
-        "title": "ZEE TV",
-        "type": "voice"
-      },
-      "year": 2013,
-      "last_season": 1,
-      "last_episode": 55,
-      "episodes_count": 55,
-      "kinopoisk_id": "984330",
-      "imdb_id": "tt3433480",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-11-12T20:17:57Z",
-      "updated_at": "2019-11-14T12:42:57Z"
-    },
-    {
-      "id": "movie-19077",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Надувная кукла",
-      "title_orig": "Kûki ningyô",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2009,
-      "kinopoisk_id": "450732",
-      "imdb_id": "tt1371630",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-10-19T05:19:14Z",
-      "updated_at": "2019-11-14T12:34:52Z"
-    },
-    {
-      "id": "movie-45077",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Конфуций",
-      "title_orig": "Kong Zi",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2010,
-      "kinopoisk_id": "455234",
-      "imdb_id": "tt1397498",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-11-14T11:51:28Z",
-      "updated_at": "2019-11-14T11:51:28Z"
-    },
-    {
-      "id": "movie-9687",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Азуми 2:  Смерть или любовь",
-      "title_orig": "Azumi 2: Death or Love",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2005,
-      "kinopoisk_id": "88259",
-      "imdb_id": "tt0431641",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-08-14T10:02:58Z",
-      "updated_at": "2019-11-14T11:49:43Z"
     }
   ]
 }

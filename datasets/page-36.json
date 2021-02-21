@@ -1,6 +1,85 @@
 {
   "results": [
     {
+      "id": "movie-63999",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Крик дельфина",
+      "title_orig": "Krik delfina",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "44980",
+      "imdb_id": "tt0091357",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-04T13:33:28Z",
+      "updated_at": "2020-12-04T13:33:28Z"
+    },
+    {
+      "id": "movie-64000",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Хозяин ветров",
+      "title_orig": "Khozyain vetrov",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1984,
+      "kinopoisk_id": "259380",
+      "imdb_id": "tt7355814",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-04T13:31:52Z",
+      "updated_at": "2020-12-04T13:31:52Z"
+    },
+    {
+      "id": "movie-64001",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Человек в рамке",
+      "title_orig": "Chelovek v ramke",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1966,
+      "kinopoisk_id": "314355",
+      "imdb_id": "tt0487563",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-04T13:31:10Z",
+      "updated_at": "2020-12-04T13:31:10Z"
+    },
+    {
+      "id": "movie-64002",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Ты враг или друг?",
+      "title_orig": "Ты враг или друг?",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1972,
+      "kinopoisk_id": "1412541",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-04T13:27:18Z",
+      "updated_at": "2020-12-04T13:27:18Z"
+    },
+    {
       "id": "movie-64003",
       "type": "russian-movie",
       "link": "",
@@ -2333,107 +2412,6 @@
       "blocked_seasons": {},
       "created_at": "2019-10-25T14:00:52Z",
       "updated_at": "2020-11-29T14:59:08Z"
-    },
-    {
-      "id": "serial-19362",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Лазурный путь",
-      "title_orig": "Azur Lane the Animation",
-      "other_title": "Азур Лэйн / Полоса голубизны",
-      "translation": {
-        "id": 910,
-        "title": "AniStar",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1249518",
-      "imdb_id": "tt10980934",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10042",
-      "shikimori_id": "38328",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-10-25T13:52:24Z",
-      "updated_at": "2020-11-29T14:45:37Z"
-    },
-    {
-      "id": "serial-18049",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Аватар короля",
-      "title_orig": "Quan zhi gao shou",
-      "other_title": "Мастер на полную ставку / Мастер Скиллов / The King’s Avatar / Quanzhi Gaoshou / Full-time Expert / Master of Skill",
-      "translation": {
-        "id": 927,
-        "title": "VOICE PROJECT STUDIO",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 18,
-      "episodes_count": 16,
-      "kinopoisk_id": "1289686",
-      "imdb_id": "tt10732794",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-08-14T20:50:07Z",
-      "updated_at": "2020-11-29T14:21:29Z"
-    },
-    {
-      "id": "serial-19247",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Клуб настольных игр",
-      "title_orig": "After School Dice Club",
-      "other_title": "Houkago Saikoro Club",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1317328",
-      "imdb_id": "tt11033944",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10091",
-      "shikimori_id": "38276",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-10-17T10:03:45Z",
-      "updated_at": "2020-11-29T14:13:00Z"
-    },
-    {
-      "id": "movie-63926",
-      "type": "anime",
-      "link": "",
-      "title": "Кандагава: Девушки на гидроциклах OVA",
-      "title_orig": "Kandagawa Jet Girls: Kokokara Hajimaru Tokyo Girls Promotion",
-      "other_title": "Kandagawa Jet Girls OVA",
-      "translation": {
-        "id": 910,
-        "title": "AniStar",
-        "type": "voice"
-      },
-      "year": 2020,
-      "imdb_id": "tt13146620",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10381",
-      "shikimori_id": "41146",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-29T13:44:02Z",
-      "updated_at": "2020-11-29T13:44:02Z"
     }
   ]
 }

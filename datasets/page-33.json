@@ -1,6 +1,85 @@
 {
   "results": [
     {
+      "id": "movie-64384",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Отзвуки прошлого",
+      "title_orig": "Antsyali ardzaganqnere",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1971,
+      "kinopoisk_id": "224228",
+      "imdb_id": "tt0410409",
+      "quality": "IPTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-15T07:06:09Z",
+      "updated_at": "2020-12-15T07:06:09Z"
+    },
+    {
+      "id": "movie-64385",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Водопад",
+      "title_orig": "Водопад",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1973,
+      "kinopoisk_id": "1338451",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-15T07:05:17Z",
+      "updated_at": "2020-12-15T07:05:17Z"
+    },
+    {
+      "id": "movie-64386",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Взрыв после полуночи",
+      "title_orig": "Paytyun kesgisherits heto",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1969,
+      "kinopoisk_id": "224298",
+      "imdb_id": "tt0410431",
+      "quality": "IPTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-15T07:02:40Z",
+      "updated_at": "2020-12-15T07:02:40Z"
+    },
+    {
+      "id": "movie-64387",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Валентина",
+      "title_orig": "Valentina",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1981,
+      "kinopoisk_id": "45655",
+      "imdb_id": "tt0083274",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-15T07:01:54Z",
+      "updated_at": "2020-12-15T07:01:54Z"
+    },
+    {
       "id": "movie-64388",
       "type": "russian-movie",
       "link": "",
@@ -2364,100 +2443,6 @@
       "blocked_countries": [],
       "created_at": "2020-12-12T08:27:48Z",
       "updated_at": "2020-12-12T08:27:48Z"
-    },
-    {
-      "id": "movie-64329",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Гость в Лондоне",
-      "title_orig": "Atithii in London",
-      "translation": {
-        "id": 1584,
-        "title": "FSG LoVeSeries&Kino.Subtitles\t",
-        "type": "subtitles"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1025827",
-      "imdb_id": "tt6173826",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-12-12T08:01:36Z",
-      "updated_at": "2020-12-12T08:01:36Z"
-    },
-    {
-      "id": "movie-64334",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Под твоей кроватью",
-      "title_orig": "Andâ yua beddo",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1246713",
-      "imdb_id": "tt9855728",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-12-12T07:53:58Z",
-      "updated_at": "2020-12-12T07:53:58Z"
-    },
-    {
-      "id": "serial-27396",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Пламенная бригада пожарных [ТВ-2]",
-      "title_orig": "Enen no Shouboutai: Ni no Shou",
-      "other_title": "Огненная бригада пожарных! / Пламенная бригада пожарных: Вторая глава",
-      "translation": {
-        "id": 739,
-        "title": "Animedia",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 2,
-      "last_episode": 24,
-      "episodes_count": 24,
-      "kinopoisk_id": "1235054",
-      "imdb_id": "tt9307686",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10352",
-      "shikimori_id": "40956",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-03T21:23:49Z",
-      "updated_at": "2020-12-12T04:26:28Z"
-    },
-    {
-      "id": "serial-27498",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Пламенная бригада пожарных [ТВ-2]",
-      "title_orig": "Enen no Shouboutai: Ni no Shou",
-      "other_title": "Огненная бригада пожарных! / Пламенная бригада пожарных: Вторая глава",
-      "translation": {
-        "id": 1273,
-        "title": "Wakanim.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 2,
-      "last_episode": 24,
-      "episodes_count": 24,
-      "kinopoisk_id": "1235054",
-      "imdb_id": "tt9307686",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10352",
-      "shikimori_id": "40956",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-06T14:41:08Z",
-      "updated_at": "2020-12-12T04:25:27Z"
     }
   ]
 }

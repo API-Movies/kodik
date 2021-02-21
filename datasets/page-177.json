@@ -1,6 +1,103 @@
 {
   "results": [
     {
+      "id": "serial-20852",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Нелюбимая",
+      "title_orig": "La Malquerida",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 106,
+      "episodes_count": 106,
+      "kinopoisk_id": "839947",
+      "imdb_id": "tt3632744",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-07T15:23:36Z",
+      "updated_at": "2020-01-08T17:12:49Z"
+    },
+    {
+      "id": "serial-20602",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Парадайз Кисс",
+      "title_orig": "Paradise Kiss",
+      "other_title": "Райский поцелуй",
+      "translation": {
+        "id": 1060,
+        "title": "MiraiDUB",
+        "type": "voice"
+      },
+      "year": 2005,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "408688",
+      "imdb_id": "tt0498443",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3561",
+      "shikimori_id": "322",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-02T22:31:03Z",
+      "updated_at": "2020-01-08T14:17:12Z"
+    },
+    {
+      "id": "movie-6799",
+      "type": "anime",
+      "link": "",
+      "title": "Порко Россо",
+      "title_orig": "Kurenai no buta",
+      "other_title": "Алый Свин / Porco Rosso",
+      "translation": {
+        "id": 1063,
+        "title": "RUSCICO",
+        "type": "voice"
+      },
+      "year": 1992,
+      "kinopoisk_id": "8229",
+      "imdb_id": "tt0104652",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=76",
+      "shikimori_id": "416",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-06-10T22:15:54Z",
+      "updated_at": "2020-01-08T14:13:54Z"
+    },
+    {
+      "id": "movie-47347",
+      "type": "anime",
+      "link": "",
+      "title": "Порко Россо",
+      "title_orig": "Kurenai no buta",
+      "other_title": "Алый Свин / Porco Rosso",
+      "translation": {
+        "id": 1064,
+        "title": "Гланц и Королева",
+        "type": "voice"
+      },
+      "year": 1992,
+      "kinopoisk_id": "8229",
+      "imdb_id": "tt0104652",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=76",
+      "shikimori_id": "416",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-08T14:10:15Z",
+      "updated_at": "2020-01-08T14:13:39Z"
+    },
+    {
       "id": "movie-47348",
       "type": "anime",
       "link": "",
@@ -2206,86 +2303,6 @@
       "blocked_countries": [],
       "created_at": "2020-01-07T13:23:01Z",
       "updated_at": "2020-01-07T13:23:01Z"
-    },
-    {
-      "id": "movie-23049",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Охота на монстра 2",
-      "title_orig": "Zhuo yao ji 2",
-      "translation": {
-        "id": 791,
-        "title": "RealFake",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1008195",
-      "imdb_id": "tt6170484",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-04-18T05:12:41Z",
-      "updated_at": "2020-01-07T13:16:47Z"
-    },
-    {
-      "id": "movie-47253",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Операция «Скорпион»",
-      "title_orig": "Jie zi zhan shi",
-      "translation": {
-        "id": 580,
-        "title": "Дольский",
-        "type": "voice"
-      },
-      "year": 1992,
-      "kinopoisk_id": "37199",
-      "imdb_id": "tt0102159",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-07T13:15:18Z",
-      "updated_at": "2020-01-07T13:15:18Z"
-    },
-    {
-      "id": "movie-47254",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Полководцы",
-      "title_orig": "Tau ming chong",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2007,
-      "kinopoisk_id": "276219",
-      "imdb_id": "tt0913968",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-07T13:13:59Z",
-      "updated_at": "2020-01-07T13:13:59Z"
-    },
-    {
-      "id": "movie-47255",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Женщина, которая ушла",
-      "title_orig": "Ang babaeng humayo",
-      "translation": {
-        "id": 677,
-        "title": "BadBajo",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "989724",
-      "imdb_id": "tt5843990",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-07T13:11:58Z",
-      "updated_at": "2020-01-07T13:11:58Z"
     }
   ]
 }

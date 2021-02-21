@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-9059",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Система «Ниппель»",
+      "title_orig": "Система «Ниппель»",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1990,
+      "kinopoisk_id": "43799",
+      "imdb_id": "tt0100628",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-05-23T17:41:45Z",
+      "updated_at": "2016-05-23T17:41:45Z"
+    },
+    {
+      "id": "movie-9046",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Щен из созвездия «Гончих псов»",
+      "title_orig": "Щен из созвездия «Гончих псов»",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1991,
+      "kinopoisk_id": "43730",
+      "imdb_id": "tt0102852",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-05-23T17:24:03Z",
+      "updated_at": "2016-05-23T17:24:03Z"
+    },
+    {
+      "id": "movie-8356",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Болеутоляющие",
+      "title_orig": "Painkillers",
+      "translation": {
+        "id": 664,
+        "title": "Parovoz Production",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "798631",
+      "imdb_id": "tt3171176",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-02-01T18:56:20Z",
+      "updated_at": "2016-05-23T15:43:49Z"
+    },
+    {
+      "id": "movie-8436",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Рюдзо и семеро бойцов",
+      "title_orig": "Ryûzô to 7 nin no kobun tachi",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "843899",
+      "imdb_id": "tt4176776",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-02-17T16:06:44Z",
+      "updated_at": "2016-05-23T15:40:49Z"
+    },
+    {
       "id": "movie-22315",
       "type": "foreign-movie",
       "link": "",
@@ -1941,86 +2021,6 @@
       "blocked_countries": [],
       "created_at": "2015-11-19T17:00:14Z",
       "updated_at": "2015-11-19T17:00:14Z"
-    },
-    {
-      "id": "movie-7917",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Мёртвое поле",
-      "title_orig": "The Killing Field",
-      "translation": {
-        "id": 815,
-        "title": "Двухголосый",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "844483",
-      "imdb_id": "tt3655172",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-11-19T16:56:59Z",
-      "updated_at": "2015-11-19T16:56:59Z"
-    },
-    {
-      "id": "movie-6898",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Ранг ",
-      "title_orig": "Rang",
-      "translation": {
-        "id": 613,
-        "title": "DeadSno & den904",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "823052",
-      "imdb_id": "tt3378536",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-06-17T20:36:35Z",
-      "updated_at": "2015-11-15T16:37:12Z"
-    },
-    {
-      "id": "movie-7893",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Дом-призрак",
-      "title_orig": "Haunted - 3D",
-      "translation": {
-        "id": 814,
-        "title": "Многоголосый",
-        "type": "voice"
-      },
-      "year": 2011,
-      "kinopoisk_id": "586300",
-      "imdb_id": "tt1887763",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-11-12T22:50:26Z",
-      "updated_at": "2015-11-12T22:50:26Z"
-    },
-    {
-      "id": "movie-7890",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Проклятый дракон",
-      "title_orig": "Carny",
-      "translation": {
-        "id": 814,
-        "title": "Многоголосый",
-        "type": "voice"
-      },
-      "year": 2009,
-      "kinopoisk_id": "453606",
-      "imdb_id": "tt1397497",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-11-12T22:37:29Z",
-      "updated_at": "2015-11-12T22:37:29Z"
     }
   ]
 }

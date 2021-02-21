@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-26565",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Тоска",
+      "title_orig": "Ga'agua",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "988883",
+      "imdb_id": "tt5545984",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-09-10T07:21:36Z",
+      "updated_at": "2018-09-10T07:21:36Z"
+    },
+    {
+      "id": "movie-26567",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Жизнь после",
+      "title_orig": "La vida después",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "895554",
+      "imdb_id": "tt3174768",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-09-10T07:19:24Z",
+      "updated_at": "2018-09-10T07:19:24Z"
+    },
+    {
+      "id": "movie-26543",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Как подцепить девчонок",
+      "title_orig": "How to Get Girls",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "985380",
+      "imdb_id": "tt5706876",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-09-08T11:17:55Z",
+      "updated_at": "2018-09-10T07:09:53Z"
+    },
+    {
+      "id": "movie-26574",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Дети вверены тебе",
+      "title_orig": "Çocuklar Sana Emanet",
+      "translation": {
+        "id": 660,
+        "title": "GreenРай Studio",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1112019",
+      "imdb_id": "tt7748432",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-09-10T06:53:14Z",
+      "updated_at": "2018-09-10T06:53:14Z"
+    },
+    {
       "id": "movie-26576",
       "type": "foreign-movie",
       "link": "",
@@ -2016,91 +2096,6 @@
       "blocked_countries": [],
       "created_at": "2018-08-27T05:22:34Z",
       "updated_at": "2018-08-27T05:22:34Z"
-    },
-    {
-      "id": "movie-26159",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Дыхание",
-      "title_orig": "Breath",
-      "translation": {
-        "id": 790,
-        "title": "HiWayGrope",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "487378",
-      "imdb_id": "tt1553659",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-08-27T05:14:30Z",
-      "updated_at": "2018-08-27T05:14:30Z"
-    },
-    {
-      "id": "serial-12108",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Господин Пэк",
-      "title_orig": "Miseuteo Baek",
-      "other_title": "Мистер Бэк / Мистер Пэк / Mister Baek / Mr. Back",
-      "translation": {
-        "id": 620,
-        "title": "GREEN TEA",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "885354",
-      "imdb_id": "tt4284152",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-08-26T17:27:18Z",
-      "updated_at": "2018-08-26T17:27:18Z"
-    },
-    {
-      "id": "movie-26126",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Что мне сделать, чтобы меня пригласили?",
-      "title_orig": "Si saben como me pongo ¿pa que me Invitan?",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1151333",
-      "imdb_id": "tt7940122",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-08-24T23:30:58Z",
-      "updated_at": "2018-08-26T13:03:29Z"
-    },
-    {
-      "id": "movie-26127",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Замкнутый",
-      "title_orig": "Withdrawn",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1008595",
-      "imdb_id": "tt6281936",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-08-24T23:31:30Z",
-      "updated_at": "2018-08-26T12:57:10Z"
     }
   ]
 }

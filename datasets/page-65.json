@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-59590",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Котофей Котофеевич",
+      "title_orig": "Kotofey Kotofeevich",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1937,
+      "kinopoisk_id": "493767",
+      "imdb_id": "tt4474466",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-28T04:53:20Z",
+      "updated_at": "2020-08-28T04:53:20Z"
+    },
+    {
+      "id": "movie-59591",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Красная шапочка",
+      "title_orig": "Krasnaya shapochka",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1937,
+      "kinopoisk_id": "491677",
+      "imdb_id": "tt6247694",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-28T04:52:24Z",
+      "updated_at": "2020-08-28T04:52:24Z"
+    },
+    {
+      "id": "movie-10310",
+      "type": "soviet-cartoon",
+      "link": "",
+      "title": "Кто сказал мяу?",
+      "title_orig": "Кто сказал мяу?",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1962,
+      "kinopoisk_id": "45008",
+      "imdb_id": "tt0219119",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-09-28T10:07:48Z",
+      "updated_at": "2020-08-28T04:51:30Z"
+    },
+    {
+      "id": "movie-59592",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Легенда о завещании мавра",
+      "title_orig": "Legenda o zaveshchanii mavra",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1959,
+      "kinopoisk_id": "723434",
+      "imdb_id": "tt4744324",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-28T04:50:18Z",
+      "updated_at": "2020-08-28T04:50:18Z"
+    },
+    {
       "id": "movie-59593",
       "type": "russian-movie",
       "link": "",
@@ -2124,97 +2204,6 @@
       "blocked_countries": [],
       "created_at": "2020-08-25T08:03:07Z",
       "updated_at": "2020-08-25T08:03:07Z"
-    },
-    {
-      "id": "serial-28986",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Воительницы в бикини OVA",
-      "title_orig": "Bikini Warriors OVA",
-      "other_title": "ビキニ・ウォリアーズ OVA",
-      "translation": {
-        "id": 1185,
-        "title": "Tina",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 3,
-      "episodes_count": 3,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8892",
-      "shikimori_id": "33712",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-25T08:00:01Z",
-      "updated_at": "2020-08-25T08:00:01Z"
-    },
-    {
-      "id": "movie-59413",
-      "type": "anime",
-      "link": "",
-      "title": "Хани и Токио",
-      "title_orig": "Honey Tokyo",
-      "other_title": "ハニー東京",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2010,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8050",
-      "shikimori_id": "8526",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-25T07:58:51Z",
-      "updated_at": "2020-08-25T07:58:51Z"
-    },
-    {
-      "id": "movie-59412",
-      "type": "anime",
-      "link": "",
-      "title": "Лиричная волшебница Наноха: Отражение",
-      "title_orig": "Mahou shoujo ririkaru Nanoha: Reflection",
-      "other_title": "Magical Girl Lyrical Nanoha Reflection",
-      "translation": {
-        "id": 1053,
-        "title": "Kedra",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1082730",
-      "imdb_id": "tt3967976",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8973",
-      "shikimori_id": "17947",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-25T07:56:23Z",
-      "updated_at": "2020-08-25T07:56:23Z"
-    },
-    {
-      "id": "movie-59411",
-      "type": "anime",
-      "link": "",
-      "title": "Прекрасный ритм: Король призмы",
-      "title_orig": "King of Prism by Pretty Rhythm",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "1206887",
-      "imdb_id": "tt5463002",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8499",
-      "shikimori_id": "31762",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-25T07:54:16Z",
-      "updated_at": "2020-08-25T07:54:16Z"
     }
   ]
 }

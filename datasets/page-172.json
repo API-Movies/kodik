@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-47719",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Он движется как тигр",
+      "title_orig": "Shi xiong chu ma",
+      "translation": {
+        "id": 694,
+        "title": "Береговых",
+        "type": "voice"
+      },
+      "year": 1973,
+      "kinopoisk_id": "173528",
+      "imdb_id": "tt0187500",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-15T11:14:37Z",
+      "updated_at": "2020-01-15T11:14:37Z"
+    },
+    {
+      "id": "movie-47720",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Опиум и мастер кунг-фу",
+      "title_orig": "Hung kuen dai see",
+      "translation": {
+        "id": 590,
+        "title": "Кузнецов",
+        "type": "voice"
+      },
+      "year": 1984,
+      "kinopoisk_id": "268405",
+      "imdb_id": "tt0087623",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-15T11:13:37Z",
+      "updated_at": "2020-01-15T11:13:37Z"
+    },
+    {
+      "id": "movie-47721",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Призраки Бангкока",
+      "title_orig": "Bangkok Haunted",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2001,
+      "kinopoisk_id": "94586",
+      "imdb_id": "tt0364977",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-15T11:12:51Z",
+      "updated_at": "2020-01-15T11:12:51Z"
+    },
+    {
+      "id": "movie-47722",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Таверна Дракона",
+      "title_orig": "San lung moon hak chan",
+      "translation": {
+        "id": 590,
+        "title": "Кузнецов",
+        "type": "voice"
+      },
+      "year": 1992,
+      "kinopoisk_id": "22070",
+      "imdb_id": "tt0105859",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-15T11:11:50Z",
+      "updated_at": "2020-01-15T11:11:50Z"
+    },
+    {
       "id": "movie-47723",
       "type": "foreign-movie",
       "link": "",
@@ -2207,98 +2287,6 @@
       "blocked_countries": [],
       "created_at": "2020-01-14T11:11:35Z",
       "updated_at": "2020-01-14T11:11:35Z"
-    },
-    {
-      "id": "movie-47657",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Краска для волос",
-      "title_orig": "Oxidan",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1197134",
-      "imdb_id": "tt7111402",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-14T11:05:01Z",
-      "updated_at": "2020-01-14T11:05:01Z"
-    },
-    {
-      "id": "serial-21217",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Выбор: Войны между девушками",
-      "title_orig": "Gantaek - yeoindeului jeonjaeng",
-      "other_title": "Гантхэк: Война женщин / Королева: Любовь и война / Отбор: Война женщин / Queen: Love and War / Selection: Girls’ War / Selection: The War Between Women",
-      "translation": {
-        "id": 1052,
-        "title": "Unicorn",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 1,
-      "episodes_count": 1,
-      "kinopoisk_id": "1313577",
-      "imdb_id": "tt11377864",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-01-14T09:54:44Z",
-      "updated_at": "2020-01-14T09:54:44Z"
-    },
-    {
-      "id": "movie-47643",
-      "type": "anime",
-      "link": "",
-      "title": "Черная магия М-66",
-      "title_orig": "Burakku Majikku M-66",
-      "other_title": "Black Magic M66 / Black Magic M-66",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 1987,
-      "kinopoisk_id": "335803",
-      "imdb_id": "tt0092664",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=229",
-      "shikimori_id": "1270",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-14T06:55:38Z",
-      "updated_at": "2020-01-14T06:55:38Z"
-    },
-    {
-      "id": "serial-19711",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Другое измерение: Возвышение Искусственного Интеллекта",
-      "title_orig": "Ni Zhuan Ci Yuan: AI Jue Qi",
-      "other_title": "Другое измерение:Возвышение ИИ / Другое измерение: Возвышение Искусственного Интеллекта / Эра перемен: Рассвет AI / Reverse Dimension: Rise of AI",
-      "translation": {
-        "id": 1009,
-        "title": "Anistar Многоголосый",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "shikimori_id": "40823",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-11-12T13:21:42Z",
-      "updated_at": "2020-01-14T05:37:22Z"
     }
   ]
 }

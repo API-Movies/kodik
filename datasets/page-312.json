@@ -1,6 +1,91 @@
 {
   "results": [
     {
+      "id": "movie-20067",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Дитя джунглей",
+      "title_orig": "Vanamagan",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1043776",
+      "imdb_id": "tt6735754",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-12-18T05:49:28Z",
+      "updated_at": "2017-12-18T05:49:28Z"
+    },
+    {
+      "id": "movie-20047",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Вы убили мою мать",
+      "title_orig": "I'm Coming for You",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1052279",
+      "imdb_id": "tt6881740",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-12-15T22:09:38Z",
+      "updated_at": "2017-12-18T05:48:09Z"
+    },
+    {
+      "id": "movie-20060",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мачете",
+      "title_orig": "The Cutlass",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1040901",
+      "imdb_id": "tt5789310",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-12-17T15:51:50Z",
+      "updated_at": "2017-12-17T15:51:50Z"
+    },
+    {
+      "id": "serial-7006",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Мелохолик",
+      "title_orig": "Melroholrik",
+      "other_title": "Мелоголик / Meloholic / Mellohollik / Melo Holic",
+      "translation": {
+        "id": 622,
+        "title": "HighHopes",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "1045436",
+      "imdb_id": "tt7521734",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-12-05T17:24:53Z",
+      "updated_at": "2017-12-14T21:48:36Z"
+    },
+    {
       "id": "serial-7167",
       "type": "foreign-serial",
       "link": "",
@@ -2110,90 +2195,6 @@
       "blocked_countries": [],
       "created_at": "2017-11-15T16:22:27Z",
       "updated_at": "2017-11-16T06:08:44Z"
-    },
-    {
-      "id": "movie-19607",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Бой за любовь",
-      "title_orig": "Paambhu Sattai",
-      "translation": {
-        "id": 764,
-        "title": "Red Media",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "982454",
-      "imdb_id": "tt5698088",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-11-14T06:51:19Z",
-      "updated_at": "2017-11-14T06:51:19Z"
-    },
-    {
-      "id": "movie-19606",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Четыре луны",
-      "title_orig": "Cuatro lunas",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "696345",
-      "imdb_id": "tt2260850",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-11-14T06:48:51Z",
-      "updated_at": "2017-11-14T06:48:51Z"
-    },
-    {
-      "id": "movie-19603",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Невиновный",
-      "title_orig": "8 Thottakkal",
-      "translation": {
-        "id": 764,
-        "title": "Red Media",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1057521",
-      "imdb_id": "tt6747242",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-11-14T06:37:24Z",
-      "updated_at": "2017-11-14T06:37:24Z"
-    },
-    {
-      "id": "serial-6011",
-      "type": "russian-serial",
-      "link": "",
-      "title": "Макар-следопыт",
-      "title_orig": "Макар-следопыт",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1984,
-      "last_season": 1,
-      "last_episode": 3,
-      "episodes_count": 3,
-      "kinopoisk_id": "95620",
-      "imdb_id": "tt0263692",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-13T22:13:29Z",
-      "updated_at": "2017-11-13T22:13:29Z"
     }
   ]
 }

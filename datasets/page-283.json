@@ -1,6 +1,88 @@
 {
   "results": [
     {
+      "id": "movie-32264",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Жизнь во имя любви",
+      "title_orig": "Aashiqui",
+      "translation": {
+        "id": 886,
+        "title": "Формат АВ",
+        "type": "voice"
+      },
+      "year": 1990,
+      "kinopoisk_id": "214925",
+      "imdb_id": "tt0149573",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-13T07:20:07Z",
+      "updated_at": "2019-02-13T07:20:07Z"
+    },
+    {
+      "id": "movie-32266",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Талисман удачи",
+      "title_orig": "Kismat Konnection",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2008,
+      "kinopoisk_id": "396191",
+      "imdb_id": "tt1105733",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-13T07:17:12Z",
+      "updated_at": "2019-02-13T07:17:12Z"
+    },
+    {
+      "id": "movie-32267",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Телекинез",
+      "title_orig": "Yeomryeok",
+      "translation": {
+        "id": 743,
+        "title": "BaibaKo",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1005000",
+      "imdb_id": "tt6890582",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-13T07:12:30Z",
+      "updated_at": "2019-02-13T07:12:30Z"
+    },
+    {
+      "id": "movie-32257",
+      "type": "anime",
+      "link": "",
+      "title": "Бэтмен-ниндзя",
+      "title_orig": "Batman Ninja",
+      "translation": {
+        "id": 753,
+        "title": "Jaskier",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1073229",
+      "imdb_id": "tt7451284",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9421",
+      "shikimori_id": "36517",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-13T02:45:10Z",
+      "updated_at": "2019-02-13T02:45:10Z"
+    },
+    {
       "id": "serial-15220",
       "type": "foreign-serial",
       "link": "",
@@ -2062,87 +2144,6 @@
       "blocked_countries": [],
       "created_at": "2019-02-01T20:18:21Z",
       "updated_at": "2019-02-04T10:18:59Z"
-    },
-    {
-      "id": "movie-31925",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Кайлийская меланхолия",
-      "title_orig": "Lu bian ye can",
-      "translation": {
-        "id": 861,
-        "title": "LakeFilms",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "927731",
-      "imdb_id": "tt4613272",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-04T09:19:56Z",
-      "updated_at": "2019-02-04T09:19:56Z"
-    },
-    {
-      "id": "movie-31929",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Гнев",
-      "title_orig": "Wrath",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2012,
-      "kinopoisk_id": "575019",
-      "imdb_id": "tt1754912",
-      "quality": "HDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-04T09:15:54Z",
-      "updated_at": "2019-02-04T09:15:54Z"
-    },
-    {
-      "id": "movie-31932",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Гнев",
-      "title_orig": "Gnev",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1974,
-      "kinopoisk_id": "44517",
-      "imdb_id": "tt0347088",
-      "quality": "VHSRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-04T09:12:46Z",
-      "updated_at": "2019-02-04T09:12:46Z"
-    },
-    {
-      "id": "movie-31766",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Маленькие гиганты",
-      "title_orig": "Giant Little Ones",
-      "other_title": "Гигантские малыши",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1013903",
-      "imdb_id": "tt4481066",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-01T17:50:13Z",
-      "updated_at": "2019-02-04T08:42:07Z"
     }
   ]
 }

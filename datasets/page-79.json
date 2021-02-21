@@ -1,6 +1,98 @@
 {
   "results": [
     {
+      "id": "movie-57995",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "1987",
+      "title_orig": "1987",
+      "translation": {
+        "id": 594,
+        "title": "Назаров",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1009257",
+      "imdb_id": "tt6493286",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-21T06:32:01Z",
+      "updated_at": "2020-07-21T06:32:01Z"
+    },
+    {
+      "id": "serial-25028",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Молодежь Чанъаня",
+      "title_orig": "Chang an shao nian xing",
+      "other_title": "Юность Чанъана / Тот самый юноша из Чанъаня / Chang An Shao Nian Xing / The Chang An Youth",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 24,
+      "kinopoisk_id": "1371059",
+      "imdb_id": "tt12180574",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-22T12:48:09Z",
+      "updated_at": "2020-07-21T06:12:23Z"
+    },
+    {
+      "id": "movie-57991",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Анонимный",
+      "title_orig": "Gumnaami",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1296686",
+      "imdb_id": "tt10834986",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-21T05:05:37Z",
+      "updated_at": "2020-07-21T05:05:37Z"
+    },
+    {
+      "id": "serial-24423",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Великий писатель и алхимик: Судебный механизм",
+      "title_orig": "Bungou to Alchemist: Shinpan no Haguruma",
+      "other_title": "Литераторы и алхимики: Шестерни судей / Bungou to Alchemist: Shinpan no Haguruma",
+      "translation": {
+        "id": 1070,
+        "title": "MedusaSub.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 9,
+      "episodes_count": 9,
+      "kinopoisk_id": "1364400",
+      "imdb_id": "tt12080774",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10345",
+      "shikimori_id": "40934",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-05T01:37:53Z",
+      "updated_at": "2020-07-21T04:18:47Z"
+    },
+    {
       "id": "serial-25348",
       "type": "anime-serial",
       "link": "",
@@ -2211,103 +2303,6 @@
       "blocked_countries": [],
       "created_at": "2020-07-17T05:06:57Z",
       "updated_at": "2020-07-17T05:06:57Z"
-    },
-    {
-      "id": "serial-3636",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Риннэ: Меж двух миров [ТВ-3]",
-      "title_orig": "Kyoukai no Rinne (2017)",
-      "other_title": "境界のRinne (2017)",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 3,
-      "last_episode": 25,
-      "episodes_count": 25,
-      "kinopoisk_id": "893711",
-      "imdb_id": "tt4584754",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8937",
-      "shikimori_id": "34106",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-04-12T19:24:52Z",
-      "updated_at": "2020-07-17T05:06:12Z"
-    },
-    {
-      "id": "serial-27862",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Номер 6",
-      "title_orig": "Neombeo sikseu",
-      "other_title": "Номер шесть / Number Six",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 8,
-      "episodes_count": 8,
-      "kinopoisk_id": "1220636",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-17T05:03:10Z",
-      "updated_at": "2020-07-17T05:03:10Z"
-    },
-    {
-      "id": "serial-27215",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Наша линия жизни",
-      "title_orig": "Life: Love on the Line",
-      "other_title": "Счастье зависит от нас / Жизнь: Любовь на линии / Life Happiness Depends On Ourselves / Life Senjou No Bokura",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 4,
-      "episodes_count": 4,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-28T11:53:02Z",
-      "updated_at": "2020-07-17T04:50:01Z"
-    },
-    {
-      "id": "serial-27214",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Наша линия жизни",
-      "title_orig": "Life: Love on the Line",
-      "other_title": "Счастье зависит от нас / Жизнь: Любовь на линии / Life Happiness Depends On Ourselves / Life Senjou No Bokura",
-      "translation": {
-        "id": 941,
-        "title": "Pus'ki production",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 4,
-      "episodes_count": 4,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-28T11:52:39Z",
-      "updated_at": "2020-07-17T04:48:54Z"
     }
   ]
 }

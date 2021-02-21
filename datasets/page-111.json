@@ -1,6 +1,102 @@
 {
   "results": [
     {
+      "id": "serial-16570",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Дети сестер",
+      "title_orig": "Kardes Çocuklari",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 2,
+      "last_episode": 4,
+      "episodes_count": 21,
+      "kinopoisk_id": "1227459",
+      "imdb_id": "tt9529618",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-05-02T08:19:29Z",
+      "updated_at": "2020-04-29T18:48:42Z"
+    },
+    {
+      "id": "serial-25271",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Железный купол",
+      "title_orig": "Kipat Barzel",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 11,
+      "episodes_count": 11,
+      "kinopoisk_id": "1200912",
+      "imdb_id": "tt7620360",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-29T10:57:20Z",
+      "updated_at": "2020-04-29T18:28:59Z"
+    },
+    {
+      "id": "serial-23353",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Никто не знает",
+      "title_orig": "Amudo moreunda",
+      "other_title": "Nobody Knows / Amoodo Moreunda / No One Knows",
+      "translation": {
+        "id": 639,
+        "title": "SoftBox",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "1297200",
+      "imdb_id": "tt11910134",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-03-04T12:38:59Z",
+      "updated_at": "2020-04-29T18:11:30Z"
+    },
+    {
+      "id": "movie-54575",
+      "type": "anime",
+      "link": "",
+      "title": "Железобетон",
+      "title_orig": "Tekkon Kinkreet",
+      "other_title": "Tekkon kinkurîto",
+      "translation": {
+        "id": 878,
+        "title": "Видеосервис",
+        "type": "voice"
+      },
+      "year": 2006,
+      "kinopoisk_id": "273890",
+      "imdb_id": "tt0831888",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5866",
+      "shikimori_id": "2154",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-04-29T17:54:01Z",
+      "updated_at": "2020-04-29T17:54:01Z"
+    },
+    {
       "id": "serial-3854",
       "type": "foreign-serial",
       "link": "",
@@ -2056,86 +2152,6 @@
       "blocked_countries": [],
       "created_at": "2020-04-28T13:23:19Z",
       "updated_at": "2020-04-28T13:23:19Z"
-    },
-    {
-      "id": "movie-54406",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Водоворот судьбы",
-      "title_orig": "Yeh Majhdhaar",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1996,
-      "kinopoisk_id": "224905",
-      "imdb_id": "tt0115019",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-28T13:22:30Z",
-      "updated_at": "2020-04-28T13:22:30Z"
-    },
-    {
-      "id": "movie-54407",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Рудрамадеви",
-      "title_orig": "Rudhramadevi",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "749778",
-      "imdb_id": "tt2807410",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-28T13:21:26Z",
-      "updated_at": "2020-04-28T13:21:26Z"
-    },
-    {
-      "id": "movie-54408",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Истинная женщина",
-      "title_orig": "Aadmi Khilona Hai",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 1993,
-      "kinopoisk_id": "225212",
-      "imdb_id": "tt0106221",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-28T13:19:51Z",
-      "updated_at": "2020-04-28T13:19:51Z"
-    },
-    {
-      "id": "movie-54409",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Кабулиец",
-      "title_orig": "Kabuliwala",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 1957,
-      "kinopoisk_id": "403196",
-      "imdb_id": "tt0049393",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-28T13:19:09Z",
-      "updated_at": "2020-04-28T13:19:09Z"
     }
   ]
 }

@@ -1,6 +1,90 @@
 {
   "results": [
     {
+      "id": "movie-40845",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мужчина с заснеженной реки",
+      "title_orig": "The Man from Snowy River",
+      "translation": {
+        "id": 882,
+        "title": "English",
+        "type": "voice"
+      },
+      "year": 1982,
+      "kinopoisk_id": "11917",
+      "imdb_id": "tt0084296",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-08-08T12:00:02Z",
+      "updated_at": "2019-08-08T12:00:02Z"
+    },
+    {
+      "id": "movie-40852",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Фелисити",
+      "title_orig": "Felicity",
+      "translation": {
+        "id": 882,
+        "title": "English",
+        "type": "voice"
+      },
+      "year": 1978,
+      "kinopoisk_id": "52803",
+      "imdb_id": "tt0079144",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-08-08T11:43:58Z",
+      "updated_at": "2019-08-08T11:43:58Z"
+    },
+    {
+      "id": "serial-18018",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Расскажи мне, как любить",
+      "title_orig": "Bana Sevmeyi Anlat",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 22,
+      "episodes_count": 22,
+      "kinopoisk_id": "1006735",
+      "imdb_id": "tt5988466",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-08-08T11:42:47Z",
+      "updated_at": "2019-08-08T11:42:47Z"
+    },
+    {
+      "id": "movie-40837",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Демоноид: Посланник смерти",
+      "title_orig": "Demonoid",
+      "translation": {
+        "id": 882,
+        "title": "English",
+        "type": "voice"
+      },
+      "year": 1981,
+      "kinopoisk_id": "22953",
+      "imdb_id": "tt0082257",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-08-08T11:23:01Z",
+      "updated_at": "2019-08-08T11:23:01Z"
+    },
+    {
       "id": "serial-11934",
       "type": "foreign-serial",
       "link": "",
@@ -2021,110 +2105,6 @@
       "blocked_seasons": {},
       "created_at": "2019-08-04T13:31:45Z",
       "updated_at": "2019-08-04T13:35:30Z"
-    },
-    {
-      "id": "serial-17915",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Вайолет Эвергарден",
-      "title_orig": "Violet Evergarden",
-      "other_title": "ヴァイオレット・エヴァーガーデン",
-      "translation": {
-        "id": 559,
-        "title": "Kansai",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 14,
-      "kinopoisk_id": "1097392",
-      "imdb_id": "tt7078180",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9268",
-      "shikimori_id": "33352",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-08-04T13:13:12Z",
-      "updated_at": "2019-08-04T13:35:21Z"
-    },
-    {
-      "id": "serial-17918",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Аска: Волшебница специального назначения V",
-      "title_orig": "Mahou Shoujo Tokushusen Asuka",
-      "other_title": "Девочки волшебницы: Специальная операция / Девушки-волшебницы: Специальная операция",
-      "translation": {
-        "id": 739,
-        "title": "Animedia",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1220519",
-      "imdb_id": "tt8731478",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9769",
-      "shikimori_id": "37979",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-08-04T13:34:53Z",
-      "updated_at": "2019-08-04T13:35:13Z"
-    },
-    {
-      "id": "serial-17916",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Исчезнувший город",
-      "title_orig": "Shoumetsu Toshi",
-      "other_title": "Afterlost",
-      "translation": {
-        "id": 739,
-        "title": "Animedia",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1172366",
-      "imdb_id": "tt8660606",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9701",
-      "shikimori_id": "37952",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-08-04T13:30:37Z",
-      "updated_at": "2019-08-04T13:30:55Z"
-    },
-    {
-      "id": "serial-17912",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "У меня трое парней",
-      "title_orig": "I Have Three Boyfriends",
-      "other_title": "У меня три парня / Nun tteoboni se myeongui namjachingu",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-08-04T09:05:29Z",
-      "updated_at": "2019-08-04T09:05:29Z"
     }
   ]
 }

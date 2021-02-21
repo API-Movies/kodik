@@ -1,6 +1,84 @@
 {
   "results": [
     {
+      "id": "movie-60940",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Подводные друзья",
+      "title_orig": "Veealused",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 1973,
+      "kinopoisk_id": "137809",
+      "imdb_id": "tt0452513",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-25T11:22:15Z",
+      "updated_at": "2020-09-25T11:22:15Z"
+    },
+    {
+      "id": "movie-60941",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Пони бегает по кругу",
+      "title_orig": "Pony begaet po krugu",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1974,
+      "kinopoisk_id": "257018",
+      "imdb_id": "tt6071080",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-25T11:20:01Z",
+      "updated_at": "2020-09-25T11:20:01Z"
+    },
+    {
+      "id": "movie-60942",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Приключения медвежонка Садко",
+      "title_orig": "Приключения медвежонка Садко",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1990,
+      "kinopoisk_id": "972194",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-25T11:19:07Z",
+      "updated_at": "2020-09-25T11:19:07Z"
+    },
+    {
+      "id": "movie-60943",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Притча о Гассане",
+      "title_orig": "Притча о Гассане",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "1007994",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-25T11:18:08Z",
+      "updated_at": "2020-09-25T11:18:08Z"
+    },
+    {
       "id": "movie-60944",
       "type": "russian-movie",
       "link": "",
@@ -2127,91 +2205,6 @@
       "blocked_seasons": {},
       "created_at": "2020-04-06T19:18:03Z",
       "updated_at": "2020-09-22T11:23:07Z"
-    },
-    {
-      "id": "serial-29225",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Истории молодых",
-      "title_orig": "Cheongchunggirok",
-      "other_title": "Мгновение / Записки юности / Chungchungirok / The Moment / Record of Youth",
-      "translation": {
-        "id": 1209,
-        "title": "Xvoice Studio",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 5,
-      "episodes_count": 5,
-      "kinopoisk_id": "1323571",
-      "imdb_id": "tt12850322",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-09-08T13:57:49Z",
-      "updated_at": "2020-09-22T08:02:45Z"
-    },
-    {
-      "id": "movie-60751",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Время чудовищ",
-      "title_orig": "Ang panahon ng halimaw",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1076561",
-      "imdb_id": "tt7200370",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-22T07:14:50Z",
-      "updated_at": "2020-09-22T07:14:50Z"
-    },
-    {
-      "id": "movie-60752",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Ничья земля",
-      "title_orig": "Wu ren qu",
-      "translation": {
-        "id": 613,
-        "title": "DeadSno & den904",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "575879",
-      "imdb_id": "tt1456660",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-22T07:11:47Z",
-      "updated_at": "2020-09-22T07:11:47Z"
-    },
-    {
-      "id": "movie-60753",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Незнайка с нашего двора",
-      "title_orig": "Neznayka s nashego dvora",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1983,
-      "kinopoisk_id": "94624",
-      "imdb_id": "tt0382195",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-22T07:09:26Z",
-      "updated_at": "2020-09-22T07:09:26Z"
     }
   ]
 }

@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-62855",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Три пингвина",
+      "title_orig": "Tri pingvina",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1961,
+      "kinopoisk_id": "260037",
+      "imdb_id": "tt6301976",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-06T07:48:37Z",
+      "updated_at": "2020-11-06T07:48:37Z"
+    },
+    {
+      "id": "movie-62856",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Снегурка",
+      "title_orig": "Snegurka",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1969,
+      "kinopoisk_id": "260079",
+      "imdb_id": "tt5898006",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-06T07:47:54Z",
+      "updated_at": "2020-11-06T07:47:54Z"
+    },
+    {
+      "id": "movie-62857",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Рикэ-хохолок",
+      "title_orig": "Rike-hoholok",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1985,
+      "kinopoisk_id": "654752",
+      "imdb_id": "tt8347644",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-06T07:45:58Z",
+      "updated_at": "2020-11-06T07:45:58Z"
+    },
+    {
+      "id": "movie-62858",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Каша из топора",
+      "title_orig": "Kasha iz topora",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1982,
+      "kinopoisk_id": "481589",
+      "imdb_id": "tt2962168",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-06T07:45:06Z",
+      "updated_at": "2020-11-06T07:45:06Z"
+    },
+    {
       "id": "movie-62859",
       "type": "russian-movie",
       "link": "",
@@ -2038,104 +2118,6 @@
       "blocked_countries": [],
       "created_at": "2020-11-04T11:54:03Z",
       "updated_at": "2020-11-04T11:54:03Z"
-    },
-    {
-      "id": "serial-29660",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Судьба: Девочка-волшебница Иллия [ТВ-4]",
-      "title_orig": "Fate/kaleid liner Prisma Illya 3rei!!",
-      "other_title": "Fate/Kaleid Liner Prisma Illya Drei!!",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 4,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1108364",
-      "imdb_id": "tt5847352",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8497",
-      "shikimori_id": "31706",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-10-10T16:44:47Z",
-      "updated_at": "2020-11-04T09:13:02Z"
-    },
-    {
-      "id": "serial-29201",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Мой странный друг",
-      "title_orig": "Wo de qi guai peng you",
-      "other_title": "Особый друг / Мои странные друзья / My Strange Friend / Super Talent",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "kinopoisk_id": "1354925",
-      "imdb_id": "tt12928760",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-09-05T11:09:34Z",
-      "updated_at": "2020-11-04T09:04:24Z"
-    },
-    {
-      "id": "movie-62726",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Голоса за кадром",
-      "title_orig": "Golden Voices",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1247345",
-      "imdb_id": "tt9857480",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-04T08:30:25Z",
-      "updated_at": "2020-11-04T08:30:25Z"
-    },
-    {
-      "id": "serial-29150",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Великий умелец",
-      "title_orig": "Zhu meng qing yuan",
-      "other_title": "Искусный мастер / Мечтая о любви / The Great Craftsman",
-      "translation": {
-        "id": 1522,
-        "title": "FSG Your Dream.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 60,
-      "episodes_count": 60,
-      "kinopoisk_id": "1228659",
-      "imdb_id": "tt9457950",
-      "mdl_id": "29170-the-great-craftsman",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-09-01T09:20:21Z",
-      "updated_at": "2020-11-03T21:04:03Z"
     }
   ]
 }

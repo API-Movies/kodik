@@ -1,6 +1,103 @@
 {
   "results": [
     {
+      "id": "serial-21131",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Сельская госпожа",
+      "title_orig": "Hanım Köylü",
+      "translation": {
+        "id": 589,
+        "title": "Ирина Котова",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "1046212",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-13T04:24:05Z",
+      "updated_at": "2020-01-13T06:35:10Z"
+    },
+    {
+      "id": "serial-21130",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Снова любовь",
+      "title_orig": "Aşk Yeniden",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2015,
+      "last_season": 2,
+      "last_episode": 40,
+      "episodes_count": 59,
+      "kinopoisk_id": "915094",
+      "imdb_id": "tt5616644",
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [
+        "TR"
+      ],
+      "blocked_seasons": "all",
+      "created_at": "2020-01-13T04:08:21Z",
+      "updated_at": "2020-01-13T04:08:21Z"
+    },
+    {
+      "id": "serial-21129",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Человеческая вина",
+      "title_orig": "Insanlik Sucu",
+      "translation": {
+        "id": 1072,
+        "title": "Turk Star",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 8,
+      "episodes_count": 8,
+      "kinopoisk_id": "1112386",
+      "imdb_id": "tt7944276",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-13T04:01:01Z",
+      "updated_at": "2020-01-13T04:01:01Z"
+    },
+    {
+      "id": "serial-21128",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Враг в моем доме",
+      "title_orig": "Yuvamdaki Dusman",
+      "translation": {
+        "id": 1072,
+        "title": "Turk Star",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 6,
+      "episodes_count": 6,
+      "kinopoisk_id": "1112361",
+      "imdb_id": "tt7947618",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-13T03:58:02Z",
+      "updated_at": "2020-01-13T03:58:02Z"
+    },
+    {
       "id": "serial-21127",
       "type": "foreign-serial",
       "link": "",
@@ -2337,108 +2434,6 @@
       "blocked_seasons": {},
       "created_at": "2020-01-11T20:31:47Z",
       "updated_at": "2020-01-11T20:31:47Z"
-    },
-    {
-      "id": "serial-21049",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Исследователи руин",
-      "title_orig": "Hikyou Tanken Fam & Ihrlie",
-      "other_title": "Ruin Explorers",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 1995,
-      "last_season": 1,
-      "last_episode": 4,
-      "episodes_count": 4,
-      "kinopoisk_id": "402944",
-      "imdb_id": "tt0246901",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=81",
-      "shikimori_id": "1181",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-01-11T20:29:20Z",
-      "updated_at": "2020-01-11T20:29:20Z"
-    },
-    {
-      "id": "serial-21048",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Саюки: Истоки",
-      "title_orig": "Saiyuuki Gaiden",
-      "other_title": "Саюки Гайден",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2011,
-      "last_season": 1,
-      "last_episode": 3,
-      "episodes_count": 3,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7881",
-      "shikimori_id": "9088",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-01-11T20:27:46Z",
-      "updated_at": "2020-01-11T20:27:46Z"
-    },
-    {
-      "id": "serial-21047",
-      "type": "anime-serial",
-      "link": "",
-      "title": "История о семи городах: Арктический фронт",
-      "title_orig": "Nana Toshi Monogatari: Hokkyokukai Sensen",
-      "other_title": "История о семи городах",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 1994,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "kinopoisk_id": "629829",
-      "imdb_id": "tt4127124",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6794",
-      "shikimori_id": "4617",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-01-11T20:25:01Z",
-      "updated_at": "2020-01-11T20:25:01Z"
-    },
-    {
-      "id": "movie-47528",
-      "type": "anime",
-      "link": "",
-      "title": "Куроми работает над аниме 2",
-      "title_orig": "Animation Seisaku Shinkou Kuromi-chan 2",
-      "other_title": "Animation Runner Kuromi 2",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2004,
-      "kinopoisk_id": "841318",
-      "imdb_id": "tt3621968",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2857",
-      "shikimori_id": "1798",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-11T20:22:59Z",
-      "updated_at": "2020-01-11T20:22:59Z"
     }
   ]
 }

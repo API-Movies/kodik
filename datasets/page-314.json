@@ -1,6 +1,87 @@
 {
   "results": [
     {
+      "id": "movie-19193",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Она должна сгореть",
+      "title_orig": "She Who Must Burn",
+      "translation": {
+        "id": 679,
+        "title": "datynet",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "844924",
+      "imdb_id": "tt3589016",
+      "quality": "HDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-10-25T06:51:31Z",
+      "updated_at": "2017-10-25T06:51:31Z"
+    },
+    {
+      "id": "movie-19188",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "V.I.P.",
+      "title_orig": "V.I.P.",
+      "other_title": "ВИП",
+      "translation": {
+        "id": 651,
+        "title": "Люб. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1009102",
+      "imdb_id": "tt6413410",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-10-25T06:33:19Z",
+      "updated_at": "2017-10-25T06:33:19Z"
+    },
+    {
+      "id": "movie-19196",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Зло в нас",
+      "title_orig": "The Evil in Us",
+      "translation": {
+        "id": 660,
+        "title": "GreenРай Studio",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "857989",
+      "imdb_id": "tt4035898",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-10-25T18:16:58Z",
+      "updated_at": "2017-10-25T06:32:10Z"
+    },
+    {
+      "id": "movie-19184",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Детектив-балерина",
+      "title_orig": "Keiji ballerino",
+      "translation": {
+        "id": 646,
+        "title": "XDUB Dorama",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "1001172",
+      "imdb_id": "tt5320608",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-10-25T06:03:34Z",
+      "updated_at": "2017-10-25T06:03:34Z"
+    },
+    {
       "id": "movie-19182",
       "type": "foreign-movie",
       "link": "",
@@ -1987,98 +2068,6 @@
       "blocked_countries": [],
       "created_at": "2017-09-25T15:20:58Z",
       "updated_at": "2017-09-25T15:20:58Z"
-    },
-    {
-      "id": "movie-9272",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Новые приключения капитана Врунгеля",
-      "title_orig": "Новые приключения капитана Врунгеля",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1978,
-      "kinopoisk_id": "46474",
-      "imdb_id": "tt0167313",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-06-07T14:52:20Z",
-      "updated_at": "2017-09-25T15:17:50Z"
-    },
-    {
-      "id": "serial-3599",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Квест на фоне сакуры",
-      "title_orig": "Sakura Quest",
-      "other_title": "Квест Сакуры",
-      "translation": {
-        "id": 610,
-        "title": "AniLibria.TV",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 25,
-      "episodes_count": 25,
-      "kinopoisk_id": "1049056",
-      "imdb_id": "tt6740188",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9046",
-      "shikimori_id": "34494",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-04-09T10:54:20Z",
-      "updated_at": "2017-09-25T14:06:05Z"
-    },
-    {
-      "id": "serial-4453",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Самый сильный курьер",
-      "title_orig": "Choigang baedalkkun",
-      "other_title": "Сильнейший доставщик / Лучший доставщик / Strongest Deliveryman",
-      "translation": {
-        "id": 639,
-        "title": "SoftBox",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1045132",
-      "imdb_id": "tt7022748",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-08-08T21:06:05Z",
-      "updated_at": "2017-09-25T13:50:54Z"
-    },
-    {
-      "id": "movie-7265",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Крестный пес",
-      "title_orig": "The Dogfather",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2010,
-      "kinopoisk_id": "585050",
-      "imdb_id": "tt1475549",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-08-11T19:19:31Z",
-      "updated_at": "2017-09-25T07:23:30Z"
     }
   ]
 }

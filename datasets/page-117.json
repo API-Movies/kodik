@@ -1,6 +1,104 @@
 {
   "results": [
     {
+      "id": "serial-20816",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Влюблённый астероид",
+      "title_orig": "Koi Suru Asteroid",
+      "other_title": "Астероид любви / Asteroid in Love",
+      "translation": {
+        "id": 767,
+        "title": "SHIZA Project",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1333846",
+      "imdb_id": "tt11405408",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9996",
+      "shikimori_id": "39388",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-07T16:36:42Z",
+      "updated_at": "2020-04-17T15:01:13Z"
+    },
+    {
+      "id": "movie-53819",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Дерево желаний",
+      "title_orig": "The Wishmas Tree",
+      "translation": {
+        "id": 882,
+        "title": "English",
+        "type": "voice"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1235923",
+      "imdb_id": "tt9239422",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-04-17T14:57:09Z",
+      "updated_at": "2020-04-17T14:57:09Z"
+    },
+    {
+      "id": "serial-22603",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Судьба белой змеи",
+      "title_orig": "Tian Ji Zhi Bai She Chuan Shuo",
+      "other_title": "The Destiny of White Snake",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 60,
+      "episodes_count": 60,
+      "imdb_id": "tt11482120",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-02-08T20:01:46Z",
+      "updated_at": "2020-04-17T12:42:02Z"
+    },
+    {
+      "id": "serial-20970",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Бесконечный Дендрограм",
+      "title_orig": "Infinite Dendrogram",
+      "other_title": "Древо Безграничного Развития / インフィニット・デンドログラム",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "1331708",
+      "imdb_id": "tt11295582",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9964",
+      "shikimori_id": "38909",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-10T17:08:41Z",
+      "updated_at": "2020-04-17T12:14:03Z"
+    },
+    {
       "id": "serial-19880",
       "type": "anime-serial",
       "link": "",
@@ -2079,86 +2177,6 @@
       "blocked_countries": [],
       "created_at": "2020-04-15T11:08:26Z",
       "updated_at": "2020-04-15T11:08:26Z"
-    },
-    {
-      "id": "movie-53645",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Тайная страсть",
-      "title_orig": "Sheesha",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2005,
-      "kinopoisk_id": "160980",
-      "imdb_id": "tt0445056",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-15T11:06:55Z",
-      "updated_at": "2020-04-15T11:06:55Z"
-    },
-    {
-      "id": "movie-53646",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Камасутра в большом городе",
-      "title_orig": "Kudiyon Ka Hai Zamaana",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2006,
-      "kinopoisk_id": "262768",
-      "imdb_id": "tt0857385",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-15T11:05:54Z",
-      "updated_at": "2020-04-15T11:05:54Z"
-    },
-    {
-      "id": "movie-53647",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Пранчиеттан и Сэйнт",
-      "title_orig": "Pranchiyettan and the Saint",
-      "translation": {
-        "id": 976,
-        "title": "Индийское кино",
-        "type": "voice"
-      },
-      "year": 2010,
-      "kinopoisk_id": "542429",
-      "imdb_id": "tt1695800",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-15T11:05:03Z",
-      "updated_at": "2020-04-15T11:05:03Z"
-    },
-    {
-      "id": "movie-53648",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Дела сердечные",
-      "title_orig": "Haal-e-Dil",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2008,
-      "kinopoisk_id": "418271",
-      "imdb_id": "tt1252488",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-15T11:03:34Z",
-      "updated_at": "2020-04-15T11:03:34Z"
     }
   ]
 }

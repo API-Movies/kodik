@@ -1,6 +1,91 @@
 {
   "results": [
     {
+      "id": "movie-48953",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Канибару",
+      "title_orig": "Kanibarú",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1210491",
+      "imdb_id": "tt9243004",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-05T22:39:36Z",
+      "updated_at": "2020-02-05T22:39:36Z"
+    },
+    {
+      "id": "movie-48954",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Летний детектив",
+      "title_orig": "Rebuilding",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1311131",
+      "imdb_id": "tt10488396",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-05T22:39:05Z",
+      "updated_at": "2020-02-05T22:39:05Z"
+    },
+    {
+      "id": "movie-48956",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Трава зеленее",
+      "title_orig": "Grass is Greener",
+      "translation": {
+        "id": 794,
+        "title": "HDrezka Studio",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1254819",
+      "imdb_id": "tt10050782",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-05T22:34:10Z",
+      "updated_at": "2020-02-05T22:34:10Z"
+    },
+    {
+      "id": "serial-22468",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Проект Б: Кульминационные эмоции",
+      "title_orig": "B-Project: Zecchou Emotion",
+      "other_title": "Проект-Б: Кульминационные эмоции / B-Project: Zeccho*Emotion",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9415",
+      "shikimori_id": "36483",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-02-05T22:03:27Z",
+      "updated_at": "2020-02-05T22:03:27Z"
+    },
+    {
       "id": "serial-2172",
       "type": "anime-serial",
       "link": "",
@@ -2240,102 +2325,6 @@
       "blocked_countries": [],
       "created_at": "2020-02-04T23:38:50Z",
       "updated_at": "2020-02-04T23:38:50Z"
-    },
-    {
-      "id": "movie-48886",
-      "type": "anime",
-      "link": "",
-      "title": "Просыпайтесь, девочки! 7 айдолов",
-      "title_orig": "Wake Up, Girls! Shichinin no Idol",
-      "other_title": "Подъем, девчата! Семь идолов / Подъем, зверята! (фильм) / Проснитесь, девочки! Семь идолов",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "820169",
-      "imdb_id": "tt3465710",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2095",
-      "shikimori_id": "21189",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-02-04T23:37:12Z",
-      "updated_at": "2020-02-04T23:37:12Z"
-    },
-    {
-      "id": "serial-22417",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Лихорадка в разгар лета",
-      "title_orig": "Xia zhi wei zhi",
-      "other_title": "Разгар лета / В ожидании лета / Любовь до конца лета / Rush to the Dead Summer / Love 'til the End of Summer",
-      "translation": {
-        "id": 1097,
-        "title": "GreatGroup",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 7,
-      "episodes_count": 7,
-      "kinopoisk_id": "1137142",
-      "imdb_id": "tt7108160",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-02-04T23:06:05Z",
-      "updated_at": "2020-02-04T23:06:05Z"
-    },
-    {
-      "id": "serial-19161",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Головоломки бога",
-      "title_orig": "Shineui kwijeu",
-      "other_title": "Загадки Бога 5: Перезагрузка / Quiz from God: Reboot",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2010,
-      "last_season": 5,
-      "last_episode": 16,
-      "episodes_count": 28,
-      "kinopoisk_id": "706624",
-      "imdb_id": "tt2150915",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-10-14T18:12:49Z",
-      "updated_at": "2020-02-04T22:59:55Z"
-    },
-    {
-      "id": "movie-48885",
-      "type": "anime",
-      "link": "",
-      "title": "Класс убийц OVA",
-      "title_orig": "Ansatsu Kyoushitsu OVA",
-      "other_title": "Убийство в классной комнате",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "820060",
-      "imdb_id": "tt3428540",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1434",
-      "shikimori_id": "19759",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-02-04T22:58:38Z",
-      "updated_at": "2020-02-04T22:58:38Z"
     }
   ]
 }

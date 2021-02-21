@@ -1,6 +1,101 @@
 {
   "results": [
     {
+      "id": "movie-55865",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Молодой господин",
+      "title_orig": "Botchan",
+      "translation": {
+        "id": 840,
+        "title": "Храм Дорам ТВ",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "944859",
+      "imdb_id": "tt5175794",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-26T16:18:28Z",
+      "updated_at": "2020-05-26T16:18:28Z"
+    },
+    {
+      "id": "serial-26160",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Асур: Познай свою тёмную сторону",
+      "title_orig": "Asur: Welcome to Your Dark Side",
+      "translation": {
+        "id": 920,
+        "title": "Octopus",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 8,
+      "episodes_count": 8,
+      "kinopoisk_id": "1355310",
+      "imdb_id": "tt11912196",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-25T23:09:32Z",
+      "updated_at": "2020-05-26T15:35:58Z"
+    },
+    {
+      "id": "serial-26161",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Бинтё-тан",
+      "title_orig": "Binchou-tan",
+      "other_title": "びんちょうタン",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2006,
+      "last_season": 1,
+      "last_episode": 6,
+      "episodes_count": 6,
+      "kinopoisk_id": "532817",
+      "imdb_id": "tt2077713",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4732",
+      "shikimori_id": "750",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-26T15:07:50Z",
+      "updated_at": "2020-05-26T15:07:50Z"
+    },
+    {
+      "id": "serial-26173",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Приключения в каникулы",
+      "title_orig": "Spadla z oblakov",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 1978,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "260845",
+      "imdb_id": "tt0077083",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-26T15:00:32Z",
+      "updated_at": "2020-05-26T15:00:32Z"
+    },
+    {
       "id": "serial-13256",
       "type": "anime-serial",
       "link": "",
@@ -2258,91 +2353,6 @@
       "blocked_countries": [],
       "created_at": "2020-05-25T16:25:11Z",
       "updated_at": "2020-05-25T17:11:49Z"
-    },
-    {
-      "id": "serial-21324",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Путь выборов",
-      "title_orig": "Way of Choices",
-      "other_title": "Путь выбора",
-      "translation": {
-        "id": 923,
-        "title": "AnimeVost",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 1,
-      "last_episode": 61,
-      "episodes_count": 61,
-      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=72975",
-      "shikimori_id": "31838",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-01-16T07:41:31Z",
-      "updated_at": "2020-05-25T16:44:49Z"
-    },
-    {
-      "id": "movie-55786",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Парни из рая",
-      "title_orig": "Tengoku kara kita otoko-tachi",
-      "translation": {
-        "id": 989,
-        "title": "Премьер Видео Фильм",
-        "type": "voice"
-      },
-      "year": 2000,
-      "kinopoisk_id": "94611",
-      "imdb_id": "tt0304809",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-25T16:23:50Z",
-      "updated_at": "2020-05-25T16:23:50Z"
-    },
-    {
-      "id": "movie-55785",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Первая любовь",
-      "title_orig": "Choh chin luen hau dik yi yan sai gaai",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1997,
-      "kinopoisk_id": "22853",
-      "imdb_id": "tt0146745",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-25T16:20:03Z",
-      "updated_at": "2020-05-25T16:20:03Z"
-    },
-    {
-      "id": "movie-55784",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Саймон и Тада Такаси",
-      "title_orig": "Saimon & Tada Takashi",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1112895",
-      "imdb_id": "tt8051280",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-25T16:03:06Z",
-      "updated_at": "2020-05-25T16:03:06Z"
     }
   ]
 }

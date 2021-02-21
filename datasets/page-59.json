@@ -1,6 +1,88 @@
 {
   "results": [
     {
+      "id": "movie-60603",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Я дома",
+      "title_orig": "Jip iyagi",
+      "translation": {
+        "id": 1407,
+        "title": "АрхиAsia",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1309202",
+      "imdb_id": "tt11381200",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-17T10:31:25Z",
+      "updated_at": "2020-09-17T10:31:25Z"
+    },
+    {
+      "id": "movie-60602",
+      "type": "anime",
+      "link": "",
+      "title": "Люпен III: Зеленый против Красного",
+      "title_orig": "Rupan sansei: Gurîn vs Reddo",
+      "other_title": "Rupan Sansei: Green vs Red",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2008,
+      "kinopoisk_id": "413956",
+      "imdb_id": "tt1174735",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6819",
+      "shikimori_id": "4320",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-17T09:01:48Z",
+      "updated_at": "2020-09-17T09:01:48Z"
+    },
+    {
+      "id": "movie-60584",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Гугуцэ-парикмахер",
+      "title_orig": "Гугуцэ-парикмахер",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1980,
+      "kinopoisk_id": "1228479",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-17T08:28:35Z",
+      "updated_at": "2020-09-17T08:28:35Z"
+    },
+    {
+      "id": "movie-60585",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Где я его видел?",
+      "title_orig": "Gde ya ego videl?",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1965,
+      "kinopoisk_id": "258095",
+      "imdb_id": "tt5894474",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-17T08:27:29Z",
+      "updated_at": "2020-09-17T08:27:29Z"
+    },
+    {
       "id": "movie-60586",
       "type": "russian-movie",
       "link": "",
@@ -1956,84 +2038,6 @@
       "blocked_countries": [],
       "created_at": "2020-09-16T07:28:52Z",
       "updated_at": "2020-09-16T07:28:52Z"
-    },
-    {
-      "id": "movie-60489",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Быть или... пить?",
-      "title_orig": "Быть или... пить?",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1985,
-      "kinopoisk_id": "1115357",
-      "quality": "VHSRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-16T07:26:35Z",
-      "updated_at": "2020-09-16T07:26:35Z"
-    },
-    {
-      "id": "movie-60490",
-      "type": "russian-movie",
-      "link": "",
-      "title": "В мире басен",
-      "title_orig": "V mire basen",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1973,
-      "kinopoisk_id": "478680",
-      "imdb_id": "tt3454420",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-16T07:25:16Z",
-      "updated_at": "2020-09-16T07:25:16Z"
-    },
-    {
-      "id": "movie-60491",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Возвращенное солнце",
-      "title_orig": "Vozvrashchennoe solntse",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1936,
-      "kinopoisk_id": "675758",
-      "imdb_id": "tt4854128",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-16T07:24:18Z",
-      "updated_at": "2020-09-16T07:24:18Z"
-    },
-    {
-      "id": "movie-60492",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Знакомые лица",
-      "title_orig": "Знакомые лица",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1966,
-      "kinopoisk_id": "541020",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-16T07:23:06Z",
-      "updated_at": "2020-09-16T07:23:06Z"
     }
   ]
 }

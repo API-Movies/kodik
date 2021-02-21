@@ -1,6 +1,91 @@
 {
   "results": [
     {
+      "id": "serial-13274",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Стража",
+      "title_orig": "Pasukkun",
+      "other_title": "Хранители / Наблюдатели / Защитники / Lookout / Pasooggoon",
+      "translation": {
+        "id": 840,
+        "title": "Храм Дорам ТВ",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 32,
+      "episodes_count": 32,
+      "kinopoisk_id": "1044399",
+      "imdb_id": "tt6824350",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-11-15T20:45:27Z",
+      "updated_at": "2018-11-16T09:00:36Z"
+    },
+    {
+      "id": "movie-28286",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Дорога на гиблый байрак",
+      "title_orig": "Lost Gully Road",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1021964",
+      "imdb_id": "tt6371924",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-11-15T18:25:52Z",
+      "updated_at": "2018-11-16T07:47:59Z"
+    },
+    {
+      "id": "movie-28313",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Расшифрованная кинопленка",
+      "title_orig": "Spell Reel",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1089028",
+      "imdb_id": "tt7128868",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-11-16T07:41:44Z",
+      "updated_at": "2018-11-16T07:41:44Z"
+    },
+    {
+      "id": "movie-28285",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Потерянная ночь",
+      "title_orig": "Sarajin bam",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1045945",
+      "imdb_id": "tt6955298",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-11-15T16:02:13Z",
+      "updated_at": "2018-11-16T07:40:33Z"
+    },
+    {
       "id": "movie-28302",
       "type": "foreign-movie",
       "link": "",
@@ -2179,93 +2264,6 @@
       "blocked_seasons": {},
       "created_at": "2018-11-03T00:32:22Z",
       "updated_at": "2018-11-03T00:32:22Z"
-    },
-    {
-      "id": "serial-9591",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Голос",
-      "title_orig": "Boiseu",
-      "other_title": "The Voice",
-      "translation": {
-        "id": 646,
-        "title": "XDUB Dorama",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1008085",
-      "imdb_id": "tt6212854",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-01-19T18:41:02Z",
-      "updated_at": "2018-11-03T00:21:38Z"
-    },
-    {
-      "id": "movie-27983",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Сумеречная зона: холм пожирающий души\t",
-      "title_orig": "Mystery Zone: soul Eating Hill\t",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2017,
-      "imdb_id": "tt7690558",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-11-02T09:10:08Z",
-      "updated_at": "2018-11-02T09:10:08Z"
-    },
-    {
-      "id": "serial-13065",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Суждено любить тебя\t",
-      "title_orig": "Destined to Love You\t",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 1,
-      "last_episode": 41,
-      "episodes_count": 41,
-      "imdb_id": "tt5870910",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-11-02T09:05:47Z",
-      "updated_at": "2018-11-02T09:05:47Z"
-    },
-    {
-      "id": "movie-27974",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "12 дней подарков",
-      "title_orig": "12 Days of Giving",
-      "translation": {
-        "id": 819,
-        "title": "AlphaProject",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1012448",
-      "imdb_id": "tt6303962",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-11-02T07:08:36Z",
-      "updated_at": "2018-11-02T07:08:36Z"
     }
   ]
 }

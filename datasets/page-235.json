@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-43429",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Подставленный",
+      "title_orig": "Long zai jiang hu",
+      "translation": {
+        "id": 572,
+        "title": "Визгунов",
+        "type": "voice"
+      },
+      "year": 1986,
+      "kinopoisk_id": "36522",
+      "imdb_id": "tt0091428",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-07T12:08:46Z",
+      "updated_at": "2019-10-07T12:08:46Z"
+    },
+    {
+      "id": "movie-43433",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Женщины для всех",
+      "title_orig": "La mujer de todos",
+      "translation": {
+        "id": 970,
+        "title": "Данилов",
+        "type": "voice"
+      },
+      "year": 1946,
+      "kinopoisk_id": "67449",
+      "imdb_id": "tt0038756",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-07T11:52:42Z",
+      "updated_at": "2019-10-07T11:52:42Z"
+    },
+    {
+      "id": "movie-43435",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "На цепи",
+      "title_orig": "Chained",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "597519",
+      "imdb_id": "tt1989475",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-07T11:47:16Z",
+      "updated_at": "2019-10-07T11:47:16Z"
+    },
+    {
+      "id": "movie-43416",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Человек, который был суперменом",
+      "title_orig": "Syoo-peo-maen-i-sseo-deon sa-na-i",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2008,
+      "kinopoisk_id": "402940",
+      "imdb_id": "tt1119199",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-07T11:20:50Z",
+      "updated_at": "2019-10-07T11:20:50Z"
+    },
+    {
       "id": "movie-43423",
       "type": "foreign-movie",
       "link": "",
@@ -2127,85 +2207,6 @@
       "blocked_countries": [],
       "created_at": "2019-10-01T13:03:28Z",
       "updated_at": "2019-10-01T13:03:28Z"
-    },
-    {
-      "id": "movie-43174",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Жажда любви",
-      "title_orig": "Yu ai",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2016,
-      "kinopoisk_id": "1180948",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-01T13:01:13Z",
-      "updated_at": "2019-10-01T13:01:13Z"
-    },
-    {
-      "id": "movie-43185",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Бесчестье",
-      "title_orig": "Disgrace",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2008,
-      "kinopoisk_id": "102178",
-      "imdb_id": "tt0445953",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-01T12:57:08Z",
-      "updated_at": "2019-10-01T12:57:08Z"
-    },
-    {
-      "id": "movie-43191",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "По следу Тигра",
-      "title_orig": "Most",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 1969,
-      "kinopoisk_id": "233801",
-      "imdb_id": "tt0074921",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-01T12:44:53Z",
-      "updated_at": "2019-10-01T12:44:53Z"
-    },
-    {
-      "id": "movie-43196",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Обнаженное оружие",
-      "title_orig": "Chek lo dak gung",
-      "translation": {
-        "id": 884,
-        "title": "West Video",
-        "type": "voice"
-      },
-      "year": 2002,
-      "kinopoisk_id": "37223",
-      "imdb_id": "tt0341495",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-01T12:35:29Z",
-      "updated_at": "2019-10-01T12:35:29Z"
     }
   ]
 }

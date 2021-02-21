@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-37033",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Под созвездием Близнецов",
+      "title_orig": "Pod sozvezdiem bliznetsov",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1979,
+      "kinopoisk_id": "43037",
+      "imdb_id": "tt0189014",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-15T10:35:34Z",
+      "updated_at": "2019-05-15T10:35:34Z"
+    },
+    {
+      "id": "movie-37034",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Пока безумствует мечта",
+      "title_orig": "Poka bezumstvuyet mechta",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1978,
+      "kinopoisk_id": "43077",
+      "imdb_id": "tt0078098",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-15T10:34:30Z",
+      "updated_at": "2019-05-15T10:34:30Z"
+    },
+    {
+      "id": "movie-37026",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Поэма о море",
+      "title_orig": "Poema o more",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1958,
+      "kinopoisk_id": "43065",
+      "imdb_id": "tt0053177",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-15T10:33:36Z",
+      "updated_at": "2019-05-15T10:33:36Z"
+    },
+    {
+      "id": "movie-37027",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Путешествие будет приятным",
+      "title_orig": "Puteshestvie budet priyatnym",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1983,
+      "kinopoisk_id": "43359",
+      "imdb_id": "tt0251960",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-15T10:32:49Z",
+      "updated_at": "2019-05-15T10:32:49Z"
+    },
+    {
       "id": "movie-37013",
       "type": "russian-movie",
       "link": "",
@@ -1928,86 +2008,6 @@
       "blocked_countries": [],
       "created_at": "2019-05-13T07:21:28Z",
       "updated_at": "2019-05-13T07:21:28Z"
-    },
-    {
-      "id": "movie-36822",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Приключения Петрова и Васечкина, обыкновенные и невероятные",
-      "title_orig": "Priklyucheniya Petrova i Vasechkina, obyknovennye i neveroyatnye",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1984,
-      "kinopoisk_id": "81479",
-      "imdb_id": "tt0323703",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-13T07:19:35Z",
-      "updated_at": "2019-05-13T07:19:35Z"
-    },
-    {
-      "id": "movie-36823",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Отчий дом",
-      "title_orig": "Otchiy dom",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1959,
-      "kinopoisk_id": "42839",
-      "imdb_id": "tt0053151",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-13T07:18:09Z",
-      "updated_at": "2019-05-13T07:18:09Z"
-    },
-    {
-      "id": "movie-36824",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Ослиная шкура",
-      "title_orig": "Oslinaya shkura",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1983,
-      "kinopoisk_id": "42809",
-      "imdb_id": "tt0187375",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-13T07:15:32Z",
-      "updated_at": "2019-05-13T07:15:32Z"
-    },
-    {
-      "id": "movie-36826",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Короткие истории",
-      "title_orig": "Korotkie istorii",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1963,
-      "kinopoisk_id": "331827",
-      "imdb_id": "tt0129184",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-13T06:52:26Z",
-      "updated_at": "2019-05-13T06:52:26Z"
     }
   ]
 }

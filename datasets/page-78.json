@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-58139",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Война птиц и зверей",
+      "title_orig": "Lindude ja loomade sõda",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 1969,
+      "kinopoisk_id": "137824",
+      "imdb_id": "tt0452308",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-24T07:02:59Z",
+      "updated_at": "2020-07-24T07:02:59Z"
+    },
+    {
+      "id": "movie-58140",
+      "type": "russian-movie",
+      "link": "",
+      "title": "За горами, за морями",
+      "title_orig": "Kurepoeg",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1967,
+      "kinopoisk_id": "156050",
+      "imdb_id": "tt0452296",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-24T07:01:58Z",
+      "updated_at": "2020-07-24T07:01:58Z"
+    },
+    {
+      "id": "movie-58141",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Жадный богач",
+      "title_orig": "Zhadnyy bogach",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1980,
+      "kinopoisk_id": "470394",
+      "imdb_id": "tt5874108",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-24T07:00:44Z",
+      "updated_at": "2020-07-24T07:00:44Z"
+    },
+    {
+      "id": "movie-58142",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Античная лирика",
+      "title_orig": "Antichnaya lirika",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1989,
+      "kinopoisk_id": "681385",
+      "imdb_id": "tt3612972",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-24T06:59:57Z",
+      "updated_at": "2020-07-24T06:59:57Z"
+    },
+    {
       "id": "movie-58143",
       "type": "russian-movie",
       "link": "",
@@ -2214,98 +2294,6 @@
       "blocked_seasons": {},
       "created_at": "2020-01-28T14:45:42Z",
       "updated_at": "2020-07-21T07:32:06Z"
-    },
-    {
-      "id": "movie-57995",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "1987",
-      "title_orig": "1987",
-      "translation": {
-        "id": 594,
-        "title": "Назаров",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1009257",
-      "imdb_id": "tt6493286",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-07-21T06:32:01Z",
-      "updated_at": "2020-07-21T06:32:01Z"
-    },
-    {
-      "id": "serial-25028",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Молодежь Чанъаня",
-      "title_orig": "Chang an shao nian xing",
-      "other_title": "Юность Чанъана / Тот самый юноша из Чанъаня / Chang An Shao Nian Xing / The Chang An Youth",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 24,
-      "episodes_count": 24,
-      "kinopoisk_id": "1371059",
-      "imdb_id": "tt12180574",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-22T12:48:09Z",
-      "updated_at": "2020-07-21T06:12:23Z"
-    },
-    {
-      "id": "movie-57991",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Анонимный",
-      "title_orig": "Gumnaami",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1296686",
-      "imdb_id": "tt10834986",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-07-21T05:05:37Z",
-      "updated_at": "2020-07-21T05:05:37Z"
-    },
-    {
-      "id": "serial-24423",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Великий писатель и алхимик: Судебный механизм",
-      "title_orig": "Bungou to Alchemist: Shinpan no Haguruma",
-      "other_title": "Литераторы и алхимики: Шестерни судей / Bungou to Alchemist: Shinpan no Haguruma",
-      "translation": {
-        "id": 1070,
-        "title": "MedusaSub.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 9,
-      "episodes_count": 9,
-      "kinopoisk_id": "1364400",
-      "imdb_id": "tt12080774",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10345",
-      "shikimori_id": "40934",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-05T01:37:53Z",
-      "updated_at": "2020-07-21T04:18:47Z"
     }
   ]
 }

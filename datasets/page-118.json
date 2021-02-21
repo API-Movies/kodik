@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-53645",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Тайная страсть",
+      "title_orig": "Sheesha",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2005,
+      "kinopoisk_id": "160980",
+      "imdb_id": "tt0445056",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-04-15T11:06:55Z",
+      "updated_at": "2020-04-15T11:06:55Z"
+    },
+    {
+      "id": "movie-53646",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Камасутра в большом городе",
+      "title_orig": "Kudiyon Ka Hai Zamaana",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2006,
+      "kinopoisk_id": "262768",
+      "imdb_id": "tt0857385",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-04-15T11:05:54Z",
+      "updated_at": "2020-04-15T11:05:54Z"
+    },
+    {
+      "id": "movie-53647",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Пранчиеттан и Сэйнт",
+      "title_orig": "Pranchiyettan and the Saint",
+      "translation": {
+        "id": 976,
+        "title": "Индийское кино",
+        "type": "voice"
+      },
+      "year": 2010,
+      "kinopoisk_id": "542429",
+      "imdb_id": "tt1695800",
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-04-15T11:05:03Z",
+      "updated_at": "2020-04-15T11:05:03Z"
+    },
+    {
+      "id": "movie-53648",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Дела сердечные",
+      "title_orig": "Haal-e-Dil",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2008,
+      "kinopoisk_id": "418271",
+      "imdb_id": "tt1252488",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-04-15T11:03:34Z",
+      "updated_at": "2020-04-15T11:03:34Z"
+    },
+    {
       "id": "movie-53649",
       "type": "foreign-movie",
       "link": "",
@@ -2206,103 +2286,6 @@
       "blocked_seasons": {},
       "created_at": "2017-11-26T17:36:28Z",
       "updated_at": "2020-04-11T20:05:53Z"
-    },
-    {
-      "id": "serial-24701",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Крыло Гарзея",
-      "title_orig": "Garzey no tsubasa",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 1996,
-      "last_season": 1,
-      "last_episode": 3,
-      "episodes_count": 3,
-      "kinopoisk_id": "335859",
-      "imdb_id": "tt0377962",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4130",
-      "shikimori_id": "1657",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-11T18:00:10Z",
-      "updated_at": "2020-04-11T18:00:10Z"
-    },
-    {
-      "id": "serial-13674",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Пламенный океан",
-      "title_orig": "The Fire Series: Ocean Flame",
-      "other_title": "Talay Fai / Fire Series Part 2",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-12-15T09:59:39Z",
-      "updated_at": "2020-04-11T17:55:18Z"
-    },
-    {
-      "id": "serial-19790",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "12 ночей",
-      "title_orig": "Yeoldubam",
-      "other_title": "12 Nights / Twelve Nights",
-      "translation": {
-        "id": 963,
-        "title": "Amazing Dubbing",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1162508",
-      "imdb_id": "tt9072270",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-11-18T17:11:26Z",
-      "updated_at": "2020-04-11T17:54:48Z"
-    },
-    {
-      "id": "movie-53437",
-      "type": "anime",
-      "link": "",
-      "title": "Страна чудес смертников",
-      "title_orig": "Deadman Wonderland",
-      "other_title": "Страна Чудес Смертников ОВА / Deadman Wonderland: The Red Knife Wielder OVA",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2011,
-      "kinopoisk_id": "677712",
-      "imdb_id": "tt3153270",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=951",
-      "shikimori_id": "10418",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-11T15:30:19Z",
-      "updated_at": "2020-04-11T15:30:19Z"
     }
   ]
 }

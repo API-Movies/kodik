@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-1800",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Ни пуха, ни пера",
+      "title_orig": "Ни пуха, ни пера",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1973,
+      "kinopoisk_id": "438326",
+      "imdb_id": "tt5340710",
+      "quality": "DVBRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2014-09-12T20:11:22Z",
+      "updated_at": "2019-10-12T07:41:34Z"
+    },
+    {
+      "id": "movie-43650",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Машины, которые съели Париж...",
+      "title_orig": "The Cars That Ate Paris",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 1974,
+      "kinopoisk_id": "25466",
+      "imdb_id": "tt0071282",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-12T07:31:19Z",
+      "updated_at": "2019-10-12T07:31:19Z"
+    },
+    {
+      "id": "movie-43653",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Выживший",
+      "title_orig": "The Survivor",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 1981,
+      "kinopoisk_id": "32736",
+      "imdb_id": "tt0083144",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-12T07:23:27Z",
+      "updated_at": "2019-10-12T07:23:27Z"
+    },
+    {
+      "id": "movie-43655",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Выживший",
+      "title_orig": "Living Death",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2006,
+      "kinopoisk_id": "305906",
+      "imdb_id": "tt0892074",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-12T07:20:33Z",
+      "updated_at": "2019-10-12T07:20:33Z"
+    },
+    {
       "id": "movie-39189",
       "type": "russian-movie",
       "link": "",
@@ -2124,86 +2204,6 @@
       "blocked_seasons": {},
       "created_at": "2019-07-08T20:17:09Z",
       "updated_at": "2019-10-07T12:20:58Z"
-    },
-    {
-      "id": "movie-43429",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Подставленный",
-      "title_orig": "Long zai jiang hu",
-      "translation": {
-        "id": 572,
-        "title": "Визгунов",
-        "type": "voice"
-      },
-      "year": 1986,
-      "kinopoisk_id": "36522",
-      "imdb_id": "tt0091428",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-07T12:08:46Z",
-      "updated_at": "2019-10-07T12:08:46Z"
-    },
-    {
-      "id": "movie-43433",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Женщины для всех",
-      "title_orig": "La mujer de todos",
-      "translation": {
-        "id": 970,
-        "title": "Данилов",
-        "type": "voice"
-      },
-      "year": 1946,
-      "kinopoisk_id": "67449",
-      "imdb_id": "tt0038756",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-07T11:52:42Z",
-      "updated_at": "2019-10-07T11:52:42Z"
-    },
-    {
-      "id": "movie-43435",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "На цепи",
-      "title_orig": "Chained",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2012,
-      "kinopoisk_id": "597519",
-      "imdb_id": "tt1989475",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-07T11:47:16Z",
-      "updated_at": "2019-10-07T11:47:16Z"
-    },
-    {
-      "id": "movie-43416",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Человек, который был суперменом",
-      "title_orig": "Syoo-peo-maen-i-sseo-deon sa-na-i",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2008,
-      "kinopoisk_id": "402940",
-      "imdb_id": "tt1119199",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-07T11:20:50Z",
-      "updated_at": "2019-10-07T11:20:50Z"
     }
   ]
 }

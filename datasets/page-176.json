@@ -1,6 +1,98 @@
 {
   "results": [
     {
+      "id": "movie-47459",
+      "type": "anime",
+      "link": "",
+      "title": "Хиган",
+      "title_orig": "Higan",
+      "other_title": "Sweat Punch Series 4 Higan OVA",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2002,
+      "kinopoisk_id": "933826",
+      "imdb_id": "tt3916544",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3786",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-10T15:46:45Z",
+      "updated_at": "2020-01-10T15:46:45Z"
+    },
+    {
+      "id": "movie-47458",
+      "type": "anime",
+      "link": "",
+      "title": "Кибернетический страж",
+      "title_orig": "Seijûki Cyguard",
+      "other_title": "Cybernetics Guardian",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 1989,
+      "kinopoisk_id": "362112",
+      "imdb_id": "tt0097137",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4228",
+      "shikimori_id": "3882",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-10T15:45:27Z",
+      "updated_at": "2020-01-10T15:45:27Z"
+    },
+    {
+      "id": "movie-47457",
+      "type": "anime",
+      "link": "",
+      "title": "Бог Марс: Не рассказанная семнадцатилетняя история",
+      "title_orig": "Rokushin Gattai GodMars: Juunanasai no Densetsu",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 1988,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4289",
+      "shikimori_id": "2906",
+      "quality": "BDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-10T15:44:28Z",
+      "updated_at": "2020-01-10T15:44:28Z"
+    },
+    {
+      "id": "serial-8310",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Брошенный кролик",
+      "title_orig": "Usagi Drop",
+      "other_title": "Брошенная зайка / Usagi doroppu",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2011,
+      "last_season": 1,
+      "last_episode": 11,
+      "episodes_count": 11,
+      "kinopoisk_id": "629591",
+      "imdb_id": "tt2061551",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2569",
+      "shikimori_id": "10162",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-01-04T05:18:02Z",
+      "updated_at": "2020-01-10T15:02:49Z"
+    },
+    {
       "id": "movie-7322",
       "type": "foreign-movie",
       "link": "",
@@ -2271,103 +2363,6 @@
       "blocked_seasons": {},
       "created_at": "2020-01-08T18:59:11Z",
       "updated_at": "2020-01-08T18:59:11Z"
-    },
-    {
-      "id": "serial-20852",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Нелюбимая",
-      "title_orig": "La Malquerida",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 106,
-      "episodes_count": 106,
-      "kinopoisk_id": "839947",
-      "imdb_id": "tt3632744",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-01-07T15:23:36Z",
-      "updated_at": "2020-01-08T17:12:49Z"
-    },
-    {
-      "id": "serial-20602",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Парадайз Кисс",
-      "title_orig": "Paradise Kiss",
-      "other_title": "Райский поцелуй",
-      "translation": {
-        "id": 1060,
-        "title": "MiraiDUB",
-        "type": "voice"
-      },
-      "year": 2005,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "408688",
-      "imdb_id": "tt0498443",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3561",
-      "shikimori_id": "322",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-01-02T22:31:03Z",
-      "updated_at": "2020-01-08T14:17:12Z"
-    },
-    {
-      "id": "movie-6799",
-      "type": "anime",
-      "link": "",
-      "title": "Порко Россо",
-      "title_orig": "Kurenai no buta",
-      "other_title": "Алый Свин / Porco Rosso",
-      "translation": {
-        "id": 1063,
-        "title": "RUSCICO",
-        "type": "voice"
-      },
-      "year": 1992,
-      "kinopoisk_id": "8229",
-      "imdb_id": "tt0104652",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=76",
-      "shikimori_id": "416",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-06-10T22:15:54Z",
-      "updated_at": "2020-01-08T14:13:54Z"
-    },
-    {
-      "id": "movie-47347",
-      "type": "anime",
-      "link": "",
-      "title": "Порко Россо",
-      "title_orig": "Kurenai no buta",
-      "other_title": "Алый Свин / Porco Rosso",
-      "translation": {
-        "id": 1064,
-        "title": "Гланц и Королева",
-        "type": "voice"
-      },
-      "year": 1992,
-      "kinopoisk_id": "8229",
-      "imdb_id": "tt0104652",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=76",
-      "shikimori_id": "416",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-08T14:10:15Z",
-      "updated_at": "2020-01-08T14:13:39Z"
     }
   ]
 }

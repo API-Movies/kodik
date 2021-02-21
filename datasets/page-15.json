@@ -1,6 +1,131 @@
 {
   "results": [
     {
+      "id": "movie-66945",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Неприкосновенная дева",
+      "title_orig": "Achhut Kanya",
+      "translation": {
+        "id": 1664,
+        "title": "Nastia",
+        "type": "voice"
+      },
+      "year": 1936,
+      "kinopoisk_id": "99379",
+      "imdb_id": "tt0027256",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-28T06:19:43Z",
+      "updated_at": "2021-01-28T06:19:43Z"
+    },
+    {
+      "id": "movie-66745",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Встречный",
+      "title_orig": "Vstrechnyy",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1932,
+      "kinopoisk_id": "45939",
+      "imdb_id": "tt0023663",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-28T06:18:41Z",
+      "updated_at": "2021-01-28T06:18:41Z"
+    },
+    {
+      "id": "movie-66736",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Палачи 2",
+      "title_orig": "Yin doi hou hap zyun",
+      "translation": {
+        "id": 590,
+        "title": "Кузнецов",
+        "type": "voice"
+      },
+      "year": 1993,
+      "kinopoisk_id": "13718",
+      "imdb_id": "tt0108606",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-28T05:19:42Z",
+      "updated_at": "2021-01-28T05:19:42Z"
+    },
+    {
+      "id": "movie-66738",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Капур и сыновья",
+      "title_orig": "Kapoor & Sons",
+      "translation": {
+        "id": 1404,
+        "title": "ICG + OnisFilms",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "927807",
+      "imdb_id": "tt4900716",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-28T05:16:47Z",
+      "updated_at": "2021-01-28T05:16:47Z"
+    },
+    {
+      "id": "movie-66739",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Голос времени",
+      "title_orig": "Waqt Ki Awaz",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 1988,
+      "kinopoisk_id": "102549",
+      "imdb_id": "tt0096415",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-28T05:07:53Z",
+      "updated_at": "2021-01-28T05:07:53Z"
+    },
+    {
+      "id": "serial-32226",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Привет, моя юность",
+      "title_orig": "Hello, My Youth",
+      "other_title": "Добро пожаловать, старшеклассники / Welcome High School Students / Huan Ying Guang Lin Gao Zhong Sheng",
+      "translation": {
+        "id": 1509,
+        "title": "FSG White & Black.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2021,
+      "last_season": 1,
+      "last_episode": 11,
+      "episodes_count": 11,
+      "imdb_id": "tt13820356",
+      "mdl_id": "685611-welcome-high-school-students",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-01-26T10:32:52Z",
+      "updated_at": "2021-01-27T21:34:38Z"
+    },
+    {
       "id": "serial-28664",
       "type": "foreign-serial",
       "link": "",
@@ -2153,141 +2278,6 @@
       "blocked_seasons": {},
       "created_at": "2020-08-28T13:35:28Z",
       "updated_at": "2021-01-25T14:34:57Z"
-    },
-    {
-      "id": "serial-32201",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Блестящая команда 3",
-      "title_orig": "Huoli Shaonian Wang 3",
-      "other_title": "Блейзин Тинз 3 / Blazing Teens 3",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 2006,
-      "last_season": 3,
-      "last_episode": 40,
-      "episodes_count": 40,
-      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=47737",
-      "shikimori_id": "38534",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-01-25T13:57:55Z",
-      "updated_at": "2021-01-25T13:57:55Z"
-    },
-    {
-      "id": "movie-66559",
-      "type": "anime",
-      "link": "",
-      "title": "Таинственная библиотека Данталиан OVA",
-      "title_orig": "Dantalian no Shoka: Ibarahime",
-      "other_title": "Архив Данталиана / The Mystic Archives of Dantalian: Sleeping Beauty",
-      "translation": {
-        "id": 739,
-        "title": "Animedia",
-        "type": "voice"
-      },
-      "year": 2012,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1888",
-      "shikimori_id": "12879",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-01-25T12:23:12Z",
-      "updated_at": "2021-01-25T12:23:12Z"
-    },
-    {
-      "id": "serial-32197",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Мастер Муси: Следующая глава 2",
-      "title_orig": "Mushishi Zoku Shou (2014)",
-      "other_title": "Мастер Муши ТВ-3",
-      "translation": {
-        "id": 761,
-        "title": "Onibaku",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 3,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "imdb_id": "tt3443522",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2231",
-      "shikimori_id": "24701",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-01-25T12:18:18Z",
-      "updated_at": "2021-01-25T12:18:18Z"
-    },
-    {
-      "id": "movie-66558",
-      "type": "anime",
-      "link": "",
-      "title": "Мастер Муси: Следующая глава",
-      "title_orig": "Mushi-Shi Zoku Shou: Suzu no Shizuku",
-      "other_title": "Мастер Муси: Следующая глава (фильм) / Мастер муши: Капли колокольчиков / Мастер Муши - Капли-бубенчики",
-      "translation": {
-        "id": 761,
-        "title": "Onibaku",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "1043652",
-      "imdb_id": "tt5575408",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8188",
-      "shikimori_id": "28957",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-01-25T12:16:57Z",
-      "updated_at": "2021-01-25T12:16:57Z"
-    },
-    {
-      "id": "movie-66560",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Алмазы для Марии",
-      "title_orig": "Almazy dlya Marii",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1976,
-      "kinopoisk_id": "43465",
-      "imdb_id": "tt0312343",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-01-25T11:58:10Z",
-      "updated_at": "2021-01-25T11:58:10Z"
-    },
-    {
-      "id": "movie-66561",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Бес в ребро",
-      "title_orig": "Bes v rebro",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1990,
-      "kinopoisk_id": "46094",
-      "imdb_id": "tt0099123",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-01-25T11:55:51Z",
-      "updated_at": "2021-01-25T11:55:51Z"
     }
   ]
 }

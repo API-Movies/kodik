@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-55140",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Лгунья",
+      "title_orig": "Jhoothi",
+      "translation": {
+        "id": 651,
+        "title": "Люб. Многоголосый",
+        "type": "voice"
+      },
+      "year": 1985,
+      "kinopoisk_id": "96992",
+      "imdb_id": "tt0244567",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-11T09:38:23Z",
+      "updated_at": "2020-05-11T09:38:23Z"
+    },
+    {
+      "id": "movie-55141",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Любовь без памяти",
+      "title_orig": "Ek Ladka Ek Ladki",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 1992,
+      "kinopoisk_id": "221873",
+      "imdb_id": "tt0291883",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-11T09:37:27Z",
+      "updated_at": "2020-05-11T09:37:27Z"
+    },
+    {
+      "id": "movie-55142",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Выше Бога",
+      "title_orig": "Maalik",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 1972,
+      "kinopoisk_id": "96083",
+      "imdb_id": "tt0156754",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-11T09:37:09Z",
+      "updated_at": "2020-05-11T09:37:09Z"
+    },
+    {
+      "id": "movie-55112",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мужчины с толстой кожей",
+      "title_orig": "Hombres de piel dura",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1248631",
+      "imdb_id": "tt9859504",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-11T09:01:00Z",
+      "updated_at": "2020-05-11T09:01:00Z"
+    },
+    {
       "id": "movie-55113",
       "type": "foreign-movie",
       "link": "",
@@ -2111,102 +2191,6 @@
       "blocked_seasons": {},
       "created_at": "2020-05-09T07:06:00Z",
       "updated_at": "2020-05-09T11:05:56Z"
-    },
-    {
-      "id": "serial-24744",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Легенда о мечнике: Девять небесных песен",
-      "title_orig": "Nine Songs of the Moving Heavens",
-      "translation": {
-        "id": 1295,
-        "title": "GrandStudio",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 2,
-      "last_episode": 30,
-      "episodes_count": 86,
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-13T07:56:35Z",
-      "updated_at": "2020-05-09T10:10:09Z"
-    },
-    {
-      "id": "serial-25154",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Сказание о демонах сакуры [ТВ-2]",
-      "title_orig": "Hakuouki: Hekketsu-roku - Shinsengumi Kitan",
-      "other_title": "Hakuoki: Demon of the Fleeting Blossom - Record of the Jade Blood",
-      "translation": {
-        "id": 654,
-        "title": "AniFilm",
-        "type": "voice"
-      },
-      "year": 2010,
-      "last_season": 2,
-      "last_episode": 10,
-      "episodes_count": 11,
-      "kinopoisk_id": "523360",
-      "imdb_id": "tt1658978",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7942",
-      "shikimori_id": "9065",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-26T16:38:24Z",
-      "updated_at": "2020-05-09T09:46:44Z"
-    },
-    {
-      "id": "serial-25267",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Разноцветье",
-      "title_orig": "Colorful",
-      "other_title": "カラフル",
-      "translation": {
-        "id": 1048,
-        "title": "Евгения Лурье",
-        "type": "voice"
-      },
-      "year": 1999,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 6,
-      "kinopoisk_id": "261428",
-      "imdb_id": "tt0844490",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2736",
-      "shikimori_id": "841",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-29T15:51:40Z",
-      "updated_at": "2020-05-09T09:33:35Z"
-    },
-    {
-      "id": "movie-55028",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Пробужденный",
-      "title_orig": "Awoken",
-      "translation": {
-        "id": 861,
-        "title": "LakeFilms",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1123965",
-      "imdb_id": "tt7838536",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-09T09:21:19Z",
-      "updated_at": "2020-05-09T09:21:19Z"
     }
   ]
 }

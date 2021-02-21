@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-31719",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Подарок черного колдуна",
+      "title_orig": "Podarok chyornogo kolduna",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1978,
+      "kinopoisk_id": "43041",
+      "imdb_id": "tt0078095",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-01T09:35:05Z",
+      "updated_at": "2019-04-17T07:44:01Z"
+    },
+    {
+      "id": "movie-31833",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Любимая женщина механика Гаврилова",
+      "title_orig": "Lyubimaya zhenshchina mekhanika Gavrilova",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1981,
+      "kinopoisk_id": "45137",
+      "imdb_id": "tt0155841",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-03T01:52:47Z",
+      "updated_at": "2019-04-17T07:42:48Z"
+    },
+    {
+      "id": "movie-31193",
+      "type": "russian-cartoon",
+      "link": "",
+      "title": "Алиса в Зазеркалье",
+      "title_orig": "Alisa v Zazerkale",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1982,
+      "kinopoisk_id": "43458",
+      "imdb_id": "tt0211192",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-23T22:17:40Z",
+      "updated_at": "2019-04-17T07:40:49Z"
+    },
+    {
+      "id": "movie-31194",
+      "type": "russian-cartoon",
+      "link": "",
+      "title": "Алиса в стране чудес",
+      "title_orig": "Alisa v strane chudes",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1981,
+      "kinopoisk_id": "43457",
+      "imdb_id": "tt0211191",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-23T22:18:52Z",
+      "updated_at": "2019-04-17T07:38:31Z"
+    },
+    {
       "id": "movie-35141",
       "type": "russian-movie",
       "link": "",
@@ -1935,91 +2015,6 @@
       "blocked_seasons": {},
       "created_at": "2019-03-31T18:29:48Z",
       "updated_at": "2019-04-15T22:41:38Z"
-    },
-    {
-      "id": "serial-15006",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Неприкасамемый",
-      "title_orig": "Wu fa yong bao de ni",
-      "other_title": "Не могу обнять тебя / Can Not Embrace / Cannot Hug You / You Wu Fa Yong Bao de Ni",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2017,
-      "last_season": 2,
-      "last_episode": 16,
-      "episodes_count": 32,
-      "kinopoisk_id": "1112931",
-      "imdb_id": "tt7741974",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-02-08T21:32:46Z",
-      "updated_at": "2019-04-15T10:50:35Z"
-    },
-    {
-      "id": "movie-34961",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Человек-невидимка",
-      "title_orig": "Chelovek-nevidimka",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1985,
-      "kinopoisk_id": "45479",
-      "imdb_id": "tt0087043",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-15T10:12:44Z",
-      "updated_at": "2019-04-15T10:12:44Z"
-    },
-    {
-      "id": "movie-8768",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Шаг навстречу",
-      "title_orig": "Шаг навстречу",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1975,
-      "kinopoisk_id": "43713",
-      "imdb_id": "tt0255594",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-05-15T11:13:35Z",
-      "updated_at": "2019-04-15T10:11:11Z"
-    },
-    {
-      "id": "movie-31256",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Фантазии Фарятьева",
-      "title_orig": "Fantazii Faryateva",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1979,
-      "kinopoisk_id": "94828",
-      "imdb_id": "tt0169892",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-24T22:45:45Z",
-      "updated_at": "2019-04-15T10:05:30Z"
     }
   ]
 }

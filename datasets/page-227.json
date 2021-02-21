@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-17386",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Войско Мын Бала",
+      "title_orig": "Zhauzhürek myng bala",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "665337",
+      "imdb_id": "tt1852040",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-07-03T09:43:49Z",
+      "updated_at": "2019-11-04T19:50:34Z"
+    },
+    {
+      "id": "movie-38566",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Во мраке",
+      "title_orig": "Во мраке",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1147707",
+      "imdb_id": "tt10949534",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-06-19T06:56:38Z",
+      "updated_at": "2019-11-04T19:49:38Z"
+    },
+    {
+      "id": "movie-31305",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Весь мир у наших ног",
+      "title_orig": "The Whole World at Our Feet",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "717783",
+      "imdb_id": "tt2538778",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-25T06:47:52Z",
+      "updated_at": "2019-11-04T19:48:28Z"
+    },
+    {
+      "id": "movie-16170",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Бриллиантовый картель",
+      "title_orig": "Diamond Cartel",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1009449",
+      "imdb_id": "tt6282314",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-04-12T04:57:13Z",
+      "updated_at": "2019-11-04T19:48:05Z"
+    },
+    {
       "id": "movie-38550",
       "type": "foreign-movie",
       "link": "",
@@ -2296,101 +2376,6 @@
       "blocked_seasons": {},
       "created_at": "2018-08-05T19:45:34Z",
       "updated_at": "2019-11-01T06:21:52Z"
-    },
-    {
-      "id": "serial-11906",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Подручный Луизы-Нулизы (четвертый сезон)",
-      "title_orig": "Zero no Tsukaima F",
-      "other_title": "Подручный Бездарной Луизы ТВ-4 / Подручный бездарной Луизы (4 сезон) / Подручный Луизы-Нулизы: Финал",
-      "translation": {
-        "id": 610,
-        "title": "AniLibria.TV",
-        "type": "voice"
-      },
-      "year": 2012,
-      "last_season": 4,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "678843",
-      "imdb_id": "tt0978553",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=132",
-      "shikimori_id": "11319",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-08-05T19:46:42Z",
-      "updated_at": "2019-11-01T06:19:18Z"
-    },
-    {
-      "id": "serial-19511",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Кэнган Асура 2",
-      "title_orig": "Kengan Ashura 2",
-      "other_title": "Асура Кэнгана / Kengan Ashura 2nd Season",
-      "translation": {
-        "id": 910,
-        "title": "AniStar",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 2,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1235053",
-      "imdb_id": "tt9058134",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10246",
-      "shikimori_id": "40269",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-10-31T17:26:14Z",
-      "updated_at": "2019-11-01T06:14:29Z"
-    },
-    {
-      "id": "movie-44473",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "День славы",
-      "title_orig": "Geulroridei",
-      "other_title": "Путешествие в один конец",
-      "translation": {
-        "id": 641,
-        "title": "STEPonee",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "972792",
-      "imdb_id": "tt5559586",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-11-01T06:08:33Z",
-      "updated_at": "2019-11-01T06:08:33Z"
-    },
-    {
-      "id": "movie-44472",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Банджо",
-      "title_orig": "Banjo",
-      "translation": {
-        "id": 641,
-        "title": "STEPonee",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "992280",
-      "imdb_id": "tt5755606",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-31T22:58:39Z",
-      "updated_at": "2019-10-31T22:58:39Z"
     }
   ]
 }

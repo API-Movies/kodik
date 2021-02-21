@@ -1,6 +1,103 @@
 {
   "results": [
     {
+      "id": "movie-58663",
+      "type": "anime",
+      "link": "",
+      "title": "Сквозь слёзы я притворяюсь кошкой",
+      "title_orig": "A Whisker Away",
+      "other_title": "Чтобы не плакать, я превращаюсь в кошку / Nakitai Watashi wa Neko o Kaburu",
+      "translation": {
+        "id": 890,
+        "title": "SovetRomantica",
+        "type": "voice"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1338545",
+      "imdb_id": "tt11958344",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10380",
+      "shikimori_id": "41168",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-06T14:38:51Z",
+      "updated_at": "2020-08-06T14:38:51Z"
+    },
+    {
+      "id": "movie-58662",
+      "type": "anime",
+      "link": "",
+      "title": "Сквозь слёзы я притворяюсь кошкой",
+      "title_orig": "A Whisker Away",
+      "other_title": "Чтобы не плакать, я превращаюсь в кошку / Nakitai Watashi wa Neko o Kaburu",
+      "translation": {
+        "id": 825,
+        "title": "AniMaunt",
+        "type": "voice"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1338545",
+      "imdb_id": "tt11958344",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10380",
+      "shikimori_id": "41168",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-06T14:38:29Z",
+      "updated_at": "2020-08-06T14:38:29Z"
+    },
+    {
+      "id": "serial-24723",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Моя реинкарнация в отомэ-игре в качестве главной злодейки",
+      "title_orig": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta...",
+      "other_title": "Моя реинкарнация в отомэ-игру в качестве главной злодейки / Я переродилась в Отоме-игре как главная злодейка / My Next Life as a Villainess: All Routes Lead to Doom!",
+      "translation": {
+        "id": 1291,
+        "title": "Crunchyroll.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1313574",
+      "imdb_id": "tt11821792",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10164",
+      "shikimori_id": "38555",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-12T14:52:26Z",
+      "updated_at": "2020-08-06T14:37:25Z"
+    },
+    {
+      "id": "serial-28115",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Рактанчал",
+      "title_orig": "Raktanchal",
+      "translation": {
+        "id": 920,
+        "title": "Octopus",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 9,
+      "episodes_count": 9,
+      "kinopoisk_id": "1381229",
+      "imdb_id": "tt12347286",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-07-27T14:41:22Z",
+      "updated_at": "2020-08-06T14:37:10Z"
+    },
+    {
       "id": "movie-58661",
       "type": "anime",
       "link": "",
@@ -2210,86 +2307,6 @@
       "blocked_countries": [],
       "created_at": "2020-08-05T07:55:43Z",
       "updated_at": "2020-08-05T07:55:43Z"
-    },
-    {
-      "id": "movie-58578",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Птичий рынок",
-      "title_orig": "Ptichiy rynok",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1974,
-      "kinopoisk_id": "622812",
-      "imdb_id": "tt9100002",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-05T07:53:49Z",
-      "updated_at": "2020-08-05T07:53:49Z"
-    },
-    {
-      "id": "movie-58579",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Пугали зайцы зайчонка",
-      "title_orig": "Pugali zaytsy zaychonka",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1983,
-      "kinopoisk_id": "565236",
-      "imdb_id": "tt6416664",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-05T07:53:00Z",
-      "updated_at": "2020-08-05T07:53:00Z"
-    },
-    {
-      "id": "movie-58580",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Пугало",
-      "title_orig": "Pugalo",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1990,
-      "kinopoisk_id": "628507",
-      "imdb_id": "tt6027510",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-05T07:51:55Z",
-      "updated_at": "2020-08-05T07:51:55Z"
-    },
-    {
-      "id": "movie-58515",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Разрешите пройти",
-      "title_orig": "Razreshite proyti",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1987,
-      "kinopoisk_id": "1199840",
-      "imdb_id": "tt6044542",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-05T07:28:22Z",
-      "updated_at": "2020-08-05T07:28:22Z"
     }
   ]
 }

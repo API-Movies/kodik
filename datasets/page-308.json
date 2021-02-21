@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-21674",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Фри-Стейт",
+      "title_orig": "Free State",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "887208",
+      "imdb_id": "tt4350998",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-03-15T08:24:14Z",
+      "updated_at": "2018-03-15T08:24:14Z"
+    },
+    {
+      "id": "movie-21659",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Голубой мировой порядок",
+      "title_orig": "Blue World Order",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "898939",
+      "imdb_id": "tt4457678",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-03-14T18:17:54Z",
+      "updated_at": "2018-03-15T08:18:38Z"
+    },
+    {
+      "id": "movie-21655",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "1921",
+      "title_orig": "1921",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1046842",
+      "imdb_id": "tt6958030",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-03-14T15:03:53Z",
+      "updated_at": "2018-03-15T07:26:50Z"
+    },
+    {
+      "id": "movie-21652",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Говори как твой муж 2",
+      "title_orig": "Kocan Kadar Konus Dirilis",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "955258",
+      "imdb_id": "tt4994718",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-03-14T13:35:43Z",
+      "updated_at": "2018-03-14T13:35:43Z"
+    },
+    {
       "id": "movie-21678",
       "type": "foreign-movie",
       "link": "",
@@ -2067,92 +2147,6 @@
       "blocked_countries": [],
       "created_at": "2018-02-28T16:05:21Z",
       "updated_at": "2018-03-01T15:06:46Z"
-    },
-    {
-      "id": "serial-9376",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Пси Фактор: Хроники паранормальных явлений",
-      "title_orig": "PSI Factor: Chronicles of the Paranormal",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1996,
-      "last_season": 4,
-      "last_episode": 22,
-      "episodes_count": 88,
-      "kinopoisk_id": "343763",
-      "imdb_id": "tt0115326",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-03-01T10:08:38Z",
-      "updated_at": "2018-03-01T10:08:38Z"
-    },
-    {
-      "id": "movie-21277",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Прощай, Кабукитё",
-      "title_orig": "Sayonara Kabukicho",
-      "other_title": "Kabukicho Love Hotel",
-      "translation": {
-        "id": 791,
-        "title": "RealFake",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "849260",
-      "imdb_id": "tt3876372",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-02-28T18:44:49Z",
-      "updated_at": "2018-02-28T18:44:49Z"
-    },
-    {
-      "id": "movie-21276",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Скандалист",
-      "title_orig": "Wai gong fang lin 38",
-      "translation": {
-        "id": 646,
-        "title": "XDUB Dorama",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "999828",
-      "imdb_id": "tt5936462",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-02-28T18:43:44Z",
-      "updated_at": "2018-02-28T18:43:44Z"
-    },
-    {
-      "id": "movie-21281",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Мастер",
-      "title_orig": "Maseuteo",
-      "other_title": "Ma-seu-teo / Master",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "986482",
-      "imdb_id": "tt5735464",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-02-28T20:15:01Z",
-      "updated_at": "2018-02-28T18:41:34Z"
     }
   ]
 }

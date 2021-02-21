@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-33464",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Умные вещи",
+      "title_orig": "Umnyye veshchi",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1973,
+      "kinopoisk_id": "427077",
+      "imdb_id": "tt4818936",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-03-13T06:42:04Z",
+      "updated_at": "2019-03-13T06:42:04Z"
+    },
+    {
+      "id": "movie-20094",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Принцесса на горошине",
+      "title_orig": "Принцесса на горошине",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1976,
+      "kinopoisk_id": "43267",
+      "imdb_id": "tt0075104",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-12-18T19:39:45Z",
+      "updated_at": "2019-03-13T06:40:46Z"
+    },
+    {
+      "id": "movie-33457",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Теетта Раппаи",
+      "title_orig": "Theetta Rappai",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1174081",
+      "imdb_id": "tt8671138",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-03-12T21:04:28Z",
+      "updated_at": "2019-03-13T06:37:44Z"
+    },
+    {
+      "id": "movie-33467",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Кровавые кулаки",
+      "title_orig": "Dang kou tan",
+      "translation": {
+        "id": 786,
+        "title": "Проф. Одноголосый",
+        "type": "voice"
+      },
+      "year": 1972,
+      "kinopoisk_id": "154545",
+      "imdb_id": "tt0164522",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-03-13T06:36:40Z",
+      "updated_at": "2019-03-13T06:36:40Z"
+    },
+    {
       "id": "movie-33459",
       "type": "foreign-movie",
       "link": "",
@@ -2073,90 +2153,6 @@
       "blocked_seasons": {},
       "created_at": "2019-01-08T16:37:01Z",
       "updated_at": "2019-03-05T12:15:38Z"
-    },
-    {
-      "id": "serial-15715",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Хюррем Султан",
-      "title_orig": "Hürrem Sultan",
-      "translation": {
-        "id": 743,
-        "title": "BaibaKo",
-        "type": "voice"
-      },
-      "year": 2003,
-      "last_season": 1,
-      "last_episode": 8,
-      "episodes_count": 8,
-      "kinopoisk_id": "623705",
-      "imdb_id": "tt0424656",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-03-03T10:32:21Z",
-      "updated_at": "2019-03-05T11:59:42Z"
-    },
-    {
-      "id": "movie-33147",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Чужая жена и муж под кроватью",
-      "title_orig": "Chuzhaya zhena i muzh pod krovatyu",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1984,
-      "kinopoisk_id": "79878",
-      "imdb_id": "tt0087058",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-05T08:14:55Z",
-      "updated_at": "2019-03-05T08:14:55Z"
-    },
-    {
-      "id": "movie-33148",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Двенадцатая ночь",
-      "title_orig": "Dvenadtsataya noch",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1955,
-      "kinopoisk_id": "195661",
-      "imdb_id": "tt0049166",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-05T08:11:09Z",
-      "updated_at": "2019-03-05T08:11:09Z"
-    },
-    {
-      "id": "movie-33150",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Моя война",
-      "title_orig": "Wo de zhan zheng",
-      "translation": {
-        "id": 620,
-        "title": "GREEN TEA",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "998771",
-      "imdb_id": "tt6177592",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-05T08:08:59Z",
-      "updated_at": "2019-03-05T08:08:59Z"
     }
   ]
 }

@@ -1,6 +1,90 @@
 {
   "results": [
     {
+      "id": "serial-28668",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Тень любви",
+      "title_orig": "Shadow of the Affair",
+      "other_title": "Ngao Sanaeha",
+      "translation": {
+        "id": 1557,
+        "title": "FSG Thai Miracle.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 7,
+      "episodes_count": 7,
+      "mdl_id": "29500-ngao-sanaeha",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-14T15:04:54Z",
+      "updated_at": "2020-11-26T10:08:42Z"
+    },
+    {
+      "id": "movie-63778",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Всегда скучаю по тебе",
+      "title_orig": "Xia yi ren: qian ren",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1256215",
+      "imdb_id": "tt10234494",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-26T08:03:09Z",
+      "updated_at": "2020-11-26T08:03:09Z"
+    },
+    {
+      "id": "movie-63782",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Первый автограф",
+      "title_orig": "Pervyy avtograf",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1980,
+      "kinopoisk_id": "608778",
+      "imdb_id": "tt6762280",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-26T07:47:14Z",
+      "updated_at": "2020-11-26T07:47:14Z"
+    },
+    {
+      "id": "movie-63783",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Одинокий рояль",
+      "title_orig": "Odinokiy royal'",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1986,
+      "kinopoisk_id": "1047449",
+      "imdb_id": "tt7201194",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-26T07:43:21Z",
+      "updated_at": "2020-11-26T07:43:21Z"
+    },
+    {
       "id": "movie-63784",
       "type": "russian-movie",
       "link": "",
@@ -2225,101 +2309,6 @@
       "blocked_seasons": {},
       "created_at": "2020-11-21T20:24:32Z",
       "updated_at": "2020-11-21T20:24:32Z"
-    },
-    {
-      "id": "serial-30141",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Великое возрождение",
-      "title_orig": "The Great Revival",
-      "other_title": "Великая месть / Wo Xin Chang Dan",
-      "translation": {
-        "id": 1552,
-        "title": "ФСГ Тигрята на подсолнухе.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2007,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "imdb_id": "tt5619290",
-      "mdl_id": "7272-the-great-revival",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-11-19T12:46:25Z",
-      "updated_at": "2020-11-21T18:08:14Z"
-    },
-    {
-      "id": "movie-63619",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Комната памяти",
-      "title_orig": "Kiokuya: Anata wo Wasurenai",
-      "other_title": "Kiokuya / The Memory Eraser",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "kinopoisk_id": "1311493",
-      "mdl_id": "32529-kiokuya",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-21T16:58:58Z",
-      "updated_at": "2020-11-21T16:58:58Z"
-    },
-    {
-      "id": "serial-26155",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Девять километров любви",
-      "title_orig": "Jiu Qian Mi De Ai Qing",
-      "other_title": "9 километров любви / Nine Kilometers of Love",
-      "translation": {
-        "id": 993,
-        "title": "3NOK",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 19,
-      "episodes_count": 19,
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-26T10:04:55Z",
-      "updated_at": "2020-11-21T15:09:46Z"
-    },
-    {
-      "id": "serial-29366",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Встречаясь на кухне",
-      "title_orig": "Wo, xi huan ni",
-      "other_title": "Свидания на кухне / Свидание на кухне / Любовь на кухне / Я, как и ты / Ты мне нравишься / Dating In the Kitchen / Like You / This Is Not What I Expected",
-      "translation": {
-        "id": 918,
-        "title": "Дораманутая / W3",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 24,
-      "episodes_count": 24,
-      "kinopoisk_id": "1419668",
-      "imdb_id": "tt13085996",
-      "mdl_id": "52139-like-you",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-09-24T14:33:54Z",
-      "updated_at": "2020-11-21T15:04:12Z"
     }
   ]
 }

@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-32594",
+      "type": "soviet-cartoon",
+      "link": "",
+      "title": "Кот-рыболов",
+      "title_orig": "Kot-rybolov",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1964,
+      "kinopoisk_id": "44946",
+      "imdb_id": "tt0165849",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-19T16:09:28Z",
+      "updated_at": "2019-04-11T07:57:26Z"
+    },
+    {
+      "id": "movie-34747",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Кот в сапогах",
+      "title_orig": "Kot v sapogakh",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1968,
+      "kinopoisk_id": "260072",
+      "imdb_id": "tt3454556",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-11T07:55:39Z",
+      "updated_at": "2019-04-11T07:55:39Z"
+    },
+    {
+      "id": "movie-31177",
+      "type": "russian-cartoon",
+      "link": "",
+      "title": "Чертенок № 13",
+      "title_orig": "Chertyonok N13",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1982,
+      "kinopoisk_id": "451308",
+      "imdb_id": "tt3467570",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-23T21:42:16Z",
+      "updated_at": "2019-04-11T07:54:31Z"
+    },
+    {
+      "id": "movie-31763",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Небывальщина",
+      "title_orig": "Nebyvalshchina",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1983,
+      "kinopoisk_id": "46380",
+      "imdb_id": "tt0174061",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-01T16:04:38Z",
+      "updated_at": "2019-04-11T07:53:22Z"
+    },
+    {
       "id": "movie-34748",
       "type": "russian-movie",
       "link": "",
@@ -1957,86 +2037,6 @@
       "blocked_countries": [],
       "created_at": "2019-04-08T11:18:10Z",
       "updated_at": "2019-04-08T11:18:10Z"
-    },
-    {
-      "id": "movie-34585",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Блокада: Фильм 2: Ленинградский метроном. Операция «Искра»",
-      "title_orig": "Blokada: Leningradskiy metronom, Operatsiya Iskra",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1978,
-      "kinopoisk_id": "46148",
-      "imdb_id": "tt0315844",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-08T11:17:20Z",
-      "updated_at": "2019-04-08T11:17:20Z"
-    },
-    {
-      "id": "movie-34586",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Легенда о княгине Ольге",
-      "title_orig": "Legenda o knyagine Olge",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1984,
-      "kinopoisk_id": "45056",
-      "imdb_id": "tt0171469",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-08T11:16:24Z",
-      "updated_at": "2019-04-08T11:16:24Z"
-    },
-    {
-      "id": "movie-32394",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Зверобой",
-      "title_orig": "Zveroboy",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1990,
-      "kinopoisk_id": "271708",
-      "imdb_id": "tt2930848",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-15T19:28:32Z",
-      "updated_at": "2019-04-08T11:06:29Z"
-    },
-    {
-      "id": "movie-34562",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Снял кого-нибудь?",
-      "title_orig": "Minnâ-yatteruka!",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1994,
-      "kinopoisk_id": "55122",
-      "imdb_id": "tt0110524",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-08T10:18:44Z",
-      "updated_at": "2019-04-08T10:18:44Z"
     }
   ]
 }

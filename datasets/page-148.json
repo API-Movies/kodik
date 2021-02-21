@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-49743",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Страстная любовь",
+      "title_orig": "Chaahat",
+      "translation": {
+        "id": 765,
+        "title": "SDI Media",
+        "type": "voice"
+      },
+      "year": 1996,
+      "kinopoisk_id": "77635",
+      "imdb_id": "tt0172234",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-18T15:33:38Z",
+      "updated_at": "2020-02-18T15:33:38Z"
+    },
+    {
+      "id": "movie-49744",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Сумасшествие",
+      "title_orig": "Pagalpanti",
+      "translation": {
+        "id": 661,
+        "title": "Honey&Hoseena",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1232975",
+      "imdb_id": "tt9495690",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-18T15:32:55Z",
+      "updated_at": "2020-02-18T15:32:55Z"
+    },
+    {
+      "id": "movie-49745",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Жестокая справедливость",
+      "title_orig": "Amar Shakti",
+      "translation": {
+        "id": 651,
+        "title": "Люб. Многоголосый",
+        "type": "voice"
+      },
+      "year": 1978,
+      "kinopoisk_id": "222997",
+      "imdb_id": "tt0236977",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-18T15:32:03Z",
+      "updated_at": "2020-02-18T15:32:03Z"
+    },
+    {
+      "id": "movie-49746",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Игра",
+      "title_orig": "Aata",
+      "translation": {
+        "id": 764,
+        "title": "Red Media",
+        "type": "voice"
+      },
+      "year": 2007,
+      "kinopoisk_id": "322945",
+      "imdb_id": "tt0962746",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-18T15:31:20Z",
+      "updated_at": "2020-02-18T15:31:20Z"
+    },
+    {
       "id": "movie-49747",
       "type": "foreign-movie",
       "link": "",
@@ -2105,90 +2185,6 @@
       "blocked_countries": [],
       "created_at": "2020-02-17T12:52:45Z",
       "updated_at": "2020-02-17T12:52:45Z"
-    },
-    {
-      "id": "movie-49634",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Герои не плачут",
-      "title_orig": "Ying xiong wu lei",
-      "translation": {
-        "id": 580,
-        "title": "Дольский",
-        "type": "voice"
-      },
-      "year": 1986,
-      "kinopoisk_id": "19254",
-      "imdb_id": "tt0092264",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-02-17T12:51:43Z",
-      "updated_at": "2020-02-17T12:51:43Z"
-    },
-    {
-      "id": "movie-49635",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Как управлять парнями",
-      "title_orig": "Tuo Dan Gao Ji",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1115282",
-      "imdb_id": "tt8319694",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-02-17T12:37:36Z",
-      "updated_at": "2020-02-17T12:37:36Z"
-    },
-    {
-      "id": "movie-49611",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Король обольщения",
-      "title_orig": "Ahbuwei Wang",
-      "translation": {
-        "id": 613,
-        "title": "DeadSno & den904",
-        "type": "voice"
-      },
-      "year": 2012,
-      "kinopoisk_id": "692531",
-      "imdb_id": "tt2658278",
-      "quality": "HDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-02-17T12:33:43Z",
-      "updated_at": "2020-02-17T12:33:43Z"
-    },
-    {
-      "id": "serial-21593",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Как поживаешь, хлеб?",
-      "title_orig": "Hawayubeuredeu",
-      "other_title": "How Are You Bread",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 5,
-      "episodes_count": 5,
-      "kinopoisk_id": "1044897",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-01-21T21:50:45Z",
-      "updated_at": "2020-02-17T12:24:32Z"
     }
   ]
 }

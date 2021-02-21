@@ -1,6 +1,86 @@
 {
   "results": [
     {
+      "id": "movie-38301",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Замри-умри-воскресни!",
+      "title_orig": "Zamri, umri, voskresni!",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1990,
+      "kinopoisk_id": "45224",
+      "imdb_id": "tt0101003",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-06-13T06:49:56Z",
+      "updated_at": "2019-06-13T06:49:56Z"
+    },
+    {
+      "id": "movie-38302",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Свет в конце тоннеля",
+      "title_orig": "Svet v kontse tonnelya",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1974,
+      "kinopoisk_id": "44051",
+      "imdb_id": "tt0314745",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-06-13T06:48:28Z",
+      "updated_at": "2019-06-13T06:48:28Z"
+    },
+    {
+      "id": "movie-38304",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Транзит",
+      "title_orig": "Tranzit",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1982,
+      "kinopoisk_id": "390376",
+      "imdb_id": "tt1393023",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-06-13T06:46:10Z",
+      "updated_at": "2019-06-13T06:46:10Z"
+    },
+    {
+      "id": "movie-38305",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Благородный разбойник Владимир Дубровский",
+      "title_orig": "Blagorodnyy razboynik Vladimir Dubrovskiy",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1989,
+      "kinopoisk_id": "46142",
+      "imdb_id": "tt0096937",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-06-13T06:43:37Z",
+      "updated_at": "2019-06-13T06:43:37Z"
+    },
+    {
       "id": "movie-38306",
       "type": "russian-movie",
       "link": "",
@@ -1953,90 +2033,6 @@
       "blocked_countries": [],
       "created_at": "2019-06-10T06:58:32Z",
       "updated_at": "2019-06-10T06:58:32Z"
-    },
-    {
-      "id": "movie-38160",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Красные дипкурьеры",
-      "title_orig": "Krasnye dipkurery",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1977,
-      "kinopoisk_id": "44957",
-      "imdb_id": "tt0076283",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-06-10T06:57:16Z",
-      "updated_at": "2019-06-10T06:57:16Z"
-    },
-    {
-      "id": "serial-7885",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Стамбульская невеста",
-      "title_orig": "Istanbullu Gelin",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 3,
-      "last_episode": 34,
-      "episodes_count": 87,
-      "kinopoisk_id": "1045758",
-      "imdb_id": "tt6462806",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-29T07:02:07Z",
-      "updated_at": "2019-06-09T18:06:43Z"
-    },
-    {
-      "id": "movie-38144",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Страна теней",
-      "title_orig": "Shadowlands",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1227984",
-      "imdb_id": "tt6240094",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-06-09T11:39:47Z",
-      "updated_at": "2019-06-09T11:39:47Z"
-    },
-    {
-      "id": "movie-38127",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Потерянные в любви",
-      "title_orig": "Ru ying sui xin",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1115085",
-      "imdb_id": "tt10126628",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-06-08T07:15:27Z",
-      "updated_at": "2019-06-09T11:38:12Z"
     }
   ]
 }

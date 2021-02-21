@@ -1,6 +1,93 @@
 {
   "results": [
     {
+      "id": "movie-35863",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Трава зеленее",
+      "title_orig": "Grass is Greener",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1254819",
+      "imdb_id": "tt10050782",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-29T05:10:21Z",
+      "updated_at": "2019-04-29T05:10:21Z"
+    },
+    {
+      "id": "movie-35296",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Золото Флинна",
+      "title_orig": "In Like Flynn",
+      "other_title": "Подобно Флинну",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "959559",
+      "imdb_id": "tt5303442",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [
+        "RU"
+      ],
+      "created_at": "2019-04-19T05:15:51Z",
+      "updated_at": "2019-04-29T05:00:08Z"
+    },
+    {
+      "id": "serial-16520",
+      "type": "russian-serial",
+      "link": "",
+      "title": "Следствие ведут знатоки: Побег",
+      "title_orig": "Pobeg",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1973,
+      "last_season": 1,
+      "last_episode": 2,
+      "episodes_count": 2,
+      "kinopoisk_id": "88716",
+      "imdb_id": "tt0274726",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-04-28T09:16:25Z",
+      "updated_at": "2019-04-28T09:16:25Z"
+    },
+    {
+      "id": "movie-35847",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Следствие ведут знатоки: Свидетель",
+      "title_orig": "Svidetel",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1974,
+      "kinopoisk_id": "88732",
+      "imdb_id": "tt0284531",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-28T09:14:48Z",
+      "updated_at": "2019-04-28T09:14:48Z"
+    },
+    {
       "id": "movie-35846",
       "type": "russian-movie",
       "link": "",
@@ -2049,86 +2136,6 @@
       "blocked_countries": [],
       "created_at": "2019-04-25T08:18:28Z",
       "updated_at": "2019-04-25T08:18:28Z"
-    },
-    {
-      "id": "movie-31252",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Нога",
-      "title_orig": "Noga",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1991,
-      "kinopoisk_id": "41572",
-      "imdb_id": "tt0309922",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-24T22:38:26Z",
-      "updated_at": "2019-04-25T08:14:55Z"
-    },
-    {
-      "id": "movie-32864",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Василий Буслаев",
-      "title_orig": "Vasiliy Buslaev",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1982,
-      "kinopoisk_id": "45674",
-      "imdb_id": "tt0084850",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-25T21:34:34Z",
-      "updated_at": "2019-04-25T08:12:36Z"
-    },
-    {
-      "id": "movie-35724",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Ловкач",
-      "title_orig": "Loukyam",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "854824",
-      "imdb_id": "tt3982436",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-25T07:14:07Z",
-      "updated_at": "2019-04-25T07:14:07Z"
-    },
-    {
-      "id": "movie-35727",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Берег спасения",
-      "title_orig": "Bereg spaseniya",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1990,
-      "kinopoisk_id": "46086",
-      "imdb_id": "tt0312459",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-25T07:10:00Z",
-      "updated_at": "2019-04-25T07:10:00Z"
     }
   ]
 }

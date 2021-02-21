@@ -1,6 +1,85 @@
 {
   "results": [
     {
+      "id": "movie-43174",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Жажда любви",
+      "title_orig": "Yu ai",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2016,
+      "kinopoisk_id": "1180948",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-01T13:01:13Z",
+      "updated_at": "2019-10-01T13:01:13Z"
+    },
+    {
+      "id": "movie-43185",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Бесчестье",
+      "title_orig": "Disgrace",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2008,
+      "kinopoisk_id": "102178",
+      "imdb_id": "tt0445953",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-01T12:57:08Z",
+      "updated_at": "2019-10-01T12:57:08Z"
+    },
+    {
+      "id": "movie-43191",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "По следу Тигра",
+      "title_orig": "Most",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 1969,
+      "kinopoisk_id": "233801",
+      "imdb_id": "tt0074921",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-01T12:44:53Z",
+      "updated_at": "2019-10-01T12:44:53Z"
+    },
+    {
+      "id": "movie-43196",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Обнаженное оружие",
+      "title_orig": "Chek lo dak gung",
+      "translation": {
+        "id": 884,
+        "title": "West Video",
+        "type": "voice"
+      },
+      "year": 2002,
+      "kinopoisk_id": "37223",
+      "imdb_id": "tt0341495",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-01T12:35:29Z",
+      "updated_at": "2019-10-01T12:35:29Z"
+    },
+    {
       "id": "movie-43162",
       "type": "foreign-movie",
       "link": "",
@@ -2126,95 +2205,6 @@
       "blocked_countries": [],
       "created_at": "2019-09-26T09:49:49Z",
       "updated_at": "2019-09-26T09:49:49Z"
-    },
-    {
-      "id": "movie-42886",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Я потерял телефон",
-      "title_orig": "Sumaho o Otoshita dake nanoni",
-      "other_title": "Stolet Identity",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1172086",
-      "imdb_id": "tt8531044",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-25T22:25:20Z",
-      "updated_at": "2019-09-26T08:21:28Z"
-    },
-    {
-      "id": "serial-18501",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Фаворитка",
-      "title_orig": "A Favorita",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2008,
-      "last_season": 1,
-      "last_episode": 160,
-      "episodes_count": 160,
-      "kinopoisk_id": "425940",
-      "imdb_id": "tt1256139",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-09-17T08:48:45Z",
-      "updated_at": "2019-09-26T07:36:51Z"
-    },
-    {
-      "id": "serial-17850",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Моя жизнь — убийство",
-      "title_orig": "My Life is Murder",
-      "translation": {
-        "id": 753,
-        "title": "Jaskier",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "kinopoisk_id": "1282413",
-      "imdb_id": "tt10584446",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-07-31T10:51:13Z",
-      "updated_at": "2019-09-26T06:52:57Z"
-    },
-    {
-      "id": "movie-42916",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Чирлидерши-эскортницы",
-      "title_orig": "The Cheerleader Escort",
-      "translation": {
-        "id": 819,
-        "title": "AlphaProject",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1261574",
-      "imdb_id": "tt10234048",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-26T06:51:09Z",
-      "updated_at": "2019-09-26T06:51:09Z"
     }
   ]
 }

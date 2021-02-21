@@ -1,6 +1,114 @@
 {
   "results": [
     {
+      "id": "serial-30148",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Сласти и молния",
+      "title_orig": "Amaama to Inazuma",
+      "other_title": "Дуэт и вспышка молнии / Милая и неугомонная",
+      "translation": {
+        "id": 1079,
+        "title": "Aniraccoon",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1007372",
+      "imdb_id": "tt5853222",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8687",
+      "shikimori_id": "32828",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-11-19T15:19:44Z",
+      "updated_at": "2021-01-18T11:50:46Z"
+    },
+    {
+      "id": "movie-66138",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Роковое путешествие",
+      "title_orig": "Chen qing ling zhi luan po",
+      "other_title": "Chen Qing Ling Zhi Sheng Hun",
+      "translation": {
+        "id": 1634,
+        "title": "ФСГ Цай Шэн.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1354960",
+      "mdl_id": "48567-fatal-journey",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-18T11:09:06Z",
+      "updated_at": "2021-01-18T11:09:06Z"
+    },
+    {
+      "id": "movie-66133",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Возвращение уличного бойца",
+      "title_orig": "Satsujin ken 2",
+      "translation": {
+        "id": 572,
+        "title": "Визгунов",
+        "type": "voice"
+      },
+      "year": 1974,
+      "kinopoisk_id": "32382",
+      "imdb_id": "tt0073623",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-18T09:45:14Z",
+      "updated_at": "2021-01-18T09:45:14Z"
+    },
+    {
+      "id": "movie-66134",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Возвращение сестры уличного бойца",
+      "title_orig": "Kaette kita onna hissatsu ken",
+      "translation": {
+        "id": 694,
+        "title": "Береговых",
+        "type": "voice"
+      },
+      "year": 1975,
+      "kinopoisk_id": "265969",
+      "imdb_id": "tt0196100",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-18T09:44:07Z",
+      "updated_at": "2021-01-18T09:44:07Z"
+    },
+    {
+      "id": "movie-66113",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Таксист",
+      "title_orig": "Taeksi unjeonsa",
+      "translation": {
+        "id": 876,
+        "title": "Кириллица",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1008113",
+      "imdb_id": "tt6878038",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-18T09:21:42Z",
+      "updated_at": "2021-01-18T09:21:42Z"
+    },
+    {
       "id": "serial-30464",
       "type": "foreign-serial",
       "link": "",
@@ -2327,127 +2435,6 @@
       "blocked_seasons": {},
       "created_at": "2020-01-11T17:10:34Z",
       "updated_at": "2021-01-15T08:59:30Z"
-    },
-    {
-      "id": "movie-66035",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Да здравствует судья!",
-      "title_orig": "Gau ban ji ma goon: Bak min Bau Ching Tin",
-      "translation": {
-        "id": 1088,
-        "title": "Акира",
-        "type": "voice"
-      },
-      "year": 1994,
-      "kinopoisk_id": "93525",
-      "imdb_id": "tt0110201",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-01-15T08:47:55Z",
-      "updated_at": "2021-01-15T08:47:55Z"
-    },
-    {
-      "id": "serial-22216",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Хроники Асдала",
-      "title_orig": "Aseudal yeondaegi",
-      "other_title": "Хроники Асадаля / Хроники Асдаля / The Chronicles of Aseudal",
-      "translation": {
-        "id": 840,
-        "title": "Храм Дорам ТВ",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 3,
-      "last_episode": 6,
-      "episodes_count": 30,
-      "kinopoisk_id": "1114921",
-      "imdb_id": "tt8750956",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-02-02T07:40:15Z",
-      "updated_at": "2021-01-15T08:41:10Z"
-    },
-    {
-      "id": "serial-31832",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "История девятихвостого лиса",
-      "title_orig": "Gumihodyeon",
-      "other_title": "История Кумихо / Сказание о Кумихо / Легенда о Кумихо / Сказка о девятихвостом лисе / Tale of the Nine Tailed / The Story of Gumiho / Tale of Gumiho",
-      "translation": {
-        "id": 1239,
-        "title": "Домик Сумасшедших Дабберов",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 9,
-      "episodes_count": 9,
-      "kinopoisk_id": "1330171",
-      "imdb_id": "tt12879418",
-      "mdl_id": "52995-the-story-of-gumiho",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-01-15T07:34:33Z",
-      "updated_at": "2021-01-15T08:17:06Z"
-    },
-    {
-      "id": "movie-65998",
-      "type": "anime",
-      "link": "",
-      "title": "Хочу съесть твою поджелудочную железу",
-      "title_orig": "Kimi no suizo wo tabetai",
-      "other_title": "Я хочу съесть твою поджелудочную / I Want to Eat Your Pancreas",
-      "translation": {
-        "id": 1631,
-        "title": "Indie Dub",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1048908",
-      "imdb_id": "tt7236034",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9366",
-      "shikimori_id": "36098",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-01-15T08:01:42Z",
-      "updated_at": "2021-01-15T08:01:42Z"
-    },
-    {
-      "id": "serial-31836",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Хеталия и страны Оси ONA",
-      "title_orig": "Hetalia: Axis Powers",
-      "other_title": "Хеталия: Державы \"Оси\" / Hetalia: Axis Powers Fan Disc",
-      "translation": {
-        "id": 1609,
-        "title": "StreamSound",
-        "type": "voice"
-      },
-      "year": 2009,
-      "last_season": 1,
-      "last_episode": 52,
-      "episodes_count": 52,
-      "kinopoisk_id": "455552",
-      "imdb_id": "tt1356878",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7100",
-      "shikimori_id": "5060",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-01-15T07:53:44Z",
-      "updated_at": "2021-01-15T07:53:44Z"
     }
   ]
 }

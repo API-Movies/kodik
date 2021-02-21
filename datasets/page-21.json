@@ -1,6 +1,124 @@
 {
   "results": [
     {
+      "id": "movie-65821",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Черный дождь",
+      "title_orig": "Kuroi ame",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 1989,
+      "kinopoisk_id": "164752",
+      "imdb_id": "tt0097694",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-13T09:16:55Z",
+      "updated_at": "2021-01-13T09:16:55Z"
+    },
+    {
+      "id": "serial-31717",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Дюрарара!!",
+      "title_orig": "Durarara!!",
+      "other_title": "デュラララ!!",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2010,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 26,
+      "kinopoisk_id": "494662",
+      "imdb_id": "tt1584000",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7334",
+      "shikimori_id": "6746",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-01-13T08:14:16Z",
+      "updated_at": "2021-01-13T08:19:40Z"
+    },
+    {
+      "id": "serial-31131",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Герой",
+      "title_orig": "Hero Gayab Mode On",
+      "translation": {
+        "id": 1566,
+        "title": "FSG STAR PLUS TV.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 6,
+      "episodes_count": 6,
+      "kinopoisk_id": "2000703",
+      "imdb_id": "tt13137346",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-12-27T19:47:39Z",
+      "updated_at": "2021-01-13T07:08:39Z"
+    },
+    {
+      "id": "movie-56143",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Закон эпохи Корё",
+      "title_orig": "Goryeo jang",
+      "translation": {
+        "id": 685,
+        "title": "liosaa",
+        "type": "voice"
+      },
+      "year": 1963,
+      "kinopoisk_id": "244632",
+      "imdb_id": "tt0314119",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-06-02T06:35:27Z",
+      "updated_at": "2021-01-13T05:54:32Z"
+    },
+    {
+      "id": "serial-31708",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Да, я Сакамото, а что?",
+      "title_orig": "Sakamoto Desu ga?",
+      "other_title": "Да, я Сакамото, и что? / Сакамото к вашим услугам / Я - Сакамото, а что?",
+      "translation": {
+        "id": 761,
+        "title": "Onibaku",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "975898",
+      "imdb_id": "tt5701624",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8636",
+      "shikimori_id": "32542",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-01-13T00:32:59Z",
+      "updated_at": "2021-01-13T00:32:59Z"
+    },
+    {
       "id": "serial-31707",
       "type": "anime-serial",
       "link": "",
@@ -2309,122 +2427,6 @@
       "blocked_countries": [],
       "created_at": "2021-01-11T19:24:14Z",
       "updated_at": "2021-01-11T19:24:14Z"
-    },
-    {
-      "id": "movie-65708",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Учитель",
-      "title_orig": "Uchitel",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1939,
-      "kinopoisk_id": "42491",
-      "imdb_id": "tt0032070",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-01-11T18:21:38Z",
-      "updated_at": "2021-01-11T18:21:38Z"
-    },
-    {
-      "id": "serial-30322",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Атака титанов [ТВ-4]",
-      "title_orig": "Shingeki no Kyojin: The Final Season",
-      "other_title": "Атака титанов: Финал / Вторжение титанов: Финал",
-      "translation": {
-        "id": 1009,
-        "title": "Anistar Многоголосый",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 4,
-      "last_episode": 5,
-      "episodes_count": 5,
-      "kinopoisk_id": "749374",
-      "imdb_id": "tt2560140",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10135",
-      "shikimori_id": "40028",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-12-06T19:55:40Z",
-      "updated_at": "2021-01-11T18:20:13Z"
-    },
-    {
-      "id": "movie-65707",
-      "type": "anime",
-      "link": "",
-      "title": "Наруто 7: Потерянная башня",
-      "title_orig": "Gekijouban Naruto Shippuuden: Za rosuto tawâ",
-      "other_title": "Наруто (фильм седьмой) - Затерянная башня / Наруто: Ураганные хроники - Потерянная башня",
-      "translation": {
-        "id": 739,
-        "title": "Animedia",
-        "type": "voice"
-      },
-      "year": 2010,
-      "kinopoisk_id": "557632",
-      "imdb_id": "tt1703048",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5361",
-      "shikimori_id": "8246",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-01-11T18:18:43Z",
-      "updated_at": "2021-01-11T18:18:43Z"
-    },
-    {
-      "id": "movie-65706",
-      "type": "anime",
-      "link": "",
-      "title": "Дневник будущего",
-      "title_orig": "Mirai Nikki",
-      "other_title": "Дневник будущего OVA-1 / Дневник Будущего:Повторный вызов",
-      "translation": {
-        "id": 739,
-        "title": "Animedia",
-        "type": "voice"
-      },
-      "year": 2010,
-      "kinopoisk_id": "645418",
-      "imdb_id": "tt2095711",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3867",
-      "shikimori_id": "8460",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-01-11T17:10:16Z",
-      "updated_at": "2021-01-11T17:10:16Z"
-    },
-    {
-      "id": "movie-65705",
-      "type": "anime",
-      "link": "",
-      "title": "Аниме для взрослых 2: Ужин",
-      "title_orig": "Otona Joshi no Anime Time 2: Yuuge",
-      "other_title": "Аниме Для Девушек: Ужин [Спешл-2]",
-      "translation": {
-        "id": 610,
-        "title": "AniLibria.TV",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "661091",
-      "imdb_id": "tt9731164",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7083",
-      "shikimori_id": "10178",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-01-11T17:00:27Z",
-      "updated_at": "2021-01-11T17:00:27Z"
     }
   ]
 }

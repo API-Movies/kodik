@@ -1,6 +1,85 @@
 {
   "results": [
     {
+      "id": "movie-39494",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Судьба Марины",
+      "title_orig": "Sudba Mariny",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1954,
+      "kinopoisk_id": "44028",
+      "imdb_id": "tt0046381",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-08T11:49:11Z",
+      "updated_at": "2019-07-08T11:49:11Z"
+    },
+    {
+      "id": "movie-39495",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Свадьба Кречинского",
+      "title_orig": "Svadba Krechinskogo",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1953,
+      "kinopoisk_id": "44044",
+      "imdb_id": "tt0240058",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-08T11:48:21Z",
+      "updated_at": "2019-07-08T11:48:21Z"
+    },
+    {
+      "id": "movie-39496",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Таланты и поклонники",
+      "title_orig": "Talanty i poklonniki",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1956,
+      "kinopoisk_id": "42194",
+      "imdb_id": "tt0237802",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-08T11:46:33Z",
+      "updated_at": "2019-07-08T11:46:33Z"
+    },
+    {
+      "id": "movie-39497",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Тишины не будет",
+      "title_orig": "Тишины не будет",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1963,
+      "kinopoisk_id": "596194",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-08T11:45:36Z",
+      "updated_at": "2019-07-08T11:45:36Z"
+    },
+    {
       "id": "movie-39498",
       "type": "russian-movie",
       "link": "",
@@ -1980,86 +2059,6 @@
       "blocked_countries": [],
       "created_at": "2019-07-05T07:29:29Z",
       "updated_at": "2019-07-05T07:29:29Z"
-    },
-    {
-      "id": "movie-39340",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Командир корабля",
-      "title_orig": "Komandir korablya",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1954,
-      "kinopoisk_id": "44868",
-      "imdb_id": "tt0174822",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-05T07:28:37Z",
-      "updated_at": "2019-07-05T07:28:37Z"
-    },
-    {
-      "id": "movie-39341",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Неоконченная симфония",
-      "title_orig": "Neoknchennaya simfoniya",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1968,
-      "kinopoisk_id": "481292",
-      "imdb_id": "tt5303574",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-05T07:27:46Z",
-      "updated_at": "2019-07-05T07:27:46Z"
-    },
-    {
-      "id": "movie-39342",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Неоконченная повесть",
-      "title_orig": "Neokonchennaya povest",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1955,
-      "kinopoisk_id": "46397",
-      "imdb_id": "tt0048419",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-05T07:26:42Z",
-      "updated_at": "2019-07-05T07:26:42Z"
-    },
-    {
-      "id": "movie-39343",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Поднятая целина",
-      "title_orig": "Podnyataya tselina",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1940,
-      "kinopoisk_id": "43045",
-      "imdb_id": "tt0031802",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-05T07:24:02Z",
-      "updated_at": "2019-07-05T07:24:02Z"
     }
   ]
 }

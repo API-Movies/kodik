@@ -1,6 +1,98 @@
 {
   "results": [
     {
+      "id": "movie-47657",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Краска для волос",
+      "title_orig": "Oxidan",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1197134",
+      "imdb_id": "tt7111402",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-14T11:05:01Z",
+      "updated_at": "2020-01-14T11:05:01Z"
+    },
+    {
+      "id": "serial-21217",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Выбор: Войны между девушками",
+      "title_orig": "Gantaek - yeoindeului jeonjaeng",
+      "other_title": "Гантхэк: Война женщин / Королева: Любовь и война / Отбор: Война женщин / Queen: Love and War / Selection: Girls’ War / Selection: The War Between Women",
+      "translation": {
+        "id": 1052,
+        "title": "Unicorn",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 1,
+      "episodes_count": 1,
+      "kinopoisk_id": "1313577",
+      "imdb_id": "tt11377864",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-14T09:54:44Z",
+      "updated_at": "2020-01-14T09:54:44Z"
+    },
+    {
+      "id": "movie-47643",
+      "type": "anime",
+      "link": "",
+      "title": "Черная магия М-66",
+      "title_orig": "Burakku Majikku M-66",
+      "other_title": "Black Magic M66 / Black Magic M-66",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "335803",
+      "imdb_id": "tt0092664",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=229",
+      "shikimori_id": "1270",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-14T06:55:38Z",
+      "updated_at": "2020-01-14T06:55:38Z"
+    },
+    {
+      "id": "serial-19711",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Другое измерение: Возвышение Искусственного Интеллекта",
+      "title_orig": "Ni Zhuan Ci Yuan: AI Jue Qi",
+      "other_title": "Другое измерение:Возвышение ИИ / Другое измерение: Возвышение Искусственного Интеллекта / Эра перемен: Рассвет AI / Reverse Dimension: Rise of AI",
+      "translation": {
+        "id": 1009,
+        "title": "Anistar Многоголосый",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "shikimori_id": "40823",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-11-12T13:21:42Z",
+      "updated_at": "2020-01-14T05:37:22Z"
+    },
+    {
       "id": "serial-19641",
       "type": "anime-serial",
       "link": "",
@@ -2250,103 +2342,6 @@
       "blocked_seasons": {},
       "created_at": "2020-01-13T04:28:42Z",
       "updated_at": "2020-01-13T06:35:54Z"
-    },
-    {
-      "id": "serial-21131",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Сельская госпожа",
-      "title_orig": "Hanım Köylü",
-      "translation": {
-        "id": 589,
-        "title": "Ирина Котова",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "1046212",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-01-13T04:24:05Z",
-      "updated_at": "2020-01-13T06:35:10Z"
-    },
-    {
-      "id": "serial-21130",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Снова любовь",
-      "title_orig": "Aşk Yeniden",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2015,
-      "last_season": 2,
-      "last_episode": 40,
-      "episodes_count": 59,
-      "kinopoisk_id": "915094",
-      "imdb_id": "tt5616644",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [
-        "TR"
-      ],
-      "blocked_seasons": "all",
-      "created_at": "2020-01-13T04:08:21Z",
-      "updated_at": "2020-01-13T04:08:21Z"
-    },
-    {
-      "id": "serial-21129",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Человеческая вина",
-      "title_orig": "Insanlik Sucu",
-      "translation": {
-        "id": 1072,
-        "title": "Turk Star",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 8,
-      "episodes_count": 8,
-      "kinopoisk_id": "1112386",
-      "imdb_id": "tt7944276",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-01-13T04:01:01Z",
-      "updated_at": "2020-01-13T04:01:01Z"
-    },
-    {
-      "id": "serial-21128",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Враг в моем доме",
-      "title_orig": "Yuvamdaki Dusman",
-      "translation": {
-        "id": 1072,
-        "title": "Turk Star",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "1112361",
-      "imdb_id": "tt7947618",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-01-13T03:58:02Z",
-      "updated_at": "2020-01-13T03:58:02Z"
     }
   ]
 }

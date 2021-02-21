@@ -1,6 +1,97 @@
 {
   "results": [
     {
+      "id": "movie-51601",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Месть и закон 2",
+      "title_orig": "China Gate",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 1998,
+      "kinopoisk_id": "41693",
+      "imdb_id": "tt0210609",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-13T12:08:51Z",
+      "updated_at": "2020-03-13T12:08:51Z"
+    },
+    {
+      "id": "movie-51578",
+      "type": "anime",
+      "link": "",
+      "title": "Игра в прятки",
+      "title_orig": "Kakurenbo",
+      "other_title": "Hide and Seek",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2005,
+      "kinopoisk_id": "230493",
+      "imdb_id": "tt0489102",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3902",
+      "shikimori_id": "1192",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-13T12:01:57Z",
+      "updated_at": "2020-03-13T12:01:57Z"
+    },
+    {
+      "id": "movie-51577",
+      "type": "anime",
+      "link": "",
+      "title": "Школа мертвецов OVA",
+      "title_orig": "Gakuen Mokushiroku: High School of the Dead - Drifters of the Dead",
+      "other_title": "Школа мертвецов: Мёртвые бродяги",
+      "translation": {
+        "id": 824,
+        "title": "3df voice",
+        "type": "voice"
+      },
+      "year": 2011,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7961",
+      "shikimori_id": "9515",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-13T12:00:03Z",
+      "updated_at": "2020-03-13T12:00:03Z"
+    },
+    {
+      "id": "serial-23621",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Пропавшие феи [ТВ-1]",
+      "title_orig": "Fairy Gone",
+      "other_title": "Закат эпохи фей",
+      "translation": {
+        "id": 654,
+        "title": "AniFilm",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1245260",
+      "imdb_id": "tt9828600",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9963",
+      "shikimori_id": "39063",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-03-13T11:58:53Z",
+      "updated_at": "2020-03-13T11:58:53Z"
+    },
+    {
       "id": "movie-51606",
       "type": "foreign-movie",
       "link": "",
@@ -2094,104 +2185,6 @@
       "blocked_countries": [],
       "created_at": "2020-03-11T18:12:33Z",
       "updated_at": "2020-03-11T18:12:33Z"
-    },
-    {
-      "id": "serial-23720",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Королева Соно",
-      "title_orig": "Queen Sono",
-      "translation": {
-        "id": 1210,
-        "title": "AnyFilm",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "1220936",
-      "imdb_id": "tt9426290",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-03-11T17:29:17Z",
-      "updated_at": "2020-03-11T17:29:17Z"
-    },
-    {
-      "id": "serial-23583",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Королева Соно",
-      "title_orig": "Queen Sono",
-      "translation": {
-        "id": 611,
-        "title": "ColdFilm",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "1220936",
-      "imdb_id": "tt9426290",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-03-11T17:29:17Z",
-      "updated_at": "2020-03-11T17:29:17Z"
-    },
-    {
-      "id": "serial-23308",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Я влюбилась в голограмму",
-      "title_orig": "Na hollo geudae",
-      "other_title": "Только ты и я / Я одинок / Моя любовь, Холо / I Holo You / Me Alone and You / I am Alone / My Holo Love",
-      "translation": {
-        "id": 639,
-        "title": "SoftBox",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1236259",
-      "imdb_id": "tt11058644",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-03-03T09:58:27Z",
-      "updated_at": "2020-03-11T17:18:41Z"
-    },
-    {
-      "id": "serial-22407",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Экс Экс",
-      "title_orig": "XX",
-      "other_title": "Blue Moon",
-      "translation": {
-        "id": 639,
-        "title": "SoftBox",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "kinopoisk_id": "1319570",
-      "imdb_id": "tt11737826",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-02-04T21:55:14Z",
-      "updated_at": "2020-03-11T16:37:59Z"
     }
   ]
 }

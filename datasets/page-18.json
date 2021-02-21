@@ -1,6 +1,122 @@
 {
   "results": [
     {
+      "id": "movie-66341",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Цепная реакция",
+      "title_orig": "Tsepnaya reaktsiya",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1963,
+      "kinopoisk_id": "42345",
+      "imdb_id": "tt0192698",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-20T12:09:42Z",
+      "updated_at": "2021-01-20T12:09:42Z"
+    },
+    {
+      "id": "movie-66342",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Я — граница",
+      "title_orig": "Ya: granitsa",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1973,
+      "kinopoisk_id": "962119",
+      "imdb_id": "tt5353342",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-20T12:08:47Z",
+      "updated_at": "2021-01-20T12:08:47Z"
+    },
+    {
+      "id": "serial-32031",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Святой крест",
+      "title_orig": "Holy Cross",
+      "translation": {
+        "id": 948,
+        "title": "CrazyCatStudio",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 9,
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-01-20T11:49:27Z",
+      "updated_at": "2021-01-20T12:05:04Z"
+    },
+    {
+      "id": "serial-32032",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Кулинарные поединки Сомы [ТВ-1]",
+      "title_orig": "Shokugeki no Souma",
+      "other_title": "В поисках божественного рецепта / Повар-боец Сома (1 сезон)",
+      "translation": {
+        "id": 761,
+        "title": "Onibaku",
+        "type": "voice"
+      },
+      "year": 2015,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 24,
+      "kinopoisk_id": "917288",
+      "imdb_id": "tt4731072",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5533",
+      "shikimori_id": "28171",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-01-20T11:54:02Z",
+      "updated_at": "2021-01-20T11:54:02Z"
+    },
+    {
+      "id": "serial-32029",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Вольный стиль! [ТВ-2]",
+      "title_orig": "Free!",
+      "other_title": "Свобода! Бесконечное лето",
+      "translation": {
+        "id": 761,
+        "title": "Onibaku",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 2,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "775162",
+      "imdb_id": "tt2904418",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2130",
+      "shikimori_id": "22265",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-01-20T10:27:50Z",
+      "updated_at": "2021-01-20T10:27:50Z"
+    },
+    {
       "id": "serial-31209",
       "type": "anime-serial",
       "link": "",
@@ -423,8 +539,8 @@
       },
       "year": 2020,
       "last_season": 1,
-      "last_episode": 9,
-      "episodes_count": 9,
+      "last_episode": 10,
+      "episodes_count": 10,
       "mdl_id": "58369-because-i-like-you",
       "quality": "HDTVRip 720p",
       "camrip": false,
@@ -2212,114 +2328,6 @@
       "blocked_countries": [],
       "created_at": "2021-01-18T11:55:43Z",
       "updated_at": "2021-01-18T11:55:43Z"
-    },
-    {
-      "id": "serial-30148",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Сласти и молния",
-      "title_orig": "Amaama to Inazuma",
-      "other_title": "Дуэт и вспышка молнии / Милая и неугомонная",
-      "translation": {
-        "id": 1079,
-        "title": "Aniraccoon",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1007372",
-      "imdb_id": "tt5853222",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8687",
-      "shikimori_id": "32828",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-11-19T15:19:44Z",
-      "updated_at": "2021-01-18T11:50:46Z"
-    },
-    {
-      "id": "movie-66138",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Роковое путешествие",
-      "title_orig": "Chen qing ling zhi luan po",
-      "other_title": "Chen Qing Ling Zhi Sheng Hun",
-      "translation": {
-        "id": 1634,
-        "title": "ФСГ Цай Шэн.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "kinopoisk_id": "1354960",
-      "mdl_id": "48567-fatal-journey",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-01-18T11:09:06Z",
-      "updated_at": "2021-01-18T11:09:06Z"
-    },
-    {
-      "id": "movie-66133",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Возвращение уличного бойца",
-      "title_orig": "Satsujin ken 2",
-      "translation": {
-        "id": 572,
-        "title": "Визгунов",
-        "type": "voice"
-      },
-      "year": 1974,
-      "kinopoisk_id": "32382",
-      "imdb_id": "tt0073623",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-01-18T09:45:14Z",
-      "updated_at": "2021-01-18T09:45:14Z"
-    },
-    {
-      "id": "movie-66134",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Возвращение сестры уличного бойца",
-      "title_orig": "Kaette kita onna hissatsu ken",
-      "translation": {
-        "id": 694,
-        "title": "Береговых",
-        "type": "voice"
-      },
-      "year": 1975,
-      "kinopoisk_id": "265969",
-      "imdb_id": "tt0196100",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-01-18T09:44:07Z",
-      "updated_at": "2021-01-18T09:44:07Z"
-    },
-    {
-      "id": "movie-66113",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Таксист",
-      "title_orig": "Taeksi unjeonsa",
-      "translation": {
-        "id": 876,
-        "title": "Кириллица",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1008113",
-      "imdb_id": "tt6878038",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-01-18T09:21:42Z",
-      "updated_at": "2021-01-18T09:21:42Z"
     }
   ]
 }
