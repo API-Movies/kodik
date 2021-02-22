@@ -1,6 +1,224 @@
 {
   "results": [
     {
+      "id": "movie-34771",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Эта веселая планета",
+      "title_orig": "Eta vesyolaya planeta",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1973,
+      "kinopoisk_id": "94970",
+      "imdb_id": "tt0070042",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-11T11:26:16Z",
+      "updated_at": "2019-04-11T11:26:16Z"
+    },
+    {
+      "id": "movie-34772",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Этот негодяй Сидоров",
+      "title_orig": "Etot negodyay Sidorov",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1984,
+      "kinopoisk_id": "42024",
+      "imdb_id": "tt0261681",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-11T11:25:22Z",
+      "updated_at": "2019-04-11T11:25:22Z"
+    },
+    {
+      "id": "movie-34695",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Сохраняй спокойствие и будь суперзвездой",
+      "title_orig": "Wo di ju xing",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1049671",
+      "imdb_id": "tt7263974",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-11T01:52:53Z",
+      "updated_at": "2019-04-11T11:03:20Z"
+    },
+    {
+      "id": "movie-34765",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Возвращайтесь домой",
+      "title_orig": "Let’s Go Home",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2018,
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-11T11:03:08Z",
+      "updated_at": "2019-04-11T11:03:08Z"
+    },
+    {
+      "id": "movie-31111",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Лиловый шар",
+      "title_orig": "Lilovyy shar",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "45101",
+      "imdb_id": "tt0093419",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-22T23:18:33Z",
+      "updated_at": "2019-04-11T08:11:24Z"
+    },
+    {
+      "id": "movie-6516",
+      "type": "soviet-cartoon",
+      "link": "",
+      "title": "Малыш и Карлсон, который живет на крыше",
+      "title_orig": "Malysh i Karlson, kotoryy zhivyot na kryshe",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1971,
+      "kinopoisk_id": "470346",
+      "imdb_id": "tt1718829",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-05-17T20:16:10Z",
+      "updated_at": "2019-04-11T08:07:50Z"
+    },
+    {
+      "id": "movie-31191",
+      "type": "russian-cartoon",
+      "link": "",
+      "title": "Большой Ух",
+      "title_orig": "Bolshoj Uh",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1989,
+      "kinopoisk_id": "430455",
+      "imdb_id": "tt1796414",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-23T22:14:43Z",
+      "updated_at": "2019-04-11T08:06:14Z"
+    },
+    {
+      "id": "movie-34742",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Кот и Ко",
+      "title_orig": "Kot i Ko.",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1990,
+      "kinopoisk_id": "260073",
+      "imdb_id": "tt0907124",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-11T08:02:38Z",
+      "updated_at": "2019-04-11T08:02:38Z"
+    },
+    {
+      "id": "movie-34743",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Кот, который умел петь",
+      "title_orig": "Kot, kotoryy umel pet",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1988,
+      "kinopoisk_id": "460092",
+      "imdb_id": "tt5873798",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-11T08:01:48Z",
+      "updated_at": "2019-04-11T08:01:48Z"
+    },
+    {
+      "id": "movie-34744",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Кот и клоун",
+      "title_orig": "Kot i Kloun",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1988,
+      "kinopoisk_id": "260075",
+      "imdb_id": "tt1934307",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-11T08:01:12Z",
+      "updated_at": "2019-04-11T08:01:12Z"
+    },
+    {
+      "id": "movie-34746",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Кот, который гулял сам по себе",
+      "title_orig": "Kot, kotoryy gulyal sam po sebe",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1968,
+      "kinopoisk_id": "257986",
+      "imdb_id": "tt5493466",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-11T07:58:37Z",
+      "updated_at": "2019-04-11T07:58:37Z"
+    },
+    {
       "id": "movie-32594",
       "type": "soviet-cartoon",
       "link": "",
@@ -1816,227 +2034,6 @@
       "blocked_countries": [],
       "created_at": "2019-04-08T11:32:16Z",
       "updated_at": "2019-04-08T11:32:16Z"
-    },
-    {
-      "id": "movie-34574",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Адмирал Ушаков",
-      "title_orig": "Admiral Ushakov",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1953,
-      "kinopoisk_id": "43409",
-      "imdb_id": "tt0045473",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-08T11:31:32Z",
-      "updated_at": "2019-04-08T11:31:32Z"
-    },
-    {
-      "id": "movie-34575",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Искусство жить в Одессе",
-      "title_orig": "Iskusstvo zhit v Odesse",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1989,
-      "kinopoisk_id": "42632",
-      "imdb_id": "tt0097596",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-08T11:30:52Z",
-      "updated_at": "2019-04-08T11:30:52Z"
-    },
-    {
-      "id": "movie-34576",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Маленькие комедии большого дома",
-      "title_orig": "Malenkie komedii bolshogo doma",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1974,
-      "kinopoisk_id": "254976",
-      "imdb_id": "tt0190544",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-08T11:29:22Z",
-      "updated_at": "2019-04-08T11:29:22Z"
-    },
-    {
-      "id": "movie-34577",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Хозяин тайги",
-      "title_orig": "Khozyain taygi",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1969,
-      "kinopoisk_id": "44795",
-      "imdb_id": "tt0063180",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-08T11:27:18Z",
-      "updated_at": "2019-04-08T11:27:18Z"
-    },
-    {
-      "id": "movie-32348",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Я шагаю по Москве",
-      "title_orig": "Ya shagayu po Moskve",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1963,
-      "kinopoisk_id": "42398",
-      "imdb_id": "tt0057694",
-      "quality": "HDDVDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-14T19:39:46Z",
-      "updated_at": "2019-04-08T11:26:28Z"
-    },
-    {
-      "id": "movie-34578",
-      "type": "russian-movie",
-      "link": "",
-      "title": "А был ли Каротин",
-      "title_orig": "A byl li Karotin",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1989,
-      "kinopoisk_id": "43389",
-      "imdb_id": "tt0147805",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-08T11:25:26Z",
-      "updated_at": "2019-04-08T11:25:26Z"
-    },
-    {
-      "id": "movie-3238",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Печки-лавочки",
-      "title_orig": "Печки-лавочки",
-      "other_title": "Печки - лавочки",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1972,
-      "kinopoisk_id": "42910",
-      "imdb_id": "tt0069068",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2014-11-19T14:02:32Z",
-      "updated_at": "2019-04-08T11:23:34Z"
-    },
-    {
-      "id": "movie-32873",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Третий тайм",
-      "title_orig": "Tretiy taym",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1962,
-      "kinopoisk_id": "42285",
-      "imdb_id": "tt0056615",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-25T21:47:28Z",
-      "updated_at": "2019-04-08T11:22:22Z"
-    },
-    {
-      "id": "movie-34580",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Запасной игрок",
-      "title_orig": "Zapasnoy igrok",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1954,
-      "kinopoisk_id": "45229",
-      "imdb_id": "tt0047895",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-08T11:21:14Z",
-      "updated_at": "2019-04-08T11:21:14Z"
-    },
-    {
-      "id": "movie-34581",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Далеко от Москвы",
-      "title_orig": "Daleko ot Moskvy",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1950,
-      "kinopoisk_id": "44091",
-      "imdb_id": "tt0042371",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-08T11:20:04Z",
-      "updated_at": "2019-04-08T11:20:04Z"
-    },
-    {
-      "id": "movie-34584",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Блокада: Фильм 1: Лужский рубеж, Пулковский меридиан",
-      "title_orig": "Blokada: Luzhskiy rubezh, Pulkovskiy meredian",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1975,
-      "kinopoisk_id": "46149",
-      "imdb_id": "tt0144111",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-08T11:18:10Z",
-      "updated_at": "2019-04-08T11:18:10Z"
     }
   ]
 }

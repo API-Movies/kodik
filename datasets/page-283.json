@@ -1,6 +1,252 @@
 {
   "results": [
     {
+      "id": "movie-32286",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Вдохновение",
+      "title_orig": "Inspiration",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "694790",
+      "imdb_id": "tt2310316",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-14T07:34:57Z",
+      "updated_at": "2019-02-14T07:34:57Z"
+    },
+    {
+      "id": "movie-32289",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Только ты",
+      "title_orig": "Sadece Sen",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "825420",
+      "imdb_id": "tt3477480",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-14T06:59:46Z",
+      "updated_at": "2019-02-14T06:59:46Z"
+    },
+    {
+      "id": "serial-15250",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Убежище",
+      "title_orig": "Sanctuary",
+      "translation": {
+        "id": 798,
+        "title": "Sony Sci-Fi",
+        "type": "voice"
+      },
+      "year": 2008,
+      "last_season": 4,
+      "last_episode": 13,
+      "episodes_count": 58,
+      "kinopoisk_id": "311095",
+      "imdb_id": "tt0965394",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-02-13T22:41:30Z",
+      "updated_at": "2019-02-13T22:41:30Z"
+    },
+    {
+      "id": "serial-14651",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Не целуй меня, мистер Дьявол",
+      "title_orig": "Emo shao ye bie wen wo di yi ji",
+      "other_title": "Master Devil Do Not Kiss Me",
+      "translation": {
+        "id": 904,
+        "title": "DoramaBox",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 3,
+      "last_episode": 3,
+      "episodes_count": 3,
+      "kinopoisk_id": "1245273",
+      "imdb_id": "tt10283742",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-01-31T21:08:58Z",
+      "updated_at": "2019-02-13T17:35:45Z"
+    },
+    {
+      "id": "movie-32272",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Годзилла против Мегалона",
+      "title_orig": "Gojira tai Megaro",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 1973,
+      "kinopoisk_id": "190302",
+      "imdb_id": "tt0070122",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-13T14:21:07Z",
+      "updated_at": "2019-02-13T14:21:07Z"
+    },
+    {
+      "id": "movie-32271",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Похитители мечты\t",
+      "title_orig": "Meng Jing Sheng Si Jie",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2018,
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-13T13:44:00Z",
+      "updated_at": "2019-02-13T13:44:00Z"
+    },
+    {
+      "id": "serial-15226",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Кошка из палаты по уголовным делам",
+      "title_orig": "I'm a Pet At Dali Temple",
+      "other_title": "Я питомец в храме Дали / Я любимец храма Дали / Wo Zai Da Li Si Dang Chong Wu",
+      "translation": {
+        "id": 640,
+        "title": "Sound-Group",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 1,
+      "episodes_count": 1,
+      "kinopoisk_id": "1234341",
+      "imdb_id": "tt9490142",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-02-13T09:24:45Z",
+      "updated_at": "2019-02-13T09:24:45Z"
+    },
+    {
+      "id": "serial-13837",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Когда мы были молодыми",
+      "title_orig": "Ren bu biao han wang shao nian",
+      "other_title": "Когда мы были молоды / When We Were Young",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 24,
+      "kinopoisk_id": "1229487",
+      "imdb_id": "tt9476284",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-12-29T09:03:28Z",
+      "updated_at": "2019-02-13T09:20:49Z"
+    },
+    {
+      "id": "serial-15156",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Великий соблазнитель",
+      "title_orig": "Widaehan yuhokja",
+      "other_title": "Игра в любовь / Игра в любовь: Великое соблазнение / Опасные связи / Love Game: The Great Seduction / Tempted /  The Great Seducer",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 32,
+      "episodes_count": 32,
+      "kinopoisk_id": "1100376",
+      "imdb_id": "tt7923816",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-02-11T01:16:07Z",
+      "updated_at": "2019-02-13T09:18:34Z"
+    },
+    {
+      "id": "serial-13093",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Девчонки не будут издеваться надо мной",
+      "title_orig": "Wo cai bu hui bei nu hai zi qi fu ne",
+      "other_title": "Я не потерплю девчонок / Девушки меня не поймут / Я не дам девушкам задирать меня / I will not get bullied by girls / I Won't Get Bullied By Girls",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 24,
+      "kinopoisk_id": "1262918",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-11-04T13:51:45Z",
+      "updated_at": "2019-02-13T09:17:57Z"
+    },
+    {
+      "id": "movie-32258",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Атака на любовь",
+      "title_orig": "Iru Mugan",
+      "translation": {
+        "id": 765,
+        "title": "SDI Media",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "961235",
+      "imdb_id": "tt5372466",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-13T07:28:07Z",
+      "updated_at": "2019-02-13T07:28:07Z"
+    },
+    {
       "id": "movie-32264",
       "type": "foreign-movie",
       "link": "",
@@ -1917,233 +2163,6 @@
       "blocked_countries": [],
       "created_at": "2019-02-05T06:59:43Z",
       "updated_at": "2019-02-05T06:59:43Z"
-    },
-    {
-      "id": "movie-31981",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Зомби одним планом!",
-      "title_orig": "Kamera o tomeru na!",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1123456",
-      "imdb_id": "tt7914416",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-05T06:58:49Z",
-      "updated_at": "2019-02-05T06:58:49Z"
-    },
-    {
-      "id": "movie-31982",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Свидетель",
-      "title_orig": "Mokgyeokja",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1111740",
-      "imdb_id": "tt8865562",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-05T06:57:33Z",
-      "updated_at": "2019-02-05T06:57:33Z"
-    },
-    {
-      "id": "movie-31983",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Лес Дебюсси",
-      "title_orig": "Forêt Debussy",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "1008201",
-      "imdb_id": "tt6128878",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-05T06:56:17Z",
-      "updated_at": "2019-02-05T06:56:17Z"
-    },
-    {
-      "id": "movie-31966",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Пэдмен",
-      "title_orig": "Padman",
-      "translation": {
-        "id": 770,
-        "title": "ZEE TV",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1055274",
-      "imdb_id": "tt7218518",
-      "quality": "BDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-05T05:33:20Z",
-      "updated_at": "2019-02-05T05:33:20Z"
-    },
-    {
-      "id": "movie-31908",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Снятие наличных",
-      "title_orig": "Paisa Vasool",
-      "other_title": "Игра Стоит Свеч",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1047537",
-      "imdb_id": "tt7188742",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-04T00:24:39Z",
-      "updated_at": "2019-02-04T19:42:36Z"
-    },
-    {
-      "id": "serial-14641",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Зов крови",
-      "title_orig": "Lost Girl",
-      "translation": {
-        "id": 758,
-        "title": "NewStudio",
-        "type": "voice"
-      },
-      "year": 2010,
-      "last_season": 5,
-      "last_episode": 16,
-      "episodes_count": 77,
-      "kinopoisk_id": "463684",
-      "imdb_id": "tt1429449",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-08-29T10:56:44Z",
-      "updated_at": "2019-02-04T19:00:57Z"
-    },
-    {
-      "id": "movie-31964",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Убежище",
-      "title_orig": "Yuddham Sharanam",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "imdb_id": "tt6644636",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-04T16:30:45Z",
-      "updated_at": "2019-02-04T16:30:45Z"
-    },
-    {
-      "id": "movie-31963",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Наша история\t",
-      "title_orig": "All of You\t",
-      "translation": {
-        "id": 819,
-        "title": "AlphaProject",
-        "type": "voice"
-      },
-      "year": 2017,
-      "imdb_id": "tt7736536",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-04T16:29:40Z",
-      "updated_at": "2019-02-04T16:29:40Z"
-    },
-    {
-      "id": "movie-31962",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Богема: Вживую",
-      "title_orig": "Rent: Live",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "imdb_id": "tt6881910",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-04T16:26:08Z",
-      "updated_at": "2019-02-04T16:26:08Z"
-    },
-    {
-      "id": "serial-14415",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Путешествие во времени доктора Чина",
-      "title_orig": "Dakteo Jin",
-      "other_title": "Доктор Джин / Путешествие во времени доктора Джина / Доктор Чжин: провал во времени / Time Slip Dr. Jin",
-      "translation": {
-        "id": 620,
-        "title": "GREEN TEA",
-        "type": "voice"
-      },
-      "year": 2012,
-      "last_season": 1,
-      "last_episode": 22,
-      "episodes_count": 22,
-      "kinopoisk_id": "695931",
-      "imdb_id": "tt2426396",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-01-24T15:10:48Z",
-      "updated_at": "2019-02-04T11:06:49Z"
-    },
-    {
-      "id": "movie-31769",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Ты безумно красива",
-      "title_orig": "Crazy Beautiful You",
-      "translation": {
-        "id": 641,
-        "title": "STEPonee",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "887003",
-      "imdb_id": "tt4377918",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-01T20:18:21Z",
-      "updated_at": "2019-02-04T10:18:59Z"
     }
   ]
 }

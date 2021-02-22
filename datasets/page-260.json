@@ -1,6 +1,241 @@
 {
   "results": [
     {
+      "id": "movie-37769",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Поклонись и поцелуй",
+      "title_orig": "Ichirei shite kiss",
+      "other_title": "Моя отравленная стрела",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1047768",
+      "imdb_id": "tt6649274",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-29T21:20:46Z",
+      "updated_at": "2019-05-29T21:20:46Z"
+    },
+    {
+      "id": "serial-16926",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Личность",
+      "title_orig": "Sahsiyet",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1112358",
+      "imdb_id": "tt7920978",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-05-29T21:07:39Z",
+      "updated_at": "2019-05-29T21:07:39Z"
+    },
+    {
+      "id": "movie-37767",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мне, 19-летнему",
+      "title_orig": "Gei 19 sui de wo zi ji",
+      "other_title": "19-летней / Мне 19-летней / To My 19 Year-Old",
+      "translation": {
+        "id": 641,
+        "title": "STEPonee",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1125091",
+      "imdb_id": "tt8734578",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-29T17:59:36Z",
+      "updated_at": "2019-05-29T17:59:36Z"
+    },
+    {
+      "id": "serial-16910",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Цветок для зверя",
+      "title_orig": "Hana ni Kedamono",
+      "other_title": "Цветок и зверь / Цветок зверя / Flower and The Beast",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "1330993",
+      "imdb_id": "tt11364634",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-05-29T17:57:53Z",
+      "updated_at": "2019-05-29T17:57:53Z"
+    },
+    {
+      "id": "serial-16902",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Наше небо",
+      "title_orig": "Our Skyy",
+      "translation": {
+        "id": 840,
+        "title": "Храм Дорам ТВ",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 5,
+      "episodes_count": 5,
+      "kinopoisk_id": "1229390",
+      "imdb_id": "tt9578852",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-05-26T13:11:41Z",
+      "updated_at": "2019-05-29T13:52:58Z"
+    },
+    {
+      "id": "movie-37765",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Берега",
+      "title_orig": "Berega",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1973,
+      "kinopoisk_id": "46088",
+      "imdb_id": "tt0312461",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-29T10:28:35Z",
+      "updated_at": "2019-05-29T10:28:35Z"
+    },
+    {
+      "id": "movie-37766",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Святой Ральф",
+      "title_orig": "Saint Ralph",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2004,
+      "kinopoisk_id": "64564",
+      "imdb_id": "tt0384488",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-29T10:27:14Z",
+      "updated_at": "2019-05-29T10:27:14Z"
+    },
+    {
+      "id": "movie-37750",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Акселератка",
+      "title_orig": "Akseleratka",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "43440",
+      "imdb_id": "tt0092525",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-29T07:29:48Z",
+      "updated_at": "2019-05-29T07:29:48Z"
+    },
+    {
+      "id": "movie-37751",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Александр Попов",
+      "title_orig": "Aleksandr Popov",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1949,
+      "kinopoisk_id": "43453",
+      "imdb_id": "tt0041105",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-29T07:28:44Z",
+      "updated_at": "2019-05-29T07:28:44Z"
+    },
+    {
+      "id": "movie-37752",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Хроники призрачного племени",
+      "title_orig": "Jiu ceng yao ta",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "919866",
+      "imdb_id": "tt4819498",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-29T07:25:33Z",
+      "updated_at": "2019-05-29T07:25:33Z"
+    },
+    {
+      "id": "movie-37754",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Черная чайка",
+      "title_orig": "Chyornaya chayka",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1962,
+      "kinopoisk_id": "432594",
+      "imdb_id": "tt1527604",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-29T07:19:29Z",
+      "updated_at": "2019-05-29T07:19:29Z"
+    },
+    {
       "id": "movie-37755",
       "type": "russian-movie",
       "link": "",
@@ -1815,226 +2050,6 @@
       "blocked_countries": [],
       "created_at": "2019-05-27T08:45:39Z",
       "updated_at": "2019-05-27T08:45:39Z"
-    },
-    {
-      "id": "movie-37617",
-      "type": "russian-movie",
-      "link": "",
-      "title": "По данным уголовного розыска...",
-      "title_orig": "По данным уголовного розыска...",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1981,
-      "kinopoisk_id": "43003",
-      "imdb_id": "tt0188146",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-27T08:45:02Z",
-      "updated_at": "2019-05-27T08:45:02Z"
-    },
-    {
-      "id": "movie-37596",
-      "type": "russian-movie",
-      "link": "",
-      "title": "У Крутого яра",
-      "title_orig": "U krutogo yara",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1962,
-      "kinopoisk_id": "42473",
-      "imdb_id": "tt0057613",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-27T07:41:51Z",
-      "updated_at": "2019-05-27T07:41:51Z"
-    },
-    {
-      "id": "movie-37597",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Во власти золота",
-      "title_orig": "Vo vlasti zolota",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1957,
-      "kinopoisk_id": "417621",
-      "imdb_id": "tt2094180",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-27T07:40:38Z",
-      "updated_at": "2019-05-27T07:40:38Z"
-    },
-    {
-      "id": "movie-37598",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Впереди – крутой поворот",
-      "title_orig": "Vperedi - krutoy povorot",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1960,
-      "kinopoisk_id": "45898",
-      "imdb_id": "tt0141970",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-27T07:39:59Z",
-      "updated_at": "2019-05-27T07:39:59Z"
-    },
-    {
-      "id": "movie-37599",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Время летних отпусков",
-      "title_orig": "Vremya letnikh otpuskov",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1960,
-      "kinopoisk_id": "45911",
-      "imdb_id": "tt0235870",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-27T07:39:19Z",
-      "updated_at": "2019-05-27T07:39:19Z"
-    },
-    {
-      "id": "movie-37601",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Белая птица с черной отметиной",
-      "title_orig": "Bilyy ptakh z chornoyu vidznakoyu",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1971,
-      "kinopoisk_id": "46134",
-      "imdb_id": "tt0165636",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-27T07:37:28Z",
-      "updated_at": "2019-05-27T07:37:28Z"
-    },
-    {
-      "id": "movie-37602",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Двое и одна",
-      "title_orig": "Dvoe i odna",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1988,
-      "kinopoisk_id": "44361",
-      "imdb_id": "tt0305503",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-27T07:36:16Z",
-      "updated_at": "2019-05-27T07:36:16Z"
-    },
-    {
-      "id": "movie-37603",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Девочка ищет отца",
-      "title_orig": "Devochka ishchet otsa",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1959,
-      "kinopoisk_id": "44174",
-      "imdb_id": "tt0140954",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-27T07:34:49Z",
-      "updated_at": "2019-05-27T07:34:49Z"
-    },
-    {
-      "id": "movie-37604",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Дневник директора школы",
-      "title_orig": "Dnevnik direktora shkoly",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1975,
-      "kinopoisk_id": "44224",
-      "imdb_id": "tt0072885",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-27T07:34:13Z",
-      "updated_at": "2019-05-27T07:34:13Z"
-    },
-    {
-      "id": "movie-37586",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Мама, я жив!",
-      "title_orig": "Mama, ya zhiv!",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1985,
-      "kinopoisk_id": "46526",
-      "imdb_id": "tt0232043",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-27T07:30:51Z",
-      "updated_at": "2019-05-27T07:30:51Z"
-    },
-    {
-      "id": "movie-37587",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Не было печали",
-      "title_orig": "Ne bylo pechali",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1983,
-      "kinopoisk_id": "46364",
-      "imdb_id": "tt0084396",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-27T07:29:36Z",
-      "updated_at": "2019-05-27T07:29:36Z"
     }
   ]
 }

@@ -1,6 +1,240 @@
 {
   "results": [
     {
+      "id": "movie-24904",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Легенда о Сурамской крепости",
+      "title_orig": "Ambavi Suramis tsikhitsa",
+      "translation": {
+        "id": 786,
+        "title": "Проф. Одноголосый",
+        "type": "voice"
+      },
+      "year": 1986,
+      "kinopoisk_id": "43477",
+      "imdb_id": "tt0087606",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-09T11:53:03Z",
+      "updated_at": "2018-07-09T11:53:03Z"
+    },
+    {
+      "id": "movie-24905",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Ашик-Кериб",
+      "title_orig": "Ashug-Karibi",
+      "translation": {
+        "id": 786,
+        "title": "Проф. Одноголосый",
+        "type": "voice"
+      },
+      "year": 1988,
+      "kinopoisk_id": "7659",
+      "imdb_id": "tt0094681",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-09T11:45:21Z",
+      "updated_at": "2018-07-09T11:45:21Z"
+    },
+    {
+      "id": "movie-24892",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Месть падчерицы",
+      "title_orig": "A Daughter's Revenge",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1097974",
+      "imdb_id": "tt7561776",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-09T07:54:09Z",
+      "updated_at": "2018-07-09T07:54:09Z"
+    },
+    {
+      "id": "movie-24893",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Абаджан",
+      "title_orig": "Aba jan",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1045574",
+      "imdb_id": "tt6213822",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-09T07:49:30Z",
+      "updated_at": "2018-07-09T07:49:30Z"
+    },
+    {
+      "id": "movie-24870",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Кровь, пот и ложь",
+      "title_orig": "Blood, Sweat, and Lies",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1095019",
+      "imdb_id": "tt6871186",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-09T02:59:44Z",
+      "updated_at": "2018-07-09T07:47:22Z"
+    },
+    {
+      "id": "movie-24862",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Чемпион",
+      "title_orig": "Chaempieon",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1048511",
+      "imdb_id": "tt8367080",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-07T22:42:17Z",
+      "updated_at": "2018-07-09T07:45:25Z"
+    },
+    {
+      "id": "movie-24872",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Девочки на льду",
+      "title_orig": "Ice Girls",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "944682",
+      "imdb_id": "tt5198570",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-09T03:01:10Z",
+      "updated_at": "2018-07-09T07:35:27Z"
+    },
+    {
+      "id": "serial-5954",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Импульс мира [ТВ-1]",
+      "title_orig": "World Trigger",
+      "other_title": "ワールドトリガー",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 73,
+      "episodes_count": 73,
+      "kinopoisk_id": "891397",
+      "imdb_id": "tt3950102",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2375",
+      "shikimori_id": "24405",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-11-12T22:03:27Z",
+      "updated_at": "2018-07-09T07:30:14Z"
+    },
+    {
+      "id": "serial-2141",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Храбрые ведьмы",
+      "title_orig": "Brave Witches",
+      "other_title": "Отважные ведьмы",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1118092",
+      "imdb_id": "tt6354120",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8712",
+      "shikimori_id": "32866",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-01-11T21:30:53Z",
+      "updated_at": "2018-07-09T07:26:19Z"
+    },
+    {
+      "id": "movie-24861",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Нечего терять",
+      "title_orig": "Nada a Perder",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1079816",
+      "imdb_id": "tt6910020",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-07T22:40:30Z",
+      "updated_at": "2018-07-09T05:38:58Z"
+    },
+    {
+      "id": "movie-24867",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Я не сумасшедшая",
+      "title_orig": "No Estoy Loca",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "851579",
+      "imdb_id": "tt4060006",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-08T22:05:27Z",
+      "updated_at": "2018-07-09T05:30:14Z"
+    },
+    {
       "id": "movie-24875",
       "type": "foreign-movie",
       "link": "",
@@ -1934,234 +2168,6 @@
       "blocked_countries": [],
       "created_at": "2018-06-26T11:13:11Z",
       "updated_at": "2018-06-27T05:16:17Z"
-    },
-    {
-      "id": "movie-24539",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Потеря и любовь",
-      "title_orig": "Shi gu",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "885680",
-      "imdb_id": "tt4440036",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-06-26T21:01:20Z",
-      "updated_at": "2018-06-26T21:58:15Z"
-    },
-    {
-      "id": "serial-10972",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Хозяйка судьбы",
-      "title_orig": "Senhora do Destino",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2004,
-      "last_season": 1,
-      "last_episode": 181,
-      "episodes_count": 181,
-      "kinopoisk_id": "161228",
-      "imdb_id": "tt0420449",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-06-26T15:17:39Z",
-      "updated_at": "2018-06-26T15:17:39Z"
-    },
-    {
-      "id": "movie-24516",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Смертельное соседство",
-      "title_orig": "A Deadly View",
-      "translation": {
-        "id": 790,
-        "title": "HiWayGrope",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1069271",
-      "imdb_id": "tt6792478",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-06-26T09:02:26Z",
-      "updated_at": "2018-06-26T09:02:26Z"
-    },
-    {
-      "id": "movie-24490",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Искаженный",
-      "title_orig": "Distorted",
-      "translation": {
-        "id": 652,
-        "title": "@MUZOBOZ@",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1027452",
-      "imdb_id": "tt6143850",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-06-23T16:37:02Z",
-      "updated_at": "2018-06-26T05:54:04Z"
-    },
-    {
-      "id": "movie-24499",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Как дела?",
-      "title_orig": "Como va",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "971975",
-      "imdb_id": "tt5507934",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-06-24T16:02:32Z",
-      "updated_at": "2018-06-26T05:45:04Z"
-    },
-    {
-      "id": "serial-11081",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Пленница",
-      "title_orig": "Tutsak",
-      "translation": {
-        "id": 1072,
-        "title": "Turk Star",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 9,
-      "episodes_count": 9,
-      "kinopoisk_id": "1121463",
-      "imdb_id": "tt7975550",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-06-25T16:36:25Z",
-      "updated_at": "2018-06-25T16:36:25Z"
-    },
-    {
-      "id": "movie-24463",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Легенда о фехтовальщике",
-      "title_orig": "Xiao ao jiang hu: dong fang bu bai",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1992,
-      "kinopoisk_id": "23605",
-      "imdb_id": "tt0103295",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-06-22T09:59:12Z",
-      "updated_at": "2018-06-22T09:59:12Z"
-    },
-    {
-      "id": "movie-24444",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "1921",
-      "title_orig": "1921",
-      "translation": {
-        "id": 635,
-        "title": "RusFilm",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1046842",
-      "imdb_id": "tt6958030",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-06-22T06:06:12Z",
-      "updated_at": "2018-06-22T06:06:12Z"
-    },
-    {
-      "id": "movie-24459",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Никто не знаменит",
-      "title_orig": "Nobody Famous",
-      "translation": {
-        "id": 790,
-        "title": "HiWayGrope",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1073086",
-      "imdb_id": "tt6982562",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-06-22T05:42:27Z",
-      "updated_at": "2018-06-22T05:42:27Z"
-    },
-    {
-      "id": "movie-24429",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Истории страсти",
-      "title_orig": "Lust Stories",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1142623",
-      "imdb_id": "tt8439854",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-06-22T01:44:16Z",
-      "updated_at": "2018-06-22T05:41:19Z"
-    },
-    {
-      "id": "movie-24432",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Кунхам: Пограничный остров",
-      "title_orig": "Gun-ham-do",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "996621",
-      "imdb_id": "tt5969696",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-06-22T05:35:41Z",
-      "updated_at": "2018-06-22T05:35:41Z"
     }
   ]
 }

@@ -1,6 +1,240 @@
 {
   "results": [
     {
+      "id": "movie-35014",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Назначение",
+      "title_orig": "Naznacheniye",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1980,
+      "kinopoisk_id": "95346",
+      "imdb_id": "tt0141649",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-16T06:13:42Z",
+      "updated_at": "2019-04-16T06:13:42Z"
+    },
+    {
+      "id": "movie-35015",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Наутилус",
+      "title_orig": "Nautilus",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1990,
+      "kinopoisk_id": "46355",
+      "imdb_id": "tt0100231",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-16T06:12:52Z",
+      "updated_at": "2019-04-16T06:12:52Z"
+    },
+    {
+      "id": "movie-31832",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Разведчики",
+      "title_orig": "Razvedchiki",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1968,
+      "kinopoisk_id": "42073",
+      "imdb_id": "tt0063491",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-03T01:51:56Z",
+      "updated_at": "2019-04-16T06:11:08Z"
+    },
+    {
+      "id": "movie-35016",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Семейное счастье",
+      "title_orig": "Semeynoe schaste",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1970,
+      "kinopoisk_id": "43666",
+      "imdb_id": "tt0165465",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-16T06:09:51Z",
+      "updated_at": "2019-04-16T06:09:51Z"
+    },
+    {
+      "id": "movie-35017",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Таинственная стена",
+      "title_orig": "Tainstvennaya stena",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1967,
+      "kinopoisk_id": "42166",
+      "imdb_id": "tt0164187",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-16T06:08:54Z",
+      "updated_at": "2019-04-16T06:08:54Z"
+    },
+    {
+      "id": "movie-35022",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Ветер свободы",
+      "title_orig": "Varoonegi",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "978384",
+      "imdb_id": "tt5695764",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-16T06:00:57Z",
+      "updated_at": "2019-04-16T06:00:57Z"
+    },
+    {
+      "id": "movie-34998",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Миррейес против Годинеса",
+      "title_orig": "Mirreyes contra Godinez",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1076091",
+      "imdb_id": "tt7294400",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-15T20:36:37Z",
+      "updated_at": "2019-04-16T05:59:09Z"
+    },
+    {
+      "id": "movie-35025",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Особенность",
+      "title_orig": "Fei tung faan hoeng",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1199591",
+      "imdb_id": "tt9129808",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-16T05:53:20Z",
+      "updated_at": "2019-04-16T05:53:20Z"
+    },
+    {
+      "id": "serial-16378",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Монстр",
+      "title_orig": "Monseuteo",
+      "other_title": "Тиран / Monster / Tyrant / Monster (2016)",
+      "translation": {
+        "id": 983,
+        "title": "Хейли23",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 50,
+      "episodes_count": 50,
+      "kinopoisk_id": "983991",
+      "imdb_id": "tt5569480",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-04-15T22:54:52Z",
+      "updated_at": "2019-04-15T22:54:52Z"
+    },
+    {
+      "id": "serial-16377",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Снежная королева",
+      "title_orig": "Nooneui Yeowang",
+      "other_title": "The Snow Queen",
+      "translation": {
+        "id": 914,
+        "title": "Korean Craze",
+        "type": "voice"
+      },
+      "year": 2006,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "715038",
+      "imdb_id": "tt2389644",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-04-15T22:49:53Z",
+      "updated_at": "2019-04-15T22:49:53Z"
+    },
+    {
+      "id": "serial-16137",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Ясная ночь середины лета",
+      "title_orig": "Sheng xia wan qing tian",
+      "other_title": "Clear Midsummer Night / Bright Midsummer Day",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2013,
+      "last_season": 1,
+      "last_episode": 46,
+      "episodes_count": 46,
+      "kinopoisk_id": "1178377",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-03-31T18:29:48Z",
+      "updated_at": "2019-04-15T22:41:38Z"
+    },
+    {
       "id": "serial-15006",
       "type": "foreign-serial",
       "link": "",
@@ -1802,224 +2036,6 @@
       "blocked_countries": [],
       "created_at": "2019-04-11T11:27:26Z",
       "updated_at": "2019-04-11T11:27:26Z"
-    },
-    {
-      "id": "movie-34771",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Эта веселая планета",
-      "title_orig": "Eta vesyolaya planeta",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1973,
-      "kinopoisk_id": "94970",
-      "imdb_id": "tt0070042",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-11T11:26:16Z",
-      "updated_at": "2019-04-11T11:26:16Z"
-    },
-    {
-      "id": "movie-34772",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Этот негодяй Сидоров",
-      "title_orig": "Etot negodyay Sidorov",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1984,
-      "kinopoisk_id": "42024",
-      "imdb_id": "tt0261681",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-11T11:25:22Z",
-      "updated_at": "2019-04-11T11:25:22Z"
-    },
-    {
-      "id": "movie-34695",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Сохраняй спокойствие и будь суперзвездой",
-      "title_orig": "Wo di ju xing",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1049671",
-      "imdb_id": "tt7263974",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-11T01:52:53Z",
-      "updated_at": "2019-04-11T11:03:20Z"
-    },
-    {
-      "id": "movie-34765",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Возвращайтесь домой",
-      "title_orig": "Let’s Go Home",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2018,
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-11T11:03:08Z",
-      "updated_at": "2019-04-11T11:03:08Z"
-    },
-    {
-      "id": "movie-31111",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Лиловый шар",
-      "title_orig": "Lilovyy shar",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1987,
-      "kinopoisk_id": "45101",
-      "imdb_id": "tt0093419",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-22T23:18:33Z",
-      "updated_at": "2019-04-11T08:11:24Z"
-    },
-    {
-      "id": "movie-6516",
-      "type": "soviet-cartoon",
-      "link": "",
-      "title": "Малыш и Карлсон, который живет на крыше",
-      "title_orig": "Malysh i Karlson, kotoryy zhivyot na kryshe",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1971,
-      "kinopoisk_id": "470346",
-      "imdb_id": "tt1718829",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-05-17T20:16:10Z",
-      "updated_at": "2019-04-11T08:07:50Z"
-    },
-    {
-      "id": "movie-31191",
-      "type": "russian-cartoon",
-      "link": "",
-      "title": "Большой Ух",
-      "title_orig": "Bolshoj Uh",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1989,
-      "kinopoisk_id": "430455",
-      "imdb_id": "tt1796414",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-23T22:14:43Z",
-      "updated_at": "2019-04-11T08:06:14Z"
-    },
-    {
-      "id": "movie-34742",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Кот и Ко",
-      "title_orig": "Kot i Ko.",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1990,
-      "kinopoisk_id": "260073",
-      "imdb_id": "tt0907124",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-11T08:02:38Z",
-      "updated_at": "2019-04-11T08:02:38Z"
-    },
-    {
-      "id": "movie-34743",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Кот, который умел петь",
-      "title_orig": "Kot, kotoryy umel pet",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1988,
-      "kinopoisk_id": "460092",
-      "imdb_id": "tt5873798",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-11T08:01:48Z",
-      "updated_at": "2019-04-11T08:01:48Z"
-    },
-    {
-      "id": "movie-34744",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Кот и клоун",
-      "title_orig": "Kot i Kloun",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1988,
-      "kinopoisk_id": "260075",
-      "imdb_id": "tt1934307",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-11T08:01:12Z",
-      "updated_at": "2019-04-11T08:01:12Z"
-    },
-    {
-      "id": "movie-34746",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Кот, который гулял сам по себе",
-      "title_orig": "Kot, kotoryy gulyal sam po sebe",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1968,
-      "kinopoisk_id": "257986",
-      "imdb_id": "tt5493466",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-11T07:58:37Z",
-      "updated_at": "2019-04-11T07:58:37Z"
     }
   ]
 }

@@ -1,6 +1,237 @@
 {
   "results": [
     {
+      "id": "serial-1020",
+      "type": "russian-serial",
+      "link": "",
+      "title": "Россия молодая",
+      "title_orig": "Россия молодая",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 2009,
+      "last_season": 1,
+      "last_episode": 9,
+      "episodes_count": 9,
+      "kinopoisk_id": "81433",
+      "imdb_id": "tt0081924",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2016-06-07T14:02:13Z",
+      "updated_at": "2018-08-27T11:11:19Z"
+    },
+    {
+      "id": "serial-12117",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Триплексоголик (второй сезон)",
+      "title_orig": "xxxHOLiC: Kei",
+      "other_title": "Триплексоголик: Продолжение",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2008,
+      "last_season": 2,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "397447",
+      "imdb_id": "tt0488477",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6748",
+      "shikimori_id": "3091",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-08-27T10:13:10Z",
+      "updated_at": "2018-08-27T10:13:10Z"
+    },
+    {
+      "id": "movie-20833",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Сделано в Китае",
+      "title_orig": "Meideu in Chaina",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "909792",
+      "imdb_id": "tt4023930",
+      "quality": "HDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-02-02T19:07:06Z",
+      "updated_at": "2018-08-27T08:21:00Z"
+    },
+    {
+      "id": "movie-26133",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Спецагент мистер Чан",
+      "title_orig": "Dung duk dut gung",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1111110",
+      "imdb_id": "tt7759626",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-08-25T22:58:44Z",
+      "updated_at": "2018-08-27T07:48:09Z"
+    },
+    {
+      "id": "movie-26148",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Что тебе нужно для жизни",
+      "title_orig": "What Keeps You Alive",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1092698",
+      "imdb_id": "tt7073710",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-08-26T20:30:01Z",
+      "updated_at": "2018-08-27T07:22:58Z"
+    },
+    {
+      "id": "movie-26140",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Инран: Волчья бригада",
+      "title_orig": "Inrang",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1043759",
+      "imdb_id": "tt3967878",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-08-25T23:28:26Z",
+      "updated_at": "2018-08-27T07:12:31Z"
+    },
+    {
+      "id": "movie-26168",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мюрхаус",
+      "title_orig": "Muirhouse",
+      "translation": {
+        "id": 679,
+        "title": "datynet",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "683389",
+      "imdb_id": "tt2146834",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-08-27T06:22:21Z",
+      "updated_at": "2018-08-27T06:22:21Z"
+    },
+    {
+      "id": "movie-26169",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мотоцикл",
+      "title_orig": "Motorrad",
+      "translation": {
+        "id": 679,
+        "title": "datynet",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1000279",
+      "imdb_id": "tt5958060",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-08-27T06:16:41Z",
+      "updated_at": "2018-08-27T06:16:41Z"
+    },
+    {
+      "id": "movie-26146",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Любовь без подготовки",
+      "title_orig": "Chun giu gau chi ming",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1000427",
+      "imdb_id": "tt5956006",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-08-26T20:28:49Z",
+      "updated_at": "2018-08-27T06:12:55Z"
+    },
+    {
+      "id": "movie-25966",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Пять пальцев для Марселя",
+      "title_orig": "Five Fingers for Marseilles",
+      "translation": {
+        "id": 834,
+        "title": "datynet & Galina Vasyukova",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "686508",
+      "imdb_id": "tt2396489",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-08-19T18:40:53Z",
+      "updated_at": "2018-08-27T05:51:51Z"
+    },
+    {
+      "id": "movie-26154",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Эпитафия",
+      "title_orig": "Gidam",
+      "translation": {
+        "id": 646,
+        "title": "XDUB Dorama",
+        "type": "voice"
+      },
+      "year": 2007,
+      "kinopoisk_id": "398854",
+      "imdb_id": "tt1124378",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-08-27T05:22:34Z",
+      "updated_at": "2018-08-27T05:22:34Z"
+    },
+    {
       "id": "movie-26159",
       "type": "foreign-movie",
       "link": "",
@@ -1886,232 +2117,6 @@
       "blocked_seasons": {},
       "created_at": "2018-08-11T09:26:23Z",
       "updated_at": "2018-08-11T09:26:23Z"
-    },
-    {
-      "id": "serial-10565",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Красавчик и Чон-ым",
-      "title_orig": "Hunnamjeongeum",
-      "other_title": "Красавчик и Чжон Ым / Неудачники в любви / Хун Нам и Чжон Ым / Шикарный парень и Чон Ым / The Undateables",
-      "translation": {
-        "id": 639,
-        "title": "SoftBox",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1112593",
-      "imdb_id": "tt8359446",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-06-02T20:30:32Z",
-      "updated_at": "2018-08-10T15:57:37Z"
-    },
-    {
-      "id": "movie-25747",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Амазонские приключения",
-      "title_orig": "Amazon Obhijaan",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "966606",
-      "imdb_id": "tt5125414",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-08-10T06:56:32Z",
-      "updated_at": "2018-08-10T06:56:32Z"
-    },
-    {
-      "id": "movie-25748",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Особенная",
-      "title_orig": "Miok",
-      "other_title": "Драгоценная женщина",
-      "translation": {
-        "id": 613,
-        "title": "DeadSno & den904",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1049112",
-      "imdb_id": "tt7549884",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-08-10T06:56:25Z",
-      "updated_at": "2018-08-10T06:56:25Z"
-    },
-    {
-      "id": "movie-2071",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Красная борода",
-      "title_orig": "Akahige",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1965,
-      "kinopoisk_id": "64017",
-      "imdb_id": "tt0058888",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2014-09-22T21:33:37Z",
-      "updated_at": "2018-08-10T06:00:53Z"
-    },
-    {
-      "id": "movie-25699",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Конец лета",
-      "title_orig": "Xi xiao he de xia tian",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1048905",
-      "imdb_id": "tt5644394",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-08-08T19:12:23Z",
-      "updated_at": "2018-08-09T08:09:16Z"
-    },
-    {
-      "id": "movie-25704",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Акт веры",
-      "title_orig": "Act of Faith",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "853343",
-      "imdb_id": "tt3867836",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-08-09T06:15:22Z",
-      "updated_at": "2018-08-09T06:15:22Z"
-    },
-    {
-      "id": "movie-25706",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Давай, сынок",
-      "title_orig": "Hadi Be Oglum",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1100654",
-      "imdb_id": "tt7628458",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-08-09T06:09:38Z",
-      "updated_at": "2018-08-09T06:09:38Z"
-    },
-    {
-      "id": "movie-25709",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Искаженный",
-      "title_orig": "Distorted",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1027452",
-      "imdb_id": "tt6143850",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-08-09T06:06:04Z",
-      "updated_at": "2018-08-09T06:06:04Z"
-    },
-    {
-      "id": "movie-25711",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Скуби-Ду! и пляжное чудище",
-      "title_orig": "Scooby Doo and the Beach Beastie",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "985032",
-      "imdb_id": "tt5794246",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-08-09T05:56:36Z",
-      "updated_at": "2018-08-09T05:56:36Z"
-    },
-    {
-      "id": "movie-25680",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Озеро Мунго",
-      "title_orig": "Lake Mungo",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2008,
-      "kinopoisk_id": "388784",
-      "imdb_id": "tt0816556",
-      "quality": "BDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-08-08T06:26:11Z",
-      "updated_at": "2018-08-08T06:26:11Z"
-    },
-    {
-      "id": "movie-25682",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Интеллектуал",
-      "title_orig": "Kanithan",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "966802",
-      "imdb_id": "tt5500416",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-08-08T06:23:55Z",
-      "updated_at": "2018-08-08T06:23:55Z"
     }
   ]
 }

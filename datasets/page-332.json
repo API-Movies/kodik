@@ -1,6 +1,230 @@
 {
   "results": [
     {
+      "id": "movie-5186",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Посторонний",
+      "title_orig": "The Intruders",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "823946",
+      "imdb_id": "tt3496372",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-02-28T21:11:48Z",
+      "updated_at": "2016-05-26T13:28:00Z"
+    },
+    {
+      "id": "movie-6465",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Война волков",
+      "title_orig": "Wolf Warrior",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "837526",
+      "imdb_id": "tt3540136",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-05-15T21:00:13Z",
+      "updated_at": "2016-05-25T19:35:45Z"
+    },
+    {
+      "id": "movie-6450",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Инспектор пришёл",
+      "title_orig": "San Taam Ka To",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "869106",
+      "imdb_id": "tt4296186",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-05-15T19:45:23Z",
+      "updated_at": "2016-05-25T09:41:17Z"
+    },
+    {
+      "id": "serial-2931",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Винтер",
+      "title_orig": "Winter",
+      "translation": {
+        "id": 645,
+        "title": "Victory-Films",
+        "type": "voice"
+      },
+      "year": 2015,
+      "last_season": 1,
+      "last_episode": 6,
+      "episodes_count": 6,
+      "kinopoisk_id": "891632",
+      "imdb_id": "tt4397640",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2016-05-25T05:50:08Z",
+      "updated_at": "2016-05-25T07:56:18Z"
+    },
+    {
+      "id": "movie-6367",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Модная штучка",
+      "title_orig": "After the Ball",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "841052",
+      "imdb_id": "tt3717016",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-05-06T10:36:27Z",
+      "updated_at": "2016-05-25T07:50:36Z"
+    },
+    {
+      "id": "movie-5067",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "В одиночестве / Одна / Неразлучные",
+      "title_orig": "Alone",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "880617",
+      "imdb_id": "tt4271730",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-02-24T23:03:09Z",
+      "updated_at": "2016-05-25T07:47:26Z"
+    },
+    {
+      "id": "movie-7808",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Стая",
+      "title_orig": "The Pack",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "882122",
+      "imdb_id": "tt4167720",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-11-02T19:48:04Z",
+      "updated_at": "2016-05-24T10:25:16Z"
+    },
+    {
+      "id": "movie-5591",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Доказательство",
+      "title_orig": "Proof",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 1991,
+      "kinopoisk_id": "3836",
+      "imdb_id": "tt0102721",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-03-28T15:30:58Z",
+      "updated_at": "2016-05-24T09:03:24Z"
+    },
+    {
+      "id": "movie-14167",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Небеса в огне",
+      "title_orig": "Heaven's Burning",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 1997,
+      "kinopoisk_id": "12247",
+      "imdb_id": "tt0119272",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-02-07T21:52:50Z",
+      "updated_at": "2016-05-24T08:46:28Z"
+    },
+    {
+      "id": "movie-7285",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Атака титанов. Фильм первый: Жестокий мир",
+      "title_orig": "Shingeki no kyojin: Attack on Titan",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "635184",
+      "imdb_id": "tt2072230",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-08-18T18:47:52Z",
+      "updated_at": "2016-05-24T08:20:47Z"
+    },
+    {
+      "id": "movie-9066",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Кремлевские тайны XVI века",
+      "title_orig": "Кремлевские тайны XVI века",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1991,
+      "kinopoisk_id": "471869",
+      "imdb_id": "tt2400862",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-05-23T17:54:00Z",
+      "updated_at": "2016-05-23T17:54:00Z"
+    },
+    {
       "id": "movie-9059",
       "type": "russian-movie",
       "link": "",
@@ -1803,224 +2027,6 @@
       "blocked_countries": [],
       "created_at": "2016-01-18T18:45:20Z",
       "updated_at": "2016-01-18T18:45:20Z"
-    },
-    {
-      "id": "movie-8262",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Денежный мешок",
-      "title_orig": "Money Ratnam",
-      "translation": {
-        "id": 765,
-        "title": "SDI Media",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "845093",
-      "imdb_id": "tt4069184",
-      "quality": "HDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-01-12T20:19:44Z",
-      "updated_at": "2016-01-12T20:19:44Z"
-    },
-    {
-      "id": "movie-8249",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "4 идиота",
-      "title_orig": "4 Idiots / Shan Pao Jin Cheng",
-      "translation": {
-        "id": 680,
-        "title": "den904",
-        "type": "voice"
-      },
-      "year": 2015,
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-01-11T18:12:48Z",
-      "updated_at": "2016-01-11T18:12:48Z"
-    },
-    {
-      "id": "movie-8179",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Отстранение",
-      "title_orig": "Suspension",
-      "translation": {
-        "id": 679,
-        "title": "datynet",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "866521",
-      "imdb_id": "tt3625952",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-12-27T20:34:05Z",
-      "updated_at": "2015-12-27T20:34:05Z"
-    },
-    {
-      "id": "movie-8112",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Спящая ведьма",
-      "title_orig": "Jamjaneun supsokui manyeo",
-      "other_title": "The Sleeping Witch",
-      "translation": {
-        "id": 620,
-        "title": "GREEN TEA",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "825293",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-12-13T20:30:15Z",
-      "updated_at": "2015-12-13T20:30:15Z"
-    },
-    {
-      "id": "movie-8033",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Призрак в комнате",
-      "title_orig": "Bong Srolanh Oun",
-      "translation": {
-        "id": 814,
-        "title": "Многоголосый",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "894233",
-      "imdb_id": "tt4425482",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-12-04T19:32:03Z",
-      "updated_at": "2015-12-04T19:32:03Z"
-    },
-    {
-      "id": "movie-8019",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Зомби-ниндзя против спецназа",
-      "title_orig": "Zombie Ninjas vs Black Ops",
-      "translation": {
-        "id": 815,
-        "title": "Двухголосый",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "822062",
-      "imdb_id": "tt3397948",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-12-01T22:00:02Z",
-      "updated_at": "2015-12-01T22:00:02Z"
-    },
-    {
-      "id": "movie-8012",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Хор",
-      "title_orig": "Chorus",
-      "translation": {
-        "id": 689,
-        "title": "PashaUp aka Павел Морозов",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "861631",
-      "imdb_id": "tt4040888",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-12-01T18:10:57Z",
-      "updated_at": "2015-12-01T18:10:57Z"
-    },
-    {
-      "id": "movie-7998",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Винт",
-      "title_orig": "Boreg",
-      "translation": {
-        "id": 689,
-        "title": "PashaUp aka Павел Морозов",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "840217",
-      "imdb_id": "tt3751304",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-11-29T16:27:09Z",
-      "updated_at": "2015-11-29T16:27:09Z"
-    },
-    {
-      "id": "movie-7984",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Дэвид",
-      "title_orig": "David",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "702761",
-      "imdb_id": "tt2358412",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-11-27T20:22:20Z",
-      "updated_at": "2015-11-27T20:22:20Z"
-    },
-    {
-      "id": "movie-7952",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Черная комедия",
-      "title_orig": "Black Comedy",
-      "translation": {
-        "id": 680,
-        "title": "den904",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "838569",
-      "imdb_id": "tt3636090",
-      "quality": "HDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-11-23T15:27:30Z",
-      "updated_at": "2015-11-23T15:27:30Z"
-    },
-    {
-      "id": "movie-7920",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Охотник на акул",
-      "title_orig": "Shark Killer",
-      "translation": {
-        "id": 599,
-        "title": "Хихикающий доктор",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "868919",
-      "imdb_id": "tt4025594",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-11-19T17:00:14Z",
-      "updated_at": "2015-11-19T17:00:14Z"
     }
   ]
 }

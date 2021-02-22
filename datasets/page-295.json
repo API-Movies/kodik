@@ -1,6 +1,245 @@
 {
   "results": [
     {
+      "id": "movie-27347",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Дикарь",
+      "title_orig": "Fauve",
+      "translation": {
+        "id": 660,
+        "title": "GreenРай Studio",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1050998",
+      "imdb_id": "tt7467476",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-10-10T07:12:56Z",
+      "updated_at": "2018-10-10T07:12:56Z"
+    },
+    {
+      "id": "movie-27313",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Побег из Гонконга",
+      "title_orig": "Hong Kong Rescue",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1150054",
+      "imdb_id": "tt8375760",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-10-08T16:05:52Z",
+      "updated_at": "2018-10-09T07:41:07Z"
+    },
+    {
+      "id": "serial-7497",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Повелитель [ТВ-1]",
+      "title_orig": "Overlord",
+      "other_title": "オーバーロード",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2015,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "923115",
+      "imdb_id": "tt4869896",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8207",
+      "shikimori_id": "29803",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-12-25T22:50:39Z",
+      "updated_at": "2018-10-08T19:51:56Z"
+    },
+    {
+      "id": "serial-12697",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Нейро Ногами - детектив из ада",
+      "title_orig": "Majin Tantei Nougami Neuro",
+      "other_title": "Нейро Ногами: Детектив из Ада",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2007,
+      "last_season": 1,
+      "last_episode": 25,
+      "episodes_count": 25,
+      "kinopoisk_id": "500563",
+      "imdb_id": "tt6565980",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6657",
+      "shikimori_id": "2985",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-10-08T19:49:12Z",
+      "updated_at": "2018-10-08T19:49:12Z"
+    },
+    {
+      "id": "serial-11644",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Страна снов и сто спящих принцев",
+      "title_orig": "Yume Oukoku to Nemureru 100 Nin no Ouji-sama",
+      "other_title": "История о стране снов и спящих принцах / Страна снов и 100 спящих принцев",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9236",
+      "shikimori_id": "33966",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-07-18T16:29:03Z",
+      "updated_at": "2018-10-08T19:47:06Z"
+    },
+    {
+      "id": "movie-27299",
+      "type": "russian-movie",
+      "link": "",
+      "title": "12 могил Ходжи Насреддина",
+      "title_orig": "12 mogil Hodji Nasreddina",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1967,
+      "kinopoisk_id": "470316",
+      "imdb_id": "tt5069134",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-10-08T10:52:20Z",
+      "updated_at": "2018-10-08T10:52:20Z"
+    },
+    {
+      "id": "movie-27301",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Чудак-человек",
+      "title_orig": "Chudak-chelovek",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1962,
+      "kinopoisk_id": "420289",
+      "imdb_id": "tt5018756",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-10-08T10:42:26Z",
+      "updated_at": "2018-10-08T10:42:26Z"
+    },
+    {
+      "id": "movie-27242",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Потерянный рай",
+      "title_orig": "Paraíso Perdido",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1163012",
+      "imdb_id": "tt8513302",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-10-05T20:44:44Z",
+      "updated_at": "2018-10-08T10:28:44Z"
+    },
+    {
+      "id": "movie-27167",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Черкес",
+      "title_orig": "Cherkess",
+      "translation": {
+        "id": 729,
+        "title": "СВ-Дубль",
+        "type": "voice"
+      },
+      "year": 2010,
+      "kinopoisk_id": "523168",
+      "imdb_id": "tt1635429",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-10-03T04:06:11Z",
+      "updated_at": "2018-10-08T10:21:36Z"
+    },
+    {
+      "id": "movie-27165",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Пегас против Химеры",
+      "title_orig": "Pegasus Vs. Chimera",
+      "translation": {
+        "id": 710,
+        "title": "РенТВ",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "557937",
+      "imdb_id": "tt1700443",
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-10-03T04:04:17Z",
+      "updated_at": "2018-10-08T10:20:21Z"
+    },
+    {
+      "id": "movie-27164",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Годзилла против Морского монстра",
+      "title_orig": "Gojira, Ebirâ, Mosura: Nankai no daiketto",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 1966,
+      "kinopoisk_id": "32384",
+      "imdb_id": "tt0060464",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-10-03T04:03:30Z",
+      "updated_at": "2018-10-08T10:18:24Z"
+    },
+    {
       "id": "movie-27271",
       "type": "foreign-movie",
       "link": "",
@@ -2111,240 +2350,6 @@
       "blocked_seasons": {},
       "created_at": "2017-04-03T18:35:49Z",
       "updated_at": "2018-09-28T16:41:40Z"
-    },
-    {
-      "id": "movie-27081",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Сломленный",
-      "title_orig": "Broken",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "imdb_id": "tt5932800",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-09-28T15:09:34Z",
-      "updated_at": "2018-09-28T15:09:34Z"
-    },
-    {
-      "id": "movie-27052",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Убита в 17",
-      "title_orig": "Murdered at 17",
-      "other_title": "Убита в семнадцать",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1088655",
-      "imdb_id": "tt7365178",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-09-28T06:06:37Z",
-      "updated_at": "2018-09-28T06:06:37Z"
-    },
-    {
-      "id": "movie-27055",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Здесь",
-      "title_orig": "Eeda",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1116193",
-      "imdb_id": "tt7477108",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-09-28T05:51:35Z",
-      "updated_at": "2018-09-28T05:51:35Z"
-    },
-    {
-      "id": "movie-27044",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Кошмар отца",
-      "title_orig": "A Father's Nightmare",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1098862",
-      "imdb_id": "tt7583418",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-09-28T05:36:57Z",
-      "updated_at": "2018-09-28T05:36:57Z"
-    },
-    {
-      "id": "serial-12209",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Подмена",
-      "title_orig": "Switched",
-      "other_title": "Беги, Йодака! / Обмен телами / Sora wo Kakeru Yodaka",
-      "translation": {
-        "id": 618,
-        "title": "GoldTeam",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "1179565",
-      "imdb_id": "tt8747882",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-09-03T11:21:46Z",
-      "updated_at": "2018-09-27T13:19:33Z"
-    },
-    {
-      "id": "serial-10627",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Красавчик",
-      "title_orig": "Yebbeun namja",
-      "other_title": "Неотразимый / Наипрекраснейший / Великолепный Мужчина / Beautiful Guy / Bel Ami / Pretty Boy / Pretty Man / Beautiful Man / Yeppeun Namja",
-      "translation": {
-        "id": 620,
-        "title": "GREEN TEA",
-        "type": "voice"
-      },
-      "year": 2013,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "774514",
-      "imdb_id": "tt3350766",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-06-06T17:34:04Z",
-      "updated_at": "2018-09-27T07:39:02Z"
-    },
-    {
-      "id": "movie-26409",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Манеры выживать 5+",
-      "title_orig": "Survive Style 5+",
-      "translation": {
-        "id": 585,
-        "title": "Карповский",
-        "type": "voice"
-      },
-      "year": 2004,
-      "kinopoisk_id": "88054",
-      "imdb_id": "tt0430651",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-09-03T17:23:36Z",
-      "updated_at": "2018-09-27T07:06:06Z"
-    },
-    {
-      "id": "movie-27018",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Мстительница",
-      "title_orig": "Ribenji garu",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1049361",
-      "imdb_id": "tt7222296",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-09-27T05:54:47Z",
-      "updated_at": "2018-09-27T05:54:47Z"
-    },
-    {
-      "id": "movie-27010",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Осада Мумбаи: 4 дня ужаса",
-      "title_orig": "One Less God",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "821005",
-      "imdb_id": "tt3418424",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-09-26T17:09:04Z",
-      "updated_at": "2018-09-27T05:49:18Z"
-    },
-    {
-      "id": "movie-27015",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Бездельник",
-      "title_orig": "Julayi",
-      "translation": {
-        "id": 764,
-        "title": "Red Media",
-        "type": "voice"
-      },
-      "year": 2012,
-      "kinopoisk_id": "675054",
-      "imdb_id": "tt2330927",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-09-27T05:40:26Z",
-      "updated_at": "2018-09-27T05:40:26Z"
-    },
-    {
-      "id": "serial-3966",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Неуправляемая",
-      "title_orig": "Ingobernable",
-      "translation": {
-        "id": 611,
-        "title": "ColdFilm",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 2,
-      "last_episode": 12,
-      "episodes_count": 27,
-      "kinopoisk_id": "1038464",
-      "imdb_id": "tt6495756",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-06-01T21:32:36Z",
-      "updated_at": "2018-09-26T18:15:49Z"
     }
   ]
 }

@@ -1,6 +1,230 @@
 {
   "results": [
     {
+      "id": "movie-17808",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "100% любовь",
+      "title_orig": "100% Love",
+      "translation": {
+        "id": 662,
+        "title": "ICG",
+        "type": "voice"
+      },
+      "year": 2011,
+      "kinopoisk_id": "594855",
+      "imdb_id": "tt1869226",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-08-01T04:38:28Z",
+      "updated_at": "2017-08-01T04:38:28Z"
+    },
+    {
+      "id": "movie-17786",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мать",
+      "title_orig": "Madre",
+      "translation": {
+        "id": 613,
+        "title": "DeadSno & den904",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "978238",
+      "imdb_id": "tt5707304",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-07-29T15:03:16Z",
+      "updated_at": "2017-08-01T04:37:04Z"
+    },
+    {
+      "id": "movie-17803",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Аренда",
+      "title_orig": "The Sublet",
+      "translation": {
+        "id": 599,
+        "title": "Хихикающий доктор",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "872635",
+      "imdb_id": "tt4285960",
+      "quality": "BDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-08-01T04:30:40Z",
+      "updated_at": "2017-08-01T04:30:40Z"
+    },
+    {
+      "id": "movie-17772",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Джаспер Джонс",
+      "title_orig": "Jasper Jones",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "942223",
+      "imdb_id": "tt5091014",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-07-27T19:18:17Z",
+      "updated_at": "2017-07-31T06:08:39Z"
+    },
+    {
+      "id": "movie-17802",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Верни к жизни мёртвого",
+      "title_orig": "Bring Back the Dead",
+      "translation": {
+        "id": 613,
+        "title": "DeadSno & den904",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "851800",
+      "imdb_id": "tt3959152",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-07-31T05:04:25Z",
+      "updated_at": "2017-07-31T05:04:25Z"
+    },
+    {
+      "id": "movie-19379",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Полицейский с половиной: Новобранец",
+      "title_orig": "Cop and a Half: New Recruit",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1035442",
+      "imdb_id": "tt6212210",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-11-01T15:48:49Z",
+      "updated_at": "2017-07-31T05:00:43Z"
+    },
+    {
+      "id": "movie-17737",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Я и мои друзья против зомби-апокалипсиса",
+      "title_orig": "Me and My Mates vs. The Zombie Apocalypse",
+      "translation": {
+        "id": 652,
+        "title": "@MUZOBOZ@",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "773750",
+      "imdb_id": "tt2846938",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-07-25T16:07:07Z",
+      "updated_at": "2017-07-28T06:12:42Z"
+    },
+    {
+      "id": "serial-3084",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "В объезд",
+      "title_orig": "The Detour",
+      "translation": {
+        "id": 669,
+        "title": "Несмертельное оружие",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "927628",
+      "imdb_id": "tt4903242",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2016-12-24T16:45:54Z",
+      "updated_at": "2017-07-27T12:05:25Z"
+    },
+    {
+      "id": "movie-17765",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Семя Дьявола",
+      "title_orig": "Devil Seed",
+      "translation": {
+        "id": 680,
+        "title": "den904",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "635377",
+      "imdb_id": "tt2061822",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-07-27T07:11:52Z",
+      "updated_at": "2017-07-27T07:11:52Z"
+    },
+    {
+      "id": "movie-17763",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Благодарю тебя",
+      "title_orig": "Thank You",
+      "translation": {
+        "id": 764,
+        "title": "Red Media",
+        "type": "voice"
+      },
+      "year": 2011,
+      "kinopoisk_id": "566125",
+      "imdb_id": "tt1720254",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-07-27T07:02:14Z",
+      "updated_at": "2017-07-27T07:02:14Z"
+    },
+    {
+      "id": "movie-17759",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Сын Сардара",
+      "title_orig": "Son of Sardaar",
+      "translation": {
+        "id": 765,
+        "title": "SDI Media",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "683674",
+      "imdb_id": "tt2178508",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-07-27T06:59:12Z",
+      "updated_at": "2017-07-27T06:59:12Z"
+    },
+    {
       "id": "movie-17760",
       "type": "foreign-movie",
       "link": "",
@@ -1848,230 +2072,6 @@
       "blocked_countries": [],
       "created_at": "2017-06-27T15:49:02Z",
       "updated_at": "2017-06-28T06:36:01Z"
-    },
-    {
-      "id": "movie-17293",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Председатель",
-      "title_orig": "Predsedatel",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1964,
-      "kinopoisk_id": "43231",
-      "imdb_id": "tt0058489",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-06-28T05:48:13Z",
-      "updated_at": "2017-06-28T05:48:13Z"
-    },
-    {
-      "id": "movie-17290",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Плохой парень",
-      "title_orig": "Kötü Çocuk",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1045399",
-      "imdb_id": "tt6289452",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-06-28T05:45:56Z",
-      "updated_at": "2017-06-28T05:45:56Z"
-    },
-    {
-      "id": "serial-1799",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Отважный и красавица",
-      "title_orig": "Cesur Ve Güzel",
-      "translation": {
-        "id": 691,
-        "title": "turok1990",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 32,
-      "episodes_count": 32,
-      "kinopoisk_id": "1007961",
-      "imdb_id": "tt6162588",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2016-12-03T23:48:55Z",
-      "updated_at": "2017-06-27T10:42:35Z"
-    },
-    {
-      "id": "movie-17264",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Вдребезги",
-      "title_orig": "Crushed",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "812212",
-      "imdb_id": "tt3359650",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-06-26T15:13:09Z",
-      "updated_at": "2017-06-27T08:49:41Z"
-    },
-    {
-      "id": "movie-17258",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Мне отмщение, и аз воздам",
-      "title_orig": "Fukushû suru wa ware ni ari",
-      "translation": {
-        "id": 598,
-        "title": "Сербин",
-        "type": "voice"
-      },
-      "year": 1979,
-      "kinopoisk_id": "160338",
-      "imdb_id": "tt0079182",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-06-26T05:10:39Z",
-      "updated_at": "2017-06-26T05:10:39Z"
-    },
-    {
-      "id": "movie-17255",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Остров",
-      "title_orig": "Seom",
-      "translation": {
-        "id": 598,
-        "title": "Сербин",
-        "type": "voice"
-      },
-      "year": 2000,
-      "kinopoisk_id": "76549",
-      "imdb_id": "tt0255589",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-06-26T05:08:52Z",
-      "updated_at": "2017-06-26T05:08:52Z"
-    },
-    {
-      "id": "movie-6137",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Женщина-демон",
-      "title_orig": "Onibaba",
-      "translation": {
-        "id": 569,
-        "title": "Алексеев",
-        "type": "voice"
-      },
-      "year": 1964,
-      "kinopoisk_id": "83056",
-      "imdb_id": "tt0058430",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-04-25T17:51:33Z",
-      "updated_at": "2017-06-26T05:07:30Z"
-    },
-    {
-      "id": "movie-17250",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Рейвенсвуд",
-      "title_orig": "Ravenswood",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "947913",
-      "imdb_id": "tt5194048",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-06-25T15:14:05Z",
-      "updated_at": "2017-06-26T04:29:26Z"
-    },
-    {
-      "id": "movie-17247",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Рыжий: Вся правда",
-      "title_orig": "Red Dog: True Blue",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "855384",
-      "imdb_id": "tt3567194",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-06-25T15:12:26Z",
-      "updated_at": "2017-06-26T04:28:14Z"
-    },
-    {
-      "id": "movie-17160",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Девичий шаг",
-      "title_orig": "Gâruzu suteppu",
-      "translation": {
-        "id": 646,
-        "title": "XDUB Dorama",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "859893",
-      "imdb_id": "tt4238156",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-06-18T19:28:21Z",
-      "updated_at": "2017-06-23T05:25:34Z"
-    },
-    {
-      "id": "movie-17230",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Любовь во время гражданской войны",
-      "title_orig": "L'amour au temps de la guerre civile",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "842124",
-      "imdb_id": "tt3922958",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-06-23T05:17:59Z",
-      "updated_at": "2017-06-23T05:17:59Z"
     }
   ]
 }

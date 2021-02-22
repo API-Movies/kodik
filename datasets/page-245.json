@@ -1,6 +1,234 @@
 {
   "results": [
     {
+      "id": "movie-40388",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Осенние сны",
+      "title_orig": "Osenniye sny",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "42802",
+      "imdb_id": "tt0300307",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-30T11:27:13Z",
+      "updated_at": "2019-07-30T11:27:13Z"
+    },
+    {
+      "id": "movie-40358",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Тыква и майонез",
+      "title_orig": "Kabocha to mayonaise",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1045630",
+      "imdb_id": "tt6964896",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-29T22:12:14Z",
+      "updated_at": "2019-07-30T08:06:38Z"
+    },
+    {
+      "id": "movie-40378",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Недотрога",
+      "title_orig": "Fei fan suk jyu",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1219932",
+      "imdb_id": "tt9838372",
+      "quality": "HDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-30T08:06:36Z",
+      "updated_at": "2019-07-30T08:06:36Z"
+    },
+    {
+      "id": "movie-40357",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мисс Стерва",
+      "title_orig": "Gong hei pat poh",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1209890",
+      "imdb_id": "tt9638206",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-29T22:11:35Z",
+      "updated_at": "2019-07-30T08:03:24Z"
+    },
+    {
+      "id": "movie-40355",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "13 лет пустоты",
+      "title_orig": "Blank 13",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1046602",
+      "imdb_id": "tt6640390",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-29T22:10:11Z",
+      "updated_at": "2019-07-30T08:00:27Z"
+    },
+    {
+      "id": "movie-40381",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Ты рада, что я здесь?",
+      "title_orig": "Are You Glad I'm Here",
+      "translation": {
+        "id": 819,
+        "title": "AlphaProject",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1173587",
+      "imdb_id": "tt6891516",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-30T07:58:34Z",
+      "updated_at": "2019-07-30T07:58:34Z"
+    },
+    {
+      "id": "movie-40349",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Космонавт",
+      "title_orig": "Astronaut",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1146623",
+      "imdb_id": "tt7890550",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-29T22:05:54Z",
+      "updated_at": "2019-07-30T07:51:41Z"
+    },
+    {
+      "id": "serial-18180",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "В надежде на спасение",
+      "title_orig": "Saving Hope",
+      "translation": {
+        "id": 666,
+        "title": "To4ka",
+        "type": "voice"
+      },
+      "year": 2012,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "664638",
+      "imdb_id": "tt1954804",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-07-30T07:40:22Z",
+      "updated_at": "2019-07-30T07:40:22Z"
+    },
+    {
+      "id": "serial-18179",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "В надежде на спасение",
+      "title_orig": "Saving Hope",
+      "translation": {
+        "id": 625,
+        "title": "Kiitos",
+        "type": "voice"
+      },
+      "year": 2012,
+      "last_season": 3,
+      "last_episode": 18,
+      "episodes_count": 18,
+      "kinopoisk_id": "664638",
+      "imdb_id": "tt1954804",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-07-30T07:40:22Z",
+      "updated_at": "2019-07-30T07:40:22Z"
+    },
+    {
+      "id": "movie-40372",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Вашингтонская история",
+      "title_orig": "Vashingtonskaya istoriya",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1962,
+      "kinopoisk_id": "991927",
+      "imdb_id": "tt5858244",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-30T05:45:24Z",
+      "updated_at": "2019-07-30T05:45:24Z"
+    },
+    {
+      "id": "movie-40373",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Академик из Аскании",
+      "title_orig": "Akademik iz Askanii",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1962,
+      "kinopoisk_id": "43435",
+      "imdb_id": "tt0350508",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-30T05:34:48Z",
+      "updated_at": "2019-07-30T05:34:48Z"
+    },
+    {
       "id": "movie-40359",
       "type": "russian-movie",
       "link": "",
@@ -1847,226 +2075,6 @@
       "blocked_countries": [],
       "created_at": "2019-07-24T06:48:12Z",
       "updated_at": "2019-07-24T06:48:12Z"
-    },
-    {
-      "id": "movie-40149",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Дикий мед",
-      "title_orig": "Dikiy myod",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1967,
-      "kinopoisk_id": "44202",
-      "imdb_id": "tt0060309",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-24T06:45:48Z",
-      "updated_at": "2019-07-24T06:45:48Z"
-    },
-    {
-      "id": "movie-40151",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Лада из страны берендеев",
-      "title_orig": "Lada iz strany berendeev",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1971,
-      "kinopoisk_id": "652636",
-      "imdb_id": "tt4887608",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-24T06:42:41Z",
-      "updated_at": "2019-07-24T06:42:41Z"
-    },
-    {
-      "id": "movie-40121",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Хон Гиль-дон",
-      "title_orig": "Hong Gil-dong",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 1986,
-      "kinopoisk_id": "63998",
-      "imdb_id": "tt0254387",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-24T06:27:06Z",
-      "updated_at": "2019-07-24T06:27:06Z"
-    },
-    {
-      "id": "movie-40122",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Конец старой Березовки",
-      "title_orig": "Konets staroy Beryozovki",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1961,
-      "kinopoisk_id": "451305",
-      "imdb_id": "tt2921084",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-24T06:26:02Z",
-      "updated_at": "2019-07-24T06:26:02Z"
-    },
-    {
-      "id": "movie-40124",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Полковник в отставке",
-      "title_orig": "Polkovnik v otstavke",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1977,
-      "kinopoisk_id": "43100",
-      "imdb_id": "tt0155030",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-24T06:19:57Z",
-      "updated_at": "2019-07-24T06:19:57Z"
-    },
-    {
-      "id": "movie-40125",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Спасите наши души",
-      "title_orig": "Spasite nashi dushi",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1960,
-      "kinopoisk_id": "481050",
-      "imdb_id": "tt4976580",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-24T06:18:25Z",
-      "updated_at": "2019-07-24T06:18:25Z"
-    },
-    {
-      "id": "movie-40126",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Так рождается песня",
-      "title_orig": "Tak rozhdaetsya pesnya",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1957,
-      "kinopoisk_id": "547947",
-      "imdb_id": "tt1657440",
-      "quality": "VHSRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-24T06:17:32Z",
-      "updated_at": "2019-07-24T06:17:32Z"
-    },
-    {
-      "id": "movie-40127",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Короткие встречи",
-      "title_orig": "Korotkie vstrechi",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1968,
-      "kinopoisk_id": "44934",
-      "imdb_id": "tt0061883",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-24T06:16:56Z",
-      "updated_at": "2019-07-24T06:16:56Z"
-    },
-    {
-      "id": "movie-40128",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Кровь за кровь",
-      "title_orig": "Krov za krov",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1991,
-      "kinopoisk_id": "44989",
-      "imdb_id": "tt0102238",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-24T06:16:12Z",
-      "updated_at": "2019-07-24T06:16:12Z"
-    },
-    {
-      "id": "movie-40130",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Сероманец",
-      "title_orig": "Seromanets",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1989,
-      "kinopoisk_id": "664615",
-      "imdb_id": "tt2942760",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-24T06:14:31Z",
-      "updated_at": "2019-07-24T06:14:31Z"
-    },
-    {
-      "id": "movie-40131",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Кровь людская – не водица",
-      "title_orig": "Krov lyudskaya: ne voditsa",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1960,
-      "kinopoisk_id": "474737",
-      "imdb_id": "tt4974288",
-      "quality": "VHSRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-24T06:13:44Z",
-      "updated_at": "2019-07-24T06:13:44Z"
     }
   ]
 }

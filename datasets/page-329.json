@@ -1,6 +1,232 @@
 {
   "results": [
     {
+      "id": "movie-13255",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Оттепель",
+      "title_orig": "The Thaw",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2009,
+      "kinopoisk_id": "418113",
+      "imdb_id": "tt1235448",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-02-07T21:45:51Z",
+      "updated_at": "2016-09-20T17:51:55Z"
+    },
+    {
+      "id": "movie-449",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Дубликаты",
+      "title_orig": "In Their Skin",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "575191",
+      "imdb_id": "tt1790869",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2014-07-09T21:06:29Z",
+      "updated_at": "2016-09-20T12:28:08Z"
+    },
+    {
+      "id": "movie-8229",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Бахубали",
+      "title_orig": "Bahubali: The Beginning",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "731343",
+      "imdb_id": "tt2631186",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [
+        "RU"
+      ],
+      "created_at": "2016-01-06T18:57:00Z",
+      "updated_at": "2016-09-19T20:51:27Z"
+    },
+    {
+      "id": "movie-8403",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Изгнанник",
+      "title_orig": "Ejecta",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "686796",
+      "imdb_id": "tt2176722",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-02-11T19:17:29Z",
+      "updated_at": "2016-09-19T18:55:23Z"
+    },
+    {
+      "id": "serial-43",
+      "type": "multi-part-film",
+      "link": "",
+      "title": "Тот самый Мюнхгаузен",
+      "title_orig": "Тот самый Мюнхгаузен",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1979,
+      "last_season": 1,
+      "last_episode": 2,
+      "episodes_count": 2,
+      "kinopoisk_id": "77283",
+      "imdb_id": "tt0080037",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2014-10-14T20:56:07Z",
+      "updated_at": "2016-09-18T19:46:48Z"
+    },
+    {
+      "id": "movie-10189",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Жизнь-Женщина",
+      "title_orig": "Жизнь-Женщина",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1991,
+      "kinopoisk_id": "397164",
+      "imdb_id": "tt0202159",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-09-17T07:16:09Z",
+      "updated_at": "2016-09-17T07:16:09Z"
+    },
+    {
+      "id": "movie-13289",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Воины Эллады",
+      "title_orig": "Hellhounds",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2009,
+      "kinopoisk_id": "430576",
+      "imdb_id": "tt1305800",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-02-07T21:46:02Z",
+      "updated_at": "2016-09-16T19:46:39Z"
+    },
+    {
+      "id": "movie-8592",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Ниндзя: Шаг в неизвестность",
+      "title_orig": "Ninja Immovable Heart",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "792878",
+      "imdb_id": "tt3030970",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-03-30T16:38:46Z",
+      "updated_at": "2016-09-16T19:41:56Z"
+    },
+    {
+      "id": "movie-7773",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Округ свиней",
+      "title_orig": "Berkshire County",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "743064",
+      "imdb_id": "tt2726270",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-10-29T13:55:51Z",
+      "updated_at": "2016-09-16T19:12:50Z"
+    },
+    {
+      "id": "movie-13280",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Отверженные",
+      "title_orig": "Fong juk",
+      "translation": {
+        "id": 598,
+        "title": "Сербин",
+        "type": "voice"
+      },
+      "year": 2006,
+      "kinopoisk_id": "259894",
+      "imdb_id": "tt0796212",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-02-07T21:45:59Z",
+      "updated_at": "2016-09-16T17:19:20Z"
+    },
+    {
+      "id": "movie-13292",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Ледяная дрожь",
+      "title_orig": "Ice Quake",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2010,
+      "kinopoisk_id": "522784",
+      "imdb_id": "tt1657284",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-02-07T21:46:04Z",
+      "updated_at": "2016-09-15T15:53:41Z"
+    },
+    {
       "id": "movie-13298",
       "type": "foreign-movie",
       "link": "",
@@ -1828,237 +2054,6 @@
       "blocked_countries": [],
       "created_at": "2017-02-07T21:47:30Z",
       "updated_at": "2016-08-22T18:17:14Z"
-    },
-    {
-      "id": "movie-13594",
-      "type": "anime",
-      "link": "",
-      "title": "Истории ран",
-      "title_orig": "Kizumonogatari",
-      "other_title": "Истории ран. Часть 1: Железная кровь / Kizumonogatari: I Tekketsu-hen",
-      "translation": {
-        "id": 827,
-        "title": "Persona99",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "762022",
-      "imdb_id": "tt3138698",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2595",
-      "shikimori_id": "31757",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-07T21:47:34Z",
-      "updated_at": "2016-08-19T15:46:33Z"
-    },
-    {
-      "id": "movie-8255",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Садо",
-      "title_orig": "Sado",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "856417",
-      "imdb_id": "tt4010918",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-01-12T20:10:39Z",
-      "updated_at": "2016-08-19T15:34:41Z"
-    },
-    {
-      "id": "serial-2815",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Когда плачут цикады",
-      "title_orig": "Higurashi no Naku Koro ni: When They Cry",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "1039398",
-      "imdb_id": "tt5757082",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2016-08-19T05:50:20Z",
-      "updated_at": "2016-08-19T08:29:21Z"
-    },
-    {
-      "id": "serial-2814",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Тут",
-      "title_orig": "Tut",
-      "translation": {
-        "id": 753,
-        "title": "Jaskier",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 1,
-      "last_episode": 3,
-      "episodes_count": 3,
-      "kinopoisk_id": "842682",
-      "imdb_id": "tt3214310",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2016-08-18T11:50:06Z",
-      "updated_at": "2016-08-19T06:44:12Z"
-    },
-    {
-      "id": "movie-13608",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Ледяной цветок",
-      "title_orig": "Ssang-hwa-jeom",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2008,
-      "kinopoisk_id": "437392",
-      "imdb_id": "tt1155053",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-07T21:47:40Z",
-      "updated_at": "2016-08-18T16:45:04Z"
-    },
-    {
-      "id": "movie-13609",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Куб",
-      "title_orig": "Cube",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 1997,
-      "kinopoisk_id": "20590",
-      "imdb_id": "tt0123755",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-07T21:47:40Z",
-      "updated_at": "2016-08-18T16:43:31Z"
-    },
-    {
-      "id": "movie-9743",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Смертельное напряжение",
-      "title_orig": "Deadly Voltage",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "893634",
-      "imdb_id": "tt4477106",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-08-25T20:58:46Z",
-      "updated_at": "2016-08-18T07:05:52Z"
-    },
-    {
-      "id": "movie-9718",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Маленький помощник Санты",
-      "title_orig": "Santa's Little Helper",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "899465",
-      "imdb_id": "tt4592572",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-08-18T06:03:02Z",
-      "updated_at": "2016-08-18T05:01:01Z"
-    },
-    {
-      "id": "movie-13614",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Новая полицейская история",
-      "title_orig": "San ging chat goo si",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 2004,
-      "kinopoisk_id": "77445",
-      "imdb_id": "tt0386005",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-07T21:47:42Z",
-      "updated_at": "2016-08-17T19:34:44Z"
-    },
-    {
-      "id": "movie-13617",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Онг бак 2: Непревзойденный",
-      "title_orig": "Ong-bak 2",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2008,
-      "kinopoisk_id": "259352",
-      "imdb_id": "tt0785035",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-07T21:47:43Z",
-      "updated_at": "2016-08-17T18:59:19Z"
-    },
-    {
-      "id": "movie-13618",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Онг-Бак: Боец чести",
-      "title_orig": "Ong-bak",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2003,
-      "kinopoisk_id": "50534",
-      "imdb_id": "tt0368909",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-07T21:47:43Z",
-      "updated_at": "2016-08-17T18:57:45Z"
     }
   ]
 }

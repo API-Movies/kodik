@@ -1,6 +1,244 @@
 {
   "results": [
     {
+      "id": "movie-31309",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мы здесь больше не живем",
+      "title_orig": "We Don't Live Here Anymore",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1098540",
+      "imdb_id": "tt7493274",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-25T08:57:25Z",
+      "updated_at": "2019-01-26T00:32:44Z"
+    },
+    {
+      "id": "movie-31310",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Слияние",
+      "title_orig": "The Merger",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1131965",
+      "imdb_id": "tt7891470",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-25T08:58:04Z",
+      "updated_at": "2019-01-26T00:31:28Z"
+    },
+    {
+      "id": "serial-14399",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Клуб Воронов",
+      "title_orig": "Club de Cuervos",
+      "translation": {
+        "id": 725,
+        "title": "ViruseProject",
+        "type": "voice"
+      },
+      "year": 2015,
+      "last_season": 3,
+      "last_episode": 10,
+      "episodes_count": 33,
+      "kinopoisk_id": "930480",
+      "imdb_id": "tt4680240",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-01-24T04:53:20Z",
+      "updated_at": "2019-01-25T16:11:39Z"
+    },
+    {
+      "id": "serial-13460",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Бойфренд",
+      "title_orig": "Namjachingu",
+      "other_title": "Encounter / Boyfriend",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "1171932",
+      "imdb_id": "tt8769260",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-11-29T10:30:24Z",
+      "updated_at": "2019-01-25T12:11:56Z"
+    },
+    {
+      "id": "serial-14411",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Будет ли снег на Рождество?",
+      "title_orig": "Keuriseumaseue nuni olkkayo?",
+      "other_title": "Will it Snow at Christmas / Will It Snow for Christmas?",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2009,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "740388",
+      "imdb_id": "tt2720634",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-01-24T14:39:22Z",
+      "updated_at": "2019-01-25T09:18:59Z"
+    },
+    {
+      "id": "movie-31304",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Эль Потро, рождённый любить",
+      "title_orig": "El Potro, lo mejor del amor",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1200243",
+      "imdb_id": "tt9062342",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-25T06:49:04Z",
+      "updated_at": "2019-01-25T06:49:04Z"
+    },
+    {
+      "id": "movie-31231",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Предел спящей красавицы",
+      "title_orig": "Rimitto obu suripingu byuti",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1048274",
+      "imdb_id": "tt7112158",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-24T15:29:52Z",
+      "updated_at": "2019-01-25T06:36:32Z"
+    },
+    {
+      "id": "movie-31285",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Ромина",
+      "title_orig": "Romina",
+      "translation": {
+        "id": 861,
+        "title": "LakeFilms",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1027401",
+      "imdb_id": "tt6090044",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-25T06:09:41Z",
+      "updated_at": "2019-01-25T06:09:41Z"
+    },
+    {
+      "id": "movie-24382",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Октябрь",
+      "title_orig": "October",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1108601",
+      "imdb_id": "tt7700730",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-06-19T09:59:48Z",
+      "updated_at": "2019-01-24T23:30:03Z"
+    },
+    {
+      "id": "serial-14047",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Вверх тормашками",
+      "title_orig": "Flipped",
+      "other_title": "Как мило, когда ты нравишься / Переверни мой мир / Xi Huan Ni Shi Feng Hao Tian",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 24,
+      "imdb_id": "tt9511462",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-01-13T09:35:29Z",
+      "updated_at": "2019-01-24T18:23:28Z"
+    },
+    {
+      "id": "movie-31236",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Лео и легенда",
+      "title_orig": "La leyenda de la Nahuala",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2007,
+      "kinopoisk_id": "281346",
+      "imdb_id": "tt1003009",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-24T14:37:19Z",
+      "updated_at": "2019-01-24T14:37:19Z"
+    },
+    {
       "id": "movie-31095",
       "type": "foreign-movie",
       "link": "",
@@ -1908,235 +2146,6 @@
       "blocked_countries": [],
       "created_at": "2019-01-14T08:38:55Z",
       "updated_at": "2019-01-14T08:38:55Z"
-    },
-    {
-      "id": "movie-30819",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Бомбардировка",
-      "title_orig": "Da hong zha",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "916016",
-      "imdb_id": "tt4743226",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-14T07:59:10Z",
-      "updated_at": "2019-01-14T07:59:10Z"
-    },
-    {
-      "id": "movie-30821",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Зеленые бабочки",
-      "title_orig": "Mariposas Verdes",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1048180",
-      "imdb_id": "tt6962260",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-14T07:56:38Z",
-      "updated_at": "2019-01-14T07:56:38Z"
-    },
-    {
-      "id": "movie-30822",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Я тебя вижу",
-      "title_orig": "Kita kita",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1047609",
-      "imdb_id": "tt6608138",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-14T07:55:12Z",
-      "updated_at": "2019-01-14T07:55:12Z"
-    },
-    {
-      "id": "movie-30797",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Отверженные",
-      "title_orig": "Rechazados",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1113513",
-      "imdb_id": "tt7938492",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-14T07:45:31Z",
-      "updated_at": "2019-01-14T07:45:31Z"
-    },
-    {
-      "id": "movie-30803",
-      "type": "anime",
-      "link": "",
-      "title": "Годзилла: Пожирающий планету",
-      "title_orig": "Gojira: hoshi wo kû mono",
-      "other_title": "Годзилла: Пожиратель звёзд / Godzilla: hoshi wo ku mono",
-      "translation": {
-        "id": 819,
-        "title": "AlphaProject",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1159403",
-      "imdb_id": "tt8478602",
-      "shikimori_id": "37897",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-14T07:40:54Z",
-      "updated_at": "2019-01-14T07:40:54Z"
-    },
-    {
-      "id": "movie-30791",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Неприятности Тефа",
-      "title_orig": "Teefa in Trouble",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1118210",
-      "imdb_id": "tt8043306",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-13T18:29:03Z",
-      "updated_at": "2019-01-14T07:39:33Z"
-    },
-    {
-      "id": "movie-30800",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Гимн подростка-провидца",
-      "title_orig": "Anthem of a Teenage Prophet",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1003660",
-      "imdb_id": "tt6054710",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-14T07:15:02Z",
-      "updated_at": "2019-01-14T07:15:02Z"
-    },
-    {
-      "id": "serial-14076",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Кошмарный учитель",
-      "title_orig": "Akmong sunsaeng",
-      "other_title": "Полуночный учитель / Nightmare Teacher / Agmong Seonsaeng / Nighmare High",
-      "translation": {
-        "id": 725,
-        "title": "ViruseProject",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1042613",
-      "imdb_id": "tt6209442",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-01-14T05:40:58Z",
-      "updated_at": "2019-01-14T05:40:58Z"
-    },
-    {
-      "id": "serial-14050",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Пинкертоны",
-      "title_orig": "The Pinkertons",
-      "translation": {
-        "id": 725,
-        "title": "ViruseProject",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 22,
-      "episodes_count": 22,
-      "kinopoisk_id": "893797",
-      "imdb_id": "tt4089276",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-01-13T12:30:37Z",
-      "updated_at": "2019-01-13T12:30:37Z"
-    },
-    {
-      "id": "movie-30784",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "То, что называется любовью",
-      "title_orig": "Sing lek lek tee reak wa rak",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2010,
-      "kinopoisk_id": "584095",
-      "imdb_id": "tt1859438",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-13T10:14:37Z",
-      "updated_at": "2019-01-13T10:14:37Z"
-    },
-    {
-      "id": "movie-30776",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Судьба",
-      "title_orig": "Destiny",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2018,
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-12T18:59:03Z",
-      "updated_at": "2019-01-12T18:59:03Z"
     }
   ]
 }

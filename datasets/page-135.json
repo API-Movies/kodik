@@ -1,6 +1,250 @@
 {
   "results": [
     {
+      "id": "movie-51637",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Страсть",
+      "title_orig": "Ishq",
+      "translation": {
+        "id": 764,
+        "title": "Red Media",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "671743",
+      "imdb_id": "tt2265381",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-13T15:25:40Z",
+      "updated_at": "2020-03-13T15:25:40Z"
+    },
+    {
+      "id": "movie-51638",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Убийство",
+      "title_orig": "Hatya: The Murder",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2004,
+      "kinopoisk_id": "208077",
+      "imdb_id": "tt0432536",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-13T15:23:22Z",
+      "updated_at": "2020-03-13T15:23:22Z"
+    },
+    {
+      "id": "movie-51639",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Гангстер",
+      "title_orig": "Gangster",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 1994,
+      "kinopoisk_id": "63249",
+      "imdb_id": "tt0275364",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-13T15:22:22Z",
+      "updated_at": "2020-03-13T15:22:22Z"
+    },
+    {
+      "id": "movie-51640",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Еще одна связь",
+      "title_orig": "Ek Naya Rishta",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 1988,
+      "kinopoisk_id": "85090",
+      "imdb_id": "tt0249492",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-13T15:21:23Z",
+      "updated_at": "2020-03-13T15:21:23Z"
+    },
+    {
+      "id": "serial-20793",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Фауда",
+      "title_orig": "Fauda",
+      "translation": {
+        "id": 920,
+        "title": "Octopus",
+        "type": "voice"
+      },
+      "year": 2015,
+      "last_season": 3,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "893155",
+      "imdb_id": "tt4565380",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-06-03T12:08:04Z",
+      "updated_at": "2020-03-13T14:07:22Z"
+    },
+    {
+      "id": "serial-23624",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Белый крест [ТВ]",
+      "title_orig": "Weiss Kreuz",
+      "other_title": "Knight Hunters",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 1998,
+      "last_season": 1,
+      "last_episode": 25,
+      "episodes_count": 25,
+      "kinopoisk_id": "674054",
+      "imdb_id": "tt0192943",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=818",
+      "shikimori_id": "447",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-03-13T13:55:02Z",
+      "updated_at": "2020-03-13T13:55:02Z"
+    },
+    {
+      "id": "serial-23623",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Поцелуй сестер",
+      "title_orig": "KissXsis (2010)",
+      "other_title": "Поцелуй Икс ТВ / Kiss x sis",
+      "translation": {
+        "id": 651,
+        "title": "Люб. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2010,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "520536",
+      "imdb_id": "tt1634209",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7764",
+      "shikimori_id": "7593",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-03-13T13:52:41Z",
+      "updated_at": "2020-03-13T13:52:41Z"
+    },
+    {
+      "id": "movie-51612",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Картинг",
+      "title_orig": "Go Karts!",
+      "translation": {
+        "id": 892,
+        "title": "Пифагор",
+        "type": "voice"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1131338",
+      "imdb_id": "tt8116640",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-13T13:27:32Z",
+      "updated_at": "2020-03-13T13:27:32Z"
+    },
+    {
+      "id": "movie-51611",
+      "type": "anime",
+      "link": "",
+      "title": "Жизнь Будори Гуско",
+      "title_orig": "Gusukô Budori no denki",
+      "other_title": "Жизнь Гуско Будори (2012)",
+      "translation": {
+        "id": 999,
+        "title": "OpenDub",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "680786",
+      "imdb_id": "tt2391821",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1891",
+      "shikimori_id": "13215",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-13T12:49:14Z",
+      "updated_at": "2020-03-13T12:49:14Z"
+    },
+    {
+      "id": "movie-51610",
+      "type": "anime",
+      "link": "",
+      "title": "Легенда о Белой Змее",
+      "title_orig": "Hakujaden",
+      "other_title": "Panda and the Magic Serpent",
+      "translation": {
+        "id": 1208,
+        "title": "O_ART",
+        "type": "voice"
+      },
+      "year": 1958,
+      "kinopoisk_id": "156751",
+      "imdb_id": "tt0051694",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=597",
+      "shikimori_id": "4513",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-13T12:46:01Z",
+      "updated_at": "2020-03-13T12:46:01Z"
+    },
+    {
+      "id": "movie-51589",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Меч воина",
+      "title_orig": "Cheongpung myeongwol",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2003,
+      "kinopoisk_id": "65805",
+      "imdb_id": "tt0370402",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-13T12:28:19Z",
+      "updated_at": "2020-03-13T12:28:19Z"
+    },
+    {
       "id": "movie-51601",
       "type": "foreign-movie",
       "link": "",
@@ -1960,231 +2204,6 @@
       "blocked_countries": [],
       "created_at": "2020-03-12T13:12:39Z",
       "updated_at": "2020-03-12T13:12:39Z"
-    },
-    {
-      "id": "movie-51504",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Тайна",
-      "title_orig": "Raaz",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2002,
-      "kinopoisk_id": "69415",
-      "imdb_id": "tt0307873",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-12T13:08:25Z",
-      "updated_at": "2020-03-12T13:08:25Z"
-    },
-    {
-      "id": "movie-51505",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Тотальное веселье",
-      "title_orig": "Total Dhamaal",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1133156",
-      "imdb_id": "tt7639372",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-12T13:07:40Z",
-      "updated_at": "2020-03-12T13:07:40Z"
-    },
-    {
-      "id": "movie-51506",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Заговор",
-      "title_orig": "Saazish",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1988,
-      "kinopoisk_id": "200935",
-      "imdb_id": "tt0232564",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-12T13:06:49Z",
-      "updated_at": "2020-03-12T13:06:49Z"
-    },
-    {
-      "id": "movie-51449",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Лаки. Не время для любви",
-      "title_orig": "Lucky: No Time for Love",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2005,
-      "kinopoisk_id": "105328",
-      "imdb_id": "tt0449306",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-12T12:39:16Z",
-      "updated_at": "2020-03-12T12:39:16Z"
-    },
-    {
-      "id": "movie-51451",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Овца без пастуха",
-      "title_orig": "Wu sha",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1318030",
-      "imdb_id": "tt11210032",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-12T12:37:57Z",
-      "updated_at": "2020-03-12T12:37:57Z"
-    },
-    {
-      "id": "movie-51455",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Необитаемый",
-      "title_orig": "Uninhabited",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2010,
-      "kinopoisk_id": "503144",
-      "imdb_id": "tt1459013",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-12T12:29:54Z",
-      "updated_at": "2020-03-12T12:29:54Z"
-    },
-    {
-      "id": "movie-51462",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Воющий",
-      "title_orig": "Haulling",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2012,
-      "kinopoisk_id": "661829",
-      "imdb_id": "tt2186819",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-12T12:19:29Z",
-      "updated_at": "2020-03-12T12:19:29Z"
-    },
-    {
-      "id": "movie-51461",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Воющий",
-      "title_orig": "Haulling",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2012,
-      "kinopoisk_id": "661829",
-      "imdb_id": "tt2186819",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-12T12:18:40Z",
-      "updated_at": "2020-03-12T12:18:40Z"
-    },
-    {
-      "id": "movie-51442",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Доблесть на реке",
-      "title_orig": "Da guo chang jiang qu: Towards the river of glorious",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1315351",
-      "imdb_id": "tt11138294",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-12T11:38:00Z",
-      "updated_at": "2020-03-12T11:38:00Z"
-    },
-    {
-      "id": "serial-21428",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Игра на деньги",
-      "title_orig": "Meonigeim",
-      "other_title": "Денежная игра / Игра денег / Money Game",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1261540",
-      "imdb_id": "tt11478544",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-01-18T16:21:59Z",
-      "updated_at": "2020-03-11T22:46:07Z"
-    },
-    {
-      "id": "movie-51422",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Девочка из города",
-      "title_orig": "Devochka iz goroda",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1986,
-      "kinopoisk_id": "44175",
-      "imdb_id": "tt0262369",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-11T18:12:33Z",
-      "updated_at": "2020-03-11T18:12:33Z"
     }
   ]
 }

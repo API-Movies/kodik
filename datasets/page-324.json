@@ -1,6 +1,228 @@
 {
   "results": [
     {
+      "id": "movie-11641",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Ярость",
+      "title_orig": "Tevar",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "819534",
+      "imdb_id": "tt3398048",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-02-07T21:37:01Z",
+      "updated_at": "2017-01-27T08:24:23Z"
+    },
+    {
+      "id": "movie-6539",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Грязная политика",
+      "title_orig": "Dirty Politics",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "893282",
+      "imdb_id": "tt4501576",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-05-19T06:12:14Z",
+      "updated_at": "2017-01-27T08:21:47Z"
+    },
+    {
+      "id": "movie-11636",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Бетонные ущелья",
+      "title_orig": "Concrete Canyons",
+      "translation": {
+        "id": 724,
+        "title": "UC",
+        "type": "voice"
+      },
+      "year": 2010,
+      "kinopoisk_id": "568349",
+      "imdb_id": "tt1735181",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-02-07T21:36:59Z",
+      "updated_at": "2017-01-27T05:32:40Z"
+    },
+    {
+      "id": "movie-7447",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Пику",
+      "title_orig": "Piku",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "841134",
+      "imdb_id": "tt3767372",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-09-11T18:26:04Z",
+      "updated_at": "2017-01-25T13:02:04Z"
+    },
+    {
+      "id": "movie-11643",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Ферзь",
+      "title_orig": "Wazir",
+      "translation": {
+        "id": 651,
+        "title": "Люб. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "40513",
+      "imdb_id": "tt0315642",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-02-07T21:37:03Z",
+      "updated_at": "2017-01-25T09:56:23Z"
+    },
+    {
+      "id": "movie-7437",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Наша неполная история",
+      "title_orig": "Hamari Adhuri Kahaani",
+      "other_title": "Наша незаконченная история / Hamari Adhuri Kahani",
+      "translation": {
+        "id": 651,
+        "title": "Люб. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "821695",
+      "imdb_id": "tt3483612",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-09-11T10:56:35Z",
+      "updated_at": "2017-01-25T07:04:32Z"
+    },
+    {
+      "id": "movie-7550",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Класс убийц",
+      "title_orig": "Ansatsu kyoshitsu",
+      "other_title": "Assassination Classroom",
+      "translation": {
+        "id": 651,
+        "title": "Люб. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "855469",
+      "imdb_id": "tt3853452",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-09-29T01:08:14Z",
+      "updated_at": "2017-01-25T07:03:12Z"
+    },
+    {
+      "id": "movie-7593",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Озорники",
+      "title_orig": "Hellions",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "808287",
+      "imdb_id": "tt3305844",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-10-02T21:18:53Z",
+      "updated_at": "2017-01-25T07:02:02Z"
+    },
+    {
+      "id": "movie-7649",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Северная пограничная линия",
+      "title_orig": "N.L.L: Yeonpyeong Haejeon",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "927314",
+      "imdb_id": "tt4696222",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-10-08T01:08:38Z",
+      "updated_at": "2017-01-25T06:56:18Z"
+    },
+    {
+      "id": "movie-7509",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Игра Джокера",
+      "title_orig": "Joker Game",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "819400",
+      "imdb_id": "tt3446906",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-09-19T17:25:14Z",
+      "updated_at": "2017-01-25T06:55:06Z"
+    },
+    {
+      "id": "movie-9695",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Пусть сердце бьётся",
+      "title_orig": "Dil Dhadakne Do",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "847042",
+      "imdb_id": "tt4110568",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-08-15T05:43:24Z",
+      "updated_at": "2017-01-25T06:52:42Z"
+    },
+    {
       "id": "movie-7617",
       "type": "foreign-movie",
       "link": "",
@@ -1838,226 +2060,6 @@
       "blocked_countries": [],
       "created_at": "2016-01-02T07:27:16Z",
       "updated_at": "2017-01-12T06:04:07Z"
-    },
-    {
-      "id": "movie-8272",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Взаимное притяжение",
-      "title_orig": "Jazbaa",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "885405",
-      "imdb_id": "tt4323504",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-01-14T20:29:12Z",
-      "updated_at": "2017-01-11T10:31:06Z"
-    },
-    {
-      "id": "movie-11875",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Неуловимый Прем",
-      "title_orig": "Prem Ratan Dhan Payo",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "839147",
-      "imdb_id": "tt3595298",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-07T21:38:14Z",
-      "updated_at": "2017-01-11T10:22:10Z"
-    },
-    {
-      "id": "movie-8448",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Влюблённые",
-      "title_orig": "Dilwale",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "893491",
-      "imdb_id": "tt4535650",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-02-20T19:26:16Z",
-      "updated_at": "2017-01-11T09:59:48Z"
-    },
-    {
-      "id": "movie-8226",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Мина начинает тикать",
-      "title_orig": "Landmine Goes Click",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "689383",
-      "imdb_id": "tt2186848",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-01-06T18:49:53Z",
-      "updated_at": "2017-01-11T09:54:15Z"
-    },
-    {
-      "id": "movie-8247",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Бангистан",
-      "title_orig": "Bangistan",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "819423",
-      "imdb_id": "tt3422462",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-01-11T18:09:30Z",
-      "updated_at": "2017-01-11T09:51:34Z"
-    },
-    {
-      "id": "movie-7610",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Сын Сатьямурти",
-      "title_orig": "S/O Satyamurthy",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "900020",
-      "imdb_id": "tt4596814",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-10-05T18:30:06Z",
-      "updated_at": "2017-01-11T09:43:52Z"
-    },
-    {
-      "id": "movie-8347",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Лебедь из Синдзюку",
-      "title_orig": "Shinjuku suwan",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "862786",
-      "imdb_id": "tt3148576",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-01-30T22:12:21Z",
-      "updated_at": "2017-01-11T09:42:48Z"
-    },
-    {
-      "id": "movie-9538",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Без Ладена 2",
-      "title_orig": "Tere Bin Laden Dead or Alive",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "957499",
-      "imdb_id": "tt5313980",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-07-25T20:09:11Z",
-      "updated_at": "2017-01-11T06:55:03Z"
-    },
-    {
-      "id": "movie-11289",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Эндорфин",
-      "title_orig": "Endorphine",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "888148",
-      "imdb_id": "tt4247428",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-01-10T18:52:01Z",
-      "updated_at": "2017-01-11T06:49:38Z"
-    },
-    {
-      "id": "movie-11291",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Мать",
-      "title_orig": "Madeo",
-      "translation": {
-        "id": 816,
-        "title": "Одноголосый",
-        "type": "voice"
-      },
-      "year": 2009,
-      "kinopoisk_id": "410597",
-      "imdb_id": "tt1216496",
-      "quality": "HDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-01-10T21:58:30Z",
-      "updated_at": "2017-01-10T21:58:30Z"
-    },
-    {
-      "id": "movie-11115",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Дела сердечные",
-      "title_orig": "Ae Dil Hai Mushkil",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "894431",
-      "imdb_id": "tt4559006",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-12-20T16:40:28Z",
-      "updated_at": "2017-01-10T11:53:02Z"
     }
   ]
 }

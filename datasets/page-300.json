@@ -1,6 +1,230 @@
 {
   "results": [
     {
+      "id": "movie-25280",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Эзоп",
+      "title_orig": "Esop",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1981,
+      "kinopoisk_id": "331713",
+      "imdb_id": "tt0303973",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-27T06:04:32Z",
+      "updated_at": "2018-07-27T06:04:32Z"
+    },
+    {
+      "id": "movie-25266",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Праздные мысли",
+      "title_orig": "Idle Thoughts",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1031027",
+      "imdb_id": "tt6032718",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-26T22:57:03Z",
+      "updated_at": "2018-07-27T06:04:19Z"
+    },
+    {
+      "id": "movie-25283",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Солнце неспящих",
+      "title_orig": "Udzinarta mze",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 1992,
+      "kinopoisk_id": "213515",
+      "imdb_id": "tt0108429",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-27T05:43:09Z",
+      "updated_at": "2018-07-27T05:43:09Z"
+    },
+    {
+      "id": "movie-25270",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Когда наступает сентябрь...",
+      "title_orig": "Kogda nastupaet sentyabr",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1976,
+      "kinopoisk_id": "44842",
+      "imdb_id": "tt0073251",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-27T05:40:16Z",
+      "updated_at": "2018-07-27T05:40:16Z"
+    },
+    {
+      "id": "serial-11783",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Быть Эрикой",
+      "title_orig": "Being Erica",
+      "translation": {
+        "id": 711,
+        "title": "ТВ3",
+        "type": "voice"
+      },
+      "year": 2009,
+      "last_season": 2,
+      "last_episode": 12,
+      "episodes_count": 25,
+      "kinopoisk_id": "400995",
+      "imdb_id": "tt1149608",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-07-22T08:26:29Z",
+      "updated_at": "2018-07-26T10:19:49Z"
+    },
+    {
+      "id": "movie-25249",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Вертикаль",
+      "title_orig": "Вертикаль",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1967,
+      "kinopoisk_id": "45733",
+      "imdb_id": "tt0182512",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-26T06:39:59Z",
+      "updated_at": "2018-07-26T06:39:59Z"
+    },
+    {
+      "id": "movie-25251",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Мама вышла замуж",
+      "title_orig": "Mama vyshla zamuzh",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1970,
+      "kinopoisk_id": "46524",
+      "imdb_id": "tt0064628",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-26T06:37:17Z",
+      "updated_at": "2018-07-26T06:37:17Z"
+    },
+    {
+      "id": "movie-25262",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Без утешения",
+      "title_orig": "Lost Solace",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "847352",
+      "imdb_id": "tt4010848",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-26T05:44:00Z",
+      "updated_at": "2018-07-26T05:44:00Z"
+    },
+    {
+      "id": "movie-25243",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Невеста с Севера",
+      "title_orig": "Harsnatsun hyusisits",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1975,
+      "kinopoisk_id": "95349",
+      "imdb_id": "tt0359384",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-26T05:22:36Z",
+      "updated_at": "2018-07-26T05:22:36Z"
+    },
+    {
+      "id": "movie-25244",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Шумный день",
+      "title_orig": "Shumnyy den",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1961,
+      "kinopoisk_id": "43772",
+      "imdb_id": "tt0054303",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-26T05:21:16Z",
+      "updated_at": "2018-07-26T05:21:16Z"
+    },
+    {
+      "id": "movie-25247",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Увольнение на берег",
+      "title_orig": "Uvolnenie na bereg",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1962,
+      "kinopoisk_id": "42548",
+      "imdb_id": "tt0314826",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-26T05:08:02Z",
+      "updated_at": "2018-07-26T05:08:02Z"
+    },
+    {
       "id": "movie-25234",
       "type": "foreign-movie",
       "link": "",
@@ -1970,240 +2194,6 @@
       "blocked_countries": [],
       "created_at": "2018-07-09T11:59:35Z",
       "updated_at": "2018-07-09T11:59:35Z"
-    },
-    {
-      "id": "movie-24904",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Легенда о Сурамской крепости",
-      "title_orig": "Ambavi Suramis tsikhitsa",
-      "translation": {
-        "id": 786,
-        "title": "Проф. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1986,
-      "kinopoisk_id": "43477",
-      "imdb_id": "tt0087606",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-07-09T11:53:03Z",
-      "updated_at": "2018-07-09T11:53:03Z"
-    },
-    {
-      "id": "movie-24905",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Ашик-Кериб",
-      "title_orig": "Ashug-Karibi",
-      "translation": {
-        "id": 786,
-        "title": "Проф. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1988,
-      "kinopoisk_id": "7659",
-      "imdb_id": "tt0094681",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-07-09T11:45:21Z",
-      "updated_at": "2018-07-09T11:45:21Z"
-    },
-    {
-      "id": "movie-24892",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Месть падчерицы",
-      "title_orig": "A Daughter's Revenge",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1097974",
-      "imdb_id": "tt7561776",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-07-09T07:54:09Z",
-      "updated_at": "2018-07-09T07:54:09Z"
-    },
-    {
-      "id": "movie-24893",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Абаджан",
-      "title_orig": "Aba jan",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1045574",
-      "imdb_id": "tt6213822",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-07-09T07:49:30Z",
-      "updated_at": "2018-07-09T07:49:30Z"
-    },
-    {
-      "id": "movie-24870",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Кровь, пот и ложь",
-      "title_orig": "Blood, Sweat, and Lies",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1095019",
-      "imdb_id": "tt6871186",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-07-09T02:59:44Z",
-      "updated_at": "2018-07-09T07:47:22Z"
-    },
-    {
-      "id": "movie-24862",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Чемпион",
-      "title_orig": "Chaempieon",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1048511",
-      "imdb_id": "tt8367080",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-07-07T22:42:17Z",
-      "updated_at": "2018-07-09T07:45:25Z"
-    },
-    {
-      "id": "movie-24872",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Девочки на льду",
-      "title_orig": "Ice Girls",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "944682",
-      "imdb_id": "tt5198570",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-07-09T03:01:10Z",
-      "updated_at": "2018-07-09T07:35:27Z"
-    },
-    {
-      "id": "serial-5954",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Импульс мира [ТВ-1]",
-      "title_orig": "World Trigger",
-      "other_title": "ワールドトリガー",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 73,
-      "episodes_count": 73,
-      "kinopoisk_id": "891397",
-      "imdb_id": "tt3950102",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2375",
-      "shikimori_id": "24405",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-12T22:03:27Z",
-      "updated_at": "2018-07-09T07:30:14Z"
-    },
-    {
-      "id": "serial-2141",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Храбрые ведьмы",
-      "title_orig": "Brave Witches",
-      "other_title": "Отважные ведьмы",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1118092",
-      "imdb_id": "tt6354120",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8712",
-      "shikimori_id": "32866",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-01-11T21:30:53Z",
-      "updated_at": "2018-07-09T07:26:19Z"
-    },
-    {
-      "id": "movie-24861",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Нечего терять",
-      "title_orig": "Nada a Perder",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1079816",
-      "imdb_id": "tt6910020",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-07-07T22:40:30Z",
-      "updated_at": "2018-07-09T05:38:58Z"
-    },
-    {
-      "id": "movie-24867",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Я не сумасшедшая",
-      "title_orig": "No Estoy Loca",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "851579",
-      "imdb_id": "tt4060006",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-07-08T22:05:27Z",
-      "updated_at": "2018-07-09T05:30:14Z"
     }
   ]
 }

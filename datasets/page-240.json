@@ -1,6 +1,235 @@
 {
   "results": [
     {
+      "id": "serial-18232",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Охота",
+      "title_orig": "The Hunting",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 4,
+      "episodes_count": 4,
+      "kinopoisk_id": "1236452",
+      "imdb_id": "tt9690214",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-08-27T08:22:23Z",
+      "updated_at": "2019-09-06T07:00:41Z"
+    },
+    {
+      "id": "serial-18350",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Валькирия, принцесса с НЛО OVA-2",
+      "title_orig": "UFO Ultramaiden Valkyrie 4: Banquet of Time, Dreams, and Galaxies",
+      "other_title": "UFO Princess Valkyrie: Toki to Yume to Ginga no Utage / Неземная принцесса Валькирия",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2006,
+      "last_season": 1,
+      "last_episode": 2,
+      "episodes_count": 2,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5915",
+      "shikimori_id": "1648",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-09-06T07:00:17Z",
+      "updated_at": "2019-09-06T07:00:17Z"
+    },
+    {
+      "id": "movie-41965",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Дитя человеческое",
+      "title_orig": "Cilveka berns",
+      "translation": {
+        "id": 786,
+        "title": "Проф. Одноголосый",
+        "type": "voice"
+      },
+      "year": 1991,
+      "kinopoisk_id": "273496",
+      "imdb_id": "tt0103971",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-06T06:28:29Z",
+      "updated_at": "2019-09-06T06:28:29Z"
+    },
+    {
+      "id": "movie-41966",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Торговцы людьми",
+      "title_orig": "Gong-mo-ja-deul",
+      "translation": {
+        "id": 613,
+        "title": "DeadSno & den904",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "695647",
+      "imdb_id": "tt2308860",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-06T06:12:29Z",
+      "updated_at": "2019-09-06T06:12:29Z"
+    },
+    {
+      "id": "movie-41969",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Бунт в замке Эдо",
+      "title_orig": "Edo-jo tairan",
+      "translation": {
+        "id": 590,
+        "title": "Кузнецов",
+        "type": "voice"
+      },
+      "year": 1991,
+      "kinopoisk_id": "79299",
+      "imdb_id": "tt0202861",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-06T06:05:31Z",
+      "updated_at": "2019-09-06T06:05:31Z"
+    },
+    {
+      "id": "movie-41972",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Провинциалка",
+      "title_orig": "Provintsialka",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1969,
+      "kinopoisk_id": "487546",
+      "imdb_id": "tt5911258",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-06T05:54:32Z",
+      "updated_at": "2019-09-06T05:54:32Z"
+    },
+    {
+      "id": "movie-41976",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Лимонадный Джо, Или Конская Опера",
+      "title_orig": "Limonádový Joe aneb Konská opera",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 1964,
+      "kinopoisk_id": "52262",
+      "imdb_id": "tt0058275",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-06T05:43:18Z",
+      "updated_at": "2019-09-06T05:43:18Z"
+    },
+    {
+      "id": "movie-41979",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Вид на жительство",
+      "title_orig": "Vid na zhitelstvo",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1972,
+      "kinopoisk_id": "45767",
+      "imdb_id": "tt0332814",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-06T05:36:21Z",
+      "updated_at": "2019-09-06T05:36:21Z"
+    },
+    {
+      "id": "movie-12300",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Детектив Хон Гиль-дон: исчезнувшая деревня",
+      "title_orig": "Tamjung Hong Gil-dong: Sarajin Ma-eul",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "973341",
+      "imdb_id": "tt5644726",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-02-07T21:40:43Z",
+      "updated_at": "2019-09-06T05:32:26Z"
+    },
+    {
+      "id": "movie-41957",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Парк для медитации",
+      "title_orig": "Meditation Park",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1021550",
+      "imdb_id": "tt6400316",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-06T05:30:10Z",
+      "updated_at": "2019-09-06T05:30:10Z"
+    },
+    {
+      "id": "movie-41959",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "2040",
+      "title_orig": "2040",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1083231",
+      "imdb_id": "tt7150512",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-06T05:26:17Z",
+      "updated_at": "2019-09-06T05:26:17Z"
+    },
+    {
       "id": "movie-40863",
       "type": "foreign-movie",
       "link": "",
@@ -1897,247 +2126,6 @@
       "blocked_countries": [],
       "created_at": "2019-08-29T06:11:37Z",
       "updated_at": "2019-08-29T06:11:37Z"
-    },
-    {
-      "id": "serial-17189",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Мы не можем быть друзьями",
-      "title_orig": "Wo men bu neng shi peng you",
-      "other_title": "Прежде чем мы поженимся / Before We Get Married",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "1290991",
-      "imdb_id": "tt10727120",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-06-22T08:12:31Z",
-      "updated_at": "2019-08-28T23:48:38Z"
-    },
-    {
-      "id": "movie-41605",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Театр теней",
-      "title_orig": "Shadowplay",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1203436",
-      "imdb_id": "tt8218662",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-28T22:02:26Z",
-      "updated_at": "2019-08-28T22:02:26Z"
-    },
-    {
-      "id": "serial-17556",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Любовь в 3 часа дня",
-      "title_orig": "Pyeongil ohu sesiui yeonin",
-      "other_title": "Послеобеденный роман / Любовь в 3 часа дня / Послеполуденная любовь / Love Affairs in the Afternoon / Weekday at 3PM Lover",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1240298",
-      "imdb_id": "tt10350646",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-07-14T18:52:07Z",
-      "updated_at": "2019-08-28T21:48:39Z"
-    },
-    {
-      "id": "serial-18237",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Безрассудно влюблённые",
-      "title_orig": "Hambooro aeteuthage",
-      "other_title": "Безрассудная страсть / Uncontrollably Fond / Arbitrarily Fond / Indiscreetly Fondly / Recklessly Affectionat",
-      "translation": {
-        "id": 620,
-        "title": "GREEN TEA",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 20,
-      "episodes_count": 20,
-      "kinopoisk_id": "984320",
-      "imdb_id": "tt5764282",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-08-28T16:00:40Z",
-      "updated_at": "2019-08-28T16:00:40Z"
-    },
-    {
-      "id": "serial-18147",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Любовный сигнал",
-      "title_orig": "Johahamyeon ullineun",
-      "other_title": "Уведомление о любви / Любовная тревога / Love Alarm / Alarm for Your Crush",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 8,
-      "episodes_count": 8,
-      "kinopoisk_id": "1201746",
-      "imdb_id": "tt9145880",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-08-23T21:21:23Z",
-      "updated_at": "2019-08-28T13:11:11Z"
-    },
-    {
-      "id": "movie-41573",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Черная маска",
-      "title_orig": "Hak hap",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 1996,
-      "kinopoisk_id": "23592",
-      "imdb_id": "tt0115693",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-28T07:01:30Z",
-      "updated_at": "2019-08-28T07:01:30Z"
-    },
-    {
-      "id": "movie-41579",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Шанхайский связной",
-      "title_orig": "Leui ting jin ging",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2000,
-      "kinopoisk_id": "22615",
-      "imdb_id": "tt0266408",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-28T06:56:03Z",
-      "updated_at": "2019-08-28T06:56:03Z"
-    },
-    {
-      "id": "movie-41586",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "S.P.L. Звезды судьбы 2",
-      "title_orig": "SPL 2: A Time for Consequences",
-      "translation": {
-        "id": 583,
-        "title": "Живов",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "801951",
-      "imdb_id": "tt3197766",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-28T06:43:19Z",
-      "updated_at": "2019-08-28T06:43:19Z"
-    },
-    {
-      "id": "movie-41587",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Тетрадь смерти 3",
-      "title_orig": "L: Change the World",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2008,
-      "kinopoisk_id": "295065",
-      "imdb_id": "tt0912597",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-28T06:41:23Z",
-      "updated_at": "2019-08-28T06:41:23Z"
-    },
-    {
-      "id": "movie-41565",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Из Китая с любовью",
-      "title_orig": "Gwok chaan Ling Ling Chat",
-      "other_title": "Из Пекина с любовью",
-      "translation": {
-        "id": 583,
-        "title": "Живов",
-        "type": "voice"
-      },
-      "year": 1994,
-      "kinopoisk_id": "53096",
-      "imdb_id": "tt0109962",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-28T06:03:02Z",
-      "updated_at": "2019-08-28T06:03:02Z"
-    },
-    {
-      "id": "movie-41457",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "12 ребят, которые хотят умереть",
-      "title_orig": "Jyuni Nin no Shinitai Kodomotachi",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1209739",
-      "imdb_id": "tt9214844",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-25T19:47:19Z",
-      "updated_at": "2019-08-28T05:17:18Z"
     }
   ]
 }

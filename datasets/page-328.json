@@ -1,6 +1,230 @@
 {
   "results": [
     {
+      "id": "movie-7693",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Человек-блин",
+      "title_orig": "Jian Bing Man",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "910925",
+      "imdb_id": "tt4818250",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-10-19T03:20:35Z",
+      "updated_at": "2016-11-09T05:46:17Z"
+    },
+    {
+      "id": "serial-22784",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Доктор, доктор",
+      "title_orig": "Doctor Doctor",
+      "translation": {
+        "id": 920,
+        "title": "Octopus",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 4,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "1002656",
+      "imdb_id": "tt6015808",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2016-11-07T10:15:41Z",
+      "updated_at": "2016-11-07T10:15:41Z"
+    },
+    {
+      "id": "movie-12571",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Железный орёл 4",
+      "title_orig": "Iron Eagle IV",
+      "translation": {
+        "id": 572,
+        "title": "Визгунов",
+        "type": "voice"
+      },
+      "year": 1995,
+      "kinopoisk_id": "24235",
+      "imdb_id": "tt0113438",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-02-07T21:42:00Z",
+      "updated_at": "2016-11-07T06:24:14Z"
+    },
+    {
+      "id": "movie-591",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Бэйб: Поросенок в городе",
+      "title_orig": "Babe: Pig in the City",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 1998,
+      "kinopoisk_id": "1767",
+      "imdb_id": "tt0120595",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2014-07-15T22:17:37Z",
+      "updated_at": "2016-11-07T06:21:24Z"
+    },
+    {
+      "id": "movie-10803",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Школьный бал 2: Привет Мэри Лу",
+      "title_orig": "Hello Mary Lou: Prom Night II",
+      "translation": {
+        "id": 816,
+        "title": "Одноголосый",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "4963",
+      "imdb_id": "tt0093176",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-11-06T11:38:21Z",
+      "updated_at": "2016-11-06T11:38:21Z"
+    },
+    {
+      "id": "movie-10793",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Рустом",
+      "title_orig": "Rustom",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "968212",
+      "imdb_id": "tt5165344",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-11-05T17:49:14Z",
+      "updated_at": "2016-11-06T06:25:12Z"
+    },
+    {
+      "id": "movie-10788",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Социофобия",
+      "title_orig": "Sosyeolpobia",
+      "translation": {
+        "id": 639,
+        "title": "SoftBox",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "889243",
+      "imdb_id": "tt4203200",
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-11-04T21:48:38Z",
+      "updated_at": "2016-11-04T21:48:38Z"
+    },
+    {
+      "id": "movie-4598",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Приключения Присциллы, королевы пустыни",
+      "title_orig": "The Adventures of Priscilla, Queen of the Desert",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 1994,
+      "kinopoisk_id": "3832",
+      "imdb_id": "tt0109045",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-01-17T10:55:58Z",
+      "updated_at": "2016-11-04T07:51:48Z"
+    },
+    {
+      "id": "movie-5663",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Хронос",
+      "title_orig": "Cronos",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 1993,
+      "kinopoisk_id": "6499",
+      "imdb_id": "tt0104029",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-04-01T20:19:01Z",
+      "updated_at": "2016-11-03T05:36:18Z"
+    },
+    {
+      "id": "movie-12611",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Широкое Саргассово море",
+      "title_orig": "Wide Sargasso Sea",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 1993,
+      "kinopoisk_id": "17124",
+      "imdb_id": "tt0108565",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-02-07T21:42:13Z",
+      "updated_at": "2016-11-03T05:29:45Z"
+    },
+    {
+      "id": "movie-10753",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Воспитатель ",
+      "title_orig": "La Tutora",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "997390",
+      "imdb_id": "tt5959698",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-11-01T09:08:02Z",
+      "updated_at": "2016-11-02T14:12:55Z"
+    },
+    {
       "id": "movie-5971",
       "type": "foreign-movie",
       "link": "",
@@ -1831,232 +2055,6 @@
       "blocked_countries": [],
       "created_at": "2017-02-07T21:45:49Z",
       "updated_at": "2016-09-20T19:50:20Z"
-    },
-    {
-      "id": "movie-13255",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Оттепель",
-      "title_orig": "The Thaw",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2009,
-      "kinopoisk_id": "418113",
-      "imdb_id": "tt1235448",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-07T21:45:51Z",
-      "updated_at": "2016-09-20T17:51:55Z"
-    },
-    {
-      "id": "movie-449",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Дубликаты",
-      "title_orig": "In Their Skin",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2012,
-      "kinopoisk_id": "575191",
-      "imdb_id": "tt1790869",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2014-07-09T21:06:29Z",
-      "updated_at": "2016-09-20T12:28:08Z"
-    },
-    {
-      "id": "movie-8229",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Бахубали",
-      "title_orig": "Bahubali: The Beginning",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "731343",
-      "imdb_id": "tt2631186",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [
-        "RU"
-      ],
-      "created_at": "2016-01-06T18:57:00Z",
-      "updated_at": "2016-09-19T20:51:27Z"
-    },
-    {
-      "id": "movie-8403",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Изгнанник",
-      "title_orig": "Ejecta",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "686796",
-      "imdb_id": "tt2176722",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-02-11T19:17:29Z",
-      "updated_at": "2016-09-19T18:55:23Z"
-    },
-    {
-      "id": "serial-43",
-      "type": "multi-part-film",
-      "link": "",
-      "title": "Тот самый Мюнхгаузен",
-      "title_orig": "Тот самый Мюнхгаузен",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1979,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "kinopoisk_id": "77283",
-      "imdb_id": "tt0080037",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2014-10-14T20:56:07Z",
-      "updated_at": "2016-09-18T19:46:48Z"
-    },
-    {
-      "id": "movie-10189",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Жизнь-Женщина",
-      "title_orig": "Жизнь-Женщина",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1991,
-      "kinopoisk_id": "397164",
-      "imdb_id": "tt0202159",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-09-17T07:16:09Z",
-      "updated_at": "2016-09-17T07:16:09Z"
-    },
-    {
-      "id": "movie-13289",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Воины Эллады",
-      "title_orig": "Hellhounds",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2009,
-      "kinopoisk_id": "430576",
-      "imdb_id": "tt1305800",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-07T21:46:02Z",
-      "updated_at": "2016-09-16T19:46:39Z"
-    },
-    {
-      "id": "movie-8592",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Ниндзя: Шаг в неизвестность",
-      "title_orig": "Ninja Immovable Heart",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "792878",
-      "imdb_id": "tt3030970",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-03-30T16:38:46Z",
-      "updated_at": "2016-09-16T19:41:56Z"
-    },
-    {
-      "id": "movie-7773",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Округ свиней",
-      "title_orig": "Berkshire County",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "743064",
-      "imdb_id": "tt2726270",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-10-29T13:55:51Z",
-      "updated_at": "2016-09-16T19:12:50Z"
-    },
-    {
-      "id": "movie-13280",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Отверженные",
-      "title_orig": "Fong juk",
-      "translation": {
-        "id": 598,
-        "title": "Сербин",
-        "type": "voice"
-      },
-      "year": 2006,
-      "kinopoisk_id": "259894",
-      "imdb_id": "tt0796212",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-07T21:45:59Z",
-      "updated_at": "2016-09-16T17:19:20Z"
-    },
-    {
-      "id": "movie-13292",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Ледяная дрожь",
-      "title_orig": "Ice Quake",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2010,
-      "kinopoisk_id": "522784",
-      "imdb_id": "tt1657284",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-07T21:46:04Z",
-      "updated_at": "2016-09-15T15:53:41Z"
     }
   ]
 }

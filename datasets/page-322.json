@@ -1,6 +1,234 @@
 {
   "results": [
     {
+      "id": "movie-5655",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Сегодняшняя любовь",
+      "title_orig": "Oneului yeonae",
+      "other_title": "Любовный прогноз / Today's Love / Love Forecast",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "861611",
+      "imdb_id": "tt4315956",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-03-31T20:24:55Z",
+      "updated_at": "2017-03-06T11:31:01Z"
+    },
+    {
+      "id": "movie-6366",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Месть убийцы",
+      "title_orig": "Rew thalu rew",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "843806",
+      "imdb_id": "tt4117094",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-05-04T18:18:49Z",
+      "updated_at": "2017-03-06T11:28:55Z"
+    },
+    {
+      "id": "movie-21179",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Железнодорожные тигры",
+      "title_orig": "Tie dao fei hu",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "910074",
+      "imdb_id": "tt4687848",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-02-22T20:19:01Z",
+      "updated_at": "2017-03-06T06:54:11Z"
+    },
+    {
+      "id": "movie-19702",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Рейд: Пуля в голове",
+      "title_orig": "Headshot",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "944280",
+      "imdb_id": "tt5147214",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-11-22T19:46:08Z",
+      "updated_at": "2017-03-06T06:33:09Z"
+    },
+    {
+      "id": "movie-15733",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Напарник",
+      "title_orig": "Sidekick",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "1007531",
+      "imdb_id": "tt6190118",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-03-06T05:36:27Z",
+      "updated_at": "2017-03-06T05:36:27Z"
+    },
+    {
+      "id": "serial-2592",
+      "type": "russian-serial",
+      "link": "",
+      "title": "Кин-дза-дза!",
+      "title_orig": "Кин-дза-дза!",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1986,
+      "last_season": 1,
+      "last_episode": 2,
+      "episodes_count": 2,
+      "kinopoisk_id": "44811",
+      "imdb_id": "tt0091341",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2016-11-20T07:08:21Z",
+      "updated_at": "2017-03-04T22:17:54Z"
+    },
+    {
+      "id": "movie-22267",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Ганц: О",
+      "title_orig": "Gantz: O",
+      "other_title": "Ганц: Миссия Осака",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "993582",
+      "imdb_id": "tt5923962",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8564",
+      "shikimori_id": "32071",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-03-03T16:58:17Z",
+      "updated_at": "2017-03-03T16:58:17Z"
+    },
+    {
+      "id": "movie-15715",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Самозванка",
+      "title_orig": "Chori Chori",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2003,
+      "kinopoisk_id": "51212",
+      "imdb_id": "tt0326805",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-03-04T08:14:02Z",
+      "updated_at": "2017-03-03T12:31:12Z"
+    },
+    {
+      "id": "movie-15721",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Трезубец бога Шивы",
+      "title_orig": "Trishul",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 1978,
+      "kinopoisk_id": "78542",
+      "imdb_id": "tt0078418",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-03-04T08:22:15Z",
+      "updated_at": "2017-03-03T12:27:23Z"
+    },
+    {
+      "id": "movie-6569",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Захват горы тигра",
+      "title_orig": "The Taking of Tiger Mountain",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "818979",
+      "imdb_id": "tt3950078",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-05-22T07:29:15Z",
+      "updated_at": "2017-03-03T10:35:21Z"
+    },
+    {
+      "id": "movie-6663",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Список Амита Сахни",
+      "title_orig": "Amit Sahni Ki List",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "841891",
+      "imdb_id": "tt3822600",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-05-30T07:54:58Z",
+      "updated_at": "2017-03-03T06:00:34Z"
+    },
+    {
       "id": "movie-6419",
       "type": "foreign-movie",
       "link": "",
@@ -1798,227 +2026,6 @@
       "blocked_countries": [],
       "created_at": "2017-02-16T12:30:03Z",
       "updated_at": "2017-02-16T12:30:03Z"
-    },
-    {
-      "id": "movie-15457",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Дорогая Клаудиа",
-      "title_orig": "Dear Claudia",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 1999,
-      "kinopoisk_id": "35875",
-      "imdb_id": "tt0179145",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-16T12:29:22Z",
-      "updated_at": "2017-02-16T12:29:22Z"
-    },
-    {
-      "id": "movie-15458",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Чук и Гек",
-      "title_orig": "Чук и Гек",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1953,
-      "kinopoisk_id": "45533",
-      "imdb_id": "tt0045627",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-16T12:28:54Z",
-      "updated_at": "2017-02-16T12:28:54Z"
-    },
-    {
-      "id": "movie-15459",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Найти и обезвредить",
-      "title_orig": "Найти и обезвредить",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1984,
-      "kinopoisk_id": "46306",
-      "imdb_id": "tt0251890",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-16T12:25:51Z",
-      "updated_at": "2017-02-16T12:25:51Z"
-    },
-    {
-      "id": "movie-15455",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Ниндзя из будущего",
-      "title_orig": "Mirai Ninja",
-      "translation": {
-        "id": 571,
-        "title": "Вартан Дохалов",
-        "type": "voice"
-      },
-      "year": 1988,
-      "kinopoisk_id": "65484",
-      "imdb_id": "tt0095643",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-16T11:54:43Z",
-      "updated_at": "2017-02-16T11:54:43Z"
-    },
-    {
-      "id": "movie-15448",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Большая семья",
-      "title_orig": "Большая семья",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1955,
-      "kinopoisk_id": "46175",
-      "imdb_id": "tt0046797",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-16T11:52:45Z",
-      "updated_at": "2017-02-16T11:52:45Z"
-    },
-    {
-      "id": "movie-15447",
-      "type": "soviet-cartoon",
-      "link": "",
-      "title": "Педагогическая поэма",
-      "title_orig": "Педагогическая поэма",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1956,
-      "kinopoisk_id": "42911",
-      "imdb_id": "tt0048478",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-16T11:49:40Z",
-      "updated_at": "2017-02-16T11:49:40Z"
-    },
-    {
-      "id": "movie-15441",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Принц солнца",
-      "title_orig": "Tai yang zhi zi",
-      "translation": {
-        "id": 587,
-        "title": "Кашкин",
-        "type": "voice"
-      },
-      "year": 1990,
-      "kinopoisk_id": "94425",
-      "imdb_id": "tt0100410",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-16T10:05:09Z",
-      "updated_at": "2017-02-16T10:05:09Z"
-    },
-    {
-      "id": "movie-11007",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Призрак в театре",
-      "title_orig": "Mo gong mei ying",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "972795",
-      "imdb_id": "tt5639650",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-12-03T18:48:13Z",
-      "updated_at": "2017-02-16T07:29:37Z"
-    },
-    {
-      "id": "movie-15437",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Я и 23 раба",
-      "title_orig": "Doreiku: Boku to 23-nin no dorei",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "804817",
-      "imdb_id": "tt3238462",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-16T07:28:02Z",
-      "updated_at": "2017-02-16T07:28:02Z"
-    },
-    {
-      "id": "movie-8110",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Смерть в колледже",
-      "title_orig": "Dead on Campus",
-      "translation": {
-        "id": 580,
-        "title": "Дольский",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "855555",
-      "imdb_id": "tt3731196",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-12-13T20:27:19Z",
-      "updated_at": "2017-02-16T07:19:04Z"
-    },
-    {
-      "id": "movie-11170",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Чихаяфуру. Фильм второй",
-      "title_orig": "Chihayafuru shimo no ku",
-      "other_title": "Яркая Тихая: часть 2",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "917846",
-      "imdb_id": "tt4802214",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-12-26T17:13:21Z",
-      "updated_at": "2017-02-16T07:17:26Z"
     }
   ]
 }
