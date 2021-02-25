@@ -1,6 +1,2492 @@
 {
   "results": [
     {
+      "id": "movie-34368",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Scorpions - Acoustica. Live in Lisboa 2001",
+      "title_orig": "Scorpions - Acoustica. Live in Lisboa 2001",
+      "translation": {
+        "id": 882,
+        "title": "English",
+        "type": "voice"
+      },
+      "year": 2012,
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-02T07:38:56Z",
+      "updated_at": "2019-04-02T07:38:56Z"
+    },
+    {
+      "id": "serial-14081",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Игра в любовь",
+      "title_orig": "Game Sanehha",
+      "other_title": "В любовной западне / Love Trap / Buang Sanaeha",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 14,
+      "episodes_count": 14,
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-01-14T11:05:31Z",
+      "updated_at": "2019-04-02T07:32:33Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/372369/61315372fe11314a63b66a1d19094fe4/720p",
+            "2": "//kodik.cc/seria/373957/c8111ab6e559953143f4a3427e3904e1/720p",
+            "3": "//kodik.cc/seria/377055/96a4d3a45918568c75e0d1f28b1fc3d4/720p",
+            "4": "//kodik.cc/seria/382250/bbc3bc2f34e45ba7388e30801cd7d07b/720p",
+            "5": "//kodik.cc/seria/388949/5ab1bb89a6ae945201d499aea6df90d0/720p",
+            "6": "//kodik.cc/seria/396966/4ce72afecc682da602508fdcaf983039/720p",
+            "7": "//kodik.cc/seria/404560/e52326fff5b907c599f14665f91c9983/720p",
+            "8": "//kodik.cc/seria/407214/a66f73048b8d47e15cd0460fd8395fb6/720p",
+            "9": "//kodik.cc/seria/407697/a123f473241e038e43db56af474d09e7/720p",
+            "10": "//kodik.cc/seria/411459/11a548227993e5ca9d549fc9e5aa279c/720p",
+            "11": "//kodik.cc/seria/416950/d6523ad50d7761e4a6efb3b5f4c273a2/720p",
+            "12": "//kodik.cc/seria/417637/34fd3b52ef6ea0c978806ce9a1ba2e60/720p",
+            "13": "//kodik.cc/seria/419913/2f30176bcdf04f721821e52d410a1bc8/720p",
+            "14": "//kodik.cc/seria/422717/eef269443ff34708b25e514f784486fd/720p"
+          }
+        }
+      }
+    },
+    {
+      "id": "serial-6212",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Классикалоид [ТВ-1]",
+      "title_orig": "Classicaloid",
+      "other_title": "Классикалойды",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 25,
+      "episodes_count": 25,
+      "imdb_id": "tt6234680",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8383",
+      "shikimori_id": "31157",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-11-19T01:00:08Z",
+      "updated_at": "2019-04-02T01:28:35Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/166494/b02e5555372129de3e9f8f4bbf953029/720p",
+            "2": "//aniqit.com/seria/166495/ac05484046010aec67643771a416c1da/720p",
+            "3": "//aniqit.com/seria/166496/1ed1ca94cd4f578d34ed95ba10f70503/720p",
+            "4": "//aniqit.com/seria/166497/725325bf7c81a3e6113b73907ddca572/720p",
+            "5": "//aniqit.com/seria/166498/5c485fd31268e02444d8d62bcd58a244/720p",
+            "6": "//aniqit.com/seria/166499/46ee987b73973b5f878d08b4bfa41e92/720p",
+            "7": "//aniqit.com/seria/166500/b50b7045f58fe27ffdc7f6c16818b257/720p",
+            "8": "//aniqit.com/seria/166501/9f19c38476aa99f6cde1709649347b64/720p",
+            "9": "//aniqit.com/seria/166502/570116e197049c8b9735399d9cb1e80b/720p",
+            "10": "//aniqit.com/seria/166503/49072688284410d6ffcdc0460e12c4d6/720p",
+            "11": "//aniqit.com/seria/166504/9f2aba02ac6100a8741d47f2a3bf8d0e/720p",
+            "12": "//aniqit.com/seria/166505/d11f745eee9aaa6fa297777af22d3e88/720p",
+            "13": "//aniqit.com/seria/166506/cf82392734aae3d9543895df45329a09/720p",
+            "14": "//aniqit.com/seria/166507/fcca7a4245c3222a872e6127a8f820a9/720p",
+            "15": "//aniqit.com/seria/166508/7521e3606e22bd4536920bfcc00e9020/720p",
+            "16": "//aniqit.com/seria/166509/34bee621dab0c0fbdd6ab02e605bca38/720p",
+            "17": "//aniqit.com/seria/422630/c2357ea5dad3c669e920134b675ff2ec/720p",
+            "18": "//aniqit.com/seria/422631/dbd65ebca48af837bbef5dbc548a06bf/720p",
+            "19": "//aniqit.com/seria/422632/ed56be0932ab1507a013c0744831f445/720p",
+            "20": "//aniqit.com/seria/422633/eb2babde9a782b3a51be086be8d65b47/720p",
+            "21": "//aniqit.com/seria/422634/f7d1c7cbcf99cd2027d3d5832b07fee0/720p",
+            "22": "//aniqit.com/seria/422635/b7163b1abe2661497f2879143771dc32/720p",
+            "23": "//aniqit.com/seria/422636/2d3d093cd05dec41168bae28f26e0e8e/720p",
+            "24": "//aniqit.com/seria/422637/913b9979126cd4504f201e64af88015e/720p",
+            "25": "//aniqit.com/seria/422638/ddd7a4b33daa982378f23139f55d9108/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Классикалоид",
+        "title_en": "ClassicaLoid",
+        "other_titles_en": [
+          "ClassicaLoid"
+        ],
+        "other_titles_jp": [
+          "クラシカロイド"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "poster_url": "https://shikimori.one/system/animes/original/31157.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/63dcfde3a6a143bf0976f9ec887acaa5c555a4e7.jpg",
+          "https://shikimori.one/system/screenshots/original/c997ca92c3771cdd8b9b83aa2aa1fdde9a534ef9.jpg"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Музыка"
+        ],
+        "anime_studios": [
+          "Sunrise"
+        ],
+        "shikimori_rating": 6.42,
+        "shikimori_votes": 281,
+        "aired_at": "2016-10-08",
+        "released_at": "2017-04-01",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 25,
+        "episodes_aired": 25
+      }
+    },
+    {
+      "id": "serial-14000",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Дымная трава",
+      "title_orig": "Kemurikusa",
+      "other_title": "ケムリクサ",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1230497",
+      "imdb_id": "tt9573902",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9572",
+      "shikimori_id": "37302",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-01-11T14:57:32Z",
+      "updated_at": "2019-04-01T22:58:00Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/370399/428e7890cea62c1aaaed3df9e4d5c7db/720p",
+            "2": "//aniqit.com/seria/375325/632a0d2104b65d51ebe2707bdf80e171/720p",
+            "3": "//aniqit.com/seria/380391/9f0efe910c98bf95ecbf97675239a760/720p",
+            "4": "//aniqit.com/seria/386137/b8368bd37e2349c5ba11e00559867675/720p",
+            "5": "//aniqit.com/seria/392470/26485446c5350d5c1e8f0ce771034fe8/720p",
+            "6": "//aniqit.com/seria/401507/f29e3c56654a84e7bd8ce55d19f96d5d/720p",
+            "7": "//aniqit.com/seria/408153/d10fb90788f60bf557c86ae8405331b1/720p",
+            "8": "//aniqit.com/seria/410980/a68412e83c13f2eef2d5caf6b0e9f173/720p",
+            "9": "//aniqit.com/seria/414240/d3c4ab8ba924ec395879d97169c8ad69/720p",
+            "10": "//aniqit.com/seria/416977/59b4ac52e08bf1b0c895bfccbd6bc881/720p",
+            "11": "//aniqit.com/seria/419375/54ae9c481cbb485c6d2d74eba6f13297/720p",
+            "12": "//aniqit.com/seria/422613/dbbe74bdd331791e868bc0157aa70243/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Дымная трава",
+        "title_en": "Kemurikusa.",
+        "other_titles_jp": [
+          "ケムリクサ"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "Сёстры, каждая из которых обладает своими уникальными способностями, пытаются выжить в пост-апокалиптическом мире, пропитанном ядовитым красным туманом и населённом опасными механическими жуками. В поисках воды они путешествуют по окрестностям, когда внезапно натыкаются на человеческого мальчика, абсолютно не помнящего, что с ним случилось...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1230497.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/4e11508f8be2d057d1e5b6b909e34adcd43feb51.png",
+          "https://shikimori.one/system/screenshots/original/0dafccb91a635a36089b9936afcee1819e5fa82d.png"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Фантастика",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Yaoyorozu"
+        ],
+        "imdb_rating": 7.1,
+        "imdb_votes": 68,
+        "shikimori_rating": 7.07,
+        "shikimori_votes": 845,
+        "premiere_world": "2019-01-09",
+        "aired_at": "2019-01-09",
+        "released_at": "2019-03-27",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Микако Комацу",
+          "Ариса Киёто",
+          "Томоми Джена Суми",
+          "Кэндзи Нодзима"
+        ],
+        "directors": [
+          "Тацуки"
+        ],
+        "writers": [
+          "Тацуки"
+        ]
+      }
+    },
+    {
+      "id": "serial-14033",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Домашний питомец, иногда сидящий на моей голове",
+      "title_orig": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
+      "other_title": "Кошечка, сидящая у меня на голове / Мой сосед у меня на коленях, а иногда на голове",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1226368",
+      "imdb_id": "tt9522316",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9795",
+      "shikimori_id": "38145",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-01-12T19:12:44Z",
+      "updated_at": "2019-04-01T22:57:49Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/371017/eedeac3eca36f4acc93279880d0946ca/720p",
+            "2": "//aniqit.com/seria/375327/ed40f2761638a1a3c461409a709c0d78/720p",
+            "3": "//aniqit.com/seria/382493/42dfac28c4cad386974632d524c702db/720p",
+            "4": "//aniqit.com/seria/390809/2f87698b8c814cfaa915cc09200fd1f2/720p",
+            "5": "//aniqit.com/seria/398665/4fce9242e1987194c21cb1456ae6980d/720p",
+            "6": "//aniqit.com/seria/405712/ec033c66f3fba4e0a773b991e073e32f/720p",
+            "7": "//aniqit.com/seria/408879/1173830989e3ca6dacd55ac0829e76a2/720p",
+            "8": "//aniqit.com/seria/411072/5cc971705b5c4a624aa1ef3bd52a848d/720p",
+            "9": "//aniqit.com/seria/415214/5a497059e30bf35a8a2692621b4841b5/720p",
+            "10": "//aniqit.com/seria/416692/f88d01a8614e228ee09d447b8519cfd0/720p",
+            "11": "//aniqit.com/seria/420305/672213e20977fb5f9ce773ae0aa4dec3/720p",
+            "12": "//aniqit.com/seria/422612/dbc368112b51cabb220be793cbe5fbf5/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Домашний питомец, иногда сидящий на моей голове",
+        "title_en": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
+        "other_titles": [
+          "Мой сосед у меня на коленях, а иногда на голове",
+          "Кошечка, сидящая у меня на голове"
+        ],
+        "other_titles_en": [
+          "My Roommate is a Cat"
+        ],
+        "other_titles_jp": [
+          "同居人はひざ、時々、頭のうえ。"
+        ],
+        "anime_license_name": "Мой сосед по комнате — кошка",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "Застенчивый писатель Субару Микадзуки подбирает бродячего кота, называет его Хару и оставляет у себя жить. Через общение с котиком Субару начинает постепенно открываться миру.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1226368.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/2bc346301bc6235201ec9f2915678b98f9e345fd.png",
+          "https://shikimori.one/system/screenshots/original/5ffb7f153d58bf434c6bf29ad208231bc3f0b8c6.png"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Повседневность"
+        ],
+        "anime_studios": [
+          "Zero-G"
+        ],
+        "kinopoisk_rating": 7.4,
+        "kinopoisk_votes": 464,
+        "imdb_rating": 7.8,
+        "imdb_votes": 451,
+        "shikimori_rating": 7.76,
+        "shikimori_votes": 4548,
+        "premiere_world": "2019-01-09",
+        "aired_at": "2019-01-09",
+        "released_at": "2019-03-27",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Аюму Мурасэ",
+          "Кэнсё Оно",
+          "Харука Ямадзаки"
+        ],
+        "directors": [
+          "Каору Судзуки",
+          "Даидзи Иванага",
+          "Рёсукэ Адзума",
+          "Кана Кавана",
+          "Тору Китахата",
+          "Кэнъитиро Кояма",
+          "Рёити Курая",
+          "Кэнта Ониси",
+          "Масахиро Таката",
+          "Масаки Уцуномия"
+        ],
+        "writers": [
+          "Хироко Фукуда",
+          "Минацуки",
+          "Акико Ваба"
+        ],
+        "editors": [
+          "Масаки Уцуномия"
+        ],
+        "designers": [
+          "Хироси Гороку"
+        ],
+        "operators": [
+          "Мотохиро Кунисигэ"
+        ]
+      }
+    },
+    {
+      "id": "serial-12613",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Почувствуй ветер",
+      "title_orig": "Kaze ga Tsuyoku Fuite Iru",
+      "other_title": "Run with the Wind",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 23,
+      "episodes_count": 23,
+      "kinopoisk_id": "1220808",
+      "imdb_id": "tt9402026",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9703",
+      "shikimori_id": "37965",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-10-04T05:36:18Z",
+      "updated_at": "2019-04-01T22:57:41Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/337249/501fb25c2724a2038523829d4606c7ae/720p",
+            "2": "//aniqit.com/seria/339821/bd0db7f43d0a47e694f16e38c366199f/720p",
+            "3": "//aniqit.com/seria/341937/118e4e8fe688c53a7a71e35f0b359dd1/720p",
+            "4": "//aniqit.com/seria/344587/fbb47aafa885f614befe516131e2de0a/720p",
+            "5": "//aniqit.com/seria/347270/8888e1dece0e9da08b0745388ee7fcd4/720p",
+            "6": "//aniqit.com/seria/350419/73e9c80aff5b6d8b7a462b66c5464779/720p",
+            "7": "//aniqit.com/seria/353458/da96b413510767657077436876ef6e90/720p",
+            "8": "//aniqit.com/seria/356388/e7daa7c7ce5cdd1666e66109a52e4975/720p",
+            "9": "//aniqit.com/seria/357947/d7f27d6ee9688335775dfa63288a4161/720p",
+            "10": "//aniqit.com/seria/360519/2d83cc2745248959cc4dd5a7d2a5723d/720p",
+            "11": "//aniqit.com/seria/363262/18ae920eee928c03beb78e5c2d22c3bb/720p",
+            "12": "//aniqit.com/seria/373006/ce870bd2085a38fe0eba554d5ba71d06/720p",
+            "13": "//aniqit.com/seria/377150/48538aa94cdd919445f1a56d1066993b/720p",
+            "14": "//aniqit.com/seria/381885/f9f4c87f6d0e306d6209c9e7321b6083/720p",
+            "15": "//aniqit.com/seria/389543/1dfba3750cfda61bf874b06f65de30a0/720p",
+            "16": "//aniqit.com/seria/400298/d37d09da568701a1b6c947be38eff983/720p",
+            "17": "//aniqit.com/seria/401915/d868727ca554f8b1e771b830a0bc3c1b/720p",
+            "18": "//aniqit.com/seria/406909/9d5bb19df485cf6c589726961aabfaa0/720p",
+            "19": "//aniqit.com/seria/411415/2d6ac1d069ae38334d91ebca70232625/720p",
+            "20": "//aniqit.com/seria/414624/8f33b877fe866ea6a6efe299fce79c76/720p",
+            "21": "//aniqit.com/seria/416910/e1bbfaf99e5dc12d21a11c6583dad130/720p",
+            "22": "//aniqit.com/seria/418963/b87c3d8c0808d688ddd9f5596dec3836/720p",
+            "23": "//aniqit.com/seria/422611/9b6d4db7642bf9f1a2ea8a9adfa666e4/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Почувствуй ветер",
+        "title_en": "Kaze ga tsuyoku fuiteiru",
+        "other_titles_en": [
+          "Run with the Wind"
+        ],
+        "other_titles_jp": [
+          "風が強く吹いている"
+        ],
+        "anime_license_name": "В ногу с ветром",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2018,
+        "description": "Киёсэ Хайдзи был успешным профессиональным бегуном, но из-за травмы был вынужден уйти из спорта. Однажды он знакомится с другим бывшим атлетом Какэру Курахарой, и вместе они решают снова вернуться в большой спорт. Для участия в марафоне Хайдзи и Какэру нужно набрать команду из десяти человек, и некоторые из тех, кого они находят, никогда прежде не участвовали в соревнованиях. Но даже в этой странной команде образуется связь, закалённая тренировками и верой в то, что они смогут совершить невозможное.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1220808.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/4fe9c854b1344ad198374b112ebb31b9ba18a49a.png",
+          "https://shikimori.one/system/screenshots/original/f319ba664c60bca9ad49474f5e08667b1a48f97c.png"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Комедия",
+          "Спорт"
+        ],
+        "anime_studios": [
+          "Production I.G"
+        ],
+        "kinopoisk_rating": 7.9,
+        "kinopoisk_votes": 595,
+        "imdb_rating": 8.4,
+        "imdb_votes": 722,
+        "shikimori_rating": 8.45,
+        "shikimori_votes": 7309,
+        "premiere_world": "2018-10-03",
+        "aired_at": "2018-10-03",
+        "released_at": "2019-03-27",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 23,
+        "episodes_aired": 23,
+        "actors": [
+          "Майк Хаимото",
+          "Джеймс Белчер",
+          "Скотт Гиббс",
+          "Blake Jackson",
+          "Йован Джексон",
+          "Эндрю Лав",
+          "Ти Махани",
+          "Benjamin McLaughlin",
+          "Nick Meriwether",
+          "Daniel Regojo"
+        ],
+        "directors": [
+          "Кадзуя Номура",
+          "Синтаро Итога",
+          "Хитоми Эдзоэ",
+          "Asami Nakatani",
+          "Юсукэ Камата",
+          "Ёсими Итадзу",
+          "Ёко Канамори",
+          "Роко Огивара",
+          "Ёсико Окуда",
+          "Масако Сато"
+        ],
+        "writers": [
+          "Кохэи Киясу",
+          "Сион Миура"
+        ],
+        "composers": [
+          "Юки Хаяси"
+        ],
+        "editors": [
+          "Дзюнъити Уэмацу"
+        ],
+        "designers": [
+          "Ёсио Харисаки"
+        ],
+        "operators": [
+          "Даити Ногами"
+        ]
+      }
+    },
+    {
+      "id": "serial-16158",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Ты прекрасен",
+      "title_orig": "Yuan lai shi mei nan",
+      "other_title": "Ты прекрасен (тайваньская версия) / Прекрасные парни / Изумительные парни / Fabulous Boys / You're Beautiful (Taiwan)",
+      "translation": {
+        "id": 641,
+        "title": "STEPonee",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "774807",
+      "imdb_id": "tt2959248",
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-04-01T19:02:48Z",
+      "updated_at": "2019-04-01T19:02:48Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/422561/f43e3790c06ab142ac05de2765deebc3/720p",
+            "2": "//kodik.cc/seria/422562/3c576c2d37af52555c61c5caaafffc27/720p",
+            "3": "//kodik.cc/seria/422563/b70fe30711960cbbd1522e69d64a63e6/720p",
+            "4": "//kodik.cc/seria/422564/13a36abea8a22a1f20680d418a03cce1/720p",
+            "5": "//kodik.cc/seria/422565/b361d54a9b0fbd6fd368431f1e54ba64/720p",
+            "6": "//kodik.cc/seria/422566/aac06613fad4725454eb00b38c6b25f4/720p",
+            "7": "//kodik.cc/seria/422567/8fcec893f56a60489f3f130260d25273/720p",
+            "8": "//kodik.cc/seria/422568/0729d313a7fe780ab8457fd784ac72e7/720p",
+            "9": "//kodik.cc/seria/422569/f335860556b8961de26cc6c8b9164146/720p",
+            "10": "//kodik.cc/seria/422570/f489ec0f2c66067a556d4a3286048af5/720p",
+            "11": "//kodik.cc/seria/422571/578438ec19ad4e38f625853b7b47d05e/720p",
+            "12": "//kodik.cc/seria/422572/1aeda57cb9c3e950cab27448011229b2/720p",
+            "13": "//kodik.cc/seria/422573/b9acf863081eb5e618252da59f6328a8/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Ты прекрасен",
+        "title_en": "Yuan lai shi mei nan",
+        "year": 2013,
+        "description": "Као Мэйну всегда жила в приюте при монастыре и теперь хочет стать монахиней. У неё есть брат-близнец, мечтающий стать певцом. Однажды таинственный человек просит девушку выдать себя за брата, который восстанавливается после операции, так как он был выбран как второй вокалист популярной группы A.N.JELL. Чтобы помочь любимому брату, Мэйну соглашается. С помощью шустрых стилистов девушка становится парнем и отправляется на встречу с группой.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/774807.jpg",
+        "duration": 90,
+        "countries": [
+          "Тайвань"
+        ],
+        "genres": [
+          "мелодрама"
+        ],
+        "kinopoisk_rating": 7.4,
+        "kinopoisk_votes": 412,
+        "imdb_rating": 6.9,
+        "imdb_votes": 66,
+        "premiere_world": "2013-05-12",
+        "actors": [
+          "Дзиро Ван",
+          "Lyan Cheng",
+          "Хван Ин-док",
+          "Эван Йо",
+          "Run Bao",
+          "Wei-min Chen",
+          "Hsin-Yan Chang",
+          "Лили Тиен",
+          "Szu-Ping Wang",
+          "Лю Лянцзоу"
+        ],
+        "directors": [
+          "Chien-hsin Wu"
+        ],
+        "producers": [
+          "Yi-Yun Ting",
+          "Ван Синь Гуй",
+          "Стивен С. Ванг"
+        ],
+        "writers": [
+          "Хон Джон-ын",
+          "Хон Ми-ран"
+        ],
+        "composers": [
+          "Tsu-Sheng Hsiung",
+          "Sheng-Hsiung Hsu",
+          "Kuo-Kai Lin",
+          "Yu-Ting Lo",
+          "Chia-Li Wu"
+        ]
+      }
+    },
+    {
+      "id": "movie-34338",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Берега",
+      "title_orig": "Tides",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "imdb_id": "tt5514674",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-01T11:33:06Z",
+      "updated_at": "2019-04-01T11:33:06Z"
+    },
+    {
+      "id": "movie-34337",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Красная бумага",
+      "title_orig": "Red Paper Cut",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "imdb_id": "tt7124744",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-01T11:32:07Z",
+      "updated_at": "2019-04-01T11:32:07Z"
+    },
+    {
+      "id": "movie-13682",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Звонок",
+      "title_orig": "Ringu",
+      "translation": {
+        "id": 598,
+        "title": "Сербин",
+        "type": "voice"
+      },
+      "year": 1998,
+      "kinopoisk_id": "8438",
+      "imdb_id": "tt0178868",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-02-07T21:48:14Z",
+      "updated_at": "2019-04-01T11:04:55Z",
+      "material_data": {
+        "title": "Звонок",
+        "title_en": "Ringu",
+        "year": 1998,
+        "tagline": "Перед тем, как ты умрешь, ты услышишь...",
+        "description": "Молодая репортер расследует загадочное суеверие о смертоносной видеокассете. В доме того, кто посмотрит её, сначала раздается странный телефонный звонок, а позже человек умирает. После того как такой же смертью умирает её племянница, женщина решает взяться за расследование и сама смотрит злополучную кассету. Чуть позже в её квартире раздаётся звонок. Теперь у журналистки есть только семь дней, чтобы докопаться до истоков страшного проклятия.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/8438.jpg",
+        "duration": 96,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "детектив",
+          "триллер",
+          "ужасы"
+        ],
+        "kinopoisk_rating": 7.1,
+        "kinopoisk_votes": 21628,
+        "imdb_rating": 7.2,
+        "imdb_votes": 62548,
+        "premiere_world": "1998-01-31",
+        "minimal_age": 18,
+        "actors": [
+          "Нанако Мацусима",
+          "Мики Накатани",
+          "Юко Такэути",
+          "Хитоми Сато",
+          "Ёити Нумата",
+          "Ютака Мацусигэ",
+          "Кацуми Мурамацу",
+          "Рикия Отака",
+          "Масако",
+          "Даисукэ Бан"
+        ],
+        "directors": [
+          "Хидэо Наката"
+        ],
+        "producers": [
+          "Такасигэ Итисэ",
+          "Синъя Каваи",
+          "Такэнори Сэнто",
+          "Масато Хара",
+          "Макото Исихара",
+          "Тацуя Исомура"
+        ],
+        "writers": [
+          "Хироси Такахаси",
+          "Кодзи Судзуки"
+        ],
+        "composers": [
+          "Кэндзи Каваи"
+        ],
+        "editors": [
+          "Нобуюки Такахаси"
+        ],
+        "designers": [
+          "Ивао Саито"
+        ],
+        "operators": [
+          "Дзюнъитиро Хаяси"
+        ]
+      }
+    },
+    {
+      "id": "serial-16147",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Судьба: Начало [ТВ-2]",
+      "title_orig": "Fate/Zero 2",
+      "other_title": "Fate Zero 2",
+      "translation": {
+        "id": 729,
+        "title": "СВ-Дубль",
+        "type": "voice"
+      },
+      "year": 2012,
+      "last_season": 2,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "629401",
+      "imdb_id": "tt2051178",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=287",
+      "shikimori_id": "11741",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-04-01T10:38:09Z",
+      "updated_at": "2019-04-01T10:38:09Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/422456/f215394d1e19e7640dcad9ddc992bf1e/720p",
+            "2": "//aniqit.com/seria/422457/e1c13b89fc9865afe93a1e1dc9444760/720p",
+            "3": "//aniqit.com/seria/422458/1e3d408a8965fd2d135eb7bb45dbb504/720p",
+            "4": "//aniqit.com/seria/422459/4ccad329126518d8916867b364e2caa2/720p",
+            "5": "//aniqit.com/seria/422460/2ca0dfc9e5ad8490870e6a5f599269cb/720p",
+            "6": "//aniqit.com/seria/422461/2a52bb6c5959e3f681e0c1a3fb89c600/720p",
+            "7": "//aniqit.com/seria/422462/4b4c2a743b00d1fb51d98de30bad1a2a/720p",
+            "8": "//aniqit.com/seria/422463/5cea37c5cd788c2ae4e63c830c220ad7/720p",
+            "9": "//aniqit.com/seria/422464/b73cf7dfdb242480acb607c22726f448/720p",
+            "10": "//aniqit.com/seria/422465/4c5accc59d836f86a3aec655ed2b5b36/720p",
+            "11": "//aniqit.com/seria/422466/e68f96ff18c89408ce697089c6f9cb76/720p",
+            "12": "//aniqit.com/seria/422467/9c2df861ededda0936e0d0d8285f0dde/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Судьба: Начало",
+        "title_en": "Fate/Zero",
+        "other_titles": [
+          "Fate/Zero Second Season"
+        ],
+        "other_titles_en": [
+          "Fate/Zero Season 2"
+        ],
+        "other_titles_jp": [
+          "フェイト/ゼロ 2ndシーズン"
+        ],
+        "anime_license_name": "Судьба: Начало 2",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2011,
+        "description": "Двести лет назад три могущественных клана создали в далекой Японии на землях городка Фуюки арену магической битвы за Святой Грааль. Смысл ритуала прост – семеро участников-магов, которых зовут Мастерами, по воле Грааля призывают себе из Акаши, мирового эфира, бойцов-Слуг – героев былого и грядущего. Дальше правил нет, и остаться должен только один. Ему и достанется величайший артефакт, который выполнит любое желание победителя. Вот только первые три войны окончились тотальным истреблением сторон и не достигли цели. Грядет Четвертая война, и на этот раз все знамения говорят – Святой Грааль будет явлен и обретет хозяина!",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/629401.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/9527d4de1eb237acd279839f356ea5d3e8bcd67a.jpg",
+          "https://shikimori.one/system/screenshots/original/6d227a69369117229c35dae5a4b7e74f16d8a477.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Магия",
+          "Сверхъестественное",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "ufotable"
+        ],
+        "kinopoisk_rating": 7.9,
+        "kinopoisk_votes": 3506,
+        "imdb_rating": 8.3,
+        "imdb_votes": 9839,
+        "shikimori_rating": 8.6,
+        "shikimori_votes": 23126,
+        "premiere_world": "2011-10-01",
+        "aired_at": "2012-04-08",
+        "released_at": "2012-06-24",
+        "rating_mpaa": "R",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Аяко Кавасуми",
+          "Саяка Охара",
+          "Дзёдзи Накада",
+          "Рикия Кояма",
+          "Даисукэ Намикава",
+          "Томокадзу Сэки",
+          "Акио Оцука",
+          "Сё Хаями",
+          "Аюми Цунэмацу",
+          "Хикару Мидорикава"
+        ],
+        "directors": [
+          "Эи Аоки",
+          "Такахиро Миура"
+        ],
+        "producers": [
+          "Ёсинао Дои",
+          "Атасухиро Иваками",
+          "Синъитиро Касивада",
+          "Хикару Кондо",
+          "Коитиро Нацумэ",
+          "Рю Судзуки",
+          "Томотака Такэути",
+          "Акико Ёдо",
+          "Кацуси Оота",
+          "Манами Кита"
+        ],
+        "writers": [
+          "Акира Хияма",
+          "Такуми Миядзима",
+          "Киноко Нага",
+          "Киноко Насу",
+          "Кадзухару Сато",
+          "Гэн Уробути",
+          "Акихиро Ёсида"
+        ],
+        "composers": [
+          "Юки Кадзиура"
+        ],
+        "editors": [
+          "Манабу Камино"
+        ],
+        "designers": [
+          "Кодзи Это"
+        ],
+        "operators": [
+          "Юити Тэрао"
+        ]
+      }
+    },
+    {
+      "id": "serial-16146",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Судьба: Начало [ТВ-1]",
+      "title_orig": "Fate/Zero",
+      "other_title": "フェイト/ゼロ",
+      "translation": {
+        "id": 729,
+        "title": "СВ-Дубль",
+        "type": "voice"
+      },
+      "year": 2011,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "629401",
+      "imdb_id": "tt2051178",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8131",
+      "shikimori_id": "10087",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-04-01T10:34:26Z",
+      "updated_at": "2019-04-01T10:35:17Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/422443/d5aea92a3f9cdac9a8c3e3497e48f312/720p",
+            "2": "//aniqit.com/seria/422444/387e2c910dae47367528e6ef3779f27e/720p",
+            "3": "//aniqit.com/seria/422445/655a1ce93b255696c281dbc22641459a/720p",
+            "4": "//aniqit.com/seria/422446/946175db6205e267222713a84a3bfd71/720p",
+            "5": "//aniqit.com/seria/422447/90541d4e9e5b13e578647fedab7e9e2d/720p",
+            "6": "//aniqit.com/seria/422448/ee1e1bba9d80cdf75d3e8ea373b51338/720p",
+            "7": "//aniqit.com/seria/422449/105f673b5e9d17c41caafceb8d467eba/720p",
+            "8": "//aniqit.com/seria/422450/4f2835ba0a38880536aa1095f7de03a9/720p",
+            "9": "//aniqit.com/seria/422451/7ec2551050b1c64212e203b4cae2f765/720p",
+            "10": "//aniqit.com/seria/422452/7a23445be291cedc6131bb14937bdb4c/720p",
+            "11": "//aniqit.com/seria/422453/256150a061e5859b4108c348e3a32947/720p",
+            "12": "//aniqit.com/seria/422454/aaac6a6c5940a0afa908e7f7dbf4ee0a/720p",
+            "13": "//aniqit.com/seria/422455/19c064846d1ac7cd125b8875de76e85a/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Судьба: Начало",
+        "title_en": "Fate/Zero",
+        "other_titles_en": [
+          "Fate/Zero"
+        ],
+        "other_titles_jp": [
+          "フェイト/ゼロ"
+        ],
+        "anime_license_name": "Судьба/Zero",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2011,
+        "description": "Двести лет назад три могущественных клана создали в далекой Японии на землях городка Фуюки арену магической битвы за Святой Грааль. Смысл ритуала прост – семеро участников-магов, которых зовут Мастерами, по воле Грааля призывают себе из Акаши, мирового эфира, бойцов-Слуг – героев былого и грядущего. Дальше правил нет, и остаться должен только один. Ему и достанется величайший артефакт, который выполнит любое желание победителя. Вот только первые три войны окончились тотальным истреблением сторон и не достигли цели. Грядет Четвертая война, и на этот раз все знамения говорят – Святой Грааль будет явлен и обретет хозяина!",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/629401.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/b8cec69dfff8cba162af939bb9c0a738b16db989.jpg",
+          "https://shikimori.one/system/screenshots/original/7fdbb2d6cca38fb48f8fd778cf48254b773455eb.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Магия",
+          "Сверхъестественное",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "ufotable"
+        ],
+        "kinopoisk_rating": 7.9,
+        "kinopoisk_votes": 3506,
+        "imdb_rating": 8.3,
+        "imdb_votes": 9839,
+        "shikimori_rating": 8.35,
+        "shikimori_votes": 27221,
+        "premiere_world": "2011-10-01",
+        "aired_at": "2011-10-02",
+        "released_at": "2011-12-25",
+        "rating_mpaa": "R",
+        "episodes_total": 13,
+        "episodes_aired": 13,
+        "actors": [
+          "Аяко Кавасуми",
+          "Саяка Охара",
+          "Дзёдзи Накада",
+          "Рикия Кояма",
+          "Даисукэ Намикава",
+          "Томокадзу Сэки",
+          "Акио Оцука",
+          "Сё Хаями",
+          "Аюми Цунэмацу",
+          "Хикару Мидорикава"
+        ],
+        "directors": [
+          "Эи Аоки",
+          "Такахиро Миура"
+        ],
+        "producers": [
+          "Ёсинао Дои",
+          "Атасухиро Иваками",
+          "Синъитиро Касивада",
+          "Хикару Кондо",
+          "Коитиро Нацумэ",
+          "Рю Судзуки",
+          "Томотака Такэути",
+          "Акико Ёдо",
+          "Кацуси Оота",
+          "Манами Кита"
+        ],
+        "writers": [
+          "Акира Хияма",
+          "Такуми Миядзима",
+          "Киноко Нага",
+          "Киноко Насу",
+          "Кадзухару Сато",
+          "Гэн Уробути",
+          "Акихиро Ёсида"
+        ],
+        "composers": [
+          "Юки Кадзиура"
+        ],
+        "editors": [
+          "Манабу Камино"
+        ],
+        "designers": [
+          "Кодзи Это"
+        ],
+        "operators": [
+          "Юити Тэрао"
+        ]
+      }
+    },
+    {
+      "id": "serial-16144",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Реальная девушка [ТВ-1]",
+      "title_orig": "3D Kanojo Real Girl",
+      "other_title": "3D彼女 リアルガール",
+      "translation": {
+        "id": 559,
+        "title": "Kansai",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1177518",
+      "imdb_id": "tt7112156",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9470",
+      "shikimori_id": "36793",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-04-01T10:25:51Z",
+      "updated_at": "2019-04-01T10:25:51Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/422419/067e9eb0387b346b4de338fb458e6a6f/720p",
+            "2": "//aniqit.com/seria/422420/6f84b0d0f23bc0f36e427e3c58a542bb/720p",
+            "3": "//aniqit.com/seria/422421/11b474ca8c4b8b3f05e430414af43db1/720p",
+            "4": "//aniqit.com/seria/422422/84fd531f0c7f9a4bad3ec8008fd37ee0/720p",
+            "5": "//aniqit.com/seria/422423/cb51da4eea77d8dccd4662fbd56be817/720p",
+            "6": "//aniqit.com/seria/422424/4165d27f85470621620eb92e989d1516/720p",
+            "7": "//aniqit.com/seria/422425/267713ed5a0e740fd4e018f997deca0f/720p",
+            "8": "//aniqit.com/seria/422426/6b3ebe24d240e057a8607775bf7bfa3c/720p",
+            "9": "//aniqit.com/seria/422427/302c73b71ce42e09fdf91225bd1ac1eb/720p",
+            "10": "//aniqit.com/seria/422428/65c68074999ddae16d451635876464e2/720p",
+            "11": "//aniqit.com/seria/422429/76c1a5754e3b359ff7a1b98a3c62c925/720p",
+            "12": "//aniqit.com/seria/422430/419991a162538f49f7efc73dbe1a133b/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Реальная девушка",
+        "title_en": "3D Kanojo Real Girl",
+        "other_titles": [
+          "3D Girlfriend"
+        ],
+        "other_titles_en": [
+          "Real Girl"
+        ],
+        "other_titles_jp": [
+          "３Ｄ彼女　リアルガール"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2018,
+        "description": "Старшеклассник и задрот Хикару Цуцуи предпочитает вымышленный мир реальному. Он любит магну, видеоигры, аниме, общается исключительно в Интернете, а одноклассники его даже не замечают. Однажды случается немыслимое - к нему подходит школьная красавица Ироха Игараси и вдруг признаётся, что он ей нравится. Жизнь парня превращается в хаос и смятение.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1177518.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/96e3f6ab90889f0fde1b14455a4b8a3e52d3415e.jpg",
+          "https://shikimori.one/system/screenshots/original/37991e589c21d2fcdb1e9706dce56d60d9b0b29d.jpg"
+        ],
+        "duration": 22,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Романтика",
+          "Сёдзё",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Hoods Entertainment"
+        ],
+        "kinopoisk_rating": 7.1,
+        "kinopoisk_votes": 796,
+        "imdb_rating": 6.7,
+        "imdb_votes": 396,
+        "shikimori_rating": 6.78,
+        "shikimori_votes": 8624,
+        "premiere_world": "2018-04-04",
+        "aired_at": "2018-04-04",
+        "released_at": "2018-06-20",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Ю Сэридзава"
+        ],
+        "directors": [
+          "Такаси Наоя"
+        ],
+        "writers": [
+          "Мао Нанами"
+        ]
+      }
+    },
+    {
+      "id": "movie-34323",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Эми Джордж",
+      "title_orig": "Amy George",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2011,
+      "kinopoisk_id": "575690",
+      "imdb_id": "tt1781767",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-01T10:19:59Z",
+      "updated_at": "2019-04-01T10:19:59Z",
+      "material_data": {
+        "title": "Эми Джордж",
+        "title_en": "Amy George",
+        "year": 2011,
+        "tagline": "Thirteen-year-old Jesse wants to be an artist, but believes that his mundane middle-class Toronto life has left him unprepared and sets out looking for wildness and women.",
+        "description": "Джесс хочет быть фотохудожником, но считает, что средний класс Торонто, в окружении которого он живет, не оставляет ему возможности по-настоящему подготовиться к будущей жизни. В одной книге он прочитал: «вы никогда не станете настоящим художником, если не рисковали, не испытывали острых ощущений и не занимались любовью с женщиной». Теперь Джесс знает, чего ему нужно искать, и случай знакомит его с молодой соседкой Эми...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/575690.jpg",
+        "duration": 95,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 5.5,
+        "imdb_votes": 132,
+        "premiere_world": "2011-04-03",
+        "actors": [
+          "Гэбриел дель Кастилло Маллалли",
+          "Клаудия Дей",
+          "Дон Керр",
+          "Наташа Аллан",
+          "Emily Henry",
+          "Кэндис Баркин",
+          "Yaari Magenheim",
+          "Брайан Скотт",
+          "Andrea Verginella Paina",
+          "Эстер Рейс"
+        ],
+        "directors": [
+          "Yonah Lewis",
+          "Кэлвин Томас"
+        ],
+        "producers": [
+          "Yonah Lewis",
+          "Кэлвин Томас",
+          "Сандра Баумандер",
+          "Коннор Джессап",
+          "Richard Lecours",
+          "Лев Льюис",
+          "Дженнифер Лиао",
+          "Kathryn Penwill",
+          "Virginia Shulist",
+          "Марвин Вентрауб"
+        ],
+        "writers": [
+          "Yonah Lewis",
+          "Кэлвин Томас"
+        ],
+        "composers": [
+          "Лев Льюис"
+        ],
+        "editors": [
+          "Yonah Lewis",
+          "Кэлвин Томас"
+        ],
+        "designers": [
+          "Андреа Пеллетье"
+        ],
+        "operators": [
+          "Yonah Lewis",
+          "Кэлвин Томас"
+        ]
+      }
+    },
+    {
+      "id": "movie-34324",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "1981",
+      "title_orig": "1981",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2009,
+      "kinopoisk_id": "423314",
+      "imdb_id": "tt1286159",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-01T10:19:05Z",
+      "updated_at": "2019-04-01T10:19:05Z",
+      "material_data": {
+        "title": "1981",
+        "title_en": "",
+        "year": 2009,
+        "description": "1981 год. Семья Троджи переезжает в дом своей мечты. Однако сразу после их переезда начинается экономический кризис, который сильно ударяет по семье. В начале учебного года 11-летний Рикардо испытывает трудности с адаптацией: его одноклассники, похоже, принадлежат к более обеспеченным семьям. Чтобы быть принятым, мальчик придумывает себе другую жизнь.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/423314.jpg",
+        "duration": 102,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "драма",
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 7.2,
+        "imdb_votes": 1591,
+        "premiere_world": "2009-09-04",
+        "minimal_age": 18,
+        "actors": [
+          "Jean-Carl Boucher",
+          "Клаудио Коланджело",
+          "Сандрин Биссон",
+          "Габриэль Майе",
+          "Дэни Бочар",
+          "Лео Карон",
+          "Элизабет Адам",
+          "Роуз Адам",
+          "Маржолен Лемье",
+          "Claude-Michel Bleau"
+        ],
+        "directors": [
+          "Ricardo Trogi"
+        ],
+        "producers": [
+          "Николь Роберт",
+          "Мартин Бюшемин",
+          "Гай Ганьон",
+          "Патрик Рой",
+          "Ricardo Trogi"
+        ],
+        "writers": [
+          "Ricardo Trogi"
+        ],
+        "composers": [
+          "Фридерик Беджин"
+        ],
+        "editors": [
+          "Иванн Тибодо"
+        ],
+        "designers": [
+          "Патрис Верметт",
+          "Anne-Karine Gauthier",
+          "Фредерик Болте",
+          "Жан-Шарль Клаву"
+        ],
+        "operators": [
+          "Стив Асселин"
+        ]
+      }
+    },
+    {
+      "id": "movie-34328",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Весна",
+      "title_orig": "Vesna",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1947,
+      "kinopoisk_id": "45746",
+      "imdb_id": "tt0039954",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-01T10:13:42Z",
+      "updated_at": "2019-04-01T10:13:42Z",
+      "material_data": {
+        "title": "Весна",
+        "title_en": "",
+        "year": 1947,
+        "description": "Молодая артистка оперетты Вера Шатрова впервые снимается в кино - ей предстоит сыграть роль Ирины Никитиной, крупного ученого, руководителя Института солнца. Благодаря удивительному внешнему сходству Никитина и Шатрова постоянно оказываются в самых невероятных ситуациях, и каждая встречает свою любовь.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/45746.jpg",
+        "duration": 104,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама",
+          "мюзикл"
+        ],
+        "kinopoisk_rating": 7.7,
+        "kinopoisk_votes": 4429,
+        "imdb_rating": 7.1,
+        "imdb_votes": 401,
+        "premiere_world": "1947-07-02",
+        "minimal_age": 12,
+        "actors": [
+          "Любовь Орлова",
+          "Николай Черкасов",
+          "Николай Коновалов",
+          "Фаина Раневская",
+          "Ростислав Плятт",
+          "Борис Петкер",
+          "Михаил Сидоркин",
+          "Рина Зеленая",
+          "Татьяна Гурецкая",
+          "Василий Зайчиков"
+        ],
+        "directors": [
+          "Григорий Александров"
+        ],
+        "writers": [
+          "Григорий Александров",
+          "Александр Раскин",
+          "Морис Слободской"
+        ],
+        "composers": [
+          "Исаак Дунаевский"
+        ],
+        "designers": [
+          "Владимир Каплуновский",
+          "Константин Ефимов"
+        ],
+        "operators": [
+          "Юрий Екельчик"
+        ]
+      }
+    },
+    {
+      "id": "movie-34330",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Цветы запоздалые",
+      "title_orig": "Tsvety zapozdalye",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1970,
+      "kinopoisk_id": "42359",
+      "imdb_id": "tt0065128",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-01T09:42:42Z",
+      "updated_at": "2019-04-01T09:42:42Z",
+      "material_data": {
+        "title": "Цветы запоздалые",
+        "title_en": "",
+        "year": 1970,
+        "description": "Любовь княжны к лечившему ее доктору остается безответной. Когда же спустя годы его сердце все же откликается на неугасающее чувство - оказывается слишком поздно…",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/42359.jpg",
+        "duration": 100,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма",
+          "мелодрама",
+          "мюзикл"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 504,
+        "imdb_rating": 7.7,
+        "imdb_votes": 41,
+        "premiere_world": "1970-01-19",
+        "minimal_age": 0,
+        "actors": [
+          "Ирина Лаврентьева",
+          "Александр Лазарев",
+          "Ольга Жизнева",
+          "Валерий Золотухин",
+          "Инна Ульянова",
+          "Александр Ханов",
+          "Ирина Шаляпина",
+          "Зоя Василькова",
+          "Иван Жеваго",
+          "Любовь Калюжная"
+        ],
+        "directors": [
+          "Абрам Роом"
+        ],
+        "writers": [
+          "Антон Чехов",
+          "Абрам Роом"
+        ],
+        "composers": [
+          "Гектор Берлиоз"
+        ],
+        "editors": [
+          "Татьяна Зинчук"
+        ],
+        "designers": [
+          "Геннадий Мясников"
+        ],
+        "operators": [
+          "Леонид Крайненков"
+        ]
+      }
+    },
+    {
+      "id": "movie-34314",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Охота на женщину",
+      "title_orig": "A Woman Hunted",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2003,
+      "kinopoisk_id": "34472",
+      "imdb_id": "tt0353012",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-01T09:21:33Z",
+      "updated_at": "2019-04-01T09:21:33Z",
+      "material_data": {
+        "title": "Охота на женщину",
+        "title_en": "A Woman Hunted",
+        "year": 2003,
+        "tagline": "The victim has just become the accused.",
+        "description": "Только что прошедшая курс реабилитации, Лейни Уилер хочет начать новую жизнь. Но безжалостная судьба не оставляет ей шансов: Лейни совершает преступление, в котором не виновата!\n\rИ в ситуации, когда полиция открыла охоту на женщину, должна избежать все ловушки, расставленные на ее пути.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/34472.jpg",
+        "duration": 94,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "детектив",
+          "драма",
+          "триллер"
+        ],
+        "kinopoisk_rating": 5.8,
+        "kinopoisk_votes": 79,
+        "imdb_rating": 4.5,
+        "imdb_votes": 378,
+        "premiere_world": "2003-06-01",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 16,
+        "actors": [
+          "Александра Пол",
+          "Линден Эшби",
+          "Мишель Грин",
+          "Максим Рой",
+          "Дин Акопян",
+          "Джонатан Хиггинс",
+          "Тим Пост",
+          "Софи Гендрон",
+          "Челси Сеси",
+          "Таня Тромбетта"
+        ],
+        "directors": [
+          "Морри Рувински"
+        ],
+        "producers": [
+          "Жози Бернард",
+          "Том Берри",
+          "Нил Брегман",
+          "Пьер Дэвид",
+          "Роберт Малинфант",
+          "Луис А. Массикотте",
+          "Роберт Вертхеймер",
+          "Стефан Водославски"
+        ],
+        "writers": [
+          "Морри Рувински"
+        ],
+        "composers": [
+          "Ричард Бауэрс"
+        ],
+        "editors": [
+          "Артур Тарновски"
+        ],
+        "designers": [
+          "Karen Churma",
+          "Филип Вуд",
+          "Сью Фьялковска",
+          "Кристен Джонстон",
+          "Хань Нгуйен"
+        ],
+        "operators": [
+          "Бруно Филип"
+        ]
+      }
+    },
+    {
+      "id": "movie-34318",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Абракадабра! Или В жизни должно быть что-то большее",
+      "title_orig": "Higglety Pigglety Pop! or There Must Be More to Life",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2010,
+      "kinopoisk_id": "506000",
+      "imdb_id": "tt1603847",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-01T09:11:25Z",
+      "updated_at": "2019-04-01T09:11:25Z",
+      "material_data": {
+        "title": "Абракадабра! Или В жизни должно быть что-то большее",
+        "title_en": "Higglety Pigglety Pop! or There Must Be More to Life",
+        "year": 2010,
+        "description": "У Дженни было все. У нее было две миски с едой, две подушки и красный шерстяной свитер для холодной погоды. Но ей этого было мало. В полночь она собрала все, что у нее было, и в последний раз выглянула в окно.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/506000.jpg",
+        "duration": 24,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм",
+          "семейный"
+        ],
+        "kinopoisk_rating": 6,
+        "kinopoisk_votes": 123,
+        "imdb_rating": 6.2,
+        "imdb_votes": 239,
+        "premiere_world": "2010-03-02",
+        "actors": [
+          "Мэрил Стрип",
+          "Спайк Джонс",
+          "Ален Голем",
+          "Аль Так",
+          "Одре Жюто",
+          "Джеки Барроуз",
+          "Форест Уитакер",
+          "Себастьен Рене",
+          "Натали Клод"
+        ],
+        "directors": [
+          "Крис Лэвис",
+          "Мацек Щербовски"
+        ],
+        "producers": [
+          "Спайк Джонс",
+          "Винсент Ландэй",
+          "Марси Пейдж",
+          "Джон Б. Карлс",
+          "Натали Фэррей",
+          "Николас Фонсека",
+          "Расселл Сансгири",
+          "Морис Сендак",
+          "Дэвид Верралл"
+        ],
+        "writers": [
+          "Морис Сендак"
+        ],
+        "composers": [
+          "Жан-Фредерик Мессье"
+        ],
+        "editors": [
+          "Крис Лэвис",
+          "Мацек Щербовски"
+        ],
+        "designers": [
+          "Никки Вулси",
+          "Бриджитт Генри"
+        ],
+        "operators": [
+          "Стефани Энн Вебер Бирон"
+        ]
+      }
+    },
+    {
+      "id": "movie-31314",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Наше время",
+      "title_orig": "Nuestro tiempo",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1009357",
+      "imdb_id": "tt5265964",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-25T16:19:49Z",
+      "updated_at": "2019-04-01T08:32:05Z",
+      "material_data": {
+        "title": "Наше время",
+        "title_en": "Nuestro tiempo",
+        "year": 2018,
+        "description": "Жизнь семьи известного поэта Хуана и его жены, преподавательницы английской литературы, Эстер, управляющих ранчо в мексиканской провинции, меняется после появления американца Фила, объездчика лошадей. Отношения Эстер и Хуана становятся играми интеллектуалов, и люди оказываются не менее одержимыми животными страстями, чем быки, которых они выращивают.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1009357.jpg",
+        "duration": 177,
+        "countries": [
+          "Дания",
+          "Мексика",
+          "США"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 1393,
+        "imdb_rating": 6.9,
+        "imdb_votes": 1409,
+        "premiere_ru": "2019-01-17",
+        "premiere_world": "2018-09-05",
+        "minimal_age": 18,
+        "actors": [
+          "Наталия Лопес",
+          "Фил Бургерс",
+          "Карлос Рейгадас",
+          "Мария Хагерман",
+          "Яго Мартинес",
+          "Элеасар Рейгадас",
+          "Рут Рейгадас"
+        ],
+        "directors": [
+          "Карлос Рейгадас"
+        ],
+        "producers": [
+          "Хайме Романдиа",
+          "Хулио Чавесмонтес",
+          "Мосес Косио",
+          "Ева Якобсен",
+          "Миккел Йерсин",
+          "Фиорелла Моретти",
+          "Энтони Мьюир",
+          "Катрин Пор",
+          "Лорена Розендо",
+          "Джим Старк"
+        ],
+        "operators": [
+          "Адриан Дурасо",
+          "Диего Гарсиа"
+        ]
+      }
+    },
+    {
+      "id": "movie-34310",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Народная республика желания",
+      "title_orig": "People's Republic of Desire",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1113051",
+      "imdb_id": "tt7478112",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-01T07:57:01Z",
+      "updated_at": "2019-04-01T07:57:01Z",
+      "material_data": {
+        "title": "Народная республика желания",
+        "title_en": "People's Republic of Desire",
+        "year": 2018,
+        "tagline": "What Will You Find if You Pin All Your Hopes Online?",
+        "description": "Могут ли виртуальные отношения заменить реальные человеческие? Особенно, если речь идет о цифровой вселенной, где стримеры зарабатывают до 200 тысяч долларов в месяц. Фильм рассказывает истории двух таких онлайн-звезд, которые родились и выросли в полной изоляции в китайской глуши, но добились славы и удачи в Китае.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1113051.jpg",
+        "duration": 95,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "документальный"
+        ],
+        "imdb_rating": 6.7,
+        "imdb_votes": 414,
+        "premiere_world": "2018-03-10",
+        "minimal_age": 18,
+        "directors": [
+          "Хао У"
+        ],
+        "producers": [
+          "Хао У",
+          "Torsten Hoffmann",
+          "Элисон Клаймен",
+          "Xin Liu",
+          "Жан Цзянь"
+        ],
+        "composers": [
+          "Майкл Таллер"
+        ],
+        "editors": [
+          "Хао У"
+        ],
+        "designers": [
+          "Sorin Voicu"
+        ],
+        "operators": [
+          "Хао У"
+        ]
+      }
+    },
+    {
+      "id": "movie-34248",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Безумная семейка",
+      "title_orig": "Ailecek Saskiniz",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1115071",
+      "imdb_id": "tt7748426",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-03-30T01:38:00Z",
+      "updated_at": "2019-04-01T07:44:03Z",
+      "material_data": {
+        "title": "Безумная семейка",
+        "title_en": "Ailecek Saskiniz",
+        "year": 2018,
+        "description": "Ферхат - испорченный человек и генеральный директор в компании своего отца. Правой рукой Ферхата является его друг детства - Гёкхан, который работает в компании финансовым директором. Однажды они идут в ресторан, чтобы договориться с руководством насчет доставки обедов для их сотрудников. Ферхат безумно влюбляется в дочку директора ресторана, Элиф. Только девушка обладает суровым характером и гибким интеллектом, поэтому Ферхату будет очень сложно завоевать её.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1115071.jpg",
+        "duration": 113,
+        "countries": [
+          "Турция"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "imdb_rating": 6.2,
+        "imdb_votes": 6524,
+        "premiere_world": "2018-03-02",
+        "actors": [
+          "Ахмет Курал",
+          "Мурат Джемджир",
+          "Саадет Аксой",
+          "Дженгиз Бозкурт",
+          "Гюнай Каракаоглу",
+          "Bihter Dinçel",
+          "Мустафа Алабора",
+          "Чаглар Эртугрул",
+          "Серхат Озджан",
+          "Озджан Оздемир"
+        ],
+        "directors": [
+          "Селчук Айдемир"
+        ],
+        "producers": [
+          "Мурат Джемджир",
+          "Necati Kocabay"
+        ],
+        "writers": [
+          "Селчук Айдемир"
+        ],
+        "composers": [
+          "Сунай Озгюр"
+        ],
+        "editors": [
+          "Халук Арусь",
+          "Engin Behlül"
+        ],
+        "designers": [
+          "Сойдан Кас",
+          "Фират Юнлуэль",
+          "Feride Aydin"
+        ],
+        "operators": [
+          "Гёкхан Тирьяки"
+        ]
+      }
+    },
+    {
+      "id": "movie-34311",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Помешанный сын",
+      "title_orig": "Thicker Than Water",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1212052",
+      "imdb_id": "tt8955144",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-01T07:42:52Z",
+      "updated_at": "2019-04-01T07:42:52Z",
+      "material_data": {
+        "title": "Thicker Than Water",
+        "title_en": "",
+        "year": 2019,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1212052.jpg",
+        "duration": 90,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "триллер"
+        ],
+        "imdb_rating": 5,
+        "imdb_votes": 602,
+        "premiere_world": "2019-03-24",
+        "actors": [
+          "Андреа Рот",
+          "Эрик Осборн",
+          "Тай Рунян",
+          "Кэти Дуглас",
+          "Кайла Генри",
+          "Josh Johnston",
+          "Брайан Фроуд",
+          "Флоренс Ситу",
+          "Kayleigh Choiniere",
+          "Ксения Тургуд"
+        ],
+        "directors": [
+          "Кэролайн Лабреш"
+        ],
+        "producers": [
+          "Йен Уайтхед",
+          "Жан Бьюро",
+          "Кейли Кэвэна"
+        ],
+        "writers": [
+          "David Elver",
+          "Андреа Стивенс"
+        ],
+        "composers": [
+          "Джеймс Гелфэнд",
+          "Лолита"
+        ],
+        "editors": [
+          "Maxime Chalifoux"
+        ],
+        "designers": [
+          "Anie Fisette",
+          "Лина Шенье"
+        ],
+        "operators": [
+          "Серж Дерозье"
+        ]
+      }
+    },
+    {
+      "id": "movie-34242",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Парень из моря",
+      "title_orig": "Umi wo kakeru",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1112551",
+      "imdb_id": "tt7299388",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-03-29T17:30:53Z",
+      "updated_at": "2019-04-01T07:41:55Z",
+      "material_data": {
+        "title": "Пришедший из моря",
+        "title_en": "Umi o kakeru",
+        "year": 2018,
+        "description": "Небольшой приморский город в Индонезии, разрушенный войной и цунами. Ацуко и её сын Такаси, которые пытаются восстановить город, находят на берегу мужчину. Он немного говорит по-японски и по-индонезийски. Мать и сын называют его Рау, что на индонезийском означает «море», и берут под свою опеку. Вскоре рядом с Рау начинают происходить необыкновенные вещи.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1112551.jpg",
+        "duration": 107,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 5.8,
+        "imdb_votes": 120,
+        "premiere_world": "2018-05-26",
+        "actors": [
+          "Дин Фудзиока",
+          "Маю Цурута",
+          "Тайга Накано",
+          "Дзюнко Абэ",
+          "Адипати Долкен",
+          "Секар Сари"
+        ],
+        "directors": [
+          "Кодзи Фукада"
+        ],
+        "producers": [
+          "Ёси Кино",
+          "Наоко Комуро",
+          "Сигэдо Араи"
+        ],
+        "writers": [
+          "Кодзи Фукада"
+        ],
+        "editors": [
+          "Кодзи Фукада",
+          "Джулия Грегори"
+        ]
+      }
+    },
+    {
+      "id": "serial-14116",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Домекано",
+      "title_orig": "Domestic na Kanojo",
+      "other_title": "Домашняя Девушка / Domestic Girlfriend",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1240735",
+      "imdb_id": "tt9817980",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9764",
+      "shikimori_id": "37982",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-01-15T06:12:03Z",
+      "updated_at": "2019-04-01T07:03:22Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/373167/5338de5256f9f6a66b3d671de709a712/720p",
+            "2": "//aniqit.com/seria/376925/4a69b0d54605801df3481054fed60881/720p",
+            "3": "//aniqit.com/seria/381887/fe14cc88149f1d0e30cd2e93b3642a3b/720p",
+            "4": "//aniqit.com/seria/387741/5c45c0327f0dbd48008e0f082ea95acb/720p",
+            "5": "//aniqit.com/seria/396956/ab77d751c71026174a03a4edcedfedf1/720p",
+            "6": "//aniqit.com/seria/403208/b5275e0bd606430e2c810849a8059b66/720p",
+            "7": "//aniqit.com/seria/407435/fc5efd7c6d8c0a26053d0fbc7a2ebffb/720p",
+            "8": "//aniqit.com/seria/411881/ea54d17cf28b55a23f75bc5bf42ea73c/720p",
+            "9": "//aniqit.com/seria/414548/4561a6d9974999b4610754429fa66eac/720p",
+            "10": "//aniqit.com/seria/416766/023dab4a9c704554c4d2fadbd37bc9cc/720p",
+            "11": "//aniqit.com/seria/419387/da73e9863e3182f5085ca2f603d6da8f/720p",
+            "12": "//aniqit.com/seria/422410/7f5ca35ca88ab77f2ea36db4ef2eab97/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Домашняя девушка",
+        "title_en": "Domestic na Kanojo",
+        "other_titles": [
+          "Домашняя девушка",
+          "Девушка в моём доме",
+          "Домекано",
+          "Dome x Kano",
+          "Domekano"
+        ],
+        "other_titles_en": [
+          "Domestic Girlfriend"
+        ],
+        "other_titles_jp": [
+          "ドメスティックな彼女"
+        ],
+        "anime_license_name": "Домашняя подружка",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "Нацуо влюблён в свою учительницу Хину. Намереваясь избавиться от своих чувств, он отправляется на групповое свидание, где встречает странную девушку по имени Руи. Попросив об одолжении, Руи уводит юношу к себе домой, где предлагает заняться с ней сексом. Никакой любви, ей всего лишь хочется приобрести опыт. Посчитав это хорошей возможностью забыть о Хине, Нацуо соглашается. Вскоре после женитьбы отца юноша обзаводится двумя сводными сёстрами, к несчастью, хорошо ему знакомыми. Это Хина и Руи.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1240735.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/d2490b3cea55e94f5fe93b7355eeafda124b4df2.png",
+          "https://shikimori.one/system/screenshots/original/a7866be9c9907433958bd8e0777da1ec2ee946f7.png"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "драма",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Романтика",
+          "Сёнен",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Diomedéa"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 1289,
+        "imdb_rating": 6.7,
+        "imdb_votes": 1264,
+        "shikimori_rating": 6.78,
+        "shikimori_votes": 17719,
+        "premiere_world": "2019-01-12",
+        "aired_at": "2019-01-12",
+        "released_at": "2019-03-30",
+        "rating_mpaa": "R+",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Ёко Хикаса",
+          "Гакуто Кадзивара",
+          "Маая Утида",
+          "Таку Ясиро",
+          "Харука Ёсимура"
+        ],
+        "directors": [
+          "Сёта Ибата",
+          "Масаси Омура"
+        ],
+        "producers": [
+          "Хироо Маруяма",
+          "Кэнсукэ Татэиси"
+        ],
+        "writers": [
+          "Кэи Сасуга",
+          "Тацуя Такахаси",
+          "Ватару Ватари"
+        ],
+        "editors": [
+          "Тосихико Кодзима"
+        ],
+        "operators": [
+          "Ясуюки Ито"
+        ]
+      }
+    },
+    {
+      "id": "movie-34272",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Преступник для прокурора",
+      "title_orig": "Kensatsu gawa no zainin",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1047125",
+      "imdb_id": "tt6857956",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-03-31T07:21:25Z",
+      "updated_at": "2019-04-01T05:25:22Z",
+      "material_data": {
+        "title": "Преступник для прокурора",
+        "title_en": "Kensatsu gawa no zainin",
+        "year": 2018,
+        "description": "Молодого прокурора Кэитиро Окино переводят в департамент прокуратуры Токио, который занимается расследованиями насильственных преступлений. Кэитиро очень рад, ведь ему предстоит работать с самим Такэси Могами, которым он давно восхищается. Первое дело не заставляет себя ждать: убита пожилая чета кредиторов, и подозрения падают на Сигэо Мацукуру. Ранее он уже проходил подозреваемым по делу об убийстве школьницы - подруги детства Могами, но срок давности того преступления уже истёк.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1047125.jpg",
+        "duration": 122,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "детектив",
+          "криминал"
+        ],
+        "imdb_rating": 6.4,
+        "imdb_votes": 778,
+        "premiere_world": "2018-08-24",
+        "actors": [
+          "Такуя Кимура",
+          "Кадзунари Ниномия",
+          "Юрико Ёситака",
+          "Такэхиро Хира",
+          "Ютака Мацусигэ",
+          "Кодзи Окура",
+          "Норито Ясима",
+          "Такума Отоо",
+          "Сэй Асина",
+          "Мидорико Кимура"
+        ],
+        "directors": [
+          "Масато Харада"
+        ],
+        "producers": [
+          "Томоя Нисино",
+          "Ёсихиро Сато",
+          "Хисаси Усуи",
+          "Акихиро Ямаути"
+        ],
+        "writers": [
+          "Сюсукэ Сидзукуи",
+          "Масато Харада"
+        ],
+        "composers": [
+          "Харуми Фуки"
+        ],
+        "editors": [
+          "Юджин Харада"
+        ],
+        "designers": [
+          "Кацухиро Фукудзава",
+          "Масаэ Миямото"
+        ],
+        "operators": [
+          "Такахидэ Сибануси"
+        ]
+      }
+    },
+    {
+      "id": "movie-34274",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "15 августа",
+      "title_orig": "15 August",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1246992",
+      "imdb_id": "tt9817300",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-03-31T07:22:36Z",
+      "updated_at": "2019-04-01T05:23:48Z",
+      "material_data": {
+        "title": "15 августа",
+        "title_en": "15 August",
+        "year": 2019,
+        "description": "Главный государственный праздник в Индии – день независимости. Весь народ ликует и празднует это событие и важную дату. Однако им приходится прервать все торжественные мероприятия по одной очень веской причине: в Мумбаи в одной из квартир, где проживала семья рабочих, случается загадочная авария. Счастье семьи разрушено, их сын очень нуждается в помощи. Желая поддержать мальчика, все население города решает оказать ему всю необходимую помощь.",
+        "duration": 124,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "драма",
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 5.8,
+        "imdb_votes": 222,
+        "premiere_world": "2019-03-29",
+        "actors": [
+          "Abhishek Deshmukh",
+          "Мринмаи Дешпанде",
+          "Намрата Кадам",
+          "Addinath Kothare",
+          "Vaibhav Mangale",
+          "Rahul Pethe"
+        ],
+        "directors": [
+          "Свапнанил Джайкар"
+        ],
+        "producers": [
+          "Мадхури Диксит"
+        ],
+        "writers": [
+          "Йогеш Винайяк Джоши"
+        ],
+        "editors": [
+          "Ashish Mhatre",
+          "Apurva Motiwale"
+        ],
+        "operators": [
+          "Милинд Джог"
+        ]
+      }
+    },
+    {
+      "id": "movie-34290",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Каждый кого-то любит",
+      "title_orig": "Todos queremos a alguien",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "969695",
+      "imdb_id": "tt5537228",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-03-31T18:00:52Z",
+      "updated_at": "2019-04-01T04:45:41Z",
+      "material_data": {
+        "title": "Каждый кого-то любит",
+        "title_en": "Todos queremos a alguien",
+        "year": 2017,
+        "description": "Клара Баррон имеет на первый взгляд всё: престижную работу, отличный дом в Лос-Анджелесе и любящую семью. Единственная вещь, в которой она до конца не разобралась, - это её любовная жизнь. Под давлением семейной свадьбы в Мексике Клара просит коллегу по работе сыграть роль её бойфренда в праздничный уик-энд. Неожиданно на свадьбе объявляется бывший парень Клары и фаворит её семьи. Разрываясь на части, Клара должна выбрать между возвращением в прошлое или открытием своего сердца новым и весьма неожиданным возможностям.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/969695.jpg",
+        "duration": 102,
+        "countries": [
+          "Мексика"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 6.5,
+        "imdb_votes": 3797,
+        "premiere_world": "2017-01-07",
+        "rating_mpaa": "PG-13",
+        "actors": [
+          "Карла Соуса",
+          "Хосе Мария Яспик",
+          "Бен О’Тул",
+          "Алехандро Камачо",
+          "Патрисия Берналь",
+          "Тиаре Сканда",
+          "Химена Ромо",
+          "Джейс Александр Баскес",
+          "Рюэл Пендлтон",
+          "К.С. Клайд"
+        ],
+        "directors": [
+          "Каталина Агиляр Мастретта"
+        ],
+        "producers": [
+          "Франсиско Гонсалес Компеан",
+          "Хосе Насиф",
+          "Рамиро Руис",
+          "Орнелла Харамильо",
+          "Хакобо Насар",
+          "Mariana Rodriguez Cabarga",
+          "Родриго Трухильо",
+          "Mónica Vértiz"
+        ],
+        "writers": [
+          "Каталина Агиляр Мастретта"
+        ],
+        "composers": [
+          "Виктор Эрнандес Штумпфхаузер"
+        ],
+        "editors": [
+          "Айна Колледжа",
+          "Мигель Швердфингер"
+        ],
+        "designers": [
+          "Сандра Кабриада",
+          "Николас Скабини",
+          "Roxana Lojero"
+        ],
+        "operators": [
+          "Джон Агирресаробе"
+        ]
+      }
+    },
+    {
+      "id": "movie-34293",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Котокафе",
+      "title_orig": "Neko Cafe",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1238466",
+      "imdb_id": "tt9703882",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-01T04:17:35Z",
+      "updated_at": "2019-04-01T04:17:35Z",
+      "material_data": {
+        "title": "Котокафе",
+        "title_en": "Neko Cafe",
+        "year": 2018,
+        "description": "Сакура Сакураги управляет котокафе под названием «Мокко» в Акихабаре. Она часто выслушивает проблемы посетителей, которые ищут утешение в живущих там кошках.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1238466.jpg",
+        "duration": 90,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 4.8,
+        "imdb_votes": 18,
+        "premiere_world": "2018-12-01",
+        "actors": [
+          "Юрика Кубо",
+          "Манами Араи",
+          "Мансаку Икэути",
+          "Юка Огура"
+        ],
+        "directors": [
+          "Хикару Окита"
+        ]
+      }
+    },
+    {
+      "id": "serial-14046",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Домекано",
+      "title_orig": "Domestic na Kanojo",
+      "other_title": "Домашняя Девушка / Domestic Girlfriend",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1240735",
+      "imdb_id": "tt9817980",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9764",
+      "shikimori_id": "37982",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-01-13T08:08:31Z",
+      "updated_at": "2019-04-01T01:04:17Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/371171/ade3778c7922d4b22f642443a789456d/720p",
+            "2": "//aniqit.com/seria/376493/aef1ae0e630a3cfafc209f98565d5695/720p",
+            "3": "//aniqit.com/seria/381881/827c2f282e24a1cdd46eaf065f02ca17/720p",
+            "4": "//aniqit.com/seria/387755/37ad254899e0d8754ee5ccfde7b68b97/720p",
+            "5": "//aniqit.com/seria/396693/ebddbb791a55a65bbd203dd1427a4321/720p",
+            "6": "//aniqit.com/seria/404696/ea86654f057fefc03ed1b647123cb6f4/720p",
+            "7": "//aniqit.com/seria/407084/311b3bccfef931ac0fc9a2909e0088e5/720p",
+            "8": "//aniqit.com/seria/414657/4560e3d5fc4cd8b1e333479d9cd74760/720p",
+            "9": "//aniqit.com/seria/414658/5b5dcbdee8b6cc78521a105f762baeec/720p",
+            "10": "//aniqit.com/seria/417035/1ce484fcc7d413cc97bc4e2387393a7f/720p",
+            "11": "//aniqit.com/seria/419568/0e719327a799934329c70ab44f857bfa/720p",
+            "12": "//aniqit.com/seria/422360/2737e5b49512a9a489d7da22b32f6756/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Домашняя девушка",
+        "title_en": "Domestic na Kanojo",
+        "other_titles": [
+          "Домашняя девушка",
+          "Девушка в моём доме",
+          "Домекано",
+          "Dome x Kano",
+          "Domekano"
+        ],
+        "other_titles_en": [
+          "Domestic Girlfriend"
+        ],
+        "other_titles_jp": [
+          "ドメスティックな彼女"
+        ],
+        "anime_license_name": "Домашняя подружка",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "Нацуо влюблён в свою учительницу Хину. Намереваясь избавиться от своих чувств, он отправляется на групповое свидание, где встречает странную девушку по имени Руи. Попросив об одолжении, Руи уводит юношу к себе домой, где предлагает заняться с ней сексом. Никакой любви, ей всего лишь хочется приобрести опыт. Посчитав это хорошей возможностью забыть о Хине, Нацуо соглашается. Вскоре после женитьбы отца юноша обзаводится двумя сводными сёстрами, к несчастью, хорошо ему знакомыми. Это Хина и Руи.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1240735.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/d2490b3cea55e94f5fe93b7355eeafda124b4df2.png",
+          "https://shikimori.one/system/screenshots/original/a7866be9c9907433958bd8e0777da1ec2ee946f7.png"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "драма",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Романтика",
+          "Сёнен",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Diomedéa"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 1289,
+        "imdb_rating": 6.7,
+        "imdb_votes": 1264,
+        "shikimori_rating": 6.78,
+        "shikimori_votes": 17719,
+        "premiere_world": "2019-01-12",
+        "aired_at": "2019-01-12",
+        "released_at": "2019-03-30",
+        "rating_mpaa": "R+",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Ёко Хикаса",
+          "Гакуто Кадзивара",
+          "Маая Утида",
+          "Таку Ясиро",
+          "Харука Ёсимура"
+        ],
+        "directors": [
+          "Сёта Ибата",
+          "Масаси Омура"
+        ],
+        "producers": [
+          "Хироо Маруяма",
+          "Кэнсукэ Татэиси"
+        ],
+        "writers": [
+          "Кэи Сасуга",
+          "Тацуя Такахаси",
+          "Ватару Ватари"
+        ],
+        "editors": [
+          "Тосихико Кодзима"
+        ],
+        "operators": [
+          "Ясуюки Ито"
+        ]
+      }
+    },
+    {
       "id": "serial-16138",
       "type": "foreign-serial",
       "link": "",
@@ -538,8 +3024,8 @@
         "kinopoisk_votes": 38417,
         "imdb_rating": 7.6,
         "imdb_votes": 36053,
-        "shikimori_rating": 7.58,
-        "shikimori_votes": 26818,
+        "shikimori_rating": 7.57,
+        "shikimori_votes": 27628,
         "premiere_world": "2012-07-07",
         "aired_at": "2018-10-07",
         "released_at": "2019-03-31",
@@ -698,8 +3184,8 @@
         ],
         "imdb_rating": 7.9,
         "imdb_votes": 75,
-        "shikimori_rating": 6.94,
-        "shikimori_votes": 0,
+        "shikimori_rating": 6.93,
+        "shikimori_votes": 908,
         "premiere_world": "2019-01-09",
         "aired_at": "2019-01-09",
         "released_at": "2019-03-27",
@@ -3878,9 +6364,9 @@
           "Hoods Entertainment"
         ],
         "kinopoisk_rating": 7.1,
-        "kinopoisk_votes": 751,
-        "imdb_rating": 6.6,
-        "imdb_votes": 379,
+        "kinopoisk_votes": 796,
+        "imdb_rating": 6.7,
+        "imdb_votes": 396,
         "shikimori_rating": 7.66,
         "shikimori_votes": 4675,
         "premiere_world": "2018-04-04",
@@ -5647,2420 +8133,6 @@
         ],
         "operators": [
           "Викаш Новлакха"
-        ]
-      }
-    },
-    {
-      "id": "movie-31478",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Огонь, вода и ... медные трубы",
-      "title_orig": "Ogon', voda i ... mednyye truby",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1967,
-      "kinopoisk_id": "42747",
-      "imdb_id": "tt0063380",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-29T00:12:28Z",
-      "updated_at": "2019-03-27T07:07:41Z",
-      "material_data": {
-        "title": "Огонь, вода и ... медные трубы",
-        "title_en": "",
-        "year": 1967,
-        "description": "Герой фильма как-то отправляется в лес, чтобы жечь уголь. И там, на полянке, ему повстречалась Аленушка, которая пасла своего козленка. Но слуги Кащея Бессмертного похитили девушку прямо на глазах у Васи. В поисках возлюбленной Вася в буквальном смысле проходит сквозь огонь и воду. Но труднее всего устоять перед медными трубами, перед сверкающим сиянием славы...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/42747.jpg",
-        "duration": 86,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "мелодрама",
-          "мюзикл",
-          "семейный"
-        ],
-        "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 39901,
-        "imdb_rating": 7.2,
-        "imdb_votes": 685,
-        "premiere_world": "1968-12-13",
-        "minimal_age": 6,
-        "actors": [
-          "Наталья Седых",
-          "Алексей Катышев",
-          "Георгий Милляр",
-          "Леонид Харитонов",
-          "Муза Крепкогорская",
-          "Алексей Смирнов",
-          "Михаил Пуговкин",
-          "Вера Алтайская",
-          "Лев Потемкин",
-          "Александр Хвыля"
-        ],
-        "directors": [
-          "Александр Роу"
-        ],
-        "writers": [
-          "Николай Эрдман",
-          "Михаил Вольпин"
-        ],
-        "composers": [
-          "Николай Будашкин"
-        ],
-        "editors": [
-          "А. Овчарова"
-        ],
-        "designers": [
-          "Арсений Клопотовский"
-        ],
-        "operators": [
-          "Дмитрий Суренский"
-        ]
-      }
-    },
-    {
-      "id": "serial-15847",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Услышь моё сердце",
-      "title_orig": "Naemaeumyi deulrini",
-      "other_title": "Nae Maeumi Deulrini / Listen 2 My Heart / Can You Hear My Heart",
-      "translation": {
-        "id": 864,
-        "title": "Julia Prosenuk",
-        "type": "voice"
-      },
-      "year": 2011,
-      "last_season": 1,
-      "last_episode": 30,
-      "episodes_count": 30,
-      "kinopoisk_id": "821173",
-      "imdb_id": "tt3375852",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-03-12T09:54:30Z",
-      "updated_at": "2019-03-27T06:28:38Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/415082/b21689b4551430d913223fad3c860874/720p",
-            "2": "//kodik.cc/seria/420314/234a6a68f49dc66e41c28a9e11a7244f/720p",
-            "3": "//kodik.cc/seria/420315/c88baf14e08c2d91f9d4c308ac4d6d2c/720p",
-            "4": "//kodik.cc/seria/420316/f7c190316c9faed57727d4af6c2f977f/720p",
-            "5": "//kodik.cc/seria/420317/b023b22f8064b401dcb8f55998563fb0/720p",
-            "6": "//kodik.cc/seria/420318/f7e523a460c1404a9dd1728879e30885/720p",
-            "7": "//kodik.cc/seria/420319/f4f6d3ddda0ba7f624c4e14b246df2df/720p",
-            "8": "//kodik.cc/seria/420320/96744ec2df8f03848ca58d8659fc3ff2/720p",
-            "9": "//kodik.cc/seria/420321/7bf7e2a82934efb71b6413581c675c18/720p",
-            "10": "//kodik.cc/seria/420322/62d12d61228d5aa6afb6f0654bcaa965/720p",
-            "11": "//kodik.cc/seria/420323/b045ce208354fc499aedb74373a451c7/720p",
-            "12": "//kodik.cc/seria/420324/b4a073a0cc1d6b289dd567978a980d89/720p",
-            "13": "//kodik.cc/seria/420325/c82914a65e0fb6eb3b88ddb5442a46ec/720p",
-            "14": "//kodik.cc/seria/420326/7c6792fb8022285283348a7720865d1e/720p",
-            "15": "//kodik.cc/seria/420327/765490c9fdd48af46ba9ca03ab4fd29a/720p",
-            "16": "//kodik.cc/seria/420328/f81f74b7a76b53933ff571d8666a2b34/720p",
-            "17": "//kodik.cc/seria/420329/7759d66290701ccb576619883a101ded/720p",
-            "18": "//kodik.cc/seria/420330/454571fc265cf27ff470edc54a685b3a/720p",
-            "19": "//kodik.cc/seria/420331/9ea759887a5c9cbfafa1fe4026e1d625/720p",
-            "20": "//kodik.cc/seria/420332/aa4b9142d0497c112c129142cd0b710d/720p",
-            "21": "//kodik.cc/seria/420333/b2bbc9d2d2487cd59eb15f96a1d85438/720p",
-            "22": "//kodik.cc/seria/420334/2134537c3f8d9dead76185a58eb5fd99/720p",
-            "23": "//kodik.cc/seria/420335/79505d31c32a2e18254afe4a56f0ad6c/720p",
-            "24": "//kodik.cc/seria/420336/6443c6b6f061774d73be39a084241ef7/720p",
-            "25": "//kodik.cc/seria/420337/52326eb35f9a562e9f4a899d5cdd7a70/720p",
-            "26": "//kodik.cc/seria/420338/dfba667716e2544e965b228e8c549b47/720p",
-            "27": "//kodik.cc/seria/420339/db296422d63d30e1aa9780e28741829b/720p",
-            "28": "//kodik.cc/seria/420340/511904b24f7e25f5bf74f3270b27bf22/720p",
-            "29": "//kodik.cc/seria/420341/bf9c31badf5c4ac74c9e5f196af7c726/720p",
-            "30": "//kodik.cc/seria/420342/7a4df1d5c65c39f3725eb3eb4b1377b5/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Услышь моё сердце",
-        "title_en": "Naemaeumyi deulrini",
-        "year": 2011,
-        "description": "Она - милая и добрая девушка. Он - богатый, но оглохший в результате аварии молодой человек. Им суждено полюбить друг друга и вместе преодолеть все трудности и препятствия на своем пути к счастью.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/821173.jpg",
-        "duration": 60,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 266,
-        "imdb_rating": 7.9,
-        "imdb_votes": 152,
-        "premiere_world": "2011-04-02",
-        "actors": [
-          "Ким Джэ-вон",
-          "Хван Джон-ым",
-          "Намгун Мин",
-          "Чон Бо-сок",
-          "Кан Чхан-хи",
-          "Ким Сэ-рон",
-          "Ким Ё-джин",
-          "Ко Джун-хи",
-          "Ли Хе-ён",
-          "Ли Гю-хан"
-        ],
-        "directors": [
-          "Ким Сан-хо"
-        ],
-        "writers": [
-          "Мун Хи-джон"
-        ]
-      }
-    },
-    {
-      "id": "movie-34124",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Бойся, враг, девятого сына",
-      "title_orig": "Boysya, vrag, devyatogo syna",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1984,
-      "kinopoisk_id": "46161",
-      "imdb_id": "tt0181985",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-27T05:52:41Z",
-      "updated_at": "2019-03-27T05:52:41Z",
-      "material_data": {
-        "title": "Бойся, враг, девятого сына",
-        "title_en": "",
-        "year": 1984,
-        "description": "Младший сын табунщика Ержана — девятый сын Еркенже, отправляется на поиски своего отца и восьмерых братьев, заколдованных злым Тасболом в каменных истуканов. Силой своего духа Еркенже побеждает чары Тасбола и освобождает своих близких.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/46161.jpg",
-        "duration": 69,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "семейный"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 144,
-        "imdb_rating": 7.2,
-        "imdb_votes": 17,
-        "premiere_world": "1984-04-14",
-        "actors": [
-          "Кайрат Нукрадилов",
-          "Гульжан Аспетова",
-          "Нурмухан Жантурин",
-          "Лейла Джумалиева",
-          "Булат Аюханов",
-          "Динмухаммед Ахимов",
-          "Анвар Молдабеков",
-          "Дарига Тлендиева",
-          "Амина Умурзакова",
-          "Болат Абдильманов"
-        ],
-        "directors": [
-          "Виктор Чугунов",
-          "Виктор Пусурманов"
-        ],
-        "writers": [
-          "Ольга Бондаренко"
-        ],
-        "composers": [
-          "Тимур Мынбаев"
-        ],
-        "editors": [
-          "Р. Белякова"
-        ],
-        "designers": [
-          "Сахи Романов",
-          "А. Элсиз"
-        ],
-        "operators": [
-          "Асхат Ашрапов"
-        ]
-      }
-    },
-    {
-      "id": "movie-34128",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Белый пудель",
-      "title_orig": "Belyy pudel",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1956,
-      "kinopoisk_id": "46073",
-      "imdb_id": "tt0047869",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-27T05:48:16Z",
-      "updated_at": "2019-03-27T05:48:16Z",
-      "material_data": {
-        "title": "Белый пудель",
-        "title_en": "",
-        "year": 1955,
-        "description": "Старый шарманщик, юный акробат Сережа и их преданный пудель Арто зарабатывают деньги своими незатейливыми выступлениями перед дачниками. На одной из богатых дач им предлагают продать пуделя. Старый шарманщик отвечает отказом. Тогда собаку похищают...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/46073.jpg",
-        "duration": 70,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "приключения",
-          "семейный"
-        ],
-        "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 708,
-        "imdb_rating": 6.8,
-        "imdb_votes": 31,
-        "premiere_world": "1955-12-30",
-        "minimal_age": 6,
-        "actors": [
-          "Виктор Кольцов",
-          "Владимир Поляков",
-          "Наталья Гицерот",
-          "Александр Антонов",
-          "Семен Свашенко",
-          "Анатолий Фрадис",
-          "Николай Чистяков",
-          "Георгий Милляр",
-          "Н. Кабакова",
-          "Татьяна Барышева"
-        ],
-        "directors": [
-          "Марианна Рошаль",
-          "Владимир Шредель"
-        ],
-        "writers": [
-          "Георгий Гребнер",
-          "Александр Куприн"
-        ],
-        "composers": [
-          "Алексей Муравлёв"
-        ],
-        "designers": [
-          "В. Романеев",
-          "Иосиф Юцевич"
-        ],
-        "operators": [
-          "Андрей Болтянский"
-        ]
-      }
-    },
-    {
-      "id": "movie-34116",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Ури: Нападение на базу",
-      "title_orig": "Uri: The Surgical Strike",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1128572",
-      "imdb_id": "tt8291224",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-27T00:30:34Z",
-      "updated_at": "2019-03-27T05:25:23Z",
-      "material_data": {
-        "title": "Ури: Нападение на базу",
-        "title_en": "Uri: The Surgical Strike",
-        "year": 2018,
-        "description": "18 сентября 2016 года в индийском штате Джамму и Кашмир произошел полномасштабный теракт, от которого пострадали сотни невинных жителей, исчезли с лица земли здания и памятники культуры. За нападениями стояла исламская террористическая группировка Джаиш-е-Мухаммад. 28 сентября индийская армия провела беспрецедентную ответную операцию.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1128572.jpg",
-        "duration": 138,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "военный",
-          "драма"
-        ],
-        "kinopoisk_rating": 5.8,
-        "kinopoisk_votes": 550,
-        "imdb_rating": 8.2,
-        "imdb_votes": 43444,
-        "premiere_world": "2018-09-27",
-        "actors": [
-          "Вики Каушал",
-          "Пареш Раваль",
-          "Мохит Рэйна",
-          "Ями Гаутам",
-          "Кирти Кулхари",
-          "Раджит Капур",
-          "Иван Родригес",
-          "Manshi Parekh",
-          "Сваруп Самрат",
-          "Рива Арора"
-        ],
-        "directors": [
-          "Адитья Дхар"
-        ],
-        "producers": [
-          "Ронни Скривала",
-          "Aleksandar Conic",
-          "Пашан Джал",
-          "Соня Канвар",
-          "Sandeep Mahadik",
-          "Rugved Mondkar",
-          "Рави Сарин",
-          "Sushant Tungare"
-        ],
-        "writers": [
-          "Адитья Дхар"
-        ],
-        "composers": [
-          "Shashwat Sachdev"
-        ],
-        "editors": [
-          "Шивкумар В. Паникер"
-        ],
-        "designers": [
-          "Адитья Канвар",
-          "Ненад Здеро",
-          "Рохит Чатурведи",
-          "Prachi Deshpande"
-        ],
-        "operators": [
-          "Митеш Мирчадани"
-        ]
-      }
-    },
-    {
-      "id": "movie-34121",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Идеальный поцелуй",
-      "title_orig": "The Perfect Kiss",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1032248",
-      "imdb_id": "tt6428844",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-27T05:24:10Z",
-      "updated_at": "2019-03-27T05:24:10Z",
-      "material_data": {
-        "title": "The Perfect Kiss",
-        "title_en": "",
-        "year": 2018,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1032248.jpg",
-        "duration": 83,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "imdb_rating": 3,
-        "imdb_votes": 91,
-        "premiere_world": "2018-03-08",
-        "actors": [
-          "Matyas Plekanec",
-          "Adam Plekanec",
-          "Мартина Адамцова",
-          "Лэнди Кэннон",
-          "Люк-Мартиаль Дажэне",
-          "Софи Гендрон",
-          "Лилиана Коморовска",
-          "Jake Lewis",
-          "Луиса Мартин",
-          "Джеймс МакДугалл"
-        ],
-        "directors": [
-          "Мартина Адамцова"
-        ],
-        "producers": [
-          "Серж Ганье",
-          "Мартина Адамцова",
-          "Steve Elliott"
-        ],
-        "writers": [
-          "Мартина Адамцова"
-        ],
-        "composers": [
-          "Бенжамин Уокен",
-          "Carl Vaudrin"
-        ],
-        "editors": [
-          "Steven Elliott"
-        ],
-        "operators": [
-          "Jan Belina Brzozowski"
-        ]
-      }
-    },
-    {
-      "id": "movie-34117",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Король велосипеда Ом Бок-тон",
-      "title_orig": "Jajeonchawang Eom Bok-dong",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1043628",
-      "imdb_id": "tt9764654",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-27T00:31:31Z",
-      "updated_at": "2019-03-27T05:21:23Z",
-      "material_data": {
-        "title": "Король велосипеда Ом Бок-тон",
-        "title_en": "Jajeonchawang Eom Bok-dong",
-        "year": 2019,
-        "description": "История жизни легендарного корейского велогонщика Ом Бок-тона, национальной корейской звезды времен японской оккупации. В 1913 году молодой Бок-тон был обычным разносчиком газет, когда впервые принял участие в профессиональной велогонке. Пройдёт всего несколько лет, и звезда Кёнсона будет вызывать ненависть у конкурентов-японцев и радость в сердце у всего корейского народа.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1043628.jpg",
-        "duration": 116,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "биография",
-          "драма",
-          "спорт"
-        ],
-        "imdb_rating": 5.6,
-        "imdb_votes": 52,
-        "premiere_world": "2019-02-27",
-        "actors": [
-          "Рэйн",
-          "Кан Со-ра",
-          "Ли Бом-су",
-          "Мин Хё-рин",
-          "Ким Хи-вон",
-          "Ко Чхан-сок",
-          "Ли Щи-он",
-          "Пак Чин-джу",
-          "Сон Джэ-хо",
-          "Пак Кын-хён"
-        ],
-        "directors": [
-          "Ким Ю-сон"
-        ],
-        "producers": [
-          "Ли Бом-су"
-        ],
-        "writers": [
-          "Ким Ю-сон"
-        ],
-        "composers": [
-          "Чхве Ён-нак"
-        ],
-        "editors": [
-          "Пак Кок-чи",
-          "Ли Юн-хи"
-        ],
-        "designers": [
-          "Чан Гын-ён",
-          "Ким Ын-сук"
-        ],
-        "operators": [
-          "Пак Ён-су"
-        ]
-      }
-    },
-    {
-      "id": "serial-12593",
-      "type": "anime-serial",
-      "link": "",
-      "title": "О моём перерождении в слизь [ТВ-1]",
-      "title_orig": "Tensei Shitara Slime Datta Ken",
-      "other_title": "That Time I Got Reincarnated as a Slime",
-      "translation": {
-        "id": 610,
-        "title": "AniLibria.TV",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 25,
-      "episodes_count": 25,
-      "kinopoisk_id": "1224030",
-      "imdb_id": "tt9054364",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9598",
-      "shikimori_id": "37430",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-10-02T14:44:58Z",
-      "updated_at": "2019-03-26T18:52:39Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/336745/9cb9ec68960c691bb05f853ee3183414/720p",
-            "2": "//aniqit.com/seria/339373/6e9105a45e648bd12e4014aa8323b5ec/720p",
-            "3": "//aniqit.com/seria/341212/5704c0f9e14e77b6ef1f4a88e3233c0e/720p",
-            "4": "//aniqit.com/seria/342977/aef059a07914fdcbeb19057cb4183f15/720p",
-            "5": "//aniqit.com/seria/345815/c533b55f147eefe25a6a8963fc31bbd5/720p",
-            "6": "//aniqit.com/seria/348073/b1fa4b36c6552f591f187af9f05f6a5a/720p",
-            "7": "//aniqit.com/seria/351397/e7bbb7db71fc5bf9d70e0717b5943b30/720p",
-            "8": "//aniqit.com/seria/354815/fe14542a74a5d27aac8fd08fe993c370/720p",
-            "9": "//aniqit.com/seria/357207/6ce937d160b0e294aa04f4f0532f091d/720p",
-            "10": "//aniqit.com/seria/358799/d4e58a37de2358c19b7dd8cd6235b740/720p",
-            "11": "//aniqit.com/seria/361119/9e6cb03ec8ce3b655147d3745b99e744/720p",
-            "12": "//aniqit.com/seria/363567/f2c902d0c9b5308597f3955ed74d7e73/720p",
-            "13": "//aniqit.com/seria/365765/008c3fbe40d6ff2d5113a0528025dc8c/720p",
-            "14": "//aniqit.com/seria/369604/f24f696eab686016689b0b3b66efaa4d/720p",
-            "15": "//aniqit.com/seria/373331/bfa7972a85704802e9bdabf10391b9e2/720p",
-            "16": "//aniqit.com/seria/378253/fb7094d358a98988f176365a0290d249/720p",
-            "17": "//aniqit.com/seria/382797/b70b3f5cd4104b03ef9c45a7b6c44029/720p",
-            "18": "//aniqit.com/seria/400303/9198b01db5b1ba8cbf5a764f4121fbbd/720p",
-            "19": "//aniqit.com/seria/400304/b397245a20ed8a1a1df6fab7d9ff4351/720p",
-            "20": "//aniqit.com/seria/405546/e184f25394bd75a47e410dd6c80471d5/720p",
-            "21": "//aniqit.com/seria/408637/cff5f9e187ca07f27153982b4e086c7f/720p",
-            "22": "//aniqit.com/seria/413070/02a3db08a13b294da7f85ec9f7a45bd5/720p",
-            "23": "//aniqit.com/seria/415222/87a03b99526df71ac6494a86497195c5/720p",
-            "24": "//aniqit.com/seria/418062/21c5b51eadf04b7cf21710d2e07b8f0d/720p",
-            "25": "//aniqit.com/seria/420227/ea7c3f7d1be6e027fcad43ad68505958/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "О моём перерождении в слизь",
-        "title_en": "Tensei Shitara Slime Datta Ken",
-        "other_titles": [
-          "Tensura"
-        ],
-        "other_titles_en": [
-          "That Time I Got Reincarnated as a Slime"
-        ],
-        "other_titles_jp": [
-          "転生したらスライムだった件"
-        ],
-        "anime_license_name": "О моём перерождении в слизь",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2018,
-        "description": "Обычный служащий финансовой компании Сатору Миками погибает, защищая коллегу от грабителя с ножом. После смерти Сатору попадает в фэнтезийный мир, в котором он предстаёт в виде комка слизи средних размеров по имени Римуру, наделённой немалым разумом. Отныне Римуру будет жить в мире, полном разных рас, в надежде построить однажды страну, где к каждой расе будут относиться одинаково.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1224030.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/db0ddb26e853727d21fc66f59b3a66b101e2e53c.png",
-          "https://shikimori.one/system/screenshots/original/88cd905a87a0aa4784ccb211df4dbe0215465f09.png"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Сёнен",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "8bit"
-        ],
-        "kinopoisk_rating": 7.5,
-        "kinopoisk_votes": 5296,
-        "imdb_rating": 8,
-        "imdb_votes": 4084,
-        "shikimori_rating": 8.08,
-        "shikimori_votes": 36544,
-        "premiere_world": "2018-10-02",
-        "aired_at": "2018-10-02",
-        "released_at": "2019-03-19",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 24,
-        "episodes_aired": 25,
-        "actors": [
-          "Михо Окадзаки",
-          "Мэгуми Тоёгути",
-          "Тикахиро Кобаяси",
-          "Асуна Томари",
-          "Канэхира Ямамото",
-          "Мао Итимити",
-          "Дзюн Фукусима",
-          "Макото Фурукава",
-          "Такуя Эгути",
-          "Хотю Оцука"
-        ],
-        "directors": [
-          "Ясухито Кикути"
-        ],
-        "designers": [
-          "Аюми Сато"
-        ],
-        "operators": [
-          "Хироси Сато"
-        ]
-      }
-    },
-    {
-      "id": "serial-14541",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Кровавый роман",
-      "title_orig": "Mei Zhe Wu Jiang",
-      "other_title": "Кровавая история любви / Bloody Romance",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 36,
-      "episodes_count": 36,
-      "kinopoisk_id": "1152473",
-      "imdb_id": "tt7834942",
-      "mdl_id": "27510-bloody-romance",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-01-27T15:42:49Z",
-      "updated_at": "2019-03-26T09:57:34Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/381731/8304ca073f3f5f7fb3d5107849690c77/720p",
-            "2": "//kodik.cc/seria/381732/e16582f96310cceca4f061de01a4972e/720p",
-            "3": "//kodik.cc/seria/381733/00c512ae31656cc6bbdc62989117a6ea/720p",
-            "4": "//kodik.cc/seria/381734/e51a6b71e353a148306c8cc53f817e70/720p",
-            "5": "//kodik.cc/seria/381735/d4db4bbae13234e382363c1c489c5c46/720p",
-            "6": "//kodik.cc/seria/381736/b0a3dbe3dd9d45a384da53530120c3c0/720p",
-            "7": "//kodik.cc/seria/381737/65aea75ef484067177840818bd786725/720p",
-            "8": "//kodik.cc/seria/381738/51468d7aaf734fb90eb60c309f56d70b/720p",
-            "9": "//kodik.cc/seria/381739/aafbd50a75896ae144c3822d05248db6/720p",
-            "10": "//kodik.cc/seria/381740/abea59ad50819f21ad16211210623bfb/720p",
-            "11": "//kodik.cc/seria/381741/5d8944e45242ce7a2d2627c8728a5f00/720p",
-            "12": "//kodik.cc/seria/381742/9ee5369c7dec80dc69ff14dd8d60a076/720p",
-            "13": "//kodik.cc/seria/381743/cfc0382a3b3ebe31fef2d49535e50fbb/720p",
-            "14": "//kodik.cc/seria/381744/2ae19d93fa41a079be3e8488293d7848/720p",
-            "15": "//kodik.cc/seria/381745/7384ff40a08241ae5221d1ba39ac9b55/720p",
-            "16": "//kodik.cc/seria/381746/d312ff31b289ec079575e499b496c305/720p",
-            "17": "//kodik.cc/seria/381747/d43dfa3d1f9239e51cd50fc40a15196f/720p",
-            "18": "//kodik.cc/seria/381748/bd08104901202f3985ed08ca3a18bd6f/720p",
-            "19": "//kodik.cc/seria/381749/e26358ce7145662f7d2d716c840c2d06/720p",
-            "20": "//kodik.cc/seria/381750/333ccfd3337e3a26eb0e9f556d372290/720p",
-            "21": "//kodik.cc/seria/381751/15b8931a7f9089520ecf9e6e6b9ff72c/720p",
-            "22": "//kodik.cc/seria/381752/eb1f6a8513ef34119f559f8d5bba572c/720p",
-            "23": "//kodik.cc/seria/381753/c6fc5785208f07bec7f6cd7d267b1ff9/720p",
-            "24": "//kodik.cc/seria/381754/f8f41beb43fe54f6f4a63b6bb48d3155/720p",
-            "25": "//kodik.cc/seria/381755/1bfd8eb75bbf5492a4d48de9247af758/720p",
-            "26": "//kodik.cc/seria/382028/5530ba44a39a005cc8ddefbe164a0414/720p",
-            "27": "//kodik.cc/seria/388936/3f65f7d5600d35871e52f04e34954d1e/720p",
-            "28": "//kodik.cc/seria/388945/e4352ce92cb3d20b5a3ed8ccb7927bef/720p",
-            "29": "//kodik.cc/seria/399223/b87844b74320adcb9df641bf500b438e/720p",
-            "30": "//kodik.cc/seria/403786/9f3a8c1920838c15c0601f2e8084ddac/720p",
-            "31": "//kodik.cc/seria/408075/8aa95d935215ffbf261427895ec41075/720p",
-            "32": "//kodik.cc/seria/412579/29a41efbf6ea946707ad624fa002c474/720p",
-            "33": "//kodik.cc/seria/414945/d4b25cedba75a62fbc29ba399622d7b8/720p",
-            "34": "//kodik.cc/seria/414946/4b9276bf483b4652425cf8b8e18b4319/720p",
-            "35": "//kodik.cc/seria/417447/c6f398d8e80e94f68b2d884aadb716e9/720p",
-            "36": "//kodik.cc/seria/420136/d88da4f3a27da8f2296dfbb9b917ce3b/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Кровавый роман",
-        "title_en": "Mei zhe wu jiang",
-        "year": 2018,
-        "description": "Конец правления династии Тан. Ци Сюэ в возрасте 16 лет отец продаёт в бордель, и она случайно попадает в таинственный город, где получает новое имя Ван Мэй. Девушка проходит через жёсткое обучение и испытания, чтобы стать убийцей. Выполняя опасные задания, она попадает в сложные ситуации, но получает защиту и помощь Чан Ана - загадочного человека, следующего за ней как тень.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1152473.jpg",
-        "duration": 42,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "боевик",
-          "мелодрама",
-          "фэнтези"
-        ],
-        "imdb_rating": 8.5,
-        "imdb_votes": 75,
-        "premiere_world": "2018-07-24",
-        "actors": [
-          "Пафф Го",
-          "Тони Ван",
-          "Цюй Чусяо",
-          "Ли Итун"
-        ],
-        "directors": [
-          "И Цзюнь"
-        ],
-        "producers": [
-          "Чжан Вэй",
-          "Сюй Цзичжоу"
-        ],
-        "writers": [
-          "Dianqianhuan"
-        ]
-      }
-    },
-    {
-      "id": "movie-34087",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Вышибала: Эпический замес",
-      "title_orig": "Goon: Last of the Enforcers",
-      "translation": {
-        "id": 882,
-        "title": "English",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "710151",
-      "imdb_id": "tt2417712",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-26T08:27:55Z",
-      "updated_at": "2019-03-26T08:27:55Z",
-      "material_data": {
-        "title": "Вышибала: Эпический замес",
-        "title_en": "Goon: Last of the Enforcers",
-        "year": 2016,
-        "tagline": "Забей на всё!",
-        "description": "Даг - хоккеист, который совершенно не умеет играть в хоккей, но запросто может положить любого с помощью своих могучих кулаков. В результате травмы ударной правой руки ему приходится покинуть хоккей. Но как смириться со скучной офисной работой, когда капитаном твоей команды становится какой-то наглый мордоворот. Дагу придется объединиться со своим злейшим врагом, чтобы вернуться на лед и сделать своих соперников одной левой. Больше отжига, больше беспредела!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/710151.jpg",
-        "duration": 101,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "комедия",
-          "спорт"
-        ],
-        "kinopoisk_rating": 5.6,
-        "kinopoisk_votes": 5282,
-        "imdb_rating": 5.8,
-        "imdb_votes": 12115,
-        "premiere_ru": "2017-08-31",
-        "premiere_world": "2017-03-17",
-        "rating_mpaa": "R",
-        "minimal_age": 18,
-        "actors": [
-          "Шонн Уильям Скотт",
-          "Джей Барушель",
-          "Элисон Пилл",
-          "Марк-Андре Гронден",
-          "Лив Шрайбер",
-          "Уайатт Рассел",
-          "Ким Коутс",
-          "Элиша Катберт",
-          "Каллум Кит Ренни",
-          "Джонатан Черри"
-        ],
-        "directors": [
-          "Джей Барушель"
-        ],
-        "producers": [
-          "Джей Барушель",
-          "Дэвид Гросс",
-          "Андре Руле",
-          "Джефф Аркусс",
-          "Джесси Шабо",
-          "Валери д’Отей",
-          "Эван Голдберг",
-          "Хартли Горенштейн",
-          "Кайл Хантер",
-          "Патрик Рой"
-        ],
-        "writers": [
-          "Джей Барушель",
-          "Джесси Шабо",
-          "Эван Голдберг",
-          "Адам Фраттасио",
-          "Даг Смит"
-        ],
-        "composers": [
-          "Тревор Моррис"
-        ],
-        "editors": [
-          "Джейсон Айзенер"
-        ],
-        "designers": [
-          "Энтони А. Ианни",
-          "Мишель Лэннон",
-          "Лиа Карлсон",
-          "Мэри Керклэнд"
-        ],
-        "operators": [
-          "Пол Шарошши"
-        ]
-      }
-    },
-    {
-      "id": "movie-34100",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Бомбардировка",
-      "title_orig": "Da hong zha",
-      "translation": {
-        "id": 882,
-        "title": "English",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "916016",
-      "imdb_id": "tt4743226",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-26T08:11:51Z",
-      "updated_at": "2019-03-26T08:11:51Z",
-      "material_data": {
-        "title": "Бомбардировка",
-        "title_en": "Da hong zha",
-        "year": 2018,
-        "tagline": "China 1939. WWII's untold story.",
-        "description": "Февраль 1938 года, Вторая японо-китайская война. После вынужденного переноса китайской столицы в Чунцин японское командование принимает решение - стереть город с лица земли. Японцы готовились к войне на Тихом океане и надеялись принудить правительство Чан Кайши к скорейшему выходу из войны. Тысячи тонн снарядов обрушиваются на мирные кварталы Чунцина.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/916016.jpg",
-        "duration": 132,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "боевик",
-          "военный",
-          "драма"
-        ],
-        "kinopoisk_rating": 4.4,
-        "kinopoisk_votes": 511,
-        "imdb_rating": 3.2,
-        "imdb_votes": 3660,
-        "premiere_world": "2018-10-17",
-        "rating_mpaa": "R",
-        "actors": [
-          "Лю Е",
-          "Брюс Уиллис",
-          "Сон Сын-хон",
-          "Уильям Чань",
-          "Фань Вэй",
-          "У Ган",
-          "Ма Су",
-          "Чэ Юнли",
-          "Фэн Юаньчжэн",
-          "Джанин Чан"
-        ],
-        "directors": [
-          "Сяо Фэн"
-        ],
-        "producers": [
-          "Стивен Дж. Идс",
-          "Ши Цзяньсян",
-          "Ян Бутин",
-          "Бэрри Брукер",
-          "Benjamin Chen",
-          "Johnny Yan Chen",
-          "Дэнни Димборт",
-          "Jiajun Du",
-          "Стивен Экелберри",
-          "Мэл Гибсон"
-        ],
-        "writers": [
-          "Чэнь Пин"
-        ],
-        "composers": [
-          "Ван Лигуан"
-        ],
-        "editors": [
-          "Роберт А. Ферретти",
-          "Эрик Квон"
-        ],
-        "designers": [
-          "Хуайтсин Мао"
-        ],
-        "operators": [
-          "Ян Шу"
-        ]
-      }
-    },
-    {
-      "id": "movie-34081",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Сладостный край",
-      "title_orig": "Sweet Country",
-      "translation": {
-        "id": 882,
-        "title": "English",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1047310",
-      "imdb_id": "tt6958212",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-26T07:24:48Z",
-      "updated_at": "2019-03-26T07:24:48Z",
-      "material_data": {
-        "title": "Сладостный край",
-        "title_en": "Sweet Country",
-        "year": 2017,
-        "tagline": "Justice seen to be done just isn't enough.",
-        "description": "Австралия, 1920-е годы. Защищаясь от пьяного разъяренного землевладельца, абориген Сэм убивает его и вместе с женой пускается в бега. Так как местный служитель закона сержант Флетчер уверен, что белый землевладелец был хорошим человеком, то решает любой ценой изловить беглеца и доставить его к виселице.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1047310.jpg",
-        "duration": 113,
-        "countries": [
-          "Австралия"
-        ],
-        "genres": [
-          "драма",
-          "криминал",
-          "триллер"
-        ],
-        "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 602,
-        "imdb_rating": 6.9,
-        "imdb_votes": 7442,
-        "premiere_world": "2017-09-06",
-        "rating_mpaa": "R",
-        "actors": [
-          "Брайан Браун",
-          "Luka Magdeline Cole",
-          "Shanika Cole",
-          "Мэтт Дэй",
-          "Тремейн Дулан",
-          "Trevon Doolan",
-          "Анни Финстерер",
-          "Натасия Гори Фурбер",
-          "Гибсон Джон",
-          "Ивен Лесли"
-        ],
-        "directors": [
-          "Уорвик Торнтон"
-        ],
-        "producers": [
-          "Дэвид Джоуси",
-          "Грир Симпкин",
-          "Скотт Отто Андерсон",
-          "Крэйг Дикер",
-          "Christina Kennedy",
-          "Trevor Kennedy",
-          "Фиона Лэньон",
-          "Оливер Лоуренс",
-          "Эндрю Маки",
-          "Ричард Пейтен"
-        ],
-        "writers": [
-          "Steven McGregor",
-          "David Tranter"
-        ],
-        "editors": [
-          "Ник Мейерс"
-        ],
-        "designers": [
-          "Тони Кронин",
-          "Тео Бентон",
-          "Хезер Уоллес"
-        ],
-        "operators": [
-          "Дилан Ривер",
-          "Уорвик Торнтон"
-        ]
-      }
-    },
-    {
-      "id": "movie-34084",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Радиус",
-      "title_orig": "Radius",
-      "translation": {
-        "id": 882,
-        "title": "English",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1005623",
-      "imdb_id": "tt6097798",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-26T07:19:01Z",
-      "updated_at": "2019-03-26T07:19:01Z",
-      "material_data": {
-        "title": "Радиус",
-        "title_en": "Radius",
-        "year": 2017,
-        "tagline": "An amnesiac man discovers than anyone who comes within a 50-foot radius of him dies instantly.",
-        "description": "Очнувшись после автомобильной аварии, Лиам не может ничего вспомнить. Он пытается найти помощь, но на его пути встречаются лишь мертвые тела. Первая догадка - вирус, распространяющийся по воздуху. Но скоро парень узнает ужасную правду - любой, кто находится от него в радиусе 15 метров, немедленно умирает.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1005623.jpg",
-        "duration": 93,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "триллер",
-          "фантастика"
-        ],
-        "kinopoisk_rating": 6.2,
-        "kinopoisk_votes": 4054,
-        "imdb_rating": 6.3,
-        "imdb_votes": 13483,
-        "premiere_world": "2017-07-17",
-        "actors": [
-          "Диего Клаттенхофф",
-          "Шарлотта Салливан",
-          "Бретт Донахью",
-          "Брэдли Савацки",
-          "Андреа дель Кампо",
-          "Кристен Савацки",
-          "Даррен Фелбел",
-          "Джеймс Дархэм",
-          "Назарий Демкович",
-          "Шеннон Гайл"
-        ],
-        "directors": [
-          "Кэролайн Лабреш",
-          "Steeve Léonard"
-        ],
-        "producers": [
-          "Бенуа Больё",
-          "Жан Ду Ту",
-          "Энн-Мари Желина",
-          "Жиль Даус",
-          "Катрин Дюмонсо",
-          "Патрик Эвальд",
-          "Диего Клаттенхофф",
-          "Франсуа Симар",
-          "Стефани Трепаниер",
-          "Анук Висселль"
-        ],
-        "writers": [
-          "Кэролайн Лабреш",
-          "Steeve Léonard"
-        ],
-        "composers": [
-          "Бенуа Шаре"
-        ],
-        "editors": [
-          "Steeve Léonard"
-        ],
-        "designers": [
-          "Мэриам Дектер",
-          "Lori Stefaniuk",
-          "Matt Holm"
-        ],
-        "operators": [
-          "Саймон Вильнёв"
-        ]
-      }
-    },
-    {
-      "id": "movie-34062",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Джаспер Джонс",
-      "title_orig": "Jasper Jones",
-      "translation": {
-        "id": 882,
-        "title": "English",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "942223",
-      "imdb_id": "tt5091014",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-26T05:58:30Z",
-      "updated_at": "2019-03-26T05:58:30Z",
-      "material_data": {
-        "title": "Джаспер Джонс",
-        "title_en": "Jasper Jones",
-        "year": 2016,
-        "tagline": "A knock at the window. Their lives changed forever.",
-        "description": "История Чарльза Бактина - четырнадцатилетнего мальчика, который очень любит читать. Однажды ночью к нему за помощью обращается местный изгой, мулат Джаспер Джонс, нашедший тело своей девушки. Втайне от взрослых Чарли пытается найти настоящего убийцу, попутно борясь с проявлениями расизма, переживая разлад в семье и первую любовь.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/942223.jpg",
-        "duration": 105,
-        "countries": [
-          "Австралия"
-        ],
-        "genres": [
-          "детектив",
-          "драма",
-          "триллер"
-        ],
-        "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 402,
-        "imdb_rating": 6.5,
-        "imdb_votes": 2940,
-        "premiere_world": "2017-03-02",
-        "actors": [
-          "Леви Миллер",
-          "Энгаури Райс",
-          "Аарон Л. МакГрат",
-          "Тони Коллетт",
-          "Хьюго Уивинг",
-          "Kevin Long",
-          "Мэтью Нэйбл",
-          "Nandalie Campbell Killick",
-          "Дэниэл Уилли",
-          "Уилсон Мур"
-        ],
-        "directors": [
-          "Рэйчел Перкинс"
-        ],
-        "producers": [
-          "Дэвид Джоуси",
-          "Винсент Шиэн",
-          "Крэйг Дикер",
-          "Луиса Корс",
-          "Colin McCumstie",
-          "Ребекка О’Брайэн",
-          "Анита Шиэн",
-          "Грир Симпкин",
-          "Лиз Уоттс",
-          "Пол Вигард"
-        ],
-        "writers": [
-          "Шон Грант",
-          "Craig Silvey"
-        ],
-        "composers": [
-          "Энтони Партос"
-        ],
-        "editors": [
-          "Вероника Жене"
-        ],
-        "designers": [
-          "Херберт Пинтер",
-          "Майкл Рамф",
-          "Марго Уилсон"
-        ],
-        "operators": [
-          "Марк Уэрхем"
-        ]
-      }
-    },
-    {
-      "id": "movie-34072",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Американский палач",
-      "title_orig": "American Hangman",
-      "translation": {
-        "id": 706,
-        "title": "iTunes",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1191273",
-      "imdb_id": "tt8975028",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-26T05:44:53Z",
-      "updated_at": "2019-03-26T05:44:53Z",
-      "material_data": {
-        "title": "Американский палач",
-        "title_en": "American Hangman",
-        "year": 2019,
-        "description": "Похищение человека, которое транслируют в прямом эфире в социальных сетях, внезапно превращается в разбирательство над судьей, который вынес неверный вердикт в одном из своих прошлых уголовных дел. Однако на этот раз судья становится подсудимым, а роль судьи и присяжных исполняют зрители прямой трансляции и именно им предстоит решать, останется ли он в живых.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1191273.jpg",
-        "duration": 99,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "триллер"
-        ],
-        "kinopoisk_rating": 6,
-        "kinopoisk_votes": 1879,
-        "imdb_rating": 5.9,
-        "imdb_votes": 3103,
-        "premiere_world": "2019-01-04",
-        "actors": [
-          "Дональд Сазерленд",
-          "Винсент Картайзер",
-          "Оливер Дэннис",
-          "Пол Браунштейн",
-          "Люсия Уолтерс",
-          "Ал Сапиенца",
-          "Джесс Салгейру",
-          "Джоэнн Боланд",
-          "Парвин Каур",
-          "Дженелл Уильямс"
-        ],
-        "directors": [
-          "Уилсон Конибер"
-        ],
-        "producers": [
-          "Уилсон Конибер",
-          "Meredith Fowler",
-          "Jim Sternberg",
-          "Марина Кордони",
-          "Кирк д’Амико",
-          "Огден Гавански",
-          "Марк Жингра",
-          "Уэйн Марк Годфри",
-          "Роберт Джонс",
-          "Джастин Келли"
-        ],
-        "writers": [
-          "Уилсон Конибер"
-        ],
-        "composers": [
-          "Dillon Baldassero"
-        ],
-        "editors": [
-          "Майкл Пьерро"
-        ],
-        "designers": [
-          "Диана Аббатанджело",
-          "Hiep Pham",
-          "Аманда Ли Шоу",
-          "Louise Bergeron",
-          "Адам Принц"
-        ],
-        "operators": [
-          "Марк Ирвин"
-        ]
-      }
-    },
-    {
-      "id": "movie-34074",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Маленькая принцесса",
-      "title_orig": "Mommy's Little Princess",
-      "translation": {
-        "id": 819,
-        "title": "AlphaProject",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1179542",
-      "imdb_id": "tt8782974",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-26T05:37:39Z",
-      "updated_at": "2019-03-26T05:37:39Z",
-      "material_data": {
-        "title": "Мамина маленькая принцесса",
-        "title_en": "Mommy's Little Princess",
-        "year": 2019,
-        "description": "12-летняя Лиззи узнает, что её биологические родители из немецкой королевской семьи. Лиззи хочет, чтобы она и её приемная мать присоединились к этой семье, и ради этого не остановится ни перед чем, включая убийство.",
-        "duration": 85,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 5.3,
-        "imdb_votes": 209,
-        "premiere_world": "2019-03-17",
-        "actors": [
-          "Алисия Ли Уиллис",
-          "Сара Эбботт",
-          "Kelly Whyte",
-          "Джефф Теравайнен",
-          "Джэда ЛеБланк",
-          "Jonathon LeRose",
-          "Бенедикт Белизейр",
-          "Эмма Тейлор-Айшервуд",
-          "Софи Гендрон",
-          "Lillian Sagriff"
-        ],
-        "directors": [
-          "Кертис Кроуфорд"
-        ],
-        "producers": [
-          "Стив Бойсверт",
-          "Нил Брегман",
-          "Кертис Кроуфорд",
-          "Sebastian Battro",
-          "Том Берри",
-          "Roxanne Boisvert",
-          "Синтия Бурк",
-          "Кристин Конрадт",
-          "Пьер Дэвид",
-          "Е. Эндрю Пекс"
-        ],
-        "writers": [
-          "Кристин Конрадт"
-        ],
-        "composers": [
-          "Ричард Бауэрс"
-        ],
-        "editors": [
-          "Джордан Дженсен"
-        ],
-        "designers": [
-          "Josée Langlois",
-          "Michael Pembroke",
-          "Tammie Walker"
-        ],
-        "operators": [
-          "Билл Ст. Джон"
-        ]
-      }
-    },
-    {
-      "id": "movie-34045",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Детектив с пучком на голове",
-      "title_orig": "Top Knot Detective",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1030922",
-      "imdb_id": "tt4119054",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-25T17:33:56Z",
-      "updated_at": "2019-03-26T05:18:00Z",
-      "material_data": {
-        "title": "Детектив с пучком на голове",
-        "title_en": "Top Knot Detective",
-        "year": 2017,
-        "tagline": "Learn the inside story about the greatest Japanese samurai series, you've never heard of before.",
-        "description": "Ведущий передачи об интересных, но неизвестных широкой публике фильмах и сериалах рассказывает о культовом японском сериале 80-х годов про самурая-детектива. Члены съёмочной группы вспоминают его создателя, режиссёра и исполнителя главной роли Такаси Такамото, отношения на съёмочной площадке и о том, как так получилось, что этот великий трэш-сериал больше нельзя посмотреть.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1030922.jpg",
-        "duration": 87,
-        "countries": [
-          "Австралия",
-          "Япония"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "комедия"
-        ],
-        "imdb_rating": 6.4,
-        "imdb_votes": 311,
-        "premiere_world": "2017-04-01",
-        "actors": [
-          "Тоси Окудзаки",
-          "Маса Ямагути",
-          "Маю Ивасаки",
-          "Куни Хасимото",
-          "Идзуми Вудс",
-          "Нубуаки Симамото",
-          "Ёдзи Тацута",
-          "Синити Мацуда",
-          "Оскар Харрис",
-          "Ли Лин Чин"
-        ],
-        "directors": [
-          "Аарон МакКанн",
-          "Доминик Пирс"
-        ],
-        "producers": [
-          "Lauren Brunswick",
-          "Аарон МакКанн",
-          "Эйдан О’Брайан",
-          "Доминик Пирс",
-          "Bridgette Terlick"
-        ],
-        "writers": [
-          "Аарон МакКанн",
-          "Доминик Пирс"
-        ],
-        "composers": [
-          "Malcolm Clark",
-          "Lance Robinson",
-          "Mason Vellios"
-        ],
-        "editors": [
-          "Steven Aaron Hughes",
-          "Доминик Пирс"
-        ],
-        "designers": [
-          "Matt Willemsen",
-          "Элизабет Раттен",
-          "Николь Ферраро"
-        ],
-        "operators": [
-          "A.J. Coultier"
-        ]
-      }
-    },
-    {
-      "id": "movie-34050",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Ах, водевиль, водевиль...",
-      "title_orig": "Akh, vodevil, vodevil...",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1980,
-      "kinopoisk_id": "79874",
-      "imdb_id": "tt0078743",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-26T05:14:43Z",
-      "updated_at": "2019-03-26T05:14:43Z",
-      "material_data": {
-        "title": "Ах, водевиль, водевиль...",
-        "title_en": "",
-        "year": 1980,
-        "description": "Старый добрый XIX век. Богатый отставной прапорщик Акакий Ушица - не молод, да и ходит на протезе. Первые две жены ему не удались, но, милостью Божией, обе померли. И взбрело ему в голову жениться снова на очаровательной, юной Верочке.\n\rЕго желание горячо поддерживает ее отец, актер «больших и малых театров» Михайло Лисичкин. Верочка же мечтает только о сцене. Служанка Катенька вызвалась помочь бедной девушке. Как же они одурачат незадачливого жениха, да и любящего папочку заодно!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/79874.jpg",
-        "duration": 67,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "комедия",
-          "мюзикл"
-        ],
-        "kinopoisk_rating": 7.4,
-        "kinopoisk_votes": 3561,
-        "imdb_rating": 6.5,
-        "imdb_votes": 149,
-        "premiere_world": "1980-01-06",
-        "minimal_age": 0,
-        "actors": [
-          "Олег Табаков",
-          "Михаил Пуговкин",
-          "Галина Беляева",
-          "Людмила Крылова",
-          "Жанна Рождественская",
-          "Эммануил Геллер",
-          "Лина Арифулина",
-          "Борис Иванов",
-          "Татьяна Розова",
-          "Людмила Ларина"
-        ],
-        "directors": [
-          "Георгий Юнгвальд-Хилькевич"
-        ],
-        "writers": [
-          "Георгий Юнгвальд-Хилькевич",
-          "Петр Григорьев"
-        ],
-        "composers": [
-          "Максим Дунаевский",
-          "Дмитрий Атовмян"
-        ],
-        "designers": [
-          "Давид Виницкий"
-        ],
-        "operators": [
-          "Владимир Бондарев"
-        ]
-      }
-    },
-    {
-      "id": "serial-14166",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Никогда тебя не отпущу",
-      "title_orig": "Xiao nu hua bu qi",
-      "other_title": "Легенда о Хуа Буци / Маленькие девочки не сдаются / I Will Never Let You Go / Little Girl Does Not Give Up / Legend of Hua Buqi",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 51,
-      "episodes_count": 51,
-      "kinopoisk_id": "1230504",
-      "imdb_id": "tt9587412",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-01-16T22:47:04Z",
-      "updated_at": "2019-03-25T20:29:18Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/374147/864f9228704fe658f2cdab583621dccf/720p",
-            "2": "//kodik.cc/seria/374148/4fb0268f1e80973a815a19b08f763930/720p",
-            "3": "//kodik.cc/seria/374149/a394dc8e561ea594ae8956d4833ebf2f/720p",
-            "4": "//kodik.cc/seria/374150/80feb7abebda062685b57b20bd2f4240/720p",
-            "5": "//kodik.cc/seria/375337/e786622b89e1f651b3bbbeb54c00f619/720p",
-            "6": "//kodik.cc/seria/375338/b291076777a62529b5140b8e6c42ad64/720p",
-            "7": "//kodik.cc/seria/375339/0c8f8afbfade2a592da3e25e1c2db82a/720p",
-            "8": "//kodik.cc/seria/378257/c2c56eeb7287512456a68b82a1673699/720p",
-            "9": "//kodik.cc/seria/378258/3a8075939d4e9056c828f09fd1a717ae/720p",
-            "10": "//kodik.cc/seria/380326/a067b282a0f05436508c68b803e8c282/720p",
-            "11": "//kodik.cc/seria/382798/dc25ee8c5774873f227123e71bb377e9/720p",
-            "12": "//kodik.cc/seria/382799/506aad31959db985db46b0017a7ffa22/720p",
-            "13": "//kodik.cc/seria/387031/61540524ab6292f7d1e3a1ac7663eb4d/720p",
-            "14": "//kodik.cc/seria/390123/68340e3ee3aa4c9898ed87f2f748e015/720p",
-            "15": "//kodik.cc/seria/393998/4f14b6d80f77b562f5f340bd6840ef48/720p",
-            "16": "//kodik.cc/seria/400457/0bb2373e62452699f6fa6f2c8dff7782/720p",
-            "17": "//kodik.cc/seria/400458/ce73d5d49b6ea19ec5ca52e0bba638e8/720p",
-            "18": "//kodik.cc/seria/402188/cd2facf4eff18acd6c6ccedc3c1cdef2/720p",
-            "19": "//kodik.cc/seria/402281/1990efcf3b1718c207abb2bd5bb107fb/720p",
-            "20": "//kodik.cc/seria/406489/d7e2224f815964cb94547998de6b46f4/720p",
-            "21": "//kodik.cc/seria/407020/3b7ca6c4ce07dda6a67b193e627a0ec0/720p",
-            "22": "//kodik.cc/seria/407021/8cddefe736556180ceb28f80127aee27/720p",
-            "23": "//kodik.cc/seria/408069/c4f07b11d334019c8aa69bc9d5b5f21f/720p",
-            "24": "//kodik.cc/seria/408070/5c99dbc588c3b8ce4c4c9b9d13c3fdc3/720p",
-            "25": "//kodik.cc/seria/408071/294f05426c16c04a217e2f39fb269366/720p",
-            "26": "//kodik.cc/seria/408072/9054d1d3e2843e7895b81ee32aba41c0/720p",
-            "27": "//kodik.cc/seria/408073/5b4ce5850f1f16345f35724d4b6ff57f/720p",
-            "28": "//kodik.cc/seria/408074/528b8a9b27f0ae0449f6163e1a6b3259/720p",
-            "29": "//kodik.cc/seria/410781/ade6dc240f3fdd5650922c57f922ef91/720p",
-            "30": "//kodik.cc/seria/411145/95babc74caff59541efde158fd7f7123/720p",
-            "31": "//kodik.cc/seria/411222/afb65ee237b42dc06f3500674a79473f/720p",
-            "32": "//kodik.cc/seria/412592/3cb44a716be0257ab8d5da00f4717e81/720p",
-            "33": "//kodik.cc/seria/413811/b82c130671af3be4dfe5cf92773e9c96/720p",
-            "34": "//kodik.cc/seria/413821/4aef267767fd01b7db42a70f5e525d6f/720p",
-            "35": "//kodik.cc/seria/414060/82ed5207b9240c8090e5886a06baaa9e/720p",
-            "36": "//kodik.cc/seria/414259/e543f21e9e4e28733eed548003ca6cab/720p",
-            "37": "//kodik.cc/seria/414267/a2e27bf183965af0babf79e0e2f5f144/720p",
-            "38": "//kodik.cc/seria/414932/ba7621bfe345aa10fccc66e0c781762a/720p",
-            "39": "//kodik.cc/seria/414933/95cd2a3db78b63b46f4b551b38507d05/720p",
-            "40": "//kodik.cc/seria/414934/143e51e0e91b26cdb12f5ccc5bdba474/720p",
-            "41": "//kodik.cc/seria/416161/732cfcc96fdcc9359d6af84e9376f171/720p",
-            "42": "//kodik.cc/seria/416712/e9838954564ee8961ea41d8f36eb8daa/720p",
-            "43": "//kodik.cc/seria/416713/aa2d3ff8b66d1daa82170bfeb0db50aa/720p",
-            "44": "//kodik.cc/seria/417423/5101a95446274f1eccb7438c6f6070bc/720p",
-            "45": "//kodik.cc/seria/419941/b284077d011292939ea76cdf0d0ad1d5/720p",
-            "46": "//kodik.cc/seria/419942/8a418e8944dd42368d63b51dec12d5ed/720p",
-            "47": "//kodik.cc/seria/419943/193b3cb9a0c85494bfe3cf8a813a48ab/720p",
-            "48": "//kodik.cc/seria/419944/c410d092f67549ac84a54d06d21cd24f/720p",
-            "49": "//kodik.cc/seria/419945/67655c269b0e2fe1e3d5f29240cbf444/720p",
-            "50": "//kodik.cc/seria/419946/694e6f5c363bb31dcaf7ed25679431e5/720p",
-            "51": "//kodik.cc/seria/419947/b7402498cf32353331334861a1be1482/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Никогда тебя не отпущу",
-        "title_en": "Xiao nu hua bu qi",
-        "year": 2019,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1230504.jpg",
-        "duration": 45,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "imdb_rating": 7.5,
-        "imdb_votes": 133,
-        "premiere_world": "2019-01-08",
-        "actors": [
-          "Ариэль Линь",
-          "Вин Чжан",
-          "Тиара Хуан",
-          "Остин Линь",
-          "Сунь Цзуцзюнь",
-          "Jiayi Guo",
-          "Lesley Lin",
-          "En Xing",
-          "Xin Liu",
-          "Zibu Wang"
-        ],
-        "directors": [
-          "Ча Чуэнь-И"
-        ],
-        "producers": [
-          "Чен Жи",
-          "Mei-Yu Chou",
-          "Wei He",
-          "Лянь Цзе",
-          "Константин Григоре",
-          "Лян Чжэньхуа",
-          "Michael Walker",
-          "Му Сяосуй",
-          "Н. Колле",
-          "Sayana Solano"
-        ],
-        "writers": [
-          "Цзинь Юаньюань",
-          "Wei Ma",
-          "Xingran Lin",
-          "Weikai Yang",
-          "Ping Zhao"
-        ],
-        "editors": [
-          "Zhen Wang"
-        ],
-        "designers": [
-          "Шао Чанъюн",
-          "Zhiyong Su",
-          "Yanqiao Luo"
-        ]
-      }
-    },
-    {
-      "id": "serial-16033",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Позволь мне любить тебя",
-      "title_orig": "May I Love You",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-03-25T20:24:36Z",
-      "updated_at": "2019-03-25T20:24:36Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/419923/a2d13b9effe2ea05b85f804322a811b4/720p",
-            "2": "//kodik.cc/seria/419924/98ec86dba028c4c3cf37f2a416eafa83/720p",
-            "3": "//kodik.cc/seria/419925/e607fbed8c26fe667e0846d247650726/720p",
-            "4": "//kodik.cc/seria/419926/c89a9aa7a38d29ad2a7cbd4b7d454832/720p",
-            "5": "//kodik.cc/seria/419927/89d220870d62849587cbb5bac05bdf11/720p",
-            "6": "//kodik.cc/seria/419928/5f1cff0c8acd5706dd1fd55a3930dc7a/720p",
-            "7": "//kodik.cc/seria/419929/95eed3c07f04ee386ad5fbd9955c5bb2/720p",
-            "8": "//kodik.cc/seria/419930/8bf7567234a8d26a1d76c0ef0a3adf3d/720p",
-            "9": "//kodik.cc/seria/419931/47fecaeeacf2fdd116c68043ca4f084a/720p",
-            "10": "//kodik.cc/seria/419932/5206fe549ef42e2c42f0f6efad7fbace/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-16032",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Позволь мне любить тебя",
-      "title_orig": "May I Love You",
-      "translation": {
-        "id": 639,
-        "title": "SoftBox",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 7,
-      "episodes_count": 7,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-03-25T20:23:42Z",
-      "updated_at": "2019-03-25T20:23:42Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/419916/84307ec79677c7e7fad0206622e696c0/720p",
-            "2": "//kodik.cc/seria/419917/b5483c33f461a20c68ca1ec4dad87583/720p",
-            "3": "//kodik.cc/seria/419918/5cd3fa47e44486686e0013ab53e8fc33/720p",
-            "4": "//kodik.cc/seria/419919/5f6971d4bd92602755db297c91e04aed/720p",
-            "5": "//kodik.cc/seria/419920/b02e6f4eb68ce1d31937275d588b815d/720p",
-            "6": "//kodik.cc/seria/419921/9cdc9d27c047c194266835b286829095/720p",
-            "7": "//kodik.cc/seria/419922/339e37cd08e3021b559a0921db92172a/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-16031",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "#Вкусняшки",
-      "title_orig": "#Jomattaeng: joeun mate chwihada",
-      "other_title": "Опьяненные вкусом / Drunk in Good Taste / Have a nice Dessert!",
-      "translation": {
-        "id": 640,
-        "title": "Sound-Group",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "kinopoisk_id": "1216712",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-03-25T20:13:27Z",
-      "updated_at": "2019-03-25T20:18:56Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/419898/80246582a555f6a74104231ee8a724c1/720p",
-            "2": "//kodik.cc/seria/419899/79d6bd76d98dcef15b0b9cbad9e19ad0/720p",
-            "3": "//kodik.cc/seria/419900/10630ab82209a77d48128fcdb3ad13fc/720p",
-            "4": "//kodik.cc/seria/419901/0d627a353fa799bf779151171251da04/720p",
-            "5": "//kodik.cc/seria/419902/c3b6ee5ab16091a749f081ee6855f139/720p",
-            "6": "//kodik.cc/seria/419904/1014cc452e419064861d833ee0765f7b/720p",
-            "7": "//kodik.cc/seria/419905/fb739274f33f50f16aab10bb6736dec7/720p",
-            "8": "//kodik.cc/seria/419906/ccbb5c18aed4f2094b03db32e7e78b44/720p",
-            "9": "//kodik.cc/seria/419907/f6554d4f2af787bebc06746e52776d86/720p",
-            "10": "//kodik.cc/seria/419908/301ddbfecb79dac08ee66de0b75e2513/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "#Вкусняшки",
-        "title_en": "#Jomattaeng: joeun mate chwihada",
-        "year": 2018,
-        "description": "Первокурсники Сеульского университета сходятся на почве любви к десертам.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1216712.jpg",
-        "duration": 60,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "premiere_world": "2018-11-24",
-        "actors": [
-          "Ким Хян-ги",
-          "Ким Мин-гю",
-          "Юён",
-          "Но Ыль",
-          "Пак Хан-соль",
-          "Квак Хи-джу"
-        ]
-      }
-    },
-    {
-      "id": "movie-34046",
-      "type": "anime",
-      "link": "",
-      "title": "Возвращение кота",
-      "title_orig": "Neko no ongaeshi",
-      "other_title": "Кошачья благодарность / The Cat Returns",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2002,
-      "kinopoisk_id": "7854",
-      "imdb_id": "tt0347618",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=23",
-      "shikimori_id": "597",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-25T20:10:04Z",
-      "updated_at": "2019-03-25T20:10:04Z",
-      "material_data": {
-        "title": "Возвращение кота",
-        "title_en": "Neko no ongaeshi",
-        "other_titles": [
-          "Кошачья благодарность",
-          "The Cat's Repayment"
-        ],
-        "other_titles_en": [
-          "The Cat Returns"
-        ],
-        "other_titles_jp": [
-          "猫の恩返し"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2002,
-        "tagline": "Neko ni nattemo, iin janai?",
-        "description": "В разгар дня на оживленной улице юная Хару храбро выхватывает из-под колес грузовика очаровательного кота. К ее великому удивлению, кот встает на задние лапы и благодарит Хару на человеческом языке. Оказывается, перед ней принц загадочного Кошачьего царства, и теперь Кошачий царь хочет женить его на отважной спасительнице. \n\rВскоре он похищает Хару, которая вовсе не желает быть кошачьей принцессой, и только верные усатые и хвостатые друзья - толстый бродяга Мьюта и великолепный Барон - смогут вызволить её из кошачьего плена.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/7854.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/e5ef4e76a579c8e78f2a2e4298b6ce6337d5e805.jpg",
-          "https://shikimori.one/system/screenshots/original/6cb3e6c831b110eee3cd45fbf5983117c7862709.jpg"
-        ],
-        "duration": 75,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Приключения",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Studio Ghibli"
-        ],
-        "kinopoisk_rating": 7.8,
-        "kinopoisk_votes": 16132,
-        "imdb_rating": 7.2,
-        "imdb_votes": 47332,
-        "shikimori_rating": 7.81,
-        "shikimori_votes": 9060,
-        "premiere_world": "2002-07-19",
-        "aired_at": "2002-07-20",
-        "rating_mpaa": "G",
-        "minimal_age": 0,
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Тидзуру Икэваки",
-          "Ёсихико Хакамада",
-          "Аки Маэда",
-          "Такаюки Ямада",
-          "Хитоми Сато",
-          "Кэнта Сатои",
-          "Мари Хамада",
-          "Тэцу Ватанабэ",
-          "Ёсукэ Саито",
-          "Кумико Окаэ"
-        ],
-        "directors": [
-          "Хироюки Морита"
-        ],
-        "producers": [
-          "Тосио Судзуки",
-          "Нодзому Такахаси",
-          "Хиронори Аихара",
-          "Кодзи Тосино",
-          "Такэёси Мацусита",
-          "Хаяо Миядзаки",
-          "Хидэюки Такаи",
-          "Сэйитиро Удзииэ"
-        ],
-        "writers": [
-          "Аои Хираги",
-          "Рэйко Ёсида"
-        ],
-        "composers": [
-          "Юдзи Номи"
-        ],
-        "editors": [
-          "Мэгуми Утида"
-        ],
-        "designers": [
-          "Наоя Танака"
-        ],
-        "operators": [
-          "Кэнтаро Такахаси"
-        ]
-      }
-    },
-    {
-      "id": "movie-16093",
-      "type": "soviet-cartoon",
-      "link": "",
-      "title": "Сказка о царе Салтане",
-      "title_orig": "Сказка о царе Салтане",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1984,
-      "kinopoisk_id": "43814",
-      "imdb_id": "tt0142851",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-04-05T18:26:41Z",
-      "updated_at": "2019-03-25T13:34:23Z",
-      "material_data": {
-        "title": "Сказка о царе Салтане",
-        "title_en": "",
-        "year": 1984,
-        "description": "Три девицы под окном пряли поздно вечерком... А потом много чего было: и любовь, и клевета, и предательство, и чудеса, и множество волшебных приключений, и тридцать три богатыря, и, конечно же, счастливый конец...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/43814.jpg",
-        "duration": 53,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "мультфильм",
-          "семейный",
-          "фэнтези"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 26855,
-        "imdb_rating": 7.4,
-        "imdb_votes": 641,
-        "premiere_world": "1985-10-13",
-        "minimal_age": 6,
-        "actors": [
-          "Анастасия Зуева",
-          "Михаил Зимин",
-          "Алексей Золотницкий",
-          "Роман Филиппов",
-          "Николай Граббе",
-          "Мария Виноградова",
-          "Борис Новиков",
-          "Людмила Иванова",
-          "Авангард Леонтьев",
-          "Наталья Боронина"
-        ],
-        "directors": [
-          "Иван Иванов-Вано",
-          "Лев Мильчин"
-        ],
-        "writers": [
-          "Александр Пушкин",
-          "Иван Иванов-Вано",
-          "Лев Мильчин"
-        ],
-        "composers": [
-          "Михаил Меерович"
-        ],
-        "editors": [
-          "Наталия Степанцева"
-        ],
-        "designers": [
-          "Иван Иванов-Вано",
-          "Лев Мильчин"
-        ],
-        "operators": [
-          "Михаил Друян"
-        ]
-      }
-    },
-    {
-      "id": "movie-31332",
-      "type": "soviet-cartoon",
-      "link": "",
-      "title": "Пес в сапогах",
-      "title_orig": "Pyos v sapogakh",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1981,
-      "kinopoisk_id": "43381",
-      "imdb_id": "tt0218534",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-25T23:26:46Z",
-      "updated_at": "2019-03-25T13:32:26Z",
-      "material_data": {
-        "title": "Пес в сапогах",
-        "title_en": "",
-        "year": 1981,
-        "description": "Молодой гасконский пес не успел приехать в Париж, как сразу подрался с кошками кардинала, подружился с лучшими собаками короля и влюбился в симпатичную болонку. Теперь его ждет такое количество проблем, что неизвестно, сможет ли он хотя бы остаться в живых...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/43381.jpg",
-        "duration": 20,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм",
-          "мюзикл"
-        ],
-        "kinopoisk_rating": 8.1,
-        "kinopoisk_votes": 29643,
-        "imdb_rating": 7.5,
-        "imdb_votes": 721,
-        "minimal_age": 6,
-        "actors": [
-          "Николай Караченцов",
-          "Ирина Муравьёва",
-          "Валентин Гафт",
-          "Юрий Волынцев",
-          "Александр Ширвиндт",
-          "Евгений Весник",
-          "Лев Дуров",
-          "Василий Ливанов",
-          "Всеволод Ларионов",
-          "Григорий Шпигель"
-        ],
-        "directors": [
-          "Ефим Гамбург"
-        ],
-        "writers": [
-          "Владимир Валуцкий",
-          "Михаил Либин",
-          "Александр Дюма отец"
-        ],
-        "composers": [
-          "Крис Кельми",
-          "Павел Смеян"
-        ],
-        "editors": [
-          "Изабелла Герасимова"
-        ],
-        "designers": [
-          "Николай Ерыкалов",
-          "Игорь Макаров"
-        ],
-        "operators": [
-          "Михаил Друян"
-        ]
-      }
-    },
-    {
-      "id": "movie-34035",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Секрет",
-      "title_orig": "Himitsu",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1999,
-      "kinopoisk_id": "102912",
-      "imdb_id": "tt0211413",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-25T13:20:58Z",
-      "updated_at": "2019-03-25T13:20:58Z",
-      "material_data": {
-        "title": "Секрет",
-        "title_en": "Himitsu",
-        "year": 1999,
-        "description": "Семья Сугита жила дружно и счастливо. Но после аварии все меняется. И жизнь больше никогда не будет такой как прежде. Теперь есть тайна, в которую вряд ли кто поверит...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/102912.jpg",
-        "duration": 119,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "драма",
-          "фэнтези"
-        ],
-        "kinopoisk_rating": 7,
-        "kinopoisk_votes": 137,
-        "imdb_rating": 6.8,
-        "imdb_votes": 599,
-        "premiere_world": "1999-09-25",
-        "actors": [
-          "Рёко Хиросуэ",
-          "Каору Кобаяси",
-          "Кэн Канэко",
-          "Юрико Исида",
-          "Хидэаки Ито",
-          "Томоэ Синохара",
-          "Каёко Кисимото",
-          "Риэ Сибата",
-          "Рен Осуги",
-          "Хацуо Ямая"
-        ],
-        "directors": [
-          "Йодзиро Такита"
-        ],
-        "producers": [
-          "Дзюнъити Синдо",
-          "Сэцуро Тагами",
-          "Ясухиро Масэ"
-        ],
-        "writers": [
-          "Кэйго Хигасино",
-          "Хироси Саито"
-        ],
-        "composers": [
-          "Рюдо Удзаки"
-        ],
-        "designers": [
-          "Мари Миямото"
-        ],
-        "operators": [
-          "Наоки Каяно"
-        ]
-      }
-    },
-    {
-      "id": "movie-34003",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Интуиция",
-      "title_orig": "Premonition",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2005,
-      "kinopoisk_id": "77656",
-      "imdb_id": "tt0385961",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-25T11:20:24Z",
-      "updated_at": "2019-03-25T11:20:24Z",
-      "material_data": {
-        "title": "Интуиция",
-        "title_en": "Premonition",
-        "year": 2005,
-        "tagline": "Только тот, кто видит будущее, сможет победить зло...",
-        "description": "Детектива Джека Барнса, пережившего клиническую смерть, преследуют страшные видения грядущих катастроф. Когда пророческие сны Джека начинают сбываться, среди всеобщего недоверия и подозрений он остается наедине со своим дьявольским даром.\n\rДжек готов пойти на всё, чтобы изгнать сцены надвигающегося ужаса из своей головы, но «увидев» картины масштабного террористического акта в своем родном городе, он понимает, что от его действий зависит жизнь сотен тысяч людей.\n\rТеперь сверхъестественная интуиция станет его единственным оружием в поисках злодеев, единственным способом предотвратить глобальную катастрофу и порвать зловещую цепь пророчеств...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/77656.jpg",
-        "duration": 90,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "фантастика"
-        ],
-        "kinopoisk_rating": 4.4,
-        "kinopoisk_votes": 82,
-        "imdb_rating": 3.6,
-        "imdb_votes": 456,
-        "premiere_world": "2005-08-16",
-        "rating_mpaa": "R",
-        "minimal_age": 16,
-        "actors": [
-          "Каспер Ван Дин",
-          "Кэтрин Оксенберг",
-          "Кайл Джордон Дрюиц",
-          "Даг Абрахамс",
-          "Лорена Гэйл",
-          "Эрл Пастко",
-          "Колин Лоуренс",
-          "Филип Грэйнджер",
-          "Дэвид Палффи",
-          "Джон Тенч"
-        ],
-        "directors": [
-          "Джонас Куастел"
-        ],
-        "producers": [
-          "Мэттью Керви",
-          "Майкл Дербас",
-          "Лиза М. Хансен",
-          "Аллан Хэрмон",
-          "Александр Мандра",
-          "Карл Мэйсон"
-        ],
-        "writers": [
-          "Уилл Стюарт"
-        ],
-        "composers": [
-          "Джон Середа"
-        ],
-        "editors": [
-          "Ричард Бенвик",
-          "Эрл Фаджер"
-        ],
-        "designers": [
-          "Фил Шмидт",
-          "Slava Shmakin",
-          "Тина Фиорда",
-          "Сьерра Лефлемм"
-        ],
-        "operators": [
-          "Питер Статис"
-        ]
-      }
-    },
-    {
-      "id": "movie-34001",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Расшифровка разума",
-      "title_orig": "Mind Decoding",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2016,
-      "imdb_id": "tt6448718",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-25T11:11:49Z",
-      "updated_at": "2019-03-25T11:11:49Z"
-    },
-    {
-      "id": "movie-34019",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Красные очки",
-      "title_orig": "Jigoku no banken: akai megane",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1987,
-      "kinopoisk_id": "52099",
-      "imdb_id": "tt0228456",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-25T10:52:48Z",
-      "updated_at": "2019-03-25T10:52:48Z",
-      "material_data": {
-        "title": "Красные очки",
-        "title_en": "Jigoku no banken: akai megane",
-        "year": 1987,
-        "description": "Водоворот событий - обман и неотличимая от обмана правда, предательство и политические интриги, сны и галлюцинации, хищники и жертвы - все вместе выплескивается в трагический финал, лишний раз доказывающий, что наиболее опасное из всех животных - человек.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/52099.jpg",
-        "duration": 116,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "детектив",
-          "комедия",
-          "фантастика"
-        ],
-        "kinopoisk_rating": 6.2,
-        "kinopoisk_votes": 155,
-        "imdb_rating": 6.6,
-        "imdb_votes": 635,
-        "premiere_world": "1987-02-07",
-        "actors": [
-          "Сигэру Тиба",
-          "Матико Васио",
-          "Хидэюки Танака",
-          "Тэссё Гэнда",
-          "Мако Хёдо",
-          "Итиро Нагаи",
-          "Ясуо Оцука",
-          "Хиро Оикава",
-          "Такаси Канэмацу",
-          "Тосио Фурукава"
-        ],
-        "directors": [
-          "Мамору Осии"
-        ],
-        "producers": [
-          "Даисукэ Хаяси",
-          "Сигэхару Сиба"
-        ],
-        "writers": [
-          "Кадзунори Ито",
-          "Мамору Осии"
-        ],
-        "composers": [
-          "Кэндзи Каваи"
-        ],
-        "editors": [
-          "Сэидзи Морита"
-        ],
-        "operators": [
-          "Ёсукэ Мамия"
-        ]
-      }
-    },
-    {
-      "id": "movie-34020",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Мёртвое время: Кала",
-      "title_orig": "Dead Time: Kala",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2007,
-      "kinopoisk_id": "389341",
-      "imdb_id": "tt0946998",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-03-25T10:51:55Z",
-      "updated_at": "2019-03-25T10:51:55Z",
-      "material_data": {
-        "title": "Мёртвое время: Кала",
-        "title_en": "Dead Time: Kala",
-        "year": 2007,
-        "tagline": "You know the secret. Now you have to die.",
-        "description": "На остановке возбужденная толпа сжигает заживо пять человек, одного из которых за глаза объявили вором. Расследование поручено детективу Эросу. Параллельно журналист Джанус тоже пытается разобраться в произошедшем. В ходе расследования репортеру удаётся записать на диктофон слова жены одного из сожженных на остановке, после чего та погибает, а на репортера начинается настоящая охота.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/389341.jpg",
-        "duration": 102,
-        "countries": [
-          "Индонезия"
-        ],
-        "genres": [
-          "детектив",
-          "криминал",
-          "триллер"
-        ],
-        "kinopoisk_rating": 5.8,
-        "kinopoisk_votes": 77,
-        "imdb_rating": 7,
-        "imdb_votes": 882,
-        "premiere_world": "2007-04-19",
-        "actors": [
-          "Донни Аламшя",
-          "Фахри Албар",
-          "Арио Баю",
-          "Фахрани",
-          "Типи Джабрик",
-          "Хосе Ризал Мануа",
-          "Аугуст Маласз",
-          "Арсвенди Насутион",
-          "Шанти",
-          "Судживо Теджо"
-        ],
-        "directors": [
-          "Джоко Анвар"
-        ],
-        "producers": [
-          "Тиа Хасибуан",
-          "Дхаму Панджаби",
-          "Маной Панджаби"
-        ],
-        "writers": [
-          "Джоко Анвар"
-        ],
-        "composers": [
-          "Харис Хасели",
-          "Аги Нароттама"
-        ],
-        "editors": [
-          "Ваван И. Вибово"
-        ],
-        "designers": [
-          "Венкисалус",
-          "Изабель Патрис",
-          "Таня Соепрапто"
-        ],
-        "operators": [
-          "Рахмат Сяйфул"
         ]
       }
     }
