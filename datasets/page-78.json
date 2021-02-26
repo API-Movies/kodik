@@ -1,6 +1,359 @@
 {
   "results": [
     {
+      "id": "movie-58264",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Гугуцэ — капитан корабля",
+      "title_orig": "Гугуцэ — капитан корабля",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1981,
+      "kinopoisk_id": "1245316",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-29T05:37:05Z",
+      "updated_at": "2020-07-29T05:37:05Z",
+      "material_data": {
+        "title": "Гугуцэ – капитан корабля",
+        "title_en": "",
+        "year": 1981,
+        "duration": 8,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "directors": [
+          "Константин Балан"
+        ]
+      }
+    },
+    {
+      "id": "serial-28082",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Декаданс",
+      "title_orig": "Deca-Dence",
+      "other_title": "Дека-данс",
+      "translation": {
+        "id": 873,
+        "title": "AniPLague",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 2,
+      "episodes_count": 2,
+      "kinopoisk_id": "1388542",
+      "imdb_id": "tt12443322",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10146",
+      "shikimori_id": "40056",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-07-26T06:44:24Z",
+      "updated_at": "2020-07-29T05:36:47Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/692888/28e559fe88e9cac86a3338a589161b96/720p",
+            "2": "//aniqit.com/seria/694444/7c45fb4a1c0caf2dfdc5de78ae1d8f09/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Дека-данс",
+        "title_en": "Deca-Dence",
+        "other_titles": [
+          "Упадок"
+        ],
+        "other_titles_jp": [
+          "デカダンス"
+        ],
+        "anime_license_name": "DECA-DENCE",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2020,
+        "description": "Прошло много лет с тех пор, как человечество было на грани исчезновения из-за внезапного появления неизвестных форм жизни под названием гадол. Выжившие построили мобильную крепость Дека-данс высотой 3000 метров, чтобы защититься от этой угрозы. Жители Дека-данса делятся на гирсов, сражающихся с гадолами, и танкеров, поддерживающих инфраструктуру города.  \n\rДевушка-танкер Нацумэ, которая мечтает стать одной из гирсов, получает назначение в команду технического обслуживания, возглавляемую Кабураги - угрюмым мастером по ремонту доспехов. Он обещает научить ее сражаться.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1388542.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/cd4041be87c1401adcad74a2a6fe5dc0369d60f4.jpg",
+          "https://shikimori.one/system/screenshots/original/b428931835161253aadc18df3056155f16adbba7.jpg"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Приключения",
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Nut"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 279,
+        "imdb_rating": 7.1,
+        "imdb_votes": 684,
+        "shikimori_rating": 7.48,
+        "shikimori_votes": 4929,
+        "premiere_world": "2020-07-08",
+        "aired_at": "2020-07-08",
+        "released_at": "2020-09-23",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Кацуюки Конъиси",
+          "Томори Кусуноки"
+        ],
+        "directors": [
+          "Юдзуру Татикава"
+        ],
+        "writers": [
+          "Хироси Сэко"
+        ],
+        "composers": [
+          "Масахиро Токуда"
+        ],
+        "editors": [
+          "Юми Дзингудзи"
+        ]
+      }
+    },
+    {
+      "id": "movie-58265",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Гордый кораблик",
+      "title_orig": "Gordyy korablik",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1966,
+      "kinopoisk_id": "416512",
+      "imdb_id": "tt1240930",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-29T05:35:56Z",
+      "updated_at": "2020-07-29T05:35:56Z",
+      "material_data": {
+        "title": "Гордый кораблик",
+        "title_en": "",
+        "year": 1966,
+        "description": "История крейсера «Аврора» и символическое изображение красного крейсера, который наводит страх на флоты враждебных государств.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/416512.jpg",
+        "duration": 18,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 5.7,
+        "kinopoisk_votes": 229,
+        "imdb_rating": 5.9,
+        "imdb_votes": 22,
+        "minimal_age": 0,
+        "actors": [
+          "Николай Литвинов"
+        ],
+        "directors": [
+          "Витольд Бордзиловский"
+        ],
+        "writers": [
+          "Витольд Бордзиловский",
+          "А. Митяев"
+        ],
+        "composers": [
+          "Дживан Тер-Татевосян"
+        ],
+        "designers": [
+          "Владимир Тарасов",
+          "Александр Трусов"
+        ],
+        "operators": [
+          "Елена Петрова"
+        ]
+      }
+    },
+    {
+      "id": "movie-58266",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Два справедливых цыпленка",
+      "title_orig": "Dva spravedlivykh tsyplyonka",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1984,
+      "kinopoisk_id": "666718",
+      "imdb_id": "tt2699260",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-29T05:34:43Z",
+      "updated_at": "2020-07-29T05:34:43Z",
+      "material_data": {
+        "title": "Два справедливых цыпленка",
+        "title_en": "",
+        "year": 1984,
+        "description": "О том, как два добрых, благородных цыпленка помогли заколдованному Журавлю обрести свободу.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/666718.jpg",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "minimal_age": 12,
+        "actors": [
+          "Оксана Карпус",
+          "Яков Горбаченко"
+        ],
+        "directors": [
+          "Леонид Зарубин"
+        ],
+        "writers": [
+          "Наталья Абрамова"
+        ],
+        "composers": [
+          "Александр Осадчий"
+        ],
+        "editors": [
+          "С. Васильева"
+        ],
+        "designers": [
+          "Николай Сапожников"
+        ],
+        "operators": [
+          "В. Бодак"
+        ]
+      }
+    },
+    {
+      "id": "movie-31205",
+      "type": "russian-cartoon",
+      "link": "",
+      "title": "Щелкунчик",
+      "title_orig": "Shchelkunchik",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1973,
+      "kinopoisk_id": "276371",
+      "imdb_id": "tt0928068",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-23T22:51:17Z",
+      "updated_at": "2020-07-29T05:33:36Z",
+      "material_data": {
+        "title": "Щелкунчик",
+        "title_en": "",
+        "year": 1973,
+        "description": "Молодая девушка, убираясь под елкой, находит игрушку в виде Щелкунчика для орехов. Щелкунчик оживает и рассказывает ей грустную историю о своём проклятии и коварной королеве мышиного царства. Вдруг откуда-то из угла комнаты слышится странный звук. По стене пробегают трещины, и из пролома появляется мышиный царь. Он стал большим и страшным, но и сам Щелкунчик возмужал и готовится дать бой ужасу из прошлого.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/276371.jpg",
+        "duration": 27,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 7.9,
+        "kinopoisk_votes": 28312,
+        "imdb_rating": 7.6,
+        "imdb_votes": 783,
+        "premiere_world": "1973-01-01",
+        "minimal_age": 6,
+        "directors": [
+          "Борис Степанцев"
+        ],
+        "writers": [
+          "Э.Т.А. Гофман",
+          "Борис Ларин",
+          "Борис Степанцев"
+        ],
+        "composers": [
+          "Петр Ильич Чайковский"
+        ],
+        "editors": [
+          "Изабелла Герасимова"
+        ],
+        "designers": [
+          "Николай Ерыкалов",
+          "Анатолий Савченко"
+        ],
+        "operators": [
+          "Михаил Друян"
+        ]
+      }
+    },
+    {
+      "id": "movie-58239",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Два соседа",
+      "title_orig": "Dva soseda",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1980,
+      "kinopoisk_id": "1245315",
+      "imdb_id": "tt3257316",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-29T05:32:13Z",
+      "updated_at": "2020-07-29T05:32:13Z",
+      "material_data": {
+        "title": "Два соседа",
+        "title_en": "",
+        "year": 1980,
+        "duration": 8,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "composers": [
+          "Александр Сокирянский"
+        ]
+      }
+    },
+    {
       "id": "movie-58240",
       "type": "russian-movie",
       "link": "",
@@ -7710,8 +8063,8 @@
           "комедия",
           "мелодрама"
         ],
-        "imdb_rating": 5.5,
-        "imdb_votes": 269,
+        "imdb_rating": 5.6,
+        "imdb_votes": 280,
         "premiere_world": "2020-02-19",
         "actors": [
           "Джеймс Кромуэлл",
@@ -8269,737 +8622,6 @@
         "rating_mpaa": "PG-13",
         "episodes_total": 1,
         "episodes_aired": 0
-      }
-    },
-    {
-      "id": "serial-28054",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Хладнокровный Ходзуки [ТВ-2, второй сезон]",
-      "title_orig": "Hoozuki no Reitetsu (2018)",
-      "other_title": "Hozuki's Coolheadedness 2 (2018)",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2018,
-      "last_season": 3,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "822801",
-      "imdb_id": "tt3306838",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9530",
-      "shikimori_id": "37029",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-24T14:56:21Z",
-      "updated_at": "2020-07-24T14:56:21Z",
-      "seasons": {
-        "3": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/692395/01252ba3c7cb84a482249dde1df20bb4/720p",
-            "2": "//aniqit.com/seria/692396/3b75ee0052391b89d0c19393d274d677/720p",
-            "3": "//aniqit.com/seria/692397/3539d40b0b6b7669621e050fa69619aa/720p",
-            "4": "//aniqit.com/seria/692398/7e8316da8d991c388a25e09fa1bb8a33/720p",
-            "5": "//aniqit.com/seria/692399/b1c7a255ab142af94d3c1e54670055d4/720p",
-            "6": "//aniqit.com/seria/692400/94b3cfe80db984f169487e71747a9864/720p",
-            "7": "//aniqit.com/seria/692401/cec0aeecc19dd0ab9e5a4873df305af3/720p",
-            "8": "//aniqit.com/seria/692402/87431288cfcb8dc0b358d809989a2149/720p",
-            "9": "//aniqit.com/seria/692403/7583343d5c12a6cf3683e5ba3bde47e0/720p",
-            "10": "//aniqit.com/seria/692404/1d893ec5840890336791d97a3b92dfef/720p",
-            "11": "//aniqit.com/seria/692405/436ea71a5050d37397b9e6763aef2a88/720p",
-            "12": "//aniqit.com/seria/692406/7d16ad3fd36df4d5db9006ec034bfd14/720p",
-            "13": "//aniqit.com/seria/692407/c0f150dff68ad7db4923875abc4f824a/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Хладнокровный Ходзуки",
-        "title_en": "Hôzuki no Reitetsu",
-        "other_titles": [
-          "Hoozuki no Reitetsu 2nd Season: Second Cour"
-        ],
-        "other_titles_en": [
-          "Hozuki's Coolheadedness 2"
-        ],
-        "other_titles_jp": [
-          "鬼灯の冷徹 第弐期その弐"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2014,
-        "description": "После послевоенного демографического взрыва в аду начался небывалый хаос. Сюжет повествует о Ходзуки, первом помощнике царя Эммы и главном среди демонов. Ему приходится разбираться со множеством проблем ада, таких как нехватка рабочих рук, сбежавшие духи и герои заявившиеся в ад исключительно что бы с кем-то подраться.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/822801.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/92ce46f7aa1f61636a9ee7165279a870398cb128.jpg",
-          "https://shikimori.one/system/screenshots/original/d3994bfc2b87d0803efd2132b2bd9ed15bec08d1.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Демоны",
-          "Комедия",
-          "Сверхъестественное",
-          "Сейнен",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Studio Deen"
-        ],
-        "kinopoisk_rating": 7.4,
-        "kinopoisk_votes": 780,
-        "imdb_rating": 7.3,
-        "imdb_votes": 196,
-        "shikimori_rating": 7.84,
-        "shikimori_votes": 2435,
-        "premiere_world": "2014-01-10",
-        "aired_at": "2018-04-08",
-        "released_at": "2018-07-01",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 13,
-        "episodes_aired": 13,
-        "actors": [
-          "Хироки Ясумото",
-          "Юмико Кобаяси",
-          "Такаси Нагасако",
-          "Кодзи Юса"
-        ],
-        "directors": [
-          "Кадзухиро Ёнэда",
-          "Хиро Кабураги"
-        ],
-        "producers": [
-          "Дэвид Дель Рио",
-          "Рю Хасимото",
-          "Джон Лэдфорд",
-          "Хиро Маруяма",
-          "Эиити Такахаси",
-          "Рай Торий",
-          "Дзюнъитиро Цутия",
-          "Дзёдзи Вада"
-        ],
-        "writers": [
-          "Natsumi Eguchi",
-          "Мидори Гото"
-        ]
-      }
-    },
-    {
-      "id": "movie-58159",
-      "type": "anime",
-      "link": "",
-      "title": "Исчезновение Харухи Судзумии",
-      "title_orig": "Suzumiya Haruhi no shôshitsu",
-      "other_title": "Suzumiya Haruhi no Shoushitsu / The Vanishment of Haruhi Suzumiya",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2010,
-      "kinopoisk_id": "492569",
-      "imdb_id": "tt1572781",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7714",
-      "shikimori_id": "7311",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-07-24T14:54:41Z",
-      "updated_at": "2020-07-24T14:54:41Z",
-      "material_data": {
-        "title": "Исчезновение Харухи Судзумии",
-        "title_en": "Suzumiya Haruhi no shôshitsu",
-        "other_titles": [
-          "The Vanishment of Haruhi Suzumiya",
-          "Suzumiya Haruhi no Syoshitsu",
-          "Haruhi Movie"
-        ],
-        "other_titles_en": [
-          "The Disappearance of Haruhi Suzumiya"
-        ],
-        "other_titles_jp": [
-          "涼宮ハルヒの消失"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2010,
-        "description": "17 декабря был обычный школьный день. Скоро наступает новый год, поэтому у Харухи появилась идея организовать вечеринку по этому поводу. Однако, по какой-то причине мир для Кёна на следующий день полностью изменился, после некоторых сомнений он понял, что Харухи больше нет в его школе. Нагато теперь не пришелец, Микуру — обычная школьница, а следа загадочного переведённого ученика и не было. Что же будет делать Кён?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/492569.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/6d5d20ce770b76dbc52fe8444fd1d04364608355.jpg",
-          "https://shikimori.one/system/screenshots/original/299f409f23053b1ef82c5a61b14bfe37cd82b477.jpg"
-        ],
-        "duration": 156,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фантастика"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Комедия",
-          "Романтика",
-          "Сверхъестественное",
-          "Фантастика",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Kyoto Animation"
-        ],
-        "kinopoisk_rating": 7.8,
-        "kinopoisk_votes": 9504,
-        "imdb_rating": 8.1,
-        "imdb_votes": 6086,
-        "shikimori_rating": 8.66,
-        "shikimori_votes": 23120,
-        "premiere_ru": "2010-11-05",
-        "premiere_world": "2010-02-06",
-        "aired_at": "2010-02-06",
-        "rating_mpaa": "PG-13",
-        "minimal_age": 16,
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Ая Хирано",
-          "Томокадзу Сугита",
-          "Минори Тихара",
-          "Юко Гото",
-          "Даисукэ Оно",
-          "Нацуко Куватани",
-          "Юки Мацуока",
-          "Минору Сираиси",
-          "Мэгуми Мацумото",
-          "Саяка Аоки"
-        ],
-        "directors": [
-          "Тацуя Исихара",
-          "Ясухиро Такэмото"
-        ],
-        "producers": [
-          "Хидэаки Хатта",
-          "Ацуси Ито",
-          "Нагахару Охаси",
-          "Маюми Ямагути"
-        ],
-        "writers": [
-          "Нагару Танигава",
-          "Фумихико Симо"
-        ],
-        "composers": [
-          "Кэйго Хоаси",
-          "Какэру Исихама",
-          "Сатору Косаки",
-          "Рюйти Такада"
-        ],
-        "editors": [
-          "Кэнго Сигэмура"
-        ],
-        "designers": [
-          "Сэики Тамура"
-        ],
-        "operators": [
-          "Рюта Накагами"
-        ]
-      }
-    },
-    {
-      "id": "serial-13994",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Диаблеро",
-      "title_orig": "Diablero",
-      "translation": {
-        "id": 794,
-        "title": "HDrezka Studio",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 8,
-      "episodes_count": 8,
-      "kinopoisk_id": "1148801",
-      "imdb_id": "tt7414954",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-24T14:34:24Z",
-      "updated_at": "2020-07-24T14:34:24Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/370267/594fa084edd7b771c587d1b8b9223b45/720p",
-            "2": "//kodik.cc/seria/370268/e6c880eb3717063fcd83e8782b24fee0/720p",
-            "3": "//kodik.cc/seria/370269/5fa2e7307744970e1344197f7842775a/720p",
-            "4": "//kodik.cc/seria/370270/f03696bfa30dbaff086b26d467cf666e/720p",
-            "5": "//kodik.cc/seria/370271/2f5def97d610b449de91c75d3df678bc/720p",
-            "6": "//kodik.cc/seria/370272/d81dba5c4f3872fc77ad0a1b5da812d9/720p",
-            "7": "//kodik.cc/seria/370273/d659fdd2f1637cac65b83eed6596f090/720p",
-            "8": "//kodik.cc/seria/370274/f347dac0684caf671eb15bc9c5e2445d/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Диаблеро",
-        "title_en": "Diablero",
-        "year": 2018,
-        "description": "Священник Рамиро Вентура объединяется с группой эксцентричных охотников на демонов и исследовательницей паранормального - и все для того, чтобы найти пропавшую девушку и преподать урок злу, спустившемуся на Мехико.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1148801.jpg",
-        "duration": 40,
-        "countries": [
-          "Мексика"
-        ],
-        "genres": [
-          "триллер",
-          "ужасы",
-          "фэнтези"
-        ],
-        "imdb_rating": 6.6,
-        "imdb_votes": 2164,
-        "premiere_world": "2018-12-21",
-        "actors": [
-          "Кристофер Укерман",
-          "Хиселья Кури",
-          "Фатима Молина",
-          "Горасио Гарсиа Рохас",
-          "Мариана Ботас",
-          "Умберто Бусто",
-          "Cassandra Iturralde",
-          "Dulce Neri",
-          "Quetzalli Cortés",
-          "Долорес Эредия"
-        ],
-        "directors": [
-          "Хосе Мануэль Кравиотто",
-          "Ригоберто Кастаньеда"
-        ],
-        "producers": [
-          "Перла Мартинез",
-          "Сандра Соларес",
-          "Педро Уриоль",
-          "Диего Авалос",
-          "Артуро Диаз Рамос",
-          "Иван Гордон",
-          "Франсиско Рамос",
-          "Ashlin Yu",
-          "Пако Кабесас",
-          "Хосе Мануэль Кравиотто"
-        ],
-        "writers": [
-          "Пабло Тебар",
-          "Вероника Марса",
-          "Хосе Родригез",
-          "Лаура Сармиенто Пальярес",
-          "Daniel Sánchez Arranz",
-          "Луис Гамбоа",
-          "Gibrán Portela",
-          "Аугусто Мендоса",
-          "F.G. Haghenbeck"
-        ],
-        "composers": [
-          "Фернандо Веласкес",
-          "Alfred Tapscott"
-        ],
-        "editors": [
-          "Хорхе Макая",
-          "Хонатан Пельисер",
-          "Дэвид Торрес",
-          "Fernanda Morales de la Cerda"
-        ],
-        "designers": [
-          "Барбара Энрикес",
-          "Алехандро Гарсия",
-          "Мариана Уотсон",
-          "Малена Де Ла Рива",
-          "Marcos Demián Vargas"
-        ],
-        "operators": [
-          "Иван Эрнандез",
-          "Альберто Анайа"
-        ]
-      }
-    },
-    {
-      "id": "serial-12793",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Тихая Гавань",
-      "title_orig": "Safe Harbour",
-      "translation": {
-        "id": 794,
-        "title": "HDrezka Studio",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 4,
-      "episodes_count": 4,
-      "kinopoisk_id": "1115133",
-      "imdb_id": "tt6816530",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-24T14:34:23Z",
-      "updated_at": "2020-07-24T14:34:23Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/340845/1cc28194a564989b49bd65a1a93eff6c/720p",
-            "2": "//kodik.cc/seria/340846/181562484876bc33e72979aa56e8967b/720p",
-            "3": "//kodik.cc/seria/340847/b1e29443f0d595222bc3219997282503/720p",
-            "4": "//kodik.cc/seria/340857/1daca0d7f3ce2b75888873c0867508df/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Тихая Гавань",
-        "title_en": "Safe Harbour",
-        "year": 2018,
-        "description": "Шестеро друзей, любителей путешествий, планируют проделать невероятный путь от Брисбена до Индонезии. На пути в Индонезию им встречается лодка, на борту которой находится огромное количество людей. Они ищут убежища и помощи. Друзья решают оказать поддержку бедствующим и не подозревают, чем это для них обернётся.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1115133.jpg",
-        "duration": 240,
-        "countries": [
-          "Австралия"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 6.6,
-        "imdb_votes": 742,
-        "premiere_world": "2018-03-07",
-        "actors": [
-          "Ивен Лесли",
-          "Лианна Уолсмен",
-          "Джоэль Джексон",
-          "Фиби Тонкин",
-          "Хазем Шаммас",
-          "Николь Шамун",
-          "Жаклин Маккензи",
-          "Роберт Рабия",
-          "Yazeed Daher",
-          "Элла Джаз Макроканис"
-        ],
-        "directors": [
-          "Глендин Айвин"
-        ],
-        "producers": [
-          "Белинда Чайко",
-          "Стивен Корвини",
-          "Джули Форстер",
-          "Дэбби Ли",
-          "Сью Мастерс"
-        ],
-        "writers": [
-          "Мэтт Кэмерон",
-          "Белинда Чайко",
-          "Phil Enchelmaier",
-          "Simon Kennedy",
-          "Стивен Корвини",
-          "Энтони Маллинз"
-        ],
-        "composers": [
-          "Стефен Рэй"
-        ],
-        "editors": [
-          "Марк Аткин"
-        ],
-        "designers": [
-          "Пит Бакстер",
-          "Jodie Whetter",
-          "Ванесса Лох",
-          "Кристофер Брюс"
-        ],
-        "operators": [
-          "Сэм Чиплин"
-        ]
-      }
-    },
-    {
-      "id": "serial-28042",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Да, я Сакамото, а что?",
-      "title_orig": "Sakamoto Desu ga?",
-      "other_title": "Да, я Сакамото, и что? / Сакамото к вашим услугам / Я - Сакамото, а что?",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 13,
-      "kinopoisk_id": "975898",
-      "imdb_id": "tt5701624",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8636",
-      "shikimori_id": "32542",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-24T08:03:47Z",
-      "updated_at": "2020-07-24T14:16:10Z",
-      "seasons": {
-        "0": {
-          "title": "Спешл",
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/692154/2b9b8ae148d180457418a1a2731b5341/720p"
-          }
-        },
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/692142/5db6ced30495e3ebe8e42891d7450030/720p",
-            "2": "//aniqit.com/seria/692143/35678a6b9f0cdb258b210c564e3c2aa3/720p",
-            "3": "//aniqit.com/seria/692144/ab1d6ea7cd48fa2632b9883f8d8518d0/720p",
-            "4": "//aniqit.com/seria/692145/8bbbf4055591cd8437a0713d5c7f6295/720p",
-            "5": "//aniqit.com/seria/692146/65d70512020a2166b6092ff15d40965b/720p",
-            "6": "//aniqit.com/seria/692147/411b1cafac46b314f38c1235a9d2a698/720p",
-            "7": "//aniqit.com/seria/692148/947637c644edc6a41a581bd52e115745/720p",
-            "8": "//aniqit.com/seria/692149/295320570fc981a0d2b740c12b251399/720p",
-            "9": "//aniqit.com/seria/692150/13324da4b9dd969bab38fc4db9984a5b/720p",
-            "10": "//aniqit.com/seria/692151/f5e4dd2ad8edb4ebee676e26d5c3e4d9/720p",
-            "11": "//aniqit.com/seria/692152/0399157597bb2731e64e23205f25836c/720p",
-            "12": "//aniqit.com/seria/692153/7d9bd43ce976a8191a7bae5c16d90164/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Сакамото к вашим услугам",
-        "title_en": "Sakamoto desu ga?",
-        "other_titles": [
-          "Sakamoto desu ga?"
-        ],
-        "other_titles_en": [
-          "Haven't You Heard? I'm Sakamoto"
-        ],
-        "other_titles_jp": [
-          "坂本ですが？"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2016,
-        "description": "Школьник-первогодка Сакамото круче, чем все варёные яйца мира! В первый же учебный день он привлекает массу внимания. Девушки его обожают, парни негодуют. Даже парень-модель оказывается в его тени. Какие бы фокусы ни старалась провернуть мужская часть школьников, главный герой всегда изящен и блистателен. Сакамото может казаться гордым одиночкой, но не отказывает в помощи, в том числе одному пареньку, которого вечно задирают. С какими бы препятствиями ни сталкивался красавец, он преодолевает их с уверенностью и достоинством.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/975898.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/764904e2e3d496adf9ecc85fa3b03fd6cdf871b4.jpg",
-          "https://shikimori.one/system/screenshots/original/99cb93497f5ea7e0205c4d1ff3cf176181e2c36d.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность",
-          "Сейнен",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Studio Deen"
-        ],
-        "kinopoisk_rating": 7,
-        "kinopoisk_votes": 1942,
-        "imdb_rating": 7.2,
-        "imdb_votes": 1399,
-        "shikimori_rating": 7.6,
-        "shikimori_votes": 25604,
-        "premiere_world": "2016-04-08",
-        "aired_at": "2016-04-08",
-        "released_at": "2016-07-01",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Bryson Baugus",
-          "Хикару Мидорикава",
-          "Джеймс Белчер",
-          "Люси Кристиан",
-          "Kregg Dailey",
-          "Steve Fenley",
-          "Kasi Hallowell",
-          "Хьюстон Хэйес",
-          "Кайл Джонс",
-          "Margaret Lewis"
-        ],
-        "directors": [
-          "Синдзи Такамацу",
-          "Томоэ Макино",
-          "Хироаки Акаги",
-          "Сигэру Кимия",
-          "Таро Кубо",
-          "Наоки Мурата",
-          "Нобукагэ Кимура",
-          "Наоюки Кудзуя",
-          "Eri Nagata",
-          "Дзюн Такахаси"
-        ],
-        "writers": [
-          "Нами Сано",
-          "Синдзи Такамацу"
-        ],
-        "composers": [
-          "Ясухико Фукуда"
-        ],
-        "editors": [
-          "Риэ Мацухара"
-        ],
-        "designers": [
-          "Масатоси Муто"
-        ],
-        "operators": [
-          "Дзюнко Сакаи"
-        ]
-      }
-    },
-    {
-      "id": "movie-58158",
-      "type": "anime",
-      "link": "",
-      "title": "Деревенская глубинка OVA-2",
-      "title_orig": "Non Non Biyori Repeat OVA",
-      "other_title": "Глухомань OVA-2 / Деревенская глубинка 2: И вновь прекрасные деньки / Non Non Biyori Repeat: Hotaru ga Tanoshinda",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "817308",
-      "imdb_id": "tt3114358",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9088",
-      "shikimori_id": "32547",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-07-24T13:30:56Z",
-      "updated_at": "2020-07-24T13:30:56Z",
-      "material_data": {
-        "title": "Глухомань",
-        "title_en": "Non Non Biyori",
-        "other_titles": [
-          "Глухомань 2 OVA",
-          "Non Non Biyori Repeat OVA"
-        ],
-        "other_titles_jp": [
-          "のんのんびより りぴーと 蛍が楽しんだ"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 2013,
-        "description": "11-летняя Хотару Итидзё переселилась из Токио в настоящую японскую глубинку – настолько глухую, что до ближайшего книжного магазина час езды поездом. Нравы здесь простые, двери никто не запирает – зачем, ведь все друг друга знают до седьмого колена. Излишне говорить, что в сельской школе в одной комнате учится все местное детское население – первоклассница Рэнгэ, семиклассница Нацуми, ее сестра восьмиклассница Комари и их на год старший брат Сугуру. А теперь вот еще и пятиклассница Хотару прибавилась...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/817308.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/9de2053a38b40903f244591aa8413e82dc92e44f.png",
-          "https://shikimori.one/system/screenshots/original/337588b06158eecfc3ad76f7d910da7b752b32f0.png"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность",
-          "Сейнен",
-          "Школа"
-        ],
-        "anime_studios": [
-          "SILVER LINK."
-        ],
-        "kinopoisk_rating": 7.3,
-        "kinopoisk_votes": 795,
-        "imdb_rating": 7.6,
-        "imdb_votes": 584,
-        "shikimori_rating": 7.83,
-        "shikimori_votes": 1979,
-        "premiere_world": "2013-10-07",
-        "aired_at": "2016-09-23",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Котори Коиваи",
-          "Риэ Муракава",
-          "Аянэ Сакура",
-          "Кана Асуми",
-          "Каори Надзука",
-          "Рина Сато",
-          "Акико Хирамацу",
-          "Мисато Фукуэн",
-          "Юко Нагасима",
-          "Рёко Синтани"
-        ],
-        "directors": [
-          "Масая Кавамо",
-          "Дзюн Фукуда",
-          "Кодзи Саваи",
-          "Ютака Хирата",
-          "Мацуо Асами",
-          "Naoki Horiuchi",
-          "Дзюнъя Косиба",
-          "Kazumi Nakano",
-          "Роко Огивара",
-          "Дзин Тамамура"
-        ],
-        "producers": [
-          "Ёсикадзу Бэния",
-          "Дзиро Накагава",
-          "Дэвид Дель Рио",
-          "Исидзука Масатоси",
-          "Ёхэй Кисара",
-          "Джон Лэдфорд",
-          "Мика Симидзу",
-          "Эиити Такахаси",
-          "Rina Takahashi",
-          "Синсаку Танака"
-        ],
-        "writers": [
-          "Атто",
-          "Фумихико Симо",
-          "Юка Ямада",
-          "Рэйко Ёсида"
-        ],
-        "composers": [
-          "Хироми Мидзутани"
-        ],
-        "editors": [
-          "Кэнтаро Цубонэ"
-        ],
-        "designers": [
-          "Anna Ooizumi"
-        ],
-        "operators": [
-          "Ацуси Сату"
-        ]
       }
     }
   ]

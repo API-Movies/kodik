@@ -1,6 +1,433 @@
 {
   "results": [
     {
+      "id": "movie-62159",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Моя любовь Айсулу",
+      "title_orig": "My love is Aisulu",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1345715",
+      "imdb_id": "tt12194150",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-24T03:01:40Z",
+      "updated_at": "2020-10-24T03:01:40Z",
+      "material_data": {
+        "title": "My love is Aisulu",
+        "title_en": "",
+        "year": 2019,
+        "description": "Неуверенный в себе Санжар получает очередной отказ в конкурсе сценаристов. По дороге домой он знакомится с очаровательной девушкой Айсулу и у них возникают взаимные чувства. Вот только в попытке произвести впечатление на девушку при знакомстве, Санжар придумал историю о съемках его фильма в Америке и никак не может ей признаться в этом. Влюбленные все время разговаривают по телефону. Однажды романтичная девушка решает сделать сюрприз молодому человеку и отправляется в США. Санжар вынужден лететь первым рейсом в Америку, чтобы выпросить прощение у возлюбленной.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1345715.jpg",
+        "duration": 90,
+        "countries": [
+          "Казахстан"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "kinopoisk_rating": 6.3,
+        "kinopoisk_votes": 268,
+        "premiere_world": "2020-01-30",
+        "actors": [
+          "Нурлан Коянбаев",
+          "Асель Сагатова",
+          "Жакан Утаргалиев",
+          "Кэри-Хироюки Тагава",
+          "Эркен Ялгашев",
+          "Бай Лин"
+        ],
+        "directors": [
+          "Дархан Саркенов"
+        ],
+        "producers": [
+          "Нурлан Коянбаев"
+        ],
+        "writers": [
+          "Асхат Тохтарханов",
+          "Бухар Марат",
+          "Самат Сыржанов"
+        ],
+        "operators": [
+          "Канат Мырзагалиев"
+        ]
+      }
+    },
+    {
+      "id": "serial-29364",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Догма дракона",
+      "title_orig": "Dragon's Dogma",
+      "other_title": "Драконья догма",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 7,
+      "episodes_count": 7,
+      "kinopoisk_id": "1392768",
+      "imdb_id": "tt10011298",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10550",
+      "shikimori_id": "39519",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-09-24T12:04:16Z",
+      "updated_at": "2020-10-23T20:14:04Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/721136/6600fa24bb6988e0fad69f3678cb6a03/720p",
+            "2": "//aniqit.com/seria/721934/27beaaf9d533a16a43bd18c4c98e642d/720p",
+            "3": "//aniqit.com/seria/723079/c3899372243bc05b8c1de8e619cc1a33/720p",
+            "4": "//aniqit.com/seria/723368/6196210d160a1df40e2d9a2449685181/720p",
+            "5": "//aniqit.com/seria/724603/8f6d82513db6b588ae44b1ad6cca49f0/720p",
+            "6": "//aniqit.com/seria/727145/055adf515da62018175eb1b5b595af04/720p",
+            "7": "//aniqit.com/seria/727146/7778fef3e31b1f9b0f45265ae03422a2/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Догма дракона",
+        "title_en": "Dragon's Dogma",
+        "other_titles_jp": [
+          "ドラゴンズドグマ"
+        ],
+        "anime_license_name": "Dragon's Dogma",
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "year": 2020,
+        "description": "Погибший парень чудесным образом возвращается к жизни, и теперь ему предстоит отправиться в полное опасностей путешествие, чтобы вернуть свое сердце, которое отобрал у него коварный дракон. И чем больше воин сражается с демонами, тем меньше остается в нём человеческого. ",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1392768.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/f33e8aba83c50757f9603f7a33c57164b6899ef9.jpg",
+          "https://shikimori.one/system/screenshots/original/506d27fbd461435f72205216ee8d9b31ce937e33.jpg"
+        ],
+        "duration": 28,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Приключения",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Sublimation"
+        ],
+        "kinopoisk_rating": 5.9,
+        "kinopoisk_votes": 224,
+        "imdb_rating": 6.3,
+        "imdb_votes": 2072,
+        "shikimori_rating": 5.94,
+        "shikimori_votes": 642,
+        "premiere_world": "2020-09-17",
+        "aired_at": "2020-09-17",
+        "rating_mpaa": "R+",
+        "episodes_total": 7,
+        "episodes_aired": 0,
+        "directors": [
+          "Синъя Сугаи"
+        ],
+        "producers": [
+          "Таики Сакурай"
+        ],
+        "writers": [
+          "Курасуми Сунаяма"
+        ]
+      }
+    },
+    {
+      "id": "serial-29179",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Любите ли Вы Брамса?",
+      "title_orig": "Beuramseureul joahaseyo?",
+      "other_title": "Тебе нравится Брамс? / Do You Like Brahms?",
+      "translation": {
+        "id": 641,
+        "title": "STEPonee",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "1347314",
+      "imdb_id": "tt12867750",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-09-02T21:35:51Z",
+      "updated_at": "2020-10-23T19:05:21Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/716681/a6c8fc9550b5bcc87aa552e6e421892b/720p",
+            "2": "//kodik.cc/seria/717369/8a880d06a82ed78a84110b8603b06eb2/720p",
+            "3": "//kodik.cc/seria/718278/2e6afc80dd21714c002ac4cf5300a20e/720p",
+            "4": "//kodik.cc/seria/718500/c5bbb8cea400ffacb5f0ab25d3018a45/720p",
+            "5": "//kodik.cc/seria/720022/a0fad42bec689f9a164c70a061d1c8dc/720p",
+            "6": "//kodik.cc/seria/720137/ce9cf0c0eaf05763e4fd354be3883f2b/720p",
+            "7": "//kodik.cc/seria/721346/b40984ffca41e79eef005c9e040ea382/720p",
+            "8": "//kodik.cc/seria/721398/1b6f11fc2ec253b6c6489c1e2c0e6e29/720p",
+            "9": "//kodik.cc/seria/722235/64048dd4918ed50786662903226ae6cc/720p",
+            "10": "//kodik.cc/seria/722313/d83f34dc2a93ba912b7d271d0608e780/720p",
+            "11": "//kodik.cc/seria/723295/688a34c35a1dac273b30b5df5e6d01a3/720p",
+            "12": "//kodik.cc/seria/723501/d149e53eaf74e8c6b6be23bde38cb08f/720p",
+            "13": "//kodik.cc/seria/724749/1923f5f8700765e41c0e60fbefbeedc5/720p",
+            "14": "//kodik.cc/seria/725544/a15f2e4ae621448035295cff741786db/720p",
+            "15": "//kodik.cc/seria/726978/c841c81a7569bbdf72b3c1fe9f860ec9/720p",
+            "16": "//kodik.cc/seria/727144/25397da48a2756f918d0733ed7fcb527/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Любите ли Вы Брамса?",
+        "title_en": "Beuramseureul joahaseyo?",
+        "year": 2020,
+        "description": "История о студентах престижного музыкального университета - пианисте и скрипачке.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1347314.jpg",
+        "duration": 60,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "мелодрама",
+          "музыка"
+        ],
+        "imdb_rating": 7.9,
+        "imdb_votes": 311,
+        "premiere_world": "2020-08-31",
+        "actors": [
+          "Ким Мин-джэ",
+          "Пак Ын-бин",
+          "Ли Ю-джин",
+          "Пак Чи-хён",
+          "Ким Сон-чхоль",
+          "Пэ Да-бин",
+          "Сон Джи-вон",
+          "Е Су-джон",
+          "Со Джон-ён",
+          "Чхве Дэ-хун"
+        ],
+        "directors": [
+          "Чо Ён-мин"
+        ],
+        "writers": [
+          "Рю Бо-ри"
+        ]
+      }
+    },
+    {
+      "id": "serial-3486",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Она очень любит ложь",
+      "title_orig": "Geunyeoneun geojitmaleul neomoo saranghae",
+      "other_title": "Лжец и его возлюбленная / Она влюблена в ложь / The Liar and His Lover",
+      "translation": {
+        "id": 641,
+        "title": "STEPonee",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1008784",
+      "imdb_id": "tt6422226",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-03-29T17:16:50Z",
+      "updated_at": "2020-10-23T19:04:39Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/100874/387cb19e3e6f7d47832441708161bb49/720p",
+            "2": "//kodik.cc/seria/100875/49d2fe5173e3bd1a5657b86cd3ee22c7/720p",
+            "3": "//kodik.cc/seria/105072/c0b57780041fe3866be655947e7299e2/720p",
+            "4": "//kodik.cc/seria/105073/7e7d7b63569ef7f50011fc9bdb031c9f/720p",
+            "5": "//kodik.cc/seria/105074/b97beb6c414989c05e66c295c26c3d38/720p",
+            "6": "//kodik.cc/seria/105075/b348430fde160f68e1c71fbc0ac40ceb/720p",
+            "7": "//kodik.cc/seria/105076/82934df48db21b713ae8651d63f26e99/720p",
+            "8": "//kodik.cc/seria/105749/8496b2e206f25e7a9be191d24a93e330/720p",
+            "9": "//kodik.cc/seria/107636/649bc6a628950093c63a914e53d21fe8/720p",
+            "10": "//kodik.cc/seria/107637/dde54f49777837a4dea8b4488bf52250/720p",
+            "11": "//kodik.cc/seria/108912/65fe794177167220ff4ce1dad781e133/720p",
+            "12": "//kodik.cc/seria/108913/d1dbea5f74e69d72e3bc943461f5cf7f/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Лжец и его возлюбленная",
+        "title_en": "Geunyeoneun geojitmareul neomu saranghae",
+        "year": 2017,
+        "description": "Кан Хан-гёль - популярный композитор. Он получает вдохновение, слушая голоса и пение других людей, но при этом он очень скрытный человек. Однажды Хан-гёль встречает старшеклассницу Со-рим, которая, ну надо же, тоже хочет стать певицей, и конечно же, в него влюбляется.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1008784.jpg",
+        "duration": 70,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "мелодрама",
+          "музыка"
+        ],
+        "kinopoisk_rating": 6.8,
+        "kinopoisk_votes": 1905,
+        "imdb_rating": 6.9,
+        "imdb_votes": 610,
+        "premiere_world": "2017-03-20",
+        "actors": [
+          "Ли Хён-у",
+          "Джой",
+          "Чхве Мин-су",
+          "Ли Джон-джин",
+          "Лим Е-джин",
+          "Ким Ин-гвон",
+          "Ли Со-вон",
+          "Сон Джу",
+          "Щин Джэ-мин",
+          "Чан Ги-ён"
+        ],
+        "directors": [
+          "Ким Джин-мин"
+        ],
+        "writers": [
+          "Котоми Аоки"
+        ]
+      }
+    },
+    {
+      "id": "movie-62146",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Кот и дедуля",
+      "title_orig": "Neko to jiichan",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1178012",
+      "imdb_id": "tt8845988",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-23T16:46:08Z",
+      "updated_at": "2020-10-23T16:46:08Z",
+      "material_data": {
+        "title": "Кот и дедуля",
+        "title_en": "Neko to Jiichan",
+        "year": 2018,
+        "description": "70-летнему пенсионеру Даикити много для счастья не надо. На небольшом острове дедуля наслаждается спокойной жизнью с котом Тамой и общением со старыми друзьями, хотя сын в Токио и переживает за отца. Однажды Даикити находит начатую тетрадку с рецептами недавно почившей супруги и решает заполнить её до конца.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1178012.jpg",
+        "duration": 103,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 6.5,
+        "imdb_votes": 200,
+        "premiere_world": "2019-02-22",
+        "directors": [
+          "Мицуаки Иваго"
+        ]
+      }
+    },
+    {
+      "id": "movie-62148",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Потерянный Окороши",
+      "title_orig": "The Lost Okoroshi",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1306314",
+      "imdb_id": "tt10888456",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-23T16:45:04Z",
+      "updated_at": "2020-10-23T16:45:04Z",
+      "material_data": {
+        "title": "Потерянный Окороши",
+        "title_en": "The Lost Okoroshi",
+        "year": 2019,
+        "description": "Каждую ночь Реймонду снятся странные танцоры в причудливых костюмах, а один из них - в рогатой маске - пытается догнать парня, но тот всегда успевает проснуться. Его приятель уверен, что это духи предков хотят с ним связаться, и не стоит от них убегать. В следующий раз Реймонд позволяет преследователю догнать себя и внезапно просыпается в его обличье - в фиолетовом волосатом костюме и рогатой маске, которую невозможно снять.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1306314.jpg",
+        "duration": 94,
+        "countries": [
+          "Нигерия"
+        ],
+        "genres": [
+          "драма",
+          "комедия",
+          "фэнтези"
+        ],
+        "imdb_rating": 5.1,
+        "imdb_votes": 119,
+        "premiere_world": "2019-09-06",
+        "actors": [
+          "Сьюн Эджэйи",
+          "Judith Audu",
+          "Tope Tedela",
+          "Ifu Ennada",
+          "Chiwetalu Agu",
+          "Demi Banwo",
+          "Jamal Ibrahim",
+          "Ozzy Agu",
+          "Crystabel Goddy"
+        ],
+        "directors": [
+          "Abba Makama"
+        ],
+        "producers": [
+          "Abba Makama",
+          "Rimini Makama"
+        ],
+        "writers": [
+          "Abba Makama",
+          "Africa Ukoh"
+        ],
+        "designers": [
+          "Emefa Smith"
+        ],
+        "operators": [
+          "Майкл Омонуа"
+        ]
+      }
+    },
+    {
       "id": "movie-62149",
       "type": "foreign-movie",
       "link": "",
@@ -737,9 +1164,9 @@
           "фантастика"
         ],
         "kinopoisk_rating": 5.2,
-        "kinopoisk_votes": 9016,
+        "kinopoisk_votes": 10133,
         "imdb_rating": 4.8,
-        "imdb_votes": 4481,
+        "imdb_votes": 4796,
         "premiere_world": "2020-10-02",
         "minimal_age": 16,
         "actors": [
@@ -3430,8 +3857,8 @@
         "anime_studios": [
           "Connect"
         ],
-        "shikimori_rating": 7.66,
-        "shikimori_votes": 1655,
+        "shikimori_rating": 7.65,
+        "shikimori_votes": 1706,
         "aired_at": "2020-09-02",
         "rating_mpaa": "PG-13",
         "episodes_total": 1,
@@ -4906,9 +5333,9 @@
           "комедия"
         ],
         "kinopoisk_rating": 5.8,
-        "kinopoisk_votes": 360,
+        "kinopoisk_votes": 375,
         "imdb_rating": 6,
-        "imdb_votes": 523,
+        "imdb_votes": 530,
         "premiere_world": "2020-09-11",
         "minimal_age": 16,
         "actors": [
@@ -5326,7 +5753,7 @@
           "Kamikaze Douga"
         ],
         "shikimori_rating": 6.61,
-        "shikimori_votes": 36,
+        "shikimori_votes": 38,
         "aired_at": "2020-10-18",
         "episodes_total": 1,
         "episodes_aired": 0
@@ -5926,9 +6353,9 @@
           "фантастика"
         ],
         "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 1099,
+        "kinopoisk_votes": 1125,
         "imdb_rating": 6.3,
-        "imdb_votes": 3631,
+        "imdb_votes": 3737,
         "premiere_world": "2020-02-22",
         "minimal_age": 18,
         "actors": [
@@ -6595,7 +7022,7 @@
           "фантастика"
         ],
         "imdb_rating": 5.5,
-        "imdb_votes": 139,
+        "imdb_votes": 145,
         "premiere_world": "2018-01-08",
         "actors": [
           "Ли Джон-щин",
@@ -7631,594 +8058,6 @@
         ],
         "operators": [
           "Лучио Бонелли"
-        ]
-      }
-    },
-    {
-      "id": "movie-22615",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Перерождение",
-      "title_orig": "Re: Born",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "978031",
-      "imdb_id": "tt5678110",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-04-03T05:48:44Z",
-      "updated_at": "2020-10-19T12:12:43Z",
-      "material_data": {
-        "title": "Перерождение",
-        "title_en": "Re: Born",
-        "year": 2016,
-        "tagline": "Zero Range Combat",
-        "description": "Бывший военный спец ушел на покой и живет где-то в японской глубинке. Продолжается мирная жизнь недолго. До тех пор, пока в городке не появляются его былые боевые товарищи.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/978031.jpg",
-        "duration": 115,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "криминал"
-        ],
-        "kinopoisk_rating": 6,
-        "kinopoisk_votes": 307,
-        "imdb_rating": 6,
-        "imdb_votes": 1135,
-        "premiere_world": "2016-07-25",
-        "actors": [
-          "Так Сакагути",
-          "Юра Кондо",
-          "Такуми Саито",
-          "Акио Оцука",
-          "Орсон Мотидзуки",
-          "Кэнта",
-          "Макото Сакагути",
-          "Хитоми Хасэбэ",
-          "Марико Синода",
-          "Масанори Мимото"
-        ],
-        "directors": [
-          "Юдзи Симомура"
-        ],
-        "producers": [
-          "Синити Фудзита",
-          "Мидори Иноэ"
-        ],
-        "composers": [
-          "Кэндзи Каваи"
-        ],
-        "editors": [
-          "Синити Фудзита",
-          "Юдзи Симомура"
-        ],
-        "operators": [
-          "Тэцуя Кудо"
-        ]
-      }
-    },
-    {
-      "id": "serial-24823",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Сумасшедшие ребята",
-      "title_orig": "Outburst Dreamer Boys",
-      "other_title": "Chuubyou Gekihatsu Boy",
-      "translation": {
-        "id": 653,
-        "title": "Alternative Production",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 9,
-      "episodes_count": 9,
-      "imdb_id": "tt11033998",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10034",
-      "shikimori_id": "38390",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-15T12:10:10Z",
-      "updated_at": "2020-10-19T10:07:32Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/630325/b28b1bd07723052fb5ea59a01aecb886/720p",
-            "2": "//aniqit.com/seria/630345/e69ad4f9508d8a2582a243de8db903e9/720p",
-            "3": "//aniqit.com/seria/630346/692853280a9f3b80328a58517f9d03c2/720p",
-            "4": "//aniqit.com/seria/630347/bb6940ccc76d572fd08944531dbac598/720p",
-            "5": "//aniqit.com/seria/630348/d4ad262b1f7239685bd3f3e0c6cbcd32/720p",
-            "6": "//aniqit.com/seria/630349/96a1a92ce266ea3149c6b4626f997b12/720p",
-            "7": "//aniqit.com/seria/672283/0d16f50772fd37e0f98b7696776c8237/720p",
-            "8": "//aniqit.com/seria/713821/0d3ae3389164e71fc62aad0390c8bbbd/720p",
-            "9": "//aniqit.com/seria/726096/cc4ac7e99c2272b1c30202646aba4fb6/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Сумасшедшие ребята",
-        "title_en": "Chuubyou Gekihatsu Boy",
-        "other_titles": [
-          "Juubyou Gekikatsu Boy",
-          "Young Disease Outburst Boy"
-        ],
-        "other_titles_en": [
-          "Outburst Dreamer Boys"
-        ],
-        "other_titles_jp": [
-          "厨病激発ボーイ"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "description": "Мидзуки Хидзири — самая обычная школьница без каких-либо примечательных талантов или недостатков, поэтому, когда в середине учебного года возникает необходимость сменить школу, ей хочется лишь мирно влиться в коллектив, завести друзей и проводить школьные деньки как все. В общем, заурядная школьная жизнь девушку полностью устроила бы. Но такое простое желание Мидзуки гибнет в зародыше уже на этапе представления классу, когда её ошибочно признал за «свою» соученик Ямато Нода с «синдромом восьмиклассника», отчего другие ребята в классе предпочли отстраниться от новенькой.\r\nВ попытке исправить положение Мидзуки принимает предложение старосты класса Нанако Ватасэ обратиться за помощью к клубу героев. Однако оказавшись в клубной комнате, она, помимо подпортившего её планы на нормальную спокойную школьную жизнь Ямато, встречает ещё троих чудиков с «синдромом восьмиклассника», которые, взявшись выполнить её желание, в итоге активно вовлекают девушку в свой необычный мир.\r\nНеспокойные школьные деньки Мидзуки Хидзири начинаются!",
-        "poster_url": "https://shikimori.one/system/animes/original/38390.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/8defe552b2e51a6c2b069be05aaee4fcbbfdcb01.jpg",
-          "https://shikimori.one/system/screenshots/original/eaf8b24c33524b7bd6936412854de1649ba96403.jpg"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Studio Deen"
-        ],
-        "shikimori_rating": 6.78,
-        "shikimori_votes": 692,
-        "aired_at": "2019-10-04",
-        "released_at": "2019-12-13",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 11,
-        "episodes_aired": 11
-      }
-    },
-    {
-      "id": "serial-23139",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "История Кисэн",
-      "title_orig": "Sin gisaeng dyeon",
-      "other_title": "Новые сказки Кисэн / New Tales of Gisaeng / New Gisaeng Story / New Tales of the Gisaeng",
-      "translation": {
-        "id": 620,
-        "title": "GREEN TEA",
-        "type": "voice"
-      },
-      "year": 2011,
-      "last_season": 1,
-      "last_episode": 36,
-      "episodes_count": 36,
-      "kinopoisk_id": "772233",
-      "imdb_id": "tt2788196",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-02-25T17:30:27Z",
-      "updated_at": "2020-10-19T09:34:56Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/597079/aaf4a9bb7b173b403e098aa9a336b259/720p",
-            "2": "//kodik.cc/seria/597080/a1eabe5953cf029cf54ba6c1ae884455/720p",
-            "3": "//kodik.cc/seria/597081/a1f3769f53215bea3dc8dabb00573a2d/720p",
-            "4": "//kodik.cc/seria/597082/15d9f2ee32c1971f885d6bfa452f2bfc/720p",
-            "5": "//kodik.cc/seria/597083/4880474edba313a6982ae6d9dec50ff4/720p",
-            "6": "//kodik.cc/seria/597084/166b6b533ae0450f924ae3473ccd20fe/720p",
-            "7": "//kodik.cc/seria/597085/73a16e79b39ea2531a25e6603fb5d36c/720p",
-            "8": "//kodik.cc/seria/597086/5a25ea52e0532b4ccc67b7d91939946f/720p",
-            "9": "//kodik.cc/seria/597087/4094834b36ae63c47f5be7547ddb639d/720p",
-            "10": "//kodik.cc/seria/597088/a452a39bc2bbeda84ddd953dc85c6c1c/720p",
-            "11": "//kodik.cc/seria/597089/37cece562f05c5ed8a71828b832b90cb/720p",
-            "12": "//kodik.cc/seria/597090/02852434d3906677f21d3ac05b84d5ed/720p",
-            "13": "//kodik.cc/seria/597091/fbf6511646b100b078db984ba17634e3/720p",
-            "14": "//kodik.cc/seria/597092/7a5ae354b3e31d08212d0389ec03e65f/720p",
-            "15": "//kodik.cc/seria/597093/06aa006750c24dba0310ddb63a5d7d12/720p",
-            "16": "//kodik.cc/seria/597094/0054d40bd57f6d2a9a339dd49c385661/720p",
-            "17": "//kodik.cc/seria/597095/8eb0e75874954b084da28dfe6a04ff11/720p",
-            "18": "//kodik.cc/seria/597096/e143b650d1fb558540423f201293473e/720p",
-            "19": "//kodik.cc/seria/597097/8e442a4cd7a0ad71b4430783f8539e2d/720p",
-            "20": "//kodik.cc/seria/597098/ac03e0f8c336b610f6144f3379fc2561/720p",
-            "21": "//kodik.cc/seria/597099/47c5b8c3b313cdcee358ebe3bf9bd86d/720p",
-            "22": "//kodik.cc/seria/597100/4ecf3906e8e8e29b60b865ee87a88018/720p",
-            "23": "//kodik.cc/seria/597101/7024b61d3ceb2791f5937cad5521f619/720p",
-            "24": "//kodik.cc/seria/597102/47b44c4bf6095569b8c014f4bf36be0b/720p",
-            "25": "//kodik.cc/seria/597103/8c020062a644e7a7789bef1be1b05df8/720p",
-            "26": "//kodik.cc/seria/597104/dc7ff42648d66289dd298e6c1d4f7fe9/720p",
-            "27": "//kodik.cc/seria/597105/ad6ec29e8be273f80bf13297bef188df/720p",
-            "28": "//kodik.cc/seria/597106/eb5f72dbab0c26924ab05c2206602cab/720p",
-            "29": "//kodik.cc/seria/597107/ac860244ed971bf2dae5294ac5e00a52/720p",
-            "30": "//kodik.cc/seria/597108/e7c707ea762e174facd5bb63c90708cb/720p",
-            "31": "//kodik.cc/seria/597109/4ba29311e51ef63ba00720b18c66117c/720p",
-            "32": "//kodik.cc/seria/597110/2c34404a5fbe4626319e70dc0337734c/720p",
-            "33": "//kodik.cc/seria/597111/7b9468d8975e1af83ffbf74f18b898d8/720p",
-            "34": "//kodik.cc/seria/619350/ae132c65d10ac1df03cccf12347ab989/720p",
-            "35": "//kodik.cc/seria/659765/bd010c32a477d5202ed431cc048f7c93/720p",
-            "36": "//kodik.cc/seria/726094/96ddfef2129dcb03b0c2006f078d342f/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "История кисэн",
-        "title_en": "Singisaengdyeon",
-        "year": 2011,
-        "description": "Тан Са-ран учится классическим танцам, она красива, но глубоко несчастна. Будучи подростком она потеряла мать, и отец женился второй раз. Хоть её семья совсем небогата, но это не мешает ей с достоинством держаться в кругу богатых подруг. Девушка влюбляется в А Да-мо, но так и не признается, что она из бедной семьи. Одна из куртизанок приглашает её стать кисэн. ",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/772233.jpg",
-        "duration": 70,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 252,
-        "imdb_rating": 7.7,
-        "imdb_votes": 35,
-        "premiere_world": "2011-01-23",
-        "actors": [
-          "Пэк Ок-там",
-          "Хан Хе-рин",
-          "Хан Джин-хи",
-          "Сон Хун",
-          "Лим Су-хян",
-          "Ким Бо-ён",
-          "Ким Джу-ён",
-          "Ли Мэ-ри",
-          "Ли Сук",
-          "Чон Джи-ху"
-        ],
-        "directors": [
-          "Янг Хи Ли",
-          "Moon-kwon Son"
-        ],
-        "producers": [
-          "О Сэ-ган"
-        ],
-        "writers": [
-          "Лим Сон-хан"
-        ]
-      }
-    },
-    {
-      "id": "serial-12513",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Гинтама [ТВ-8]",
-      "title_orig": "Gintama",
-      "other_title": "Гинтама 8 / Gintama.: Shirogane no Tamashii-hen - Kouhan-sen",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 8,
-      "last_episode": 14,
-      "episodes_count": 14,
-      "kinopoisk_id": "490128",
-      "imdb_id": "tt0988818",
-      "shikimori_id": "37491",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-09-27T17:03:25Z",
-      "updated_at": "2020-10-19T08:43:38Z",
-      "seasons": {
-        "8": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/335017/fb4759a3b59f682c3c8aa5d8a3dbc406/720p",
-            "2": "//aniqit.com/seria/335018/f3731626d6009097b2def42552b67b2d/720p",
-            "3": "//aniqit.com/seria/335019/1e9dd50c20896edce0d2a6c67a88c780/720p",
-            "4": "//aniqit.com/seria/335020/dce300d2ed47359b50a450922592e4b8/720p",
-            "5": "//aniqit.com/seria/335021/9a99fa045264b836effeaa6bc9134a52/720p",
-            "6": "//aniqit.com/seria/581806/8ca0d46ea70a22d5248f9f72a39c3d18/720p",
-            "7": "//aniqit.com/seria/726083/e44450f2f071bbeb7eb5cb0e0d9d059f/720p",
-            "8": "//aniqit.com/seria/726084/0cf72a030e243826b1f639bfb6ab3777/720p",
-            "9": "//aniqit.com/seria/726085/11f0fab3e12994be663b480c67a10d25/720p",
-            "10": "//aniqit.com/seria/726086/71d834db08a172dd50cbd206c7afa953/720p",
-            "11": "//aniqit.com/seria/726087/b8e6fde8080d46a94096af68b96b9423/720p",
-            "12": "//aniqit.com/seria/726088/7fbafeb7a2c4e3351a5fe43a43fa34d5/720p",
-            "13": "//aniqit.com/seria/726089/8749ad2907f78c9f77af39b7c65e7dc2/720p",
-            "14": "//aniqit.com/seria/726090/adc657ce250eaf971e24849361d21799/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Гинтама",
-        "title_en": "Gintama",
-        "other_titles": [
-          "Гинтама: Серебряная душа 2",
-          "Gintama.: Silver Soul Arc 2"
-        ],
-        "other_titles_en": [
-          "Gintama.: Silver Soul Arc - Second Half War"
-        ],
-        "other_titles_jp": [
-          "銀魂. 銀ノ魂篇 後半戦"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2005,
-        "tagline": "Forever be Yorozuya",
-        "description": "Захватив Землю, пришельцы Аманто запретили ношение мечей. Единственный, в ком ещё жив подлинно японский дух – самоуверенный сластёна Гинтоки Саката. Неуклюжий очкарик Симпати нанялся к нему в ученики. Третьим в их команде стала прелестная Кагура из сильнейшей во вселенной семьи Ятудзоку, а с ней её питомец Садахару – пёсик размером с бегемота, обладающий милой привычкой грызть головы всем, кто подвернётся. Они называют себя «мастерами на все руки» и выполняют любые заказы – главное, чтобы заплатили.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/490128.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/998745ed4145c39b9a25b0ab81221bc66ab66bfb.jpg",
-          "https://shikimori.one/system/screenshots/original/ae3ded9b33327e72e25eca9b1c8aef94a5a77bae.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фантастика"
-        ],
-        "anime_genres": [
-          "Исторический",
-          "Комедия",
-          "Пародия",
-          "Самураи",
-          "Сёнен",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Bandai Namco Pictures"
-        ],
-        "kinopoisk_rating": 8.5,
-        "kinopoisk_votes": 4515,
-        "imdb_rating": 8.6,
-        "imdb_votes": 6720,
-        "shikimori_rating": 8.86,
-        "shikimori_votes": 3867,
-        "premiere_world": "2006-04-04",
-        "aired_at": "2018-07-09",
-        "released_at": "2018-10-08",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 14,
-        "episodes_aired": 14,
-        "actors": [
-          "Томокадзу Сугита",
-          "Дайсукэ Сакагути",
-          "Риэ Кугимия",
-          "Кадзуя Накаи",
-          "Сусуму Тиба",
-          "Кэнъити Судзумура",
-          "Сацуки Юкино",
-          "Акира Исида",
-          "Тэцураху Ота",
-          "Фумихико Татики"
-        ],
-        "directors": [
-          "Тидзуру Мияваки",
-          "Ёити Фудзита",
-          "Синдзи Такамацу"
-        ],
-        "producers": [
-          "Хироси Муто",
-          "Дэвид Дель Рио",
-          "Джон Лэдфорд",
-          "Эиити Такахаси"
-        ],
-        "writers": [
-          "Хидэаки Сорати"
-        ],
-        "composers": [
-          "Audio Highs"
-        ],
-        "editors": [
-          "Такэси Сэяма"
-        ],
-        "designers": [
-          "Юми Накамура",
-          "Юки Номура",
-          "Такаёси Фукусима",
-          "Нами Манива"
-        ],
-        "operators": [
-          "Юки Тэрамото"
-        ]
-      }
-    },
-    {
-      "id": "serial-29707",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Розарио + Вампир [ТВ-1]",
-      "title_orig": "Rosario + Vampire",
-      "other_title": "Крестик + Вампир / Rosario to Vampire",
-      "translation": {
-        "id": 610,
-        "title": "AniLibria.TV",
-        "type": "voice"
-      },
-      "year": 2008,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "447630",
-      "imdb_id": "tt1161684",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6627",
-      "shikimori_id": "2993",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-10-13T06:07:04Z",
-      "updated_at": "2020-10-19T08:42:49Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/724120/b396029ac7547c01f30ec06aa7431eff/720p",
-            "2": "//aniqit.com/seria/724121/21b0e0af55ea5cbf1e32c95c47354976/720p",
-            "3": "//aniqit.com/seria/724122/db8bd9ae3720341c18a7d6b6687dceff/720p",
-            "4": "//aniqit.com/seria/724123/df7385287605c57f48798d17b64e42b7/720p",
-            "5": "//aniqit.com/seria/724124/86f68217c86279c35cd64fa48a439676/720p",
-            "6": "//aniqit.com/seria/724125/e437f2623c4ba8f48d62124b9f3504e7/720p",
-            "7": "//aniqit.com/seria/724420/f2dd706b1d18e4cf058e1a13c91b4dc5/720p",
-            "8": "//aniqit.com/seria/724746/b8e66118a2a58c6aa783bd44ec8fac2a/720p",
-            "9": "//aniqit.com/seria/725269/62ed846e016ba046603b41672f263673/720p",
-            "10": "//aniqit.com/seria/725551/9ee4713058435c087509bd27b8df94dc/720p",
-            "11": "//aniqit.com/seria/726079/8b121b2390887414665c6df076e880ff/720p",
-            "12": "//aniqit.com/seria/726080/f4039535e772b37cabde8ecd98338225/720p",
-            "13": "//aniqit.com/seria/726081/8fa517f52365f89364044b77afbe41d9/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Розарио + Вампир",
-        "title_en": "Rosario + Vampire",
-        "other_titles": [
-          "Rosario and Vampire"
-        ],
-        "other_titles_en": [
-          "Rosario + Vampire"
-        ],
-        "other_titles_jp": [
-          "ロザリオとバンパイア"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2008,
-        "description": "15-летний разгильдяй Цукунэ Аоно завалил вступительные экзамены в старшую школу, куда поступили все его друзья. Пропал бы у парня целый год, но отцу в руки попало приглашение в некую Призрачную Академию, куда берут с любыми оценками. Счастливые родители тут же собрали сына в дорогу, а стоило бы подумать. Цукунэ это понял, когда автобус вынырнул из длинного туннеля в мир, достойный Лавкрафта, где красное небо, нет сотовой связи и летают говорящие мыши.\n\rВпрочем, наш герой обо всем забыл, когда на него в буквальном смысле рухнула с неба таинственная красавица Мока, странствующая в поисках друзей (в которые он тут же записался). И какая разница, что обычного парня занесло в школу нечисти, «йокаев», что вынуждены как-то приспосабливаться к жизни в мире «людишек»? Ну, сидят с ним в классе огр-людоед, ведьма, оборотень и суккуб, и что такого? В рядовой японской школе, что ли, лучше? Даже факт, что удаление с пышной груди новой подруги нательного крестика превращает ее в высшего вампира, этакую Принцессу монстров, уже не пугает юного философа, который твердо уяснил – главное не форма, а содержание!\n\rВот только как Цукунэ проник в магическую школу, защитный барьер которой убивает любого смертного?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/447630.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/d3a6f49076a029ec024c2f0e84b94214530a6c1e.jpg",
-          "https://shikimori.one/system/screenshots/original/cdb8fe88684595bd70034d440376a02e1ec8c76e.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Вампиры",
-          "Гарем",
-          "Комедия",
-          "Романтика",
-          "Сёнен",
-          "Фэнтези",
-          "Школа",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Gonzo"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 2575,
-        "imdb_rating": 7.4,
-        "imdb_votes": 708,
-        "shikimori_rating": 6.86,
-        "shikimori_votes": 16744,
-        "premiere_world": "2008-01-03",
-        "aired_at": "2008-01-03",
-        "released_at": "2008-03-27",
-        "rating_mpaa": "R+",
-        "episodes_total": 13,
-        "episodes_aired": 0,
-        "actors": [
-          "Даисукэ Кисио",
-          "Нана Мидзуки",
-          "Мисато Фукуэн",
-          "Кимико Кояма",
-          "Риэ Кугимия",
-          "Кикуко Иноуэ",
-          "Саэко Тиба"
-        ]
-      }
-    },
-    {
-      "id": "serial-24228",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Мистер Файтинг",
-      "title_orig": "Jia you, ni shi zui bang de",
-      "other_title": "Вперёд, ты лучший! / Господин Удача / Mr. Fighting",
-      "translation": {
-        "id": 871,
-        "title": "Asian Miracle Group",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 9,
-      "episodes_count": 9,
-      "kinopoisk_id": "1289851",
-      "imdb_id": "tt10743084",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-03-30T12:06:20Z",
-      "updated_at": "2020-10-19T08:42:20Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/621041/44ddd1675a59a9e4ea8354c2838ed220/720p",
-            "2": "//kodik.cc/seria/629879/ff76b882c5c7654b291316a93c618242/720p",
-            "3": "//kodik.cc/seria/643404/11eb10dc5b339b128e839d4bf258705b/720p",
-            "4": "//kodik.cc/seria/658178/b819af971cb2b8993b79bddcf9b2df7c/720p",
-            "5": "//kodik.cc/seria/664769/ce9b4cb16c0f0e3c7a570b6f7aa96a49/720p",
-            "6": "//kodik.cc/seria/717444/dfae95b0ba6e816013037652c2dfe861/720p",
-            "7": "//kodik.cc/seria/719787/6384f65cca56d3829bab8e64a4bcce5d/720p",
-            "8": "//kodik.cc/seria/721554/059bcce91eb12e3ecb25377929bc18e3/720p",
-            "9": "//kodik.cc/seria/726078/ca9ad9fadfae12cee92778f4a2f3ae99/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Jia you, ni shi zui bang de",
-        "title_en": "",
-        "year": 2019,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "драма",
-          "комедия"
-        ],
-        "imdb_rating": 8.4,
-        "imdb_votes": 14,
-        "premiere_world": "2019-07-31",
-        "actors": [
-          "Дэн Лунь",
-          "Хань Туншэн",
-          "Сандра Ма",
-          "Ни Хунцзе",
-          "Chuhan Chen",
-          "Фань Тяньтянь",
-          "Вивиан У"
-        ],
-        "directors": [
-          "Синь Лью"
-        ],
-        "writers": [
-          "Zi You Ji Guang",
-          "Ли Сяо"
         ]
       }
     }

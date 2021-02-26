@@ -1,6 +1,538 @@
 {
   "results": [
     {
+      "id": "movie-55176",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Конец века",
+      "title_orig": "Fin de siglo",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1270406",
+      "imdb_id": "tt9845398",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-11T18:16:49Z",
+      "updated_at": "2020-05-11T18:16:49Z",
+      "material_data": {
+        "title": "Конец века",
+        "title_en": "Fin de siglo",
+        "year": 2019,
+        "description": "Двое мужчин встречаются в Барселоне и, проведя день вместе, понимают, что они встречались уже двадцать лет назад.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1270406.jpg",
+        "duration": 84,
+        "countries": [
+          "Аргентина"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 228,
+        "imdb_rating": 6.9,
+        "imdb_votes": 2322,
+        "premiere_world": "2019-03-30",
+        "actors": [
+          "Хуан Барберини",
+          "Рамон Пуйоль",
+          "Миа Маэстро",
+          "Mariano Lopez Seoane",
+          "Helen Celia Castro-Wood"
+        ],
+        "directors": [
+          "Лучио Кастро"
+        ],
+        "producers": [
+          "Joanna Lee",
+          "Josh Wood"
+        ],
+        "writers": [
+          "Лучио Кастро"
+        ],
+        "composers": [
+          "Robert Lombardo"
+        ],
+        "editors": [
+          "Лучио Кастро"
+        ],
+        "operators": [
+          "Bernat Mestres"
+        ]
+      }
+    },
+    {
+      "id": "serial-25628",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Таинственная игра OVA-1",
+      "title_orig": "Fushigi Yuugi (1996)",
+      "other_title": "Fushigi Yugi: The Mysterious Play (1996)",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 1996,
+      "last_season": 1,
+      "last_episode": 3,
+      "episodes_count": 3,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2715",
+      "shikimori_id": "380",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-11T17:42:53Z",
+      "updated_at": "2020-05-11T17:42:53Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/646011/4189310fd29e68c4cb998caae9015bc8/720p",
+            "2": "//aniqit.com/seria/646012/1e7895d161005069deef209917a6d217/720p",
+            "3": "//aniqit.com/seria/646013/cf319fa3fedfe15f300e3c5828e549df/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Таинственная игра OVA",
+        "title_en": "Fushigi Yuugi OVA",
+        "other_titles": [
+          "Fushigi Yugi OVA 1"
+        ],
+        "other_titles_en": [
+          "Mysterious Play OVA"
+        ],
+        "other_titles_jp": [
+          "ふしぎ遊戯"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "description": "Прошёл год после событий оригинального сериала «Таинственная игра», и Тамахомэ вдруг снова переносится обратно во «Вселенную четырёх богов» через сложную иллюзию, в которой он полностью сбит с толку. Тем временем Миака переживает исчезновение Тамы , Юи решает вернуться в книгу, а Кэйскэ и Тэцуя разбираются, что же всё-таки происходит.",
+        "poster_url": "https://shikimori.one/system/animes/original/380.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/4a1e80246154179c273cfb9a59cc5ed666d2feaa.jpg",
+          "https://shikimori.one/system/screenshots/original/ce79c5734c82dd3d80b088d039e5055e54a60bc3.jpg"
+        ],
+        "anime_genres": [
+          "Исторический",
+          "Комедия",
+          "Приключения",
+          "Романтика",
+          "Сёдзё",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Studio Pierrot"
+        ],
+        "shikimori_rating": 7.16,
+        "shikimori_votes": 400,
+        "aired_at": "1996-10-25",
+        "released_at": "1997-02-25",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 3,
+        "episodes_aired": 0
+      }
+    },
+    {
+      "id": "movie-22441",
+      "type": "anime",
+      "link": "",
+      "title": "Мэри и ведьмин цветок",
+      "title_orig": "Meari to majo no hana",
+      "other_title": "Mary and the Witch's Flower",
+      "translation": {
+        "id": 737,
+        "title": "AlexFilm",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1008415",
+      "imdb_id": "tt6336356",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9063",
+      "shikimori_id": "34541",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [
+        "RU"
+      ],
+      "created_at": "2018-03-28T13:42:48Z",
+      "updated_at": "2020-05-11T15:37:41Z",
+      "material_data": {
+        "title": "Мэри и ведьмин цветок",
+        "title_en": "Meari to majo no hana",
+        "other_titles_en": [
+          "Mary and the Witch's Flower"
+        ],
+        "other_titles_jp": [
+          "メアリと魔女の花"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2017,
+        "tagline": "From a single lie, everything will change.",
+        "description": "Если в деревне у бабушки нет твоих сверстников, только старики и старушки, любые каникулы могут превратиться в наказание. Сосланная родителями на лето в глухую деревню 10-летняя Мэри каждый день не знает, чем себя занять. Однажды девочка решает проследить за приблудным котом и случайно находит в лесу волшебный цветок. От лепестков этого «ведьмина глаза» простая кухонная метла внезапно оживает и уносит девочку далеко за облака, в самую настоящую школу колдовства и магии. Повстречав местных учителей, Мэри решает выдать себя за новенькую ученицу из могучей колдунской семьи.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1008415.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/c52559aaa2c2b043347591033031bf4deeb07f3f.jpg",
+          "https://shikimori.one/system/screenshots/original/88373b23e4e834a16905c40802b597b1ba6fd6d4.jpg"
+        ],
+        "duration": 102,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "приключения"
+        ],
+        "anime_genres": [
+          "Магия",
+          "Приключения",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Studio Ponoc"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 31275,
+        "imdb_rating": 6.8,
+        "imdb_votes": 12075,
+        "shikimori_rating": 7.29,
+        "shikimori_votes": 7594,
+        "premiere_ru": "2018-03-01",
+        "premiere_world": "2017-07-08",
+        "aired_at": "2017-07-08",
+        "rating_mpaa": "PG",
+        "minimal_age": 6,
+        "episodes_total": 1,
+        "episodes_aired": 1,
+        "actors": [
+          "Хана Сугисаки",
+          "Рюносукэ Камики",
+          "Юки Амами",
+          "Фумиё Кохината",
+          "Хикари Мицусима",
+          "Дзиро Сато",
+          "Кэнъити Эндо",
+          "Эри Ватанабэ",
+          "Синобу Отакэ",
+          "Икуэ Отани"
+        ],
+        "directors": [
+          "Хиромаса Ёнэбаяси"
+        ],
+        "producers": [
+          "Ёсиаки Нисимура",
+          "Наоя Фудзимаки",
+          "Рёити Фукуяма",
+          "Томоко Хосокава",
+          "Минами Итикава",
+          "Кёхэи Ито",
+          "Наоки Иваса",
+          "Дайсукэ Кадоя",
+          "Сё Оямада",
+          "Сатоко Окубо"
+        ],
+        "writers": [
+          "Мэри Стюарт",
+          "Рико Сакагути",
+          "Хиромаса Ёнэбаяси"
+        ],
+        "composers": [
+          "Такацугу Мурамацу"
+        ],
+        "editors": [
+          "Тосихико Кодзима"
+        ],
+        "designers": [
+          "Томоя Имаи",
+          "Томотака Кубо"
+        ],
+        "operators": [
+          "Тору Фукуси"
+        ]
+      }
+    },
+    {
+      "id": "movie-55172",
+      "type": "anime",
+      "link": "",
+      "title": "Буквоежка",
+      "title_orig": "Bungaku shôjo",
+      "other_title": "Буквоежка (фильм) / Литературная Барышня",
+      "translation": {
+        "id": 818,
+        "title": "Reanimedia",
+        "type": "voice"
+      },
+      "year": 2010,
+      "kinopoisk_id": "488337",
+      "imdb_id": "tt1546649",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7776",
+      "shikimori_id": "6408",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-11T15:27:45Z",
+      "updated_at": "2020-05-11T15:27:45Z",
+      "material_data": {
+        "title": "Буквоежка",
+        "title_en": "Bungaku shôjo",
+        "other_titles": [
+          "Литературная барышня",
+          "Книжная лакомка",
+          "Book Girl",
+          "Literature Girl"
+        ],
+        "other_titles_jp": [
+          "劇場版“文学少女”"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2010,
+        "description": "Главный герой - Коноха Иноуэ - выглядит обычным старшеклассником. Его школьная жизнь могла бы показаться совершенно неинтересной, если бы не хранимый им секрет - он хотел стать писателем - автором женских романтических бестселлеров. Однако после одного неприятного эпизода, произошедшего два года назад, он поклялся себе никогда больше не писать. Все меняется, когда он переходит в новую школу. Президент литературного кружка Токо Амано буквально вынуждает его вступить в клуб. Токо питается книгами, поэтому теперь каждый день после занятий Коноха пишет для нее новую литературную пищу.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/488337.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/582aa2cea7d085728afff30a1508d6210e4d6699.png",
+          "https://shikimori.one/system/screenshots/original/59ddb045e8fa5ed2450185d1b3f1dab385f101dc.png"
+        ],
+        "duration": 103,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Драма",
+          "Романтика",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Production I.G"
+        ],
+        "kinopoisk_rating": 6.8,
+        "kinopoisk_votes": 514,
+        "imdb_rating": 6.2,
+        "imdb_votes": 181,
+        "shikimori_rating": 7.42,
+        "shikimori_votes": 2365,
+        "premiere_ru": "2012-11-01",
+        "premiere_world": "2010-05-01",
+        "aired_at": "2010-05-01",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 16,
+        "episodes_total": 1,
+        "episodes_aired": 1,
+        "actors": [
+          "Кана Ханадзава",
+          "Мию Ирино",
+          "Аки Тоёсаки",
+          "Асами Симода",
+          "Даисукэ Оно",
+          "Мамору Мияно",
+          "Нана Мидзуки",
+          "Сидзука Ито"
+        ],
+        "directors": [
+          "Сюнсукэ Тада"
+        ],
+        "producers": [
+          "Масахито Аринага",
+          "Такеши Хашимото",
+          "Кацуми Коикэ",
+          "Кэнта Судзуки",
+          "Yûichirô Takahata",
+          "Кадзуёси Фукуба",
+          "Манабу Харада",
+          "Сюндзи Иноэ",
+          "Руи Куроки",
+          "Ёсимаса Мори"
+        ],
+        "writers": [
+          "Мидзуки Номура",
+          "Юка Ямада"
+        ],
+        "composers": [
+          "Хикару Нанасэ"
+        ],
+        "editors": [
+          "Дзюнъити Уэмацу"
+        ],
+        "designers": [
+          "Томоясу Фудзисэ",
+          "Ёсинори Сиодзава",
+          "Митиэ Судзуки"
+        ],
+        "operators": [
+          "Кодзи Танака"
+        ]
+      }
+    },
+    {
+      "id": "movie-55174",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Здраствуй, моя прекрасная родина",
+      "title_orig": "Merhaba Güzel Vatanim",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1282731",
+      "imdb_id": "tt10579092",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-11T15:11:00Z",
+      "updated_at": "2020-05-11T15:11:00Z",
+      "material_data": {
+        "title": "Merhaba Güzel Vatanim",
+        "title_en": "",
+        "year": 2019,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1282731.jpg",
+        "duration": 99,
+        "countries": [
+          "Турция"
+        ],
+        "genres": [
+          "биография",
+          "драма"
+        ],
+        "imdb_rating": 5.1,
+        "imdb_votes": 161,
+        "premiere_world": "2019-10-31",
+        "actors": [
+          "Йеткин Дикинджилер",
+          "Серкан Алтынташ",
+          "Берна Лачин",
+          "Пелин Бату",
+          "Левент Узюмджю",
+          "Искендер Бааджылар",
+          "Мехмет Токат",
+          "Алпер Тюреди",
+          "Kutay Sahin",
+          "Умут Бескирма"
+        ],
+        "directors": [
+          "Cengiz Özkarabekir"
+        ],
+        "writers": [
+          "Ахмет Юмит"
+        ]
+      }
+    },
+    {
+      "id": "serial-25623",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Семь смертных грехов OVA-1",
+      "title_orig": "Nanatsu no Taizai OVA",
+      "other_title": "七つの大罪 OVA",
+      "translation": {
+        "id": 827,
+        "title": "Persona99",
+        "type": "voice"
+      },
+      "year": 2015,
+      "last_season": 1,
+      "last_episode": 2,
+      "episodes_count": 2,
+      "kinopoisk_id": "1118056",
+      "imdb_id": "tt9127496",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8296",
+      "shikimori_id": "30347",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-11T14:04:32Z",
+      "updated_at": "2020-05-11T14:04:32Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/645946/fc30918562e356653c7fe4249a2a1e4b/720p",
+            "2": "//aniqit.com/seria/645947/3953a6a7b80f1ebed614dc00172e7f3c/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Семь смертных грехов OVA",
+        "title_en": "Nanatsu no Taizai OVA",
+        "other_titles": [
+          "Nanatsu no Taizai: Ban no Bangai-hen",
+          "The Seven Deadly Sins: Ban's Side Story"
+        ],
+        "other_titles_jp": [
+          "七つの大罪"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "year": 2015,
+        "description": "Бан отправился в лес фей ради того, чтобы завладеть фонтаном молодости. Там он столкнулся с Элейн, защитницей леса и самого источника бессмертия. Как же теперь поступит Бан?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1118056.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/8b906971b18a29c6044174641a5cc537841da988.jpg",
+          "https://shikimori.one/system/screenshots/original/ff62b228614ae112758cfb6bb099f1f006bd87e9.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "приключения"
+        ],
+        "anime_genres": [
+          "Магия",
+          "Приключения",
+          "Сверхъестественное",
+          "Сёнен",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "A-1 Pictures"
+        ],
+        "shikimori_rating": 7.61,
+        "shikimori_votes": 11105,
+        "premiere_world": "2015-06-17",
+        "aired_at": "2015-06-17",
+        "released_at": "2015-08-12",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 2,
+        "episodes_aired": 4,
+        "actors": [
+          "Тацухиса Судзуки",
+          "Аои Юки",
+          "Котори Коиваи",
+          "Мисаки Куно",
+          "Дзюн Фукуяма",
+          "Сора Амамия",
+          "Юки Кадзи",
+          "Маая Сакамото",
+          "Кацуюки Конъиси",
+          "Мамору Мияно"
+        ],
+        "writers": [
+          "Сётаро Суга"
+        ]
+      }
+    },
+    {
       "id": "serial-23469",
       "type": "foreign-serial",
       "link": "",
@@ -7617,583 +8149,6 @@
         "directors": [
           "Люн Син-Кюнь",
           "Вон Чунь-Мань"
-        ]
-      }
-    },
-    {
-      "id": "serial-25596",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Хеталия и страны Оси ONA",
-      "title_orig": "Hetalia: Axis Powers",
-      "other_title": "Хеталия: Державы \"Оси\" / Hetalia: Axis Powers Fan Disc",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2009,
-      "last_season": 1,
-      "last_episode": 52,
-      "episodes_count": 52,
-      "kinopoisk_id": "455552",
-      "imdb_id": "tt1356878",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7100",
-      "shikimori_id": "5060",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-10T12:52:18Z",
-      "updated_at": "2020-05-10T12:52:18Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/645462/91ccfd0fb83393b8d6e3dc8998c70a82/720p",
-            "2": "//aniqit.com/seria/645463/9522c6eef4ba9a22626263b35491855b/720p",
-            "3": "//aniqit.com/seria/645464/38132a04659c87e6867590de9bea06b9/720p",
-            "4": "//aniqit.com/seria/645465/f045a84fc6ffc2020adcf3ac6a470ca0/720p",
-            "5": "//aniqit.com/seria/645466/a95d8cb724f4d2e322ada21cc722f17f/720p",
-            "6": "//aniqit.com/seria/645467/f4d2500f873f115fa11e98e895a70663/720p",
-            "7": "//aniqit.com/seria/645468/1f35755b5fdbcd5b08b4c25aa6ad39e8/720p",
-            "8": "//aniqit.com/seria/645469/d44c6088a696533700e0be25ffaebb4d/720p",
-            "9": "//aniqit.com/seria/645470/4a3ca7a5bb2d3d4b95ae10b2108f38bc/720p",
-            "10": "//aniqit.com/seria/645471/a3d7fbc61b58355deaf8837a7850cd9f/720p",
-            "11": "//aniqit.com/seria/645472/55221b8833d60d8836e49527231e89f2/720p",
-            "12": "//aniqit.com/seria/645473/8b4b14e72aaca1f05c9b3fce9b595bd6/720p",
-            "13": "//aniqit.com/seria/645474/1ed78e244f38ae97757b27e28e445be5/720p",
-            "14": "//aniqit.com/seria/645475/ad8ad289fb1ea1a4ce21a5ad8fd7c0b9/720p",
-            "15": "//aniqit.com/seria/645476/0404053306a6b978f3c923468b413e3a/720p",
-            "16": "//aniqit.com/seria/645477/a7c7ca1819f1b194ae3ba3b1f32727d9/720p",
-            "17": "//aniqit.com/seria/645478/d866ff22f4ef437f51151f51904b8146/720p",
-            "18": "//aniqit.com/seria/645479/3ac5d53aca1a921c5795ee21bac844d9/720p",
-            "19": "//aniqit.com/seria/645480/a664bd17f5ce17b80245042733cc40f1/720p",
-            "20": "//aniqit.com/seria/645481/e577752c638e76448e20d0a5f1bc16ce/720p",
-            "21": "//aniqit.com/seria/645482/c95408d040f1f92a75b67d6d2c7f39cd/720p",
-            "22": "//aniqit.com/seria/645483/5fcf904493fb3f930d23e8272e6d2b1c/720p",
-            "23": "//aniqit.com/seria/645484/2ef9d345fb2dae477c4cc3f42932c4ad/720p",
-            "24": "//aniqit.com/seria/645485/233085205f2a5a2aca58396e1b5026f3/720p",
-            "25": "//aniqit.com/seria/645486/d390e078b74e1c5d4851181d10c650d2/720p",
-            "26": "//aniqit.com/seria/645487/b277e4d3947df1c59aac254629e74e73/720p",
-            "27": "//aniqit.com/seria/645488/52feba089521c2ded6e303c751108e6a/720p",
-            "28": "//aniqit.com/seria/645489/cd650d8732bca333799ab57c5ea440c7/720p",
-            "29": "//aniqit.com/seria/645490/1132af30fbd29b65514f0e7002c7890b/720p",
-            "30": "//aniqit.com/seria/645491/ce8cd913fac7254ef164bad4c1cca4dc/720p",
-            "31": "//aniqit.com/seria/645492/c6165a8e6d1a95233bfa609c1c274686/720p",
-            "32": "//aniqit.com/seria/645493/d6078e32c9c4fa1b1a001bf068473ee2/720p",
-            "33": "//aniqit.com/seria/645494/be28660935cd0ba7e00498fa815908a7/720p",
-            "34": "//aniqit.com/seria/645495/5f7f82297499a5fa79a6c9327004be07/720p",
-            "35": "//aniqit.com/seria/645496/61e0ed9f8bec0ac8b3adaf26684711f8/720p",
-            "36": "//aniqit.com/seria/645497/9e882c83ef884b6b17f7b4bf3ea454e3/720p",
-            "37": "//aniqit.com/seria/645498/dc901c4f00ceafc55cdca47977f438a4/720p",
-            "38": "//aniqit.com/seria/645499/3e69be50406db4488edb7225ec81a032/720p",
-            "39": "//aniqit.com/seria/645500/ad1357127db9d64927d2e5343be033e1/720p",
-            "40": "//aniqit.com/seria/645501/97138755a291e2e0fd4677127bcc1dcb/720p",
-            "41": "//aniqit.com/seria/645502/9e2436349cdebb29b6d128cea0bc1c58/720p",
-            "42": "//aniqit.com/seria/645503/cf43a5f2864a5d7c04f92a1a850c8c70/720p",
-            "43": "//aniqit.com/seria/645504/12c4af295bbedddb73430412ae76f6bf/720p",
-            "44": "//aniqit.com/seria/645505/dad0e339b66b5bdb673d4f4fc0661a33/720p",
-            "45": "//aniqit.com/seria/645506/48f60f227ef02dbd48f2815c3ab59005/720p",
-            "46": "//aniqit.com/seria/645507/2606f313e4f4338309fa2c80e15ae711/720p",
-            "47": "//aniqit.com/seria/645508/6337f2521b3e72cef5198bfc33be665c/720p",
-            "48": "//aniqit.com/seria/645509/1e3f00b5d82247ae4baffb3ac1f1ad37/720p",
-            "49": "//aniqit.com/seria/645510/c1a510f84b6e93611b807a5400836e09/720p",
-            "50": "//aniqit.com/seria/645511/f39d73ca884283632a7868cb0eeb1402/720p",
-            "51": "//aniqit.com/seria/645512/76168487043396330c3c6e7b3b09b8aa/720p",
-            "52": "//aniqit.com/seria/645513/86da9be146926c54031fcbde399b5acd/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Хеталия и страны Оси",
-        "title_en": "Hetalia: Axis Powers",
-        "other_titles_en": [
-          "Hetalia Axis Powers"
-        ],
-        "other_titles_jp": [
-          "ヘタリア Axis Powers"
-        ],
-        "anime_kind": "ona",
-        "anime_status": "released",
-        "year": 2009,
-        "tagline": "Make pasta not war!",
-        "description": "Когда-то почти всем известным миром правил здоровый мужик, которого звали Древний Рим. Но время шло, герой и его дети сошли с исторической сцены, а внуки обнаружили, что и в других частях света есть весьма серьезные парни. Так постепенно и возникла новейшая история, которая рассказывается в аниме от лица героев, каждый из которых - олицетворение своей страны.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/455552.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/4eb1a6ecf3286937c53d23f20f0f6c5ab76536d4.jpg",
-          "https://shikimori.one/system/screenshots/original/21ad224c3c3080b3ede6ac313a4a5b8572b5b1a6.png"
-        ],
-        "duration": 5,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Исторический",
-          "Комедия",
-          "Пародия"
-        ],
-        "anime_studios": [
-          "Studio Deen"
-        ],
-        "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 2872,
-        "imdb_rating": 7.4,
-        "imdb_votes": 1192,
-        "shikimori_rating": 7.41,
-        "shikimori_votes": 5354,
-        "premiere_world": "2009-01-26",
-        "aired_at": "2009-01-24",
-        "released_at": "2010-03-05",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 52,
-        "episodes_aired": 0,
-        "actors": [
-          "Эрик Вейл",
-          "Кристофер Бевинс",
-          "Тодд Хаберкорн",
-          "Брина Паленсиа",
-          "Патрик Сэйтц",
-          "Иен Синклер",
-          "Скотт Фриман",
-          "Кларин Харп",
-          "Чак Хубер",
-          "Го Иноэ"
-        ],
-        "directors": [
-          "Боб Сирохата"
-        ],
-        "producers": [
-          "Джастин Кук",
-          "Гэн Фукунага",
-          "Карли Хантер",
-          "Майк МакФарланд",
-          "Кейити Мацуда"
-        ],
-        "writers": [
-          "Хидэкадзу Химаруя",
-          "Такуя Хирамицу"
-        ],
-        "composers": [
-          "Кониш"
-        ]
-      }
-    },
-    {
-      "id": "serial-25594",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Тайная мама",
-      "title_orig": "Sikeurit madeo",
-      "other_title": "Тайная мать / Тайна матери / Секрет матери / Secret Mother / Madeo",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1115332",
-      "imdb_id": "tt8359472",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-10T12:38:13Z",
-      "updated_at": "2020-05-10T12:38:13Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/645425/9661538e90bb52229af73de29f102c29/720p",
-            "2": "//kodik.cc/seria/645426/c88dc15e89ad68a2b38b9e4fe759de00/720p",
-            "3": "//kodik.cc/seria/645427/3f3ae328dc251310b97b54d245e1bf90/720p",
-            "4": "//kodik.cc/seria/645428/9607913f049eb62e101eba99a003ad9d/720p",
-            "5": "//kodik.cc/seria/645429/e6a6ced32960ecc38aaa492986432609/720p",
-            "6": "//kodik.cc/seria/645430/ee37c565d7fc17b2eb4ad2e569640815/720p",
-            "7": "//kodik.cc/seria/645431/b2d6409ccae647388133de686f2bb523/720p",
-            "8": "//kodik.cc/seria/645432/47ba047fd13e92ea48dddee79f1d71af/720p",
-            "9": "//kodik.cc/seria/645433/d2b3df96503b8cfa50e613cf0d37f935/720p",
-            "10": "//kodik.cc/seria/645434/b444271772416d22607970b9b210e1d0/720p",
-            "11": "//kodik.cc/seria/645435/6e1077284046e7dd14230b85ec88bd49/720p",
-            "12": "//kodik.cc/seria/645436/18c978e0d236e968fe872da85cca23c7/720p",
-            "13": "//kodik.cc/seria/645437/33a3fe852a5aa1d120ff2799277952be/720p",
-            "14": "//kodik.cc/seria/645438/db82ecd3b64a892cc274debcbd89fb53/720p",
-            "15": "//kodik.cc/seria/645439/cb866afbfba17bbb729d435e3fdee884/720p",
-            "16": "//kodik.cc/seria/645440/8ad88885ada42e03c55a87407e3c572d/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Тайная мама",
-        "title_en": "Sikeurit madeo",
-        "year": 2018,
-        "description": "Когда-то Ю-джин работала психотерапевтом, но оставила работу ради семьи. У женщины умерла дочь, и она чувствует вину по этому поводу, поэтому старается ради сына и мужа. Сын готовится поступать в университет, и Ю-джин нанимает женщину-репетитора. Но что-то с ней не так.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1115332.jpg",
-        "duration": 35,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "детектив",
-          "триллер"
-        ],
-        "imdb_rating": 7.7,
-        "imdb_votes": 18,
-        "premiere_world": "2018-05-12",
-        "actors": [
-          "Сон Юн-а",
-          "Ким Со-ён",
-          "Сон Джэ-рим",
-          "Ким Тхэ-у",
-          "Со Ён-хи",
-          "Ким Джэ-хва",
-          "О Ён-а",
-          "Мин Сон-ук",
-          "Чха Хва-ён",
-          "Ким Е-джун"
-        ],
-        "directors": [
-          "Пак Ён-сун"
-        ],
-        "writers": [
-          "Хван Е-джин"
-        ]
-      }
-    },
-    {
-      "id": "serial-25593",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Кулинарные поединки Сомы OVA-2",
-      "title_orig": "Shokugeki no Souma: Ni no Sara OVA",
-      "other_title": "Повар-боец Сома: Второе блюдо OVA",
-      "translation": {
-        "id": 825,
-        "title": "AniMaunt",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10110",
-      "shikimori_id": "34480",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-10T10:46:01Z",
-      "updated_at": "2020-05-10T10:46:01Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/645403/54c146a74b4a011844faecee555a5a9e/720p",
-            "2": "//aniqit.com/seria/645404/4a7fa92ceb8d5d27a6031622eb0f9eae/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Повар-боец Сома: Второе блюдо OVA",
-        "title_en": "Shokugeki no Souma: Ni no Sara OVA",
-        "other_titles": [
-          "Shokugeki no Souma: Ni no Sara - Jump Festa 2016 Special",
-          "Shokugeki no Soma: Ni no Sara OVA",
-          "Food Wars! The Second Plate OVA",
-          "Shokugeki no Souma 2nd Season OVA"
-        ],
-        "other_titles_jp": [
-          "食戟のソーマ 弍ノ皿"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "description": "Дополнительные эпизоды аниме «», входящие в комплект с 18-м, 19-м, 24-м и 25-м томами манги. В них рассказывается про встречу Сомы и его друзей с «Элитной десяткой» школы Тооцуки.",
-        "poster_url": "https://shikimori.one/system/animes/original/34480.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/277acc28c9123ac973956478b654b54fe2d85e57.jpg",
-          "https://shikimori.one/system/screenshots/original/fc43516e270cf2cedeb2bb284abca49d5b444d85.jpg"
-        ],
-        "anime_genres": [
-          "Сёнен",
-          "Школа",
-          "Этти"
-        ],
-        "anime_studios": [
-          "J.C.Staff"
-        ],
-        "shikimori_rating": 7.54,
-        "shikimori_votes": 6947,
-        "aired_at": "2017-05-01",
-        "released_at": "2017-07-04",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 2,
-        "episodes_aired": 0
-      }
-    },
-    {
-      "id": "movie-55056",
-      "type": "anime",
-      "link": "",
-      "title": "Точка Джи OVA-2",
-      "title_orig": "G-Taste (2010)",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2010,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7849",
-      "shikimori_id": "9600",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-10T10:11:34Z",
-      "updated_at": "2020-05-10T10:11:34Z",
-      "material_data": {
-        "title": "Точка Джи",
-        "title_en": "G-Taste (2010)",
-        "other_titles": [
-          "Джи-вкус",
-          "Вкус страсти"
-        ],
-        "other_titles_en": [
-          "G-Best"
-        ],
-        "other_titles_jp": [
-          "G-Best －G-tasteベストセレクション－"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "poster_url": "https://shikimori.one/system/animes/original/9600.jpg",
-        "anime_genres": [
-          "Сёдзё-ай",
-          "Этти"
-        ],
-        "anime_studios": [
-          "AIC PLUS+"
-        ],
-        "shikimori_rating": 5.31,
-        "shikimori_votes": 211,
-        "aired_at": "2010-11-22",
-        "rating_mpaa": "R+",
-        "episodes_total": 1,
-        "episodes_aired": 0
-      }
-    },
-    {
-      "id": "serial-25586",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Карнавальный фантазм",
-      "title_orig": "Carnival Phantasm",
-      "other_title": "カーニバル・ファンタズム",
-      "translation": {
-        "id": 654,
-        "title": "AniFilm",
-        "type": "voice"
-      },
-      "year": 2011,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 14,
-      "kinopoisk_id": "634789",
-      "imdb_id": "tt2076817",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8090",
-      "shikimori_id": "10012",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-10T07:25:51Z",
-      "updated_at": "2020-05-10T07:25:51Z",
-      "seasons": {
-        "0": {
-          "title": "Спешлы",
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/705088/3fe5bcbcba28566a9c3069aacc6a237c/720p",
-            "2": "//aniqit.com/seria/705089/112d0dd32d1647c3185efcb9c034c076/720p"
-          }
-        },
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/645340/3fe5bcbcba28566a9c3069aacc6a237c/720p",
-            "2": "//aniqit.com/seria/645341/112d0dd32d1647c3185efcb9c034c076/720p",
-            "3": "//aniqit.com/seria/645342/dce3dec7ce782e3ae1158d72e8335f8f/720p",
-            "4": "//aniqit.com/seria/645343/e571a46ba976c290dd4862788593274e/720p",
-            "5": "//aniqit.com/seria/645344/972cafe38a379dd0ee3a92decd1f2aab/720p",
-            "6": "//aniqit.com/seria/645345/d17ace607ab9e156c253345a4d7cbc9b/720p",
-            "7": "//aniqit.com/seria/645346/13e552f9d0a7f976b213f56f5add15c5/720p",
-            "8": "//aniqit.com/seria/645347/676e47a76d2fe9b222376d6033024a00/720p",
-            "9": "//aniqit.com/seria/645348/b7b66176ac36adb4b76d685748619a29/720p",
-            "10": "//aniqit.com/seria/645349/69f0851cc5cb76e9e87ab2822c5d26af/720p",
-            "11": "//aniqit.com/seria/645350/ee7fe90751e6f26a88ce1254df8ebc46/720p",
-            "12": "//aniqit.com/seria/645351/56766c24197ebddac1908ac27bf85815/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Карнавальный фантазм",
-        "title_en": "Carnival Phantasm",
-        "other_titles": [
-          "Carnival Phantasm"
-        ],
-        "other_titles_jp": [
-          "カーニバル・ファンタズム"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 2011,
-        "description": "Пародии на известные аниме - знакомые персонажи предстают в неожиданных смешных амплуа и иронизируют над ошибками оригиналов.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/634789.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/1a1fb37176c3e0d5556fe02db0803f96a4674fa4.jpg",
-          "https://shikimori.one/system/screenshots/original/8d0667d5e6ca8ea8ca1ef410427d615bfbf03151.jpg"
-        ],
-        "duration": 14,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Пародия",
-          "Сверхъестественное"
-        ],
-        "anime_studios": [
-          "Lerche"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 229,
-        "imdb_rating": 7.2,
-        "imdb_votes": 195,
-        "shikimori_rating": 7.89,
-        "shikimori_votes": 4765,
-        "premiere_world": "2011-08-12",
-        "aired_at": "2011-08-14",
-        "released_at": "2011-12-31",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 5,
-        "actors": [
-          "Маи Кадоваки",
-          "Мики Ито",
-          "Нобутоси Канна",
-          "Аяко Кавасуми",
-          "Нориаки Сугияма",
-          "Рёка Юдзуки",
-          "Кана Уэда",
-          "Кэндзи Нодзима",
-          "Норико Ситая",
-          "Ацуко Танака"
-        ],
-        "directors": [
-          "Сэидзи Киси"
-        ],
-        "writers": [
-          "Киноко Насу",
-          "Макото Уэдзу"
-        ],
-        "composers": [
-          "Ясухару Таканаси"
-        ]
-      }
-    },
-    {
-      "id": "movie-55050",
-      "type": "anime",
-      "link": "",
-      "title": "Девушки и танки: Финал. Часть 2",
-      "title_orig": "Girls und Panzer das Finale: Part II",
-      "other_title": "Девушки и танки: Финал 2 / Girls und Panzer: Saishuushou / Girls & Panzer: Saishuushou Part 2",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1113684",
-      "imdb_id": "tt7834494",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9017",
-      "shikimori_id": "38081",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-10T07:20:50Z",
-      "updated_at": "2020-05-10T07:20:50Z",
-      "material_data": {
-        "title": "Девушки и танки: Финал. Часть 2",
-        "title_en": "Girls und Panzer das Finale: Part II",
-        "other_titles": [
-          "Girls und Panzer das Finale"
-        ],
-        "other_titles_jp": [
-          "『ガールズ＆パンツァー 最終章』第2話"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2019,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1113684.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/73ed447d385a0355b78343c4e00d088e28552192.jpg",
-          "https://shikimori.one/system/screenshots/original/65a8c3878f62c41f134d1ff813c12e16c8fe732a.jpg"
-        ],
-        "duration": 54,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Военное",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Actas"
-        ],
-        "imdb_rating": 7.7,
-        "imdb_votes": 115,
-        "shikimori_rating": 8.04,
-        "shikimori_votes": 598,
-        "premiere_world": "2019-06-15",
-        "aired_at": "2019-06-15",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Маи Футигами",
-          "Аи Каяно",
-          "Мами Одзаки",
-          "Икуми Накагами",
-          "Юка Игути"
-        ],
-        "directors": [
-          "Цутому Мидзусима"
-        ],
-        "writers": [
-          "Рэйко Ёсида"
-        ],
-        "composers": [
-          "Сиро Хамагути"
-        ],
-        "operators": [
-          "Ёсихиро Сэкия"
         ]
       }
     }

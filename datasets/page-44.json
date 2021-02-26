@@ -1,6 +1,397 @@
 {
   "results": [
     {
+      "id": "movie-63050",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Весёлый художник",
+      "title_orig": "Весёлый художник",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1963,
+      "kinopoisk_id": "842062",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-11T12:19:21Z",
+      "updated_at": "2020-11-11T12:19:21Z",
+      "material_data": {
+        "title": "Весёлый художник",
+        "title_en": "",
+        "year": 1963,
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "minimal_age": 6,
+        "directors": [
+          "Нина Василенко"
+        ],
+        "writers": [
+          "Александр Кумма"
+        ],
+        "composers": [
+          "Юдифь Рожавская"
+        ],
+        "designers": [
+          "Яков Горбаченко",
+          "Радна Сахалтуев"
+        ]
+      }
+    },
+    {
+      "id": "movie-63051",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Весёлый цыплёнок",
+      "title_orig": "Vesyolyy tsyplyonok",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1973,
+      "kinopoisk_id": "490318",
+      "imdb_id": "tt2270680",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-11T12:17:55Z",
+      "updated_at": "2020-11-11T12:17:55Z",
+      "material_data": {
+        "title": "Весёлый цыплёнок",
+        "title_en": "",
+        "year": 1973,
+        "description": "О том, как маленький цыпленок веселой песенкой подчинил себе больших зверей - лису, волка и медведя.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/490318.jpg",
+        "duration": 8,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 6.4,
+        "kinopoisk_votes": 308,
+        "imdb_rating": 7,
+        "imdb_votes": 12,
+        "minimal_age": 0,
+        "actors": [
+          "Георгий Кислюк",
+          "Людмила Козуб",
+          "А. Осинская",
+          "Владимир Коршун"
+        ],
+        "directors": [
+          "Цезарь Оршанский"
+        ],
+        "writers": [
+          "М. Рыбалко"
+        ],
+        "composers": [
+          "Жанна Колодуб",
+          "Лев Колодуб"
+        ],
+        "designers": [
+          "Галина Бабенко"
+        ],
+        "operators": [
+          "Анатолий Гаврилов"
+        ]
+      }
+    },
+    {
+      "id": "movie-63052",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Весенняя сказка",
+      "title_orig": "Vesennyaya skazka",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1949,
+      "kinopoisk_id": "258009",
+      "imdb_id": "tt6371980",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-11T12:15:48Z",
+      "updated_at": "2020-11-11T12:15:48Z",
+      "material_data": {
+        "title": "Весенняя сказка",
+        "title_en": "",
+        "year": 1949,
+        "description": "О возвращении вожака гусей Гуменника и его стаи из африканских краёв на их родные места России, и необходимости стаи быть преданным своему вожаку.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/258009.jpg",
+        "duration": 18,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 6.6,
+        "kinopoisk_votes": 238,
+        "imdb_rating": 5.8,
+        "imdb_votes": 8,
+        "minimal_age": 0,
+        "actors": [
+          "Елена Тяпкина",
+          "Георгий Милляр",
+          "Татьяна Пельтцер",
+          "Борис Чирков",
+          "Глеб Романов"
+        ],
+        "directors": [
+          "Виктор Громов"
+        ],
+        "writers": [
+          "Дмитрий Тарасов"
+        ],
+        "composers": [
+          "Нина Макарова"
+        ],
+        "editors": [
+          "В. Егорова"
+        ],
+        "designers": [
+          "Владимир Дегтярев",
+          "Ирина Светлица",
+          "Дмитрий Анпилов",
+          "Галина Невзорова"
+        ],
+        "operators": [
+          "Михаил Друян"
+        ]
+      }
+    },
+    {
+      "id": "movie-32378",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Маленький лес",
+      "title_orig": "Liteul poreseuteu",
+      "other_title": "Little Forest",
+      "translation": {
+        "id": 646,
+        "title": "XDUB Dorama",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1008086",
+      "imdb_id": "tt6083230",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-12-12T09:29:32Z",
+      "updated_at": "2020-11-11T12:11:27Z",
+      "material_data": {
+        "title": "Маленький лес",
+        "title_en": "Liteul poreseuteu",
+        "year": 2018,
+        "tagline": "Taste our delicious 4 season",
+        "description": "Хе-вон провела детство в деревне и, закончив школу, уехала в Сеул, но так и не привыкла к жизни и еде большого города. Девушка возвращается в родную деревню, где у нее имеются дом и огород. Тишина, свежий воздух, грядки и старые друзья помогают Хе-вон залечить душевные раны, обрести спокойствие и наконец-то насладиться невероятно вкусными блюдами из самостоятельно выращенных овощей и фруктов.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1008086.jpg",
+        "duration": 103,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 514,
+        "imdb_rating": 7.1,
+        "imdb_votes": 1874,
+        "premiere_world": "2018-02-28",
+        "rating_mpaa": "PG-13",
+        "actors": [
+          "Ким Тхэ-ри",
+          "Рю Джун-ёль",
+          "Мун Со-ри",
+          "Чин Ги-джу",
+          "Чон Гук-хян",
+          "Пак Вон-сан",
+          "Чон Джун-вон",
+          "Чан Джэ-хи",
+          "Ок Су-бун"
+        ],
+        "directors": [
+          "Им Сун-не"
+        ],
+        "producers": [
+          "Дженна Ку",
+          "Щин Бом-су"
+        ],
+        "writers": [
+          "Хван Сон-гу",
+          "Дайсукэ Игараси"
+        ],
+        "composers": [
+          "Ли Джун-о"
+        ],
+        "editors": [
+          "Ким Сон-мин"
+        ],
+        "designers": [
+          "Юн На-ра",
+          "Чо Хи-ран"
+        ],
+        "operators": [
+          "Ли Сын-хун"
+        ]
+      }
+    },
+    {
+      "id": "movie-29479",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Маленький лес",
+      "title_orig": "Liteul poreseuteu",
+      "other_title": "Little Forest",
+      "translation": {
+        "id": 840,
+        "title": "Храм Дорам ТВ",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1008086",
+      "imdb_id": "tt6083230",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-12-12T09:29:32Z",
+      "updated_at": "2020-11-11T12:11:22Z",
+      "material_data": {
+        "title": "Маленький лес",
+        "title_en": "Liteul poreseuteu",
+        "year": 2018,
+        "tagline": "Taste our delicious 4 season",
+        "description": "Хе-вон провела детство в деревне и, закончив школу, уехала в Сеул, но так и не привыкла к жизни и еде большого города. Девушка возвращается в родную деревню, где у нее имеются дом и огород. Тишина, свежий воздух, грядки и старые друзья помогают Хе-вон залечить душевные раны, обрести спокойствие и наконец-то насладиться невероятно вкусными блюдами из самостоятельно выращенных овощей и фруктов.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1008086.jpg",
+        "duration": 103,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 514,
+        "imdb_rating": 7.1,
+        "imdb_votes": 1874,
+        "premiere_world": "2018-02-28",
+        "rating_mpaa": "PG-13",
+        "actors": [
+          "Ким Тхэ-ри",
+          "Рю Джун-ёль",
+          "Мун Со-ри",
+          "Чин Ги-джу",
+          "Чон Гук-хян",
+          "Пак Вон-сан",
+          "Чон Джун-вон",
+          "Чан Джэ-хи",
+          "Ок Су-бун"
+        ],
+        "directors": [
+          "Им Сун-не"
+        ],
+        "producers": [
+          "Дженна Ку",
+          "Щин Бом-су"
+        ],
+        "writers": [
+          "Хван Сон-гу",
+          "Дайсукэ Игараси"
+        ],
+        "composers": [
+          "Ли Джун-о"
+        ],
+        "editors": [
+          "Ким Сон-мин"
+        ],
+        "designers": [
+          "Юн На-ра",
+          "Чо Хи-ран"
+        ],
+        "operators": [
+          "Ли Сын-хун"
+        ]
+      }
+    },
+    {
+      "id": "movie-63053",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Странный зверь",
+      "title_orig": "Странный зверь",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1980,
+      "kinopoisk_id": "565637",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-11T12:06:13Z",
+      "updated_at": "2020-11-11T12:06:13Z",
+      "material_data": {
+        "title": "Странный зверь",
+        "title_en": "",
+        "year": 1980,
+        "description": "Новогодняя история для малышей по мотивам сказки С.Летовой.",
+        "duration": 15,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "детский",
+          "короткометражка",
+          "мультфильм"
+        ],
+        "actors": [
+          "Мария Виноградова",
+          "Тамара Дмитриева",
+          "Борис Рунге",
+          "Герман Качин",
+          "Николай Пеньков"
+        ],
+        "directors": [
+          "Александр Полушкин"
+        ],
+        "writers": [
+          "Ф. Лаубе"
+        ],
+        "composers": [
+          "Владислав Казенин"
+        ],
+        "editors": [
+          "В. Кузина"
+        ],
+        "designers": [
+          "Виктор Спичек"
+        ],
+        "operators": [
+          "Анатолий Лобанов"
+        ]
+      }
+    },
+    {
       "id": "movie-63085",
       "type": "foreign-movie",
       "link": "",
@@ -897,7 +1288,7 @@
         "anime_studios": [
           "TMS Entertainment"
         ],
-        "shikimori_rating": 5.32,
+        "shikimori_rating": 5.29,
         "shikimori_votes": 86,
         "aired_at": "2020-04-03",
         "rating_mpaa": "PG",
@@ -1456,8 +1847,8 @@
         ],
         "imdb_rating": 6.8,
         "imdb_votes": 16,
-        "shikimori_rating": 6.84,
-        "shikimori_votes": 140,
+        "shikimori_rating": 6.83,
+        "shikimori_votes": 147,
         "premiere_world": "2020-10-02",
         "aired_at": "2020-10-02",
         "episodes_total": 1,
@@ -4739,9 +5130,9 @@
           "Nut"
         ],
         "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 272,
-        "imdb_rating": 7,
-        "imdb_votes": 648,
+        "kinopoisk_votes": 279,
+        "imdb_rating": 7.1,
+        "imdb_votes": 684,
         "shikimori_rating": 7.48,
         "shikimori_votes": 4929,
         "premiere_world": "2020-07-08",
@@ -5051,7 +5442,7 @@
           "P.A. Works"
         ],
         "imdb_rating": 6.9,
-        "imdb_votes": 221,
+        "imdb_votes": 223,
         "shikimori_rating": 7.33,
         "shikimori_votes": 2064,
         "premiere_world": "2020-04-10",
@@ -6441,7 +6832,7 @@
           "P.A. Works"
         ],
         "imdb_rating": 6.9,
-        "imdb_votes": 221,
+        "imdb_votes": 223,
         "shikimori_rating": 7.33,
         "shikimori_votes": 2064,
         "premiere_world": "2020-04-10",
@@ -6774,8 +7165,8 @@
         "kinopoisk_votes": 309,
         "imdb_rating": 7,
         "imdb_votes": 490,
-        "shikimori_rating": 7.02,
-        "shikimori_votes": 5183,
+        "shikimori_rating": 7.01,
+        "shikimori_votes": 5218,
         "premiere_world": "2020-04-05",
         "aired_at": "2020-04-05",
         "released_at": "2020-06-21",
@@ -7368,7 +7759,7 @@
         ],
         "imdb_rating": 7.8,
         "imdb_votes": 25,
-        "shikimori_rating": 5.9,
+        "shikimori_rating": 5.89,
         "shikimori_votes": 46,
         "premiere_world": "2020-04-04",
         "aired_at": "2020-04-04",
@@ -7868,9 +8259,9 @@
           "Nut"
         ],
         "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 272,
-        "imdb_rating": 7,
-        "imdb_votes": 648,
+        "kinopoisk_votes": 279,
+        "imdb_rating": 7.1,
+        "imdb_votes": 684,
         "shikimori_rating": 7.48,
         "shikimori_votes": 4929,
         "premiere_world": "2020-07-08",
@@ -8226,7 +8617,7 @@
           "Gosay Studio"
         ],
         "shikimori_rating": 7.02,
-        "shikimori_votes": 315,
+        "shikimori_votes": 318,
         "aired_at": "2020-04-20",
         "released_at": "2020-11-03",
         "rating_mpaa": "PG-13",
@@ -8714,523 +9105,6 @@
         "directors": [
           "Томохиса Тагути"
         ]
-      }
-    },
-    {
-      "id": "serial-29835",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Отикоборэ: Фруктовый пирог",
-      "title_orig": "Ochikobore Fruit Tart",
-      "other_title": "Dropout Idol Fruit Tart",
-      "translation": {
-        "id": 910,
-        "title": "AniStar",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 4,
-      "episodes_count": 4,
-      "kinopoisk_id": "1399026",
-      "imdb_id": "tt12044608",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10067",
-      "shikimori_id": "39609",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-10-20T07:16:22Z",
-      "updated_at": "2020-11-07T13:34:41Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/726461/e5f8cdd38dd12992cc39047387563624/720p",
-            "2": "//aniqit.com/seria/726462/eef8721c52b9524aecbbcbc2540c7663/720p",
-            "3": "//aniqit.com/seria/731157/018e98d3a84a29053d585521b85602b7/720p",
-            "4": "//aniqit.com/seria/731158/f7d64e78f23726cbe01a61b05916fe3a/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Отикоборэ: Фруктовый пирог",
-        "title_en": "Ochikobore Fruit Tart",
-        "other_titles": [
-          "Неудачливый идол: Пирог с фруктами",
-          "OchiFuru"
-        ],
-        "other_titles_en": [
-          "Dropout Idol Fruit Tart"
-        ],
-        "other_titles_jp": [
-          "おちこぼれフルーツタルト"
-        ],
-        "anime_license_name": "Группа айдолов-неудачниц «Фруктовый пирог»",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2020,
-        "description": "Четвёртое общежитие, более известное как Нэдзуми-соу — место, в котором проживают бывшие идолы. На данный момент оно является домом для четырёх девушек: певицы Хаю Нукуи, модели Нины Маэхары, актрисы Роко Сэкино и будущего идола Ино Сакуры. Однако вскоре общежитие планируют снести, и наши героини, дабы заработать денег и тем самым спасти свой дом, создают новую группу идолов под названием «Фруктовый пирог».",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1399026.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/a4a53a3987b5785a9e443dc02c7a82ab3ec10f77.jpg",
-          "https://shikimori.one/system/screenshots/original/da225873071509e1b7760eb53f70bc4480ad49c8.jpg"
-        ],
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Музыка",
-          "Повседневность"
-        ],
-        "anime_studios": [
-          "feel."
-        ],
-        "imdb_rating": 6.5,
-        "imdb_votes": 20,
-        "shikimori_rating": 6.77,
-        "shikimori_votes": 134,
-        "premiere_world": "2020-10-12",
-        "aired_at": "2020-10-12",
-        "released_at": "2020-12-28",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Рэина Кондо",
-          "Риса Кубота",
-          "Кёка Мория",
-          "Хиёри Нитта",
-          "Харука Сираиси"
-        ],
-        "directors": [
-          "Кэйитиро Кавагути"
-        ]
-      }
-    },
-    {
-      "id": "serial-29829",
-      "type": "anime-serial",
-      "link": "",
-      "title": "A3! Осень и зима",
-      "title_orig": "A3! Season Autumn & Winter",
-      "translation": {
-        "id": 910,
-        "title": "AniStar",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 2,
-      "last_episode": 4,
-      "episodes_count": 4,
-      "kinopoisk_id": "1315756",
-      "imdb_id": "tt11094154",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10193",
-      "shikimori_id": "40272",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-10-20T06:56:27Z",
-      "updated_at": "2020-11-07T13:34:09Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/726380/d817ae6c7215f23296726eee092a7df6/720p",
-            "2": "//aniqit.com/seria/726381/e18a0df5b9b8bca3a77be52780ea5f5f/720p",
-            "3": "//aniqit.com/seria/728256/feb8531b352358f9bbd335e4d0caad64/720p",
-            "4": "//aniqit.com/seria/731156/d9619dc327c6a02a5f8ade77e44897bc/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "A3! Весна и лето",
-        "title_en": "A3! Season Spring & Summer",
-        "other_titles": [
-          "Act! Addict! Actors! Season Autumn & Winter"
-        ],
-        "other_titles_en": [
-          "A3! Season Autumn & Winter"
-        ],
-        "other_titles_jp": [
-          "A3! SEASON AUTUMN & WINTER"
-        ],
-        "anime_license_name": "A3!",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2020,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1315756.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/e6d24f18353546f7cd003b522a3003457ab08ebb.jpg",
-          "https://shikimori.one/system/screenshots/original/4c30aefb310859cd90bd3acc74e19b21148fa758.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "музыка",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Повседневность"
-        ],
-        "anime_studios": [
-          "P.A. Works",
-          "Studio 3Hz"
-        ],
-        "imdb_rating": 6.4,
-        "imdb_votes": 33,
-        "shikimori_rating": 7.26,
-        "shikimori_votes": 105,
-        "premiere_world": "2020-01-13",
-        "aired_at": "2020-10-13",
-        "released_at": "2020-12-29",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Синтаро Асанума",
-          "Такуя Эгути",
-          "Даисукэ Хиросэ",
-          "Масаси Игараси",
-          "Каори Надзука",
-          "Котаро Нисияма",
-          "Рэн Одзава",
-          "Кодаи Сакаи",
-          "Юсукэ Сираи",
-          "Сюнъити Токи"
-        ],
-        "directors": [
-          "Кэисукэ Синохара"
-        ],
-        "writers": [
-          "Наоки Хаяси"
-        ],
-        "composers": [
-          "Кана Хасигути",
-          "Масару Ёкояма"
-        ],
-        "editors": [
-          "Хидэмицу Дои"
-        ],
-        "designers": [
-          "Хироко Танабэ"
-        ],
-        "operators": [
-          "Маё Судзуки"
-        ]
-      }
-    },
-    {
-      "id": "movie-62924",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Повестка",
-      "title_orig": "Citation",
-      "translation": {
-        "id": 652,
-        "title": "@MUZOBOZ@",
-        "type": "voice"
-      },
-      "year": 2020,
-      "kinopoisk_id": "1340230",
-      "imdb_id": "tt11481312",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-07T12:53:55Z",
-      "updated_at": "2020-11-07T12:53:55Z",
-      "material_data": {
-        "title": "Повестка",
-        "title_en": "Citation",
-        "year": 2020,
-        "description": "Студентка из Нигерии бросает вызов академическим кругам, обвиняя профессора в попытке изнасиловать ее.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1340230.jpg",
-        "duration": 151,
-        "countries": [
-          "Нигерия"
-        ],
-        "genres": [
-          "драма",
-          "триллер"
-        ],
-        "imdb_rating": 6,
-        "imdb_votes": 764,
-        "premiere_world": "2020-11-06",
-        "actors": [
-          "Джимми Жан-Луи",
-          "Temi Otedola",
-          "Adjetey Anang",
-          "Йок Силва",
-          "Ини Эдо",
-          "Gabriel Afolayan",
-          "Sadiq Daba",
-          "Bukunmi Oluwashina",
-          "Yomi Fash-Lanso",
-          "Samantha Okanlawon"
-        ],
-        "directors": [
-          "Kunle Afolayan"
-        ],
-        "producers": [
-          "Steve Ayorinde",
-          "Yinka Oyedeji",
-          "Seun Soyinka"
-        ],
-        "writers": [
-          "Тунде Бабалола"
-        ],
-        "editors": [
-          "Laja Adebayo"
-        ],
-        "operators": [
-          "Джонатан Ковель"
-        ]
-      }
-    },
-    {
-      "id": "serial-29318",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Я Ти, и я тоже",
-      "title_orig": "I'm Tee, Me Too",
-      "translation": {
-        "id": 941,
-        "title": "Pus'ki production",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 8,
-      "episodes_count": 8,
-      "kinopoisk_id": "1413006",
-      "imdb_id": "tt13120790",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-09-20T09:32:00Z",
-      "updated_at": "2020-11-07T12:51:42Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/720333/ca94a9960543fbf38af146bde69a1a64/720p",
-            "2": "//kodik.cc/seria/721458/8b0b90435c2f17e89f0df5a191064edc/720p",
-            "3": "//kodik.cc/seria/722519/c310b17dbd5409bc9741b688dc4f98ef/720p",
-            "4": "//kodik.cc/seria/723865/876c2e977c2f6f39e2fc6fa48fac71a7/720p",
-            "5": "//kodik.cc/seria/725787/2d25e6a141f96db891117f76f0691ef9/720p",
-            "6": "//kodik.cc/seria/728341/74ad0a0983fc6977a078603eb033e71a/720p",
-            "7": "//kodik.cc/seria/729573/162e85134ed08411bb4ea173854b2bb7/720p",
-            "8": "//kodik.cc/seria/731145/dcda71ace48bfcc26d30a2464e398a1c/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "I'm Tee, Me Too",
-        "title_en": "",
-        "year": 2020,
-        "countries": [
-          "Таиланд"
-        ],
-        "genres": [
-          "драма",
-          "комедия"
-        ],
-        "imdb_rating": 7.7,
-        "imdb_votes": 35,
-        "premiere_world": "2020-09-18",
-        "actors": [
-          "Аттафан Пунсават",
-          "Сангпотират Пэрават",
-          "Джумпол Адулкиттипорн",
-          "Прачая Руангрот",
-          "Тхитипум Течаапаикхун",
-          "Таван Вихократана",
-          "Rachanun Mahawan",
-          "Intarasut Lapisara",
-          "Чания Макклори"
-        ],
-        "directors": [
-          "Наттапонг Монгколсават"
-        ]
-      }
-    },
-    {
-      "id": "serial-28926",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Перекрёстный огонь",
-      "title_orig": "Chuan yue huo xian",
-      "other_title": "Cross Fire / Crossfire",
-      "translation": {
-        "id": 1478,
-        "title": "ФСГ Азалии.Subtitles\t",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 9,
-      "episodes_count": 9,
-      "kinopoisk_id": "1392934",
-      "imdb_id": "tt12724286",
-      "mdl_id": "33767-crossfire",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-23T08:17:49Z",
-      "updated_at": "2020-11-07T12:51:20Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/709606/a2ecfc8b4e1e1614945a7c692e523f4a/720p",
-            "2": "//kodik.cc/seria/709607/3466e5b65ff52329463901a09eb4c632/720p",
-            "3": "//kodik.cc/seria/711453/fbedb70e84d0be65e4eb903ea2e79470/720p",
-            "4": "//kodik.cc/seria/711454/ccf67a9ef0cce3ef0744eef8c8bf5731/720p",
-            "5": "//kodik.cc/seria/713457/fa41eabeedec6dc2c2cddcb514c8d0fb/720p",
-            "6": "//kodik.cc/seria/716893/d05a5af64591bce6fde267780845092f/720p",
-            "7": "//kodik.cc/seria/719144/82e9563c2557d0c5c05a860914685551/720p",
-            "8": "//kodik.cc/seria/731142/64de1135088e2ba46352525ca7c300e3/720p",
-            "9": "//kodik.cc/seria/731143/2fe92de160112692df584fd2b5df4e86/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Перекрёстный огонь",
-        "title_en": "Chuan yue huo xian",
-        "year": 2020,
-        "description": "История о двух парнях, которые обожают киберспорт и мечтают стать профессиональными игроками.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1392934.jpg",
-        "duration": 45,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "фантастика"
-        ],
-        "imdb_rating": 8.9,
-        "imdb_votes": 49,
-        "premiere_world": "2020-07-20",
-        "actors": [
-          "Лухан",
-          "У Лэй",
-          "Дай Лува",
-          "Сун Яньфэй",
-          "Алина Чжан",
-          "Шао Бин",
-          "Ван Цян",
-          "Лю Шуалян",
-          "Хуан Дэи",
-          "Ян Кайчэн"
-        ],
-        "directors": [
-          "Дерек Хуэй"
-        ],
-        "producers": [
-          "Bo Hu",
-          "Hao Jiang",
-          "Ли Эръюнь",
-          "Huang Xing",
-          "Su Xu",
-          "Алина Чжан"
-        ],
-        "writers": [
-          "Эдвард Чэн",
-          "Li Fu",
-          "Чао Люй",
-          "Сунь Чжунхуай",
-          "Xiaohan Wang",
-          "Su Xu"
-        ]
-      }
-    },
-    {
-      "id": "serial-30032",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Великий блюз!",
-      "title_orig": "Guraburu!",
-      "other_title": "Обойди! / Гранд блюз / Grand Blues!",
-      "translation": {
-        "id": 910,
-        "title": "AniStar",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 5,
-      "episodes_count": 5,
-      "imdb_id": "tt12855254",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10453",
-      "shikimori_id": "41574",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-11-07T11:45:55Z",
-      "updated_at": "2020-11-07T11:45:55Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/731127/74f9fa6ef772a5c4176e1ef4f9fbf149/720p",
-            "2": "//aniqit.com/seria/731128/af1cbd4417f078ed60061083aa2a315e/720p",
-            "3": "//aniqit.com/seria/731129/80077a686a8d8ce1e236f6c98278c823/720p",
-            "4": "//aniqit.com/seria/731130/257f5acdafc9829ce40629e637cc551e/720p",
-            "5": "//aniqit.com/seria/731131/413470098c94befc568d24dc03a4a424/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Великий блюз!",
-        "title_en": "Guraburu!",
-        "other_titles": [
-          "Гранблю!",
-          "Гранд блюз",
-          "Grablu!"
-        ],
-        "other_titles_en": [
-          "Grand Blues!"
-        ],
-        "other_titles_jp": [
-          "ぐらぶるっ！"
-        ],
-        "anime_license_name": "Великий блюз!",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "poster_url": "https://shikimori.one/system/animes/original/41574.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/cb8cff975a3fb10b359eda6c0279f0861bcb5348.jpg",
-          "https://shikimori.one/system/screenshots/original/111b8a8243b1bee6b59f19bb634ca9446d1e6ed5.jpg"
-        ],
-        "anime_genres": [
-          "Приключения",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "W-Toon Studio",
-          "DMM.futureworks"
-        ],
-        "shikimori_rating": 5.66,
-        "shikimori_votes": 104,
-        "aired_at": "2020-10-08",
-        "released_at": "2020-12-24",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12
       }
     }
   ]

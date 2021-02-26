@@ -1,6 +1,394 @@
 {
   "results": [
     {
+      "id": "movie-54348",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Пинг-понг",
+      "title_orig": "Pinpon",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2002,
+      "kinopoisk_id": "51507",
+      "imdb_id": "tt0328258",
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-04-27T13:00:18Z",
+      "updated_at": "2020-04-27T13:00:18Z",
+      "material_data": {
+        "title": "Пинг-понг",
+        "title_en": "Pinpon",
+        "year": 2002,
+        "description": "Два лучших друга, Пеко и Смайл с раннего детства играли в пинг-понг. В то время как Пеко играет, чтобы выиграть и полностью отдается этому спорту, Смайл играет ради того, чтобы быть рядом с другом и убить время. И это не смотря на то, что его потенциал позволяет ему быть лучшим.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/51507.jpg",
+        "duration": 114,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма",
+          "комедия",
+          "спорт"
+        ],
+        "kinopoisk_rating": 6.8,
+        "kinopoisk_votes": 107,
+        "imdb_rating": 7.1,
+        "imdb_votes": 3123,
+        "premiere_world": "2002-07-20",
+        "actors": [
+          "Ёсукэ Кубодзука",
+          "Арата Иура",
+          "Сэм Ли",
+          "Сидо Накамура",
+          "Кодзи Окура",
+          "Наото Такэнака",
+          "Мари Нацуки",
+          "Ёсиёси Аракава",
+          "Такахиро Хирано",
+          "Мако Исино"
+        ],
+        "directors": [
+          "Фумихико Сори"
+        ],
+        "producers": [
+          "Синдзи Огава",
+          "Санаэ Судзуки",
+          "Toru Ishitoya",
+          "Тамоцу Сиина",
+          "Мицуру Уда"
+        ],
+        "writers": [
+          "Таиё Мацумото",
+          "Канкуро Кудо"
+        ],
+        "editors": [
+          "Соити Уэно"
+        ],
+        "designers": [
+          "Коити Канэкацу"
+        ],
+        "operators": [
+          "Акира Сако"
+        ]
+      }
+    },
+    {
+      "id": "movie-54339",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Бюро находок (Фильм 4)",
+      "title_orig": "Бюро находок (Фильм 4)",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1984,
+      "kinopoisk_id": "460550",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-04-27T12:30:22Z",
+      "updated_at": "2020-04-27T12:30:22Z",
+      "material_data": {
+        "title": "Бюро находок (Фильм 4)",
+        "title_en": "",
+        "year": 1984,
+        "description": "Сорока, укравшая у пса Тишки медаль, организовала школу «сорочьих наук», в которой решила обучать первоклассников «искусству» обмана. Но Тишка и его друг попугай разыскали и наказали сороку.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/460550.jpg",
+        "duration": 8,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7.6,
+        "kinopoisk_votes": 1522,
+        "minimal_age": 0,
+        "actors": [
+          "Георгий Вицин",
+          "Зинаида Нарышкина",
+          "Светлана Травкина",
+          "Игорь Ясулович"
+        ],
+        "directors": [
+          "Борис Акулиничев"
+        ],
+        "writers": [
+          "Сергей Иванов"
+        ],
+        "composers": [
+          "Евгений Крылатов"
+        ],
+        "editors": [
+          "Галина Дробинина"
+        ],
+        "designers": [
+          "Наталья Кудрявцева"
+        ],
+        "operators": [
+          "Игорь Шкамарда"
+        ]
+      }
+    },
+    {
+      "id": "movie-54340",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Бюро находок (Фильм 3)",
+      "title_orig": "Бюро находок (Фильм 3)",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1983,
+      "kinopoisk_id": "257394",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-04-27T12:29:51Z",
+      "updated_at": "2020-04-27T12:29:51Z",
+      "material_data": {
+        "title": "Бюро находок (Фильм 3)",
+        "title_en": "",
+        "year": 1983,
+        "description": "О приключениях бездомного пса Тишки, который попав в Бюро находок, становится опытным «детективом». О том, как сотрудники Бюро находок нашли пропавшие из Бюро вещи и обнаружили виновницу этих пропаж — сороку-воровку.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/257394.jpg",
+        "duration": 9,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7.7,
+        "kinopoisk_votes": 1905,
+        "actors": [
+          "Георгий Вицин",
+          "Григорий Толчинский",
+          "Петр Вишняков",
+          "Зинаида Нарышкина",
+          "Николай Караченцов"
+        ],
+        "directors": [
+          "Олег Чуркин"
+        ],
+        "writers": [
+          "Сергей Иванов"
+        ],
+        "composers": [
+          "Евгений Крылатов"
+        ],
+        "editors": [
+          "С. Симухина"
+        ],
+        "designers": [
+          "Борис Акулиничев"
+        ],
+        "operators": [
+          "Владимир Милованов"
+        ]
+      }
+    },
+    {
+      "id": "movie-54341",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Бюро находок (Фильм 2)",
+      "title_orig": "Бюро находок (Фильм 2)",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1982,
+      "kinopoisk_id": "257393",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-04-27T12:29:34Z",
+      "updated_at": "2020-04-27T12:29:34Z",
+      "material_data": {
+        "title": "Бюро находок (Фильм 2)",
+        "title_en": "",
+        "year": 1982,
+        "description": "В Бюро находок попадает корзина с яйцами. Пес отправляется на поиски мамы-птицы, которая оказывается… крокодилом.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/257393.jpg",
+        "duration": 8,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7.7,
+        "kinopoisk_votes": 1963,
+        "minimal_age": 0,
+        "actors": [
+          "Петр Вишняков",
+          "Георгий Вицин",
+          "Александр Белявский",
+          "Вячеслав Невинный",
+          "Ольга Розовская"
+        ],
+        "directors": [
+          "Олег Чуркин"
+        ],
+        "writers": [
+          "Сергей Иванов"
+        ],
+        "composers": [
+          "Евгений Крылатов"
+        ],
+        "editors": [
+          "С. Симухина"
+        ],
+        "designers": [
+          "Борис Акулиничев"
+        ],
+        "operators": [
+          "Игорь Шкамарда"
+        ]
+      }
+    },
+    {
+      "id": "movie-54342",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Бюро находок (Фильм 1)",
+      "title_orig": "Бюро находок (Фильм 1)",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1982,
+      "kinopoisk_id": "257392",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-04-27T12:29:03Z",
+      "updated_at": "2020-04-27T12:29:03Z",
+      "material_data": {
+        "title": "Бюро находок (Фильм 1)",
+        "title_en": "",
+        "year": 1982,
+        "description": "О приключениях бездомного пса Тишки, который в Бюро находок стал опытным детективом.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/257392.jpg",
+        "duration": 9,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7.6,
+        "kinopoisk_votes": 2628,
+        "minimal_age": 0,
+        "actors": [
+          "Петр Вишняков",
+          "Георгий Вицин",
+          "Н. Бочкарев",
+          "Клара Румянова",
+          "Василий Бочкарев"
+        ],
+        "directors": [
+          "Олег Чуркин"
+        ],
+        "writers": [
+          "Клавдия Ганелина"
+        ],
+        "composers": [
+          "Евгений Крылатов"
+        ],
+        "editors": [
+          "С. Симухина"
+        ],
+        "designers": [
+          "Борис Акулиничев"
+        ],
+        "operators": [
+          "Владимир Милованов"
+        ]
+      }
+    },
+    {
+      "id": "movie-54343",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Подстава",
+      "title_orig": "The Set Up",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1277678",
+      "imdb_id": "tt10397734",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-04-27T12:28:22Z",
+      "updated_at": "2020-04-27T12:28:22Z",
+      "material_data": {
+        "title": "The Set Up",
+        "title_en": "",
+        "year": 2019,
+        "duration": 103,
+        "countries": [
+          "Нигерия"
+        ],
+        "genres": [
+          "драма",
+          "криминал"
+        ],
+        "imdb_rating": 4.9,
+        "imdb_votes": 98,
+        "premiere_world": "2019-08-09",
+        "actors": [
+          "Dakore Akande",
+          "Ayoola Ayolola",
+          "Кехинде Банкоул",
+          "Adesua Etomi-Wellington",
+          "Jim Iyke",
+          "Tina Mba",
+          "Joke Silva"
+        ],
+        "directors": [
+          "Niyi Akinmolayan"
+        ],
+        "producers": [
+          "Isioma Osaje",
+          "Moses Babatope",
+          "Editi Effiong",
+          "Uyai Umoren Effiong",
+          "Kene Okwuosa",
+          "Зулу Онуеквуси",
+          "Chinaza Onuzo"
+        ],
+        "writers": [
+          "Chinaza Onuzo"
+        ],
+        "composers": [
+          "Gray Jones Ossai"
+        ],
+        "operators": [
+          "Muhammad Atta"
+        ]
+      }
+    },
+    {
       "id": "movie-54346",
       "type": "foreign-movie",
       "link": "",
@@ -7896,7 +8284,7 @@
           "P.A. Works"
         ],
         "imdb_rating": 6.9,
-        "imdb_votes": 221,
+        "imdb_votes": 223,
         "shikimori_rating": 7.33,
         "shikimori_votes": 2064,
         "premiere_world": "2020-04-10",
@@ -8654,528 +9042,6 @@
           "Илья Кувшинов",
           "Дайсукэ Мацуда"
         ]
-      }
-    },
-    {
-      "id": "serial-25087",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Любовь 101",
-      "title_orig": "Ask 101",
-      "translation": {
-        "id": 920,
-        "title": "Octopus",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 8,
-      "episodes_count": 8,
-      "kinopoisk_id": "1281911",
-      "imdb_id": "tt10516352",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-24T17:42:09Z",
-      "updated_at": "2020-04-25T16:21:54Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/635660/0c6053bbfbe6b7ceb9c5918e1cb66a25/720p",
-            "2": "//kodik.cc/seria/636448/7aad75dd1b304f17d06c6eefcaf0c83c/720p",
-            "3": "//kodik.cc/seria/636449/c29c415a2526e42ecfbf00a3efc773fa/720p",
-            "4": "//kodik.cc/seria/636450/1b126cb951c39e9905b36571fe63fdb0/720p",
-            "5": "//kodik.cc/seria/636451/652836e0cf358325a3b09609ec55f40e/720p",
-            "6": "//kodik.cc/seria/636452/0edf8e8c3d59279d0d789557b5727ad1/720p",
-            "7": "//kodik.cc/seria/636453/fb149618ec7dd6451aa372f6b7a1c39c/720p",
-            "8": "//kodik.cc/seria/636454/ddef5bf63bdd8f15110594a48856669e/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Любовь 101",
-        "title_en": "Ask 101",
-        "year": 2020,
-        "description": "Несколько школьников объединяются, чтобы найти мужчину для любимой учительницы, чтобы она не уехала из их города.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1281911.jpg",
-        "duration": 40,
-        "countries": [
-          "Турция"
-        ],
-        "genres": [
-          "драма",
-          "комедия",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 1271,
-        "imdb_rating": 7.5,
-        "imdb_votes": 8598,
-        "premiere_world": "2020-04-24",
-        "actors": [
-          "Кубилай Ака",
-          "Мерт Языджыоглу",
-          "Алина Боз",
-          "Селахаттин Пасали",
-          "Пынар Дениз",
-          "Ипек Филиз Язиджи",
-          "Каан Урганджиоглу",
-          "Бадэ Ишчил",
-          "Мюфит Каяджан",
-          "Merve Akkaya"
-        ],
-        "directors": [
-          "Ахмет Катыксыз",
-          "Дениз Иорулмазер",
-          "Умут Арал",
-          "Гонендж Уяник"
-        ],
-        "producers": [
-          "Керем Чатай",
-          "Асли Эрдем",
-          "Alara Hamamcioglu"
-        ],
-        "writers": [
-          "Мерич Аджеми"
-        ],
-        "composers": [
-          "Мариос Такушис"
-        ],
-        "editors": [
-          "Ахмет Джан Чакырджа",
-          "Догус Онур Карасу",
-          "Айлин Тинель"
-        ],
-        "designers": [
-          "Зейнеп Кологлу",
-          "Nurol Akbal"
-        ],
-        "operators": [
-          "Ведат Оздемир"
-        ]
-      }
-    },
-    {
-      "id": "serial-25126",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Лайк",
-      "title_orig": "Like",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 24,
-      "episodes_count": 24,
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-25T11:45:11Z",
-      "updated_at": "2020-04-25T15:02:18Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/636216/a0c0ca862742dfd75b8fd098b5d730d3/720p",
-            "2": "//kodik.cc/seria/636417/680b4965281799397264640bda8d66a7/720p",
-            "3": "//kodik.cc/seria/636418/c6ce4006e17da85f54bf357529651fd6/720p",
-            "4": "//kodik.cc/seria/636419/50ec953359e8023bc8a40c3dc6ac88f8/720p",
-            "5": "//kodik.cc/seria/636420/e0b2985ed08e1411871b0f5ed8a3b113/720p",
-            "6": "//kodik.cc/seria/636421/878f5acc2e4c0dce7ad04c7a4a3aa21d/720p",
-            "7": "//kodik.cc/seria/636422/70bf903546a29bebed67d50bfcd354f2/720p",
-            "8": "//kodik.cc/seria/636423/7606445c9927bd8de8f1f8007e4d3108/720p",
-            "9": "//kodik.cc/seria/636424/feeae3dbad03ff3aa3edefb5c000a88c/720p",
-            "10": "//kodik.cc/seria/636425/62e6838737c03e99a090c8d61b808d3a/720p",
-            "11": "//kodik.cc/seria/636426/24ee7e746b2226eb23f2595a9ae00289/720p",
-            "12": "//kodik.cc/seria/636427/8581984abd6a189ba96446ee0a646cee/720p",
-            "13": "//kodik.cc/seria/636428/8599818c1b721d83c63d22c8d4df1d59/720p",
-            "14": "//kodik.cc/seria/636429/ef93b893291a6964b4ca7dbffd742054/720p",
-            "15": "//kodik.cc/seria/636430/c48e6db2115a441ad33ac8516931ec6e/720p",
-            "16": "//kodik.cc/seria/636431/6bd42bac8e7352a184c51b33bbc75035/720p",
-            "17": "//kodik.cc/seria/636432/59e5f087c702de2234b4dc87058bdf64/720p",
-            "18": "//kodik.cc/seria/636433/d00248d1670d7571241068978c9160e8/720p",
-            "19": "//kodik.cc/seria/636437/0e421bb06ca13ff31d7df29ec86bba2d/720p",
-            "20": "//kodik.cc/seria/636438/50ddee36aaeefc602fcbbeacbce3c4c1/720p",
-            "21": "//kodik.cc/seria/636439/4cc29a700ebe37ca3da3ffcfaee12eba/720p",
-            "22": "//kodik.cc/seria/636440/9ac510067a04e95e416c56e87fa2ab20/720p",
-            "23": "//kodik.cc/seria/636441/150d4ce46c087fb0c498520caa4c32d0/720p",
-            "24": "//kodik.cc/seria/636442/03a2d7724a88191874383bcb698eb79a/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-25134",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Сирена",
-      "title_orig": "Siren",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 1,
-      "last_episode": 9,
-      "episodes_count": 9,
-      "kinopoisk_id": "932504",
-      "imdb_id": "tt4923036",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-25T14:01:40Z",
-      "updated_at": "2020-04-25T15:00:37Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/636367/fb6fa4b16245b52d13a6e4a85d690c17/720p",
-            "2": "//kodik.cc/seria/636368/71f2dafc0f1d5ee5a78054c77d8aa903/720p",
-            "3": "//kodik.cc/seria/636369/32fb0950f61e7e98bf46e6d0a249a761/720p",
-            "4": "//kodik.cc/seria/636370/bf60d6a32af333b2a7c8f5c490ba7881/720p",
-            "5": "//kodik.cc/seria/636371/4232896c9748c8a3c40ffafb01db2a99/720p",
-            "6": "//kodik.cc/seria/636372/7ba23d275402c5b54553210aca9d24a9/720p",
-            "7": "//kodik.cc/seria/636390/9ad88da69a74885de61d5d39cd903a50/720p",
-            "8": "//kodik.cc/seria/636391/dc0407bf753e0f254678cc1bc1ffa109/720p",
-            "9": "//kodik.cc/seria/636436/6eec2d8d63d8901d428710866bc60d82/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Сирена",
-        "title_en": "Siren",
-        "year": 2015,
-        "description": "Токио оглушено рядом жестоких убийств. Главные герои этого сериала взялись за расследование этих ужасных преступлений. Инокума Юки и Сатоми Синобу готовы вывести злоумышленников на чистую воду. У них уже есть большой опыт в раскрытии подобных дел. Однако число преступлений с каждым днем становится все больше и больше. К тому же Сатоми подозревает, что серийный убийца может действовать куда хитрее, чем можно было бы себе представить. Им может оказаться любой человек, даже тот добродушный юноша, с которым главная героиня недавно общалась. К тому же за парочкой следователей постоянно следит какая-то загадочная незнакомка!",
-        "duration": 54,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "детектив"
-        ],
-        "imdb_rating": 7.1,
-        "imdb_votes": 53,
-        "premiere_world": "2015-10-20",
-        "actors": [
-          "Тори Мацудзака",
-          "Фумино Кимура",
-          "Нанао",
-          "Хиромицу Китаяма",
-          "Sora Nishio",
-          "Саэ Окадзаки",
-          "Дзюн Канамэ",
-          "Саяка Ямагути",
-          "Кэн Мицуиси",
-          "Рен Осуги"
-        ],
-        "directors": [
-          "Кэйта Мотохаси",
-          "Кэиитиро Сираки",
-          "Кодай Хама"
-        ],
-        "producers": [
-          "Такааки Хирабэ",
-          "Yûya Inaba",
-          "Хидэюки Каваниси",
-          "Ёсисигэ Миякэ",
-          "Мамико Окумура",
-          "Такаси Ёнэда"
-        ],
-        "writers": [
-          "Симако Сато",
-          "Sayaka Yamazaki"
-        ],
-        "composers": [
-          "Норихито Сумитомо"
-        ],
-        "editors": [
-          "Kazuma Yano"
-        ]
-      }
-    },
-    {
-      "id": "serial-25133",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Хирурги",
-      "title_orig": "The Surgeons",
-      "other_title": "Wai Ke Feng Yun",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 44,
-      "episodes_count": 44,
-      "imdb_id": "tt6810962",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-25T13:08:19Z",
-      "updated_at": "2020-04-25T14:56:51Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/636314/6065fef84a1f00a71fab8e6f7465e89c/720p",
-            "2": "//kodik.cc/seria/636315/0bf1d9e3a5622ea4d9c419d169eb1a39/720p",
-            "3": "//kodik.cc/seria/636316/8cd88eb77d2846d287b3e264190d04ee/720p",
-            "4": "//kodik.cc/seria/636317/faa6fd87dcb5326904a359b92362cae2/720p",
-            "5": "//kodik.cc/seria/636318/4d3e885d136b3db9a2e33952340da7d4/720p",
-            "6": "//kodik.cc/seria/636319/3ba20ce1e1a089ae7fc05b5963a1cfc8/720p",
-            "7": "//kodik.cc/seria/636320/c5930d5e937ecf0468195907f01f38f1/720p",
-            "8": "//kodik.cc/seria/636321/89926a7f999d20ab113b3df6945eab59/720p",
-            "9": "//kodik.cc/seria/636354/5875bec1f4d1fb3d259cd38490b08e6a/720p",
-            "10": "//kodik.cc/seria/636355/efe2910135a8fb00fdc25da9f57cc060/720p",
-            "11": "//kodik.cc/seria/636356/193c345eff4da50e2a02241a4bb50ade/720p",
-            "12": "//kodik.cc/seria/636357/0df20b76f3af41ba9b8ef1ba3db03bd3/720p",
-            "13": "//kodik.cc/seria/636358/5684a9febfc8341554ef0951e79ee48b/720p",
-            "14": "//kodik.cc/seria/636359/ac6a923142763f755ee4013f62973cd2/720p",
-            "15": "//kodik.cc/seria/636360/6e9c4c4b599f9e6b862c45ba6b827f8c/720p",
-            "16": "//kodik.cc/seria/636363/42455340d3c20e1d3e94ecf949554cd8/720p",
-            "17": "//kodik.cc/seria/636364/a55db0d896280502345bef7340360ccd/720p",
-            "18": "//kodik.cc/seria/636365/cb1723dc6f6ed818609a2dd6868eeb85/720p",
-            "19": "//kodik.cc/seria/636366/ca5b546b13f7e09c24e90d451543be09/720p",
-            "20": "//kodik.cc/seria/636373/43a67af6f8cf47b4220878f9dce7e16d/720p",
-            "21": "//kodik.cc/seria/636374/8603c7176f58f369fba945509098ac10/720p",
-            "22": "//kodik.cc/seria/636375/00fa29d6972d0ebbc9fadd0f045e3b34/720p",
-            "23": "//kodik.cc/seria/636376/79aca1f13abd1024acc9e315c144d595/720p",
-            "24": "//kodik.cc/seria/636377/45240fb4adbda577444b8de5a2b23aa6/720p",
-            "25": "//kodik.cc/seria/636378/2dbe1b3f1823a7b6eefb8e25fc1ef967/720p",
-            "26": "//kodik.cc/seria/636379/e1937a2afe7ed6548fa6114c2eab5914/720p",
-            "27": "//kodik.cc/seria/636380/c48d92d63d8a346a15f10f60ec32964c/720p",
-            "28": "//kodik.cc/seria/636381/a48e22ab09ff5781fde1f003efb0de64/720p",
-            "29": "//kodik.cc/seria/636392/3387430366a388e3e63e84cf2f01a2f6/720p",
-            "30": "//kodik.cc/seria/636402/bf3114936654f1e00e4ab109e45455bb/720p",
-            "31": "//kodik.cc/seria/636403/d3f9c1eb6327d11c94f55d2328c63365/720p",
-            "32": "//kodik.cc/seria/636404/560f0f2d4e771a5cafa74bbc53832e30/720p",
-            "33": "//kodik.cc/seria/636405/20af69265caa477d382eb4d8339b0ab5/720p",
-            "34": "//kodik.cc/seria/636406/30feee81d16bd61e6828e9fa199ebef0/720p",
-            "35": "//kodik.cc/seria/636407/db70acf9d73e145a1781e656cd9829ab/720p",
-            "36": "//kodik.cc/seria/636408/996fab9929b1c65fd3148aca24efcdae/720p",
-            "37": "//kodik.cc/seria/636409/56d5d54030caef4107779a04d0376488/720p",
-            "38": "//kodik.cc/seria/636410/7d7fd55e12a0887d974b5220f03f450c/720p",
-            "39": "//kodik.cc/seria/636411/ca6adf9328fec5cf9afb85982e3e634c/720p",
-            "40": "//kodik.cc/seria/636412/89ed990f4441998a1f32e3fb2f10e388/720p",
-            "41": "//kodik.cc/seria/636413/a9233a045c0b31389d4d39078d267c4d/720p",
-            "42": "//kodik.cc/seria/636414/4a03b0eaffc8ff5a4a927fc295edcdc2/720p",
-            "43": "//kodik.cc/seria/636415/cb7012fade870279d83738fea5f242d2/720p",
-            "44": "//kodik.cc/seria/636416/00f043a41ceee6e756cfe07d7afce6b9/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-22930",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Бейблэйд Бёрст [ТВ-3]",
-      "title_orig": "Beyblade Burst Chouzetsu",
-      "other_title": "Бейблэйд: Взрыв — Превосходство / Beyblade Burst Chouzetsu / Beyblade Burst Turbo",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 3,
-      "last_episode": 51,
-      "episodes_count": 51,
-      "kinopoisk_id": "1118242",
-      "imdb_id": "tt6348126",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9570",
-      "shikimori_id": "37283",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-02-18T17:10:25Z",
-      "updated_at": "2020-04-25T14:55:10Z",
-      "seasons": {
-        "3": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/591096/8cda4a359950c54088380a0305f12dc3/720p",
-            "2": "//aniqit.com/seria/591097/7c0f4a5cff78a557e74e8869489c8475/720p",
-            "3": "//aniqit.com/seria/591098/4833f23f2db848184cfbc68fbbeb1b61/720p",
-            "4": "//aniqit.com/seria/591099/afe726a0e0fdcc0699ee6b6934dd6760/720p",
-            "5": "//aniqit.com/seria/591100/b8f8d56646cc99fc4d031bfa5afc9d31/720p",
-            "6": "//aniqit.com/seria/591101/fcb11080121fb67544bd31a26a47ad4f/720p",
-            "7": "//aniqit.com/seria/591102/ca49dd1da30134adee21ad968c42bd16/720p",
-            "8": "//aniqit.com/seria/591103/9ed4a22c8ac0fcab0eb8b5a6704bd9bd/720p",
-            "9": "//aniqit.com/seria/591104/8f1a604600171191c73c089c6827b7fa/720p",
-            "10": "//aniqit.com/seria/591105/7325e6e4ff9df0c97afb6b262a1bfc56/720p",
-            "11": "//aniqit.com/seria/591106/2c07cdbb4afc00f53c985c30fb61c9a6/720p",
-            "12": "//aniqit.com/seria/591107/beab6f269d01a7ccf62cb4783760a8ac/720p",
-            "13": "//aniqit.com/seria/591108/0eb9fdbb4f6c680ec63b0168b91ce1ba/720p",
-            "14": "//aniqit.com/seria/591109/9657a3485d192472929587422204904f/720p",
-            "15": "//aniqit.com/seria/591110/fa99c0ffc10ee6540758f497dc9c6d89/720p",
-            "16": "//aniqit.com/seria/591111/e9c674711bc04e38a4a22d5467f924eb/720p",
-            "17": "//aniqit.com/seria/591112/9c58c807ddeb3230d4c271c7472ccd38/720p",
-            "18": "//aniqit.com/seria/591113/d33a496d772812d5f965fcbf4c405844/720p",
-            "19": "//aniqit.com/seria/591114/843ed1db0a89a19af75eb2aae607087f/720p",
-            "20": "//aniqit.com/seria/591115/9edb8b5f3e0fb266efa3c8e531878cf5/720p",
-            "21": "//aniqit.com/seria/591116/bd78f889f460f414db946c2a6c1ccdc0/720p",
-            "22": "//aniqit.com/seria/591117/c5f38530fd644ead98f26e9ce94d47c8/720p",
-            "23": "//aniqit.com/seria/591118/e9e9480c673d6883c52ac7c79eab4295/720p",
-            "24": "//aniqit.com/seria/591119/38b2572ec78b1e3719071c7353dfe375/720p",
-            "25": "//aniqit.com/seria/591120/9585a37b9cf5abb078ee48345f61778f/720p",
-            "26": "//aniqit.com/seria/591121/c728b8d133ed4ecc1d7f77f0eae1df74/720p",
-            "27": "//aniqit.com/seria/591122/59a877b853a57d7dfd48c780d4fca8c8/720p",
-            "28": "//aniqit.com/seria/591123/d60d79adaf318aca1bb748e91f58ad97/720p",
-            "29": "//aniqit.com/seria/591124/a7dfc9e57328b8e6050aa01a7c6ab3ba/720p",
-            "30": "//aniqit.com/seria/591125/7393579da9763c494937f95d37f496b5/720p",
-            "31": "//aniqit.com/seria/591126/eb8f4295a0862a7a75b8db36bcd97ae3/720p",
-            "32": "//aniqit.com/seria/591127/d590c337b3c3f812f81bae890ebbe704/720p",
-            "33": "//aniqit.com/seria/591128/15043ce4931db51156ff1b7174e06015/720p",
-            "34": "//aniqit.com/seria/596541/cde07f4907521feff5f761d092b51303/720p",
-            "35": "//aniqit.com/seria/596542/2471593e4f62f207580993af96cf1d41/720p",
-            "36": "//aniqit.com/seria/607733/6011ebf8bbe738da5540a2f9578428cd/720p",
-            "37": "//aniqit.com/seria/607734/3424460bd6fac236c1a13ff3376678a5/720p",
-            "38": "//aniqit.com/seria/607977/9b615733a583c29dae75d93e7a4180dd/720p",
-            "39": "//aniqit.com/seria/607978/a40d064064aa1b6d2d3ba746be421e3f/720p",
-            "40": "//aniqit.com/seria/608527/a7f71c11705698814d1ae5294ea2eb26/720p",
-            "41": "//aniqit.com/seria/608528/5ec8c17ee724e33dee9a0ac9bede9632/720p",
-            "42": "//aniqit.com/seria/614718/3a4f5facfaf4a33eb4b9c6c92b729ef5/720p",
-            "43": "//aniqit.com/seria/614719/b065cc3f39eb85c5023200a33b35985b/720p",
-            "44": "//aniqit.com/seria/619948/9085f9d345d0c5d898f8401f2cfef8c8/720p",
-            "45": "//aniqit.com/seria/619949/caf0598e1a8dd30b24b46603fc560bde/720p",
-            "46": "//aniqit.com/seria/624727/32746babf85104bdc458f63afe5670a4/720p",
-            "47": "//aniqit.com/seria/624728/65b65e9c0e3277e1dfeb19d15f9d47a4/720p",
-            "48": "//aniqit.com/seria/628090/4c4116b751c3935bdbb89b9ed19681ab/720p",
-            "49": "//aniqit.com/seria/631977/d56d7192403c8e308129f92b9c70a01a/720p",
-            "50": "//aniqit.com/seria/631978/a2d419d09a32662ef70c86d65e5d45e4/720p",
-            "51": "//aniqit.com/seria/636400/1c5058add7ae55428b5416089d4d4f24/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Бейблэйд Бёрст",
-        "title_en": "Beyblade Burst",
-        "other_titles": [
-          "Beyblade Burst Super Z"
-        ],
-        "other_titles_en": [
-          "Beyblade Burst Turbo"
-        ],
-        "other_titles_jp": [
-          "ベイブレードバースト 超ゼツ"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2016,
-        "description": "Герои мультсериала соревнуются с помощью двух волчков на круглом поле. Суть игры состоит в том, чтобы вытолкнуть за пределы круга волчок (бей) противника, используя скорость и массу своего волчка. С первого взгляда игра может показаться простой, но для победы в ней необходимы навыки и техника, которые оттачиваются путем долгих тренировок.\n\rТакой волчок-бей есть и у главного героя по имени Вальт Аои. Он новичок, но быстро осваивает правила, и ему очень везет в игре. Сражаясь в бейблэйд, мальчик находит новых друзей и совершенствует свое мастерство. Даже еще не осознавая этого, он загорается идеей стать лучшим игроком во всем мире!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1118242.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/ec47578eb530b349b17fa15de4de843d2312304b.png",
-          "https://shikimori.one/system/screenshots/original/02e518ac1376d6abba25b5812187229e3df11862.png"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "мультфильм",
-          "фантастика",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Приключения",
-          "Спорт",
-          "Сёнен",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "OLM"
-        ],
-        "imdb_rating": 6.4,
-        "imdb_votes": 265,
-        "shikimori_rating": 6.3,
-        "shikimori_votes": 0,
-        "premiere_ru": "2017-10-14",
-        "premiere_world": "2016-12-19",
-        "aired_at": "2018-04-02",
-        "released_at": "2019-03-25",
-        "rating_mpaa": "PG",
-        "episodes_total": 51,
-        "episodes_aired": 51,
-        "actors": [
-          "Мэтт Хилл",
-          "Сабрина Питре",
-          "Адриан Петрив",
-          "Захари Леблан",
-          "Ричард Иэн Кокс",
-          "Лаура Стал",
-          "Кристин Мари Кабанос",
-          "Дерек Стивен Принц",
-          "Шиван Уильямс",
-          "Эрика Мендес"
-        ],
-        "directors": [
-          "Kentaro Yamaguchi"
-        ],
-        "producers": [
-          "Мио Мороэ",
-          "Мами Окада",
-          "Эрик П. Шерман"
-        ],
-        "writers": [
-          "Джален К. Кассел",
-          "Bobby Henwood",
-          "Kate Mangan Anderson"
-        ],
-        "composers": [
-          "Зэйн Эффенди",
-          "Roy Shakked"
-        ]
-      }
-    },
-    {
-      "id": "serial-25125",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Лайк",
-      "title_orig": "Like",
-      "translation": {
-        "id": 1198,
-        "title": "НИКО",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 7,
-      "episodes_count": 7,
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-25T11:44:34Z",
-      "updated_at": "2020-04-25T14:54:03Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/636215/754289d9e7ae50607d02a173d7f749f5/720p",
-            "2": "//kodik.cc/seria/636394/2387b046dfcf570e2d0268626384fd09/720p",
-            "3": "//kodik.cc/seria/636395/0cf3dd18b939edf234e5e39df305cd9a/720p",
-            "4": "//kodik.cc/seria/636396/fcadc25db5f62e597fc3e32898bc840b/720p",
-            "5": "//kodik.cc/seria/636397/c1e39b61fab204679f86176f481e369a/720p",
-            "6": "//kodik.cc/seria/636398/f1c7e2fdfa158cb03e089ec72275a7c2/720p",
-            "7": "//kodik.cc/seria/636399/ee9403bdb61a0a62a4e492c2cce96b00/720p"
-          }
-        }
       }
     }
   ]

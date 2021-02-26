@@ -1,6 +1,420 @@
 {
   "results": [
     {
+      "id": "movie-58557",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Не опоздал",
+      "title_orig": "Не опоздал",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1984,
+      "kinopoisk_id": "485364",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-05T08:17:12Z",
+      "updated_at": "2020-08-05T08:17:12Z",
+      "material_data": {
+        "title": "Не опоздал",
+        "title_en": "",
+        "year": 1984,
+        "description": "Фильм высмеивает тех, кто понимает трудовую дисциплину формально.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/485364.jpg",
+        "duration": 7,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 6,
+        "kinopoisk_votes": 150,
+        "minimal_age": 12,
+        "directors": [
+          "Борис Дежкин"
+        ],
+        "writers": [
+          "Евгений Агранович"
+        ],
+        "composers": [
+          "Лев Моллер"
+        ],
+        "editors": [
+          "Ольга Василенко"
+        ],
+        "designers": [
+          "Нина Юсупова"
+        ],
+        "operators": [
+          "Борис Котов"
+        ]
+      }
+    },
+    {
+      "id": "serial-28360",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Бездомная девочка Реми",
+      "title_orig": "Ie Naki Ko Remi",
+      "other_title": "Remi, Nobody's Girl",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 1996,
+      "last_season": 1,
+      "last_episode": 26,
+      "episodes_count": 26,
+      "kinopoisk_id": "425877",
+      "imdb_id": "tt0168338",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2721",
+      "shikimori_id": "2829",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-05T08:16:11Z",
+      "updated_at": "2020-08-05T08:16:11Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/698918/3f6e2476efbfe61eb55cb377f84f664c/720p",
+            "2": "//aniqit.com/seria/698919/73d3cf7273f83943072024d2bd0e641b/720p",
+            "3": "//aniqit.com/seria/698920/f9931e22e09fc70da1bf16df450b4bc3/720p",
+            "4": "//aniqit.com/seria/698921/df90e40d4ab6d6b989ca19ec4993ce5a/720p",
+            "5": "//aniqit.com/seria/698922/b541d63d9bbe3ddfc327d90951a398a3/720p",
+            "6": "//aniqit.com/seria/698923/96ce3a4e660a0774256e62094bf05b95/720p",
+            "7": "//aniqit.com/seria/698924/625bf0a3660a8c93fc1f33f426b2baf8/720p",
+            "8": "//aniqit.com/seria/698925/03389ea0660b01618de51d3e2b9aceb7/720p",
+            "9": "//aniqit.com/seria/698926/fc4dba46deeef427f7adcb690f04a7bd/720p",
+            "10": "//aniqit.com/seria/698927/f896652cc992710518ec2fb7f628259c/720p",
+            "11": "//aniqit.com/seria/698928/311f84c45ae07892c92244882492fe2e/720p",
+            "12": "//aniqit.com/seria/698929/7b07343a0d08b580c9bf86bc4bfa994d/720p",
+            "13": "//aniqit.com/seria/698930/898003357d34b3667780249fa8baab87/720p",
+            "14": "//aniqit.com/seria/698931/6dab11577308f179e2d8552a08aa658f/720p",
+            "15": "//aniqit.com/seria/698932/b6c029efbbf82f648d404fd651133603/720p",
+            "16": "//aniqit.com/seria/698933/cea556316454ec4e1b8f89034ccd7fc3/720p",
+            "17": "//aniqit.com/seria/698934/2919853fbf155604e1169c1c84cf6fe8/720p",
+            "18": "//aniqit.com/seria/698935/16c3ce1d96f39f84d77b1e12fd7b59a9/720p",
+            "19": "//aniqit.com/seria/698936/17ad9e03c4476f8b68afc3317cc0e32e/720p",
+            "20": "//aniqit.com/seria/698937/314dec14bd005c95a132e020e8747973/720p",
+            "21": "//aniqit.com/seria/698938/9f096c22a17053bc7352d766b9ccbab4/720p",
+            "22": "//aniqit.com/seria/698939/8e33932d133001a6760b2e2e2fd1900c/720p",
+            "23": "//aniqit.com/seria/698940/c49a761267398b6e044db13ac94b6145/720p",
+            "24": "//aniqit.com/seria/698941/186c81ec9d0e0629e7a5d2360eb16a50/720p",
+            "25": "//aniqit.com/seria/698942/f7790908973fcd0dc16780a8156166eb/720p",
+            "26": "//aniqit.com/seria/698943/6a520665426ba5fdf12bdc3a9b64c632/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Бездомная девочка Реми",
+        "title_en": "Ie naki ko Remi",
+        "other_titles": [
+          "Ie Naki Ko Rémi",
+          "Ie Naki Ko Remy",
+          "Sekai Meisaku Gekijou",
+          "Homeless Child Remi",
+          "Remi",
+          "Nobody's Girl"
+        ],
+        "other_titles_en": [
+          "Sans Famille"
+        ],
+        "other_titles_jp": [
+          "家なき子レミ"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 1996,
+        "description": "Реми, скромная и веселая девочка, которая отлично поёт, живет во Франции в деревне под названием Шаванон со своей матерью и младшей сестрёнкой. Однажды она узнаёт, что она «подкидыш» и была взята на воспитание семьёй Барберан. Её отчим, Жером, оставляет работу в Париже и думает, что приёмная мать отправила Реми в сиротский приют. Он возвращается спустя 10 лет и обнаруживает, что Реми все еще там, и приходит в ярость. Он продаёт Реми злобному работорговцу, но её спасает бродячий артист по имени Виталис. В своём путешествии с Виталисом и его компанией ей придётся вынести и преодолеть многие трудности в поисках своей настоящей семьи.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/425877.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/96442fa6691563ee7c43622d0e81db55f439fe90.jpg",
+          "https://shikimori.one/system/screenshots/original/79a49507b50908fbb50bd7399aaa82f79b27a061.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Исторический",
+          "Повседневность",
+          "Приключения"
+        ],
+        "anime_studios": [
+          "Nippon Animation"
+        ],
+        "imdb_rating": 8.2,
+        "imdb_votes": 583,
+        "shikimori_rating": 7.93,
+        "shikimori_votes": 171,
+        "premiere_world": "1996-08-01",
+        "aired_at": "1996-09-01",
+        "released_at": "1997-03-23",
+        "rating_mpaa": "G",
+        "episodes_total": 23,
+        "episodes_aired": 0,
+        "actors": [
+          "Синобу Адати",
+          "Мицуко Хориэ",
+          "Фубито Ямано"
+        ],
+        "directors": [
+          "Кодзо Кусуба"
+        ],
+        "writers": [
+          "Гектор Мало",
+          "Митиру Симада"
+        ],
+        "composers": [
+          "Кацухиса Хаттори"
+        ],
+        "designers": [
+          "Масаки Кавагути"
+        ]
+      }
+    },
+    {
+      "id": "movie-58558",
+      "type": "russian-movie",
+      "link": "",
+      "title": "На черный день",
+      "title_orig": "Na chyornyy den",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1991,
+      "kinopoisk_id": "661165",
+      "imdb_id": "tt4862888",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-05T08:15:59Z",
+      "updated_at": "2020-08-05T08:15:59Z",
+      "material_data": {
+        "title": "На черный день",
+        "title_en": "",
+        "year": 1991,
+        "description": "Благодаря кудрявому ежику, в лес возвращаются утраченные было красота, гармония и добрые отношения.",
+        "duration": 8,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 5.7,
+        "kinopoisk_votes": 81,
+        "minimal_age": 6,
+        "actors": [
+          "Ольга Громова",
+          "Всеволод Ларионов",
+          "Борис Новиков",
+          "Роман Филиппов",
+          "Зинаида Нарышкина",
+          "Лия Ахеджакова",
+          "Татьяна Шатилова"
+        ],
+        "directors": [
+          "Михаил Каменецкий"
+        ],
+        "writers": [
+          "Заурия Нурумбетова",
+          "Тамара Чуганова"
+        ],
+        "composers": [
+          "Игорь Космачев"
+        ],
+        "editors": [
+          "Галина Филатова"
+        ],
+        "designers": [
+          "Марина Курчевская"
+        ],
+        "operators": [
+          "Юрий Каменецкий"
+        ]
+      }
+    },
+    {
+      "id": "movie-58559",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Март и его хлеб",
+      "title_orig": "Mardileib",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 1971,
+      "kinopoisk_id": "137812",
+      "imdb_id": "tt0452321",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-05T08:15:04Z",
+      "updated_at": "2020-08-05T08:15:04Z",
+      "material_data": {
+        "title": "Март и его хлеб",
+        "title_en": "",
+        "year": 1971,
+        "description": "Помощник аптекаря во все лекарства кладет сладкое и неожиданно у него получился прекрасный марципан - Мартов хлеб.",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "imdb_rating": 6,
+        "imdb_votes": 7,
+        "directors": [
+          "Хейно Парс"
+        ],
+        "writers": [
+          "Ян Кросс"
+        ],
+        "composers": [
+          "Эйно Тамберг"
+        ],
+        "designers": [
+          "Георгий Щукин"
+        ],
+        "operators": [
+          "Антс Лооман"
+        ]
+      }
+    },
+    {
+      "id": "movie-58560",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Малышок и черная маска",
+      "title_orig": "Малышок и черная маска",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1970,
+      "kinopoisk_id": "645518",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-05T08:14:19Z",
+      "updated_at": "2020-08-05T08:14:19Z",
+      "material_data": {
+        "title": "Малышок и черная маска",
+        "title_en": "",
+        "year": 1970,
+        "description": "О том, как маленький зайчонок перехитрил Волка и Лису и вернул зайцам волшебную капусту.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/645518.jpg",
+        "duration": 19,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "minimal_age": 0,
+        "directors": [
+          "Г. Синельников"
+        ],
+        "writers": [
+          "Л. Брик"
+        ],
+        "composers": [
+          "Анатолий Быканов"
+        ],
+        "designers": [
+          "Борис Моисеев"
+        ],
+        "operators": [
+          "Иосиф Голомб"
+        ]
+      }
+    },
+    {
+      "id": "movie-58561",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Маленькие недоразумения",
+      "title_orig": "Маленькие недоразумения",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1970,
+      "kinopoisk_id": "677558",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-05T08:13:44Z",
+      "updated_at": "2020-08-05T08:13:44Z",
+      "material_data": {
+        "title": "Маленькие недоразумения",
+        "title_en": "",
+        "year": 1970,
+        "description": "Экранизация пьесы Э. Поправского «Котик-Мотик», о котенке Тимотике и  пане Бульдоговиче.",
+        "duration": 33,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "детский",
+          "короткометражка",
+          "мультфильм"
+        ],
+        "minimal_age": 0,
+        "actors": [
+          "Маргарита Корабельникова",
+          "Мария Виноградова",
+          "Зинаида Нарышкина",
+          "Тамара Дмитриева",
+          "Ольга Громова",
+          "Александр Юрьев"
+        ],
+        "directors": [
+          "Валентин Караваев"
+        ],
+        "writers": [
+          "Валентин Караваев"
+        ],
+        "composers": [
+          "Владимир Шаинский"
+        ],
+        "editors": [
+          "О. Ульянова"
+        ],
+        "designers": [
+          "Х. Сафиулин"
+        ],
+        "operators": [
+          "Иосиф Голомб"
+        ]
+      }
+    },
+    {
       "id": "movie-58562",
       "type": "russian-movie",
       "link": "",
@@ -4972,8 +5386,8 @@
         "kinopoisk_votes": 309,
         "imdb_rating": 7,
         "imdb_votes": 490,
-        "shikimori_rating": 7.02,
-        "shikimori_votes": 5183,
+        "shikimori_rating": 7.01,
+        "shikimori_votes": 5218,
         "premiere_world": "2020-04-05",
         "aired_at": "2020-04-05",
         "released_at": "2020-06-21",
@@ -6723,359 +7137,6 @@
         ],
         "operators": [
           "Борис Котов"
-        ]
-      }
-    },
-    {
-      "id": "movie-58476",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Как аукнется, так и откликнется",
-      "title_orig": "Как аукнется, так и откликнется",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1975,
-      "kinopoisk_id": "592020",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-04T12:04:24Z",
-      "updated_at": "2020-08-04T12:04:24Z",
-      "material_data": {
-        "title": "Как аукнется, так и откликнется",
-        "title_en": "",
-        "year": 1975,
-        "description": "Как скоморохи наказали глупого царского советника.",
-        "duration": 15,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "actors": [
-          "Галина Дейкина",
-          "Г. Шатковская",
-          "И. Грачева",
-          "Э. Еремеев"
-        ],
-        "directors": [
-          "Б. Скопец"
-        ],
-        "writers": [
-          "Елена Гагарина"
-        ],
-        "composers": [
-          "В. Кобекин"
-        ],
-        "designers": [
-          "Н. Журавлёва"
-        ],
-        "operators": [
-          "Алексей Алексеев"
-        ]
-      }
-    },
-    {
-      "id": "movie-58477",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Как Иван-молодец царску дочку спасал",
-      "title_orig": "Kak Ivan-molodets tsarsku dochku spasal",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1989,
-      "kinopoisk_id": "595985",
-      "imdb_id": "tt12249178",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-04T12:03:24Z",
-      "updated_at": "2020-08-04T12:03:24Z",
-      "material_data": {
-        "title": "Как Иван-молодец царску дочку спасал",
-        "title_en": "",
-        "year": 1989,
-        "description": "По мотивам русских сказок о Змее Горыныче.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/595985.jpg",
-        "duration": 8,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 5.7,
-        "kinopoisk_votes": 99,
-        "minimal_age": 6,
-        "actors": [
-          "Виктор Сергачев"
-        ],
-        "directors": [
-          "Лидия Сурикова"
-        ],
-        "writers": [
-          "И. Кмит"
-        ],
-        "composers": [
-          "Борис Киселев"
-        ],
-        "editors": [
-          "Людмила Коптева"
-        ],
-        "designers": [
-          "Ксения Прыткова"
-        ],
-        "operators": [
-          "Константин Инешин"
-        ]
-      }
-    },
-    {
-      "id": "movie-32595",
-      "type": "soviet-cartoon",
-      "link": "",
-      "title": "Лесная хроника",
-      "title_orig": "Lesnaya khronika",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1970,
-      "kinopoisk_id": "257940",
-      "imdb_id": "tt2248164",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-19T16:10:33Z",
-      "updated_at": "2020-08-04T12:00:34Z",
-      "material_data": {
-        "title": "Лесная хроника",
-        "title_en": "",
-        "year": 1970,
-        "description": "Фильм о том, как жадный волк, который отнимал у зверюшек их собственность, был наказан, попав в капкан, который он принял за ценную вещь.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/257940.jpg",
-        "duration": 10,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 7.5,
-        "kinopoisk_votes": 3750,
-        "imdb_rating": 7,
-        "imdb_votes": 33,
-        "minimal_age": 12,
-        "actors": [
-          "Юрий Хржановский",
-          "Анатолий Папанов",
-          "Клара Румянова",
-          "Юлия Юльская"
-        ],
-        "directors": [
-          "Петр Носов"
-        ],
-        "writers": [
-          "Владимир Капнинский"
-        ],
-        "composers": [
-          "Михаил Меерович"
-        ],
-        "designers": [
-          "Константин Карпов"
-        ],
-        "operators": [
-          "Михаил Друян"
-        ]
-      }
-    },
-    {
-      "id": "movie-58478",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Как кошка с собакой",
-      "title_orig": "Как кошка с собакой",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1973,
-      "kinopoisk_id": "727498",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-04T11:59:20Z",
-      "updated_at": "2020-08-04T11:59:20Z",
-      "material_data": {
-        "title": "Как кошка с собакой",
-        "title_en": "",
-        "year": 1973,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/727498.jpg",
-        "duration": 15,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "детский",
-          "короткометражка",
-          "мультфильм"
-        ],
-        "minimal_age": 0,
-        "actors": [
-          "Валентин Гафт",
-          "Клара Румянова",
-          "Николай Носов",
-          "Лев Шабарин"
-        ],
-        "directors": [
-          "Юлиан Калишер"
-        ],
-        "writers": [
-          "С. Возлинская"
-        ],
-        "composers": [
-          "Татьяна Смирнова"
-        ],
-        "designers": [
-          "Ителла Мастбаум"
-        ],
-        "operators": [
-          "И. Николаев"
-        ]
-      }
-    },
-    {
-      "id": "movie-19406",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Мы с Джеком",
-      "title_orig": "My s Dzhekom",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1973,
-      "kinopoisk_id": "565178",
-      "imdb_id": "tt2323607",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-11-03T06:29:53Z",
-      "updated_at": "2020-08-04T11:34:22Z",
-      "material_data": {
-        "title": "Мы с Джеком",
-        "title_en": "",
-        "year": 1973,
-        "description": "Мальчик со своим псом Джеком отправляются на Северный Полюс, чтобы совершить там подвиг. По дороге они спасают девочку, упавшую в прорубь...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/565178.jpg",
-        "duration": 10,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 359,
-        "imdb_rating": 6.7,
-        "imdb_votes": 29,
-        "minimal_age": 6,
-        "actors": [
-          "Ольга Громова",
-          "Борис Новиков",
-          "Людмила Гнилова",
-          "Василий Ливанов"
-        ],
-        "directors": [
-          "Владимир Самсонов"
-        ],
-        "writers": [
-          "Виталий Злотников"
-        ],
-        "composers": [
-          "Евгений Крылатов",
-          "Владимир Кривцов"
-        ],
-        "editors": [
-          "Елена Тертычная"
-        ],
-        "designers": [
-          "Розалия Зельма",
-          "София Митрофанова",
-          "Дмитрий Анпилов"
-        ],
-        "operators": [
-          "Борис Котов"
-        ]
-      }
-    },
-    {
-      "id": "movie-31850",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Незнайка учится",
-      "title_orig": "Neznayka uchitsya",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1961,
-      "kinopoisk_id": "257947",
-      "imdb_id": "tt4541912",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-03T02:24:11Z",
-      "updated_at": "2020-08-04T11:33:00Z",
-      "material_data": {
-        "title": "Незнайка учится",
-        "title_en": "",
-        "year": 1961,
-        "description": "По сказке Николая Носова «Приключения Незнайки и его друзей».",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/257947.jpg",
-        "duration": 20,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 1483,
-        "imdb_rating": 6.9,
-        "imdb_votes": 48,
-        "minimal_age": 6,
-        "directors": [
-          "Петр Носов"
-        ],
-        "writers": [
-          "Николай Носов"
-        ],
-        "composers": [
-          "Михаил Меерович"
-        ],
-        "designers": [
-          "Василий Рябчиков",
-          "Лидия Модель"
-        ],
-        "operators": [
-          "Екатерина Ризо"
         ]
       }
     }

@@ -1,6 +1,381 @@
 {
   "results": [
     {
+      "id": "movie-34793",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Прощай, шпана замоскворецкая...",
+      "title_orig": "Proshchay, shpana zamoskvoretskaya",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1988,
+      "kinopoisk_id": "43311",
+      "imdb_id": "tt0093794",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-12T07:07:05Z",
+      "updated_at": "2019-04-12T07:07:05Z",
+      "material_data": {
+        "title": "Прощай, шпана замоскворецкая...",
+        "title_en": "",
+        "year": 1987,
+        "description": "Московская окраина, весна 1956-го. В памяти и душе шестнадцатилетнего героя фильма, сына политзаключенного, это время останется навсегда. Он встретит и потеряет свою первую любовь, столкнется с тупой жестокостью преступного мира, простится с детством, вновь обретет отца...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/43311.jpg",
+        "duration": 103,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма",
+          "мелодрама"
+        ],
+        "kinopoisk_rating": 7.4,
+        "kinopoisk_votes": 943,
+        "imdb_rating": 7.3,
+        "imdb_votes": 58,
+        "premiere_world": "1988-06-20",
+        "minimal_age": 16,
+        "actors": [
+          "Сергей Макаров",
+          "Лариса Бородина",
+          "Николай Добрынин",
+          "Михаил Пузырев",
+          "Наталья Попова",
+          "Тамара Сёмина",
+          "Нина Усатова",
+          "Георгий Бурков",
+          "Михаил Голубович",
+          "Сергей Барабанщиков"
+        ],
+        "directors": [
+          "Александр Панкратов"
+        ],
+        "writers": [
+          "Эдуард Володарский"
+        ],
+        "composers": [
+          "Николай Каретников"
+        ],
+        "editors": [
+          "Людмила Елян"
+        ],
+        "designers": [
+          "Василий Щербак",
+          "Светлана Башлыкова"
+        ],
+        "operators": [
+          "Борис Новоселов"
+        ]
+      }
+    },
+    {
+      "id": "serial-16091",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Тень",
+      "title_orig": "Shadow",
+      "translation": {
+        "id": 794,
+        "title": "HDrezka Studio",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 8,
+      "episodes_count": 8,
+      "kinopoisk_id": "1251234",
+      "imdb_id": "tt9817236",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-03-28T08:27:16Z",
+      "updated_at": "2019-04-11T22:46:44Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/421109/fd4b35e7f2026a857f1b15ba42daa14d/720p",
+            "2": "//kodik.cc/seria/421110/5dc83a5bc576d353111942203a5509a9/720p",
+            "3": "//kodik.cc/seria/423879/c14a1e5f24671f303858375ae39dbff8/720p",
+            "4": "//kodik.cc/seria/423880/abcab9226168c8c77d9bed3a73b3376d/720p",
+            "5": "//kodik.cc/seria/424059/182f25c7b67f3c624292f905a2170211/720p",
+            "6": "//kodik.cc/seria/426063/761dc165ad04f6c03c3f0f10ed048712/720p",
+            "7": "//kodik.cc/seria/426064/afd5f2494535bfd6b890388cd2d3918a/720p",
+            "8": "//kodik.cc/seria/426065/96287995fbabdd0b7e0e84ef9001739c/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Shadow",
+        "title_en": "",
+        "year": 2019,
+        "duration": 45,
+        "countries": [
+          "ЮАР"
+        ],
+        "genres": [
+          "боевик"
+        ],
+        "imdb_rating": 6.6,
+        "imdb_votes": 808,
+        "premiere_world": "2019-03-07",
+        "actors": [
+          "Pallance Dladla",
+          "Khathu Ramabulana",
+          "Аманда Дю-Пон",
+          "Tumie Ngumla",
+          "Айми Голдсмит",
+          "Richard Lunkhunku",
+          "Lebohang Motaung",
+          "Fezile Mpela",
+          "Roberto Pombo",
+          "Zekheteholo Zondi"
+        ],
+        "directors": [
+          "Gareth Crocker",
+          "Fred Wolmarans"
+        ],
+        "producers": [
+          "Chris Lawrance",
+          "Colleen Lawrance",
+          "Phillip Wolmarans"
+        ],
+        "writers": [
+          "Gareth Crocker"
+        ],
+        "editors": [
+          "Lizzy de Jonge",
+          "Fred Wolmarans",
+          "Бретт МакДональд",
+          "Kholofelo Malatshi"
+        ],
+        "designers": [
+          "Christelle van Graan"
+        ],
+        "operators": [
+          "Nick Keulemans"
+        ]
+      }
+    },
+    {
+      "id": "movie-34770",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Человек идет за солнцем",
+      "title_orig": "Chelovek idyot za solntsem",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1962,
+      "kinopoisk_id": "45453",
+      "imdb_id": "tt0129823",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-11T11:27:26Z",
+      "updated_at": "2019-04-11T11:27:26Z",
+      "material_data": {
+        "title": "Человек идет за солнцем",
+        "title_en": "",
+        "year": 1961,
+        "description": "Мальчик идет по любимому городу вслед за солнцем. На своем пути маленький наблюдатель встречает разных людей — добрых и злых, чутких и равнодушных...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/45453.jpg",
+        "duration": 72,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "детский",
+          "семейный"
+        ],
+        "kinopoisk_rating": 7.8,
+        "kinopoisk_votes": 937,
+        "imdb_rating": 7.3,
+        "imdb_votes": 139,
+        "premiere_world": "1962-06-04",
+        "actors": [
+          "Ника Кримнус",
+          "Татьяна Бестаева",
+          "Николай Волков",
+          "Георгий Георгиу",
+          "Михаил Греку",
+          "Евгений Евстигнеев",
+          "Валентин Зубков",
+          "Лев Круглый",
+          "Валентина Телегина",
+          "Анатолий Папанов"
+        ],
+        "directors": [
+          "Михаил Калик"
+        ],
+        "writers": [
+          "Валериу Гажиу",
+          "Михаил Калик"
+        ],
+        "composers": [
+          "Микаэл Таривердиев"
+        ],
+        "editors": [
+          "Ксения Блинова",
+          "Николай Чайка"
+        ],
+        "designers": [
+          "Станислав Булгаков",
+          "Аурелия Роман"
+        ],
+        "operators": [
+          "Вадим Дербенёв"
+        ]
+      }
+    },
+    {
+      "id": "movie-34771",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Эта веселая планета",
+      "title_orig": "Eta vesyolaya planeta",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1973,
+      "kinopoisk_id": "94970",
+      "imdb_id": "tt0070042",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-11T11:26:16Z",
+      "updated_at": "2019-04-11T11:26:16Z",
+      "material_data": {
+        "title": "Эта веселая планета",
+        "title_en": "",
+        "year": 1973,
+        "description": "Прилетевшие на Землю инопланетяне попадают на встречу Нового года в обычный Дворец культуры. Столкнувшись со множеством загадок, они постепенно приходят к пониманию того, что земная жизнь без шутки и смеха, без искусства и любви невозможна.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/94970.jpg",
+        "duration": 94,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "комедия",
+          "мюзикл",
+          "фантастика"
+        ],
+        "kinopoisk_rating": 6.8,
+        "kinopoisk_votes": 3555,
+        "imdb_rating": 6.1,
+        "imdb_votes": 180,
+        "premiere_world": "1973-12-31",
+        "minimal_age": 12,
+        "actors": [
+          "Савелий Крамаров",
+          "Леонид Куравлёв",
+          "Александр Вокач",
+          "Виктор Сергачев",
+          "Екатерина Васильева",
+          "Лариса Барабанова",
+          "Игорь Кашинцев",
+          "Наталья Крачковская",
+          "Владимир Носик",
+          "Владимир Мулявин"
+        ],
+        "directors": [
+          "Юрий Сааков",
+          "Юрий Цветков"
+        ],
+        "writers": [
+          "Дмитрий Иванов",
+          "Юрий Сааков",
+          "Владимир Трифонов"
+        ],
+        "composers": [
+          "Давид Тухманов"
+        ],
+        "designers": [
+          "Феликс Ясюкевич"
+        ],
+        "operators": [
+          "Константин Петриченко"
+        ]
+      }
+    },
+    {
+      "id": "movie-34772",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Этот негодяй Сидоров",
+      "title_orig": "Etot negodyay Sidorov",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1984,
+      "kinopoisk_id": "42024",
+      "imdb_id": "tt0261681",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-11T11:25:22Z",
+      "updated_at": "2019-04-11T11:25:22Z",
+      "material_data": {
+        "title": "Этот негодяй Сидоров",
+        "title_en": "",
+        "year": 1983,
+        "description": "Летний пионерский лагерь для детей разместился в городском этнографическом музее (юного зрителя ожидают комические погони, оживающие картины, говорящие звери и прочее веселое баловство). Прочитав характеристику на Алешу Сидорова все без исключения стали относиться к новичку как к лоботрясу и хулигану — согласно написанному. Однако талантливый парнишка, автор забавных буриме и карикатур, был последовательно и до конца снисходителен и вежлив. А когда в отряде появился настоящий хулиган Сидоров, Алеша решил взять над ним шефство — и стал ему настоящим другом.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/42024.jpg",
+        "duration": 66,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "комедия",
+          "семейный"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 190,
+        "imdb_rating": 5.9,
+        "imdb_votes": 11,
+        "premiere_world": "1984-04-08",
+        "minimal_age": 6,
+        "actors": [
+          "Владислав Галкин",
+          "Татьяна Мартынова",
+          "Валерия Лиходей",
+          "Вячеслав Новиков",
+          "Сергей Арцибашев",
+          "Мария Барабанова",
+          "Марина Шиманская",
+          "Мирча Соцки-Войническу",
+          "Кирилл Головко-Серский",
+          "Нина Красильникова"
+        ],
+        "directors": [
+          "Валентин Горлов"
+        ],
+        "writers": [
+          "Александр Шуров"
+        ],
+        "composers": [
+          "Владимир Давыденко"
+        ],
+        "designers": [
+          "Александр Верещагин"
+        ],
+        "operators": [
+          "Юрий Елхов"
+        ]
+      }
+    },
+    {
       "id": "movie-34695",
       "type": "foreign-movie",
       "link": "",
@@ -6702,415 +7077,6 @@
         ],
         "designers": [
           "Акио Саито"
-        ]
-      }
-    },
-    {
-      "id": "serial-14714",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Холли Хобби",
-      "title_orig": "Holly Hobbie",
-      "translation": {
-        "id": 743,
-        "title": "BaibaKo",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 9,
-      "episodes_count": 9,
-      "kinopoisk_id": "1169213",
-      "imdb_id": "tt8602408",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-02-02T11:54:57Z",
-      "updated_at": "2019-04-08T15:06:47Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/386952/586dcb010dd1efaee98a65b9a1187819/720p",
-            "2": "//kodik.cc/seria/406726/36f261ec7ccd6ddd12f643ee976c3658/720p",
-            "3": "//kodik.cc/seria/406727/3f6a184cd4a88cab2b7a8004d7c44b6c/720p",
-            "4": "//kodik.cc/seria/409915/7f0aa01b1eb955b66a5adefe674b1a5a/720p",
-            "5": "//kodik.cc/seria/410189/03715757e89a844e71aa56b8ce70cdc2/720p",
-            "6": "//kodik.cc/seria/417363/53201958483f3488d5ca37d69cfe9133/720p",
-            "7": "//kodik.cc/seria/424996/5e54c2d641e0b36870ebc76d6050d6ad/720p",
-            "8": "//kodik.cc/seria/424997/f7a3b2740e09d916b405e98b7cd5d4ce/720p",
-            "9": "//kodik.cc/seria/424998/0df04dcaab07e95601dc75dd03316e46/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Холли Хобби",
-        "title_en": "Holly Hobbie",
-        "year": 2018,
-        "description": "Холли Хобби живёт в маленьком городке Коллинсвилл. Холли - 13-летняя певица и поэт, у неё есть лучшие друзья и семья, и она мечтает о спасении мира.",
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "драма",
-          "музыка",
-          "семейный"
-        ],
-        "imdb_rating": 6.5,
-        "imdb_votes": 136,
-        "premiere_world": "2018-11-16",
-        "actors": [
-          "Руби Джей",
-          "Саара Чодри",
-          "Камайя Фэйрбёрн-Грант",
-          "Чарльз Вандерваарт",
-          "Эван Булиунг",
-          "Kate Moyer",
-          "Хантер Диллон",
-          "Эрин Карплак",
-          "Сара Ботсфорд",
-          "Сара Вайсгласс"
-        ],
-        "directors": [
-          "Стефан Брогрен",
-          "Меган Фоллоуз",
-          "Марс Хородуски",
-          "Митчелл Несс",
-          "Jasmin Mozaffari",
-          "Сара Глински"
-        ],
-        "producers": [
-          "Сара Глински",
-          "Энтони Лео",
-          "Эндрю Розен",
-          "Мэттью Уэкслер",
-          "Ryan Wiesbrook",
-          "Коул Бастедо",
-          "Шон Горман",
-          "Karen Vermeulen",
-          "Кортни Джейн Уолкер",
-          "Стефан Брогрен"
-        ],
-        "writers": [
-          "Sara Peters",
-          "Сара Глински",
-          "Кортни Джейн Уолкер",
-          "Коул Бастедо",
-          "Alejandro Alcoba",
-          "Мэтт Хютер",
-          "Аманда Джой",
-          "Jessica Meya"
-        ],
-        "composers": [
-          "Aimee Bessada"
-        ],
-        "editors": [
-          "Лорен Брэндон",
-          "Chris Mutton",
-          "Николас Вонг"
-        ],
-        "designers": [
-          "Эндрю Берри",
-          "Стивен Стэнли",
-          "Кейт Ферри",
-          "Кристен В. О’Рейли",
-          "Джинджер Мартини",
-          "Энди Лоу"
-        ],
-        "operators": [
-          "Митчелл Несс"
-        ]
-      }
-    },
-    {
-      "id": "movie-34588",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Белый взрыв",
-      "title_orig": "Belyy vzryv",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1970,
-      "kinopoisk_id": "46078",
-      "imdb_id": "tt0064079",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-08T11:37:26Z",
-      "updated_at": "2019-04-08T11:37:26Z",
-      "material_data": {
-        "title": "Белый взрыв",
-        "title_en": "",
-        "year": 1969,
-        "description": "Приключенческий фильм о подвиге советских солдат-альпинистов. В 1942 году, во время Великой Отечественной войны, альпинисты ценою своей жизни спасли мирных жителей предгорий Кавказа и обеспечили успех нашим войскам.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/46078.jpg",
-        "duration": 75,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "боевик",
-          "военный",
-          "история"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 1059,
-        "imdb_rating": 6.9,
-        "imdb_votes": 64,
-        "premiere_world": "1969-12-19",
-        "minimal_age": 0,
-        "actors": [
-          "Армен Джигарханян",
-          "Людмила Гурченко",
-          "Сергей Никоненко",
-          "Анатолий Игнатьев",
-          "Федор Одиноков",
-          "Бухути Закариадзе",
-          "Степан Крылов",
-          "Николай Федорцов",
-          "Владимир Высоцкий",
-          "Николай Иванов"
-        ],
-        "directors": [
-          "Станислав Говорухин"
-        ],
-        "writers": [
-          "Станислав Говорухин",
-          "Эдуард Володарский"
-        ],
-        "composers": [
-          "Софья Губайдулина"
-        ],
-        "designers": [
-          "Михаил Заяц"
-        ],
-        "operators": [
-          "Василий Кирбижеков"
-        ]
-      }
-    },
-    {
-      "id": "movie-34573",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Афганец",
-      "title_orig": "Afganets",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1991,
-      "kinopoisk_id": "43421",
-      "imdb_id": "tt0312326",
-      "quality": "VHSRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-08T11:32:16Z",
-      "updated_at": "2019-04-08T11:32:16Z",
-      "material_data": {
-        "title": "Афганец",
-        "title_en": "",
-        "year": 1991,
-        "description": "«Афганец» —  первый фильм дилогии — рассказывает о нелегкой судьбе воина-«афганца» Ивана Коваля, попавшего к душманам и испытавшего все ужасы плена…\n\rЗахватили его при перевозке из гауптвахты на базу, а светило ему 15 лет тюрьмы за убийство духанщика, из дома которого был обстрелян их БТР. Он пытался бежать, его ловили...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/43421.jpg",
-        "duration": 106,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "боевик"
-        ],
-        "kinopoisk_rating": 6.4,
-        "kinopoisk_votes": 366,
-        "imdb_rating": 6,
-        "imdb_votes": 14,
-        "minimal_age": 12,
-        "actors": [
-          "Петр Ярош",
-          "Александр Литовченко",
-          "Виктор Сарайкин",
-          "Игорь Ромащенко",
-          "Максим Дрозд",
-          "Александр Чернявский",
-          "Николай Ковбас",
-          "Алексей Богданович",
-          "Берди Мингбаев",
-          "Джума Норкулов"
-        ],
-        "directors": [
-          "Владимир Мазур"
-        ],
-        "writers": [
-          "Владимир Мазур"
-        ],
-        "composers": [
-          "Олег Кива"
-        ],
-        "designers": [
-          "Евгений Стрилецкий"
-        ],
-        "operators": [
-          "Михаил Мураткин",
-          "Валерий Чумак"
-        ]
-      }
-    },
-    {
-      "id": "movie-34574",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Адмирал Ушаков",
-      "title_orig": "Admiral Ushakov",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1953,
-      "kinopoisk_id": "43409",
-      "imdb_id": "tt0045473",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-08T11:31:32Z",
-      "updated_at": "2019-04-08T11:31:32Z",
-      "material_data": {
-        "title": "Адмирал Ушаков",
-        "title_en": "",
-        "year": 1953,
-        "description": "Историко-биографический фильм о создании в 1779 году русского флота на Черном море под руководством великого русского флотоводца и патриота России - Федора Ушакова (1744-1817).",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/43409.jpg",
-        "duration": 108,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "биография",
-          "драма",
-          "история"
-        ],
-        "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 2219,
-        "imdb_rating": 6.9,
-        "imdb_votes": 162,
-        "premiere_world": "1953-04-23",
-        "minimal_age": 12,
-        "actors": [
-          "Иван Переверзев",
-          "Борис Ливанов",
-          "Сергей Бондарчук",
-          "Владимир Дружников",
-          "Николай Свободин",
-          "Николай Чистяков",
-          "Михаил Пуговкин",
-          "Георгий Юматов",
-          "Ольга Жизнева",
-          "Лев Фенин"
-        ],
-        "directors": [
-          "Михаил Ромм"
-        ],
-        "writers": [
-          "Александр Штейн"
-        ],
-        "composers": [
-          "Арам Хачатурян"
-        ],
-        "designers": [
-          "Алексей Пархоменко",
-          "Леван Шенгелия",
-          "Арнольд Вайсфельд",
-          "Н. Ефимов"
-        ],
-        "operators": [
-          "Чен Ю Лан",
-          "Александр Шеленков"
-        ]
-      }
-    },
-    {
-      "id": "movie-34575",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Искусство жить в Одессе",
-      "title_orig": "Iskusstvo zhit v Odesse",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1989,
-      "kinopoisk_id": "42632",
-      "imdb_id": "tt0097596",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-08T11:30:52Z",
-      "updated_at": "2019-04-08T11:30:52Z",
-      "material_data": {
-        "title": "Искусство жить в Одессе",
-        "title_en": "",
-        "year": 1989,
-        "description": "Фантазия на темы знаменитых и вечных «Одесских рассказов» Исаака Бабеля: неподражаемый одесский юмор и удивительные персонажи во главе с легендарным королем налетчиков Беней Криком.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/42632.jpg",
-        "duration": 107,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "драма",
-          "комедия"
-        ],
-        "kinopoisk_rating": 6.2,
-        "kinopoisk_votes": 702,
-        "imdb_rating": 6.1,
-        "imdb_votes": 71,
-        "premiere_world": "2007-01-21",
-        "minimal_age": 12,
-        "actors": [
-          "Алексей Петренко",
-          "Сергей Колтаков",
-          "Андрей Соколов",
-          "Олег Табаков",
-          "Светлана Крючкова",
-          "Виктор Авилов",
-          "София Кузева",
-          "Александр Ширвиндт",
-          "Зиновий Гердт",
-          "Сергей Мигицко"
-        ],
-        "directors": [
-          "Георгий Юнгвальд-Хилькевич"
-        ],
-        "writers": [
-          "Исаак Бабель",
-          "Георгий Николаев",
-          "Георгий Юнгвальд-Хилькевич"
-        ],
-        "composers": [
-          "Александр Градский"
-        ],
-        "editors": [
-          "Ирина Блогерман"
-        ],
-        "designers": [
-          "Наталья Иевлева",
-          "Татьяна Чапаева",
-          "Т. Мартынова",
-          "Л. Стронская",
-          "Татьяна Трелюдова",
-          "Валентин Юдашкин",
-          "Виктор Фомин",
-          "Н. Носков"
-        ],
-        "operators": [
-          "Феликс Гилевич",
-          "Виктор Ноздрюхин-Заболотный"
         ]
       }
     }

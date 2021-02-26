@@ -1,6 +1,546 @@
 {
   "results": [
     {
+      "id": "movie-60407",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Колыбельная земли",
+      "title_orig": "Daichi no komoriuta",
+      "translation": {
+        "id": 857,
+        "title": "Воротилин",
+        "type": "voice"
+      },
+      "year": 1976,
+      "kinopoisk_id": "123064",
+      "imdb_id": "tt0143203",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-15T10:14:32Z",
+      "updated_at": "2020-09-15T10:14:32Z",
+      "material_data": {
+        "title": "Колыбельная земли",
+        "title_en": "Daichi no komoriuta",
+        "year": 1976,
+        "description": "У О-Рин нет никого, кроме бабушки. Ей 13 лет, она привыкла жить в горах и добывать себе пропитание. Но бабушка умирает, и теперь некому защитить бедную О-Рин. Появляется человек, который сулит ей сытую жизнь на далёком острове. Но О-Рин уверенна, что сможет сама защитить себя от всех невзгод, ведь она сильная и выносливая.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/123064.jpg",
+        "duration": 111,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 6.6,
+        "imdb_votes": 127,
+        "premiere_world": "1976-06-12",
+        "actors": [
+          "Миэко Харада",
+          "Нацуко Кахара",
+          "Мэико Кадзи",
+          "Михоко Накагава",
+          "Эйдзи Окада",
+          "Юсуке Сато",
+          "Кинуё Танака",
+          "Кодзи Уруки"
+        ],
+        "directors": [
+          "Ясудзо Масумура"
+        ],
+        "producers": [
+          "Хироаки Фудзии",
+          "Мотоясу Кимура"
+        ],
+        "writers": [
+          "Kukiko Moto",
+          "Ёсио Сирасака"
+        ],
+        "composers": [
+          "Дзиро Такэмура"
+        ],
+        "editors": [
+          "Тацудзи Накасидзу"
+        ],
+        "designers": [
+          "Сигэо Мано"
+        ],
+        "operators": [
+          "Ёсихиса Накагава"
+        ]
+      }
+    },
+    {
+      "id": "serial-29279",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Ветка маслин",
+      "title_orig": "Zeytin Tepesi",
+      "translation": {
+        "id": 660,
+        "title": "GreenРай Studio",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 7,
+      "episodes_count": 7,
+      "kinopoisk_id": "1046692",
+      "imdb_id": "tt6069196",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-09-15T08:46:13Z",
+      "updated_at": "2020-09-15T08:46:13Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/719326/213661f9dca0c86153fa2810e00f01fd/720p",
+            "2": "//kodik.cc/seria/719327/23632ab4b7edc915dc482bd0d144809f/720p",
+            "3": "//kodik.cc/seria/719328/3bb77c62d90df1eb54f40044402a6867/720p",
+            "4": "//kodik.cc/seria/719329/6645eef3cd24d8de9aaf8b3a7594fe07/720p",
+            "5": "//kodik.cc/seria/719330/1d593f5a0fb82298655f613ef557364b/720p",
+            "6": "//kodik.cc/seria/719331/6dac85b057978b22dec889bafb813dd9/720p",
+            "7": "//kodik.cc/seria/719332/eff92aa59f86d96135599858b53003bb/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Ветка маслин",
+        "title_en": "Zeytin Tepesi",
+        "year": 2014,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1046692.jpg",
+        "duration": 120,
+        "countries": [
+          "Турция"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 4.4,
+        "imdb_votes": 14,
+        "premiere_world": "2014-02-05",
+        "actors": [
+          "Юмит Акар",
+          "Сезги Сена Акай",
+          "Несем Акхан",
+          "Özlem Akinözü",
+          "Таянч Аяйдын",
+          "Салих Бадемджи",
+          "Caner Bala",
+          "Халдун Бойсан",
+          "Melisa Bülbül",
+          "Gaye Cankaya"
+        ],
+        "directors": [
+          "Барыш Йош"
+        ],
+        "producers": [
+          "Özer Erten",
+          "Фатих Аксой",
+          "Фарук Байхан"
+        ],
+        "writers": [
+          "Гулназ Йос Сараджоглу",
+          "Гунес Сараджоглу"
+        ],
+        "composers": [
+          "Калан Музик",
+          "Эрик Сати"
+        ],
+        "editors": [
+          "Энгин Озтюрк"
+        ],
+        "designers": [
+          "Dilek Yelence",
+          "Tulin Beceren",
+          "Yasemin Gorucu"
+        ],
+        "operators": [
+          "Ali Aslan"
+        ]
+      }
+    },
+    {
+      "id": "serial-29250",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Непризнанный школой владыка демонов",
+      "title_orig": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou",
+      "other_title": "Непризнанный школой владыка демонов! Сильнейший владыка демонов в истории поступает в академию, переродившись своим потомком / The Misfit of Demon King Academy: History's Strongest Demon King Reincarnates and Goes to School with His Descendants",
+      "translation": {
+        "id": 1272,
+        "title": "AniLibria.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 11,
+      "episodes_count": 11,
+      "kinopoisk_id": "1392712",
+      "imdb_id": "tt12432974",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10239",
+      "shikimori_id": "40496",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-09-12T06:35:35Z",
+      "updated_at": "2020-09-15T08:25:07Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/718643/d7ebe86a5dff589e027b80726b9b7fbc/720p",
+            "2": "//aniqit.com/seria/718644/dab1347ac5639fbf8e7e5a7d44509b18/720p",
+            "3": "//aniqit.com/seria/718645/a60846dba533b21c8929799e4ca8d6c6/720p",
+            "4": "//aniqit.com/seria/718646/99969e233b1117c76a36d5cd72495676/720p",
+            "5": "//aniqit.com/seria/718647/2fa72af521b626e1a7ad8161aeed646e/720p",
+            "6": "//aniqit.com/seria/718648/cce2c754e5e7c9a858edde327fd679a5/720p",
+            "7": "//aniqit.com/seria/718649/79ec2c26d48f9e590949dfd7429c24b6/720p",
+            "8": "//aniqit.com/seria/718650/268b47b279e28508241d4d74d4613de0/720p",
+            "9": "//aniqit.com/seria/718651/c50d651a2fe6cdb708f517e509b6219c/720p",
+            "10": "//aniqit.com/seria/718699/994f19032eb646c777c841f94ba45684/720p",
+            "11": "//aniqit.com/seria/719319/4f38c841363e4355daf4f17539f99637/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Непризнанный школой владыка демонов",
+        "title_en": "Mao Gakuin no Futekigosha",
+        "other_titles": [
+          "Это первый случай в истории колледжа дьявола"
+        ],
+        "other_titles_en": [
+          "The Misfit of Demon King Academy"
+        ],
+        "other_titles_jp": [
+          "魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～"
+        ],
+        "anime_license_name": "Непригодный для Академии владыки тьмы: сильнейший в истории владыка тьмы перерождается и ходит в школу вместе со своими потомками",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2020,
+        "description": "Безжалостный повелитель демонов Анос перерождается через 2000 лет после своей смерти и обнаруживает, что магии в мире стало меньше, и его потомки ослабли. Анос решает вернуть свой прежний титул, но сначала он должен окончить академию демонов, в которой, однако, его считают полным неудачником.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1392712.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/63fc32848f0b0cccf9d303eb9f860ed2386c8ebd.jpg",
+          "https://shikimori.one/system/screenshots/original/9631aa08a9c9166aafcfc565fabcfeb57c94d32a.jpg"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Демоны",
+          "Магия",
+          "Фэнтези",
+          "Школа",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "SILVER LINK."
+        ],
+        "kinopoisk_rating": 6.8,
+        "kinopoisk_votes": 458,
+        "imdb_rating": 7.3,
+        "imdb_votes": 1013,
+        "shikimori_rating": 7.34,
+        "shikimori_votes": 13255,
+        "premiere_world": "2020-07-04",
+        "aired_at": "2020-07-04",
+        "released_at": "2020-09-26",
+        "rating_mpaa": "R",
+        "episodes_total": 13,
+        "episodes_aired": 13,
+        "actors": [
+          "Тацухиса Судзуки",
+          "Томори Кусуноки",
+          "Юко Нацуёси"
+        ],
+        "directors": [
+          "Масафуми Тамура"
+        ],
+        "composers": [
+          "Кэидзи Инаи"
+        ]
+      }
+    },
+    {
+      "id": "movie-60404",
+      "type": "anime",
+      "link": "",
+      "title": "Певчая птица крыльями не машет: Тучи сгущаются",
+      "title_orig": "Saezuru Tori Wa Habatakanai: The Clouds Gather",
+      "other_title": "Певчая птица крыльями не машет",
+      "translation": {
+        "id": 910,
+        "title": "AniStar",
+        "type": "voice"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1289091",
+      "imdb_id": "tt10675392",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10079",
+      "shikimori_id": "39761",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-15T07:53:23Z",
+      "updated_at": "2020-09-15T07:55:42Z",
+      "material_data": {
+        "title": "Певчая птица крыльями не машет: Тучи сгущаются",
+        "title_en": "Saezuru Tori Wa Habatakanai: The Clouds Gather",
+        "other_titles": [
+          "Twittering Birds Never Fly"
+        ],
+        "other_titles_jp": [
+          "囀る鳥は羽ばたかない The clouds gather"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2020,
+        "description": "Ясиро – молодой лидер группировки якудза и президент Shinseikai Enterprise. На первый взгляд, он обычный успешный бизнесмен, но у него есть мазохистские наклонности. Он никогда не пересекает грань рабочих отношений с подчинёнными, но в его новом телохранителе Тикаре Домэки есть что-то, чему он не может сопротивляться. Ясиро оказывает Домэки знаки внимания, но у того есть причины для отказа. Так начинается история двух мужчин, один из которых злоупотребляет своей властью, чтобы причинить себе боль, а другой добросовестно исполняет каждый его приказ.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1289091.jpg",
+        "duration": 85,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "драма",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Яой"
+        ],
+        "anime_studios": [
+          "GRIZZLY"
+        ],
+        "imdb_rating": 7.2,
+        "imdb_votes": 264,
+        "shikimori_rating": 7.57,
+        "shikimori_votes": 566,
+        "premiere_world": "2020-02-15",
+        "aired_at": "2020-02-15",
+        "rating_mpaa": "R+",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Тарусукэ Сингаки",
+          "Хатано Ватару",
+          "Кэнта Миякэ",
+          "Такахиро Миякэ",
+          "Тору Окава",
+          "Кадзуюки Окицу",
+          "Юки Оно",
+          "Такуя Сато",
+          "Акимицу Такасэ",
+          "Хироки Ясумото"
+        ],
+        "directors": [
+          "Каори Макита"
+        ],
+        "writers": [
+          "Хироси Сэко",
+          "Ко Ёнэда"
+        ],
+        "composers": [
+          "Hzettrio"
+        ],
+        "designers": [
+          "Такаёси Фукусима",
+          "Масару Сато"
+        ],
+        "operators": [
+          "Мицухиро Сато"
+        ]
+      }
+    },
+    {
+      "id": "serial-29278",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Моя геройская академия: Сделай это! Тренировка на выживание",
+      "title_orig": "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren",
+      "other_title": "My Hero Academia: Make It! Do-or-Die Survival Training",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 2,
+      "episodes_count": 2,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10565",
+      "shikimori_id": "42603",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-09-15T06:23:24Z",
+      "updated_at": "2020-09-15T06:23:24Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/719309/cd4934e1203dc26d8615ab9998db8a38/720p",
+            "2": "//aniqit.com/seria/719310/f7c0d3934e53a1676f11d4f5cb6f6b4b/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Моя геройская академия: Сделай это! Тренировка на выживание",
+        "title_en": "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren",
+        "other_titles_en": [
+          "My Hero Academia: Make It! Do-or-Die Survival Training"
+        ],
+        "other_titles_jp": [
+          "僕のヒーローアカデミア 生き残れ！決死のサバイバル訓練"
+        ],
+        "anime_license_name": "Моя геройская академия: Сделай это! Тренировка навыков выживания",
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "description": "Студенты класса 1-А отправляются оттачивать навыки на тренировке по выживанию. Однако они быстро обнаруживают, что опасность, с которой они столкнулись, вполне серьёзна! Им потребуются вся их подготовка, умение работать в команде и быстро принимать решения, если они хотят успешно завершить это задание.",
+        "poster_url": "https://shikimori.one/system/animes/original/42603.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/1264b15e1eb7180807873285792a89b2b0e1d20f.jpg",
+          "https://shikimori.one/system/screenshots/original/fc95ae3954733b37f7ccab463844e41fdbcde987.jpg"
+        ],
+        "anime_genres": [
+          "Супер сила",
+          "Сёнен",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Bones"
+        ],
+        "shikimori_rating": 7.1,
+        "shikimori_votes": 1482,
+        "aired_at": "2020-08-16",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 2,
+        "episodes_aired": 0
+      }
+    },
+    {
+      "id": "movie-60403",
+      "type": "anime",
+      "link": "",
+      "title": "Люпен III: Украденный Люпен",
+      "title_orig": "Rupan sansei: Nusumareta rupan",
+      "other_title": "Люпен III: Украденный Люпен (спецвыпуск 16)",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2004,
+      "kinopoisk_id": "308265",
+      "imdb_id": "tt0834584",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2773",
+      "shikimori_id": "1429",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-15T04:39:46Z",
+      "updated_at": "2020-09-15T04:39:46Z",
+      "material_data": {
+        "title": "Люпен III: Украденный Люпен",
+        "title_en": "Rupan sansei: Nusumareta rupan",
+        "other_titles": [
+          "Lupin III: Stolen Lupin",
+          "Rupan Sansei: Nusumareta Rupan",
+          "Lupin III: Stolen Lupin - Copycat Summer Butterflies"
+        ],
+        "other_titles_jp": [
+          "ルパン三世 「盗まれたルパン ～コピーキャットは真夏の蝶～」"
+        ],
+        "anime_kind": "special",
+        "anime_status": "released",
+        "year": 2004,
+        "tagline": "Lupin the 3rd: Stolen Lupin",
+        "description": "Во время очередной операции по похищению сокровищ Люпен был схвачен неизвестными. Похитители ставят перед легендарным вором условие - выкрасть из сверхохраняемого музея «Глаз Быка», камень, который по преданиям проклят и приносит смерть каждому своему владельцу.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/308265.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/1be12cf863c2cf6cec1131a03d728fca40c9dfd9.jpg",
+          "https://shikimori.one/system/screenshots/original/f4bc2b71ac6d9bf043983fa2fc1a75af8ad5eeb1.jpg"
+        ],
+        "duration": 91,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Комедия",
+          "Приключения",
+          "Сейнен",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "TMS Entertainment"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 98,
+        "imdb_rating": 7,
+        "imdb_votes": 155,
+        "shikimori_rating": 7.09,
+        "shikimori_votes": 140,
+        "premiere_world": "2004-07-30",
+        "aired_at": "2004-07-30",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": 1,
+        "actors": [
+          "Такэси Аоно",
+          "Ю Асакава",
+          "Макио Иноэ",
+          "Киёси Кобаяси",
+          "Канъити Курита",
+          "Эйко Масуяма",
+          "Киёмицу Мидзути",
+          "Кодзи Наката",
+          "Горо Ная",
+          "Тору Синагава"
+        ],
+        "directors": [
+          "Уэда Хидэхито"
+        ],
+        "producers": [
+          "Риеко Оно",
+          "Озаки",
+          "Дзюнъити Ииока"
+        ],
+        "writers": [
+          "Тосимити Окава",
+          "Манки Панч"
+        ],
+        "composers": [
+          "Юдзи Оно"
+        ],
+        "editors": [
+          "Дзюн Тагума"
+        ],
+        "designers": [
+          "Акира Судзуки"
+        ]
+      }
+    },
+    {
       "id": "serial-32534",
       "type": "foreign-serial",
       "link": "",
@@ -476,7 +1016,6 @@
         "title_en": "",
         "year": 1966,
         "description": "Съемки «на скорую» спектакля самодеятельного кукольного театра Ленинградского кораблестроительного института.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1271103.jpg",
         "duration": 21,
         "countries": [
           "СССР"
@@ -755,9 +1294,9 @@
           "Nut"
         ],
         "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 272,
-        "imdb_rating": 7,
-        "imdb_votes": 648,
+        "kinopoisk_votes": 279,
+        "imdb_rating": 7.1,
+        "imdb_votes": 684,
         "shikimori_rating": 7.48,
         "shikimori_votes": 4929,
         "premiere_world": "2020-07-08",
@@ -3556,9 +4095,9 @@
           "Orange"
         ],
         "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 2726,
+        "kinopoisk_votes": 2892,
         "imdb_rating": 7.8,
-        "imdb_votes": 5604,
+        "imdb_votes": 5811,
         "shikimori_rating": 8.05,
         "shikimori_votes": 12223,
         "premiere_world": "2019-10-10",
@@ -5869,9 +6408,9 @@
           "комедия"
         ],
         "kinopoisk_rating": 5.8,
-        "kinopoisk_votes": 360,
+        "kinopoisk_votes": 375,
         "imdb_rating": 6,
-        "imdb_votes": 523,
+        "imdb_votes": 530,
         "premiere_world": "2020-09-11",
         "minimal_age": 16,
         "actors": [
@@ -6325,7 +6864,7 @@
           "P.A. Works"
         ],
         "imdb_rating": 6.9,
-        "imdb_votes": 221,
+        "imdb_votes": 223,
         "shikimori_rating": 7.33,
         "shikimori_votes": 2064,
         "premiere_world": "2020-04-10",
@@ -6920,653 +7459,6 @@
             "5": "//kodik.cc/seria/718756/721a601b32cf573e3b8e3525f5521c7f/720p"
           }
         }
-      }
-    },
-    {
-      "id": "serial-28560",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Танец феникса",
-      "title_orig": "Qie ting feng ming",
-      "other_title": "Dance of the Phoenix / Doctor Phoenix",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 30,
-      "episodes_count": 30,
-      "kinopoisk_id": "1335599",
-      "imdb_id": "tt11311066",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-11T09:10:39Z",
-      "updated_at": "2020-09-12T15:58:49Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/702963/6030600fa23165d4602fe5fe80b1ada6/720p",
-            "2": "//kodik.cc/seria/703545/06baca5ddce4286ae09a95d1cdead164/720p",
-            "3": "//kodik.cc/seria/703899/bc1bdea0d151a7651b5f62dd09bd695f/720p",
-            "4": "//kodik.cc/seria/704911/52be8634f2f4dacfaf2b07cfd651705e/720p",
-            "5": "//kodik.cc/seria/704972/031b82b68250a19eac8b8438930b49ed/720p",
-            "6": "//kodik.cc/seria/705546/71d6fbfbfc8688069eff9f23980309ea/720p",
-            "7": "//kodik.cc/seria/705848/c2d0b3059733a39abf6f2d3b7a11025d/720p",
-            "8": "//kodik.cc/seria/706604/e6ed952b999b5cad9d485a9f98a2b04e/720p",
-            "9": "//kodik.cc/seria/707168/82d32888878c91c245985b3382660549/720p",
-            "10": "//kodik.cc/seria/707876/068cb6c9cc6a88ea5fb0dc23f2d5c246/720p",
-            "11": "//kodik.cc/seria/707916/9294ea8457b1853118f30897a583efc8/720p",
-            "12": "//kodik.cc/seria/709209/89c5339d6c45dcd80b7f82dcb0f20270/720p",
-            "13": "//kodik.cc/seria/709600/be2ede3ed6e3f282bb8db97a54a698dc/720p",
-            "14": "//kodik.cc/seria/711287/d2df6308c4e127a560c42715b53a7d6d/720p",
-            "15": "//kodik.cc/seria/711871/c4d5003ae962093669ab99fc6bfa2959/720p",
-            "16": "//kodik.cc/seria/712477/d95ee1a501012590cb38032f852098b1/720p",
-            "17": "//kodik.cc/seria/713238/5be14f0d27da48cd83197ab6ca61af7f/720p",
-            "18": "//kodik.cc/seria/714063/8edfdab341da567f03e17f18af572679/720p",
-            "19": "//kodik.cc/seria/715319/63dcd9e66d25400c9a3f0fe3cd584b57/720p",
-            "20": "//kodik.cc/seria/716290/f637c0038d4982ae34e10c0fd3b827c8/720p",
-            "21": "//kodik.cc/seria/717055/8b158e81f04feb9a2c355e06ac562a46/720p",
-            "22": "//kodik.cc/seria/717118/25a38290cbfd6c8e3c34d9ab95579dd1/720p",
-            "23": "//kodik.cc/seria/717483/277762a51b5c98c34723465e5a96af98/720p",
-            "24": "//kodik.cc/seria/717822/99594bd938137d997f499ff48cec2fe2/720p",
-            "25": "//kodik.cc/seria/717904/946b78db6b5ff1f01ae21743cf40edaa/720p",
-            "26": "//kodik.cc/seria/717979/c2e01836a9dabc01de949f84e6d07970/720p",
-            "27": "//kodik.cc/seria/718126/2ab682e407444f07150af72af1b7304b/720p",
-            "28": "//kodik.cc/seria/718277/a71a5f0f0c566ce8262de461c281299f/720p",
-            "29": "//kodik.cc/seria/718754/a30f6c9d6fc5206083c844c43343a4e2/720p",
-            "30": "//kodik.cc/seria/718755/5729c077eaad1775d87c7691bee068fb/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Танец феникса",
-        "title_en": "Qie ting feng ming",
-        "year": 2020,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1335599.jpg",
-        "duration": 45,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "мелодрама",
-          "фэнтези"
-        ],
-        "imdb_rating": 7.9,
-        "imdb_votes": 48,
-        "premiere_world": "2020-08-10",
-        "actors": [
-          "Ян Чаоюэ",
-          "Сюй Кайчэн",
-          "Гао Цзицай",
-          "Го Чэн",
-          "Ван Хаосюань",
-          "Чэнь Ихань"
-        ],
-        "directors": [
-          "Чань Ка-Лам"
-        ]
-      }
-    },
-    {
-      "id": "serial-27744",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Гибель Японии 2020",
-      "title_orig": "Nihon Chinbotsu 2020",
-      "other_title": "Japan Sinks 2020",
-      "translation": {
-        "id": 610,
-        "title": "AniLibria.TV",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "kinopoisk_id": "1361529",
-      "imdb_id": "tt12031040",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10245",
-      "shikimori_id": "40515",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-13T08:16:59Z",
-      "updated_at": "2020-09-12T15:20:39Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/685208/7d2beeabb1f986b4f299fa521d710311/720p",
-            "2": "//aniqit.com/seria/688825/84159a85ddab55d5436ec303ab58aa41/720p",
-            "3": "//aniqit.com/seria/692666/09981be2e7e5d7c3b5b1e6b2337fb5cb/720p",
-            "4": "//aniqit.com/seria/697070/4845e9ebb2ca9e5758c6b7ebe24f8773/720p",
-            "5": "//aniqit.com/seria/701928/2763eaccc5757c6e603fd9a14f97fc07/720p",
-            "6": "//aniqit.com/seria/705452/92d472348c8333f8796f56ed72eb0faa/720p",
-            "7": "//aniqit.com/seria/709630/c8ce6d9383fcafc820c3b44ae0496f54/720p",
-            "8": "//aniqit.com/seria/714202/dacb8d8030087705884cf765353f50c9/720p",
-            "9": "//aniqit.com/seria/717476/7a409b897723ca974909417dc2a4a7dc/720p",
-            "10": "//aniqit.com/seria/718745/d47346888a7f74a9a999ea97521a7b12/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Затопление Японии 2020",
-        "title_en": "Nihon Chinbotsu 2020",
-        "other_titles": [
-          "Япония тонет",
-          "Japan Sinks 2020"
-        ],
-        "other_titles_en": [
-          "Japan Sinks: 2020"
-        ],
-        "other_titles_jp": [
-          "日本沈没2020"
-        ],
-        "anime_license_name": "2020: Гибель дракона",
-        "anime_kind": "ona",
-        "anime_status": "released",
-        "year": 2020,
-        "description": "2020 год. После Летних Олимпийских игр в Токио Японию начинает сотрясать серия сильных землетрясений. Учёные предполагают, что происходит мощный сдвиг литосферной плиты, и вскоре весь Японский архипелаг уйдёт под воду - в интернете даже появились видео затопления Окинавы. Среди нарастающего хаоса, пытаясь сохранять оптимизм и не особо понимая масштаб бедствия, японское семейство, примкнувшие к ним соседи и случайные незнакомцы стараются добраться до безопасного места.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1361529.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/0999265174adcd0db87d1808405021858d1ee878.jpg",
-          "https://shikimori.one/system/screenshots/original/1371b94216e875479f016407a5047065067e21f0.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фантастика"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Фантастика"
-        ],
-        "anime_studios": [
-          "Science SARU"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 273,
-        "imdb_rating": 6.5,
-        "imdb_votes": 2237,
-        "shikimori_rating": 6.43,
-        "shikimori_votes": 1742,
-        "premiere_world": "2020-07-09",
-        "aired_at": "2020-07-09",
-        "rating_mpaa": "R",
-        "episodes_total": 10,
-        "episodes_aired": 0,
-        "actors": [
-          "Рэина Уэда",
-          "Томо Муранака",
-          "Юко Сасаки",
-          "Кэнсё Оно",
-          "Хироюки Ёсино",
-          "Масаки Тэрасома",
-          "Нанако Мори",
-          "Джордж Кокл",
-          "Умэдзи Сасаки",
-          "Сиота Томоко"
-        ],
-        "directors": [
-          "Масааки Юаса",
-          "Пён Ган-хо"
-        ],
-        "writers": [
-          "Сакё Комацу",
-          "Тосио Ёситака"
-        ],
-        "composers": [
-          "Кэнсукэ Усио",
-          "Рюити Сакамото"
-        ],
-        "editors": [
-          "Киёси Хиросэ"
-        ],
-        "operators": [
-          "Тосикадзу Куно"
-        ]
-      }
-    },
-    {
-      "id": "serial-28791",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Рубаки: Эволюция-Эр",
-      "title_orig": "Slayers Evolution-R",
-      "other_title": "スレイヤーズEvolution-R",
-      "translation": {
-        "id": 963,
-        "title": "Amazing Dubbing",
-        "type": "voice"
-      },
-      "year": 2009,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "455468",
-      "imdb_id": "tt0112166",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7101",
-      "shikimori_id": "5233",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-19T04:02:21Z",
-      "updated_at": "2020-09-12T13:36:03Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/707138/df5482239c83641a67ab66b2d816e789/720p",
-            "2": "//aniqit.com/seria/708149/fddaa90a840dce55d6b6323dc1a5df0f/720p",
-            "3": "//aniqit.com/seria/709638/c70e2db6779c32182e37a2b1fbf50479/720p",
-            "4": "//aniqit.com/seria/710896/6b8b80672f8ef0d752322e5b6e126ff2/720p",
-            "5": "//aniqit.com/seria/713291/ed4436d215c63f54b9fa3c2610beb8a4/720p",
-            "6": "//aniqit.com/seria/714507/7bcfd94bf8ebb1a84d89f6651051c02d/720p",
-            "7": "//aniqit.com/seria/716520/78a0e2be04c9c413525048b98ece2603/720p",
-            "8": "//aniqit.com/seria/716521/218e05c3f56267d24c949dca62b6d019/720p",
-            "9": "//aniqit.com/seria/717338/5fa976b4dd0607e04ae78cedfc8247d0/720p",
-            "10": "//aniqit.com/seria/717586/99dde70e20945ba2eff64b01b12353d1/720p",
-            "11": "//aniqit.com/seria/717972/e1dfed706e75d1487be4940fb4384241/720p",
-            "12": "//aniqit.com/seria/718476/fadeb7ebb42f0e5866a41a436ecc10ba/720p",
-            "13": "//aniqit.com/seria/718741/47e448dd6e987976f2d7d4786522f331/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Рубаки: Эволюция-Эр",
-        "title_en": "Sureiyâzu evolution-R",
-        "other_titles": [
-          "Slayers 5th Season",
-          "Slayers fifth Series"
-        ],
-        "other_titles_jp": [
-          "スレイヤーズ EVOLUTION-R"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2009,
-        "description": "Странствия рыжей волшебницы Лины, ее верного телохранителя Гаури, а также наивной принцессы Амелии и меланхоличного Зелгадисса продолжаются! Теперь герои ищут таинственный Сосуд Переселения Душ, который, как указано в четвертом сезоне, использовал Красный Священник Резо. Магический артефакт нужен, чтобы помочь заколдованному принцу в обличии летающего зверька Покоты и спасти жителей затерянного города Тафорасии.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/455468.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/68a3bf2abbc878a1e4cc10ff4b2451870a640008.jpg",
-          "https://shikimori.one/system/screenshots/original/36b3599f29fc5d543710f22a3fbbc8568834c51d.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Приключения",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "J.C.Staff"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 303,
-        "imdb_rating": 7.5,
-        "imdb_votes": 2001,
-        "shikimori_rating": 7.42,
-        "shikimori_votes": 1184,
-        "premiere_world": "2009-01-12",
-        "aired_at": "2009-01-12",
-        "released_at": "2009-04-06",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 13,
-        "episodes_aired": 0,
-        "actors": [
-          "Мэгуми Хаясибара",
-          "Ясунори Мацумото",
-          "Масами Судзуки",
-          "Хикару Мидорикава",
-          "Юмико Кобаяси",
-          "Криспин Фриман",
-          "Коллин О’Шонесси",
-          "Лиза Ортис",
-          "Эрик Стюарт",
-          "Вероника Тейлор"
-        ],
-        "directors": [
-          "Такаси Ватанабэ"
-        ],
-        "producers": [
-          "Джастин Кук",
-          "Гэн Фукунага",
-          "Карли Хантер",
-          "Майкл Синтерниклаас"
-        ],
-        "writers": [
-          "Руи Араидзуми",
-          "Хадзимэ Кандзака",
-          "Дзиро Такаяма",
-          "Кацуми Хасэгава",
-          "Митико Ито",
-          "Ясунори Ямада"
-        ]
-      }
-    },
-    {
-      "id": "serial-10074",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Щелкунчик Китаро [ТВ-6]",
-      "title_orig": "Gegege no Kitarou (2018)",
-      "other_title": "Китаро из леса Гегеге",
-      "translation": {
-        "id": 1291,
-        "title": "Crunchyroll.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2018,
-      "last_season": 6,
-      "last_episode": 97,
-      "episodes_count": 96,
-      "kinopoisk_id": "1112074",
-      "imdb_id": "tt7899522",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9547",
-      "shikimori_id": "37140",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-04-12T15:29:01Z",
-      "updated_at": "2020-09-12T13:33:04Z",
-      "seasons": {
-        "6": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/314943/3be133da4c6a3f0264206037672a8edd/720p",
-            "2": "//aniqit.com/seria/314944/5115735bd11aff1f22c2f2e0f2b481b8/720p",
-            "3": "//aniqit.com/seria/314945/18fd7bc6c559583932720c01d78cd825/720p",
-            "4": "//aniqit.com/seria/314946/a2d0ca861e78e913f645cd3c124eae40/720p",
-            "5": "//aniqit.com/seria/718541/3fe95308b717baf911a2292c77299bb6/720p",
-            "6": "//aniqit.com/seria/718542/e2aa915a7fdcde23b7989ac4750024a9/720p",
-            "7": "//aniqit.com/seria/718543/bdf01632e3c3691e2c7d0cea960740d0/720p",
-            "8": "//aniqit.com/seria/718544/294c4c0800e4d42a7f59f65b094e6ab7/720p",
-            "9": "//aniqit.com/seria/718545/208c4d080ae4606d33db38eb301b02f0/720p",
-            "10": "//aniqit.com/seria/718546/666aca65be523fe74b555929e6c34663/720p",
-            "11": "//aniqit.com/seria/718547/a3c099675f6db1e2b5ad34c5906ed797/720p",
-            "12": "//aniqit.com/seria/718548/8791e9a9001f992875e8c58063ac5d5b/720p",
-            "13": "//aniqit.com/seria/718549/3584b27c97ca77d216f94f3df33c3495/720p",
-            "14": "//aniqit.com/seria/718550/fd4c2fc88aa8af93e71f58a2006a9213/720p",
-            "15": "//aniqit.com/seria/718551/34d803f38e18536263e919f57e722b34/720p",
-            "16": "//aniqit.com/seria/718552/8f6824ca6f0ec58b2a0cbc49cbf67d80/720p",
-            "17": "//aniqit.com/seria/718553/ffe1f34be508f764c63643caa9ffc646/720p",
-            "18": "//aniqit.com/seria/718554/0bc3d5d9cbf89629d80bd16d9a97e281/720p",
-            "19": "//aniqit.com/seria/718555/f0bdb959e40b848be99a485cf7f675c2/720p",
-            "20": "//aniqit.com/seria/718556/0edc282342dfe669e7cfd0874fe70aec/720p",
-            "21": "//aniqit.com/seria/718557/d182605b5050ca3a9df7647525b5a80f/720p",
-            "22": "//aniqit.com/seria/718558/753813205a9c2ee7c09fece62a97ad77/720p",
-            "23": "//aniqit.com/seria/718559/b4d824d13c5981000ee2574a1ee74a85/720p",
-            "24": "//aniqit.com/seria/718560/1160992f828679e2f0db9126ae6b00d6/720p",
-            "25": "//aniqit.com/seria/718561/de861d5ce75279d9afde0718ae97194d/720p",
-            "26": "//aniqit.com/seria/718562/5f36fbfc5fad407cd64e2aade13f7032/720p",
-            "27": "//aniqit.com/seria/718563/8a3a2ad70f6d8ff445ac367151314d55/720p",
-            "28": "//aniqit.com/seria/718564/17527bdf4dbf4c921f730b8507ed48d8/720p",
-            "29": "//aniqit.com/seria/718565/b18249286a51f850670f64eb2ca99aa6/720p",
-            "30": "//aniqit.com/seria/718566/e608cdc6a85e8a90f816229d38abf34f/720p",
-            "31": "//aniqit.com/seria/718567/434129185e626b7aa30dbf21700b4cd8/720p",
-            "32": "//aniqit.com/seria/718568/d6a445cb6464d0d1ac3ab8eaa49b72d7/720p",
-            "33": "//aniqit.com/seria/718569/56fbe11ff61b22457da4d833e727c11a/720p",
-            "34": "//aniqit.com/seria/718570/032421f9e278afc6954669fd828c811e/720p",
-            "35": "//aniqit.com/seria/718571/001e50dbb444ddadc62096a54ad31ac9/720p",
-            "36": "//aniqit.com/seria/718572/b2914eff196adc63234a037f2d23dac0/720p",
-            "37": "//aniqit.com/seria/718573/d493fbd9832b3fbe53799f3009ce2a49/720p",
-            "38": "//aniqit.com/seria/718574/35806f4eb993ba8b47ce53d940aa0b5d/720p",
-            "39": "//aniqit.com/seria/718575/a78971e71cc4833b5156449211a1ecba/720p",
-            "40": "//aniqit.com/seria/718576/c27295016c3a98c4c83314f2cae92b0c/720p",
-            "41": "//aniqit.com/seria/718577/d9f36a9eaa0f1085aeca8db6be7cb1db/720p",
-            "42": "//aniqit.com/seria/718578/1f0fcc2b4dc86b25641154784c5451d8/720p",
-            "43": "//aniqit.com/seria/718579/1e8a5f956cb31213339a8d174140baeb/720p",
-            "44": "//aniqit.com/seria/718580/b41e7408f3801a9c64fec8e84f9d4dc1/720p",
-            "45": "//aniqit.com/seria/718581/fc1568f40a63005634c3e7728d76462e/720p",
-            "46": "//aniqit.com/seria/718582/278f30756dd82b9324b67dc7d832f733/720p",
-            "47": "//aniqit.com/seria/718583/57573206a1bd22bdd4fc00afa9755211/720p",
-            "48": "//aniqit.com/seria/718584/ae2316a94ecdecb0b1f557c8d2ff5cfc/720p",
-            "49": "//aniqit.com/seria/718585/b30cfeffbbd7a8408c357e6d92b3e3dc/720p",
-            "50": "//aniqit.com/seria/718586/6e6baea61ed8c0dc08fc845e92c29d48/720p",
-            "51": "//aniqit.com/seria/718587/685ddb56c2ae520f6567888558bd82e6/720p",
-            "52": "//aniqit.com/seria/718588/769e0499d9e35a3e5b53c6b67334583a/720p",
-            "53": "//aniqit.com/seria/718589/0ae031c8cea2e40966a8af3a1d454609/720p",
-            "54": "//aniqit.com/seria/718590/f6b538618ecf9a21590b04da082030e3/720p",
-            "55": "//aniqit.com/seria/718591/29353f535241c32981b100b12a98925b/720p",
-            "56": "//aniqit.com/seria/718592/74be84fc17fc3eb2d84a9387bc458f71/720p",
-            "57": "//aniqit.com/seria/718593/ca1e25febfe9f6fe23b386248ee9030b/720p",
-            "58": "//aniqit.com/seria/718594/bbe889ac1624e7d4cb1b065e35d1d394/720p",
-            "59": "//aniqit.com/seria/718595/59d29d9d1078132456ea4b01594ce686/720p",
-            "60": "//aniqit.com/seria/718596/d2cf6ac4c067f7fba43b29ce64329840/720p",
-            "61": "//aniqit.com/seria/718597/1b4722299d2fa643a8aaca4eed479655/720p",
-            "62": "//aniqit.com/seria/718598/9608390168c84f233abee3e9ec33aeec/720p",
-            "63": "//aniqit.com/seria/718599/b39e6d6675df9800154dc3735d516834/720p",
-            "64": "//aniqit.com/seria/718600/6b83d6e446c7796eabec8094fca61685/720p",
-            "65": "//aniqit.com/seria/718601/5fbc7a1e0ece57ff1a09777f8c48b44c/720p",
-            "66": "//aniqit.com/seria/718602/18ccc041c6169901076c9022cae32a22/720p",
-            "67": "//aniqit.com/seria/718603/35282b0492c8c2a608eba724362a2b11/720p",
-            "68": "//aniqit.com/seria/718736/2d29c9b874cde448e0085544a88a31f9/720p",
-            "69": "//aniqit.com/seria/718605/2f4d0dcb532de93d8b4c2b56e9eff74b/720p",
-            "70": "//aniqit.com/seria/718606/fea5f423fc2d46728af2ab3905e24b1e/720p",
-            "71": "//aniqit.com/seria/718607/6a8620637557af4d509d620012b3770a/720p",
-            "72": "//aniqit.com/seria/718608/80d8bbd180107b9b10d7851f207ff261/720p",
-            "73": "//aniqit.com/seria/718609/bde3b0c8d11cd6b274ddbe052b231cfd/720p",
-            "75": "//aniqit.com/seria/718611/0df70656c8eb37d493a3ccd202ef260f/720p",
-            "76": "//aniqit.com/seria/718612/a9bde2a27fa292e3b2b969613ad61beb/720p",
-            "77": "//aniqit.com/seria/718613/da8189bbf2e4a3cf3723419ef53513f8/720p",
-            "78": "//aniqit.com/seria/718614/6956d857aafab165d92a40963fd0ba41/720p",
-            "79": "//aniqit.com/seria/718615/0a96a0027754df4c078d237011efad41/720p",
-            "80": "//aniqit.com/seria/718616/00e4b796c924a0332d0b6f57282436e8/720p",
-            "81": "//aniqit.com/seria/718617/bbaa956a8dda00c6ddc6b3ae2c408b35/720p",
-            "82": "//aniqit.com/seria/718618/e22765847389ce94d7c5af9c05a61849/720p",
-            "83": "//aniqit.com/seria/718619/e11fc957d52feab92cfd17bccc20a53b/720p",
-            "84": "//aniqit.com/seria/718620/4d8e35d6e4bd9ab9efe56223fd0489ce/720p",
-            "85": "//aniqit.com/seria/718621/2973729feb51d1cde881dc9e718a2147/720p",
-            "86": "//aniqit.com/seria/718622/06c9b259737320082b892d755af8d1d5/720p",
-            "87": "//aniqit.com/seria/718623/60a271ad953a3a300815332c41fb9691/720p",
-            "88": "//aniqit.com/seria/718624/c96664e6cf6ba8b01f88bcdc47157ae6/720p",
-            "89": "//aniqit.com/seria/718625/eb9ddfd5964633fe8d7c8afc7bbb8396/720p",
-            "90": "//aniqit.com/seria/718626/5f38597e9c2da00f0d31b9eac7280bde/720p",
-            "91": "//aniqit.com/seria/718627/155c9675c562934e3b940b65964be11e/720p",
-            "92": "//aniqit.com/seria/718628/d488255f2b93178c8552443cd23da15c/720p",
-            "93": "//aniqit.com/seria/718629/127cd34c53da065e863cd21cc181b636/720p",
-            "94": "//aniqit.com/seria/718630/ed66d056c69a18aab12eebacdbb626a1/720p",
-            "95": "//aniqit.com/seria/718631/f2022314c468f278940aca2cfe4baab7/720p",
-            "96": "//aniqit.com/seria/718632/0a57f84f46675c9dcf4ad7cf1ba73a2e/720p",
-            "97": "//aniqit.com/seria/718633/c634839344ff658ead21ec51e3bbe531/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Щелкунчик Китаро",
-        "title_en": "Gegege no Kitaro",
-        "other_titles": [
-          "Гоготун Китаро",
-          "Spooky Kitaro"
-        ],
-        "other_titles_en": [
-          "GeGeGe no Kitaro"
-        ],
-        "other_titles_jp": [
-          "ゲゲゲの鬼太郎 (2018)"
-        ],
-        "anime_license_name": "GeGeGe no Kitaro",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2018,
-        "description": "Шестая аниме-адаптация по мотивам манги гениального иллюстратора и признанного мастера жанра фольклорных историй из жизни ёкаев Сигэру Мидзуки, скончавшегося в 2015 году в возрасте 93 лет, приуроченная к пятидесятилетию оригинального сериала «Щелкунчик ]».\r\nВ XXI веке с ростом технологического прогресса люди, окружённые больше не считающимися фантасмагорией девайсами и гаджетами, уже не придают значения мифам и легендам и совсем позабыли о существовании ёкаев. Однако ни с того, ни с сего с представителями поколения интернета начинает происходит ряд необъяснимых, с точки зрения современной науки, явлений, которые буквально будоражат общественность настолько, что кровь стынет в жилах.\r\nВ этот момент тринадцатилетняя Мана Инуяма, чтобы докопаться до истины происходящего и защитить своего друга от издевательств со стороны сверстников, обращается через легендарную «Почту ёкаев» к небезызвестному Щелкунчику Китаро, единственному способному утихомирить разбушевавшихся в её городе злых духов. На удивление не ожидавшей своевременного ответа Маны, в тот же вечер перед ней предстаёт самый настоящий представитель потустороннего мира на пару с одноглазым существом, которого зовёт своим отцом, пришедший с целью исполнить её запрос. Так, перед девочкой открывается завеса в мир, сокрытый от взглядов простых смертных, и начинаются её приключения.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1112074.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/3d272e189ef67187f6bc8497c4747e26214dbb90.jpg",
-          "https://shikimori.one/system/screenshots/original/e33b6fc2c55d02034fe6a72492dfcafacdb86a9a.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Демоны",
-          "Комедия",
-          "Сверхъестественное",
-          "Сёнен"
-        ],
-        "anime_studios": [
-          "Toei Animation"
-        ],
-        "imdb_rating": 7.2,
-        "imdb_votes": 75,
-        "shikimori_rating": 7.24,
-        "shikimori_votes": 417,
-        "premiere_world": "2018-04-01",
-        "aired_at": "2018-04-01",
-        "released_at": "2020-03-29",
-        "rating_mpaa": "G",
-        "episodes_total": 97,
-        "episodes_aired": 97,
-        "actors": [
-          "Юкиё Фудзии",
-          "Тосио Фурукава",
-          "Масако Нодзава",
-          "Миюки Савасиро",
-          "Бин Симада",
-          "Умэка Сёдзи",
-          "Маюми Танака",
-          "Каппэи Ямагути"
-        ],
-        "directors": [
-          "Кодзи Огава"
-        ],
-        "writers": [
-          "Сигэру Мидзуки",
-          "Хироси Оноги"
-        ],
-        "composers": [
-          "Ясухару Таканаси"
-        ]
-      }
-    },
-    {
-      "id": "serial-29254",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Вес для любви не помеха",
-      "title_orig": "Chubby Romance",
-      "other_title": "Когда ты любишь себя / Пухлая любовь / Tongtong Yeonae / When You Love Yourself",
-      "translation": {
-        "id": 1471,
-        "title": "DrimDori",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "mdl_id": "32252-when-you-love-yourself",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-09-12T12:41:51Z",
-      "updated_at": "2020-09-12T12:41:51Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/718728/d98be1afde55accda6eae528278a4384/720p",
-            "2": "//kodik.cc/seria/718729/e64e8f9170329a37a2fcc2090df19233/720p",
-            "3": "//kodik.cc/seria/718730/a59d71567a0bcd6c9744553bacad9f5e/720p",
-            "4": "//kodik.cc/seria/718731/513c7802ea958813cb4cfcbd5a98a7ca/720p",
-            "5": "//kodik.cc/seria/718732/544e4bffe9b0bb12cb3771878111787c/720p",
-            "6": "//kodik.cc/seria/718733/43feef53d2059a0df88db23f633db4b4/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-29252",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "В Сеуле",
-      "title_orig": "In Seoul - The Only Way To Be Independent",
-      "other_title": "В Сеул - единственный путь, чтобы быть независимой",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "last_season": 2,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "1286823",
-      "mdl_id": "39199-in-seoul",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-09-12T10:40:47Z",
-      "updated_at": "2020-09-12T10:40:47Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/718713/868c677b9964811978a1e99456955d4d/720p",
-            "2": "//kodik.cc/seria/718714/75dada9a09da7a80461f7aecaca4df06/720p",
-            "3": "//kodik.cc/seria/718715/a77322f23d0c66d6017e458d3f3057a8/720p",
-            "4": "//kodik.cc/seria/718716/2808d684f1f0c473fbccb0a6351a1a73/720p",
-            "5": "//kodik.cc/seria/718717/edb6dff9401c2e61c4cb3102acc0c2d4/720p",
-            "6": "//kodik.cc/seria/718718/a94fb79cb8409232fe2a3dadae5e9a87/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "В Сеуле",
-        "title_en": "Inseoul",
-        "year": 2019,
-        "description": "Поле окончания школы девушка пытается поступить в Сеульский университет.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1286823.jpg",
-        "duration": 20,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "premiere_world": "2019-07-29",
-        "actors": [
-          "Мин До-хи",
-          "Чан Ён-нам",
-          "Рёун",
-          "Чин Е-джу",
-          "Чон Хе-рин",
-          "Ю Би",
-          "Чан Хэс-саль",
-          "Чхве Джун-ха",
-          "Чон Ын-пхё"
-        ],
-        "writers": [
-          "Чон Су-юн"
-        ]
       }
     }
   ]

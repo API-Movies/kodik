@@ -1,6 +1,631 @@
 {
   "results": [
     {
+      "id": "movie-7202",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Любовь для начинающих",
+      "title_orig": "Kyô, koi o hajimemasu",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "652686",
+      "imdb_id": "tt2118667",
+      "quality": "BDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-07-29T12:32:10Z",
+      "updated_at": "2019-12-01T14:55:20Z",
+      "material_data": {
+        "title": "Любовь для начинающих",
+        "title_en": "Kyo, koi o hajimemasu",
+        "year": 2012,
+        "description": "У старшеклассницы Цубаки Хибино есть талант прирожденного парикмахера, но низкая самооценка и склонность к старым немодным шмоткам постоянно делают девушку посмешищем для всего класса. Однажды над ней посмеялся даже её одноклассник-красавец Кёта Цубаки, чем очень досадил нашей героине. Девочка не знала, что парень в неё влюбился, просто не знает как аккуратно показать свои чувства.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/652686.jpg",
+        "duration": 121,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма",
+          "мелодрама"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 501,
+        "imdb_rating": 6.2,
+        "imdb_votes": 743,
+        "premiere_world": "2012-12-08",
+        "actors": [
+          "Кэнто Ямадзаки",
+          "Эми Такэи",
+          "Рин Таканаси",
+          "Фумино Кимура",
+          "Тори Мацудзака",
+          "Саки Такаока",
+          "Сёно Хаяма",
+          "Юми Асо",
+          "Хироаки Мураками",
+          "Юа Синкава"
+        ],
+        "directors": [
+          "Такэси Фурусава"
+        ],
+        "producers": [
+          "Такаси Хирано",
+          "Масаюки Морикава"
+        ],
+        "writers": [
+          "Кэнан Минами",
+          "Таэко Асано"
+        ]
+      }
+    },
+    {
+      "id": "serial-7933",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Танец клинков заклинателей",
+      "title_orig": "Seirei Tsukai no Blade Dance",
+      "other_title": "Танец Клинка Элементалистов / Танец клинка",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 18,
+      "kinopoisk_id": "843903",
+      "imdb_id": "tt3741446",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2133",
+      "shikimori_id": "22877",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-12-29T12:14:53Z",
+      "updated_at": "2019-12-01T14:37:28Z",
+      "seasons": {
+        "0": {
+          "title": "Спешлы без перевода",
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/533419/87f13f4185ca4ba48682e6bda87427a4/720p",
+            "2": "//aniqit.com/seria/533420/825f2c3e7d8a8ecab90bcf31d996f626/720p",
+            "3": "//aniqit.com/seria/533421/c0e1771c0d4d140a97f47427e7fded3f/720p",
+            "4": "//aniqit.com/seria/533422/830ebf24ef3b7eb1e8a8486e2e4812ce/720p",
+            "5": "//aniqit.com/seria/533423/1727b69f2716df0c1d824b1c63aeb221/720p",
+            "6": "//aniqit.com/seria/533424/96668549534ec13774d4c3fd232d7322/720p"
+          }
+        },
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/207559/87f13f4185ca4ba48682e6bda87427a4/720p",
+            "2": "//aniqit.com/seria/207560/825f2c3e7d8a8ecab90bcf31d996f626/720p",
+            "3": "//aniqit.com/seria/207561/c0e1771c0d4d140a97f47427e7fded3f/720p",
+            "4": "//aniqit.com/seria/207562/830ebf24ef3b7eb1e8a8486e2e4812ce/720p",
+            "5": "//aniqit.com/seria/207563/1727b69f2716df0c1d824b1c63aeb221/720p",
+            "6": "//aniqit.com/seria/207564/96668549534ec13774d4c3fd232d7322/720p",
+            "7": "//aniqit.com/seria/207565/21f29b0a9d280d4d72b0e819115cac3c/720p",
+            "8": "//aniqit.com/seria/207566/10864d36ecea120226f6c658d2a86f41/720p",
+            "9": "//aniqit.com/seria/207567/f165562b9c36552688e5dfd352200b61/720p",
+            "10": "//aniqit.com/seria/207568/b7415dbf9a9dd769d7a11861553ff983/720p",
+            "11": "//aniqit.com/seria/207569/5269797645e697fb4dd75ffc88566b21/720p",
+            "12": "//aniqit.com/seria/207570/d435621387efbb2811d2a990073db39e/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Танец клинка",
+        "title_en": "Seirei Tsukai no Blade Dance",
+        "other_titles": [
+          "Танец клинка элементалистов",
+          "Танец меча элементалей",
+          "Seirei Tsukai no Kenbu",
+          "Bladedance of Elementalers"
+        ],
+        "other_titles_en": [
+          "Blade Dance of the Elementalers"
+        ],
+        "other_titles_jp": [
+          "精霊使いの剣舞〈ブレイドダンス〉"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2014,
+        "description": "В фэнтезийном мире заклинателями духов могут быть лишь невинные девы. У мужчин этот дар редок и опасен – люди до сих пор помнят, как Сулейман Проклятый призвал орды демонов. И вот тысячу лет спустя появился еще один духовидец по имени Камито. Выжил парень потому, что с детства учился в тайной школе убийц, а когда ее уничтожили, сумел бежать. Переодевшись девушкой, изгнанник даже выиграл престижный турнир «Танец Клинков» - но, увы, вскоре потерял напарницу, темного духа Рестию. Отчаявшись найти ее самостоятельно, Камито согласился принять помощь. \n\rСиэль Грейворт, могущественная Ведьма Сумерек, предложила Камито перейти в ее магическую академию и выиграть очередной «Танец». Госпожа ректор получала политические бонусы, беглецу была обещана защита и информация о Рестии. Тут все и началось - в итоге герой переехал в комнату некоей розововолосой и вспыльчивой особы, у которой тут же образовались конкурентки. В довершение всего Эст, новый дух Камито, оказалась 10-летней лоли, обожающей спать в постели хозяина в одних чулках. Ехидная ведьма рассчитала верно – в такой компании просто сил не останется стать очередным Князем Тьмы!",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/843903.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/345f91fe0f053769401605b639109e5087020bd6.jpg",
+          "https://shikimori.one/system/screenshots/original/410caec412a5ca1e810ed3024d5a17c14759cbf2.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Гарем",
+          "Комедия",
+          "Романтика",
+          "Сверхъестественное",
+          "Фэнтези",
+          "Школа",
+          "Экшен",
+          "Этти"
+        ],
+        "anime_studios": [
+          "TNK"
+        ],
+        "kinopoisk_rating": 6.5,
+        "kinopoisk_votes": 775,
+        "imdb_rating": 6.6,
+        "imdb_votes": 303,
+        "shikimori_rating": 6.85,
+        "shikimori_votes": 10903,
+        "premiere_world": "2014-05-10",
+        "aired_at": "2014-07-14",
+        "released_at": "2014-09-29",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Макото Фурукава",
+          "Сидзука Исигами",
+          "Аи Какума",
+          "Кана Юки"
+        ]
+      }
+    },
+    {
+      "id": "serial-11897",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Апельсин",
+      "title_orig": "Orange",
+      "other_title": "Орендж",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "1003934",
+      "imdb_id": "tt5839732",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8680",
+      "shikimori_id": "32729",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-08-05T07:39:55Z",
+      "updated_at": "2019-12-01T13:51:04Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/319324/48109ba8402adfbd39387c0b653c2f63/720p",
+            "2": "//aniqit.com/seria/319325/2dbbc0ea17d15ce09be08dd21b88e1ed/720p",
+            "3": "//aniqit.com/seria/319326/98506fe328702ecb8dd3a8bf527686b4/720p",
+            "4": "//aniqit.com/seria/319327/df560c06a94ee57c028b708edca0e63a/720p",
+            "5": "//aniqit.com/seria/319328/d13dd9c0c9d8461eaa63903330df3326/720p",
+            "6": "//aniqit.com/seria/319329/bf9c1f3645dddabb09eb260d754761fe/720p",
+            "7": "//aniqit.com/seria/319330/8dbec373b1d3e42d6a448a7334d59a40/720p",
+            "8": "//aniqit.com/seria/319331/95cd82bab9f23e39862dd9282a65163c/720p",
+            "9": "//aniqit.com/seria/319332/63320e70e6327feec94430de6248836c/720p",
+            "10": "//aniqit.com/seria/319333/60acef7e06f0a55f467a3ac7e3efa47e/720p",
+            "11": "//aniqit.com/seria/319334/53af2446a95a5f8eb4f255b1ecdf8d3e/720p",
+            "12": "//aniqit.com/seria/319335/56192cf5c601944bd315c204d65f69a6/720p",
+            "13": "//aniqit.com/seria/319336/884efe1c50a7e40ff925aab3b6abdaff/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Апельсин",
+        "title_en": "Orange",
+        "other_titles_en": [
+          "Orange"
+        ],
+        "other_titles_jp": [
+          "orange（オレンジ）"
+        ],
+        "anime_license_name": "Апельсин",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2016,
+        "description": "Однажды Нахо Такамия получает письмо от самой себя — взрослой, старше на десять лет. В письме точно описываются события, еще не наступившие, включая перевод нового студента, Какэру Нарусэ, в ее класс.\n\rВ письме взрослая Такамия неоднократно повторяет, что о многом жалеет и хочет все исправить, надеясь, что Нахо из прошлого будет принимать правильные решения, особенно по отношению к Нарусэ. Дочитав письмо, девушка узнает, что в будущем, десять лет спустя, Какэру с ними уже не будет. Нахо из будущего настоятельно просит внимательно приглядывать за Какэру, так как она не хочет потерять столь драгоценного для нее человека.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1003934.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/03c95cb059679b752a2c5087c1881ae4ba345290.png",
+          "https://shikimori.one/system/screenshots/original/b5c415e332a3aaae32630863c82ec8a682d986d2.png"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Романтика",
+          "Сёдзё",
+          "Фантастика",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Telecom Animation Film"
+        ],
+        "kinopoisk_rating": 7.1,
+        "kinopoisk_votes": 1204,
+        "imdb_rating": 7.6,
+        "imdb_votes": 1974,
+        "shikimori_rating": 7.62,
+        "shikimori_votes": 12151,
+        "premiere_world": "2016-07-02",
+        "aired_at": "2016-07-04",
+        "released_at": "2016-09-26",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 13,
+        "episodes_aired": 13,
+        "actors": [
+          "Кана Ханадзава",
+          "Сэиитиро Ямасита",
+          "Макото Фурукава",
+          "Рика Кинугава",
+          "Кадзуюки Окицу",
+          "Нацуми Такамори",
+          "Аянэ Сакура",
+          "Томохиро Цубои",
+          "Кикуко Иноуэ",
+          "Табита Рэй"
+        ],
+        "directors": [
+          "Хироси Хамадзаки",
+          "Наоми Накаяма",
+          "Хидэки Тонокацу",
+          "Таку Ямада",
+          "Таканори Яно",
+          "Рюта Кавахара",
+          "Сатанобу Кикути",
+          "Нобукагэ Кимура",
+          "Такаюки Курияма",
+          "Такахико Кёгоку"
+        ],
+        "writers": [
+          "Аюму Хисао",
+          "Юко Какихара",
+          "Марико Кунисава",
+          "Итиго Такано"
+        ],
+        "composers": [
+          "Хироаки Цуцуми"
+        ],
+        "designers": [
+          "Кэй Итикура"
+        ]
+      }
+    },
+    {
+      "id": "movie-45684",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Погуляй со мной",
+      "title_orig": "Soeng wan",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1286688",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-12-01T13:43:16Z",
+      "updated_at": "2019-12-01T13:43:16Z",
+      "material_data": {
+        "title": "Погуляй со мной",
+        "title_en": "Soeng wan",
+        "year": 2019,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1286688.jpg",
+        "duration": 92,
+        "countries": [
+          "Гонконг",
+          "Малайзия"
+        ],
+        "genres": [
+          "ужасы"
+        ],
+        "imdb_rating": 4.7,
+        "imdb_votes": 76,
+        "premiere_world": "2019-08-22",
+        "actors": [
+          "Мишель Вай",
+          "Алекс Лам"
+        ],
+        "directors": [
+          "Район Ли"
+        ]
+      }
+    },
+    {
+      "id": "movie-45677",
+      "type": "anime",
+      "link": "",
+      "title": "Созданный в Бездне: Блуждающие сумерки",
+      "title_orig": "Made in Abyss: Horo Suru Tasogare",
+      "other_title": "Созданный в Бездне 2: Блуждающие сумерки / Созданный в Бездне (компиляция)",
+      "translation": {
+        "id": 643,
+        "title": "StudioBand",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1252281",
+      "imdb_id": "tt10068544",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9631",
+      "shikimori_id": "37515",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-12-01T13:05:18Z",
+      "updated_at": "2019-12-01T13:06:14Z",
+      "material_data": {
+        "title": "Созданный в Бездне: Блуждающие сумерки",
+        "title_en": "Made in Abyss: Horo Suru Tasogare",
+        "other_titles": [
+          "Made in Abyss Movie 2: Wandering Twilight"
+        ],
+        "other_titles_jp": [
+          "劇場版総集編【後編】メイドインアビス 放浪する黄昏"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "Путешествие Рико и Рега продолжается. Они многому научились у Озен, но впереди их ждут ещё большие опасности, которые могут оборвать их путь, и неожиданные друзья. Они приближаются к такой глубине Бездны, где искатели приключений рискуют потерять даже человеческий облик.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1252281.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/414492db67b9d5a2037c53bbb705b4090f6cf992.png",
+          "https://shikimori.one/system/screenshots/original/171524591021a326ad5df4e1b94800ab60fc1435.png"
+        ],
+        "duration": 110,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "детектив",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Драма",
+          "Приключения",
+          "Фантастика",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Kinema Citrus"
+        ],
+        "kinopoisk_rating": 8,
+        "kinopoisk_votes": 353,
+        "imdb_rating": 7.8,
+        "imdb_votes": 300,
+        "shikimori_rating": 8.34,
+        "shikimori_votes": 2036,
+        "premiere_world": "2019-01-18",
+        "aired_at": "2019-01-18",
+        "rating_mpaa": "R",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Мию Томита",
+          "Мария Исэ",
+          "Сиори Идзава",
+          "Эри Китамура",
+          "Саяка Охара",
+          "Аки Тоёсаки",
+          "Муцуми Тамура",
+          "Манами Нумакура",
+          "Нацуко Хара",
+          "Синдзи Кавада"
+        ],
+        "directors": [
+          "Масаюки Кодзима"
+        ],
+        "writers": [
+          "Акихито Цукуси"
+        ],
+        "composers": [
+          "Кевин Пенкин"
+        ]
+      }
+    },
+    {
+      "id": "serial-6332",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Крейсер Надэсико [ТВ]",
+      "title_orig": "Kidou Senkan Nadesico",
+      "other_title": "Космический Крейсер Надэсико",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 1996,
+      "last_season": 1,
+      "last_episode": 26,
+      "episodes_count": 26,
+      "kinopoisk_id": "401780",
+      "imdb_id": "tt0115263",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=424",
+      "shikimori_id": "218",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-11-20T01:09:16Z",
+      "updated_at": "2019-12-01T12:58:42Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/169510/040adbec77998d02a8ee70fab93dedbe/720p",
+            "2": "//aniqit.com/seria/169511/4fa1655d07ebf2ad46e1de3b9b9b7303/720p",
+            "3": "//aniqit.com/seria/169512/d92f2dc9c59a1deb8a75edb2735736d2/720p",
+            "4": "//aniqit.com/seria/169513/13ae5c0f68316edd881c9e98178b5d34/720p",
+            "5": "//aniqit.com/seria/169514/9ae783aecca01c393547709c690de83b/720p",
+            "6": "//aniqit.com/seria/169515/1e34bec5efbfecf8bc44ade2c66d9b2e/720p",
+            "7": "//aniqit.com/seria/169516/5c94df06cd91148b20f9aa5b3e1c2e67/720p",
+            "8": "//aniqit.com/seria/169517/864bb3ac681da1aece58db635fc0e22c/720p",
+            "9": "//aniqit.com/seria/169518/d2adfe3b540b61e41ac1f0fc7059baad/720p",
+            "10": "//aniqit.com/seria/169519/2315e9c34ce89a69e13433cc0c363b07/720p",
+            "11": "//aniqit.com/seria/169520/9765fa60c4e715a02fbe4104c5b29995/720p",
+            "12": "//aniqit.com/seria/169521/0366ab60f72cdaa3786cc9e5fb495e5f/720p",
+            "13": "//aniqit.com/seria/169522/788aad7d86b04174f776cb3b64a0e44d/720p",
+            "14": "//aniqit.com/seria/169523/3a58d2fda0e027dbd3bb9fd1036ba82b/720p",
+            "15": "//aniqit.com/seria/169524/1c0b03f8ff3863a4bd233ced94d5a4f3/720p",
+            "16": "//aniqit.com/seria/169525/e90ba6d6ab726b0a86cd1dba27f4e625/720p",
+            "17": "//aniqit.com/seria/169526/832421b87703672e68cb22e7487f82bc/720p",
+            "18": "//aniqit.com/seria/169527/fe7c49c3b96115ab2b54e0af875d7df1/720p",
+            "19": "//aniqit.com/seria/169528/3caf327da84c321aefc43dadb40d63c7/720p",
+            "20": "//aniqit.com/seria/169529/09164b489c183666405f138dabd9121e/720p",
+            "21": "//aniqit.com/seria/169530/4458da539623204e86ce7c3877c6dd64/720p",
+            "22": "//aniqit.com/seria/169531/36cb67f4eb207a51969b12b9b5b7853c/720p",
+            "23": "//aniqit.com/seria/169532/072c2f23a7f725b8b6b77b8798cd5c3c/720p",
+            "24": "//aniqit.com/seria/169533/340f4ec2ca2277f5a6bcd4ca364dae64/720p",
+            "25": "//aniqit.com/seria/169534/da45e86975c0e9ac5851491827e2e0fd/720p",
+            "26": "//aniqit.com/seria/169535/9573fda4fb2b40d291946b15078f7bdb/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Крейсер Надэсико",
+        "title_en": "Kidô senkan Nadeshiko",
+        "other_titles_en": [
+          "Martian Successor Nadesico"
+        ],
+        "other_titles_jp": [
+          "機動戦艦ナデシコ"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 1996,
+        "tagline": "Get ready for the wildest space adventure ever!",
+        "description": "Недалекое будущее. На Землю напали инопланетяне. Единственный корабль, который может им противостоять, - крейсер «Надэсико», построенный коммерческой компанией и даже не относящийся к Космическим Силам. Экипаж крейсера - эффективная, но дисфункциональная команда поклонников аниме, ни на минуту не забывающих о своем любимом сериале «Гекигангер-3». К тому же, капитан Юрика - дочь одного из земных адмиралов, влюбляется в повара и пилота Акито. На корабле зреет любовная интрига...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/401780.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/e13c858332dd1e2a0bc34cabc3c5e4ddcc162528.jpg",
+          "https://shikimori.one/system/screenshots/original/db7119680d159d0f8e089ab10e564de351a3c9bb.jpg"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Военное",
+          "Комедия",
+          "Космос",
+          "Меха",
+          "Пародия",
+          "Романтика",
+          "Сёнен",
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Xebec"
+        ],
+        "imdb_rating": 7.6,
+        "imdb_votes": 423,
+        "shikimori_rating": 7.52,
+        "shikimori_votes": 378,
+        "premiere_world": "1996-10-01",
+        "aired_at": "1996-10-01",
+        "released_at": "1997-03-25",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 26,
+        "episodes_aired": 0,
+        "actors": [
+          "Кира Венсан-Дави",
+          "Синтия Мартинес",
+          "Спайк Спенсер",
+          "Марк Ласковски",
+          "Фил Росс",
+          "Джон Свэйзи",
+          "Роб Мангл",
+          "Paul Sidello",
+          "Джей Хикман",
+          "Джейсон Дуглас"
+        ],
+        "directors": [
+          "Тацуо Сато",
+          "Наоёси Кусака",
+          "Нобуёси Хабара",
+          "Ёсихиро Ода",
+          "Такахико Хосиаи",
+          "Хироаки Сакурай",
+          "Тамаки Накацу",
+          "Киётака Охата",
+          "Кунихиса Сугисима",
+          "Ёсими Кацумата"
+        ],
+        "producers": [
+          "Синъити Икэда",
+          "Норико Кобаяси",
+          "Тору Сато",
+          "Юкинао Симодзи",
+          "Минору Оно",
+          "Марк Уильямс"
+        ],
+        "writers": [
+          "Сё Аикава",
+          "Мичитака Кикути",
+          "Нарухиса Аракава",
+          "Хироюки Кавасаки",
+          "Тацуо Сато",
+          "Сатору Акахори",
+          "Нобуёси Хабара",
+          "Такэси Сюдо",
+          "Мицуясу Сакаи"
+        ],
+        "composers": [
+          "Такаюки Хаттори"
+        ],
+        "editors": [
+          "Дэвид Гранди"
+        ],
+        "designers": [
+          "Тосихиса Кояма"
+        ],
+        "operators": [
+          "Hiroaki Matsuzawa",
+          "Юкио Сугияма"
+        ]
+      }
+    },
+    {
       "id": "serial-8231",
       "type": "anime-serial",
       "link": "",
@@ -5574,8 +6199,8 @@
         ],
         "kinopoisk_rating": 6.4,
         "kinopoisk_votes": 106,
-        "shikimori_rating": 6.68,
-        "shikimori_votes": 523,
+        "shikimori_rating": 6.67,
+        "shikimori_votes": 530,
         "premiere_world": "2012-01-05",
         "aired_at": "2013-07-08",
         "released_at": "2013-09-23",
@@ -10874,649 +11499,6 @@
         "operators": [
           "Сюнсукэ Накамура"
         ]
-      }
-    },
-    {
-      "id": "serial-7544",
-      "type": "anime-serial",
-      "link": "",
-      "title": "По ту сторону стекла",
-      "title_orig": "Glasslip",
-      "other_title": "Гласслип",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "843071",
-      "imdb_id": "tt3611294",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2225",
-      "shikimori_id": "23079",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-26T01:10:32Z",
-      "updated_at": "2019-11-30T15:15:52Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/199185/5e5b7b5585db3e72cb55ae9649cee0eb/720p",
-            "2": "//aniqit.com/seria/199186/23b487320e6c555827dd08a9c7f75a0c/720p",
-            "3": "//aniqit.com/seria/199187/acfc6a72a3a1838ae7f6fc39cfe3c034/720p",
-            "4": "//aniqit.com/seria/199188/068dbd37a654a4358ba252a85b26d5bd/720p",
-            "5": "//aniqit.com/seria/199189/b86fc2334f1dd7bca5f406ca6f17dab8/720p",
-            "6": "//aniqit.com/seria/199190/7a5d17e72d4f2f1b20c7be5284c2a620/720p",
-            "7": "//aniqit.com/seria/199191/6d03220c144f1e9c3047c712760fe2aa/720p",
-            "8": "//aniqit.com/seria/199192/4ac7182d2af29280915ed94659afeb76/720p",
-            "9": "//aniqit.com/seria/199193/f3513f604c14ef27d8170f701e422e31/720p",
-            "10": "//aniqit.com/seria/199194/af7e13d29d49976166ef2fbc0f31dd79/720p",
-            "11": "//aniqit.com/seria/199195/c260f23c458da4d6e9ec8cee22b5bf78/720p",
-            "12": "//aniqit.com/seria/199196/22bdb0365c60cf2e267b8bf4bc814ef7/720p",
-            "13": "//aniqit.com/seria/199197/dfc0ebd807e97a28d7f8868175090e9a/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "По ту сторону стекла",
-        "title_en": "Glasslip",
-        "other_titles": [
-          "Стёклышко"
-        ],
-        "other_titles_en": [
-          "Glasslip"
-        ],
-        "other_titles_jp": [
-          "グラスリップ"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2014,
-        "description": "В приморском городке Хинодэхама последнее школьное лето встречает тесная компания пяти старых друзей – двух парней и трех девушек. Понимая, что грядет разлука, и желая сберечь добрую память, ребята ввели «запрет на свидания», уговорившись все делать вместе, не дробясь на парочки. Ведь по-хорошему все равно не получится – спортсмен Юкинари влюблен в оптимистку Токо и не замечает чувства сводной сестры Янаги. Хиро, веселый живчик и лучший друг Юки-куна, боится признаться «тихой мышке» Сати, при этом Сати любит книжки, а Токо любит вообще всех. Хрупкое равновесие компанию устраивает - худой мир лучше доброй ссоры! Все испортил заезжий красавчик Какэру, с ходу заявивший Токо, что она избранная и может видеть будущее, а сам он слышит голоса и вообще продвинутый сэнсэй.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/843071.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/59cd7833c2d583dff0901836a7409ab4195ec214.jpg",
-          "https://shikimori.one/system/screenshots/original/edeb8ec80fafdac89a8217cca1cf7aaeb03421a2.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Повседневность",
-          "Романтика",
-          "Сверхъестественное"
-        ],
-        "anime_studios": [
-          "P.A. Works"
-        ],
-        "kinopoisk_rating": 5.7,
-        "kinopoisk_votes": 295,
-        "imdb_rating": 5,
-        "imdb_votes": 146,
-        "shikimori_rating": 5.45,
-        "shikimori_votes": 0,
-        "premiere_world": "2014-07-03",
-        "aired_at": "2014-07-03",
-        "released_at": "2014-09-25",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 13,
-        "episodes_aired": 13,
-        "directors": [
-          "Дзюндзи Нисимура"
-        ],
-        "producers": [
-          "Дэвид Дель Рио",
-          "Джон Лэдфорд",
-          "Эиити Такахаси"
-        ],
-        "writers": [
-          "Дзюндзи Нисимура",
-          "Rika Satou"
-        ],
-        "composers": [
-          "Акито Мацуда"
-        ],
-        "editors": [
-          "Аюму Такахаси"
-        ],
-        "designers": [
-          "Тосиэ Хонда"
-        ],
-        "operators": [
-          "Сатоси Намики"
-        ]
-      }
-    },
-    {
-      "id": "serial-7512",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Подъём, девчата! [ТВ-1]",
-      "title_orig": "Wake Up, Girls!",
-      "other_title": "Просыпайтесь, девочки! / Проснитесь, девочки!",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "820636",
-      "imdb_id": "tt3199306",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1688",
-      "shikimori_id": "19023",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-25T23:09:23Z",
-      "updated_at": "2019-11-30T15:13:39Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/198734/ae0e2b0035b8c02da49d49edf608aa3f/720p",
-            "2": "//aniqit.com/seria/198735/89641b2bcca33ea14abf10a24e0cb55d/720p",
-            "3": "//aniqit.com/seria/198736/df4c0d068252b7e652a705a59b2dd589/720p",
-            "4": "//aniqit.com/seria/198737/d5744bce8001c36ed6084b7f257a6ea5/720p",
-            "5": "//aniqit.com/seria/198738/ad8ca4c691e60048e49e63633e4c80cc/720p",
-            "6": "//aniqit.com/seria/198739/9a8cf1c155d90355fe7a0c52a1d71395/720p",
-            "7": "//aniqit.com/seria/198740/3fae08c89f61465b2c37dd90916265c4/720p",
-            "8": "//aniqit.com/seria/198741/953a540c5e14456474a95e72eea43357/720p",
-            "9": "//aniqit.com/seria/198742/7c76e84d038a4143712fd7cbfc734c7a/720p",
-            "10": "//aniqit.com/seria/198743/4ee4ca7881ba4562d099eed7e3694f74/720p",
-            "11": "//aniqit.com/seria/198744/9643d07ad84d850550f6fda16e1ae6f4/720p",
-            "12": "//aniqit.com/seria/198745/a5ba4bad6c5c35977f3ae6a081e73b31/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Просыпайтесь, девочки!",
-        "title_en": "Wake Up, Girls!",
-        "other_titles": [
-          "WUG!"
-        ],
-        "other_titles_en": [
-          "Wake Up, Girls!"
-        ],
-        "other_titles_jp": [
-          "Wake Up, Girls！"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2014,
-        "description": "Крошечная продакшн-компания находится на грани банкротства. Президент Тангэ предлагает идею продюсирования идол-группы и отправляет менеджера на поиски новых талантов.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/820636.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/66ff8435feaddd6d9e7194a916b0339f71025fd5.png",
-          "https://shikimori.one/system/screenshots/original/76aef45e545348b0cdfd763898779cd0b5d1e17b.png"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Музыка"
-        ],
-        "anime_studios": [
-          "Tatsunoko Production",
-          "Ordet"
-        ],
-        "imdb_rating": 6.5,
-        "imdb_votes": 73,
-        "shikimori_rating": 6.99,
-        "shikimori_votes": 563,
-        "premiere_world": "2014-01-10",
-        "aired_at": "2014-01-11",
-        "released_at": "2014-03-29",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Ёсино Аояма",
-          "Синтаро Асанума",
-          "Норико Хидака",
-          "Мию Такаги",
-          "Маю Ёсиока",
-          "Каори Фукухара",
-          "Эмири Като",
-          "Рюсэй Накао",
-          "Юка Оцубо",
-          "Нанами Ямасита"
-        ],
-        "directors": [
-          "Ютака Ямамото"
-        ],
-        "composers": [
-          "Сатору Косаки"
-        ]
-      }
-    },
-    {
-      "id": "serial-7068",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Покорение мира: Заговор «Звезды»",
-      "title_orig": "Sekai Seifuku: Bouryaku no Zvezda",
-      "other_title": "Организация «Звезда» / Завоеватели мира - Операция \"Звезда\"",
-      "translation": {
-        "id": 557,
-        "title": "JAM",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "820670",
-      "imdb_id": "tt3399620",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2050",
-      "shikimori_id": "20973",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-07T22:24:56Z",
-      "updated_at": "2019-11-30T15:10:32Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/186384/f2169c9c7f08cbdbcb3243a656faddab/720p",
-            "2": "//aniqit.com/seria/186385/d2b6f9b0c636bc403836713c3c5273a9/720p",
-            "3": "//aniqit.com/seria/186386/cb9cd476e5dde982bc2741c516dca0b2/720p",
-            "4": "//aniqit.com/seria/186387/8acb3338166b3e4f16fadbfe1a7d954d/720p",
-            "5": "//aniqit.com/seria/186388/6487756aa0d64835bea05e878a63022b/720p",
-            "6": "//aniqit.com/seria/186389/0ee154882541f77156c6957746db1d44/720p",
-            "7": "//aniqit.com/seria/186390/d15241583205b30145db23cdb03d9324/720p",
-            "8": "//aniqit.com/seria/186391/2260e01ac5ab7cdf97f8e3b349e8a22f/720p",
-            "9": "//aniqit.com/seria/186392/bd9d10da4b87d14593937c1fe3e04ee2/720p",
-            "10": "//aniqit.com/seria/186393/fbdcafa6b96f8d3823a0fa9a896dec6d/720p",
-            "11": "//aniqit.com/seria/186394/8c85836976afacc6982c9c6da2fb13a6/720p",
-            "12": "//aniqit.com/seria/186395/41428189465267d73c56357b18c33e1c/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Организация «Звезда»",
-        "title_en": "Sekai Seifuku: Bouryaku no Zvezda",
-        "other_titles": [
-          "Sekai Seifuku: Bouryaku no Zvezda"
-        ],
-        "other_titles_en": [
-          "World Conquest Zvezda Plot"
-        ],
-        "other_titles_jp": [
-          "世界征服～謀略のズヴィズダー～"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2014,
-        "description": "Сюжет повествует о секретном обществе под названием «Звезда», целью которого является завоевание мира, при этом руководит им маленькая девочка...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/820670.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/03dd605720c78631f68a1ec1140d997a811963c1.png",
-          "https://shikimori.one/system/screenshots/original/b5c170287b66ffb0d77803d7cf1e81bf4b6871f9.png"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "A-1 Pictures"
-        ],
-        "kinopoisk_rating": 6.2,
-        "kinopoisk_votes": 189,
-        "imdb_rating": 6.8,
-        "imdb_votes": 98,
-        "shikimori_rating": 7.09,
-        "shikimori_votes": 3297,
-        "premiere_world": "2014-01-11",
-        "aired_at": "2014-01-12",
-        "released_at": "2014-03-30",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Мисаки Куно",
-          "Нацуки Ханаэ",
-          "Мария Исэ",
-          "Кана Ханадзава",
-          "Минору Хирота",
-          "Косукэ Ториуми",
-          "Эрии Ямадзаки",
-          "Мао Итимити",
-          "Минако Котобуки",
-          "Канэхира Ямамото"
-        ],
-        "directors": [
-          "Тэнсаи Окамура"
-        ],
-        "composers": [
-          "Тацуя Като"
-        ]
-      }
-    },
-    {
-      "id": "serial-7533",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Помолвлена с незнакомцем",
-      "title_orig": "Mikakunin de Shinkoukei",
-      "other_title": "Engaged to the Unidentified",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "822183",
-      "imdb_id": "tt3358240",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1713",
-      "shikimori_id": "20541",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-25T23:50:34Z",
-      "updated_at": "2019-11-30T15:09:20Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/199033/ec3c4c1f903af2414473515400ca90be/720p",
-            "2": "//aniqit.com/seria/199034/3a4e4f812adba8c1cb6f53f066cd25c7/720p",
-            "3": "//aniqit.com/seria/199035/693699b3772b202dd854938425bf2091/720p",
-            "4": "//aniqit.com/seria/199036/6ed2599ceebfdd0d1a19793d8475ca35/720p",
-            "5": "//aniqit.com/seria/199037/da32063089f5dd7a7ce6cd6a7cc3b647/720p",
-            "6": "//aniqit.com/seria/199038/1850aac94fa50669d55a06e33c0d32a6/720p",
-            "7": "//aniqit.com/seria/199039/a204e2f95e57239796d181d38fa039dc/720p",
-            "8": "//aniqit.com/seria/199040/316b81a81340d3c3760a1e85e168d255/720p",
-            "9": "//aniqit.com/seria/199041/d95123d09366af0e3082408be4c1feb5/720p",
-            "10": "//aniqit.com/seria/199042/992e54bc554265ff29465bd2c9989b6b/720p",
-            "11": "//aniqit.com/seria/199043/9cbbae134fab874345d6179b96121c37/720p",
-            "12": "//aniqit.com/seria/199044/d3bbc1a836b8e040cd9a336dd60c4578/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Помолвлена с незнакомцем",
-        "title_en": "Mikakunin de Shinkoukei",
-        "other_titles": [
-          "Нежданный жених"
-        ],
-        "other_titles_en": [
-          "Engaged to the Unidentified"
-        ],
-        "other_titles_jp": [
-          "未確認で進行形"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2014,
-        "description": "Кобэни Ёномори, симпатичная девушка и отличная хозяйка, получила на 16-й день рождения самый необычный подарок. Мать объявила, что по слову покойного деда, главы клана, Кобэни с детства помолвлена с наследником семьи Мицуминэ, своим ровесником по имени Хакуя. Сам суженый знатного рода, но вырос в горной деревне, и, чтобы обрести городской шик и приобщиться к цивилизации, отныне будет жить с ними – а вот, кстати, и он. Окончательно добило Ёномори-младшую явление вихря энергии в виде малышки Масиро Мицуминэ, которая с порога заявила, что не отдаст братика абы кому и быстро научит невестку жить по закону гор!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/822183.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/9913edd880f5327a7e7759001fa6c9c77daee6f9.jpg",
-          "https://shikimori.one/system/screenshots/original/972a9f1734d88053d92ae2ebe2682d99d439c25e.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность",
-          "Романтика",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Doga Kobo"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 894,
-        "imdb_rating": 7,
-        "imdb_votes": 228,
-        "shikimori_rating": 7.44,
-        "shikimori_votes": 13336,
-        "premiere_world": "2014-01-08",
-        "aired_at": "2014-01-09",
-        "released_at": "2014-03-27",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Хатано Ватару",
-          "Эрико Мацуи",
-          "Харука Тэруи",
-          "Юри Ёсида"
-        ],
-        "directors": [
-          "Ёсиюки Фудзивара"
-        ],
-        "producers": [
-          "Джон Лэдфорд"
-        ],
-        "writers": [
-          "Фумихико Симо"
-        ],
-        "composers": [
-          "Дзюн Итикава"
-        ],
-        "operators": [
-          "Такафуми Кувано"
-        ]
-      }
-    },
-    {
-      "id": "serial-7563",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Прекрасный библиотекарь",
-      "title_orig": "Daitoshokan no Hitsujikai",
-      "other_title": "A Good Librarian Like a Good Shepherd",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "844140",
-      "imdb_id": "tt3896784",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2249",
-      "shikimori_id": "17827",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-26T01:53:23Z",
-      "updated_at": "2019-11-30T15:08:06Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/199538/7a6ca875daf6b606bbc951dd0661d886/720p",
-            "2": "//aniqit.com/seria/199539/3b3c5aca4f7dc5e4c71a285b4014b518/720p",
-            "3": "//aniqit.com/seria/199540/a23d267804881ed66bde066bc3c8a68a/720p",
-            "4": "//aniqit.com/seria/199541/cbb276c5afccf5f02a7b0c48706dd3d6/720p",
-            "5": "//aniqit.com/seria/199542/fff3b2b556d959a45de3f750dcb23ade/720p",
-            "6": "//aniqit.com/seria/199543/030df57caba51a5c4cbafb2e31d9c20e/720p",
-            "7": "//aniqit.com/seria/199544/6c27bcf47fc67e07d59cef78f14bf492/720p",
-            "8": "//aniqit.com/seria/199545/3a7a9f55e92139c26be6d77bf36c11ca/720p",
-            "9": "//aniqit.com/seria/199546/15f5e171ce92f7d7529b290819d7e7ab/720p",
-            "10": "//aniqit.com/seria/199547/c6f7e7ab7cf88f09ff91901f3eef80c0/720p",
-            "11": "//aniqit.com/seria/199548/064a21cba5cf5324f38c6df95241e64f/720p",
-            "12": "//aniqit.com/seria/199549/6d162520de8667fd297161c3055d9eb9/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Прекрасный библиотекарь",
-        "title_en": "Daitoshokan no Hitsujikai",
-        "other_titles_en": [
-          "A Good Librarian Like a Good Shepherd"
-        ],
-        "other_titles_jp": [
-          "大図書館の羊飼い"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2014,
-        "description": "Действие сериала происходит в академии Сиоми, огромной и престижном учебном заведении с «Большой библиотекой», которая может соперничать с национальной библиотекой Японии. Кётаро Какей, член библиотечного клуба, ходит в эту библиотеку просто получая удовольствие от самого чтения. Но однажды она встречает там девушку второгодку по имени Цугуми Сирасаки. Их встреча состоялась благодаря стараниям так называемого «пастуха», который исполняет желания людей. В конце-концов, всё больше и больше девушек вступает в клуб благодаря «пастуху».",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/844140.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/69bb14e7b6de25e50c59e1c10c83264b4c3df972.jpg",
-          "https://shikimori.one/system/screenshots/original/f80d71147ff21143f12a8ede51621582bf545b81.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Романтика",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Hoods Entertainment"
-        ],
-        "kinopoisk_rating": 6.5,
-        "kinopoisk_votes": 267,
-        "imdb_rating": 6.3,
-        "imdb_votes": 72,
-        "shikimori_rating": 6.93,
-        "shikimori_votes": 2496,
-        "premiere_world": "2014-10-08",
-        "aired_at": "2014-10-09",
-        "released_at": "2014-12-25",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Дзюндзи Мадзима",
-          "Юка Саито",
-          "Ацуми Танэдзаки",
-          "Ямамото Нодзоми"
-        ],
-        "directors": [
-          "Юу Нобута"
-        ]
-      }
-    },
-    {
-      "id": "serial-7598",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Притворная любовь OVA-1",
-      "title_orig": "Nisekoi OVA",
-      "other_title": "Любовь понарошку",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 4,
-      "episodes_count": 4,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2318",
-      "shikimori_id": "24227",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-26T04:05:35Z",
-      "updated_at": "2019-11-30T15:06:58Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/200177/c113782e1dff6e6125344c934bfba841/720p",
-            "2": "//aniqit.com/seria/200178/3bdd1d7ea383a2ed419d324afdeb2ccd/720p",
-            "3": "//aniqit.com/seria/200179/acec6cb3c986c2bd81b35ed14e198bda/720p",
-            "4": "//aniqit.com/seria/200180/0cb2e6db2f1a6e6d87d374f3541fdafe/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Притворная любовь OVA",
-        "title_en": "Nisekoi OVA",
-        "other_titles": [
-          "Nisekoi OVA"
-        ],
-        "other_titles_jp": [
-          "ニセコイ OAD"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "description": "Три дополнительных эпизода, выпущенных в комплекте с 14, 16 и 17 томами манги.\r\nЭпизод 1. Адаптация 58-ой главы «Потеря» и 64-ой главы «Жрицы».\r\nЭпизод 2. Адаптация 65-ой главы «Превращение» и 71-ой главы «Работа».\r\nЭпизод 3. Адаптация 81-ой главы «Что за день» и главы 105,5 «Сервис».",
-        "poster_url": "https://shikimori.one/system/animes/original/24227.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/426170d43979c4da2d909e7cdeb9c6df0bd19f48.jpg",
-          "https://shikimori.one/system/screenshots/original/1eaa590d62ba8c7cad0bd413366d07d4c2fe6ca4.jpg"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Комедия",
-          "Романтика",
-          "Сёнен",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Shaft"
-        ],
-        "shikimori_rating": 7.41,
-        "shikimori_votes": 4969,
-        "aired_at": "2014-10-03",
-        "released_at": "2015-04-03",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 3,
-        "episodes_aired": 3
       }
     }
   ]

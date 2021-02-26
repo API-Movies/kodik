@@ -1,6 +1,766 @@
 {
   "results": [
     {
+      "id": "movie-37408",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Поезд в далекий август",
+      "title_orig": "Poezd v dalyokiy avgust",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1971,
+      "kinopoisk_id": "43202",
+      "imdb_id": "tt0067605",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-23T06:06:48Z",
+      "updated_at": "2021-01-18T14:37:44Z",
+      "material_data": {
+        "title": "Поезд в далекий август",
+        "title_en": "",
+        "year": 1971,
+        "description": "О подвиге защитников Одессы, стоявших против трехсоттысячной фашисткой армии, о мужестве и стойкости командиров, солдат и матросов, о личных судьбах некоторых из них.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/43202.jpg",
+        "duration": 100,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "военный",
+          "драма"
+        ],
+        "kinopoisk_rating": 6.4,
+        "kinopoisk_votes": 116,
+        "imdb_rating": 6,
+        "imdb_votes": 12,
+        "premiere_world": "1972-08-28",
+        "minimal_age": 12,
+        "actors": [
+          "Елена Козелькова",
+          "Армен Джигарханян",
+          "Григорий Жуков",
+          "Николай Скоробогатов",
+          "Петр Щербаков",
+          "Геннадий Корольков",
+          "Евгений Буренков",
+          "Николай Дупак",
+          "Константин Степанков",
+          "Вячеслав Кутаков"
+        ],
+        "directors": [
+          "Вадим Лысенко"
+        ],
+        "writers": [
+          "Григорий Поженян"
+        ],
+        "composers": [
+          "Евгений Стихин"
+        ],
+        "editors": [
+          "Татьяна Рымарева"
+        ],
+        "designers": [
+          "Юрий Блаженин",
+          "Павел Холщевников",
+          "Николай Резник",
+          "Владимир Шинкевич"
+        ],
+        "operators": [
+          "Леонид Бурлака"
+        ]
+      }
+    },
+    {
+      "id": "serial-29879",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Живая любовь! Школьный клуб айдолов",
+      "title_orig": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
+      "other_title": "Живая любовь! Клуб идолов старшей школы Нидзигасаки / Love Live! Nijigasaki High School Idol Club",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "1418148",
+      "imdb_id": "tt12792684",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10336",
+      "shikimori_id": "40879",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-10-24T13:07:54Z",
+      "updated_at": "2021-01-18T14:24:39Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/727376/abd932c931de97465f97377d366a9579/720p",
+            "2": "//aniqit.com/seria/727377/c321be1628c1e5bc7437436f84bd7e19/720p",
+            "3": "//aniqit.com/seria/727378/e0ec857da49345ca290a46cc32442e34/720p",
+            "4": "//aniqit.com/seria/729470/adc4d4032607dd1742a552a18491d250/720p",
+            "5": "//aniqit.com/seria/732272/2110286521b5738ca0cb41c3628b4847/720p",
+            "6": "//aniqit.com/seria/734634/95dfe6c5ec39c39c09196c3662d2e0f3/720p",
+            "7": "//aniqit.com/seria/735642/e72c21b70b18e143baaa7273fc3cb155/720p",
+            "8": "//aniqit.com/seria/738134/0d3adaee77f37602c0ab2dbbb5e85828/720p",
+            "9": "//aniqit.com/seria/739574/8b0b396bd4bd19a14b7fa46c692e61ad/720p",
+            "10": "//aniqit.com/seria/741680/de19478587299fd375729e9b3a7ba867/720p",
+            "11": "//aniqit.com/seria/754168/a192b352d857967c907e1a139e223c4e/720p",
+            "12": "//aniqit.com/seria/770436/4cdbde77d82dd9f8d3d2aff026d23598/720p",
+            "13": "//aniqit.com/seria/770437/15116c7a69534a85f5f6e17f57b67d97/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
+        "title_en": "",
+        "other_titles": [
+          "Love Live! Nijigasaki High School Idol Club"
+        ],
+        "other_titles_jp": [
+          "ラブライブ! 虹ヶ咲学園スクールアイドル同好会"
+        ],
+        "anime_license_name": "Love Live! Nijigasaki High School Idol Club",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2020,
+        "poster_url": "https://shikimori.one/system/animes/original/40879.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/9d48fe57b022d39d49444b80887d2362d61ed498.jpg",
+          "https://shikimori.one/system/screenshots/original/65903f5b17762a4b62fd3e57434f940559b2d32f.jpg"
+        ],
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "комедия",
+          "музыка",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Музыка",
+          "Повседневность",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Sunrise"
+        ],
+        "imdb_rating": 8.2,
+        "imdb_votes": 62,
+        "shikimori_rating": 7.62,
+        "shikimori_votes": 476,
+        "premiere_world": "2020-10-03",
+        "aired_at": "2020-10-03",
+        "released_at": "2020-12-26",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 13,
+        "episodes_aired": 13,
+        "actors": [
+          "Акари Кито",
+          "Мииу Кубота",
+          "Томори Кусуноки",
+          "Каори Маэда",
+          "Natsumi Murakami",
+          "Aguri Onishi",
+          "Mayu Sagara",
+          "Мария Сасидэ",
+          "Тиэми Танака",
+          "Hinaki Yano"
+        ],
+        "directors": [
+          "Томоюки Кавамура"
+        ]
+      }
+    },
+    {
+      "id": "movie-66159",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Праздник печеной картошки",
+      "title_orig": "Prazdnik pechyonoy kartoshki",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1977,
+      "kinopoisk_id": "43221",
+      "imdb_id": "tt0171653",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-18T14:19:29Z",
+      "updated_at": "2021-01-18T14:19:29Z",
+      "material_data": {
+        "title": "Праздник печеной картошки",
+        "title_en": "",
+        "year": 1976,
+        "description": "Фильм основан на реальных событиях. Александра Авраамовна Деревская воспитала 48 детей разных национальностей. После её смерти в этой большой семье сохранилась традиция — в день рождения матери на стол подаётся печёная картошка, любимое блюдо главы семьи.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/43221.jpg",
+        "duration": 90,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 7.7,
+        "imdb_votes": 24,
+        "premiere_world": "1977-10-13",
+        "actors": [
+          "Виктор Панченко",
+          "Роман Громадский",
+          "Василий Фушич",
+          "Ирина Чередниченко",
+          "Маргарита Кавка",
+          "Людмила Ефименко",
+          "Леонид Яновский",
+          "Владимир Алексеенко",
+          "Николай Гринько",
+          "Богдан Бенюк"
+        ],
+        "directors": [
+          "Юрий Ильенко"
+        ],
+        "writers": [
+          "Евгений Оноприенко"
+        ],
+        "composers": [
+          "Владимир Губа"
+        ],
+        "designers": [
+          "Сергей Бржестовский"
+        ],
+        "operators": [
+          "Вадим Ильенко"
+        ]
+      }
+    },
+    {
+      "id": "movie-66160",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Репетитор",
+      "title_orig": "Repetitor",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "461889",
+      "imdb_id": "tt4501748",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-18T14:18:12Z",
+      "updated_at": "2021-01-18T14:18:12Z",
+      "material_data": {
+        "title": "Репетитор",
+        "title_en": "",
+        "year": 1987,
+        "description": "Действие фильма происходит в небольшом приморском городке. Местная девушка Катя знакомится с интеллигентным юношей, молодым философом из Москвы, который приехал на отдых вместе с бабушкой, знаменитой в прошлом актрисой...",
+        "duration": 87,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "мелодрама"
+        ],
+        "kinopoisk_rating": 6.4,
+        "kinopoisk_votes": 131,
+        "imdb_rating": 5.6,
+        "imdb_votes": 5,
+        "actors": [
+          "Светлана Селезнева",
+          "Валерий Сторожик",
+          "Людмила Целиковская",
+          "Татьяна Рудина",
+          "Вероника Изотова",
+          "Виктор Ильичев",
+          "Георгий Волчек",
+          "Валентина Кособуцкая",
+          "Людмила Кучеренко",
+          "Светлана Турова"
+        ],
+        "directors": [
+          "Леонид Нечаев"
+        ],
+        "writers": [
+          "Георгий Полонский"
+        ],
+        "composers": [
+          "Игорь Ефремов"
+        ],
+        "editors": [
+          "Людмила Микуло"
+        ],
+        "designers": [
+          "Владимир Дементьев",
+          "Наталья Сардарова"
+        ],
+        "operators": [
+          "Александр Абадовский"
+        ]
+      }
+    },
+    {
+      "id": "movie-66161",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Тайна пещеры Каниюта",
+      "title_orig": "Tayna peshchery Kaniyuta",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1968,
+      "kinopoisk_id": "42216",
+      "imdb_id": "tt0348185",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-18T14:15:57Z",
+      "updated_at": "2021-01-18T14:15:57Z",
+      "material_data": {
+        "title": "Тайна пещеры Каниюта",
+        "title_en": "",
+        "year": 1966,
+        "description": "О борьбе за золото пещеры Каниюта. В 1930-е годы здесь во время раскопок погибла геолог Соколова, которую убил проводник Мухамед, чтобы сохранить тайну пещеры. Десятилетия спустя он вновь появляется в пещере как участник экспедиции под именем Джавхария...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/42216.jpg",
+        "duration": 78,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма",
+          "приключения"
+        ],
+        "premiere_world": "1968-03-18",
+        "actors": [
+          "Бахтиер Касымов",
+          "Алим Ходжаев",
+          "Тамара Кокова",
+          "Закир Мухамеджанов",
+          "Фархад Мурадходжаев",
+          "Татьяна Пилецкая",
+          "Елена Ратникова",
+          "Лола Абдулкаримова",
+          "Людмила Безуглая",
+          "Туган Реджиметов"
+        ],
+        "directors": [
+          "Хабиб Файзиев"
+        ],
+        "writers": [
+          "Игорь Луковский"
+        ],
+        "composers": [
+          "Мухтар Ашрафи"
+        ],
+        "designers": [
+          "Нариман Рахимбаев"
+        ],
+        "operators": [
+          "Николай Рядов"
+        ]
+      }
+    },
+    {
+      "id": "movie-66162",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Три дня Виктора Чернышева",
+      "title_orig": "Tri dnya Viktora Chernyshova",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1968,
+      "kinopoisk_id": "42298",
+      "imdb_id": "tt0153037",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-18T14:06:35Z",
+      "updated_at": "2021-01-18T14:06:35Z",
+      "material_data": {
+        "title": "Три дня Виктора Чернышева",
+        "title_en": "",
+        "year": 1967,
+        "description": "60-е годы. Окончив десятилетку, Виктор Чернышев, теперь городской житель, не стал утруждать себя продолжением образования и пошел на завод токарем. Он считал вполне нормальным, что ребята с упоением слушали россказни его ровесника Коли, тунеядца, хваставшего победами над женщинами, участвовали в его сомнительных забавах. Лишь один из них, Петр - настоящий труженик, врач, пытался вразумить Колю и остальных.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/42298.jpg",
+        "duration": 102,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 7.3,
+        "kinopoisk_votes": 537,
+        "imdb_rating": 7.6,
+        "imdb_votes": 47,
+        "premiere_world": "1968-06-03",
+        "minimal_age": 0,
+        "actors": [
+          "Геннадий Корольков",
+          "Арина Алейникова",
+          "Валерий Беляков",
+          "Алексей Чернов",
+          "Дмитрий Чуковский",
+          "Валентина Владимирова",
+          "Лев Прыгунов",
+          "Геннадий Сайфулин",
+          "Валентина Теличкина",
+          "Ольга Гобзева"
+        ],
+        "directors": [
+          "Марк Осепьян"
+        ],
+        "writers": [
+          "Евгений Григорьев"
+        ],
+        "composers": [
+          "Алексей Рыбников"
+        ],
+        "designers": [
+          "Борис Дуленков"
+        ],
+        "operators": [
+          "Михаил Якович"
+        ]
+      }
+    },
+    {
+      "id": "movie-10365",
+      "type": "russian-movie",
+      "link": "",
+      "title": "В нашем городе",
+      "title_orig": "В нашем городе",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1959,
+      "kinopoisk_id": "45611",
+      "imdb_id": "tt0324400",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-10-01T18:15:01Z",
+      "updated_at": "2021-01-18T14:05:17Z",
+      "material_data": {
+        "title": "В нашем городе",
+        "title_en": "",
+        "year": 1959,
+        "description": "Когда во дворе зазвучал детский оркестр из бутылок, сковородок, бочек и стиральных досок, известный в прошлом музыкант Потехин отнесся к шуму весьма серьезно. У ребят появились настоящие музыкальные инструменты и красный уголок, который юные музыканты сами привели в полный порядок...",
+        "duration": 45,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "premiere_world": "1959-07-23",
+        "actors": [
+          "Лариса Гордейчик",
+          "Александр Лебедев",
+          "Зоя Фёдорова",
+          "Дмитрий Кара-Дмитриев",
+          "Сергей Мартинсон",
+          "Валентина Телегина",
+          "Георгий Милляр",
+          "Петр Савин",
+          "Вера Алтайская",
+          "Эммануил Геллер"
+        ],
+        "directors": [
+          "Лев Дурасов"
+        ],
+        "writers": [
+          "Эдгар Смирнов"
+        ],
+        "composers": [
+          "Александр Варламов"
+        ],
+        "editors": [
+          "Антонина Медведева"
+        ],
+        "designers": [
+          "Георгий Гривцов"
+        ],
+        "operators": [
+          "Петр Емельянов"
+        ]
+      }
+    },
+    {
+      "id": "movie-66163",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Виктория",
+      "title_orig": "Viktoriya (Bumazhnyy patefon)",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "45774",
+      "imdb_id": "tt0334622",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-18T14:04:10Z",
+      "updated_at": "2021-01-18T14:04:10Z",
+      "material_data": {
+        "title": "Виктория",
+        "title_en": "",
+        "year": 1987,
+        "description": "В 1947-м послевоенном году случайно оказались вдвоём Семен Чижов, учащийся школы представителей морского флота и девушка Виктория, которая работает в школе старшей пионервожатой. В фильме говорится о том, как зарождалось чувство любви и как развивались их отношения в течение одной ночи.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/45774.jpg",
+        "duration": 87,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 7.3,
+        "kinopoisk_votes": 125,
+        "imdb_rating": 6.9,
+        "imdb_votes": 9,
+        "premiere_world": "1988-02-25",
+        "minimal_age": 0,
+        "actors": [
+          "Анжелика Неволина",
+          "Глеб Сошников",
+          "Елизавета Никищихина",
+          "Николай Пастухов",
+          "Гражина Байкштите",
+          "Байба Индриксоне"
+        ],
+        "directors": [
+          "Дмитрий Долинин"
+        ],
+        "writers": [
+          "Александр Червинский"
+        ],
+        "composers": [
+          "Геннадий Банщиков"
+        ],
+        "designers": [
+          "Владимир Костин"
+        ],
+        "operators": [
+          "Лев Колганов"
+        ]
+      }
+    },
+    {
+      "id": "movie-66164",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Вторая попытка Виктора Крохина",
+      "title_orig": "Vtoraya popytka Viktora Krokhina",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1977,
+      "kinopoisk_id": "45952",
+      "imdb_id": "tt0076900",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-18T14:03:03Z",
+      "updated_at": "2021-01-18T14:03:03Z",
+      "material_data": {
+        "title": "Вторая попытка Виктора Крохина",
+        "title_en": "",
+        "year": 1977,
+        "description": "Как и многие дети послевоенных лет, Витька рос без отца. Мать много работала, и мальчишку воспитывала улица. Там он научился драться, а упрямство и сила кулаков привели его на ринг. И вскоре уличный мальчишка становится чемпионом Европы по боксу...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/45952.jpg",
+        "duration": 98,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма",
+          "спорт"
+        ],
+        "kinopoisk_rating": 6.8,
+        "kinopoisk_votes": 259,
+        "imdb_rating": 7.1,
+        "imdb_votes": 25,
+        "minimal_age": 0,
+        "actors": [
+          "Александр Харашкевич",
+          "Виктор Полуектов",
+          "Людмила Гурченко",
+          "Николай Рыбников",
+          "Олег Борисов",
+          "Михаил Терентьев",
+          "Владимир Заманский",
+          "Лев Лемке",
+          "Иван Бортник",
+          "Антонина Богданова"
+        ],
+        "directors": [
+          "Игорь Шешуков"
+        ],
+        "writers": [
+          "Эдуард Володарский"
+        ],
+        "composers": [
+          "Вадим Биберган"
+        ],
+        "designers": [
+          "Михаил Герасимов",
+          "Евгений Гуков"
+        ],
+        "operators": [
+          "Владимир Бурыкин"
+        ]
+      }
+    },
+    {
+      "id": "movie-66165",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Зудов, вы уволены!",
+      "title_orig": "Zudov, vy uvoleny",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1984,
+      "kinopoisk_id": "45404",
+      "imdb_id": "tt0088456",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-18T14:00:59Z",
+      "updated_at": "2021-01-18T14:00:59Z",
+      "material_data": {
+        "title": "Зудов, вы уволены!",
+        "title_en": "",
+        "year": 1984,
+        "description": "Герой - сельский киномеханик, человек талантливый и увлеченный. Он снимает сатирические сюжеты из жизни колхоза и показывает их в сельском клубе. Его бьют, пытаются уволить, но он продолжает свое дело.",
+        "duration": 78,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "kinopoisk_rating": 6.3,
+        "kinopoisk_votes": 162,
+        "imdb_rating": 5.6,
+        "imdb_votes": 8,
+        "premiere_world": "1984-07-16",
+        "actors": [
+          "Игорь Ясулович",
+          "Нина Русланова",
+          "Владимир Лизунов",
+          "Марина Дюжева",
+          "Лев Перфилов",
+          "Валентина Талызина",
+          "Юрий Медведев",
+          "Михаил Кокшенов",
+          "Иван Рыжов",
+          "Леонид Оболенский"
+        ],
+        "directors": [
+          "Борис Бушмелёв"
+        ],
+        "writers": [
+          "Леонид Треер"
+        ],
+        "composers": [
+          "Георгий Гаранян"
+        ],
+        "designers": [
+          "Сергей Портной"
+        ],
+        "operators": [
+          "Игорь Бек"
+        ]
+      }
+    },
+    {
+      "id": "movie-66167",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Батыры степей",
+      "title_orig": "Batyri stepey",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1942,
+      "kinopoisk_id": "46044",
+      "imdb_id": "tt0174494",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-01-18T13:54:45Z",
+      "updated_at": "2021-01-18T13:54:45Z",
+      "material_data": {
+        "title": "Батыры степей",
+        "title_en": "",
+        "year": 1942,
+        "description": "После нескольких дней наступления отряд Красной Армии располагается на отдых. На привале воин Куреген рассказывает товарищам по оружию историю подвига легендарного казахского батыра Толагая, который тысячу лет тому назад пожертвовал своей жизнью ради народного блага.",
+        "duration": 37,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "военный"
+        ],
+        "actors": [
+          "Капан Бадыров",
+          "Жагда Огузбаев",
+          "Амина Умурзакова",
+          "Евгений Немченко",
+          "Калибек Куанышпаев"
+        ],
+        "directors": [
+          "Григорий Рошаль"
+        ],
+        "writers": [
+          "Леонид Жежеленко",
+          "Абдильда Тажибаев"
+        ],
+        "composers": [
+          "Николай Крюков"
+        ],
+        "designers": [
+          "Федор Бернштам"
+        ],
+        "operators": [
+          "Галина Пышкова",
+          "Александр Птушко"
+        ]
+      }
+    },
+    {
       "id": "movie-66168",
       "type": "russian-movie",
       "link": "",
@@ -4650,7 +5410,7 @@
         ],
         "anime_license_name": "Клетки за работой!!",
         "anime_kind": "tv",
-        "anime_status": "ongoing",
+        "anime_status": "released",
         "year": 2018,
         "description": "Каждый день клетки усердно работают в мире, который мы называем своим телом. Познакомьтесь с невоспетыми героями и драмой, которая разворачивается внутри вас самих.",
         "poster_url": "https://st.kp.yandex.net/images/film_big/1172367.jpg",
@@ -4675,16 +5435,17 @@
           "David Production"
         ],
         "kinopoisk_rating": 7.4,
-        "kinopoisk_votes": 948,
+        "kinopoisk_votes": 1011,
         "imdb_rating": 7.6,
-        "imdb_votes": 1377,
-        "shikimori_rating": 7.56,
-        "shikimori_votes": 428,
-        "premiere_world": "2018-07-08",
+        "imdb_votes": 1475,
+        "shikimori_rating": 7.51,
+        "shikimori_votes": 432,
+        "premiere_world": "2018-07-07",
         "aired_at": "2021-01-09",
+        "released_at": "2021-02-26",
         "rating_mpaa": "PG-13",
         "episodes_total": 8,
-        "episodes_aired": 7,
+        "episodes_aired": 8,
         "actors": [
           "Мамико Ното",
           "Кана Ханадзава",
@@ -5141,7 +5902,7 @@
         "imdb_rating": 7.6,
         "imdb_votes": 584,
         "shikimori_rating": 8.35,
-        "shikimori_votes": 258,
+        "shikimori_votes": 260,
         "premiere_world": "2013-10-07",
         "aired_at": "2021-01-11",
         "rating_mpaa": "PG-13",
@@ -8945,1113 +9706,6 @@
         "operators": [
           "Койти Нишикубо"
         ]
-      }
-    },
-    {
-      "id": "serial-31902",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Аромат жасмина",
-      "title_orig": "Orange Jasmine Scent",
-      "other_title": "Klin Kaew Klang Jai",
-      "translation": {
-        "id": 1632,
-        "title": "FSG THAI- Lakorn.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2007,
-      "last_season": 1,
-      "last_episode": 37,
-      "episodes_count": 37,
-      "mdl_id": "10216-klin-kaew-klang-jai",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-01-16T21:54:14Z",
-      "updated_at": "2021-01-16T21:54:14Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/769380/884cc8554ed49669e675a6e9c5865b91/720p",
-            "2": "//kodik.cc/seria/769381/8b123672cfb365b50bda539e1cc39db5/720p",
-            "3": "//kodik.cc/seria/769382/8ec19186e739a6388c15995066341ab5/720p",
-            "4": "//kodik.cc/seria/769383/ee2b0516b3027a92c6eda861eb8604d3/720p",
-            "5": "//kodik.cc/seria/769384/1ec9d7254c1b03d53a66972a8ca9ded4/720p",
-            "6": "//kodik.cc/seria/769385/4f441aba4198b77b1e54d4193a786120/720p",
-            "7": "//kodik.cc/seria/769386/636656ef17afb401e9c6d25e0b2d0c1a/720p",
-            "8": "//kodik.cc/seria/769387/75936c5101b3bc37b47528b34e075351/720p",
-            "9": "//kodik.cc/seria/769388/50be2359ac664f97f0185ce0be50d8bb/720p",
-            "10": "//kodik.cc/seria/769389/52e399d70c7808b4378e458d3e934b18/720p",
-            "11": "//kodik.cc/seria/769390/55f92d6be6573d81464878cf424abac0/720p",
-            "12": "//kodik.cc/seria/769391/db4ebcad1791b4571ba8e49fb55019ce/720p",
-            "13": "//kodik.cc/seria/769392/1546867665a72e11e9b5078c8e624474/720p",
-            "14": "//kodik.cc/seria/769393/c840a6ec671e7ce5fe7abe7553ba890f/720p",
-            "15": "//kodik.cc/seria/769394/436d75243506f62465669f11109f03d2/720p",
-            "16": "//kodik.cc/seria/769395/67c76b72b452e10492b2b440330b43ad/720p",
-            "17": "//kodik.cc/seria/769396/770dafb2b31e8526e1b45f2fac6a2fca/720p",
-            "18": "//kodik.cc/seria/769397/afab77d75f88ee87bb7f49be5301af9d/720p",
-            "19": "//kodik.cc/seria/769398/fd08104217e481684c4c5ec452fbd6d9/720p",
-            "20": "//kodik.cc/seria/769399/48e2ee6baf699a0cf09192dfc984ce73/720p",
-            "21": "//kodik.cc/seria/769400/6082070b16e455a4a9fe9feac20e5871/720p",
-            "22": "//kodik.cc/seria/769401/06ce2e2e8158508a7a7c568b0ce90e27/720p",
-            "23": "//kodik.cc/seria/769402/9f8770b7795f0525b6977157b776290c/720p",
-            "24": "//kodik.cc/seria/769403/7687d56dcb93be38a88084372a5e0694/720p",
-            "25": "//kodik.cc/seria/769404/35b14d3ea0ba9f637c6b3fcd5080bead/720p",
-            "26": "//kodik.cc/seria/769405/cd8e1070d2290deda18b120a11972d1c/720p",
-            "27": "//kodik.cc/seria/769406/36c3625763d2fe7f5d17851d33510607/720p",
-            "28": "//kodik.cc/seria/769407/1bbdf6ed452b810f3b4364fb1d8f27f8/720p",
-            "29": "//kodik.cc/seria/769408/ec9251bab2c5a3c354582e9b706dc829/720p",
-            "30": "//kodik.cc/seria/769409/e12f26d35109f7d51d723f369a9dcde2/720p",
-            "31": "//kodik.cc/seria/769410/04afc7b3fdc389ff2c1b33c9a23ff995/720p",
-            "32": "//kodik.cc/seria/769411/e6716f3b67ecd43c7008a214ff653a40/720p",
-            "33": "//kodik.cc/seria/769412/3fb1d1b5b72e25b9429e3236cc1c13bd/720p",
-            "34": "//kodik.cc/seria/769413/2cfc502e775401d708af3a1567ae8c18/720p",
-            "35": "//kodik.cc/seria/769414/f7b52e84bc85b6b9e12849ce133f6762/720p",
-            "36": "//kodik.cc/seria/769415/d24ce6a0561f2d46fd0ea7a999b78aaa/720p",
-            "37": "//kodik.cc/seria/769416/191343094c5861bf32e3defcba841464/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-31901",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Лог Горизонт [ТВ-3]",
-      "title_orig": "Log Horizon: Entaku Houkai",
-      "other_title": "Покорение горизонта: Падение круглого стола / Log Horizon: Destruction of the Round Table",
-      "translation": {
-        "id": 957,
-        "title": "youmiteru",
-        "type": "voice"
-      },
-      "year": 2021,
-      "last_season": 3,
-      "last_episode": 1,
-      "episodes_count": 1,
-      "kinopoisk_id": "804558",
-      "imdb_id": "tt2942218",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10373",
-      "shikimori_id": "41109",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-01-16T17:21:47Z",
-      "updated_at": "2021-01-16T17:21:47Z",
-      "seasons": {
-        "3": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/769302/8e02d94b086769ea724370641637736c/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Хроники Горизонта",
-        "title_en": "Log Horizon",
-        "other_titles": [
-          "Покорение Горизонта: Кризис круглого стола",
-          "Логин Горизонт: Падение круглого стола",
-          "Log Horizon Third Season",
-          "Log Horizon 3rd Season"
-        ],
-        "other_titles_en": [
-          "Log Horizon: Destruction of the Round Table"
-        ],
-        "other_titles_jp": [
-          "ログ・ホライズン 円卓崩壊"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "ongoing",
-        "year": 2013,
-        "description": "История начинается, когда 30.000 японских геймеров оказываются в ловушке фэнтезийной онлайн-игры. То, что раньше было сказочным миром мечей и магии становится реальностью, и весьма суровой. Главный герой истории - юноша Широэ, который пытается выжить в этом жестоком мире вместе со своим лучшим другом Наоцугу и прекрасной убийцей Акацуки.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/804558.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/2d6cbb474a02f2434ea6f3267210675e88e9bb03.jpg",
-          "https://shikimori.one/system/screenshots/original/d9b85d32e8a04a9ef812f67ea977ee14fa95cf7c.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Игры",
-          "Магия",
-          "Приключения",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Studio Deen"
-        ],
-        "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 2994,
-        "imdb_rating": 7.7,
-        "imdb_votes": 3324,
-        "shikimori_rating": 7.29,
-        "shikimori_votes": 602,
-        "premiere_world": "2013-10-05",
-        "aired_at": "2021-01-13",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 7,
-        "actors": [
-          "Майк Ягер",
-          "Дзёдзи Накада",
-          "Йован Джексон",
-          "Такума Тэрасима",
-          "Томоаки Маэно",
-          "Эмири Като",
-          "Katelyn Barr",
-          "Кристал Лапорте",
-          "Даики Ямасита",
-          "Нао Тамура"
-        ],
-        "directors": [
-          "Синдзи Исихира",
-          "Дзюнъити Вада",
-          "Kazunobu Fusegi",
-          "Цуёси Хида",
-          "Нориаки Саито",
-          "Такаси Ано",
-          "Ёсито Хата",
-          "Таканори Яно",
-          "Такааки Исияма",
-          "Кэнити Маэдзима"
-        ],
-        "producers": [
-          "Дэвид Дель Рио",
-          "Джон Лэдфорд",
-          "Эиити Такахаси",
-          "Фумио Канэко",
-          "Ацуко Касиваги",
-          "Хидэаки Миямото",
-          "Кэнъитиро Наэсиро",
-          "Юдзи Сибата"
-        ],
-        "writers": [
-          "Тосидзо Нэмото",
-          "Syouji Masuda",
-          "Mamare Touno",
-          "Синго Ириэ",
-          "Синсукэ Ониси",
-          "Митико Ито"
-        ],
-        "composers": [
-          "Ясухару Таканаси"
-        ],
-        "editors": [
-          "Такэси Садамацу",
-          "Риэ Мацухара"
-        ],
-        "designers": [
-          "Хироки Номура"
-        ],
-        "operators": [
-          "Юудзиро Яманэ",
-          "Синъя Кондо"
-        ]
-      }
-    },
-    {
-      "id": "movie-66080",
-      "type": "anime",
-      "link": "",
-      "title": "Хорошенькое лекарство: Суперзвёзды",
-      "title_orig": "Eiga Precure Super Stars!",
-      "other_title": "映画プリキュアスーパースターズ!",
-      "translation": {
-        "id": 1631,
-        "title": "Indie Dub",
-        "type": "voice"
-      },
-      "year": 2018,
-      "imdb_id": "tt10314522",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9528",
-      "shikimori_id": "36995",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-01-16T15:38:21Z",
-      "updated_at": "2021-01-16T15:38:21Z",
-      "material_data": {
-        "title": "Хорошенькое лекарство: Суперзвёзды",
-        "title_en": "Precure Super Stars! Movie",
-        "other_titles": [
-          "Eiga Precure Super Stars!"
-        ],
-        "other_titles_jp": [
-          "映画プリキュアスーパースターズ!"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "description": "Второй фильм-кроссовер во франшизе «Pretty Cure Stars», в котором участвуют все действующие персонажи «Pretty Cure» из фильма «Mahou Tsukai Pretty Cure»!",
-        "poster_url": "https://shikimori.one/system/animes/original/36995.jpg",
-        "anime_genres": [
-          "Магия",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Toei Animation"
-        ],
-        "shikimori_rating": 6.66,
-        "shikimori_votes": 37,
-        "aired_at": "2018-03-17",
-        "rating_mpaa": "G",
-        "episodes_total": 1,
-        "episodes_aired": 1
-      }
-    },
-    {
-      "id": "serial-31898",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Подземелье Токио",
-      "title_orig": "Tokyo Underground",
-      "other_title": "東京アンダーグラウンド",
-      "translation": {
-        "id": 643,
-        "title": "StudioBand",
-        "type": "voice"
-      },
-      "year": 2002,
-      "last_season": 1,
-      "last_episode": 26,
-      "episodes_count": 26,
-      "kinopoisk_id": "675405",
-      "imdb_id": "tt1547413",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2187",
-      "shikimori_id": "175",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-01-16T14:59:01Z",
-      "updated_at": "2021-01-16T14:59:01Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/769234/17a00adc0d972da70eaa5742e0c73384/720p",
-            "2": "//aniqit.com/seria/769235/de5fa82c402435c1c7adf0cf2ee2bcbe/720p",
-            "3": "//aniqit.com/seria/769236/0f0a98e4e6fd860b46fcceb6b2409ecc/720p",
-            "4": "//aniqit.com/seria/769237/e54826d76565be6f9aae470a9ad5bb83/720p",
-            "5": "//aniqit.com/seria/769238/d23e83dc1d1d95e17dc6db0f6857922f/720p",
-            "6": "//aniqit.com/seria/769239/74d49f3b63682bacfbf8e6d209a483bb/720p",
-            "7": "//aniqit.com/seria/769240/378c324ec7482160ec79a5475c117a20/720p",
-            "8": "//aniqit.com/seria/769241/e821a1d3760da1a59dd7e3a2951a8471/720p",
-            "9": "//aniqit.com/seria/769242/e2ec25b2b4791729888811a48941aa9a/720p",
-            "10": "//aniqit.com/seria/769243/128d6580cf8094d49ab77f659765b6d7/720p",
-            "11": "//aniqit.com/seria/769244/d26c00eb643e705134cf5aebccf3765f/720p",
-            "12": "//aniqit.com/seria/769245/a6ee5d84779cd566490de601902f6269/720p",
-            "13": "//aniqit.com/seria/769246/ea12d49d1b027cdaced5d544ad6e3cac/720p",
-            "14": "//aniqit.com/seria/769247/de3cc1767aeb39342462ba03127fcb3a/720p",
-            "15": "//aniqit.com/seria/769248/289b96d25c69719925cc0edd74f4fbbf/720p",
-            "16": "//aniqit.com/seria/769249/4f6bd554ea76fbcaf80e35b5abaf2447/720p",
-            "17": "//aniqit.com/seria/769250/2a0005ecb6c442b80e4f0979f8c011bd/720p",
-            "18": "//aniqit.com/seria/769251/e771302cffe7b4a211b7f57d8665b1ab/720p",
-            "19": "//aniqit.com/seria/769252/1cfc5ec3268db7aea797e1b2b0b2b90b/720p",
-            "20": "//aniqit.com/seria/769253/da93ea43752e061b67e21ac737d7967f/720p",
-            "21": "//aniqit.com/seria/769254/795234007a75c9ae3b0496ff4d68d26b/720p",
-            "22": "//aniqit.com/seria/769255/ded48ecc43d5fbdc34e54e5b959e8e10/720p",
-            "23": "//aniqit.com/seria/769256/26ced14307bd92c18d0de3220fc0baeb/720p",
-            "24": "//aniqit.com/seria/769257/38e78a7f862aff805eaab523b59a8d79/720p",
-            "25": "//aniqit.com/seria/769258/1377e828eb98c530f6301cb5407ce764/720p",
-            "26": "//aniqit.com/seria/769259/0082113671629f00b636018c16845354/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Подземелье Токио",
-        "title_en": "Tokyo andâguraundo",
-        "other_titles_en": [
-          "Tokyo Underground"
-        ],
-        "other_titles_jp": [
-          "東京アンダーグラウンド"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2002,
-        "description": "Сетсуна всю жизнь тренировался в боевых искуствах и прослыл в средней школе отчаянным бойцом. Перейдя в старшую школу он мечтает о счастливой школьной жизни старшеклассника. А для полного счастья Сетсуне необходима подружка. Однако в первый же день в старшей школе парень ввязался в драку, хоть и по благородным мотивам, но репутация испорчена, и девушки сторонятся забияку. Вернувшись со школы, Сетсуна обнаружил у себя в доме двух весьма симпатичных незнакомок. Девушки сбежали из Подземелья - целого мира, скрытого глубоко под Токио, обитатели которого обладают сверхъестественной властью над стихиями и различными природными явлениями. Беглянки нашли в доме Сетсуны временное прибежище. Но их преследователи незамедлили явиться. Вот тут-то и начались приключения...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/675405.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/d4183d54dab281188ffa6d5746f5c6ca41325cb7.jpg",
-          "https://shikimori.one/system/screenshots/original/bb263dd85f02fab2472be576d09347e11b87faf8.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Приключения",
-          "Романтика",
-          "Супер сила",
-          "Сёнен",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Studio Pierrot"
-        ],
-        "imdb_rating": 6.6,
-        "imdb_votes": 51,
-        "shikimori_rating": 6.64,
-        "shikimori_votes": 313,
-        "premiere_world": "2002-04-02",
-        "aired_at": "2002-04-02",
-        "released_at": "2002-09-24",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 26,
-        "episodes_aired": 0,
-        "actors": [
-          "Гейб Хаут",
-          "Ребекка Шойкет",
-          "Чантал Страндт",
-          "Брэд Свэйл",
-          "Дэвид Кэй",
-          "Табита Сен-Жермен",
-          "Эшли Болл",
-          "Жослин Ловен",
-          "Майкл Адамуэйт",
-          "Уиллоу Джонсон"
-        ],
-        "directors": [
-          "Хаято Датэ",
-          "Ясунори Урата",
-          "Рион Кудзё",
-          "Масахико Мурата",
-          "Сато Масафуми",
-          "Томоэ Аратани",
-          "Сигэнори Аваи",
-          "Масааки Кумагаи",
-          "Кунитоси Окадзима",
-          "Ясухиро Такэмото"
-        ],
-        "producers": [
-          "Фукаси Адзума",
-          "Кэн Хагино",
-          "Наодзи Хонокидани",
-          "Кэисуке Ивата",
-          "Кодзи Тагути",
-          "Tetsuya Watanabe",
-          "Таихэи Яманиси"
-        ],
-        "writers": [
-          "Кацуюки Сумидзава",
-          "Akinobu Uraku",
-          "Сатору Нисидзоно",
-          "Митико Ёкотэ",
-          "Акацуки Яматоя"
-        ],
-        "composers": [
-          "Акифуми Тада"
-        ],
-        "editors": [
-          "Тиэко Такаяма"
-        ],
-        "designers": [
-          "Мио Иссики"
-        ],
-        "operators": [
-          "Ацухо Мацумото"
-        ]
-      }
-    },
-    {
-      "id": "movie-66076",
-      "type": "anime",
-      "link": "",
-      "title": "Повелители Терний",
-      "title_orig": "Ibara no O",
-      "other_title": "Король Терний / King of Thorn / Ibara no Ou",
-      "translation": {
-        "id": 761,
-        "title": "Onibaku",
-        "type": "voice"
-      },
-      "year": 2009,
-      "kinopoisk_id": "542221",
-      "imdb_id": "tt1690483",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7555",
-      "shikimori_id": "6610",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-01-16T14:29:44Z",
-      "updated_at": "2021-01-16T14:29:44Z",
-      "material_data": {
-        "title": "Повелители Терний",
-        "title_en": "Ibara no O",
-        "other_titles": [
-          "Король терний",
-          "Ibara no Oh"
-        ],
-        "other_titles_en": [
-          "King of Thorn"
-        ],
-        "other_titles_jp": [
-          "いばらの王"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2009,
-        "description": "На земле свирепствует неизвестный вирус – медуза. Заражённые им медленно превращаются в камень. Эпидемия распространяется по планете с ужасающей скоростью. 160 счастливчиков ложатся в криогенный сон в надежде, что в будущем создадут вакцину от вируса. Через неопределённое время сон внезапно прерывается, и «счастливчики» обнаруживают себя в мире, заросшем терниями и кишащем ящероподобными монстрами. Сколько они проспали?.. Что случилось с цивилизацией?.. И смогут ли они излечиться от медузы?..",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/542221.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/7cfd69f2dbd5d05cd015668699d9d18860f2142e.jpg",
-          "https://shikimori.one/system/screenshots/original/53a490b09955b7d82299a3f77a5f3fc5b66dead2.jpg"
-        ],
-        "duration": 120,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фантастика"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Триллер",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Sunrise"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 1401,
-        "imdb_rating": 6.4,
-        "imdb_votes": 2427,
-        "shikimori_rating": 7,
-        "shikimori_votes": 3302,
-        "premiere_world": "2010-01-29",
-        "aired_at": "2009-10-09",
-        "rating_mpaa": "R+",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Кана Ханадзава",
-          "Тосиюки Морикава",
-          "Эри Сэндай",
-          "Саяка Охара",
-          "Акико Ядзима",
-          "Кэндзи Номура",
-          "Синъитиро Мики",
-          "Косэи Хирота",
-          "Аяко Кавасуми",
-          "Мисаки Куно"
-        ],
-        "directors": [
-          "Кадзуёси Катаяма"
-        ],
-        "writers": [
-          "Юдзи Ивахара",
-          "Кадзуёси Катаяма",
-          "Патрик Сэйтц",
-          "Акико Яджима",
-          "Хироси Ямагути"
-        ],
-        "composers": [
-          "Тосихико Сахаси"
-        ],
-        "operators": [
-          "Мицухиро Сато"
-        ]
-      }
-    },
-    {
-      "id": "serial-31895",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Амагами СС [ТВ-1]",
-      "title_orig": "Amagami SS",
-      "other_title": "Ласково Кусь: Амагами - драгоценный дневник / Лакомый кусочек / Нежный укус",
-      "translation": {
-        "id": 761,
-        "title": "Onibaku",
-        "type": "voice"
-      },
-      "year": 2010,
-      "last_season": 1,
-      "last_episode": 25,
-      "episodes_count": 28,
-      "kinopoisk_id": "542303",
-      "imdb_id": "tt1685397",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7146",
-      "shikimori_id": "8676",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-01-16T14:28:57Z",
-      "updated_at": "2021-01-16T14:28:57Z",
-      "seasons": {
-        "0": {
-          "title": "Спешлы",
-          "link": "",
-          "episodes": {
-            "3": "//aniqit.com/seria/769197/0008e5c5786c825ba0e45efad413921c/720p",
-            "6": "//aniqit.com/seria/769198/92655c7aab097f4b352123724db0dd1b/720p",
-            "7": "//aniqit.com/seria/769199/eb2a8072642c51ac9ef2615eb3206266/720p"
-          }
-        },
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/769200/72f3f5a0fbe99693a3003417d864321c/720p",
-            "2": "//aniqit.com/seria/769201/31a79ac01ca8bb412720727136dc0ee8/720p",
-            "3": "//aniqit.com/seria/769202/0008e5c5786c825ba0e45efad413921c/720p",
-            "4": "//aniqit.com/seria/769203/32345b73d8876bbfd232550db972f385/720p",
-            "5": "//aniqit.com/seria/769204/8c835b67a280422f353d2c467b6837d6/720p",
-            "6": "//aniqit.com/seria/769205/92655c7aab097f4b352123724db0dd1b/720p",
-            "7": "//aniqit.com/seria/769206/eb2a8072642c51ac9ef2615eb3206266/720p",
-            "8": "//aniqit.com/seria/769207/6a415bcabad70e39971646f342e52eca/720p",
-            "9": "//aniqit.com/seria/769208/98a95f0a6592d25331c5157571c53e59/720p",
-            "10": "//aniqit.com/seria/769209/8e7533e6f7c3eb8a3579eb8d791f36ad/720p",
-            "11": "//aniqit.com/seria/769210/c2513eaf79278b8109a0079fd55456c8/720p",
-            "12": "//aniqit.com/seria/769211/665a1803029ad679cb919caf64e9e4d2/720p",
-            "13": "//aniqit.com/seria/769212/a12b0f8d893a594f62ac0703e3539b69/720p",
-            "14": "//aniqit.com/seria/769213/bbfd2f2a610d12b14ddd6686c3579cbf/720p",
-            "15": "//aniqit.com/seria/769214/597de6048d223325f582d8c9e4cf4d69/720p",
-            "16": "//aniqit.com/seria/769215/ea91014242a5a4fc91e88c4b6320bfba/720p",
-            "17": "//aniqit.com/seria/769216/717a9da87a3b0bb8680908bf5dd15753/720p",
-            "18": "//aniqit.com/seria/769217/0cefcce4ff79a6cfac55430339689151/720p",
-            "19": "//aniqit.com/seria/769218/0e0e1ff23ba337e40364a90807676318/720p",
-            "20": "//aniqit.com/seria/769219/0370de0d41269528753b6145c9243fed/720p",
-            "21": "//aniqit.com/seria/769220/35f821bc59e99c47f8b912e2719c07d8/720p",
-            "22": "//aniqit.com/seria/769221/c9f181934db2055b85e02e47da16f766/720p",
-            "23": "//aniqit.com/seria/769222/cb38e20e11c0d764abc73e82767a1886/720p",
-            "24": "//aniqit.com/seria/769223/561f7b45327e7aded3d5a32a369e973c/720p",
-            "25": "//aniqit.com/seria/769224/97bbd0a2fb110fd56740bb4cb351064e/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Амагами СС",
-        "title_en": "Amagami SS",
-        "other_titles": [
-          "Лакомый кусочек",
-          "Амагами СС"
-        ],
-        "other_titles_en": [
-          "Amagami SS"
-        ],
-        "other_titles_jp": [
-          "アマガミSS"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2010,
-        "description": "Каждый выбирает по себе… Сделать выбор – самое сложное в жизни молодого человека, и это в полной мере испытал 17-летний Дзюнъити Татибана, тихий и скромный японский школьник. Однажды обжегшись в отношениях с прекрасным полом, Дзюн долго «дул на молоко», ограничиваясь картинками и личным планетарием, который оборудовал в собственном стенном шкафу. Но в шкафу вечно не просидишь – природа берет свое, и главный герой обнаруживает, что плодотворно общаться можно не только с книгами, лучшим другом и младшей сестренкой.\n\rСтаршая школа – неиссякаемый источник и опорный камень аниме – так полна соблазнов! Что делать, когда с тобой заговаривает красавица Харука – пусть школьный идол, но приятная в общении и нисколько не зазнающаяся старшеклассница? А может, стоит взглянуть на милую скромницу Саэ, с которой вроде бы свела сама судьба? Или принять вызов Ай – сильной и уверенной в себе спортсменки, да еще подруги сестры? Хотя зачем ходить далеко – ведь в классе есть «своя в доску» бесшабашная Каору, а еще простая и веселая Рихоко? Да и как понимать взгляды старосты Цукасы – по виду типичной отличницы, а вот иногда такое проскакивает… В общем, проблем у Дзюна хватает, а как он будет с ними разбираться, сможет ли вырасти и стать мужчиной – нам покажут авторы аниме!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/542303.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/72a6beafe60e19713e439dd52f80ff978511dbbd.jpg",
-          "https://shikimori.one/system/screenshots/original/d5397d7283958cc04da494e433a9cda50fe7f71e.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность",
-          "Романтика",
-          "Школа"
-        ],
-        "anime_studios": [
-          "AIC"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 612,
-        "imdb_rating": 6.9,
-        "imdb_votes": 342,
-        "shikimori_rating": 7.38,
-        "shikimori_votes": 7179,
-        "premiere_world": "2010-07-01",
-        "aired_at": "2010-07-02",
-        "released_at": "2010-12-24",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 25,
-        "episodes_aired": 25,
-        "actors": [
-          "Томоаки Маэно",
-          "Рина Сато",
-          "Рёко Синтани",
-          "Сидзука Ито",
-          "Кана Асуми",
-          "Каори Надзука",
-          "Хироми Конно",
-          "Такума Тэрасима",
-          "Юкана Ногами",
-          "Ю Асакава"
-        ],
-        "directors": [
-          "Ёсимаса Хираикэ",
-          "Рюити Кимура",
-          "Хироаки Года",
-          "Мицухиро Карато",
-          "Ёсито Нисёдзи",
-          "Кота Окуно",
-          "Осаму Сэкита",
-          "Даисукэ Такасима",
-          "Хироюки Хата",
-          "Томоки Кобаяси"
-        ],
-        "producers": [
-          "Джон Лэдфорд",
-          "Дэвид Дель Рио",
-          "Томохиро Фудзита",
-          "Ёко Фурукава",
-          "Наохиро Футоно",
-          "Наото Касахара",
-          "Тору Миура",
-          "Хироши Мураками",
-          "Синъити Накамура",
-          "Эиити Такахаси"
-        ],
-        "writers": [
-          "Shinonome Tarou",
-          "Ёсимаса Хираикэ",
-          "Токо Матида",
-          "Нобору Кимура"
-        ],
-        "composers": [
-          "Тосиюки Омори"
-        ],
-        "editors": [
-          "Киёси Хиросэ"
-        ],
-        "designers": [
-          "Махо Такахаси"
-        ]
-      }
-    },
-    {
-      "id": "movie-66075",
-      "type": "anime",
-      "link": "",
-      "title": "Чудачество любви не помеха! Фильм о двух влюбленных",
-      "title_orig": "Takanashi Rikka Kai: Gekijouban Chuunibyou demo Koi ga Shitai!",
-      "other_title": "Чудачество любви не помеха! (компиляция)",
-      "translation": {
-        "id": 761,
-        "title": "Onibaku",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "776215",
-      "imdb_id": "tt3203996",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1612",
-      "shikimori_id": "19021",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-01-16T14:24:32Z",
-      "updated_at": "2021-01-16T14:24:32Z",
-      "material_data": {
-        "title": "Чудачество любви не помеха! Фильм о двух влюбленных",
-        "title_en": "Takanashi Rikka Kai: Gekijouban Chuunibyou demo Koi ga Shitai!",
-        "other_titles_en": [
-          "Love, Chunibyo & Other Delusions!: Rikka Version"
-        ],
-        "other_titles_jp": [
-          "小鳥遊六花・改 ～劇場版 中二病でも恋がしたい！～"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2013,
-        "description": "История, рассказанная от лица главной чудачки, обладательницы могущественной силы Злого Глаза – Таканаши Рикки.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/776215.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/d3408b59167524371738d842d287afcced6b288f.jpg",
-          "https://shikimori.one/system/screenshots/original/94db9e85e67e46814eafafe1661dc3c9e34ce3e5.jpg"
-        ],
-        "duration": 90,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Комедия",
-          "Повседневность",
-          "Романтика",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Kyoto Animation"
-        ],
-        "kinopoisk_rating": 7.1,
-        "kinopoisk_votes": 401,
-        "imdb_rating": 6.3,
-        "imdb_votes": 266,
-        "shikimori_rating": 7.35,
-        "shikimori_votes": 4887,
-        "premiere_world": "2013-09-14",
-        "aired_at": "2013-09-14",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Маая Утида",
-          "Дзюн Фукуяма",
-          "Акасаки Тинацу",
-          "Адзуми Асакура",
-          "Сумирэ Уэсака",
-          "Эри Сэндай",
-          "Каори Фукухара",
-          "Мами Ситара",
-          "Юри Амано",
-          "Канаэ Оки"
-        ],
-        "directors": [
-          "Тацуя Исихара"
-        ],
-        "producers": [
-          "Синъити Накамура",
-          "Нагахару Охаси",
-          "Сигэру Саито",
-          "Ёко Хатта",
-          "Сюндзи Иноэ",
-          "Ацуси Исояма",
-          "Ёсихиса Накаяма",
-          "Эиити Такахаси"
-        ],
-        "writers": [
-          "Торако",
-          "Дзюкки Ханада"
-        ],
-        "composers": [
-          "Акито Мацуда"
-        ],
-        "editors": [
-          "Кэнго Сигэмура"
-        ],
-        "designers": [
-          "Муцуо Синохара"
-        ],
-        "operators": [
-          "Рин Ямамото"
-        ]
-      }
-    },
-    {
-      "id": "serial-31894",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Поворот любви",
-      "title_orig": "Love Rotation",
-      "other_title": "Wong Wian Hua Jai / Revolving Hearts / Rotation of the Heart",
-      "translation": {
-        "id": 1499,
-        "title": "ФСГ Альянс.Subtitles\t",
-        "type": "subtitles"
-      },
-      "year": 2009,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "mdl_id": "10130-wong-wien-hua-jai",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-01-16T13:37:46Z",
-      "updated_at": "2021-01-16T13:37:46Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/769180/358b0dc62678eea31070a9e83c4d3657/720p",
-            "2": "//kodik.cc/seria/769181/381ad1755f47ae7288a83c2cb5605207/720p",
-            "3": "//kodik.cc/seria/769182/b870ec1d2d3848db4109a94a1bc060fe/720p",
-            "4": "//kodik.cc/seria/769183/f06d7fece67c5d9011f8c43f8441bbe1/720p",
-            "5": "//kodik.cc/seria/769184/25d69e19b2638119e1d53c9c33fc8709/720p",
-            "6": "//kodik.cc/seria/769185/91e1a0cf59b8cff084eec12fd88ad16c/720p",
-            "7": "//kodik.cc/seria/769186/a4513cf8926c71076fa5924a80013780/720p",
-            "8": "//kodik.cc/seria/769187/e9d7811463997b1680461611a6883e78/720p",
-            "9": "//kodik.cc/seria/769188/2667cd0d286c6ea6e54d31e923377e73/720p",
-            "10": "//kodik.cc/seria/769189/9d2a0f0f103142576c13509b2336bc03/720p",
-            "11": "//kodik.cc/seria/769190/75aa8524bdf79c91e0a0fcfa7c42e447/720p",
-            "12": "//kodik.cc/seria/769191/2a136f2f20170cb3015592097cfd9fea/720p",
-            "13": "//kodik.cc/seria/769192/c0d95e68b0c8afa08a6b2771342637ad/720p",
-            "14": "//kodik.cc/seria/769193/f3c39baf1fa85d04a641d5ead79bbd49/720p",
-            "15": "//kodik.cc/seria/769194/a7c7a0192715ff80a9fa26009436fe1e/720p",
-            "16": "//kodik.cc/seria/769195/2a692c41f4f555aba7ccb7c12756e1b9/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "movie-66074",
-      "type": "anime",
-      "link": "",
-      "title": "Врата Штейна: Найти недостающее звено — Деление на ноль",
-      "title_orig": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
-      "translation": {
-        "id": 761,
-        "title": "Onibaku",
-        "type": "voice"
-      },
-      "year": 2015,
-      "shikimori_id": "32188",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-01-16T13:10:35Z",
-      "updated_at": "2021-01-16T13:10:35Z",
-      "material_data": {
-        "title": "Врата Штейна: Найти недостающее звено — Деление на ноль",
-        "title_en": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
-        "other_titles": [
-          "Нахождение недостающего звена",
-          "Steins Gate: Episode 23 (β)",
-          "Open the Missing Link"
-        ],
-        "other_titles_jp": [
-          "シュタインズ・ゲート境界面上のミッシングリンク-Divide By Zero-"
-        ],
-        "anime_kind": "special",
-        "anime_status": "released",
-        "description": "Специальный эпизод, включенный в Blu-ray издание Steins;Gate Complete.\r\nАльтернативное завершение Steins;Gate, повествующее о событиях, происходивших в поле аттрактора β. Окабэ не получает послания из будущего, что подводит к началу истории Steins;Gate 0.",
-        "poster_url": "https://shikimori.one/system/animes/original/32188.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/aec7e5ed89d4b132046858d49cf6091824c75861.jpg",
-          "https://shikimori.one/system/screenshots/original/b09b20d200fdee3f0157dd18d3f54bb7926c4f32.jpg"
-        ],
-        "anime_genres": [
-          "Триллер",
-          "Фантастика"
-        ],
-        "anime_studios": [
-          "White Fox"
-        ],
-        "shikimori_rating": 8.26,
-        "shikimori_votes": 13088,
-        "aired_at": "2015-12-03",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0
-      }
-    },
-    {
-      "id": "serial-23134",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Сага о Винланде",
-      "title_orig": "Vinland Saga",
-      "other_title": "ヴィンランド・サガ",
-      "translation": {
-        "id": 761,
-        "title": "Onibaku",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 24,
-      "episodes_count": 24,
-      "kinopoisk_id": "1274280",
-      "imdb_id": "tt10233448",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9636",
-      "shikimori_id": "37521",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-02-25T11:13:07Z",
-      "updated_at": "2021-01-16T12:54:21Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/597003/b9e4a83bf55dca4327bef69e1081b311/720p",
-            "2": "//aniqit.com/seria/597011/0334be280b431d99a21aaca03ec3c435/720p",
-            "3": "//aniqit.com/seria/597012/b0c40f91d88f2db9e44c22c6e7212379/720p",
-            "4": "//aniqit.com/seria/597013/2d20cdcee83c9e91dd0c2829b4e2d60c/720p",
-            "5": "//aniqit.com/seria/597014/50568ac6a8520fdf21a11f820afc9fdb/720p",
-            "6": "//aniqit.com/seria/597015/f91bb37c889efe5e0cd423337deabdfe/720p",
-            "7": "//aniqit.com/seria/597016/354085c18f2e2b72f95e3f8ac5e594de/720p",
-            "8": "//aniqit.com/seria/597017/5dc76621a1c45b619f1600358fa3055b/720p",
-            "9": "//aniqit.com/seria/597018/63c54f0d8dc462581a5c829fb9c07f3c/720p",
-            "10": "//aniqit.com/seria/597019/749e63de4a97d767c75547493a5263fa/720p",
-            "11": "//aniqit.com/seria/597020/9ebf99dec7ec6cf38a4c084672ebec45/720p",
-            "12": "//aniqit.com/seria/597021/dc037b3569d27266e6817be13b26090a/720p",
-            "13": "//aniqit.com/seria/597022/df762026fc615f64ab6be69c6ae83ebf/720p",
-            "14": "//aniqit.com/seria/597023/ba8c1738a0286b8faa03ef76f80b3fbd/720p",
-            "15": "//aniqit.com/seria/597024/b74aa5fb0876c785071e14d30121719f/720p",
-            "16": "//aniqit.com/seria/597025/b263f55b2b03dfd6ef93b4e126e14eb4/720p",
-            "17": "//aniqit.com/seria/671089/37d871ce77959097933787a5f2e2002f/720p",
-            "18": "//aniqit.com/seria/671090/bfac33db0874cdaee7819b96e67be4f0/720p",
-            "19": "//aniqit.com/seria/671091/1beb5cd7209d6cd3276d4542b50b6a3b/720p",
-            "20": "//aniqit.com/seria/671092/908c14740099ba1a27be17651aae2f1d/720p",
-            "21": "//aniqit.com/seria/769074/40313630b3ccc9ac08538bf23b32dc44/720p",
-            "22": "//aniqit.com/seria/769075/aea7e73b7370c3525e8c7555f0814e2a/720p",
-            "23": "//aniqit.com/seria/769076/f7ec6ed8747fb6e7b475864b30f7aebc/720p",
-            "24": "//aniqit.com/seria/769077/12ddb37299143f8866d2f21a1a82a09b/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Сага о Винланде",
-        "title_en": "Vinland Saga",
-        "other_titles_jp": [
-          "ヴィンランド・サガ"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2019,
-        "description": "Времена господства викингов. Людей, известных своими жестокими обычаями. Торфинн - сын одного из величайших викингов. Вот только вырос мальчик без отца, так как тот погиб на поле боя. Желая отомстить, Торфинн поклялся убить виновного, однако юноше ещё только предстоит овладеть искусством боя.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1274280.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/55f430e8410d4dae603b6fa77217f39aa0d09053.png",
-          "https://shikimori.one/system/screenshots/original/ace98db610cc9a21e1686f2f1a31c182e14b547e.png"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Исторический",
-          "Приключения",
-          "Сейнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Wit Studio"
-        ],
-        "kinopoisk_rating": 8.1,
-        "kinopoisk_votes": 4245,
-        "imdb_rating": 8.8,
-        "imdb_votes": 12918,
-        "shikimori_rating": 8.71,
-        "shikimori_votes": 23919,
-        "premiere_world": "2019-07-07",
-        "aired_at": "2019-07-08",
-        "released_at": "2019-12-30",
-        "rating_mpaa": "R",
-        "episodes_total": 24,
-        "episodes_aired": 24,
-        "actors": [
-          "Юто Уэмура",
-          "Мицухиро Итики",
-          "Рёта Такэути",
-          "Наоя Утида",
-          "Синъя Такахаси",
-          "Хироки Ясумото",
-          "Кэнсё Оно",
-          "Ацуси Оно",
-          "Ёсимицу Симояма",
-          "Ао Такахаси"
-        ],
-        "directors": [
-          "Сюхэй Ябута"
-        ],
-        "writers": [
-          "Хироси Сэко",
-          "Макото Юкимура"
-        ],
-        "composers": [
-          "Ютака Ямада"
-        ]
-      }
-    },
-    {
-      "id": "serial-31493",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Проект Скард: Шрам Прэйтер",
-      "title_orig": "Project Scard: Praeter no Kizu",
-      "other_title": "Project Scard: Scar on the Praeter",
-      "translation": {
-        "id": 1273,
-        "title": "Wakanim.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2021,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "imdb_id": "tt13041916",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10595",
-      "shikimori_id": "42825",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-01-08T23:03:16Z",
-      "updated_at": "2021-01-16T12:44:53Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/763487/6d9fbad82615b7bd5320b4caf3fa0f54/720p",
-            "2": "//aniqit.com/seria/769070/71a9c79076fa3ff2f221f1a782386adf/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Проект Скард: Шрам Прэйтер",
-        "title_en": "Project Scard: Praeter no Kizu",
-        "other_titles": [
-          "Project Scard: Scar on the Praeter"
-        ],
-        "other_titles_en": [
-          "Scar on the Praeter"
-        ],
-        "other_titles_jp": [
-          "PROJECT SCARD プレイタの傷"
-        ],
-        "anime_license_name": "Project Scard: Scar on the Praeter",
-        "anime_kind": "tv",
-        "anime_status": "ongoing",
-        "description": "Действие разворачивается в особой зоне под названием «Акацуки». Это независимое государство, образованное внутри Токио, где царят массовые беспорядки, беззаконие и нелегальная торговля оружием. Некогда мирный, а ныне брошенный на произвол судьбы, район стал полем боя для больших корпораций, которые в борьбе за власть и монополизацию рынка устраивают сражения прямо на улицах, что нередко приводит к травмам и смертям невинных людей.\r\nИз-за этого в «Акацуки» стекается различная публика криминального характера. Также его по праву можно считать последним пристанищем для нелегальных мигрантов и сирот, отловом которых активно занимается Специальная служба общественной безопасности в лице полиции. Однако их усилия не меняют общей неспокойной обстановки. К тому же, сотрудники полиции находятся под пристальным надзором Службы по обеспечению безопасности и контроля под названием «Артемида», чья внутренняя структура имеет очень сильные коммерческие мотивы, поэтому спасение мирных жителей их волнует в последнюю очередь, и город всё больше утопает в крови невинных.\r\n\r\nОднако бороться с этим беспросветным положением, встав на защиту обычных людей, берётся некая третья организация, именуемая «Гелиос». Она состоит из агентов, известных как «Скард», а её лидер Эйдзи Арасиба , которого в народе именуют не иначе как Героем, становится для многих последней надеждой на спасение и мирную жизнь.",
-        "poster_url": "https://shikimori.one/system/animes/original/42825.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/69caf6990ac819b6feea279bd97b474ec939f961.jpg",
-          "https://shikimori.one/system/screenshots/original/ce504b31502788eb9fe598f746ecd369d0e4a91b.jpg"
-        ],
-        "anime_genres": [
-          "Супер сила",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "GoHands"
-        ],
-        "shikimori_rating": 5.5,
-        "shikimori_votes": 105,
-        "aired_at": "2021-01-09",
-        "episodes_total": 13,
-        "episodes_aired": 7
       }
     }
   ]

@@ -1,6 +1,535 @@
 {
   "results": [
     {
+      "id": "movie-55349",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Обещай никогда не расставаться",
+      "title_orig": "Mere Humsafar",
+      "translation": {
+        "id": 770,
+        "title": "ZEE TV",
+        "type": "voice"
+      },
+      "year": 1970,
+      "kinopoisk_id": "225249",
+      "imdb_id": "tt0215988",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-15T06:35:19Z",
+      "updated_at": "2020-05-15T06:35:19Z",
+      "material_data": {
+        "title": "Обещай никогда не расставаться",
+        "title_en": "Mere Humsafar",
+        "year": 1970,
+        "description": "После смерти отца фермер Раджу, чтобы оплатить долги, был вынужден поехать в Бомбей на заработки. Не имея денег, он прячется в автомобиле, везущем фрукты. Там он знакомится еще с одним безбилетным пассажиром – цыганской девушкой Тарной. Во время долгого путешествия в грузовике, а затем в поезде молодые люди влюбляются друг в друга и решают пожениться. Но вскоре Раджу отстает от поезда, и Тарне приходится добираться до Бомбея одной. Приехав в город, Раджу не перестает искать свою возлюбленную и через несколько месяцев он узнает свою Тарну в актрисе Минакши.",
+        "duration": 153,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "мелодрама"
+        ],
+        "imdb_rating": 6.9,
+        "imdb_votes": 50,
+        "premiere_world": "1970-10-14",
+        "actors": [
+          "Шармила Тагор",
+          "Джитендра",
+          "Балрадж Сахни",
+          "Лаксми Чхая",
+          "Суреш",
+          "Джагдип",
+          "Дживан",
+          "Сундер",
+          "Тивари",
+          "Шери Мохан"
+        ],
+        "directors": [
+          "Дулал Гуха"
+        ],
+        "producers": [
+          "Yusuf Teendarwazwala"
+        ],
+        "composers": [
+          "Ананджи Вирджи Шах",
+          "Калианджи Вирджи Шах"
+        ]
+      }
+    },
+    {
+      "id": "movie-55315",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Псих",
+      "title_orig": "Psycho",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1201353",
+      "imdb_id": "tt9109976",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-15T05:29:57Z",
+      "updated_at": "2020-05-15T05:29:57Z",
+      "material_data": {
+        "title": "Псих",
+        "title_en": "Psycho",
+        "year": 2020,
+        "description": "Уже несколько лет в городе Коимбатур и его окрестностях орудует серийный убийца, отрубая девушкам головы и выставляя их тела напоказ, а у полиции до сих пор нет никаких зацепок. За популярной радиоведущей Дагини по пятам следует влюблённый в неё слепой парень Гаутам, и после очередной его попытки привлечь внимание предмета своего обожания девушка соглашается встретиться с ним на следующий день. А где - она подскажет в своей передаче. Вот только на место встречи чуть раньше приходит маньяк и похищает Дагини, но решает не убивать её сразу. Теперь у Гаутама есть семь дней, чтобы спасти свою любовь из лап убийцы-психопата.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1201353.jpg",
+        "duration": 143,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "криминал",
+          "триллер"
+        ],
+        "imdb_rating": 6.3,
+        "imdb_votes": 2243,
+        "premiere_world": "2020-01-24",
+        "actors": [
+          "Удхаянидхи Сталин",
+          "Нитья",
+          "Адити Рао Хидари",
+          "Рэм",
+          "Раджкумар Питчумани",
+          "Шаджи",
+          "Сингампули",
+          "Аадукалам Нарен",
+          "Ренука"
+        ],
+        "directors": [
+          "Мышкин"
+        ],
+        "producers": [
+          "Арун Мочжи Маникам"
+        ],
+        "writers": [
+          "Мышкин"
+        ],
+        "composers": [
+          "Илайараджа"
+        ],
+        "editors": [
+          "Н. Арункумар"
+        ],
+        "operators": [
+          "Танвир Мир"
+        ]
+      }
+    },
+    {
+      "id": "movie-55314",
+      "type": "anime",
+      "link": "",
+      "title": "Момоко слышит песню лягушат",
+      "title_orig": "Momoko, Kaeru no Uta ga Kikoeru yo.",
+      "other_title": "もも子、かえるの歌がきこえるよ。",
+      "translation": {
+        "id": 1215,
+        "title": "FRONDA",
+        "type": "voice"
+      },
+      "year": 2003,
+      "kinopoisk_id": "386475",
+      "imdb_id": "tt0829238",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3949",
+      "shikimori_id": "7877",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-15T02:56:22Z",
+      "updated_at": "2020-05-15T02:56:22Z",
+      "material_data": {
+        "title": "Момоко слышит песню лягушат",
+        "title_en": "Momoko, kaeru no uta ga kikoeruyo",
+        "other_titles_en": [
+          "My Sister Momoko"
+        ],
+        "other_titles_jp": [
+          "もも子、かえるの歌がきこえるよ。"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2003,
+        "description": "Рики и Момоко - близнецы. Но если Рики родился нормальным здоровым мальчиком, то Момоко пришла на свет с серьёзным отклонением. Будучи инвалидом с рождения, она посещает школу для умственно отсталых детей. Бедняжка всегда жалуется на то, что не может ходить в обычную школу вместе с братом, и зачастую её охватывают приступы гнева, но когда Рики начинает напевать её любимую песенку «Хор лягушат», девочка всегда успокаивается. Вскорости в рамках специальной программы по обмену учащимися Момоко получает разрешение раз в неделю посещать школу, где учится её брат. Но, увы, не все ребята готовы мириться с её инвалидностью...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/386475.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/72ea8211712fd9b039abdc25bffa177106435c7c.png",
+          "https://shikimori.one/system/screenshots/original/6e24299e8d7be4cdc92839b67505406bb1b5a36e.png"
+        ],
+        "duration": 80,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "драма",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Повседневность",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Magic Bus"
+        ],
+        "kinopoisk_rating": 8.3,
+        "kinopoisk_votes": 288,
+        "imdb_rating": 7.4,
+        "imdb_votes": 29,
+        "shikimori_rating": 7.5,
+        "shikimori_votes": 356,
+        "premiere_world": "2003-07-23",
+        "aired_at": "2003-07-23",
+        "rating_mpaa": "G",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Tsukasa Itou",
+          "Кэнтаро Ито",
+          "Масафуми Кимура",
+          "Кахо Кода",
+          "Куруми Мамия",
+          "Юко Мидзутани",
+          "Наоя Утида",
+          "Масаки Утияма",
+          "Дзин Яманои"
+        ],
+        "directors": [
+          "Сэцуко Сибуити"
+        ],
+        "producers": [
+          "Сатоси Дэдзаки",
+          "Содзабуро Кацура",
+          "Кацуми Койдэ"
+        ],
+        "writers": [
+          "Кацуми Койдэ",
+          "Мицуё Суэнага"
+        ],
+        "composers": [
+          "Митиру Осима"
+        ],
+        "editors": [
+          "Shigenari Nishi"
+        ],
+        "designers": [
+          "Ситиро Кобаяси"
+        ],
+        "operators": [
+          "Хидэо Окадзаки"
+        ]
+      }
+    },
+    {
+      "id": "movie-55313",
+      "type": "anime",
+      "link": "",
+      "title": "Момоко слышит песню лягушат",
+      "title_orig": "Momoko, Kaeru no Uta ga Kikoeru yo.",
+      "other_title": "もも子、かえるの歌がきこえるよ。",
+      "translation": {
+        "id": 827,
+        "title": "Persona99",
+        "type": "voice"
+      },
+      "year": 2003,
+      "kinopoisk_id": "386475",
+      "imdb_id": "tt0829238",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3949",
+      "shikimori_id": "7877",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-15T02:55:46Z",
+      "updated_at": "2020-05-15T02:55:46Z",
+      "material_data": {
+        "title": "Момоко слышит песню лягушат",
+        "title_en": "Momoko, kaeru no uta ga kikoeruyo",
+        "other_titles_en": [
+          "My Sister Momoko"
+        ],
+        "other_titles_jp": [
+          "もも子、かえるの歌がきこえるよ。"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2003,
+        "description": "Рики и Момоко - близнецы. Но если Рики родился нормальным здоровым мальчиком, то Момоко пришла на свет с серьёзным отклонением. Будучи инвалидом с рождения, она посещает школу для умственно отсталых детей. Бедняжка всегда жалуется на то, что не может ходить в обычную школу вместе с братом, и зачастую её охватывают приступы гнева, но когда Рики начинает напевать её любимую песенку «Хор лягушат», девочка всегда успокаивается. Вскорости в рамках специальной программы по обмену учащимися Момоко получает разрешение раз в неделю посещать школу, где учится её брат. Но, увы, не все ребята готовы мириться с её инвалидностью...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/386475.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/72ea8211712fd9b039abdc25bffa177106435c7c.png",
+          "https://shikimori.one/system/screenshots/original/6e24299e8d7be4cdc92839b67505406bb1b5a36e.png"
+        ],
+        "duration": 80,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "драма",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Повседневность",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Magic Bus"
+        ],
+        "kinopoisk_rating": 8.3,
+        "kinopoisk_votes": 288,
+        "imdb_rating": 7.4,
+        "imdb_votes": 29,
+        "shikimori_rating": 7.5,
+        "shikimori_votes": 356,
+        "premiere_world": "2003-07-23",
+        "aired_at": "2003-07-23",
+        "rating_mpaa": "G",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Tsukasa Itou",
+          "Кэнтаро Ито",
+          "Масафуми Кимура",
+          "Кахо Кода",
+          "Куруми Мамия",
+          "Юко Мидзутани",
+          "Наоя Утида",
+          "Масаки Утияма",
+          "Дзин Яманои"
+        ],
+        "directors": [
+          "Сэцуко Сибуити"
+        ],
+        "producers": [
+          "Сатоси Дэдзаки",
+          "Содзабуро Кацура",
+          "Кацуми Койдэ"
+        ],
+        "writers": [
+          "Кацуми Койдэ",
+          "Мицуё Суэнага"
+        ],
+        "composers": [
+          "Митиру Осима"
+        ],
+        "editors": [
+          "Shigenari Nishi"
+        ],
+        "designers": [
+          "Ситиро Кобаяси"
+        ],
+        "operators": [
+          "Хидэо Окадзаки"
+        ]
+      }
+    },
+    {
+      "id": "movie-55312",
+      "type": "anime",
+      "link": "",
+      "title": "Боб на колесах",
+      "title_orig": "Riding Bean",
+      "other_title": "Перевозчик Бин",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 1989,
+      "kinopoisk_id": "335179",
+      "imdb_id": "tt0098202",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=218",
+      "shikimori_id": "917",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-15T02:54:39Z",
+      "updated_at": "2020-05-15T02:54:39Z",
+      "material_data": {
+        "title": "Боб на колесах",
+        "title_en": "Riding Bean",
+        "other_titles": [
+          "Боб на колёсах"
+        ],
+        "other_titles_jp": [
+          "ライディング・ビーン"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "year": 1989,
+        "tagline": "He doesn't just break the traffic laws, He mangles them!",
+        "description": "Современный Чикаго. Бандит Боб (это не сокращение от «Роберт», а перевод прозвища «Bean») - профессиональный курьер. Что угодно, куда угодно, побольше денег и никаких вопросов. Преступление? Не проблема. Вместе со своей помощницей Ралли Винсент он готов на любое дело. Трудности не заставляют себя ждать. Боб должен доставить по адресу 10-летнюю девочку, однако оказывается, что он помогает ее похитить. И теперь вся чикагская полиция объявляет на него охоту...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/335179.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/f8fe3f41635f8db2be634415f0cd29627b9170dc.jpg",
+          "https://shikimori.one/system/screenshots/original/d6a5168499bc3e9969d8d53b8559f76b3f4659f1.jpg"
+        ],
+        "duration": 46,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Машины",
+          "Полиция",
+          "Сейнен",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "AIC",
+          "Artmic"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 203,
+        "imdb_rating": 6.8,
+        "imdb_votes": 703,
+        "shikimori_rating": 7.08,
+        "shikimori_votes": 655,
+        "aired_at": "1989-02-22",
+        "rating_mpaa": "R+",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Хидэюки Танака",
+          "Наоко Мацуи",
+          "Мами Кояма",
+          "Кэи Томияма",
+          "Мэгуми Хаясибара",
+          "Тиэко Хонда",
+          "Дзюн Хасуми",
+          "Юсаку Яра",
+          "Нобуо Тобита",
+          "Мититака Кобаяси"
+        ],
+        "directors": [
+          "Ясуо Хасэгава",
+          "Osamu Kamijoo",
+          "Масахиро Танака",
+          "Синъя Охира"
+        ],
+        "producers": [
+          "Хироси Тазаки",
+          "Дзюндзи Фудзита",
+          "Тору Миура",
+          "Роберт Дж. Вудхед"
+        ],
+        "writers": [
+          "Кэнити Сонода"
+        ],
+        "composers": [
+          "Фил Перри"
+        ],
+        "editors": [
+          "Сюити Какэсу"
+        ],
+        "designers": [
+          "Хироаки Сато"
+        ],
+        "operators": [
+          "Кадзухиро Кониси"
+        ]
+      }
+    },
+    {
+      "id": "movie-55311",
+      "type": "anime",
+      "link": "",
+      "title": "Осколки времени",
+      "title_orig": "Fragtime",
+      "other_title": "フラグタイム",
+      "translation": {
+        "id": 1009,
+        "title": "Anistar Многоголосый",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1301877",
+      "imdb_id": "tt11343974",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10036",
+      "shikimori_id": "39545",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-15T02:44:15Z",
+      "updated_at": "2020-05-15T02:44:15Z",
+      "material_data": {
+        "title": "Осколки времени",
+        "title_en": "Fragtime",
+        "other_titles": [
+          "Flag Time",
+          "Flagtime",
+          "Frag Time"
+        ],
+        "other_titles_jp": [
+          "フラグタイム"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "У школьницы Мисудзу Моритани есть суперсила – она может остановить время на три минуты в день. Однажды Мисудзу использует свой талант, чтобы посмотреть на трусики Харуки Мураками, самой популярной девочки в школе, однако та внезапно оказывается невосприимчива к её силе.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1301877.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/fe5fcbad129d71d95f3ae391db40cab04f436788.jpg",
+          "https://shikimori.one/system/screenshots/original/2f16d48c306684ed2df84b48646c3d05fb2b4f22.jpg"
+        ],
+        "duration": 61,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мелодрама",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Повседневность",
+          "Романтика",
+          "Сёдзё-ай",
+          "Фантастика",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Tear Studio"
+        ],
+        "imdb_rating": 6,
+        "imdb_votes": 188,
+        "shikimori_rating": 6.54,
+        "shikimori_votes": 754,
+        "premiere_world": "2019-11-22",
+        "aired_at": "2019-11-22",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Мику Ито",
+          "Юмэ Миямото",
+          "Тика Андзаи"
+        ],
+        "directors": [
+          "Такуя Сато"
+        ],
+        "writers": [
+          "Такуя Сато"
+        ]
+      }
+    },
+    {
       "id": "serial-25691",
       "type": "anime-serial",
       "link": "",
@@ -1142,7 +1671,7 @@
         "imdb_rating": 6.3,
         "imdb_votes": 575,
         "shikimori_rating": 6.5,
-        "shikimori_votes": 5816,
+        "shikimori_votes": 5893,
         "premiere_world": "2020-01-09",
         "aired_at": "2020-01-09",
         "released_at": "2020-06-25",
@@ -6558,8 +7087,8 @@
         "genres": [
           "драма"
         ],
-        "imdb_rating": 5.4,
-        "imdb_votes": 15,
+        "imdb_rating": 5.7,
+        "imdb_votes": 14,
         "premiere_world": "2019-09-09",
         "actors": [
           "Yagmur Çokgenç",
@@ -8232,538 +8761,6 @@
         ],
         "operators": [
           "Яо Сяофэн"
-        ]
-      }
-    },
-    {
-      "id": "movie-55176",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Конец века",
-      "title_orig": "Fin de siglo",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1270406",
-      "imdb_id": "tt9845398",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-11T18:16:49Z",
-      "updated_at": "2020-05-11T18:16:49Z",
-      "material_data": {
-        "title": "Конец века",
-        "title_en": "Fin de siglo",
-        "year": 2019,
-        "description": "Двое мужчин встречаются в Барселоне и, проведя день вместе, понимают, что они встречались уже двадцать лет назад.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1270406.jpg",
-        "duration": 84,
-        "countries": [
-          "Аргентина"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 228,
-        "imdb_rating": 6.9,
-        "imdb_votes": 2322,
-        "premiere_world": "2019-03-30",
-        "actors": [
-          "Хуан Барберини",
-          "Рамон Пуйоль",
-          "Миа Маэстро",
-          "Mariano Lopez Seoane",
-          "Helen Celia Castro-Wood"
-        ],
-        "directors": [
-          "Лучио Кастро"
-        ],
-        "producers": [
-          "Joanna Lee",
-          "Josh Wood"
-        ],
-        "writers": [
-          "Лучио Кастро"
-        ],
-        "composers": [
-          "Robert Lombardo"
-        ],
-        "editors": [
-          "Лучио Кастро"
-        ],
-        "operators": [
-          "Bernat Mestres"
-        ]
-      }
-    },
-    {
-      "id": "serial-25628",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Таинственная игра OVA-1",
-      "title_orig": "Fushigi Yuugi (1996)",
-      "other_title": "Fushigi Yugi: The Mysterious Play (1996)",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1996,
-      "last_season": 1,
-      "last_episode": 3,
-      "episodes_count": 3,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2715",
-      "shikimori_id": "380",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-11T17:42:53Z",
-      "updated_at": "2020-05-11T17:42:53Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/646011/4189310fd29e68c4cb998caae9015bc8/720p",
-            "2": "//aniqit.com/seria/646012/1e7895d161005069deef209917a6d217/720p",
-            "3": "//aniqit.com/seria/646013/cf319fa3fedfe15f300e3c5828e549df/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Таинственная игра OVA",
-        "title_en": "Fushigi Yuugi OVA",
-        "other_titles": [
-          "Fushigi Yugi OVA 1"
-        ],
-        "other_titles_en": [
-          "Mysterious Play OVA"
-        ],
-        "other_titles_jp": [
-          "ふしぎ遊戯"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "description": "Прошёл год после событий оригинального сериала «Таинственная игра», и Тамахомэ вдруг снова переносится обратно во «Вселенную четырёх богов» через сложную иллюзию, в которой он полностью сбит с толку. Тем временем Миака переживает исчезновение Тамы , Юи решает вернуться в книгу, а Кэйскэ и Тэцуя разбираются, что же всё-таки происходит.",
-        "poster_url": "https://shikimori.one/system/animes/original/380.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/4a1e80246154179c273cfb9a59cc5ed666d2feaa.jpg",
-          "https://shikimori.one/system/screenshots/original/ce79c5734c82dd3d80b088d039e5055e54a60bc3.jpg"
-        ],
-        "anime_genres": [
-          "Исторический",
-          "Комедия",
-          "Приключения",
-          "Романтика",
-          "Сёдзё",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Studio Pierrot"
-        ],
-        "shikimori_rating": 7.16,
-        "shikimori_votes": 400,
-        "aired_at": "1996-10-25",
-        "released_at": "1997-02-25",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 3,
-        "episodes_aired": 0
-      }
-    },
-    {
-      "id": "movie-22441",
-      "type": "anime",
-      "link": "",
-      "title": "Мэри и ведьмин цветок",
-      "title_orig": "Meari to majo no hana",
-      "other_title": "Mary and the Witch's Flower",
-      "translation": {
-        "id": 737,
-        "title": "AlexFilm",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1008415",
-      "imdb_id": "tt6336356",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9063",
-      "shikimori_id": "34541",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [
-        "RU"
-      ],
-      "created_at": "2018-03-28T13:42:48Z",
-      "updated_at": "2020-05-11T15:37:41Z",
-      "material_data": {
-        "title": "Мэри и ведьмин цветок",
-        "title_en": "Meari to majo no hana",
-        "other_titles_en": [
-          "Mary and the Witch's Flower"
-        ],
-        "other_titles_jp": [
-          "メアリと魔女の花"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2017,
-        "tagline": "From a single lie, everything will change.",
-        "description": "Если в деревне у бабушки нет твоих сверстников, только старики и старушки, любые каникулы могут превратиться в наказание. Сосланная родителями на лето в глухую деревню 10-летняя Мэри каждый день не знает, чем себя занять. Однажды девочка решает проследить за приблудным котом и случайно находит в лесу волшебный цветок. От лепестков этого «ведьмина глаза» простая кухонная метла внезапно оживает и уносит девочку далеко за облака, в самую настоящую школу колдовства и магии. Повстречав местных учителей, Мэри решает выдать себя за новенькую ученицу из могучей колдунской семьи.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1008415.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/c52559aaa2c2b043347591033031bf4deeb07f3f.jpg",
-          "https://shikimori.one/system/screenshots/original/88373b23e4e834a16905c40802b597b1ba6fd6d4.jpg"
-        ],
-        "duration": 102,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Магия",
-          "Приключения",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Studio Ponoc"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 31275,
-        "imdb_rating": 6.8,
-        "imdb_votes": 12075,
-        "shikimori_rating": 7.29,
-        "shikimori_votes": 7594,
-        "premiere_ru": "2018-03-01",
-        "premiere_world": "2017-07-08",
-        "aired_at": "2017-07-08",
-        "rating_mpaa": "PG",
-        "minimal_age": 6,
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Хана Сугисаки",
-          "Рюносукэ Камики",
-          "Юки Амами",
-          "Фумиё Кохината",
-          "Хикари Мицусима",
-          "Дзиро Сато",
-          "Кэнъити Эндо",
-          "Эри Ватанабэ",
-          "Синобу Отакэ",
-          "Икуэ Отани"
-        ],
-        "directors": [
-          "Хиромаса Ёнэбаяси"
-        ],
-        "producers": [
-          "Ёсиаки Нисимура",
-          "Наоя Фудзимаки",
-          "Рёити Фукуяма",
-          "Томоко Хосокава",
-          "Минами Итикава",
-          "Кёхэи Ито",
-          "Наоки Иваса",
-          "Дайсукэ Кадоя",
-          "Сё Оямада",
-          "Сатоко Окубо"
-        ],
-        "writers": [
-          "Мэри Стюарт",
-          "Рико Сакагути",
-          "Хиромаса Ёнэбаяси"
-        ],
-        "composers": [
-          "Такацугу Мурамацу"
-        ],
-        "editors": [
-          "Тосихико Кодзима"
-        ],
-        "designers": [
-          "Томоя Имаи",
-          "Томотака Кубо"
-        ],
-        "operators": [
-          "Тору Фукуси"
-        ]
-      }
-    },
-    {
-      "id": "movie-55172",
-      "type": "anime",
-      "link": "",
-      "title": "Буквоежка",
-      "title_orig": "Bungaku shôjo",
-      "other_title": "Буквоежка (фильм) / Литературная Барышня",
-      "translation": {
-        "id": 818,
-        "title": "Reanimedia",
-        "type": "voice"
-      },
-      "year": 2010,
-      "kinopoisk_id": "488337",
-      "imdb_id": "tt1546649",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7776",
-      "shikimori_id": "6408",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-11T15:27:45Z",
-      "updated_at": "2020-05-11T15:27:45Z",
-      "material_data": {
-        "title": "Буквоежка",
-        "title_en": "Bungaku shôjo",
-        "other_titles": [
-          "Литературная барышня",
-          "Книжная лакомка",
-          "Book Girl",
-          "Literature Girl"
-        ],
-        "other_titles_jp": [
-          "劇場版“文学少女”"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2010,
-        "description": "Главный герой - Коноха Иноуэ - выглядит обычным старшеклассником. Его школьная жизнь могла бы показаться совершенно неинтересной, если бы не хранимый им секрет - он хотел стать писателем - автором женских романтических бестселлеров. Однако после одного неприятного эпизода, произошедшего два года назад, он поклялся себе никогда больше не писать. Все меняется, когда он переходит в новую школу. Президент литературного кружка Токо Амано буквально вынуждает его вступить в клуб. Токо питается книгами, поэтому теперь каждый день после занятий Коноха пишет для нее новую литературную пищу.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/488337.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/582aa2cea7d085728afff30a1508d6210e4d6699.png",
-          "https://shikimori.one/system/screenshots/original/59ddb045e8fa5ed2450185d1b3f1dab385f101dc.png"
-        ],
-        "duration": 103,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Драма",
-          "Романтика",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Production I.G"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 514,
-        "imdb_rating": 6.2,
-        "imdb_votes": 181,
-        "shikimori_rating": 7.42,
-        "shikimori_votes": 2365,
-        "premiere_ru": "2012-11-01",
-        "premiere_world": "2010-05-01",
-        "aired_at": "2010-05-01",
-        "rating_mpaa": "PG-13",
-        "minimal_age": 16,
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Кана Ханадзава",
-          "Мию Ирино",
-          "Аки Тоёсаки",
-          "Асами Симода",
-          "Даисукэ Оно",
-          "Мамору Мияно",
-          "Нана Мидзуки",
-          "Сидзука Ито"
-        ],
-        "directors": [
-          "Сюнсукэ Тада"
-        ],
-        "producers": [
-          "Масахито Аринага",
-          "Такеши Хашимото",
-          "Кацуми Коикэ",
-          "Кэнта Судзуки",
-          "Yûichirô Takahata",
-          "Кадзуёси Фукуба",
-          "Манабу Харада",
-          "Сюндзи Иноэ",
-          "Руи Куроки",
-          "Ёсимаса Мори"
-        ],
-        "writers": [
-          "Мидзуки Номура",
-          "Юка Ямада"
-        ],
-        "composers": [
-          "Хикару Нанасэ"
-        ],
-        "editors": [
-          "Дзюнъити Уэмацу"
-        ],
-        "designers": [
-          "Томоясу Фудзисэ",
-          "Ёсинори Сиодзава",
-          "Митиэ Судзуки"
-        ],
-        "operators": [
-          "Кодзи Танака"
-        ]
-      }
-    },
-    {
-      "id": "movie-55174",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Здраствуй, моя прекрасная родина",
-      "title_orig": "Merhaba Güzel Vatanim",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1282731",
-      "imdb_id": "tt10579092",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-11T15:11:00Z",
-      "updated_at": "2020-05-11T15:11:00Z",
-      "material_data": {
-        "title": "Merhaba Güzel Vatanim",
-        "title_en": "",
-        "year": 2019,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1282731.jpg",
-        "duration": 99,
-        "countries": [
-          "Турция"
-        ],
-        "genres": [
-          "биография",
-          "драма"
-        ],
-        "imdb_rating": 5.1,
-        "imdb_votes": 160,
-        "premiere_world": "2019-10-31",
-        "actors": [
-          "Йеткин Дикинджилер",
-          "Серкан Алтынташ",
-          "Берна Лачин",
-          "Пелин Бату",
-          "Левент Узюмджю",
-          "Искендер Бааджылар",
-          "Мехмет Токат",
-          "Алпер Тюреди",
-          "Kutay Sahin",
-          "Умут Бескирма"
-        ],
-        "directors": [
-          "Cengiz Özkarabekir"
-        ],
-        "writers": [
-          "Ахмет Юмит"
-        ]
-      }
-    },
-    {
-      "id": "serial-25623",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Семь смертных грехов OVA-1",
-      "title_orig": "Nanatsu no Taizai OVA",
-      "other_title": "七つの大罪 OVA",
-      "translation": {
-        "id": 827,
-        "title": "Persona99",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "kinopoisk_id": "1118056",
-      "imdb_id": "tt9127496",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8296",
-      "shikimori_id": "30347",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-11T14:04:32Z",
-      "updated_at": "2020-05-11T14:04:32Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/645946/fc30918562e356653c7fe4249a2a1e4b/720p",
-            "2": "//aniqit.com/seria/645947/3953a6a7b80f1ebed614dc00172e7f3c/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Семь смертных грехов OVA",
-        "title_en": "Nanatsu no Taizai OVA",
-        "other_titles": [
-          "Nanatsu no Taizai: Ban no Bangai-hen",
-          "The Seven Deadly Sins: Ban's Side Story"
-        ],
-        "other_titles_jp": [
-          "七つの大罪"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 2015,
-        "description": "Бан отправился в лес фей ради того, чтобы завладеть фонтаном молодости. Там он столкнулся с Элейн, защитницей леса и самого источника бессмертия. Как же теперь поступит Бан?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1118056.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/8b906971b18a29c6044174641a5cc537841da988.jpg",
-          "https://shikimori.one/system/screenshots/original/ff62b228614ae112758cfb6bb099f1f006bd87e9.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Магия",
-          "Приключения",
-          "Сверхъестественное",
-          "Сёнен",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "A-1 Pictures"
-        ],
-        "shikimori_rating": 7.61,
-        "shikimori_votes": 11105,
-        "premiere_world": "2015-06-17",
-        "aired_at": "2015-06-17",
-        "released_at": "2015-08-12",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 2,
-        "episodes_aired": 4,
-        "actors": [
-          "Тацухиса Судзуки",
-          "Аои Юки",
-          "Котори Коиваи",
-          "Мисаки Куно",
-          "Дзюн Фукуяма",
-          "Сора Амамия",
-          "Юки Кадзи",
-          "Маая Сакамото",
-          "Кацуюки Конъиси",
-          "Мамору Мияно"
-        ],
-        "writers": [
-          "Сётаро Суга"
         ]
       }
     }

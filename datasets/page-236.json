@@ -1,6 +1,390 @@
 {
   "results": [
     {
+      "id": "movie-43454",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Сожаление",
+      "title_orig": "Malaal",
+      "other_title": "Раскаяние",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1266800",
+      "imdb_id": "tt10305616",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-07T22:45:48Z",
+      "updated_at": "2019-10-07T22:45:48Z",
+      "material_data": {
+        "title": "Сожаление",
+        "title_en": "Malaal",
+        "year": 2019,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1266800.jpg",
+        "duration": 153,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "боевик",
+          "драма",
+          "мелодрама"
+        ],
+        "imdb_rating": 5.8,
+        "imdb_votes": 783,
+        "premiere_world": "2019-07-04",
+        "actors": [
+          "Мизаан Джафри",
+          "Шармин Сегал",
+          "Badri Chavan",
+          "Комал Чабрия",
+          "Четан Читнис",
+          "Дипак Дамле",
+          "Delvo",
+          "Самир Дхармадхикари",
+          "Anil Gawas",
+          "Санджай Гурбаксани"
+        ],
+        "directors": [
+          "Мангеш Хадавале"
+        ],
+        "producers": [
+          "Санджай Лила Бхансали",
+          "Махавир Джаин",
+          "Бхушан Кумар",
+          "Кришан Кумар",
+          "Йогирадж Шетти",
+          "Vikram Yadav"
+        ],
+        "writers": [
+          "Санджай Лила Бхансали",
+          "Мангеш Хадавале",
+          "Sanjeev"
+        ],
+        "composers": [
+          "Анкит Балхара",
+          "Sanchit Balhara",
+          "Санджай Лила Бхансали"
+        ],
+        "editors": [
+          "Раджеш Пандеу"
+        ],
+        "designers": [
+          "Акрити Пиплани",
+          "Ajay Kmr",
+          "Harshvardhan Purohit"
+        ],
+        "operators": [
+          "Рагул Дхаруман"
+        ]
+      }
+    },
+    {
+      "id": "movie-43455",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Пепел",
+      "title_orig": "Cenizas",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1025539",
+      "imdb_id": "tt6332628",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-07T22:44:39Z",
+      "updated_at": "2019-10-07T22:44:39Z",
+      "material_data": {
+        "title": "Cenizas",
+        "title_en": "",
+        "year": 2018,
+        "duration": 80,
+        "countries": [
+          "Уругвай",
+          "Эквадор"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 7.1,
+        "imdb_votes": 70,
+        "premiere_world": "2018-03-14",
+        "actors": [
+          "Саманта Кайседо",
+          "Диего Нараньо",
+          "Хуана Эстрелья",
+          "Estela Álvarez",
+          "Pavel Almeida"
+        ],
+        "directors": [
+          "Хуан Себастьян Хакоме"
+        ],
+        "producers": [
+          "Эндрю Эвиа",
+          "Герман Техейра",
+          "Ирина Кабальеро"
+        ],
+        "writers": [
+          "Хуан Себастьян Хакоме"
+        ],
+        "composers": [
+          "Ксавьер Мюллер"
+        ],
+        "editors": [
+          "Джулиан Гойоага",
+          "Герман Техейра"
+        ],
+        "designers": [
+          "Эмилия Давила",
+          "Carmen Dávila"
+        ],
+        "operators": [
+          "Симон Брауэр"
+        ]
+      }
+    },
+    {
+      "id": "serial-18962",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Я подобрала звезду на дороге",
+      "title_orig": "Naneun Gil-eseo Yeon-yein-eul Juwossda",
+      "other_title": "Я нашла звезду на улице / Naneun Gil-eseo Yeon-yein-eul Juwossda / I Picked Up a Star on the Road",
+      "translation": {
+        "id": 651,
+        "title": "Люб. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "1183603",
+      "imdb_id": "tt9108792",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-10-07T17:54:17Z",
+      "updated_at": "2019-10-07T20:44:32Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/494732/164ba6e099966b41f690eb99f2f64b12/720p",
+            "2": "//kodik.cc/seria/494733/835f3a873d03d7c19ff7d86753ba9e14/720p",
+            "3": "//kodik.cc/seria/494734/bff5946924e708366b061e40e688eadf/720p",
+            "4": "//kodik.cc/seria/494735/9919aa145d90cf2b4e44df3ceff15c93/720p",
+            "5": "//kodik.cc/seria/494770/0796a136b159db9e9091478f13a9d91a/720p",
+            "6": "//kodik.cc/seria/494771/c0b7d3eb46b546da4f41d7f21540e2cf/720p",
+            "7": "//kodik.cc/seria/494772/fed3c473f780787627b0bbe50999735f/720p",
+            "8": "//kodik.cc/seria/494773/991074dbf9a579fca4aa957bbcca41bf/720p",
+            "9": "//kodik.cc/seria/494774/fe84156a25a65e1bc7f67955806b0eee/720p",
+            "10": "//kodik.cc/seria/494792/00ae5f296316e152bd7d934e6ac71c0d/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Я подобрала звезду на дороге",
+        "title_en": "Nanneun gileseo yeonyeineul juwotta",
+        "year": 2018,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1183603.jpg",
+        "duration": 55,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 6.7,
+        "imdb_votes": 127,
+        "premiere_world": "2018-11-01",
+        "actors": [
+          "Сон Хун",
+          "Ким Га-ын",
+          "Хан Ын-сон",
+          "Пак Су-а",
+          "Хо Джун-сок",
+          "Юн Гён-хо",
+          "Кан Сон-джин",
+          "Чи Хо-сон",
+          "Хван Джон-мин",
+          "Ли До-ён"
+        ],
+        "directors": [
+          "Квон Хёк-чхан"
+        ],
+        "writers": [
+          "Ли Нам-гю",
+          "О Бо-хён"
+        ]
+      }
+    },
+    {
+      "id": "serial-17135",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Сокровенное",
+      "title_orig": "Canevim",
+      "translation": {
+        "id": 946,
+        "title": "Анастасия Гайдаржи",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 17,
+      "episodes_count": 17,
+      "kinopoisk_id": "1263298",
+      "imdb_id": "tt10319992",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-06-13T21:19:42Z",
+      "updated_at": "2019-10-07T20:34:56Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/447174/c75d0ad19cc542edf4f7d44130c6fb1f/720p",
+            "2": "//kodik.cc/seria/447175/e9987e2f95b13308c9e1c7fb62a38a16/720p",
+            "3": "//kodik.cc/seria/447844/83289343a4886716ba6a51ff41fdab02/720p",
+            "4": "//kodik.cc/seria/451978/446effdae7cae60654ce33983156751e/720p",
+            "5": "//kodik.cc/seria/455155/1728ec16179a81b96b31692eab32d242/720p",
+            "6": "//kodik.cc/seria/459206/f200d5de5f14b7b01c4e84bcecbc67a9/720p",
+            "7": "//kodik.cc/seria/461014/8dadb3e6605a3831858adfd0ce046889/720p",
+            "8": "//kodik.cc/seria/465136/06f1844b56d38ec46ab741082705083e/720p",
+            "9": "//kodik.cc/seria/467591/c45d13d1c25e6b528471fd2d71895647/720p",
+            "10": "//kodik.cc/seria/472481/065464a24b429eb5577df8f0fb8db488/720p",
+            "11": "//kodik.cc/seria/479761/b42afe87339b10839648d633b7a87fa0/720p",
+            "12": "//kodik.cc/seria/481330/127ffbe408cc0f27568808a8b112bcd7/720p",
+            "13": "//kodik.cc/seria/481331/0b5aa69e09384007ced5598b1f9f88cd/720p",
+            "14": "//kodik.cc/seria/485140/454d6cf165a69cf15da0deae4c5912d3/720p",
+            "15": "//kodik.cc/seria/487942/baf8d76a92198c584210b040f81e0e4b/720p",
+            "16": "//kodik.cc/seria/490051/e83983ff9cc92caedf4c8c7153bd04ff/720p",
+            "17": "//kodik.cc/seria/494793/b09569312365ff2bdcf61897fc429cca/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Сокровенное",
+        "title_en": "Canevim",
+        "year": 2019,
+        "tagline": "Family is like stars. Shines in the dark.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1263298.jpg",
+        "duration": 120,
+        "countries": [
+          "Турция"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 4.3,
+        "imdb_votes": 67,
+        "premiere_world": "2019-05-27",
+        "actors": [
+          "Биран Дамла Йылмаз",
+          "Арас Айдин",
+          "Озгюр Чевик",
+          "Эзги Шенлер",
+          "Бурджу Туна",
+          "Нихан Бююкаач",
+          "Зухал Генджер",
+          "Рыза Акын",
+          "Бедия Энер",
+          "Simge Selçuk"
+        ],
+        "directors": [
+          "Аднан Гюлер"
+        ],
+        "producers": [
+          "Ата Тюркоглу"
+        ],
+        "writers": [
+          "Eylem Akin",
+          "Филиз Алпгезмен",
+          "Murat Can Tura"
+        ],
+        "composers": [
+          "Энгин Арслан",
+          "Майки Мурат Басаран",
+          "Сунай Озгюр",
+          "Эндер Акай"
+        ],
+        "editors": [
+          "Ali Riza Basaran"
+        ],
+        "designers": [
+          "Özlem Görer",
+          "Eda Dilsizoglu"
+        ],
+        "operators": [
+          "Синан Онур",
+          "Ismail Aydin"
+        ]
+      }
+    },
+    {
+      "id": "serial-18954",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Вечность между нами",
+      "title_orig": "Long For Yo",
+      "other_title": "Снежная девушка / Вдали от тебя / Snow Girl / Serena",
+      "translation": {
+        "id": 646,
+        "title": "XDUB Dorama",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 20,
+      "episodes_count": 20,
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-10-07T16:19:02Z",
+      "updated_at": "2019-10-07T18:09:12Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/494677/5d1e3febad9a4ada3ec0c90421594a98/720p",
+            "2": "//kodik.cc/seria/494678/709a5bea0add67816f9b7f42fdec8053/720p",
+            "3": "//kodik.cc/seria/494679/2b3dd2cc1de28c0c62fc289e94770f46/720p",
+            "4": "//kodik.cc/seria/494680/4ada75b73d6dc51e61e544c5e218a886/720p",
+            "5": "//kodik.cc/seria/494681/6263059977dd98f758706680837af367/720p",
+            "6": "//kodik.cc/seria/494682/d8a77992066c5bfd40b8c3aad4832215/720p",
+            "7": "//kodik.cc/seria/494683/0451a75cc8f4eef817755d99f600ef1e/720p",
+            "8": "//kodik.cc/seria/494684/5104888fdd079a0974e54f228fddf859/720p",
+            "9": "//kodik.cc/seria/494709/7208b064fee1c23d77fa708ce0cc89f5/720p",
+            "10": "//kodik.cc/seria/494710/c843a34a6716e4eecc5ab42c8f6d4ef4/720p",
+            "11": "//kodik.cc/seria/494711/75436f42c09a5ec647d02141fdfec678/720p",
+            "12": "//kodik.cc/seria/494712/1800d30458aaea79cd93535004b19449/720p",
+            "13": "//kodik.cc/seria/494713/e2c43a6dd579af4bb8b62cd8ff3bd66b/720p",
+            "14": "//kodik.cc/seria/494714/492fbfec90a06dae2bde3b196d91477a/720p",
+            "15": "//kodik.cc/seria/494715/b4358124e533706565106e78984c5b2c/720p",
+            "16": "//kodik.cc/seria/494716/bfb96f07f546963590185f646459396c/720p",
+            "17": "//kodik.cc/seria/494717/e2211d7fea1a3222027bed9b58d18be5/720p",
+            "18": "//kodik.cc/seria/494718/57c1424b77b7a00d9f6763a2ef8878b1/720p",
+            "19": "//kodik.cc/seria/494719/80b61a5d9c801becd3685b36ceafc3d1/720p",
+            "20": "//kodik.cc/seria/494720/926434d7874d39daaef0351b640bba6e/720p"
+          }
+        }
+      }
+    },
+    {
       "id": "serial-18911",
       "type": "foreign-serial",
       "link": "",
@@ -7362,381 +7746,6 @@
         ],
         "operators": [
           "Авик Мукхопадхьяй"
-        ]
-      }
-    },
-    {
-      "id": "movie-43021",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Жесткач",
-      "title_orig": "Brutal",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "917447",
-      "imdb_id": "tt4019346",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-28T18:30:27Z",
-      "updated_at": "2019-10-01T21:57:53Z",
-      "material_data": {
-        "title": "Жесткач",
-        "title_en": "Brutal",
-        "year": 2018,
-        "description": "В Японии бесчинствует маньяк, выслеживающий и убивающий девушек. Никто не в состоянии его остановить, а сам изувер становится всё наглее и увереннее, пока не привлекает внимание не менее изощрённой «коллеги по цеху», специализирующейся на мужчинах.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/917447.jpg",
-        "duration": 67,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "ужасы"
-        ],
-        "imdb_rating": 4.8,
-        "imdb_votes": 220,
-        "premiere_world": "2018-12-11",
-        "actors": [
-          "Асами",
-          "Катрина Грэй",
-          "Такаси Нисина",
-          "Иона",
-          "Юкино Аримото",
-          "Сигэо Осако",
-          "Аяно",
-          "Синсукэ Като",
-          "Нанако Охата",
-          "Момоко Като"
-        ],
-        "directors": [
-          "Такаси Хиросэ"
-        ],
-        "producers": [
-          "Такаси Хиросэ"
-        ],
-        "writers": [
-          "Такаси Хиросэ"
-        ],
-        "operators": [
-          "Магнус Торс"
-        ]
-      }
-    },
-    {
-      "id": "movie-43211",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Детектив К: Тайна демона-вампира",
-      "title_orig": "Joseon myeongtamjeong: heuphyeolgwimaui bimil",
-      "other_title": "Jo-seon-myeong-tamjeong: Heupyeolgoemaui bimil",
-      "translation": {
-        "id": 639,
-        "title": "SoftBox",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1046590",
-      "imdb_id": "tt7108976",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-01T17:50:44Z",
-      "updated_at": "2019-10-01T17:50:44Z",
-      "material_data": {
-        "title": "Детектив К: Тайна демона-вампира",
-        "title_en": "Joseon myeongtamjeong: heuphyeolgwimaui bimil",
-        "year": 2018,
-        "description": "В Чосоне снова неспокойно. Некто выкапывает обгоревшее тело женщины и оживляет её с помощью крови. После этого в округе начинают происходит очень странные дела - люди воспламеняются прямо на улице и сгорают заживо. Самое время детективу Ким Мину с верным помощником взяться за расследование. Но вот ещё одна странность - куда бы они ни пошли, везде натыкаются на загадочную незнакомку невероятной силы, которая к тому же не помнит ни своего имени, ни своего прошлого.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1046590.jpg",
-        "duration": 120,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "детектив",
-          "комедия",
-          "приключения"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 234,
-        "imdb_rating": 6.1,
-        "imdb_votes": 386,
-        "premiere_world": "2018-02-08",
-        "actors": [
-          "Ким Мён-мин",
-          "О Даль-су",
-          "Ким Джи-вон",
-          "Ким Бом",
-          "Пак Кын-хён",
-          "У Хён",
-          "Ли Мин-ги",
-          "Нам Сон-джин",
-          "Ан Нэ-сан",
-          "Хён У"
-        ],
-        "directors": [
-          "Ким Сог-юн"
-        ],
-        "producers": [
-          "Ю Джон-хун",
-          "Кимджо Гван-су",
-          "Ан Мон-щик"
-        ],
-        "writers": [
-          "Ким Тхак-хван",
-          "Хан Джын-э",
-          "Чо Ын-и",
-          "Ли Нам-гю"
-        ],
-        "composers": [
-          "Ким У-чхоль"
-        ],
-        "editors": [
-          "Щин Мин-гён"
-        ],
-        "designers": [
-          "Ан Джон-хун",
-          "Квон Ю-джин",
-          "Ли Хе-ран"
-        ],
-        "operators": [
-          "Чан Нам-чхоль"
-        ]
-      }
-    },
-    {
-      "id": "movie-43210",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Не дыша",
-      "title_orig": "Nobeuresing",
-      "other_title": "Дыхания нет / На одном дыхании",
-      "translation": {
-        "id": 620,
-        "title": "GREEN TEA",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "764483",
-      "imdb_id": "tt2917646",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-01T17:00:38Z",
-      "updated_at": "2019-10-01T17:00:38Z",
-      "material_data": {
-        "title": "Не дыша",
-        "title_en": "Nobeuresing",
-        "year": 2013,
-        "description": "Отец Вон-иля был не особо выдающимся пловцом, а у сына способности гораздо лучше, но хромает дисциплина. Обеспеченный отец У-сана слишком сильно его опекает - готов нанять лучших тренеров и даже подкупить чиновников, поэтому неудивительно, что парень бунтует. В детстве ребята уже встречались на соревнованиях и несколько лет спустя мало того, что оказались в одной спортивной школе, так ещё и в одной комнате в общежитии.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/764483.jpg",
-        "duration": 118,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "мелодрама",
-          "спорт"
-        ],
-        "kinopoisk_rating": 7.5,
-        "kinopoisk_votes": 2459,
-        "imdb_rating": 6.5,
-        "imdb_votes": 774,
-        "premiere_world": "2013-10-30",
-        "actors": [
-          "Ли Джон-сок",
-          "Со Ин-гук",
-          "Квон Ю-ри",
-          "Пак Чхоль-мин",
-          "Щин Мин-чхоль",
-          "Ким Джэ-ён",
-          "Пак Чон-чхоль",
-          "Сону Джэ-док",
-          "Аён",
-          "По-ми Чжон"
-        ],
-        "directors": [
-          "Чо Ён-сон"
-        ],
-        "producers": [
-          "Чон Дэ-хун",
-          "Ли Сон-джун",
-          "Пак Чхан-хён",
-          "Пак Чэ-су",
-          "Пак Сэ-джун"
-        ],
-        "writers": [
-          "Чо Ён-сон",
-          "Ю Ён-а"
-        ],
-        "editors": [
-          "Хо Сон-ми"
-        ],
-        "operators": [
-          "Ли Джун-гю"
-        ]
-      }
-    },
-    {
-      "id": "movie-43208",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Порыв ветра",
-      "title_orig": "Nae yeojachingureul sogaehabnida",
-      "other_title": "Nae yeojachingureul sogae habnida / Windstruck",
-      "translation": {
-        "id": 639,
-        "title": "SoftBox",
-        "type": "voice"
-      },
-      "year": 2004,
-      "kinopoisk_id": "143172",
-      "imdb_id": "tt0409072",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-01T16:54:57Z",
-      "updated_at": "2019-10-01T16:54:57Z",
-      "material_data": {
-        "title": "Порыв ветра",
-        "title_en": "Nae yeojachingureul sogaehabnida",
-        "year": 2004,
-        "tagline": "If only I can feel you....even as the wind",
-        "description": "Когда офицер Ё Гён-джин слышит женщину, кричащую, что кто-то схватил её кошелек, она не может позволить такому преступлению пройти незамеченным. Гён-джин бросается в погоню за нарушителем, ловит его и доставляет в отделение полиции. А там она обнаруживает, что этот парень - вовсе не преступник, а наоборот, храбрый гражданин, который пытался поймать настоящего грабителя.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/143172.jpg",
-        "duration": 123,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "драма",
-          "комедия",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 1032,
-        "imdb_rating": 7.2,
-        "imdb_votes": 6870,
-        "premiere_world": "2004-06-03",
-        "actors": [
-          "Чон Джи-хён",
-          "Чан Хёк",
-          "Ким Джон-тхэ",
-          "Чон Хо-бин",
-          "Ким Чхан-ван",
-          "Ким Гван-гю",
-          "Чон Дэ-хун",
-          "Чон Чжэ-хён",
-          "Сон Ён-сун",
-          "Мин Ён"
-        ],
-        "directors": [
-          "Квак Чэ-ён"
-        ],
-        "producers": [
-          "Чхве Со-ён",
-          "Чон Хун-тхак",
-          "Уильям Кун",
-          "Филип Ли"
-        ],
-        "writers": [
-          "Квак Чэ-ён"
-        ],
-        "composers": [
-          "Чхве Сын-хён"
-        ],
-        "editors": [
-          "Ким Джэ-бом",
-          "Ким Сан-бом"
-        ],
-        "designers": [
-          "Яшика Аграванте",
-          "Квон Ю-джин"
-        ],
-        "operators": [
-          "Чон Хан-чхоль"
-        ]
-      }
-    },
-    {
-      "id": "movie-43207",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Портрет красивой девушки",
-      "title_orig": "Miindo",
-      "other_title": "Портрет красавицы / Mi-in-do",
-      "translation": {
-        "id": 620,
-        "title": "GREEN TEA",
-        "type": "voice"
-      },
-      "year": 2008,
-      "kinopoisk_id": "437405",
-      "imdb_id": "tt1330206",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-01T16:26:12Z",
-      "updated_at": "2019-10-01T16:26:12Z",
-      "material_data": {
-        "title": "Портрет красивой девушки",
-        "title_en": "Miindo",
-        "year": 2008,
-        "description": "История о талантливой художнице эпохи Чосон Щин Юн-бок, о роковой любви, и о запутанных отношениях мужчины и женщины.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/437405.jpg",
-        "duration": 108,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "биография",
-          "история",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.1,
-        "kinopoisk_votes": 492,
-        "imdb_rating": 6.5,
-        "imdb_votes": 618,
-        "premiere_world": "2008-11-13",
-        "rating_mpaa": "PG-13",
-        "actors": [
-          "Ким Гю-ри",
-          "Ким Ён-хо",
-          "Ким Нам-гиль",
-          "Чху Джа-хён",
-          "Чхве Дэ-сон",
-          "Чу Ён-хо",
-          "Ли Сок",
-          "О Ман-сок",
-          "Ё Хо-мин",
-          "Ра Ми-ран"
-        ],
-        "directors": [
-          "Чон Юн-су"
-        ],
-        "producers": [
-          "Ли Сон-хун"
-        ],
-        "writers": [
-          "Хан Су-рён",
-          "Чон Юн-су"
-        ],
-        "composers": [
-          "Хван Сан-джун"
-        ],
-        "editors": [
-          "Пак Кок-чи"
-        ],
-        "designers": [
-          "Ким Юн-сок",
-          "Ли Ха-джун"
-        ],
-        "operators": [
-          "Пак Хи-джу"
         ]
       }
     }

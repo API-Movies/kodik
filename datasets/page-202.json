@@ -1,6 +1,869 @@
 {
   "results": [
     {
+      "id": "serial-18105",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Мститель",
+      "title_orig": "Avenger",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2003,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "397430",
+      "imdb_id": "tt0883021",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2722",
+      "shikimori_id": "56",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-08-20T23:01:29Z",
+      "updated_at": "2019-12-06T21:16:28Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/473983/ae20f61b7a5b97f54b67bc2a70872b7f/720p",
+            "2": "//aniqit.com/seria/473984/d98e3ea9efeff50abdcfd993b85ff1d0/720p",
+            "3": "//aniqit.com/seria/473985/57b68494477ef10aebe6060e20975b0c/720p",
+            "4": "//aniqit.com/seria/473986/d3283ea5a07a57d0448384f873576459/720p",
+            "5": "//aniqit.com/seria/473987/b23d47cb7efbb5a74e66c714bced20d0/720p",
+            "6": "//aniqit.com/seria/473988/8cab0af9d2e56b2616825e5d9bb8a916/720p",
+            "7": "//aniqit.com/seria/473989/e2415d374b268bbac9fc213e436c11b7/720p",
+            "8": "//aniqit.com/seria/473990/63fbe2d3daa2eee4dc0ce1d2d870d613/720p",
+            "9": "//aniqit.com/seria/473991/9a22cf7e278d9952f03c95bd4d7ed6cc/720p",
+            "10": "//aniqit.com/seria/473992/1873102c48709d2e2b0d4b5f93b4509e/720p",
+            "11": "//aniqit.com/seria/473993/c09a99517ece74a236cf0295d8f83a9a/720p",
+            "12": "//aniqit.com/seria/473994/685c6a858ecccee9682f6d2f3ec99ba3/720p",
+            "13": "//aniqit.com/seria/473995/f9204e03006e109d1d646f5de0d159f3/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Мститель",
+        "title_en": "Avenger",
+        "other_titles": [
+          "Мстительница"
+        ],
+        "other_titles_jp": [
+          "アヴェンジャー"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2003,
+        "tagline": "From the Creators of .hack//SIGN",
+        "description": "Итак, будущее, человечество умудрилось-таки угробить Землю-матушку и, поскольку до Альфы Центавра не долетело, расселилось по окрестным планетам, в частности, колонии появились на Марсе. В этом багровом мире бродит от города к городу некая Лэйла Эшли, молчаливая девица с хорошим ударом обеими руками и ногами, замечательной пластикой, странной куклой Нэй и девизом: «Надеюсь, ты сможешь меня убить».\n\rЦель ее прогулки проста: отомстить Волку. Нет, не из сказки про Красную Шапочку. Волк - негласный правитель Марса, большой поклонник непопулярных методов ведения дел и таскания на себе всяких тяжестей, вроде доспехов и грехов. Однажды ему придется ответить за содеянное...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/397430.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/943de10417d07258b2c890c092b6fe6006571e87.jpg",
+          "https://shikimori.one/system/screenshots/original/614b3a5ad4d20fcb8eabfccc7c5f5dad407ff381.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Приключения",
+          "Сёнен",
+          "Фантастика",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Bee Train",
+          "Xebec"
+        ],
+        "imdb_rating": 5.7,
+        "imdb_votes": 67,
+        "shikimori_rating": 5.91,
+        "shikimori_votes": 266,
+        "premiere_world": "2003-10-01",
+        "aired_at": "2003-10-02",
+        "released_at": "2003-12-25",
+        "rating_mpaa": "R",
+        "minimal_age": 16,
+        "episodes_total": 13,
+        "episodes_aired": 0,
+        "actors": [
+          "Хироси Янака",
+          "Суми Симамото",
+          "Мэгуми Тоёгути",
+          "Мика Канаи",
+          "Синъитиро Ота",
+          "Иссин Тиба",
+          "Юсаку Яра",
+          "Кацуюки Конъиси",
+          "Фудзико Такимото",
+          "Кан Танака"
+        ],
+        "directors": [
+          "Коити Масимо",
+          "Юки Эри",
+          "Масая Кавамо",
+          "Хироси Мориока",
+          "Томоюки Курокава",
+          "Масаюки Куросава"
+        ],
+        "producers": [
+          "Фукаси Адзума",
+          "Синъити Икэда",
+          "Рёдзи Мару",
+          "Кодзи Моримото",
+          "Тэцуро Сатоми"
+        ],
+        "writers": [
+          "Хидэфуми Кимура",
+          "Митсухико Савамура",
+          "Сатоми Сугимура"
+        ],
+        "composers": [
+          "Ali Project"
+        ],
+        "editors": [
+          "Киёцуги Морита",
+          "Сэидзи Морита",
+          "Юкиэ Оикава",
+          "Тиэко Такаяма"
+        ],
+        "designers": [
+          "Тосихиса Кояма"
+        ],
+        "operators": [
+          "Такаси Аоки",
+          "Хитоси Саито"
+        ]
+      }
+    },
+    {
+      "id": "serial-6931",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Мэйджор [ТВ-2]",
+      "title_orig": "Major (2005)",
+      "other_title": "Мэйджор ТВ-2 / Mejaa",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2005,
+      "last_season": 2,
+      "last_episode": 26,
+      "episodes_count": 26,
+      "kinopoisk_id": "713518",
+      "imdb_id": "tt1693435",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4988",
+      "shikimori_id": "558",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-12-03T00:05:24Z",
+      "updated_at": "2019-12-06T21:15:12Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/183123/49550ca349a3b8a1b6dd7aee3594a363/720p",
+            "2": "//aniqit.com/seria/183124/4f411c4bb2d2027134f9fa3ebf434119/720p",
+            "3": "//aniqit.com/seria/183125/ba9d30bedcd75487c8c14da48e9ead45/720p",
+            "4": "//aniqit.com/seria/183126/a33f0d44be4d7f0e197089fabeb1e467/720p",
+            "5": "//aniqit.com/seria/183127/601092aa2922fa5b277272f2ca67156d/720p",
+            "6": "//aniqit.com/seria/183128/0adeedf69a2d57e5306aeb55354be691/720p",
+            "7": "//aniqit.com/seria/183129/f5abbf7d4984a33708f3514c2ca6a2d4/720p",
+            "8": "//aniqit.com/seria/183130/55d4aaf37f57c68d886b944ad4a46f4b/720p",
+            "9": "//aniqit.com/seria/183131/a37259c3c90143d6cd642a692a1be923/720p",
+            "10": "//aniqit.com/seria/183132/23e554fcd8a103a432114a43941d3bd5/720p",
+            "11": "//aniqit.com/seria/183133/a7a2e7abcdc7dc71621a5208c9d2ef7e/720p",
+            "12": "//aniqit.com/seria/183134/d1bb0153f8a7a2618be561a8050b0977/720p",
+            "13": "//aniqit.com/seria/183135/5aa670e5947a4477f493cf71663734c0/720p",
+            "14": "//aniqit.com/seria/183136/4716a113c583ff3df1f2602667713a55/720p",
+            "15": "//aniqit.com/seria/183137/e1c5295a60c7246b6ec71a6ad065201d/720p",
+            "16": "//aniqit.com/seria/183138/c5b9bdbd5addc06f48d57e1dc94eaa3a/720p",
+            "17": "//aniqit.com/seria/183139/ef3e018079efe47417e5ec9a57bb43d3/720p",
+            "18": "//aniqit.com/seria/183140/f2133010673cea927b9edc8092330927/720p",
+            "19": "//aniqit.com/seria/183141/588f4094da2484f9bda3c999c03e4ada/720p",
+            "20": "//aniqit.com/seria/183142/00018295ec8e54de5a7cae6147f0412d/720p",
+            "21": "//aniqit.com/seria/183143/58386c62892a6427517538fadd2c9a30/720p",
+            "22": "//aniqit.com/seria/183144/b24b960b1ba5aae82656fbe6875c6288/720p",
+            "23": "//aniqit.com/seria/183145/ec3d39925d4635aff5bf5f841d183912/720p",
+            "24": "//aniqit.com/seria/183146/24c8d8b90682a4756eda160e287aa26e/720p",
+            "25": "//aniqit.com/seria/183147/12e41c2ad473bab81c5273d393e27886/720p",
+            "26": "//aniqit.com/seria/183148/ea16ec1fdfe6c75eef34680fa28b5feb/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Мэйджор",
+        "title_en": "Mejaa",
+        "other_titles_jp": [
+          "メジャー  (第2シリーズ)"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2004,
+        "description": "Сигэхару Хонда — начинающий бэттер Высшей лиги. Его сын Горо — питчер Младшей лиги, надеющийся однажды пойти по стопам отца. Момоко Хосино — учительница Горо и первая женщина, к которой его отец проявил интерес со времени смерти своей жены. Судьбы этих троих переплетутся, когда отец и сын станут испытывать радость побед и горечь поражений на поприще бейсбола. И они продолжат следовать за своей мечтой, что бы ни случилось.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/713518.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/e24bae790a8ff64993d3b1aab92f6d7f04a1879b.jpg",
+          "https://shikimori.one/system/screenshots/original/1cbab6b90cead174895599278de125c5bdf6219b.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "драма",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Комедия",
+          "Спорт",
+          "Сёнен"
+        ],
+        "anime_studios": [
+          "Studio Hibari"
+        ],
+        "kinopoisk_rating": 8.4,
+        "kinopoisk_votes": 322,
+        "imdb_rating": 8.1,
+        "imdb_votes": 272,
+        "shikimori_rating": 8.26,
+        "shikimori_votes": 2032,
+        "premiere_world": "2004-11-13",
+        "aired_at": "2005-12-10",
+        "released_at": "2006-06-10",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 26,
+        "episodes_aired": 0,
+        "actors": [
+          "Сётаро Морикубо",
+          "Масакадзу Морита",
+          "Дзюнко Нода",
+          "Мамико Ното",
+          "Юко Сасамото"
+        ],
+        "directors": [
+          "Кэнъити Сакаи"
+        ],
+        "producers": [
+          "Наохико Фурути",
+          "Хисако Мацумото"
+        ],
+        "writers": [
+          "Томоко Конпару",
+          "Такуя Мицуда",
+          "Мицуё Суэнага",
+          "Митихиро Цутия",
+          "Такао Ёсиока"
+        ],
+        "composers": [
+          "Юкинори Асакура",
+          "Котаро Накагава"
+        ],
+        "operators": [
+          "Таро Сато"
+        ]
+      }
+    },
+    {
+      "id": "serial-6933",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Мэйджор [ТВ-4]",
+      "title_orig": "Major (2008)",
+      "other_title": "Мэйджор ТВ-4 / Mejaa",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2008,
+      "last_season": 4,
+      "last_episode": 26,
+      "episodes_count": 26,
+      "kinopoisk_id": "713518",
+      "imdb_id": "tt1693435",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6576",
+      "shikimori_id": "3226",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-12-03T00:08:48Z",
+      "updated_at": "2019-12-06T21:13:05Z",
+      "seasons": {
+        "4": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/183175/7fd95023ab4d2078e75a59a996aefd86/720p",
+            "2": "//aniqit.com/seria/183176/98a5184fcafd8d61d1ee9094f192b165/720p",
+            "3": "//aniqit.com/seria/183177/bc21251ba39b8e7d73085e8606ca7b47/720p",
+            "4": "//aniqit.com/seria/183178/c662fa3be700ea045dc706ae70993365/720p",
+            "5": "//aniqit.com/seria/183179/c81bc5b8e9dcdcaccd493cb340774787/720p",
+            "6": "//aniqit.com/seria/183180/28ee3b710824f258700257ad980f07ec/720p",
+            "7": "//aniqit.com/seria/183181/8b9559c3116c45409c88b822ec3c3f9b/720p",
+            "8": "//aniqit.com/seria/183182/d130a5e0aead2f552286bbe786173d80/720p",
+            "9": "//aniqit.com/seria/183183/855bb1f6826c32a2f0f3d9fff39cc106/720p",
+            "10": "//aniqit.com/seria/183184/1c511f7efb88fcab4a42f7a8fd777adb/720p",
+            "11": "//aniqit.com/seria/183185/754dfc4e94a34954d607f0aa2bee18f8/720p",
+            "12": "//aniqit.com/seria/183186/596144f8b4e3d614039b3b7f2344cf32/720p",
+            "13": "//aniqit.com/seria/183187/7cf8db0c8d4d703dae6971e2c0493160/720p",
+            "14": "//aniqit.com/seria/183188/ca4177f6fbf378073388f1be7f18f3db/720p",
+            "15": "//aniqit.com/seria/183189/9e68348f73e97490976012bfa4c3acd2/720p",
+            "16": "//aniqit.com/seria/183190/8329ba32c4c34589e6f67499ed5fcb76/720p",
+            "17": "//aniqit.com/seria/183191/0c7db482275bf065141c0cf5c211f9d7/720p",
+            "18": "//aniqit.com/seria/183192/109a5a5e6afe09d4635b46bce4c6e738/720p",
+            "19": "//aniqit.com/seria/183193/e9e144f7b27cc3e7f82bae9b0a7b5e85/720p",
+            "20": "//aniqit.com/seria/183194/548f10d340ff300fe971bb5251832c9f/720p",
+            "21": "//aniqit.com/seria/183195/f8303b7f480b1009bd53afb382600af6/720p",
+            "22": "//aniqit.com/seria/183196/02bca92f4fa895b64809c4df409bc8b5/720p",
+            "23": "//aniqit.com/seria/183197/034975d26e8366ed805939d89419f645/720p",
+            "24": "//aniqit.com/seria/183198/7659855b49be91ea3fa38f2916022391/720p",
+            "25": "//aniqit.com/seria/183199/e29674ce07b92cc5af97ec25659bafd4/720p",
+            "26": "//aniqit.com/seria/183200/69c8374dc30899aceec9543b0124d283/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Мэйджор",
+        "title_en": "Mejaa",
+        "other_titles": [
+          "Major 4th Season",
+          "Major 4",
+          "m4"
+        ],
+        "other_titles_jp": [
+          "メジャー　（第4シリーズ)"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2004,
+        "description": "Сигэхару Хонда — начинающий бэттер Высшей лиги. Его сын Горо — питчер Младшей лиги, надеющийся однажды пойти по стопам отца. Момоко Хосино — учительница Горо и первая женщина, к которой его отец проявил интерес со времени смерти своей жены. Судьбы этих троих переплетутся, когда отец и сын станут испытывать радость побед и горечь поражений на поприще бейсбола. И они продолжат следовать за своей мечтой, что бы ни случилось.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/713518.jpg",
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "драма",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Комедия",
+          "Спорт",
+          "Сёнен"
+        ],
+        "anime_studios": [
+          "SynergySP"
+        ],
+        "kinopoisk_rating": 8.4,
+        "kinopoisk_votes": 322,
+        "imdb_rating": 8.1,
+        "imdb_votes": 272,
+        "shikimori_rating": 8.25,
+        "shikimori_votes": 1809,
+        "premiere_world": "2004-11-13",
+        "aired_at": "2008-01-05",
+        "released_at": "2008-06-28",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 26,
+        "episodes_aired": 0,
+        "actors": [
+          "Сётаро Морикубо",
+          "Масакадзу Морита",
+          "Дзюнко Нода",
+          "Мамико Ното",
+          "Юко Сасамото"
+        ],
+        "directors": [
+          "Кэнъити Сакаи"
+        ],
+        "producers": [
+          "Наохико Фурути",
+          "Хисако Мацумото"
+        ],
+        "writers": [
+          "Томоко Конпару",
+          "Такуя Мицуда",
+          "Мицуё Суэнага",
+          "Митихиро Цутия",
+          "Такао Ёсиока"
+        ],
+        "composers": [
+          "Юкинори Асакура",
+          "Котаро Накагава"
+        ],
+        "operators": [
+          "Таро Сато"
+        ]
+      }
+    },
+    {
+      "id": "serial-6934",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Мэйджор [ТВ-5]",
+      "title_orig": "Major (2009)",
+      "other_title": "Мэйджор ТВ-5 / Mejaa",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2009,
+      "last_season": 5,
+      "last_episode": 25,
+      "episodes_count": 25,
+      "kinopoisk_id": "713518",
+      "imdb_id": "tt1693435",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7078",
+      "shikimori_id": "5028",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-12-03T00:10:13Z",
+      "updated_at": "2019-12-06T21:10:18Z",
+      "seasons": {
+        "5": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/183201/fa573cceb66fce2da7aec184a00a09a3/720p",
+            "2": "//aniqit.com/seria/183202/8bef57857beba663b1b8caa68c56d422/720p",
+            "3": "//aniqit.com/seria/183203/11a7a0e98e9b14501f8e157db27ff75f/720p",
+            "4": "//aniqit.com/seria/183204/2f6336fe46d3b4877556b0a6e2c09f1d/720p",
+            "5": "//aniqit.com/seria/183205/2927adaa218c27bd466cadc6960fb281/720p",
+            "6": "//aniqit.com/seria/183206/503f8bbbdf51cbef91e979cc57db411c/720p",
+            "7": "//aniqit.com/seria/183207/bdf807f40a53cb95c6ac9e3b56197e9a/720p",
+            "8": "//aniqit.com/seria/183208/8b80fa50d20a667d3d1cb1c3bf5fbf26/720p",
+            "9": "//aniqit.com/seria/183209/2760216ee97dbc0241e76d103a5e1f76/720p",
+            "10": "//aniqit.com/seria/183210/9ebfaf521a1870d6f8dfe7edcc8af79d/720p",
+            "11": "//aniqit.com/seria/183211/67a99066f52045e3f101fef3311ba6df/720p",
+            "12": "//aniqit.com/seria/183212/3478e532462f78891bc1cc056d930a1c/720p",
+            "13": "//aniqit.com/seria/183213/93f9e8d0ca103949d037091c47123b19/720p",
+            "14": "//aniqit.com/seria/183214/37da4d8ce60f48d24cae56f475f9ccc6/720p",
+            "15": "//aniqit.com/seria/183215/c65eb0a1fd1a0579bb1a424f357b9429/720p",
+            "16": "//aniqit.com/seria/183216/8231bc569160642258ed9fc012b7ad7a/720p",
+            "17": "//aniqit.com/seria/183217/46bb60beb289415b4b48b1dbf8d2c9dd/720p",
+            "18": "//aniqit.com/seria/183218/827b302eef149304e7a9a5e69a2a44b6/720p",
+            "19": "//aniqit.com/seria/183219/a23234428b8d248c216a2d3c9a88a02b/720p",
+            "20": "//aniqit.com/seria/183220/1feecae5bfbdcf80d67dfa29abec911a/720p",
+            "21": "//aniqit.com/seria/183221/0eaf05c245c051f4f5e92da7ac7a3380/720p",
+            "22": "//aniqit.com/seria/183222/59236f32d8754a3345200a8904262931/720p",
+            "23": "//aniqit.com/seria/183223/f3c69678e0678d61dda9724dda6510e3/720p",
+            "24": "//aniqit.com/seria/183224/46f9b32797b790d973f52f5836b1e385/720p",
+            "25": "//aniqit.com/seria/183225/8f81a63da3adc23f4d577c8ed89e6acd/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Мэйджор",
+        "title_en": "Mejaa",
+        "other_titles": [
+          "Major 5th Season"
+        ],
+        "other_titles_jp": [
+          "メジャー"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2004,
+        "description": "Сигэхару Хонда — начинающий бэттер Высшей лиги. Его сын Горо — питчер Младшей лиги, надеющийся однажды пойти по стопам отца. Момоко Хосино — учительница Горо и первая женщина, к которой его отец проявил интерес со времени смерти своей жены. Судьбы этих троих переплетутся, когда отец и сын станут испытывать радость побед и горечь поражений на поприще бейсбола. И они продолжат следовать за своей мечтой, что бы ни случилось.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/713518.jpg",
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "драма",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Комедия",
+          "Романтика",
+          "Спорт",
+          "Сёнен"
+        ],
+        "anime_studios": [
+          "SynergySP"
+        ],
+        "kinopoisk_rating": 8.4,
+        "kinopoisk_votes": 322,
+        "imdb_rating": 8.1,
+        "imdb_votes": 272,
+        "shikimori_rating": 8.46,
+        "shikimori_votes": 1847,
+        "premiere_world": "2004-11-13",
+        "aired_at": "2009-01-10",
+        "released_at": "2009-06-27",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 25,
+        "episodes_aired": 0,
+        "actors": [
+          "Сётаро Морикубо",
+          "Масакадзу Морита",
+          "Дзюнко Нода",
+          "Мамико Ното",
+          "Юко Сасамото"
+        ],
+        "directors": [
+          "Кэнъити Сакаи"
+        ],
+        "producers": [
+          "Наохико Фурути",
+          "Хисако Мацумото"
+        ],
+        "writers": [
+          "Томоко Конпару",
+          "Такуя Мицуда",
+          "Мицуё Суэнага",
+          "Митихиро Цутия",
+          "Такао Ёсиока"
+        ],
+        "composers": [
+          "Юкинори Асакура",
+          "Котаро Накагава"
+        ],
+        "operators": [
+          "Таро Сато"
+        ]
+      }
+    },
+    {
+      "id": "serial-8528",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Нана [ТВ]",
+      "title_orig": "NANA",
+      "other_title": "Nana",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2006,
+      "last_season": 1,
+      "last_episode": 50,
+      "episodes_count": 50,
+      "kinopoisk_id": "400122",
+      "imdb_id": "tt0810705",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5477",
+      "shikimori_id": "877",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-01-08T16:51:20Z",
+      "updated_at": "2019-12-06T21:05:22Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/220304/b38326c67e21eb0a49d6306cb391828f/720p",
+            "2": "//aniqit.com/seria/220305/e729846fa847781d60b9896000c9dc7d/720p",
+            "3": "//aniqit.com/seria/220306/bf4c80cb66f6e0c3b263ce381a43f309/720p",
+            "4": "//aniqit.com/seria/220307/6ed6d8137835c9c92a4d9d5847db2155/720p",
+            "5": "//aniqit.com/seria/220308/605c1ab03b1df92a53122c033cda8e06/720p",
+            "6": "//aniqit.com/seria/220309/885d2e1452877689ba3e0beb1562bc7b/720p",
+            "7": "//aniqit.com/seria/220310/5931a81fd70fdce7697d6b12f598629d/720p",
+            "8": "//aniqit.com/seria/220311/a4bd817cc48fcd9573155d2bf1f664f2/720p",
+            "9": "//aniqit.com/seria/220312/ba603c5d981703a51336d392a8f049b4/720p",
+            "10": "//aniqit.com/seria/220313/b9725f3ad8ae069706d1d148f534578f/720p",
+            "11": "//aniqit.com/seria/220314/f494518171132647e499981609ee3909/720p",
+            "12": "//aniqit.com/seria/220315/a8701c19797b61e455ffd22fee1b0d5c/720p",
+            "13": "//aniqit.com/seria/220316/06529817d7e7d24510bd4b90d98b92d9/720p",
+            "14": "//aniqit.com/seria/220317/c53b3b32d61f047ed1227828c0ae69b4/720p",
+            "15": "//aniqit.com/seria/220318/50d50f7d8a119bf206d77ef639215c4c/720p",
+            "16": "//aniqit.com/seria/220319/305886a4916cebfb4fb296cd123c448b/720p",
+            "17": "//aniqit.com/seria/220320/9ba8f50a5b64855a5488643f576c0099/720p",
+            "18": "//aniqit.com/seria/220321/7bff1894eb93c2b2516188b944760e9b/720p",
+            "19": "//aniqit.com/seria/220322/5ff4934976d0d72094ef0f883a36f553/720p",
+            "20": "//aniqit.com/seria/220323/245e2e14c6241a52d36b4501bedc8a9b/720p",
+            "21": "//aniqit.com/seria/220324/d433a2fd5580edbf46dcc268309940c4/720p",
+            "22": "//aniqit.com/seria/220325/6946f6ba966b3df2b9d9ee1430f38caf/720p",
+            "23": "//aniqit.com/seria/220326/195a990a88d18008f7d1753ec669fbde/720p",
+            "24": "//aniqit.com/seria/220327/ffe87c728e32a24191670c5ba9498715/720p",
+            "25": "//aniqit.com/seria/220328/d4e4a72f6f354f8b0eb82c620af8940e/720p",
+            "26": "//aniqit.com/seria/220329/6322022d20899c4bfc34906fca2b0d50/720p",
+            "27": "//aniqit.com/seria/220330/cb006503b20195e465dcd3d6ae8debc1/720p",
+            "28": "//aniqit.com/seria/220331/4b0bab74d3b84f69a7294d4e135f2f81/720p",
+            "29": "//aniqit.com/seria/220332/6196af018d45e16c3e7d82fc6af1cf81/720p",
+            "30": "//aniqit.com/seria/220333/b2d53a750a0bcbb4375a1fb97cae2d40/720p",
+            "31": "//aniqit.com/seria/220334/dda9364040a8000100d2354c80fe67d2/720p",
+            "32": "//aniqit.com/seria/220335/cf970f38cf1b18cde9c7619745c3945a/720p",
+            "33": "//aniqit.com/seria/220336/54f4baa512413810528b084ce51b6391/720p",
+            "34": "//aniqit.com/seria/220337/a9d4aee3ebbf0f2d5d8df072661d6a0a/720p",
+            "35": "//aniqit.com/seria/220338/70639a1414e3f704514d1e40451bcaa9/720p",
+            "36": "//aniqit.com/seria/220339/54036ca3d7527d4c510605195e168fe1/720p",
+            "37": "//aniqit.com/seria/220340/bd600ba5c9f2ad486be10347bb687c23/720p",
+            "38": "//aniqit.com/seria/220341/509410d365be28917cf46285d166acb7/720p",
+            "39": "//aniqit.com/seria/220342/162def962ddd91338f2f3bbc7a2dc159/720p",
+            "40": "//aniqit.com/seria/220343/3b1be692ef4364b5781d79593ddacc0a/720p",
+            "41": "//aniqit.com/seria/220344/17730025905718bebe80201b63d1fe72/720p",
+            "42": "//aniqit.com/seria/220345/1f945e49b11790fe7e90c5706c8199d5/720p",
+            "43": "//aniqit.com/seria/220346/1e20e24dc5764f3f77ac3c4d46fd70c5/720p",
+            "44": "//aniqit.com/seria/220347/c502d7fc798d169d1c412995dbc840ec/720p",
+            "45": "//aniqit.com/seria/220348/a76583e81748af670ff84d9d8f81f9e7/720p",
+            "46": "//aniqit.com/seria/220349/ea1fb7803f66b942f31258359086b434/720p",
+            "47": "//aniqit.com/seria/220350/1fdd261965eea0c4c6a3bb2b83b587df/720p",
+            "48": "//aniqit.com/seria/220351/7e3ff5c695b2c3b1bebc680a1dd1ac85/720p",
+            "49": "//aniqit.com/seria/220352/890454c61bdaef13b08969fe2fa69bc1/720p",
+            "50": "//aniqit.com/seria/220353/d37fce7ede77f42056938c900e607f3b/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Нана",
+        "title_en": "Nana",
+        "other_titles_en": [
+          "Nana"
+        ],
+        "other_titles_jp": [
+          "NANA [ナナ]"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2006,
+        "description": "В вагоне одного поезда, следовавшего в Токио, Нана Комацу, ехавшая к своему парню Сёдзи, случайно оказалась в кресле рядом с Наной Осаки, направлявшейся в столицу, чтобы исполнить свое желание — стать известной певицей. Будучи солисткой панк-группы Blast, Нана мечтает о дебюте своей группы в Токио, чтобы доказать себе, всему миру и своему парню Рэну, гитаристу популярной группы Trapnest, что она самостоятельно может добиться успеха.\n\rБудучи тезками, девушки быстро находят общий язык, даже несмотря на противоположность характеров. Однако, увидев Сёдзи уже в Токио, Нана Комацу теряет из виду другую Нану: случайное знакомство в поезде подошло к концу. Но судьба сводит их снова, когда они сталкиваются в квартире, которую обе хотели снять. Слово за слово, они решают жить вместе. Ещё бы: ведь и без того низкая плата за квартиру станет в два раза ниже! Так и начинаются жизненные приключения двух девушек с одни именем, вместе идущих навстречу своим мечтам.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/400122.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/e9a86d03e81e1f902a25e11d259898e5420e741a.jpg",
+          "https://shikimori.one/system/screenshots/original/ed6f73a496541cfe684b4ca804eba59dd1690515.jpg"
+        ],
+        "duration": 22,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Комедия",
+          "Музыка",
+          "Повседневность",
+          "Романтика",
+          "Сёдзё"
+        ],
+        "anime_studios": [
+          "Madhouse"
+        ],
+        "kinopoisk_rating": 8.2,
+        "kinopoisk_votes": 6966,
+        "imdb_rating": 8.4,
+        "imdb_votes": 2523,
+        "shikimori_rating": 8.46,
+        "shikimori_votes": 10225,
+        "premiere_world": "2006-04-05",
+        "aired_at": "2006-04-05",
+        "released_at": "2007-03-28",
+        "rating_mpaa": "R+",
+        "episodes_total": 47,
+        "episodes_aired": 0,
+        "actors": [
+          "Роми Пак",
+          "Мидори Кавана",
+          "Брайан Драммонд",
+          "Тосиюки Морикава",
+          "Эшли Болл",
+          "Николь Боума",
+          "Ричард Иэн Кокс",
+          "Мэттью Эриксон",
+          "Эндрю Френсис",
+          "Джереми Том"
+        ],
+        "directors": [
+          "Морио Асака",
+          "Рёсукэ Накамура"
+        ],
+        "producers": [
+          "Масао Маруяма"
+        ],
+        "writers": [
+          "Аи Ядзава"
+        ]
+      }
+    },
+    {
+      "id": "serial-6657",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Небесные девочки [ТВ]",
+      "title_orig": "Sky Girls (2007)",
+      "other_title": "Sukai gâruzu",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2007,
+      "last_season": 1,
+      "last_episode": 26,
+      "episodes_count": 26,
+      "kinopoisk_id": "460507",
+      "imdb_id": "tt1094233",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6513",
+      "shikimori_id": "2604",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-11-26T17:33:26Z",
+      "updated_at": "2019-12-06T20:45:14Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/176917/9067263c774070a2527fe6a0b8f64730/720p",
+            "2": "//aniqit.com/seria/176918/6e3a223ebb08042de4fd8f898c0ce293/720p",
+            "3": "//aniqit.com/seria/176919/963119f7aaa2232f31e63d77f7348b0e/720p",
+            "4": "//aniqit.com/seria/176920/32d3bcf29dd0748f6667edb2207673ec/720p",
+            "5": "//aniqit.com/seria/176921/80f5cd06df73a3b67619b97e99460678/720p",
+            "6": "//aniqit.com/seria/176922/11b343188c30bce4e3e97b3832d5175a/720p",
+            "7": "//aniqit.com/seria/176923/e5897edd6c62129d4a32d5fb6ebe094d/720p",
+            "8": "//aniqit.com/seria/176924/02d28060157f042f437f0a025a94e262/720p",
+            "9": "//aniqit.com/seria/176925/23313267ad5152845d79a4877e6db0a6/720p",
+            "10": "//aniqit.com/seria/176926/dfb8848a7a8f2a17202c013559769f74/720p",
+            "11": "//aniqit.com/seria/176927/e796b530f7f4444488348b75cf170c7e/720p",
+            "12": "//aniqit.com/seria/176928/4b67d8be7bc8669ff5fd40425f691212/720p",
+            "13": "//aniqit.com/seria/176929/11fc9fae1cbd96c1f828c0c13476b2a5/720p",
+            "14": "//aniqit.com/seria/176930/902f32dcdc79b0ef9d01dee08dd593ea/720p",
+            "15": "//aniqit.com/seria/176931/129b2689aa381bd7ab1f437ad523697d/720p",
+            "16": "//aniqit.com/seria/176932/34e878bbb615b555380a0637ebb93899/720p",
+            "17": "//aniqit.com/seria/176933/24fe74f2c7919ceedad58d655f0fde6a/720p",
+            "18": "//aniqit.com/seria/176934/f8707174540c215d5891f0890e8600d9/720p",
+            "19": "//aniqit.com/seria/176935/3d686b60e8b8cd65913c54c5be39d9b3/720p",
+            "20": "//aniqit.com/seria/176936/cdc61f94bb8ce200fdf6f1c5fe13d16f/720p",
+            "21": "//aniqit.com/seria/176937/12665fbeb1ca4df574a8238d8b4fff73/720p",
+            "22": "//aniqit.com/seria/176938/7a0ec16df7b37fdc4d1c307cf1143dcd/720p",
+            "23": "//aniqit.com/seria/176939/652ee65b934bc428ffe6ccead51a762e/720p",
+            "24": "//aniqit.com/seria/176940/bca906aad38d65a6c5b562c92e8bb549/720p",
+            "25": "//aniqit.com/seria/176941/bdbf502b622141a316435424c44431f0/720p",
+            "26": "//aniqit.com/seria/176942/dcff013614d0e14d19a9a587f827bcad/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Небесные девочки",
+        "title_en": "Sukai gâruzu",
+        "other_titles": [
+          "Sky Girls TV",
+          "Sky Girls (2007)"
+        ],
+        "other_titles_jp": [
+          "スカイガールズ"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2007,
+        "description": "В 2079 году от внешнего облика Земли мало что осталось. В пятилетней войне против загадочной инопланетной цивилизации механических существ, человечеству пришлось потопить целый континент с вражескими базами. Но победа была не полной. Некоторым механизмам удалось уцелеть. И вот, увеличившиеся просторы мирового океана бороздят военные корабли, главным оружием которых стали очаровательные юные девушки, пилотирующие меха-истребители. Трём главным героиням сериала впервые предстоит испытать на прочность свои меха-костюмы в реальном бою.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/460507.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/b260fa538a68aad4c7aa02069cc16ebb76600ce4.jpg",
+          "https://shikimori.one/system/screenshots/original/742044faa9421c671a6b26267f8fabfa422cce84.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Военное",
+          "Меха",
+          "Фантастика"
+        ],
+        "anime_studios": [
+          "J.C.Staff"
+        ],
+        "imdb_rating": 6.8,
+        "imdb_votes": 27,
+        "shikimori_rating": 7.03,
+        "shikimori_votes": 246,
+        "premiere_world": "2007-07-07",
+        "aired_at": "2007-07-06",
+        "released_at": "2007-12-28",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 26,
+        "episodes_aired": 0,
+        "actors": [
+          "Аяко Кавасуми",
+          "Саори Гото",
+          "Сидзука Ито",
+          "Аюми Цудзи"
+        ],
+        "directors": [
+          "Ёсиаки Ивасаки",
+          "Хидэки Татибана",
+          "Сигэру Уэда",
+          "Кэи Умабаки",
+          "Каору Ябана",
+          "Цуёси Ёсимото",
+          "Токио Ямаути",
+          "Anakinda",
+          "Казуюки Хирокава",
+          "Hisakazu Ishikawa"
+        ],
+        "producers": [
+          "Наохиро Футоно",
+          "Миэ Идэ",
+          "Синъитиро Касивада",
+          "Акихиро Кавамура",
+          "Yôjirô Kudô",
+          "Юдзи Мацукура",
+          "Hisanobu Satô",
+          "Ёитиро Томита",
+          "Акихиса Тояма",
+          "Akihisa Sotoyama"
+        ],
+        "writers": [
+          "Сёго Кумасака",
+          "Такао Ёсиока",
+          "Масанао Акахоси",
+          "Митико Ито",
+          "Ясунори Ямада",
+          "Хосицуёси Тамаи",
+          "Цуёси Тамаи",
+          "Eiji Ôzeki"
+        ],
+        "composers": [
+          "Синкити Мицумунэ"
+        ],
+        "editors": [
+          "Сигэру Нисияма"
+        ],
+        "designers": [
+          "Акира Судзуки",
+          "Ику Судзуки"
+        ],
+        "operators": [
+          "Кадзуя Иваи"
+        ]
+      }
+    },
+    {
       "id": "serial-6691",
       "type": "anime-serial",
       "link": "",
@@ -11180,752 +12043,6 @@
         ],
         "operators": [
           "Юмико Наката"
-        ]
-      }
-    },
-    {
-      "id": "serial-5447",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Волейбол [ТВ-3]",
-      "title_orig": "Haikyuu!! Karasuno Koukou vs Shiratorizawa Gakuen Koukou",
-      "other_title": "Волейбол!! / Волейбол!! ТВ-3 / Волейбол!! 3 Карасуно против Шираторизавы / Волейбол!! Старшая школа Карасуно против академии Шираторизава",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 3,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "kinopoisk_id": "840073",
-      "imdb_id": "tt3398540",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8717",
-      "shikimori_id": "32935",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-01T20:26:30Z",
-      "updated_at": "2019-12-05T19:33:21Z",
-      "seasons": {
-        "3": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/145771/8a6e87c9fa9506aa9b3efa6665f5cfb7/720p",
-            "2": "//aniqit.com/seria/145772/13a905f7f3d709897c20706bb0e0f130/720p",
-            "3": "//aniqit.com/seria/145773/e4569049afb26460ac6a254fab588162/720p",
-            "4": "//aniqit.com/seria/145774/e896f32bc7d2e787e6bbf49f36ca3eec/720p",
-            "5": "//aniqit.com/seria/145775/31f0ce2c8abfc4395b7815a05ac17394/720p",
-            "6": "//aniqit.com/seria/145776/6277fc782459c3741623dcacec252f51/720p",
-            "7": "//aniqit.com/seria/145777/0f1bac47be2655aa57c18bdd77d1864c/720p",
-            "8": "//aniqit.com/seria/145778/6acd09dfdc48fac8965c5b82c41f0b89/720p",
-            "9": "//aniqit.com/seria/145779/fb7e5eeb27b9e563623159c556a02142/720p",
-            "10": "//aniqit.com/seria/145780/a88b338ba80fd122714f90f84ae0d1d8/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Волейбол!!",
-        "title_en": "Haikyuu!!",
-        "other_titles": [
-          "Haikyuu!! Third Season",
-          "Haikyuu!! Karasuno High VS Shiratorizawa Academy"
-        ],
-        "other_titles_en": [
-          "Haikyu!! 3rd Season"
-        ],
-        "other_titles_jp": [
-          "ハイキュー!! 烏野高校 VS 白鳥沢学園高校"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2014,
-        "description": "Один случайный матч зажёг в Сёе Хинате безумную любовь к волейболу. Хоть в его волейбольном клубе изначально не было даже участников, упорством и стараниями Сёё собравшаяся команда всё-таки прорвалась в свой первый и последний финальный матч в средней школе. Но там она была начисто разгромлена Тобио Кагэямой, известным как Король площадки. Поклявшись отомстить, Хината вступает в клуб волейбола в старшей школе Карасуно... и лицом к лицу сталкивается со своим ненавистным противником Кагэямой.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/840073.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/d9ad9212187fa117decb9da246c02b8f68e872e2.jpg",
-          "https://shikimori.one/system/screenshots/original/35ec665216be6312c64efef569164c40de80d75d.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "спорт"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Комедия",
-          "Спорт",
-          "Сёнен",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Production I.G"
-        ],
-        "kinopoisk_rating": 8.2,
-        "kinopoisk_votes": 11285,
-        "imdb_rating": 8.7,
-        "imdb_votes": 9721,
-        "shikimori_rating": 8.89,
-        "shikimori_votes": 24370,
-        "premiere_world": "2014-04-05",
-        "aired_at": "2016-10-08",
-        "released_at": "2016-12-10",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 10,
-        "episodes_aired": 10,
-        "actors": [
-          "Аюму Мурасэ",
-          "Каито Исикава",
-          "Сатоси Хино",
-          "Мию Ирино",
-          "Ю Хаяси",
-          "Коки Утияма",
-          "Сома Саито",
-          "Хироси Камия",
-          "Нобухико Окамото",
-          "Кадзунари Танака"
-        ],
-        "directors": [
-          "Сусуму Мицунака",
-          "Синтаро Итога",
-          "Тэцуаки Ватанабэ",
-          "Томоко Хирамуки",
-          "Синтаро Накадзава",
-          "Юми Камакура",
-          "Марико Исикава",
-          "Ясуо Эдзима",
-          "Эндо Хиротака",
-          "Коити Кикута"
-        ],
-        "producers": [
-          "Эиити Такахаси"
-        ],
-        "writers": [
-          "Харуити Фурудатэ",
-          "Таку Кисимото",
-          "Тосимицу Такэути",
-          "Такуя Сато",
-          "Сусуму Мицунака"
-        ],
-        "composers": [
-          "Юки Хаяси",
-          "Асами Татибана"
-        ],
-        "designers": [
-          "Итиро Тацута"
-        ],
-        "operators": [
-          "Юмико Наката"
-        ]
-      }
-    },
-    {
-      "id": "serial-6579",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Жрица и медведь",
-      "title_orig": "Kumamiko: Girl Meets Bear",
-      "other_title": "Медведь и жрица",
-      "translation": {
-        "id": 610,
-        "title": "AniLibria.TV",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "988207",
-      "imdb_id": "tt5630058",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8506",
-      "shikimori_id": "31804",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-26T00:01:40Z",
-      "updated_at": "2019-12-05T19:32:36Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/175089/7d1c0242d97fc04bd648467caf663334/720p",
-            "2": "//aniqit.com/seria/175090/1f4715f12887e82ea9b7dfb0d2d4c7c2/720p",
-            "3": "//aniqit.com/seria/175091/ebcbeb3a8ab57fd0d3fe3ca4fd08708e/720p",
-            "4": "//aniqit.com/seria/175092/89167a6dbd96b0c523e74deac1cc777a/720p",
-            "5": "//aniqit.com/seria/175093/695e43ea362225965c3cc08da3a6bfc8/720p",
-            "6": "//aniqit.com/seria/175094/6067ac2827ba1396ce2c38e79e216cab/720p",
-            "7": "//aniqit.com/seria/175095/62ec0d10019baf8a8306a0cff787656b/720p",
-            "8": "//aniqit.com/seria/175096/20391dde1f6f7a43f6e1958439c4729a/720p",
-            "9": "//aniqit.com/seria/175097/317111d962c3f8f1e16fd7d5776e8649/720p",
-            "10": "//aniqit.com/seria/175098/773b1f2fc4206bb3cfd111f1d2a72de4/720p",
-            "11": "//aniqit.com/seria/175099/9bd5759966e614d8acfaa0d8dad8bf35/720p",
-            "12": "//aniqit.com/seria/175100/69f76c6672bcefa2b3ff6e8c16a16247/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Жрица и медведь",
-        "title_en": "Kuma miko",
-        "other_titles": [
-          "Мачи и медведь"
-        ],
-        "other_titles_en": [
-          "Kumamiko: Girl Meets Bear"
-        ],
-        "other_titles_jp": [
-          "くまみこ"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2016,
-        "description": "В прошлом бог горы Кумадэ принял обличье медведя, поэтому местные жители стали почитать медведей как богов. Когда медведь-людоед начал есть окрестных жителей, те решили задобрить свое божество принеся ему в жертву юную девушку. От этой девушки и медведя произошел род Кумай. С тех пор окрестные медведи стали говорящими и живут в мире с людьми. Хотя, жители деревни держат существование говорящих медведей в тайне от остальных людей. Мати — жрица бога-медведя, которая дружна с главой семьи Кумай, говорящим медведем Нацу. Так как в ее родной деревне не происходит ничего интересного, она хочет поступить в городскую школу. Однако, Нацу не хочет отпускать жрицу, ссылаясь на то что у нее нет даже минимальных знаний и навыков необходимых для жизни в городе.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/988207.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/329688b3af4a63afa400cf60a0a725b4c40e493b.jpg",
-          "https://shikimori.one/system/screenshots/original/14635fe7878696e81473491c455eb774d0f19edb.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность",
-          "Сейнен"
-        ],
-        "anime_studios": [
-          "Kinema Citrus",
-          "EMT Squared"
-        ],
-        "imdb_rating": 5.4,
-        "imdb_votes": 53,
-        "shikimori_rating": 6.31,
-        "shikimori_votes": 1595,
-        "premiere_world": "2016-04-03",
-        "aired_at": "2016-04-03",
-        "released_at": "2016-06-19",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Нацуми Хиока",
-          "Хироки Ясумото",
-          "Кадзуюки Окицу",
-          "Эри Китамура"
-        ],
-        "writers": [
-          "Масао Икэтани",
-          "Pierre Sugiura",
-          "Masume Yoshimoto"
-        ],
-        "composers": [
-          "Акиюки Татэяма"
-        ],
-        "editors": [
-          "Такэси Садамацу"
-        ],
-        "designers": [
-          "Ацуси Морикава"
-        ]
-      }
-    },
-    {
-      "id": "serial-6578",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Жрица и медведь",
-      "title_orig": "Kumamiko: Girl Meets Bear",
-      "other_title": "Медведь и жрица",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "988207",
-      "imdb_id": "tt5630058",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8506",
-      "shikimori_id": "31804",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-26T00:00:22Z",
-      "updated_at": "2019-12-05T19:27:22Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/175077/b03af72c37961d9c1394f92d5cf7d234/720p",
-            "2": "//aniqit.com/seria/175078/c69e5ea830535e46276d7528a20f55c3/720p",
-            "3": "//aniqit.com/seria/175079/3428fce32c54cde33174a3b07083b9f3/720p",
-            "4": "//aniqit.com/seria/175080/07e82f2d063640f18ba8331e060f6087/720p",
-            "5": "//aniqit.com/seria/175081/e9098bb584660b100d13c5e6141f8200/720p",
-            "6": "//aniqit.com/seria/175082/9dcacb6eb68dd50447d61d6a9d00442f/720p",
-            "7": "//aniqit.com/seria/175083/70e71c57a97867592819edeb5bd13f61/720p",
-            "8": "//aniqit.com/seria/175084/b90e72432bdf95f18e44f2a386a07c73/720p",
-            "9": "//aniqit.com/seria/175085/6ae3e1401a379add6563e919dde81735/720p",
-            "10": "//aniqit.com/seria/175086/7c97cc518eba002e9c585b51230e7dae/720p",
-            "11": "//aniqit.com/seria/175087/27effc5682e0b18d0a7867918c4a2fb0/720p",
-            "12": "//aniqit.com/seria/175088/b4a7f007a620d16ea6906ab6fdd3d4b7/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Жрица и медведь",
-        "title_en": "Kuma miko",
-        "other_titles": [
-          "Мачи и медведь"
-        ],
-        "other_titles_en": [
-          "Kumamiko: Girl Meets Bear"
-        ],
-        "other_titles_jp": [
-          "くまみこ"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2016,
-        "description": "В прошлом бог горы Кумадэ принял обличье медведя, поэтому местные жители стали почитать медведей как богов. Когда медведь-людоед начал есть окрестных жителей, те решили задобрить свое божество принеся ему в жертву юную девушку. От этой девушки и медведя произошел род Кумай. С тех пор окрестные медведи стали говорящими и живут в мире с людьми. Хотя, жители деревни держат существование говорящих медведей в тайне от остальных людей. Мати — жрица бога-медведя, которая дружна с главой семьи Кумай, говорящим медведем Нацу. Так как в ее родной деревне не происходит ничего интересного, она хочет поступить в городскую школу. Однако, Нацу не хочет отпускать жрицу, ссылаясь на то что у нее нет даже минимальных знаний и навыков необходимых для жизни в городе.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/988207.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/329688b3af4a63afa400cf60a0a725b4c40e493b.jpg",
-          "https://shikimori.one/system/screenshots/original/14635fe7878696e81473491c455eb774d0f19edb.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность",
-          "Сейнен"
-        ],
-        "anime_studios": [
-          "Kinema Citrus",
-          "EMT Squared"
-        ],
-        "imdb_rating": 5.4,
-        "imdb_votes": 53,
-        "shikimori_rating": 6.31,
-        "shikimori_votes": 1595,
-        "premiere_world": "2016-04-03",
-        "aired_at": "2016-04-03",
-        "released_at": "2016-06-19",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Нацуми Хиока",
-          "Хироки Ясумото",
-          "Кадзуюки Окицу",
-          "Эри Китамура"
-        ],
-        "writers": [
-          "Масао Икэтани",
-          "Pierre Sugiura",
-          "Masume Yoshimoto"
-        ],
-        "composers": [
-          "Акиюки Татэяма"
-        ],
-        "editors": [
-          "Такэси Садамацу"
-        ],
-        "designers": [
-          "Ацуси Морикава"
-        ]
-      }
-    },
-    {
-      "id": "serial-7708",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Да, я Сакамото, а что?",
-      "title_orig": "Sakamoto Desu ga?",
-      "other_title": "Да, я Сакамото, и что? / Сакамото к вашим услугам / Я - Сакамото, а что?",
-      "translation": {
-        "id": 610,
-        "title": "AniLibria.TV",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 13,
-      "kinopoisk_id": "975898",
-      "imdb_id": "tt5701624",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8636",
-      "shikimori_id": "32542",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-26T13:23:26Z",
-      "updated_at": "2019-12-05T19:25:59Z",
-      "seasons": {
-        "0": {
-          "title": "Спешл",
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/536772/b4debeac2d656ed4e6181d0d92c44300/720p"
-          }
-        },
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/202169/b4debeac2d656ed4e6181d0d92c44300/720p",
-            "2": "//aniqit.com/seria/202170/4e3dd44bb3f7741928f7113ee30e483d/720p",
-            "3": "//aniqit.com/seria/202171/7e8e6c75f4bb6fb24b7ee20b4eb717f3/720p",
-            "4": "//aniqit.com/seria/202172/5ff8add7acf1e55c814f0b2475edae27/720p",
-            "5": "//aniqit.com/seria/202173/9a706e080b5b52da99cae63e7d87ab6d/720p",
-            "6": "//aniqit.com/seria/202174/d8a1bb3323a6f436b9c41be06e05d331/720p",
-            "7": "//aniqit.com/seria/202175/ba199086be87376d48c04a77cd8545df/720p",
-            "8": "//aniqit.com/seria/202176/52b007b4556ca272cfc0b937468288c4/720p",
-            "9": "//aniqit.com/seria/202177/c4e11df5ea323e0435a541de32e4da95/720p",
-            "10": "//aniqit.com/seria/202178/9c592a9f632683116f5f4c676df92b04/720p",
-            "11": "//aniqit.com/seria/202179/077a0269342a4efdf4c71b27b1025bbf/720p",
-            "12": "//aniqit.com/seria/202180/cb6a2cc601d455d741a4decb25aadeb7/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Сакамото к вашим услугам",
-        "title_en": "Sakamoto desu ga?",
-        "other_titles": [
-          "Sakamoto desu ga?"
-        ],
-        "other_titles_en": [
-          "Haven't You Heard? I'm Sakamoto"
-        ],
-        "other_titles_jp": [
-          "坂本ですが？"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2016,
-        "description": "Школьник-первогодка Сакамото круче, чем все варёные яйца мира! В первый же учебный день он привлекает массу внимания. Девушки его обожают, парни негодуют. Даже парень-модель оказывается в его тени. Какие бы фокусы ни старалась провернуть мужская часть школьников, главный герой всегда изящен и блистателен. Сакамото может казаться гордым одиночкой, но не отказывает в помощи, в том числе одному пареньку, которого вечно задирают. С какими бы препятствиями ни сталкивался красавец, он преодолевает их с уверенностью и достоинством.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/975898.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/764904e2e3d496adf9ecc85fa3b03fd6cdf871b4.jpg",
-          "https://shikimori.one/system/screenshots/original/99cb93497f5ea7e0205c4d1ff3cf176181e2c36d.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность",
-          "Сейнен",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Studio Deen"
-        ],
-        "kinopoisk_rating": 7,
-        "kinopoisk_votes": 1942,
-        "imdb_rating": 7.2,
-        "imdb_votes": 1399,
-        "shikimori_rating": 7.6,
-        "shikimori_votes": 25604,
-        "premiere_world": "2016-04-08",
-        "aired_at": "2016-04-08",
-        "released_at": "2016-07-01",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Bryson Baugus",
-          "Хикару Мидорикава",
-          "Джеймс Белчер",
-          "Люси Кристиан",
-          "Kregg Dailey",
-          "Steve Fenley",
-          "Kasi Hallowell",
-          "Хьюстон Хэйес",
-          "Кайл Джонс",
-          "Margaret Lewis"
-        ],
-        "directors": [
-          "Синдзи Такамацу",
-          "Томоэ Макино",
-          "Хироаки Акаги",
-          "Сигэру Кимия",
-          "Таро Кубо",
-          "Наоки Мурата",
-          "Нобукагэ Кимура",
-          "Наоюки Кудзуя",
-          "Eri Nagata",
-          "Дзюн Такахаси"
-        ],
-        "writers": [
-          "Нами Сано",
-          "Синдзи Такамацу"
-        ],
-        "composers": [
-          "Ясухико Фукуда"
-        ],
-        "editors": [
-          "Риэ Мацухара"
-        ],
-        "designers": [
-          "Масатоси Муто"
-        ],
-        "operators": [
-          "Дзюнко Сакаи"
-        ]
-      }
-    },
-    {
-      "id": "serial-7709",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Да, я Сакамото, а что?",
-      "title_orig": "Sakamoto Desu ga?",
-      "other_title": "Да, я Сакамото, и что? / Сакамото к вашим услугам / Я - Сакамото, а что?",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 13,
-      "kinopoisk_id": "975898",
-      "imdb_id": "tt5701624",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8636",
-      "shikimori_id": "32542",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-26T13:24:01Z",
-      "updated_at": "2019-12-05T19:24:33Z",
-      "seasons": {
-        "0": {
-          "title": "Спешл",
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/202194/642ac85c1cf7be0ab19296ee50da4449/720p"
-          }
-        },
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/202182/544da45305f1d42cdca6a0bcd51da2b8/720p",
-            "2": "//aniqit.com/seria/202183/bde25e17836c572e12a5a59f26659990/720p",
-            "3": "//aniqit.com/seria/202184/96997862f7a8d75a1b100cd1e701b54c/720p",
-            "4": "//aniqit.com/seria/202185/21f7cc32a2b11314f1d2cb4a831517cc/720p",
-            "5": "//aniqit.com/seria/202186/3164ec59a2a9afdff822f49277ab8239/720p",
-            "6": "//aniqit.com/seria/202187/5f81a5ef427678c3649f8af062201602/720p",
-            "7": "//aniqit.com/seria/202188/0d407919ce505803c93b7097773d2282/720p",
-            "8": "//aniqit.com/seria/202189/c3b1241f75cadee9f077afeda28c4eb3/720p",
-            "9": "//aniqit.com/seria/202190/f602f6687954c078b3fc39fd1695df05/720p",
-            "10": "//aniqit.com/seria/202191/d017ec14191b246321deb6dd643bc608/720p",
-            "11": "//aniqit.com/seria/202192/8a310421fc0a4226a14a507df2a4d0eb/720p",
-            "12": "//aniqit.com/seria/202193/840e5d9e73f96731c1aea5aa71722a49/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Сакамото к вашим услугам",
-        "title_en": "Sakamoto desu ga?",
-        "other_titles": [
-          "Sakamoto desu ga?"
-        ],
-        "other_titles_en": [
-          "Haven't You Heard? I'm Sakamoto"
-        ],
-        "other_titles_jp": [
-          "坂本ですが？"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2016,
-        "description": "Школьник-первогодка Сакамото круче, чем все варёные яйца мира! В первый же учебный день он привлекает массу внимания. Девушки его обожают, парни негодуют. Даже парень-модель оказывается в его тени. Какие бы фокусы ни старалась провернуть мужская часть школьников, главный герой всегда изящен и блистателен. Сакамото может казаться гордым одиночкой, но не отказывает в помощи, в том числе одному пареньку, которого вечно задирают. С какими бы препятствиями ни сталкивался красавец, он преодолевает их с уверенностью и достоинством.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/975898.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/764904e2e3d496adf9ecc85fa3b03fd6cdf871b4.jpg",
-          "https://shikimori.one/system/screenshots/original/99cb93497f5ea7e0205c4d1ff3cf176181e2c36d.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность",
-          "Сейнен",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Studio Deen"
-        ],
-        "kinopoisk_rating": 7,
-        "kinopoisk_votes": 1942,
-        "imdb_rating": 7.2,
-        "imdb_votes": 1399,
-        "shikimori_rating": 7.6,
-        "shikimori_votes": 25604,
-        "premiere_world": "2016-04-08",
-        "aired_at": "2016-04-08",
-        "released_at": "2016-07-01",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Bryson Baugus",
-          "Хикару Мидорикава",
-          "Джеймс Белчер",
-          "Люси Кристиан",
-          "Kregg Dailey",
-          "Steve Fenley",
-          "Kasi Hallowell",
-          "Хьюстон Хэйес",
-          "Кайл Джонс",
-          "Margaret Lewis"
-        ],
-        "directors": [
-          "Синдзи Такамацу",
-          "Томоэ Макино",
-          "Хироаки Акаги",
-          "Сигэру Кимия",
-          "Таро Кубо",
-          "Наоки Мурата",
-          "Нобукагэ Кимура",
-          "Наоюки Кудзуя",
-          "Eri Nagata",
-          "Дзюн Такахаси"
-        ],
-        "writers": [
-          "Нами Сано",
-          "Синдзи Такамацу"
-        ],
-        "composers": [
-          "Ясухико Фукуда"
-        ],
-        "editors": [
-          "Риэ Мацухара"
-        ],
-        "designers": [
-          "Масатоси Муто"
-        ],
-        "operators": [
-          "Дзюнко Сакаи"
-        ]
-      }
-    },
-    {
-      "id": "serial-4439",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Фальсификация",
-      "title_orig": "Jojak",
-      "other_title": "Подделка / Falsify / Fabrication / Manipulation / Jojak / jo-jak",
-      "translation": {
-        "id": 877,
-        "title": "JoyStudio",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 31,
-      "episodes_count": 16,
-      "kinopoisk_id": "1044403",
-      "imdb_id": "tt7074940",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-08-06T00:32:38Z",
-      "updated_at": "2019-12-05T18:14:10Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/122779/699a2c48ee9c1e4d54e7a61caa890e14/720p",
-            "3": "//kodik.cc/seria/123872/35256154dd24355e0e11ea0fbd0a37d1/720p",
-            "5": "//kodik.cc/seria/123889/ee4298bb6a193c4f7076157f64c8820b/720p",
-            "7": "//kodik.cc/seria/124200/daca52773507b0b4b3a8e27e1e113efd/720p",
-            "9": "//kodik.cc/seria/124202/8974fb1e38b2170bd93ec57c78cc73b6/720p",
-            "11": "//kodik.cc/seria/124498/2975cb0bb0cfda2915a9e955b384b975/720p",
-            "13": "//kodik.cc/seria/125395/bb1a21cde6f1242c5f407952d58a84b5/720p",
-            "15": "//kodik.cc/seria/126045/b022dec51d2665575d134c94aced3591/720p",
-            "17": "//kodik.cc/seria/126916/9adac3ee7ca729d5bce4cd8634a47214/720p",
-            "19": "//kodik.cc/seria/128391/3c3bd4b593586f626cd2973355ef4d45/720p",
-            "21": "//kodik.cc/seria/128632/5f477f73d3f2b4fc2b86fde17dea00e0/720p",
-            "23": "//kodik.cc/seria/130300/117ee2cb44b81005914d29158ae059bb/720p",
-            "25": "//kodik.cc/seria/130302/8949fb942f148440f4c481c152ef599b/720p",
-            "27": "//kodik.cc/seria/131835/1a1fc12d137f2d173baa86c95b6421f7/720p",
-            "29": "//kodik.cc/seria/132035/3aaf824eee1a3a07d6f0313219437789/720p",
-            "31": "//kodik.cc/seria/135072/67fe25802886dc45ba5dd7039b379da3/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Фальсификация",
-        "title_en": "Jojak",
-        "year": 2017,
-        "description": "Репортёры и прокурор борются с коррупцией.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1044403.jpg",
-        "duration": 60,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "драма",
-          "криминал"
-        ],
-        "imdb_rating": 7.6,
-        "imdb_votes": 74,
-        "premiere_world": "2017-07-24",
-        "actors": [
-          "Намгун Мин",
-          "Ом Джи-вон",
-          "Ю Джун-сан",
-          "Чон Хе-бин",
-          "Мун Сон-гын",
-          "Чо Хи-бон",
-          "Ким Ган-хён",
-          "Ан Джи-хун",
-          "Пак Сон-хун",
-          "О А-ён"
-        ],
-        "directors": [
-          "Ли Джон-хым"
-        ],
-        "writers": [
-          "Ким Хён-джон"
         ]
       }
     }

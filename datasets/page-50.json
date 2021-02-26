@@ -1,6 +1,433 @@
 {
   "results": [
     {
+      "id": "movie-62228",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Симфония плохих парней",
+      "title_orig": "Bad Boy Symphony",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1189816",
+      "imdb_id": "tt10414750",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-26T12:13:28Z",
+      "updated_at": "2020-10-26T14:20:19Z",
+      "material_data": {
+        "title": "Симфония плохих парней",
+        "title_en": "Le yu",
+        "year": 2018,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1189816.jpg",
+        "duration": 95,
+        "countries": [
+          "Тайвань"
+        ],
+        "genres": [
+          "драма",
+          "криминал",
+          "музыка"
+        ],
+        "imdb_rating": 6.6,
+        "imdb_votes": 18,
+        "premiere_world": "2019-05-17",
+        "actors": [
+          "Фэнди Фань"
+        ],
+        "directors": [
+          "Чарльз Сунь"
+        ]
+      }
+    },
+    {
+      "id": "serial-26092",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Личный телохранитель",
+      "title_orig": "BG: Shinpen keigonin",
+      "other_title": "BG: Personal Bodyguard",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2018,
+      "last_season": 2,
+      "last_episode": 7,
+      "episodes_count": 16,
+      "kinopoisk_id": "1049703",
+      "imdb_id": "tt7533478",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-25T14:49:03Z",
+      "updated_at": "2020-10-26T14:12:28Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/655446/ec2c3fe0623b21ab087ae85568a22ca3/720p",
+            "2": "//kodik.cc/seria/655447/accff5273e8cc9acd66e0e1af3490dce/720p",
+            "3": "//kodik.cc/seria/655448/ca196b779dab50f6280d4dc84f998159/720p",
+            "4": "//kodik.cc/seria/655449/29def270546e7c3d3835239aa6321010/720p",
+            "5": "//kodik.cc/seria/655450/5c58f1ad66a4a3b3aa28afd7bb49f6d9/720p",
+            "6": "//kodik.cc/seria/655451/6af497ad2de9802d7e6465fd61c1b1fa/720p",
+            "7": "//kodik.cc/seria/655452/b61aba6ce4ddaff79d219abe007d2160/720p",
+            "8": "//kodik.cc/seria/655453/f2e0eaa322a02316d921d788f5db23c2/720p",
+            "9": "//kodik.cc/seria/655454/cf3bcc4504e189dc2de453eda7b0dd1a/720p"
+          }
+        },
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/728153/ec2c3fe0623b21ab087ae85568a22ca3/720p",
+            "2": "//kodik.cc/seria/728154/accff5273e8cc9acd66e0e1af3490dce/720p",
+            "3": "//kodik.cc/seria/728155/ca196b779dab50f6280d4dc84f998159/720p",
+            "4": "//kodik.cc/seria/728156/29def270546e7c3d3835239aa6321010/720p",
+            "5": "//kodik.cc/seria/728157/5c58f1ad66a4a3b3aa28afd7bb49f6d9/720p",
+            "6": "//kodik.cc/seria/728158/6af497ad2de9802d7e6465fd61c1b1fa/720p",
+            "7": "//kodik.cc/seria/728180/b61aba6ce4ddaff79d219abe007d2160/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Личный телохранитель",
+        "title_en": "BG: Shinpen keigonin",
+        "year": 2018,
+        "description": "Когда-то Акира Самидзаки был телохранителем, но потерял работу в результате инцидента. Теперь мужчина работает охранником на стройке и в одиночку воспитывает сына, ученика средней школы. Однажды охранная компания, на которую работает Самидзаки, создаёт новое подразделение. Скрыв своё прошлое, Акира переходит в новый отдел и начинает службу как телохранитель-новичок.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1049703.jpg",
+        "duration": 54,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 6.7,
+        "imdb_votes": 331,
+        "premiere_world": "2018-01-18",
+        "actors": [
+          "Такуя Кимура",
+          "Синносукэ Абэ",
+          "Ёсукэ Эгути",
+          "Юрико Исида",
+          "Такая Камикава",
+          "Сётаро Мамия",
+          "Синносукэ Мицусима",
+          "Тосиюки Нагасима",
+          "Нанао",
+          "Такуми Саито"
+        ],
+        "directors": [
+          "Го Сититака"
+        ],
+        "producers": [
+          "Сэйдзи Кавасима"
+        ],
+        "writers": [
+          "Юмико Иноуэ"
+        ]
+      }
+    },
+    {
+      "id": "movie-62257",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Бахубали: Завершение",
+      "title_orig": "Bahubali 2: The Conclusion",
+      "translation": {
+        "id": 661,
+        "title": "Honey&Hoseena",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "922572",
+      "imdb_id": "tt4849438",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [
+        "RU"
+      ],
+      "created_at": "2020-10-26T13:56:35Z",
+      "updated_at": "2020-10-26T13:56:35Z",
+      "material_data": {
+        "title": "Бахубали: Рождение легенды",
+        "title_en": "Bãhubali 2: The Conclusion",
+        "year": 2017,
+        "tagline": "India's Biggest Blockbuster Ever",
+        "description": "Старый Каттаппа рассказывает Шиве, почему убил его отца Амарендру. После того как тот был усыновлён королевой Сивагами, старший сводный брат Бхаллаладева всегда ему завидовал. Зависть достигла апогея после битвы с дикими племенами, когда Сивагами нарекла младшего сына наследником королевства. Бхаллаладева и его хитрый дядя начинают плести грязные интриги, чтобы сжить Амарендру со свету.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/922572.jpg",
+        "duration": 167,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "боевик",
+          "мелодрама",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 7.2,
+        "kinopoisk_votes": 5871,
+        "imdb_rating": 8.2,
+        "imdb_votes": 75266,
+        "premiere_ru": "2018-01-11",
+        "premiere_world": "2017-04-27",
+        "minimal_age": 16,
+        "actors": [
+          "Прабхас",
+          "Рана Даггубати",
+          "Анушка Шетти",
+          "Сатхьярадж",
+          "Рамья Кришна",
+          "Таманна Бхатия",
+          "Нассер",
+          "Суббараджу",
+          "Мека Рама Кришна",
+          "Таникелла Бхарани"
+        ],
+        "directors": [
+          "С.С. Раджамули"
+        ],
+        "producers": [
+          "Прасад Девинени",
+          "К. Рагхавендра Рао",
+          "Шобу Ярлагадда",
+          "М.М. Сривалли"
+        ],
+        "writers": [
+          "Виджаендра Прасад",
+          "С.С. Раджамули",
+          "К.Х. Виджай Кумар",
+          "Аджай Кумар",
+          "Мадхан Карки",
+          "Манодж Мунташир",
+          "Манкомбу Гопалакришнан"
+        ],
+        "composers": [
+          "М.М. Кеервани"
+        ],
+        "editors": [
+          "Венкатесвара Рао Котагири",
+          "Биккина Тхаммираджу"
+        ],
+        "designers": [
+          "Сабу Сирил",
+          "Рама Раджамули",
+          "Прашанти Типиринени"
+        ],
+        "operators": [
+          "Сентил Кумар"
+        ]
+      }
+    },
+    {
+      "id": "movie-62259",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Карты, деньги, два китайца 2: мельбурнский взлом",
+      "title_orig": "Chinatown Cannon 2",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1438235",
+      "imdb_id": "tt13298952",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-26T13:50:26Z",
+      "updated_at": "2020-10-26T13:50:26Z",
+      "material_data": {
+        "title": "Chinatown Cannon 2",
+        "title_en": "",
+        "year": 2020,
+        "duration": 101,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "imdb_rating": 7.7,
+        "imdb_votes": 25,
+        "premiere_world": "2020-10-01",
+        "actors": [
+          "Kaiyang Qian",
+          "Ye Wang",
+          "Weiqiang Xu",
+          "Alexandra Octavia",
+          "Пол Доубер",
+          "Stanislaw Kowalski",
+          "Chu Yeung Yin Albert",
+          "Chen Xu",
+          "Zac",
+          "David Ngatupuna"
+        ],
+        "directors": [
+          "Kaylan Cheng"
+        ],
+        "producers": [
+          "Qian Wang",
+          "Ye Wang",
+          "Rui Yang"
+        ],
+        "writers": [
+          "Lin Dong",
+          "Chanyan Jiang",
+          "Xiaoquan Xin"
+        ],
+        "composers": [
+          "Rui Jia"
+        ],
+        "operators": [
+          "Quanqin Sun"
+        ]
+      }
+    },
+    {
+      "id": "movie-62247",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Лес смерти - мертвый лес",
+      "title_orig": "Alas Pati: Hutan Mati",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1166903",
+      "imdb_id": "tt8463722",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-26T13:15:52Z",
+      "updated_at": "2020-10-26T13:15:52Z",
+      "material_data": {
+        "title": "Лес смерти",
+        "title_en": "Alas Pati: Hutan Mati",
+        "year": 2018,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1166903.jpg",
+        "duration": 82,
+        "countries": [
+          "Индонезия"
+        ],
+        "genres": [
+          "приключения",
+          "триллер",
+          "ужасы"
+        ],
+        "imdb_rating": 5.3,
+        "imdb_votes": 75,
+        "premiere_world": "2018-05-24",
+        "actors": [
+          "Naomi Paulinda"
+        ],
+        "editors": [
+          "Mardiansyah"
+        ],
+        "designers": [
+          "Fiebe Lydia K."
+        ]
+      }
+    },
+    {
+      "id": "serial-29908",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Лестницы школы",
+      "title_orig": "Gakko no kaidan",
+      "other_title": "Школьная лестница / Gakkou no Kaidan / School's Staircase",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2015,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "885684",
+      "imdb_id": "tt4178858",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-10-26T12:57:27Z",
+      "updated_at": "2020-10-26T13:12:32Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/728159/dc7a08448b577cff09b680a8ec2ae2a0/720p",
+            "2": "//kodik.cc/seria/728160/bfbe990d63a3f7bdc291a134befb12a9/720p",
+            "3": "//kodik.cc/seria/728161/393ba0961c259bb81fa5ef8723dadc40/720p",
+            "4": "//kodik.cc/seria/728162/8aae42bf2c22456b6c681e887f763caa/720p",
+            "5": "//kodik.cc/seria/728166/0a9e9b0cca658ce5a0cdf1610636822d/720p",
+            "6": "//kodik.cc/seria/728167/90597bba1fa2f3c24722b93f08282a1c/720p",
+            "7": "//kodik.cc/seria/728168/ca68911cc5a3e1da2a8c6fbb10da2b94/720p",
+            "8": "//kodik.cc/seria/728169/cbf3f538f40f8ef4b8f9276ce79b832c/720p",
+            "9": "//kodik.cc/seria/728170/e67400449d602d93f9bb8a2c50ad0cbc/720p",
+            "10": "//kodik.cc/seria/728171/3830bd14535d697981f1569596dbc321/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Лестницы школы",
+        "title_en": "Gakko no kaidan",
+        "year": 2015,
+        "description": "Спичрайтер Сидзукуи Кэй помогает робкой девушке по имени Харуна Цубамэ правильно и убедительно выступать перед публикой. А ей это жизненно необходимо, потому что она президент ученического совета, которая всеми доступными методами пытается изменить школу Мэйран, в которой на данный момент царит коррупция и беспорядок.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/885684.jpg",
+        "duration": 54,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 7.1,
+        "imdb_votes": 48,
+        "premiere_world": "2015-01-10",
+        "actors": [
+          "Судзу Хиросэ",
+          "Рюносукэ Камики",
+          "Анна Исибаси",
+          "Хана Сугисаки",
+          "Сётаро Мамия",
+          "Кэнтаро Ито",
+          "Дзин Сирасу",
+          "Аои Ёсикура",
+          "Мариэ Иитоё",
+          "Рё Нарита"
+        ],
+        "directors": [
+          "Сэиити Нагумо",
+          "Юма Судзуки",
+          "Минору Табэи"
+        ],
+        "producers": [
+          "Юта Фукуи",
+          "Хибики Ито",
+          "Тосиаки Нанба",
+          "Кинъя Яги"
+        ],
+        "writers": [
+          "Томоко Ёсида"
+        ],
+        "composers": [
+          "Акихико Мацумото"
+        ]
+      }
+    },
+    {
       "id": "movie-62251",
       "type": "foreign-movie",
       "link": "",
@@ -2678,9 +3105,9 @@
           "Nut"
         ],
         "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 272,
-        "imdb_rating": 7,
-        "imdb_votes": 648,
+        "kinopoisk_votes": 279,
+        "imdb_rating": 7.1,
+        "imdb_votes": 684,
         "shikimori_rating": 7.48,
         "shikimori_votes": 4929,
         "premiere_world": "2020-07-08",
@@ -7919,433 +8346,6 @@
         ],
         "operators": [
           "Facundo Nuble"
-        ]
-      }
-    },
-    {
-      "id": "movie-62159",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Моя любовь Айсулу",
-      "title_orig": "My love is Aisulu",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 2020,
-      "kinopoisk_id": "1345715",
-      "imdb_id": "tt12194150",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-10-24T03:01:40Z",
-      "updated_at": "2020-10-24T03:01:40Z",
-      "material_data": {
-        "title": "My love is Aisulu",
-        "title_en": "",
-        "year": 2019,
-        "description": "Неуверенный в себе Санжар получает очередной отказ в конкурсе сценаристов. По дороге домой он знакомится с очаровательной девушкой Айсулу и у них возникают взаимные чувства. Вот только в попытке произвести впечатление на девушку при знакомстве, Санжар придумал историю о съемках его фильма в Америке и никак не может ей признаться в этом. Влюбленные все время разговаривают по телефону. Однажды романтичная девушка решает сделать сюрприз молодому человеку и отправляется в США. Санжар вынужден лететь первым рейсом в Америку, чтобы выпросить прощение у возлюбленной.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1345715.jpg",
-        "duration": 90,
-        "countries": [
-          "Казахстан"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 268,
-        "premiere_world": "2020-01-30",
-        "actors": [
-          "Нурлан Коянбаев",
-          "Асель Сагатова",
-          "Жакан Утаргалиев",
-          "Кэри-Хироюки Тагава",
-          "Эркен Ялгашев",
-          "Бай Лин"
-        ],
-        "directors": [
-          "Дархан Саркенов"
-        ],
-        "producers": [
-          "Нурлан Коянбаев"
-        ],
-        "writers": [
-          "Асхат Тохтарханов",
-          "Бухар Марат",
-          "Самат Сыржанов"
-        ],
-        "operators": [
-          "Канат Мырзагалиев"
-        ]
-      }
-    },
-    {
-      "id": "serial-29364",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Догма дракона",
-      "title_orig": "Dragon's Dogma",
-      "other_title": "Драконья догма",
-      "translation": {
-        "id": 610,
-        "title": "AniLibria.TV",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 7,
-      "episodes_count": 7,
-      "kinopoisk_id": "1392768",
-      "imdb_id": "tt10011298",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10550",
-      "shikimori_id": "39519",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-09-24T12:04:16Z",
-      "updated_at": "2020-10-23T20:14:04Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/721136/6600fa24bb6988e0fad69f3678cb6a03/720p",
-            "2": "//aniqit.com/seria/721934/27beaaf9d533a16a43bd18c4c98e642d/720p",
-            "3": "//aniqit.com/seria/723079/c3899372243bc05b8c1de8e619cc1a33/720p",
-            "4": "//aniqit.com/seria/723368/6196210d160a1df40e2d9a2449685181/720p",
-            "5": "//aniqit.com/seria/724603/8f6d82513db6b588ae44b1ad6cca49f0/720p",
-            "6": "//aniqit.com/seria/727145/055adf515da62018175eb1b5b595af04/720p",
-            "7": "//aniqit.com/seria/727146/7778fef3e31b1f9b0f45265ae03422a2/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Догма дракона",
-        "title_en": "Dragon's Dogma",
-        "other_titles_jp": [
-          "ドラゴンズドグマ"
-        ],
-        "anime_license_name": "Dragon's Dogma",
-        "anime_kind": "ona",
-        "anime_status": "released",
-        "year": 2020,
-        "description": "Погибший парень чудесным образом возвращается к жизни, и теперь ему предстоит отправиться в полное опасностей путешествие, чтобы вернуть свое сердце, которое отобрал у него коварный дракон. И чем больше воин сражается с демонами, тем меньше остается в нём человеческого. ",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1392768.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/f33e8aba83c50757f9603f7a33c57164b6899ef9.jpg",
-          "https://shikimori.one/system/screenshots/original/506d27fbd461435f72205216ee8d9b31ce937e33.jpg"
-        ],
-        "duration": 28,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Приключения",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Sublimation"
-        ],
-        "kinopoisk_rating": 5.9,
-        "kinopoisk_votes": 224,
-        "imdb_rating": 6.3,
-        "imdb_votes": 2072,
-        "shikimori_rating": 5.94,
-        "shikimori_votes": 642,
-        "premiere_world": "2020-09-17",
-        "aired_at": "2020-09-17",
-        "rating_mpaa": "R+",
-        "episodes_total": 7,
-        "episodes_aired": 0,
-        "directors": [
-          "Синъя Сугаи"
-        ],
-        "producers": [
-          "Таики Сакурай"
-        ],
-        "writers": [
-          "Курасуми Сунаяма"
-        ]
-      }
-    },
-    {
-      "id": "serial-29179",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Любите ли Вы Брамса?",
-      "title_orig": "Beuramseureul joahaseyo?",
-      "other_title": "Тебе нравится Брамс? / Do You Like Brahms?",
-      "translation": {
-        "id": 641,
-        "title": "STEPonee",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1347314",
-      "imdb_id": "tt12867750",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-09-02T21:35:51Z",
-      "updated_at": "2020-10-23T19:05:21Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/716681/a6c8fc9550b5bcc87aa552e6e421892b/720p",
-            "2": "//kodik.cc/seria/717369/8a880d06a82ed78a84110b8603b06eb2/720p",
-            "3": "//kodik.cc/seria/718278/2e6afc80dd21714c002ac4cf5300a20e/720p",
-            "4": "//kodik.cc/seria/718500/c5bbb8cea400ffacb5f0ab25d3018a45/720p",
-            "5": "//kodik.cc/seria/720022/a0fad42bec689f9a164c70a061d1c8dc/720p",
-            "6": "//kodik.cc/seria/720137/ce9cf0c0eaf05763e4fd354be3883f2b/720p",
-            "7": "//kodik.cc/seria/721346/b40984ffca41e79eef005c9e040ea382/720p",
-            "8": "//kodik.cc/seria/721398/1b6f11fc2ec253b6c6489c1e2c0e6e29/720p",
-            "9": "//kodik.cc/seria/722235/64048dd4918ed50786662903226ae6cc/720p",
-            "10": "//kodik.cc/seria/722313/d83f34dc2a93ba912b7d271d0608e780/720p",
-            "11": "//kodik.cc/seria/723295/688a34c35a1dac273b30b5df5e6d01a3/720p",
-            "12": "//kodik.cc/seria/723501/d149e53eaf74e8c6b6be23bde38cb08f/720p",
-            "13": "//kodik.cc/seria/724749/1923f5f8700765e41c0e60fbefbeedc5/720p",
-            "14": "//kodik.cc/seria/725544/a15f2e4ae621448035295cff741786db/720p",
-            "15": "//kodik.cc/seria/726978/c841c81a7569bbdf72b3c1fe9f860ec9/720p",
-            "16": "//kodik.cc/seria/727144/25397da48a2756f918d0733ed7fcb527/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Любите ли Вы Брамса?",
-        "title_en": "Beuramseureul joahaseyo?",
-        "year": 2020,
-        "description": "История о студентах престижного музыкального университета - пианисте и скрипачке.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1347314.jpg",
-        "duration": 60,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "мелодрама",
-          "музыка"
-        ],
-        "imdb_rating": 7.9,
-        "imdb_votes": 311,
-        "premiere_world": "2020-08-31",
-        "actors": [
-          "Ким Мин-джэ",
-          "Пак Ын-бин",
-          "Ли Ю-джин",
-          "Пак Чи-хён",
-          "Ким Сон-чхоль",
-          "Пэ Да-бин",
-          "Сон Джи-вон",
-          "Е Су-джон",
-          "Со Джон-ён",
-          "Чхве Дэ-хун"
-        ],
-        "directors": [
-          "Чо Ён-мин"
-        ],
-        "writers": [
-          "Рю Бо-ри"
-        ]
-      }
-    },
-    {
-      "id": "serial-3486",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Она очень любит ложь",
-      "title_orig": "Geunyeoneun geojitmaleul neomoo saranghae",
-      "other_title": "Лжец и его возлюбленная / Она влюблена в ложь / The Liar and His Lover",
-      "translation": {
-        "id": 641,
-        "title": "STEPonee",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1008784",
-      "imdb_id": "tt6422226",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-03-29T17:16:50Z",
-      "updated_at": "2020-10-23T19:04:39Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/100874/387cb19e3e6f7d47832441708161bb49/720p",
-            "2": "//kodik.cc/seria/100875/49d2fe5173e3bd1a5657b86cd3ee22c7/720p",
-            "3": "//kodik.cc/seria/105072/c0b57780041fe3866be655947e7299e2/720p",
-            "4": "//kodik.cc/seria/105073/7e7d7b63569ef7f50011fc9bdb031c9f/720p",
-            "5": "//kodik.cc/seria/105074/b97beb6c414989c05e66c295c26c3d38/720p",
-            "6": "//kodik.cc/seria/105075/b348430fde160f68e1c71fbc0ac40ceb/720p",
-            "7": "//kodik.cc/seria/105076/82934df48db21b713ae8651d63f26e99/720p",
-            "8": "//kodik.cc/seria/105749/8496b2e206f25e7a9be191d24a93e330/720p",
-            "9": "//kodik.cc/seria/107636/649bc6a628950093c63a914e53d21fe8/720p",
-            "10": "//kodik.cc/seria/107637/dde54f49777837a4dea8b4488bf52250/720p",
-            "11": "//kodik.cc/seria/108912/65fe794177167220ff4ce1dad781e133/720p",
-            "12": "//kodik.cc/seria/108913/d1dbea5f74e69d72e3bc943461f5cf7f/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Лжец и его возлюбленная",
-        "title_en": "Geunyeoneun geojitmareul neomu saranghae",
-        "year": 2017,
-        "description": "Кан Хан-гёль - популярный композитор. Он получает вдохновение, слушая голоса и пение других людей, но при этом он очень скрытный человек. Однажды Хан-гёль встречает старшеклассницу Со-рим, которая, ну надо же, тоже хочет стать певицей, и конечно же, в него влюбляется.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1008784.jpg",
-        "duration": 70,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "мелодрама",
-          "музыка"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 1905,
-        "imdb_rating": 6.9,
-        "imdb_votes": 610,
-        "premiere_world": "2017-03-20",
-        "actors": [
-          "Ли Хён-у",
-          "Джой",
-          "Чхве Мин-су",
-          "Ли Джон-джин",
-          "Лим Е-джин",
-          "Ким Ин-гвон",
-          "Ли Со-вон",
-          "Сон Джу",
-          "Щин Джэ-мин",
-          "Чан Ги-ён"
-        ],
-        "directors": [
-          "Ким Джин-мин"
-        ],
-        "writers": [
-          "Котоми Аоки"
-        ]
-      }
-    },
-    {
-      "id": "movie-62146",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Кот и дедуля",
-      "title_orig": "Neko to jiichan",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1178012",
-      "imdb_id": "tt8845988",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-10-23T16:46:08Z",
-      "updated_at": "2020-10-23T16:46:08Z",
-      "material_data": {
-        "title": "Кот и дедуля",
-        "title_en": "Neko to Jiichan",
-        "year": 2018,
-        "description": "70-летнему пенсионеру Даикити много для счастья не надо. На небольшом острове дедуля наслаждается спокойной жизнью с котом Тамой и общением со старыми друзьями, хотя сын в Токио и переживает за отца. Однажды Даикити находит начатую тетрадку с рецептами недавно почившей супруги и решает заполнить её до конца.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1178012.jpg",
-        "duration": 103,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 6.5,
-        "imdb_votes": 200,
-        "premiere_world": "2019-02-22",
-        "directors": [
-          "Мицуаки Иваго"
-        ]
-      }
-    },
-    {
-      "id": "movie-62148",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Потерянный Окороши",
-      "title_orig": "The Lost Okoroshi",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1306314",
-      "imdb_id": "tt10888456",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-10-23T16:45:04Z",
-      "updated_at": "2020-10-23T16:45:04Z",
-      "material_data": {
-        "title": "Потерянный Окороши",
-        "title_en": "The Lost Okoroshi",
-        "year": 2019,
-        "description": "Каждую ночь Реймонду снятся странные танцоры в причудливых костюмах, а один из них - в рогатой маске - пытается догнать парня, но тот всегда успевает проснуться. Его приятель уверен, что это духи предков хотят с ним связаться, и не стоит от них убегать. В следующий раз Реймонд позволяет преследователю догнать себя и внезапно просыпается в его обличье - в фиолетовом волосатом костюме и рогатой маске, которую невозможно снять.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1306314.jpg",
-        "duration": 94,
-        "countries": [
-          "Нигерия"
-        ],
-        "genres": [
-          "драма",
-          "комедия",
-          "фэнтези"
-        ],
-        "imdb_rating": 5.1,
-        "imdb_votes": 119,
-        "premiere_world": "2019-09-06",
-        "actors": [
-          "Сьюн Эджэйи",
-          "Judith Audu",
-          "Tope Tedela",
-          "Ifu Ennada",
-          "Chiwetalu Agu",
-          "Demi Banwo",
-          "Jamal Ibrahim",
-          "Ozzy Agu",
-          "Crystabel Goddy"
-        ],
-        "directors": [
-          "Abba Makama"
-        ],
-        "producers": [
-          "Abba Makama",
-          "Rimini Makama"
-        ],
-        "writers": [
-          "Abba Makama",
-          "Africa Ukoh"
-        ],
-        "designers": [
-          "Emefa Smith"
-        ],
-        "operators": [
-          "Майкл Омонуа"
         ]
       }
     }
