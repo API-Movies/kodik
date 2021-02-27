@@ -1,6 +1,983 @@
 {
   "results": [
     {
+      "id": "movie-28860",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Расплавленное тело",
+      "title_orig": "Body Melt",
+      "translation": {
+        "id": 882,
+        "title": "English",
+        "type": "voice"
+      },
+      "year": 1994,
+      "kinopoisk_id": "35804",
+      "imdb_id": "tt0106450",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-11-28T13:17:45Z",
+      "updated_at": "2018-11-28T13:17:45Z",
+      "material_data": {
+        "title": "Расплавленное тело",
+        "title_en": "Body Melt",
+        "year": 1993,
+        "tagline": "The first phase is hallucinogenic...  the second phase is glandular...  and the third phase is...  BODY MELT",
+        "description": "Постмодернистские ужасы  об испытаниях странного препарата в одной из Австралийских частных клиник. Испытуемые - обычные пациенты, которые  не знали о его действии, поэтому умирали неожиданными, отвратительными смертями.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/35804.jpg",
+        "duration": 79,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "комедия",
+          "ужасы",
+          "фантастика"
+        ],
+        "kinopoisk_rating": 4.2,
+        "kinopoisk_votes": 266,
+        "imdb_rating": 5.2,
+        "imdb_votes": 2510,
+        "premiere_world": "1994-10-28",
+        "minimal_age": 18,
+        "actors": [
+          "Герард Кеннеди",
+          "Эндрю Дейдду",
+          "Йен Смит",
+          "Regina Gaigalas",
+          "Винсент Джил",
+          "Нил Фоли",
+          "Антея Дэвис",
+          "Мэттью Ньютон",
+          "Лесли Бэйкер",
+          "Amy Grove-Rogers"
+        ],
+        "directors": [
+          "Филип Брофи"
+        ],
+        "producers": [
+          "Род Бишоп",
+          "Дэниэл Шарф",
+          "Ларс Мичалак"
+        ],
+        "writers": [
+          "Филип Брофи",
+          "Род Бишоп"
+        ],
+        "composers": [
+          "Филип Брофи"
+        ],
+        "editors": [
+          "Билл Мерфи"
+        ],
+        "designers": [
+          "Maria Kozic",
+          "Пета Лосон",
+          "Анна Боргези"
+        ],
+        "operators": [
+          "Ray Argall"
+        ]
+      }
+    },
+    {
+      "id": "serial-13452",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Вок любви",
+      "title_orig": "Gireumjin mello",
+      "other_title": "Лапша любви / Блюдо любви / Сальная романтика / Мелодрама со смаком / Wok of Love / Greasy Melo / Greasy Romance / gi-reum-jin mel-lo",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 38,
+      "episodes_count": 38,
+      "kinopoisk_id": "1113000",
+      "imdb_id": "tt8236528",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-11-28T08:30:58Z",
+      "updated_at": "2018-11-28T08:30:58Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/357226/64d613cd27961c34e8c916e73b8987ab/720p",
+            "2": "//kodik.cc/seria/357227/7042db3882c519c738ece3e68c5bc91b/720p",
+            "3": "//kodik.cc/seria/357228/4da06fe402da1bc44f3f8324096c0d52/720p",
+            "4": "//kodik.cc/seria/357229/48a5d75856ce760f5dde95acb05daded/720p",
+            "5": "//kodik.cc/seria/357230/1471cc268b431b9faf424bde87668a73/720p",
+            "6": "//kodik.cc/seria/357231/a05e76f18c1172154f607a00c55cdbba/720p",
+            "7": "//kodik.cc/seria/357232/edd7f87ed84c76fe44e5e85aeb5b77b1/720p",
+            "8": "//kodik.cc/seria/357233/85b74e1faeb975c61330fddaef2c3943/720p",
+            "9": "//kodik.cc/seria/357234/8551042c5abf135e4ddfd3d3effcc71c/720p",
+            "10": "//kodik.cc/seria/357235/c6a5042fba6bef0d111a79d84381510e/720p",
+            "11": "//kodik.cc/seria/357236/5379f48b7ef11e1f191cf3018159a8aa/720p",
+            "12": "//kodik.cc/seria/357237/fbbfaa79088021eba782fd152e4298ab/720p",
+            "13": "//kodik.cc/seria/357238/ede4c1d5576739f269730eeca8b44264/720p",
+            "14": "//kodik.cc/seria/357239/c539f94d186622dd3b25456228141514/720p",
+            "15": "//kodik.cc/seria/357240/e51c00783166fd3a55d84b0446cd47e9/720p",
+            "16": "//kodik.cc/seria/357241/68d3dec04d8ed768ed597c4c05900daa/720p",
+            "17": "//kodik.cc/seria/357242/807779135b4a523c74d2dc33a526b01e/720p",
+            "18": "//kodik.cc/seria/357243/c3fa74057e7585e35f8775b0a98db6fe/720p",
+            "19": "//kodik.cc/seria/357244/023cc9dfd2a5932d23606ff3e621948a/720p",
+            "20": "//kodik.cc/seria/357245/cd66004fdbe7c709b8070e2a524acda5/720p",
+            "21": "//kodik.cc/seria/357246/b3616807fefd1fd557ee394841646d4b/720p",
+            "22": "//kodik.cc/seria/357247/5e04affcf8cc5870c31554ec196b2fce/720p",
+            "23": "//kodik.cc/seria/357248/a2a11e0b5500beec68754ade6030cbd5/720p",
+            "24": "//kodik.cc/seria/357249/99e7e0fd468323b8e3b76d2f07ec9a70/720p",
+            "25": "//kodik.cc/seria/357250/5243f96c5e009bf485de4fc73904e145/720p",
+            "26": "//kodik.cc/seria/357251/52110cfeee0dcd49d7468450285c251b/720p",
+            "27": "//kodik.cc/seria/357252/4c4765c985cd65f0b19589360292f2a8/720p",
+            "28": "//kodik.cc/seria/357253/15ef3c3b350a00e0295b35fb4410d3ba/720p",
+            "29": "//kodik.cc/seria/357254/621fdc0a324b762bc7bfc2be9c44e011/720p",
+            "30": "//kodik.cc/seria/357255/66ee8f53ad066e889f00039224e0002e/720p",
+            "31": "//kodik.cc/seria/357256/a4dedf437d0c22b6d23116a6bb796088/720p",
+            "32": "//kodik.cc/seria/357257/196e52675e0f190a5fe307e3f49c61a8/720p",
+            "33": "//kodik.cc/seria/357258/f4e3ebef63f6dc6aad2d6252eae994d5/720p",
+            "34": "//kodik.cc/seria/357259/056cd0ca4b40dfacdc2a87809f7c112c/720p",
+            "35": "//kodik.cc/seria/357260/ce72de1b60dcf8a0267495c803abea1a/720p",
+            "36": "//kodik.cc/seria/357261/8cc50aeae7004f71f93af3b5b203e898/720p",
+            "37": "//kodik.cc/seria/357262/56b5c083771713583dc5ef2fe0072cf0/720p",
+            "38": "//kodik.cc/seria/357263/dc9999220692881a4ae92bcc30ef9a02/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Вок любви",
+        "title_en": "Gireumjin mello",
+        "year": 2018,
+        "description": "Бывший когда-то популярным шеф-повар Со Пхун теперь работает в заштатном китайском ресторане и ему приходится иметь дело с владельцем здания - бывшим бандитом и сидельцем.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1113000.jpg",
+        "duration": 35,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 1205,
+        "imdb_rating": 7.5,
+        "imdb_votes": 525,
+        "premiere_world": "2018-05-07",
+        "actors": [
+          "Ли Джун-хо",
+          "Чан Хёк",
+          "Чон Рё-вон",
+          "Пак Чи-ён",
+          "Ли Ми-сук",
+          "Чо Джэ-юн",
+          "Лим Вон-хи",
+          "Чха Джу-ён",
+          "О И-щик",
+          "Чха Ин-ха"
+        ],
+        "directors": [
+          "Пак Сон-хо",
+          "Хам Джун-хо"
+        ],
+        "writers": [
+          "Со Сук-хян"
+        ]
+      }
+    },
+    {
+      "id": "movie-28836",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Горькая правда",
+      "title_orig": "Itihaas",
+      "translation": {
+        "id": 710,
+        "title": "РенТВ",
+        "type": "voice"
+      },
+      "year": 1997,
+      "kinopoisk_id": "86769",
+      "imdb_id": "tt0286724",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-11-28T07:23:39Z",
+      "updated_at": "2018-11-28T07:23:39Z",
+      "material_data": {
+        "title": "Горькая правда",
+        "title_en": "Itihaas",
+        "year": 1997,
+        "tagline": "History of love",
+        "description": "Тхакур Сингх — всеми уважаемый деревенский глава. И никому невдомек, что с помощью своего доверенного Балванта он занимается похищением и продажей в публичные дома деревенских девушек, с которыми попутно забавляется. Однажды Карану, сыну Балванта, поручается сопроводить в городскую резиденцию Тхакура красавицу Нэйну, которая выбрана в качестве очередной жертвы. Ни Каран, ни Нэйна не догадываются об истинных целях поездки. Только достигнув места они узнают горькую правду. Сможет ли любовь, вспыхнувшая между ними во время поездки, помочь им выстоять в борьбе с преступниками?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/86769.jpg",
+        "duration": 153,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "мелодрама"
+        ],
+        "imdb_rating": 3.5,
+        "imdb_votes": 279,
+        "minimal_age": 12,
+        "actors": [
+          "Аджай Девган",
+          "Твинкл Кханна",
+          "Амриш Пури",
+          "Радж Баббар",
+          "Шакти Капур",
+          "Сапна Беди",
+          "Аруна Ирани",
+          "Мохниш Бехл",
+          "Нилима Азим",
+          "Канчан"
+        ],
+        "directors": [
+          "Радж Канвар"
+        ],
+        "producers": [
+          "Радж Канвар",
+          "К. Паппу"
+        ],
+        "writers": [
+          "Робин Бхатт",
+          "Радж Канвар",
+          "Акаш Хурана",
+          "Камлеш Пандей"
+        ],
+        "composers": [
+          "Дилип Сен",
+          "Самир Сен",
+          "Нареш Шарма"
+        ],
+        "editors": [
+          "А. Мутху"
+        ],
+        "designers": [
+          "Р. Верман Шетти",
+          "Нита Лулла"
+        ],
+        "operators": [
+          "Хармит Сингх"
+        ]
+      }
+    },
+    {
+      "id": "movie-28838",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Я убил свою маму",
+      "title_orig": "J'ai tué ma mère",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2009,
+      "kinopoisk_id": "463781",
+      "imdb_id": "tt1424797",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-11-28T07:21:47Z",
+      "updated_at": "2018-11-28T07:21:47Z",
+      "material_data": {
+        "title": "Я убил свою маму",
+        "title_en": "J'ai tué ma mère",
+        "year": 2009,
+        "description": "16-летний Юбер пытается отстоять независимость и собственное достоинство перед матерью, которую он как любит, так и ненавидит. Мать любит его, но не умеет показать свои чувства сыну, она замучена работой, страдает от одиночества после того, как муж ушёл из семьи. \n\rЮбера, талантливого художника, раздражает в матери всё: безвкусная одежда, манера есть, неумение разговаривать. А его мать Шанталь не находит в себе силы и не умеет понять проблем юноши. Она не готова признать сына самостоятельным взрослым человеком, выпустить его из-под своей часто излишней опеки.\n\rДрузья, первый сексуальный опыт, одиночество, поиски юношей своего места в жизни – всё остаётся скрытым от матери.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/463781.jpg",
+        "duration": 100,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "драма",
+          "мелодрама"
+        ],
+        "kinopoisk_rating": 7.4,
+        "kinopoisk_votes": 22605,
+        "imdb_rating": 7.5,
+        "imdb_votes": 27194,
+        "premiere_ru": "2009-11-05",
+        "premiere_world": "2009-05-18",
+        "minimal_age": 16,
+        "actors": [
+          "Ксавье Долан",
+          "Энн Дорваль",
+          "Франсуа Арно",
+          "Сюзанн Клеман",
+          "Патриция Туласне",
+          "Нильс Шнайдер",
+          "Моника Спациани",
+          "Пьер Шаньон",
+          "Джастин Карон",
+          "Бенуа Гуэн"
+        ],
+        "directors": [
+          "Ксавье Долан"
+        ],
+        "producers": [
+          "Ксавье Долан",
+          "Кэрол Монделло",
+          "Дэниэл Морин"
+        ],
+        "writers": [
+          "Ксавье Долан"
+        ],
+        "composers": [
+          "Николас Савард-Хербер"
+        ],
+        "editors": [
+          "Хелен Джирард"
+        ],
+        "designers": [
+          "Ксавье Долан",
+          "Николь Пеллетье",
+          "Анетт Белли"
+        ],
+        "operators": [
+          "Стефани Энн Вебер Бирон"
+        ]
+      }
+    },
+    {
+      "id": "serial-13122",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Топ-менеджмент",
+      "title_orig": "Tapmaenijimeonteu",
+      "other_title": "Top Management",
+      "translation": {
+        "id": 639,
+        "title": "SoftBox",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "1206871",
+      "imdb_id": "tt9284162",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-11-06T15:42:36Z",
+      "updated_at": "2018-11-27T19:42:51Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/348294/e8f0eee976f912822ac05fc0eb8472a2/720p",
+            "2": "//kodik.cc/seria/348295/ea5f29ea9075ac7518b706100ef3b428/720p",
+            "3": "//kodik.cc/seria/348296/8707fff45cf429a05fc4c0e1a0f8c485/720p",
+            "4": "//kodik.cc/seria/349411/bc24e5172fa31e9b031b1e9c5812d95e/720p",
+            "5": "//kodik.cc/seria/349412/0f151b2849fd192adee6f54c0a049107/720p",
+            "6": "//kodik.cc/seria/349413/eaf2ab01acb5824f1790ea04ec39e7ae/720p",
+            "7": "//kodik.cc/seria/349414/861cbb6c0fb7720b4a9c328f49b51b9a/720p",
+            "8": "//kodik.cc/seria/349918/58ef80a697adee5a467aa0080f27683f/720p",
+            "9": "//kodik.cc/seria/354568/84b6c7c3218a1c95a52b64b02b316e86/720p",
+            "10": "//kodik.cc/seria/354769/3d203db88a82c4e9ef4987e855446e24/720p",
+            "11": "//kodik.cc/seria/355266/fb269fde5b3089ee155df86d0b86890d/720p",
+            "12": "//kodik.cc/seria/355764/a13fa6adb24823d02efbe3f22f598fa8/720p",
+            "13": "//kodik.cc/seria/356335/6b1cd7377d491a12156fe18b71750751/720p",
+            "14": "//kodik.cc/seria/356336/940587767c3406b391671fb8af54626a/720p",
+            "15": "//kodik.cc/seria/356603/ec8bbaaec86f4d2d63c73b13a1c47943/720p",
+            "16": "//kodik.cc/seria/357127/37ec34a0747e77375c4411ff6ac5239f/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Топ-менеджмент",
+        "title_en": "Tapmaenijimeonteu",
+        "year": 2018,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1206871.jpg",
+        "duration": 30,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "мелодрама",
+          "музыка"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 284,
+        "imdb_rating": 7.5,
+        "imdb_votes": 79,
+        "premiere_world": "2018-10-31",
+        "actors": [
+          "Со Ын-су",
+          "Ан Хё-соп",
+          "Чха Ын-у",
+          "Чон Ю-ан",
+          "Ли Джон-мин",
+          "Пан Джэ-мин",
+          "Чи Гон-у",
+          "Ян Хён-мин",
+          "Ю Хе-ин"
+        ],
+        "directors": [
+          "Юн Сон-хо"
+        ],
+        "producers": [
+          "Юн Щин-э"
+        ]
+      }
+    },
+    {
+      "id": "serial-13365",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Топ-менеджмент",
+      "title_orig": "Tapmaenijimeonteu",
+      "other_title": "Top Management\t",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "1206871",
+      "imdb_id": "tt9284162",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-11-20T20:08:39Z",
+      "updated_at": "2018-11-27T11:23:07Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/355090/7538c2bda549abdd53510bd7c8265875/720p",
+            "2": "//kodik.cc/seria/355091/72dfc7e5337bee206f713d4ef9e8e261/720p",
+            "3": "//kodik.cc/seria/355092/a0c12f10a3841ced41515b4cc4d78d3a/720p",
+            "4": "//kodik.cc/seria/355093/d31995a6648b9b9f5d49e84b730adf3a/720p",
+            "5": "//kodik.cc/seria/355094/4f4aa360743ea9cd973839f4f23e4abe/720p",
+            "6": "//kodik.cc/seria/355095/dad1b9846e7429436136fe6586ae36fb/720p",
+            "7": "//kodik.cc/seria/355096/27a6a102c0afe7529e79c2ae441cbda7/720p",
+            "8": "//kodik.cc/seria/355097/375611309be7f9c06b72c4e6d581f803/720p",
+            "9": "//kodik.cc/seria/355098/af951d87204c2e5578d56afef7885eb0/720p",
+            "10": "//kodik.cc/seria/355099/2b44979ecf0a264a8cc6ec8014024a3e/720p",
+            "11": "//kodik.cc/seria/355265/ec741bc5f347ebebee3722fc2c2c6ebe/720p",
+            "12": "//kodik.cc/seria/355444/bc1595cb6334814d160bab0cd55c3378/720p",
+            "13": "//kodik.cc/seria/355809/246c076e1d5b3870fe26ed174e0d961a/720p",
+            "14": "//kodik.cc/seria/356334/c90169e8f6abfda7be15237cbfb1d6d1/720p",
+            "15": "//kodik.cc/seria/356783/12e43c9beb9e9859a705bcd5041cfb85/720p",
+            "16": "//kodik.cc/seria/356925/ebe0f42113776ac93b17c3615ba132bd/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Топ-менеджмент",
+        "title_en": "Tapmaenijimeonteu",
+        "year": 2018,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1206871.jpg",
+        "duration": 30,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "мелодрама",
+          "музыка"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 284,
+        "imdb_rating": 7.5,
+        "imdb_votes": 79,
+        "premiere_world": "2018-10-31",
+        "actors": [
+          "Со Ын-су",
+          "Ан Хё-соп",
+          "Чха Ын-у",
+          "Чон Ю-ан",
+          "Ли Джон-мин",
+          "Пан Джэ-мин",
+          "Чи Гон-у",
+          "Ян Хён-мин",
+          "Ю Хе-ин"
+        ],
+        "directors": [
+          "Юн Сон-хо"
+        ],
+        "producers": [
+          "Юн Щин-э"
+        ]
+      }
+    },
+    {
+      "id": "serial-13451",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Мирзапур",
+      "title_orig": "Mirzapur",
+      "translation": {
+        "id": 868,
+        "title": "KosharaSerials",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 9,
+      "episodes_count": 9,
+      "kinopoisk_id": "1018603",
+      "imdb_id": "tt6473300",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-11-27T09:06:47Z",
+      "updated_at": "2018-11-27T09:06:47Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/357170/75a24ef269b2bd524dae2db96772bf0c/720p",
+            "2": "//kodik.cc/seria/357171/662a869752d065726f64f39bb5bd4e33/720p",
+            "3": "//kodik.cc/seria/357172/0d6815c9cd8a4bec408323ffe2f84b4b/720p",
+            "4": "//kodik.cc/seria/357173/0f813b193d253176b4ce7d042ca57cf7/720p",
+            "5": "//kodik.cc/seria/357174/d7b883b8d430e764c3ffbd537c77f94c/720p",
+            "6": "//kodik.cc/seria/357175/95848b54bb41680dd7f0e8eebeec4a2c/720p",
+            "7": "//kodik.cc/seria/357176/0e0e6ed4686062fef7aee9284da4d54f/720p",
+            "8": "//kodik.cc/seria/357177/1f8c31bee96665e0dbfd4cd29854d020/720p",
+            "9": "//kodik.cc/seria/357178/f10ad75d708b40ddaf2a154d4da75a89/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Мирзапур",
+        "title_en": "Mirzapur",
+        "year": 2018,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1018603.jpg",
+        "duration": 60,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "боевик",
+          "драма",
+          "триллер"
+        ],
+        "imdb_rating": 8.4,
+        "imdb_votes": 50622,
+        "premiere_world": "2018-11-15",
+        "minimal_age": 18,
+        "actors": [
+          "Панкадж Трипати",
+          "Али Фазал",
+          "Викрант Мэсси",
+          "Дивиенду Шарма",
+          "Раджеш Тайланг",
+          "Швета Трипати",
+          "Шрия Пилгаонкар",
+          "Расика Дагал",
+          "Абхишек Банерджи",
+          "Шиба Чадха"
+        ],
+        "directors": [
+          "Гурммит Сингх",
+          "Каран Аншуман",
+          "Михир Десаи"
+        ],
+        "producers": [
+          "Фархан Ахтар",
+          "Каран Аншуман",
+          "Викеш Бхутани",
+          "Кассим Джагмагиа",
+          "Abbas Raza Khan",
+          "Ритеш Сидхвани",
+          "Рупали Суреш Вайдя",
+          "Шантану Тунгаре"
+        ],
+        "writers": [
+          "Каран Аншуман",
+          "Пунит Кришна",
+          "Винит Кришнан"
+        ],
+        "composers": [
+          "John Stewart Eduri"
+        ],
+        "editors": [
+          "Манан Мехта",
+          "Аншул Гупта"
+        ],
+        "designers": [
+          "Абхиджит Гаонкар",
+          "Sonam Singh",
+          "Vilas Panchal",
+          "Neelanchal Ghosh",
+          "Даршан Джалан"
+        ],
+        "operators": [
+          "Санджай Капур"
+        ]
+      }
+    },
+    {
+      "id": "serial-13542",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Священник",
+      "title_orig": "Peuriseuteu",
+      "other_title": "Priest / peu-ri-seu-teu",
+      "translation": {
+        "id": 877,
+        "title": "JoyStudio",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 2,
+      "episodes_count": 2,
+      "kinopoisk_id": "1192194",
+      "imdb_id": "tt9130526",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-11-27T07:59:38Z",
+      "updated_at": "2018-11-27T07:59:38Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/359006/32006b5c65a1325d8f1e9c32611b1076/720p",
+            "2": "//kodik.cc/seria/359007/b9fe646e532ad6688ac6b10f73294b88/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Священник",
+        "title_en": "Peuriseuteu",
+        "year": 2018,
+        "description": "Молодой священник О Су-мин состоит в религиозной организации, которая неофициально проводит обряды экзорцизма. Парень до сих пор терзается чувством вины из-за того, что в прошлом не смог спасти от смерти мать, одержимую злыми духами. Он знакомится с молодой идеалистичной докторшей Хам Ын-хо, которая не верит в высшие силы и потустороннее. Девушка становится свидетелем сверхъестественных явлений, и в её жизни начинают происходить большие перемены.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1192194.jpg",
+        "duration": 80,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "триллер",
+          "ужасы",
+          "фэнтези"
+        ],
+        "imdb_rating": 7.4,
+        "imdb_votes": 80,
+        "premiere_world": "2018-11-24",
+        "actors": [
+          "Ён У-джин",
+          "Чон Ю-ми",
+          "Пак Ён-у",
+          "Ли Ён-сок",
+          "Мун Сук",
+          "Сон Джон-хак",
+          "О Ён-а",
+          "Ю Би",
+          "Кан Гён-хон",
+          "Чан Хи-рён"
+        ],
+        "directors": [
+          "Ким Джон-хён"
+        ],
+        "writers": [
+          "Мун Ман-сэ"
+        ]
+      }
+    },
+    {
+      "id": "movie-27809",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Бомбардировка",
+      "title_orig": "Da hong zha",
+      "translation": {
+        "id": 652,
+        "title": "@MUZOBOZ@",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "916016",
+      "imdb_id": "tt4743226",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-10-27T16:43:17Z",
+      "updated_at": "2018-11-27T06:36:00Z",
+      "material_data": {
+        "title": "Бомбардировка",
+        "title_en": "Da hong zha",
+        "year": 2018,
+        "tagline": "China 1939. WWII's untold story.",
+        "description": "Февраль 1938 года, Вторая японо-китайская война. После вынужденного переноса китайской столицы в Чунцин японское командование принимает решение - стереть город с лица земли. Японцы готовились к войне на Тихом океане и надеялись принудить правительство Чан Кайши к скорейшему выходу из войны. Тысячи тонн снарядов обрушиваются на мирные кварталы Чунцина.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/916016.jpg",
+        "duration": 132,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "боевик",
+          "военный",
+          "драма"
+        ],
+        "kinopoisk_rating": 4.4,
+        "kinopoisk_votes": 511,
+        "imdb_rating": 3.2,
+        "imdb_votes": 3660,
+        "premiere_world": "2018-10-17",
+        "rating_mpaa": "R",
+        "actors": [
+          "Лю Е",
+          "Брюс Уиллис",
+          "Сон Сын-хон",
+          "Уильям Чань",
+          "Фань Вэй",
+          "У Ган",
+          "Ма Су",
+          "Чэ Юнли",
+          "Фэн Юаньчжэн",
+          "Джанин Чан"
+        ],
+        "directors": [
+          "Сяо Фэн"
+        ],
+        "producers": [
+          "Стивен Дж. Идс",
+          "Ши Цзяньсян",
+          "Ян Бутин",
+          "Бэрри Брукер",
+          "Benjamin Chen",
+          "Johnny Yan Chen",
+          "Дэнни Димборт",
+          "Jiajun Du",
+          "Стивен Экелберри",
+          "Мэл Гибсон"
+        ],
+        "writers": [
+          "Чэнь Пин"
+        ],
+        "composers": [
+          "Ван Лигуан"
+        ],
+        "editors": [
+          "Роберт А. Ферретти",
+          "Эрик Квон"
+        ],
+        "designers": [
+          "Хуайтсин Мао"
+        ],
+        "operators": [
+          "Ян Шу"
+        ]
+      }
+    },
+    {
+      "id": "movie-28771",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Поездка за город",
+      "title_orig": "Countrycide",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "917744",
+      "imdb_id": "tt4797490",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-11-26T17:12:09Z",
+      "updated_at": "2018-11-27T06:24:20Z",
+      "material_data": {
+        "title": "Поездка за город",
+        "title_en": "Countrycide",
+        "year": 2017,
+        "tagline": "Welcome to the great outdoors.",
+        "description": "Парочка отправляется в путешествие. Остановившись переночевать в лесу, они превращаются в добычу для диких животных, а может, кого и похуже.",
+        "duration": 69,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "детектив",
+          "триллер",
+          "ужасы"
+        ],
+        "imdb_rating": 2,
+        "imdb_votes": 171,
+        "premiere_world": "2017-08-03",
+        "actors": [
+          "Robin Hodge",
+          "Joel Elliott",
+          "Питер Уитэйкер",
+          "Andrew Galligan",
+          "Тревор Пайер",
+          "Ли Кир"
+        ],
+        "directors": [
+          "Бретт Келли"
+        ],
+        "producers": [
+          "Энн-Мари Фригон"
+        ],
+        "writers": [
+          "Бретт Келли"
+        ],
+        "editors": [
+          "Бретт Келли"
+        ]
+      }
+    },
+    {
+      "id": "movie-28722",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Когда вяжут серьёзно",
+      "title_orig": "Karera ga honki de amu toki wa",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "973238",
+      "imdb_id": "tt5633706",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-11-25T20:39:53Z",
+      "updated_at": "2018-11-27T06:23:07Z",
+      "material_data": {
+        "title": "Когда вяжут серьёзно",
+        "title_en": "Karera ga honki de amu toki wa",
+        "year": 2017,
+        "description": "11-летняя Томо живет с непутевой матерью. Та содержит дом в беспорядке, ведет беспутную жизнь и однажды исчезает. Томо приезжает к дяде Макио. У Макио есть девушка Ринко, которая родилась мужчиной и сейчас работает в доме престарелых. Томо удивлена и сбита с толку, ведь Ринко относится к ней ласковее и теплее, чем родная мать.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/973238.jpg",
+        "duration": 127,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 7.1,
+        "kinopoisk_votes": 193,
+        "imdb_rating": 7,
+        "imdb_votes": 1231,
+        "premiere_world": "2017-02-10",
+        "actors": [
+          "Ринка Какихара",
+          "Тома Икута",
+          "Муги Кадоваки",
+          "Эико Коикэ",
+          "Кэнта Киритани",
+          "Норико Эгути",
+          "Риэ Мимура",
+          "Мисако Танака",
+          "Рири",
+          "Сюдзи Касивабара"
+        ],
+        "directors": [
+          "Наоко Огигами"
+        ],
+        "producers": [
+          "Масаси Игараси",
+          "Кэндзо Исигуро",
+          "Нориаки Такаги",
+          "Маюми Амано",
+          "Хадзимэ Иноэ",
+          "Куми Кобата"
+        ],
+        "writers": [
+          "Наоко Огигами"
+        ]
+      }
+    },
+    {
+      "id": "movie-28785",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "96",
+      "title_orig": "96",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1069344",
+      "imdb_id": "tt7019842",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-11-27T06:20:28Z",
+      "updated_at": "2018-11-27T06:20:28Z",
+      "material_data": {
+        "title": "96",
+        "title_en": "",
+        "year": 2018,
+        "description": "Знаменитый фотограф и путешественник Рамачандран случайно оказывается в родном городе. Здесь ему придётся вновь пережить самые яркие и вместе с тем самые болезненные моменты своей жизни – спустя 22 года он встретит женщину, которую любит всю свою жизнь, несмотря на то, что судьба развела их. Впереди их ждёт целая ночь откровений.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1069344.jpg",
+        "duration": 158,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "драма",
+          "мелодрама"
+        ],
+        "imdb_rating": 8.6,
+        "imdb_votes": 19086,
+        "premiere_world": "2018-10-03",
+        "actors": [
+          "Виджай Сетхупатхи",
+          "Триша Кришнан",
+          "Varsha Bollamma",
+          "Adithya Bhaskar",
+          "Gouri Kishan",
+          "Devadarshini Chetan",
+          "Джанагарадж",
+          "Murugadass",
+          "Багаватхи Перумал",
+          "Кавитхалая Кришнан"
+        ],
+        "directors": [
+          "Премкумар"
+        ],
+        "producers": [
+          "Nandagopal"
+        ],
+        "writers": [
+          "Премкумар"
+        ],
+        "composers": [
+          "Говинд Менон"
+        ],
+        "editors": [
+          "R. Govindaraj"
+        ],
+        "designers": [
+          "Vinoth Rajkumar",
+          "Subhashree Kaarthik Vijay"
+        ],
+        "operators": [
+          "Mahendran Jayaraju",
+          "N. Shanmuga Sundaram"
+        ]
+      }
+    },
+    {
       "id": "movie-28727",
       "type": "foreign-movie",
       "link": "",
@@ -5698,8 +6675,8 @@
           "комедия",
           "мелодрама"
         ],
-        "imdb_rating": 6.1,
-        "imdb_votes": 329,
+        "imdb_rating": 6.2,
+        "imdb_votes": 340,
         "premiere_world": "2017-08-05",
         "actors": [
           "Трэвис Милн",
@@ -7201,1224 +8178,6 @@
             "12": "//kodik.cc/seria/354386/50553fab7987efeafb658587c0547f1b/720p"
           }
         }
-      }
-    },
-    {
-      "id": "serial-13322",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Мой парень-вампир",
-      "title_orig": "My Vampire Boyfriend",
-      "translation": {
-        "id": 871,
-        "title": "Asian Miracle Group",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "imdb_id": "tt11609928",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-11-19T08:34:53Z",
-      "updated_at": "2018-11-19T08:35:50Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/354362/f6a6ae63110b1938838becbb439094b0/720p",
-            "2": "//kodik.cc/seria/354364/29112ca9c4c3d91fcdb0cce71da9d894/720p",
-            "3": "//kodik.cc/seria/354365/9e48a8f4f3d19623ece4edf11183f3a8/720p",
-            "4": "//kodik.cc/seria/354366/6412090f522e9574ec7b77aa7b34f942/720p",
-            "5": "//kodik.cc/seria/354367/060e8316d8b272c7f474b2d4de52e978/720p",
-            "6": "//kodik.cc/seria/354368/8bce4de50ffdf40a532993ae02eebf42/720p",
-            "7": "//kodik.cc/seria/354369/53c0973af86003ebac5994c85bac12ae/720p",
-            "8": "//kodik.cc/seria/354370/e8d361090df569e4623a8f74724d3823/720p",
-            "9": "//kodik.cc/seria/354371/0560c69b4dd4153379200944ebd9522b/720p",
-            "10": "//kodik.cc/seria/354372/d1b08f38db71bcf07cfbde10cf058e2e/720p",
-            "11": "//kodik.cc/seria/354373/2fc7fc6d01f1f826b684db79addca6c0/720p",
-            "12": "//kodik.cc/seria/354374/19f2e38ab891f3ddec49a9dc499bd1e0/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-13044",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Токко: Перемотка",
-      "title_orig": "Dokgo riwaindeu",
-      "other_title": "Докго: Перезагрузка / Doggo",
-      "translation": {
-        "id": 639,
-        "title": "SoftBox",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 20,
-      "episodes_count": 20,
-      "kinopoisk_id": "1115473",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-10-31T10:56:33Z",
-      "updated_at": "2018-11-19T08:29:27Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/346167/6153c2f10ab41279e2ee7243811a15f9/720p",
-            "2": "//kodik.cc/seria/346168/4c79a98ea8444d11435f422360f08728/720p",
-            "3": "//kodik.cc/seria/346169/2c21f323dbc689e86945b73ae2c29870/720p",
-            "4": "//kodik.cc/seria/346170/e939c9d81bb4139fb5ae9491de52935e/720p",
-            "5": "//kodik.cc/seria/346171/97241f34e0f94598d2b249625c55f3ad/720p",
-            "6": "//kodik.cc/seria/346172/6ca0e13948e4a2afe65cac2d92a507c0/720p",
-            "7": "//kodik.cc/seria/346173/a5395da904d0216470ae96857ae86f29/720p",
-            "8": "//kodik.cc/seria/346174/78e7d09e6104b4df095874b661b9e744/720p",
-            "9": "//kodik.cc/seria/346175/cd8b4883242b51424614534f17f7c870/720p",
-            "10": "//kodik.cc/seria/346176/651ca17fe475b15d83b74f0cc0ef9ea9/720p",
-            "11": "//kodik.cc/seria/346177/40da8c864d2b18747f4f812cef62fb79/720p",
-            "12": "//kodik.cc/seria/346178/64b8f35924fa35537a32cb1a1b53092b/720p",
-            "13": "//kodik.cc/seria/346179/e81c5b96dbff036d9a77a9e81ea22692/720p",
-            "14": "//kodik.cc/seria/346180/1ab9f9367bbacfdfba8e066d23751515/720p",
-            "15": "//kodik.cc/seria/346181/5588233c91667c5956d68b4bca31c472/720p",
-            "16": "//kodik.cc/seria/350762/81f8b866c57c43cab311d6073ed5faba/720p",
-            "17": "//kodik.cc/seria/350763/246270e60019c1305079edebe54b5e6b/720p",
-            "18": "//kodik.cc/seria/350764/6eda9b9617e01ec44c2764983e742421/720p",
-            "19": "//kodik.cc/seria/354344/78e871183d66ffb8b55c9361326c303c/720p",
-            "20": "//kodik.cc/seria/354345/973d145f6fcffa3eb1c78dc147bad9c8/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Токко: Перемотка",
-        "title_en": "Dokgo riwaindeu",
-        "year": 2018,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1115473.jpg",
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "боевик",
-          "драма"
-        ],
-        "premiere_world": "2018-09-07",
-        "actors": [
-          "Сэхун",
-          "Кан Ми-на",
-          "Ли Джэ-ён",
-          "Ким Хи-джин",
-          "Кан Да-хён",
-          "Нам Тхэ-бу",
-          "Ан Бо-хён",
-          "Чан И-су",
-          "Щин Вон-хо",
-          "Ким Чхэ-ын"
-        ]
-      }
-    },
-    {
-      "id": "movie-28383",
-      "type": "anime",
-      "link": "",
-      "title": "Годзилла: Город на грани битвы",
-      "title_orig": "Godzilla: kessen kido zoshoku toshi",
-      "other_title": "Годзилла: Решающая схватка / Gojira: kessen kidô zôshoku toshi",
-      "translation": {
-        "id": 873,
-        "title": "AniPLague",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1110926",
-      "imdb_id": "tt8015080",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8903",
-      "shikimori_id": "36816",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-11-19T06:42:59Z",
-      "updated_at": "2018-11-19T06:42:59Z",
-      "material_data": {
-        "title": "Годзилла: Город на грани битвы",
-        "title_en": "Godzilla: kessen kido zoshoku toshi",
-        "other_titles": [
-          "Годзилла: Город на грани битвы"
-        ],
-        "other_titles_en": [
-          "Godzilla: City on the Edge of Battle"
-        ],
-        "other_titles_jp": [
-          "GODZILLA 決戦機動増殖都市"
-        ],
-        "anime_license_name": "GODZILLA City on the Edge of Battle",
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2018,
-        "description": "Много лет назад люди были изгнаны с родной планеты ордами ужасных чудовищ и бежали, спасая остатки человечества, на космических кораблях в надежде найти новый дом. А когда надежда окончательно растаяла, и немногие выжившие решили вернуться и сражаться за Землю, они потерпели сокрушительное поражение от нынешнего правителя планеты — Годзиллы. Но вскоре выяснится, что выжили не только сбежавшие в космос. Некоторые люди приспособились к новым условиям и даже создали нетехногенную цивилизацию. Двум группам таких разных теперь людей придется объединить усилия, чтобы противостоять общему врагу.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1110926.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/47cab8a4c74ffe523e6d433c7d04d02810028605.jpg",
-          "https://shikimori.one/system/screenshots/original/74904db3b331bd0bc727c42c22595a4df1aebd59.jpg"
-        ],
-        "duration": 101,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Приключения",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Polygon Pictures"
-        ],
-        "kinopoisk_rating": 6,
-        "kinopoisk_votes": 650,
-        "imdb_rating": 5.8,
-        "imdb_votes": 4140,
-        "shikimori_rating": 6.69,
-        "shikimori_votes": 890,
-        "premiere_world": "2018-05-18",
-        "aired_at": "2018-05-18",
-        "rating_mpaa": "R",
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Мамору Мияно",
-          "Такахиро Сакурай",
-          "Кана Ханадзава",
-          "Томокадзу Сугита",
-          "Юки Кадзи",
-          "Хаято Фудзий",
-          "Кэнъю Хориути",
-          "Харуки Исия",
-          "Наоко Комацу",
-          "Кэнта Миякэ"
-        ],
-        "directors": [
-          "Хироюки Сэсита",
-          "Сидзуно Кобун"
-        ],
-        "producers": [
-          "Такаси Ёсидзава",
-          "Ёсихиро Фурусава"
-        ],
-        "writers": [
-          "Исиро Хонда",
-          "Юсукэ Кодзаки",
-          "Гэн Уробути"
-        ],
-        "composers": [
-          "Такаюки Хаттори"
-        ],
-        "designers": [
-          "Ferdinando Patulli",
-          "Наоя Танака",
-          "Юкихиро Сибутани"
-        ]
-      }
-    },
-    {
-      "id": "movie-28376",
-      "type": "anime",
-      "link": "",
-      "title": "Паприка",
-      "title_orig": "Papurika",
-      "other_title": "Paprika",
-      "translation": {
-        "id": 878,
-        "title": "Видеосервис",
-        "type": "voice"
-      },
-      "year": 2006,
-      "kinopoisk_id": "259892",
-      "imdb_id": "tt0851578",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5498",
-      "shikimori_id": "1943",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-11-18T23:21:23Z",
-      "updated_at": "2018-11-18T23:21:23Z",
-      "material_data": {
-        "title": "Паприка",
-        "title_en": "Papurika",
-        "other_titles_en": [
-          "Paprika"
-        ],
-        "other_titles_jp": [
-          "パプリカ"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2006,
-        "tagline": "This is your brain on anime.",
-        "description": "Устройство DC Mini позволяет терапевтам проникать в сны пациентов, а также записывать их на пленку. Три таких устройства были украдены, что дает их владельцу возможность не только проникать в фантазии людей, но также проникать в сознание и открывать им путь в собственные фантазии. Задача героев состоит в возвращении устройств, в выполнении которой на помощь приходит загадочная девушка - Паприка.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/259892.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/c95225d2d91949860fd919ce0f091d463d608819.jpg",
-          "https://shikimori.one/system/screenshots/original/d0cebcb08f62398ed6926f8813290d44e9f30e0f.jpg"
-        ],
-        "duration": 90,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фантастика"
-        ],
-        "anime_genres": [
-          "Безумие",
-          "Детектив",
-          "Психологическое",
-          "Триллер",
-          "Ужасы",
-          "Фантастика",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Madhouse"
-        ],
-        "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 17546,
-        "imdb_rating": 7.7,
-        "imdb_votes": 69065,
-        "shikimori_rating": 8.07,
-        "shikimori_votes": 14801,
-        "premiere_world": "2006-09-02",
-        "aired_at": "2006-11-25",
-        "rating_mpaa": "R",
-        "minimal_age": 16,
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Мэгуми Хаясибара",
-          "Тору Фуруя",
-          "Коити Ямадэра",
-          "Кацуносукэ Хори",
-          "Тору Эмори",
-          "Акио Оцука",
-          "Хидэюки Танака",
-          "Сатоми Короги",
-          "Дайсукэ Сакагути",
-          "Мицуо Ивата"
-        ],
-        "directors": [
-          "Сатоси Кон"
-        ],
-        "producers": [
-          "Фумитомо Хара",
-          "Дзюнго Марута",
-          "Таро Морисима",
-          "Юкико Ниноката",
-          "Масао Такияма"
-        ],
-        "writers": [
-          "Ясутака Цуцуи",
-          "Сэиси Минаками",
-          "Сатоси Кон"
-        ],
-        "composers": [
-          "Сусуму Хирасава"
-        ],
-        "editors": [
-          "Такэси Сэяма"
-        ],
-        "designers": [
-          "Нобутака Икэ"
-        ],
-        "operators": [
-          "Мития Като"
-        ]
-      }
-    },
-    {
-      "id": "movie-28377",
-      "type": "anime",
-      "link": "",
-      "title": "Годзилла: Планета чудовищ",
-      "title_orig": "Godzilla: kaijuu wakusei",
-      "other_title": "Годзилла",
-      "translation": {
-        "id": 873,
-        "title": "AniPLague",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1008560",
-      "imdb_id": "tt5979874",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8903",
-      "shikimori_id": "33783",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-11-18T23:06:21Z",
-      "updated_at": "2018-11-18T23:06:21Z",
-      "material_data": {
-        "title": "Годзилла: Планета чудовищ",
-        "title_en": "Godzilla: kaijuu wakusei",
-        "other_titles": [
-          "Годзилла: Планета кайдзю"
-        ],
-        "other_titles_en": [
-          "Godzilla: Planet of the Monsters"
-        ],
-        "other_titles_jp": [
-          "GODZILLA -怪獣惑星-"
-        ],
-        "anime_license_name": "GODZILLA Planet of the Monsters",
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2017,
-        "tagline": "Who will be ruined, Human or Godzilla.",
-        "description": "В последнее лето 20-го столетия люди узнали о том, что планета им больше не принадлежит. Гигантские чудовища — кайдзю — выбрались из земных недр, после чего начали уничтожать человеческие города и друг друга. Самым страшным из кайдзю был Годзилла. Непобедимый ящер с радиоактивным дыханием. \n\rЧеловечество решает оставить Землю, и отправиться на поиски нового дома. Через 20 лет космического путешествия становится очевидно - вероятность найти пригодную для жизни планету ничтожно мала. Харуто было 4 года, когда он попал на корабль переселенцев, и теперь парень считает, что человечество позорно сдалось - нужно было всеми силами отстаивать Землю и сражаться с Годзиллой. Его идеи становятся популярны, и принято решение вернуться. Из-за использования технологии гиперскачка в пространстве переселенцы возвращаются на Землю через 20.000 лет после собственного бегства. От цивилизации не осталось и следа, миром правят чудовища, а на вершине пищевой цепочки восседает враг человечества - Годзилла.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1008560.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/d925e362e994d16c587a27374f0609a33d492fa1.jpg",
-          "https://shikimori.one/system/screenshots/original/117c171544220c5eeb64049fb7ca575f681d5bce.jpg"
-        ],
-        "duration": 89,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Приключения",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Polygon Pictures"
-        ],
-        "kinopoisk_rating": 5.8,
-        "kinopoisk_votes": 1461,
-        "imdb_rating": 6,
-        "imdb_votes": 7452,
-        "shikimori_rating": 6.54,
-        "shikimori_votes": 1517,
-        "premiere_world": "2017-11-17",
-        "aired_at": "2017-11-17",
-        "rating_mpaa": "R",
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Мамору Мияно",
-          "Такахиро Сакурай",
-          "Кана Ханадзава",
-          "Томокадзу Сугита",
-          "Юки Кадзи",
-          "Дзюнъити Сувабэ",
-          "Даисукэ Оно",
-          "Кэнта Миякэ",
-          "Кэнъю Хориути",
-          "Кадзуя Накаи"
-        ],
-        "directors": [
-          "Хироюки Сэсита",
-          "Сидзуно Кобун"
-        ],
-        "producers": [
-          "Такаси Ёсидзава",
-          "Ёсихиро Фурусава"
-        ],
-        "writers": [
-          "Гэн Уробути",
-          "Садаюки Мураи",
-          "Юсукэ Кодзаки"
-        ],
-        "composers": [
-          "Такаюки Хаттори"
-        ],
-        "editors": [
-          "Ая Хида"
-        ],
-        "designers": [
-          "Наоя Танака",
-          "Ferdinando Patulli",
-          "Юкихиро Сибутани"
-        ]
-      }
-    },
-    {
-      "id": "serial-11629",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Необъятный океан",
-      "title_orig": "Grand Blue",
-      "other_title": "Бескрайняя синева / Grand Blue Dreaming",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1112986",
-      "imdb_id": "tt8086718",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9590",
-      "shikimori_id": "37105",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-07-17T21:22:18Z",
-      "updated_at": "2018-11-18T17:07:08Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/311838/d4d35e736cada17b974b07b8d632758e/720p",
-            "2": "//aniqit.com/seria/316016/1bb57acfe81d48f07d6b4388df65e083/720p",
-            "3": "//aniqit.com/seria/318888/b8fb68e7be339955c4d0f4e4422ce338/720p",
-            "4": "//aniqit.com/seria/320390/9fa8da1ab53fe505f0429c5b5e104729/720p",
-            "5": "//aniqit.com/seria/323105/a42b0f4ef37e77747808dfe74fcdf781/720p",
-            "6": "//aniqit.com/seria/326650/27e7d6cd0cbd5217ebfb9ae145353820/720p",
-            "7": "//aniqit.com/seria/326651/859b30f9edb3b2e6235db12f5f2a6503/720p",
-            "8": "//aniqit.com/seria/329879/ce83c09b593875ec029d87592e3ab1b2/720p",
-            "9": "//aniqit.com/seria/329880/b89f98e146d276be8ee181add080a24b/720p",
-            "10": "//aniqit.com/seria/335224/6488e630b52b4decc8a04608c0949f51/720p",
-            "11": "//aniqit.com/seria/335225/16fbccd39cfc8a76882c91d310fd6fc1/720p",
-            "12": "//aniqit.com/seria/336516/a9c6adb044ce5093d287bd2c85db4822/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Необъятный океан",
-        "title_en": "Grand Blue",
-        "other_titles_en": [
-          "Grand Blue Dreaming"
-        ],
-        "other_titles_jp": [
-          "ぐらんぶる"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2018,
-        "tagline": "«The sea is calling us.»",
-        "description": "Иори Китахара поступил в университет в прибрежном городке и снял комнату у семьи Котэгава. Глава семьи владеет магазинчиком снаряжения для дайвинга, но эта тематика не близка сердцу Иори - он до ужаса боится воды. Но знакомство с компанией друзей-дайверов заставляет его постепенно менять свои взгляды, научиться смотреть своим страхам прямо в глаза и открыть для себя просторы необъятного океана.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1112986.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/247e54692cf7adaa91cb2db0061c1af6cbe18947.jpg",
-          "https://shikimori.one/system/screenshots/original/eea50652b36b64444a995c7825c58aaecce31f10.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность",
-          "Сейнен"
-        ],
-        "anime_studios": [
-          "Zero-G"
-        ],
-        "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 3264,
-        "imdb_rating": 7.8,
-        "imdb_votes": 1225,
-        "shikimori_rating": 8.41,
-        "shikimori_votes": 25664,
-        "premiere_world": "2018-07-14",
-        "aired_at": "2018-07-14",
-        "released_at": "2018-09-29",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Юма Утида",
-          "Рёхэй Кимура",
-          "Хироки Ясумото",
-          "Кацуюки Конъиси",
-          "Тика Андзаи",
-          "Маая Утида",
-          "Тоа Юкинари",
-          "Кана Асуми",
-          "Такуя Эгути",
-          "Дзюнъя Эноки"
-        ],
-        "directors": [
-          "Синдзи Такамацу",
-          "Ёсихиса Мацумото",
-          "Ацуко Тономидзу",
-          "Масаки Уцуномия",
-          "Таро Ивасаки",
-          "Рюта Кавахара",
-          "Такаси Кобаяси",
-          "Кэисукэ Нисидзима",
-          "Нанако Симадзаки"
-        ],
-        "producers": [
-          "Хироо Маруяма"
-        ],
-        "writers": [
-          "Кэндзи Иноэ",
-          "Синдзи Такамацу",
-          "Кимитакэ Ёсиока"
-        ],
-        "editors": [
-          "Масаки Уцуномия"
-        ],
-        "designers": [
-          "Минору Акиба"
-        ],
-        "operators": [
-          "Хидэки Имаидзуми"
-        ]
-      }
-    },
-    {
-      "id": "serial-10432",
-      "type": "anime-serial",
-      "link": "",
-      "title": "И все же грешник танцует с драконом",
-      "title_orig": "Saredo Tsumibito wa Ryuu to Odoru: Dances with the Dragons",
-      "other_title": "Dances with the Dragons",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1252169",
-      "imdb_id": "tt9806640",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9137",
-      "shikimori_id": "33889",
-      "quality": "HDTVRip 1080p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-05-19T08:52:05Z",
-      "updated_at": "2018-11-18T16:06:27Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/279200/0400d739918f4b77767ab2f43b13118b/720p",
-            "2": "//aniqit.com/seria/279201/fdafca4b088d5b91b5a00661c1957c06/720p",
-            "3": "//aniqit.com/seria/279202/dfb455b8fc9b9fa9ad0f280738ce7fad/720p",
-            "4": "//aniqit.com/seria/279203/91208661ff2d6b98fe08cff13276746a/720p",
-            "5": "//aniqit.com/seria/279204/30796de2f3a1191fe74f12c72695b632/720p",
-            "6": "//aniqit.com/seria/279205/51ce386471c46567c0b5452574850a43/720p",
-            "7": "//aniqit.com/seria/288775/1f154802b15ca8d7431fa909208481df/720p",
-            "8": "//aniqit.com/seria/288776/64475dfe39348598aef90f994a7a2a13/720p",
-            "9": "//aniqit.com/seria/288777/e45c283c499749324e011b1e62e13a40/720p",
-            "10": "//aniqit.com/seria/288778/6d862f704d2c5ede25c82e45e2d18150/720p",
-            "11": "//aniqit.com/seria/296985/c3c1b6dbea73a37949c9968d27d10174/720p",
-            "12": "//aniqit.com/seria/302706/79c8254c626542cc3e30feaa4926bb3c/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "И всё же, грешник танцует с драконом",
-        "title_en": "Saredo Tsumibito wa Ryuu to Odoru",
-        "other_titles_en": [
-          "Dances with the Dragons"
-        ],
-        "other_titles_jp": [
-          "されど罪人は竜と踊る"
-        ],
-        "anime_license_name": "И всё же, грешник танцует с драконом",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2018,
-        "description": "Существуют особые способности, называемые формулами заклинаний. Но обладают этими навыками, не все, что позволяет особо умелым владельцам формул зарабатывать деньги. В городке под названием Эридана как раз живут такие предприимчивые дельцы, решившие объединить свои усилия и начать работать охотниками за головами. Гайус Сорель и Гигина Эшли-Баф - пользователи формул заклинаний 13-го ранга. Гайус жаждет мирной жизни, но в его ситуации это практически невозможно. Тем не менее, с помощью пытливого ума ему удаётся справляться с неприятностями. А Гигина, наоборот, так и ищет драки. Они такие разные, что с лёгкостью могли бы стать врагами, но в работе у них абсолютное взаимопонимание, несмотря на пререкания.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1252169.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/d537d54a7664394404055c7a2c1c74b36a387b8a.jpg",
-          "https://shikimori.one/system/screenshots/original/427dba5413466508d464ee2b7a2ce93115d11c14.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Фантастика",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Seven Arcs Pictures"
-        ],
-        "imdb_rating": 5.4,
-        "imdb_votes": 17,
-        "shikimori_rating": 5.83,
-        "shikimori_votes": 1454,
-        "premiere_world": "2018-04-05",
-        "aired_at": "2018-04-06",
-        "released_at": "2018-06-22",
-        "rating_mpaa": "R",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Ёсимаса Хосоя",
-          "Симадзаки Нобунага"
-        ],
-        "directors": [
-          "Хироси Нисикиори"
-        ]
-      }
-    },
-    {
-      "id": "serial-10244",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Сайт волшебниц",
-      "title_orig": "Mahou Shoujo Site",
-      "other_title": "Magical Girl Site",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1112656",
-      "imdb_id": "tt8250240",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9394",
-      "shikimori_id": "36266",
-      "quality": "HDTVRip 1080p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-04-25T21:36:34Z",
-      "updated_at": "2018-11-18T16:02:45Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/272750/df6bd0df578c23577b4ad1c12e267257/720p",
-            "2": "//aniqit.com/seria/272751/e5ac549747dc4c80ec450d19f795fd70/720p",
-            "3": "//aniqit.com/seria/272752/e145a5b76ccc1b2396ac88cf81dc2540/720p",
-            "4": "//aniqit.com/seria/273565/3f4f628156346c5fd861f8660ecc0397/720p",
-            "5": "//aniqit.com/seria/276619/bca1254a3bf97a0c4057e3153df2bc61/720p",
-            "6": "//aniqit.com/seria/279082/daf7fce8e31ae297fc452c1223d03216/720p",
-            "7": "//aniqit.com/seria/282320/a61b4d04b2a185ce9ef99bf11f59c712/720p",
-            "8": "//aniqit.com/seria/282321/d20c16956423202bbf5d084e99d681d4/720p",
-            "9": "//aniqit.com/seria/287257/56889450f6b5de7f5ef8368b4414e246/720p",
-            "10": "//aniqit.com/seria/288378/4ec0794fa012b996ec545d5618de9dc1/720p",
-            "11": "//aniqit.com/seria/298384/a3f57003e5955de87372796e8baac571/720p",
-            "12": "//aniqit.com/seria/298385/b5de060012876345a5b2856f47bf2ec5/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Сайт волшебниц",
-        "title_en": "Mahou Shoujo Site",
-        "other_titles": [
-          "Сайт девочек-волшебниц",
-          "Magical Girl Site"
-        ],
-        "other_titles_en": [
-          "Magical Girl Site"
-        ],
-        "other_titles_jp": [
-          "魔法少女サイト"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2018,
-        "description": "Над девушкой издеваются в школе, и не понимают дома. В поисках совета она обращается к единственному помощнику подростка в таких ситуациях — интернету — и находит так называемый сайт волшебниц. За милым девчачьим названием скрывается адский колдовской сайт, который засасывает несчастную в другой мир, где ей теперь придется воспитывать характер и насмерть биться с машинами-убийцами.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1112656.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/67900e52e684264703bb1a67acb1f65c6fcd099f.jpg",
-          "https://shikimori.one/system/screenshots/original/820ee6f8d6c141d019f901914afacb7a008d39c0.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Психологическое",
-          "Сверхъестественное",
-          "Ужасы"
-        ],
-        "anime_studios": [
-          "production doA"
-        ],
-        "kinopoisk_rating": 6.2,
-        "kinopoisk_votes": 1279,
-        "imdb_rating": 5.4,
-        "imdb_votes": 227,
-        "shikimori_rating": 6.48,
-        "shikimori_votes": 10297,
-        "premiere_world": "2018-04-06",
-        "aired_at": "2018-04-07",
-        "released_at": "2018-06-23",
-        "rating_mpaa": "R",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Химика Аканэя",
-          "Юя Асато",
-          "Юми Хара",
-          "Каэдэ Хондо",
-          "Мао Итимити",
-          "Ринн",
-          "Эрико Мацуи",
-          "Рюсэй Накао",
-          "Нобухико Окамото",
-          "Юко Оно"
-        ],
-        "directors": [
-          "Тадахито Мацубаяси"
-        ],
-        "producers": [
-          "Гота Аидзима",
-          "Хироси Камэи",
-          "Кэндзиро Кавахито",
-          "Асами Комацу",
-          "Сатоси Кубота",
-          "Кадзуё Мацумура",
-          "Сори Накадзава",
-          "Кадзуаки Такахаси",
-          "Ёсинори Такээда"
-        ],
-        "writers": [
-          "Такаё Иками",
-          "Кэнтаро Сато"
-        ],
-        "composers": [
-          "Кэидзи Инаи"
-        ],
-        "editors": [
-          "Юудзи Ока"
-        ],
-        "designers": [
-          "Минору Акиба"
-        ],
-        "operators": [
-          "Юудзиро Яманэ"
-        ]
-      }
-    },
-    {
-      "id": "serial-10186",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Линия Дьявола",
-      "title_orig": "Devil's Line",
-      "other_title": "Черта дьявола / Devils Line",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1112170",
-      "imdb_id": "tt8314920",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9475",
-      "shikimori_id": "35928",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-04-19T15:20:17Z",
-      "updated_at": "2018-11-18T15:58:04Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/271164/43deb9a8384f2a628978e1eaf1cd66df/720p",
-            "2": "//aniqit.com/seria/271165/7cbddfaec88b5a1d83ca036c31b270ac/720p",
-            "3": "//aniqit.com/seria/273380/db94fc2179c1af4e77da1eed60cb53c8/720p",
-            "4": "//aniqit.com/seria/278585/c96ea541b7e7bb6b60d2d8c3a6dd8a4c/720p",
-            "5": "//aniqit.com/seria/278586/9b93c862f289ab0731912ecb8f28946c/720p",
-            "6": "//aniqit.com/seria/280273/d69def9b3a418d0ca0bef486a7543dde/720p",
-            "7": "//aniqit.com/seria/283883/5ded64cb98266a36a1205cf2a9895ba0/720p",
-            "8": "//aniqit.com/seria/283884/83e3332e25aaf66588a9496509309f21/720p",
-            "9": "//aniqit.com/seria/300466/5e78568e50885b5933c5e303bb9d724e/720p",
-            "10": "//aniqit.com/seria/300467/68552ab0da726e44d271860fffb3f8d4/720p",
-            "11": "//aniqit.com/seria/300513/29514797ca59e4c34adeed1eadbc3709/720p",
-            "12": "//aniqit.com/seria/300514/d708f7e8cea3b3ab1cdfefc2e0bc1cad/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Линия Дьявола",
-        "title_en": "Debiruzu rain",
-        "other_titles": [
-          "Черта Дьявола"
-        ],
-        "other_titles_en": [
-          "Devils' Line"
-        ],
-        "other_titles_jp": [
-          "デビルズライン"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2018,
-        "description": "На девушку нападает вампир, но ей на помощь приходит хороший вампир, который служит в тайной полиции и у которого есть железное правило — никогда не пробовать человеческую кровь.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1112170.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/b03e373498f75951c5745d6c5faea8e6033749a0.jpg",
-          "https://shikimori.one/system/screenshots/original/2b9484161921d1f250dc2d504947661e14ad24cf.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Вампиры",
-          "Драма",
-          "Романтика",
-          "Сверхъестественное",
-          "Сейнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Platinum Vision"
-        ],
-        "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 3004,
-        "imdb_rating": 6.9,
-        "imdb_votes": 650,
-        "shikimori_rating": 6.79,
-        "shikimori_votes": 7635,
-        "premiere_world": "2018-04-07",
-        "aired_at": "2018-04-07",
-        "released_at": "2018-06-23",
-        "rating_mpaa": "R",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Ёсицугу Мацуока",
-          "Юи Исикава"
-        ],
-        "writers": [
-          "Кэндзи Конута"
-        ]
-      }
-    },
-    {
-      "id": "serial-10176",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Хисонэ и Масо",
-      "title_orig": "Hisone to Masotan",
-      "other_title": "Dragon Pilot: Hisone and Masotan",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1164083",
-      "imdb_id": "tt8528256",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9491",
-      "shikimori_id": "36884",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-04-18T11:03:24Z",
-      "updated_at": "2018-11-18T15:53:21Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/270969/e8f0880c541075976c8bb42005e78b4b/720p",
-            "2": "//aniqit.com/seria/273374/5cc734ea27a3df268421afd93dd0064d/720p",
-            "3": "//aniqit.com/seria/276856/ca5d7351d920c44b40ebee0e8e204604/720p",
-            "4": "//aniqit.com/seria/277776/8cf8f712e4a667244a525027e8b44837/720p",
-            "5": "//aniqit.com/seria/282747/9493dff86a95c658e9038a541c12e81e/720p",
-            "6": "//aniqit.com/seria/282748/d057b5d28a7520572fbe955a285a669d/720p",
-            "7": "//aniqit.com/seria/289373/236d613c86f29dc122b57422b15395e2/720p",
-            "8": "//aniqit.com/seria/289374/4c2c2ce9ca7e3f8e871f5d7513bff3d5/720p",
-            "9": "//aniqit.com/seria/294466/db691dbbd4f68a7226c020ba78ea8b5d/720p",
-            "10": "//aniqit.com/seria/311763/d001bd090e603be852be1715f31b0371/720p",
-            "11": "//aniqit.com/seria/311764/59ef96aea79cbec3266eac19cbe086d1/720p",
-            "12": "//aniqit.com/seria/311765/4bffa5957490e09ee1c9fcf577efbe55/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Хисонэ и Масо",
-        "title_en": "Hisone to Maso-tan",
-        "other_titles": [
-          "Хисонэ и Масо",
-          "Hisone & Masotan",
-          "Hisone and Maso-tan",
-          "HisoMaso"
-        ],
-        "other_titles_en": [
-          "Dragon Pilot: Hisone and Masotan"
-        ],
-        "other_titles_jp": [
-          "ひそねとまそたん"
-        ],
-        "anime_license_name": "Драго-пилот",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2018,
-        "description": "Новобранец Хисонэ Амакасу прибывает на базу ВВС Самообороны Японии. Девушка вступила в ряды ВВС, чтобы держаться на расстоянии от окружающих - у неё расстройство личности, при котором она непреднамеренно обижает и причиняет боль близким ей людям. Это решение Хисонэ стало судьбоносным и привело к встрече с драконом, который может превращаться в боевой истребитель. Дракон, сокрытый на базе, выбрал Амакасу своим пилотом, кардинально изменив её судьбу.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1164083.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/df02cdd62d67bdb8ce89784c0e001e1e063ec7ed.png",
-          "https://shikimori.one/system/screenshots/original/72c333fdf8bbf27d7b9a0809012de95f8e5f38b1.png"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Военное",
-          "Драма",
-          "Комедия",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Bones"
-        ],
-        "imdb_rating": 6.9,
-        "imdb_votes": 410,
-        "shikimori_rating": 7.37,
-        "shikimori_votes": 776,
-        "premiere_world": "2018-04-13",
-        "aired_at": "2018-04-13",
-        "released_at": "2018-06-29",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Мисаки Куно",
-          "Томоё Куросава",
-          "Мацунодзё Канда",
-          "Юки Кадзи",
-          "Риэ Кугимия",
-          "Дзёдзи Накада",
-          "Маки Кавасэ",
-          "Сатоми Араи",
-          "Каори Надзука",
-          "Роми Пак"
-        ],
-        "directors": [
-          "Синдзи Хигути",
-          "Хироси Кобаяси",
-          "Такахиро Хасуи",
-          "Хироки Хирано",
-          "Сохэй Миякэ",
-          "Хидэюки Сатакэ",
-          "Гэйсэй Морита",
-          "Нориюки Номата"
-        ],
-        "writers": [
-          "Синдзи Хигути",
-          "Мари Окада",
-          "Кэйго Коянаги",
-          "Акико Ваба"
-        ],
-        "composers": [
-          "Таисэй Ивасаки"
-        ],
-        "designers": [
-          "Юдзи Канэко"
-        ],
-        "operators": [
-          "Кота Сасаки"
-        ]
-      }
-    },
-    {
-      "id": "serial-13310",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Волны жизни",
-      "title_orig": "Kleun Cheewit",
-      "other_title": "Life Waves / Waves of Life",
-      "translation": {
-        "id": 864,
-        "title": "Julia Prosenuk",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 15,
-      "episodes_count": 15,
-      "kinopoisk_id": "1199917",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-11-17T22:15:17Z",
-      "updated_at": "2018-11-17T22:15:17Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/353990/eab6a4e69ddcc4c619b9ec48a87d8e9e/720p",
-            "2": "//kodik.cc/seria/353991/d388873d40e0fe2bbe63b8be0279fbf0/720p",
-            "3": "//kodik.cc/seria/353992/7ca34749af351e947b6dfe302763b901/720p",
-            "4": "//kodik.cc/seria/353993/ca650b810d1fc5e446eca836581147a1/720p",
-            "5": "//kodik.cc/seria/353994/9416a3c9dfd57f2b8a45e1cfe283f5e8/720p",
-            "6": "//kodik.cc/seria/353995/d8dcae209629139ac344480c3c72199c/720p",
-            "7": "//kodik.cc/seria/353996/efdc1f4a12c419aa28d49d994b4a9602/720p",
-            "8": "//kodik.cc/seria/353997/6d249b3e3a65ddbf9cafbccee219222c/720p",
-            "9": "//kodik.cc/seria/353998/c763099bea6dd26b32ae578d0539b9bf/720p",
-            "10": "//kodik.cc/seria/353999/e71cc7c6b434410b9bfb326a6157d756/720p",
-            "11": "//kodik.cc/seria/354000/22783c5bd63273f7427ea861fa8c0928/720p",
-            "12": "//kodik.cc/seria/354001/6bf7cadaa8893197919a23e16d72ff54/720p",
-            "13": "//kodik.cc/seria/354002/0e5b95e46944fc106cd7582304aaaf0d/720p",
-            "14": "//kodik.cc/seria/354003/2ae26903b337e780e16168a2a8f2eed8/720p",
-            "15": "//kodik.cc/seria/354004/9a5c26d60a6e96f41fd435ce86be1bf1/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Волны жизни",
-        "title_en": "Kleun Cheewit",
-        "year": 2017,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1199917.jpg",
-        "duration": 110,
-        "countries": [
-          "Таиланд"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "premiere_world": "2017-01-23",
-        "actors": [
-          "Прин Супарат",
-          "Урассая Спербунд",
-          "Налинтип Сакулонгумпай",
-          "Наттанича Дангваттанаванич"
-        ]
-      }
-    },
-    {
-      "id": "movie-28352",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Прятки",
-      "title_orig": "Soombakkokjil",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "779208",
-      "imdb_id": "tt2805830",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-11-17T11:26:35Z",
-      "updated_at": "2018-11-17T11:26:35Z",
-      "material_data": {
-        "title": "Прятки",
-        "title_en": "Sumbakkokjil",
-        "year": 2013,
-        "description": "Хозяин кафе Сон-су страдает от боязни микробов. Вместе с красавицей-женой и примерными детьми он живет в благоустроенном жилом комплексе. Однажды Сон-су узнает, что его старший брат, который несколько лет назад вышел из тюрьмы и потерял контакт с семьёй, пропал. Отправившись на поиски родственника, мужчина попадает в мир трущоб и их неприятных обитателей.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/779208.jpg",
-        "duration": 108,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "детектив",
-          "криминал",
-          "триллер"
-        ],
-        "kinopoisk_rating": 6.4,
-        "kinopoisk_votes": 517,
-        "imdb_rating": 6.4,
-        "imdb_votes": 1623,
-        "premiere_world": "2013-08-14",
-        "actors": [
-          "Сон Хён-джу",
-          "Мун Джон-хи",
-          "Чон Ми-сон",
-          "Ким Вон-хэ",
-          "Чон Джун-вон",
-          "Ким Су-ан",
-          "Ким Джи-ён",
-          "Ли Джун-хёк",
-          "Но Сусанна",
-          "Ли Ён-сок"
-        ],
-        "directors": [
-          "Хо Джон"
-        ],
-        "producers": [
-          "Ким Ми-хи",
-          "Ким У-тхэк",
-          "Ким Даль-джун",
-          "Ким И-сон"
-        ],
-        "writers": [
-          "Хо Джон"
-        ],
-        "composers": [
-          "Чо Ён-ук"
-        ],
-        "editors": [
-          "Ким Джэ-бом",
-          "Ким Сан-бом"
-        ],
-        "designers": [
-          "Чон Су-а",
-          "Юн Ми-ра"
-        ],
-        "operators": [
-          "Ким Иль-ён"
-        ]
       }
     }
   ]

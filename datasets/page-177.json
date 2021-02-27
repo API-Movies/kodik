@@ -1,6 +1,947 @@
 {
   "results": [
     {
+      "id": "serial-20966",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Мастер крутящего момента",
+      "title_orig": "Master of Torque",
+      "other_title": "マスター・オブ・トルク",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 4,
+      "episodes_count": 4,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2238",
+      "shikimori_id": "23387",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-10T16:43:57Z",
+      "updated_at": "2020-01-10T16:51:16Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/555369/9dd8bf6a12ae2a278110e4913685c451/720p",
+            "2": "//aniqit.com/seria/555372/b39e0f2afc3c15b283d1981f9d28afb9/720p",
+            "3": "//aniqit.com/seria/555373/85e4fc307643be74141507085056f18c/720p",
+            "4": "//aniqit.com/seria/555374/12f06e46dfd53061afc55ddf3a47ed10/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Мастер вращения",
+        "title_en": "Master of Torque",
+        "other_titles_jp": [
+          "マスター・オブ・トルク"
+        ],
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "poster_url": "https://shikimori.one/system/animes/original/23387.jpg",
+        "anime_genres": [
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Shimogumi"
+        ],
+        "shikimori_rating": 5.13,
+        "shikimori_votes": 74,
+        "aired_at": "2014-03-20",
+        "released_at": "2014-07-18",
+        "rating_mpaa": "G",
+        "episodes_total": 4,
+        "episodes_aired": 0
+      }
+    },
+    {
+      "id": "movie-47466",
+      "type": "anime",
+      "link": "",
+      "title": "Гармония",
+      "title_orig": "Harmonie",
+      "other_title": "Гармония ОВА",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "840320",
+      "imdb_id": "tt3665930",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2099",
+      "shikimori_id": "20903",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-10T16:45:48Z",
+      "updated_at": "2020-01-10T16:45:48Z",
+      "material_data": {
+        "title": "Гармония",
+        "title_en": "Harmonie",
+        "other_titles": [
+          "Wakate Animator Ikusei Project",
+          "2014 Young Animator Training Project",
+          "Anime Mirai 2014"
+        ],
+        "other_titles_jp": [
+          "アルモニ"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2014,
+        "description": "Каждый человек имеет свой маленький мир. Среди 34 учеников класса 2-1 столько разных миров. Мир Ханжоу Акио - мой мир - заполнен горячими обсуждениями вчерашнего аниме с Йошидой, Ватанабе и другими друзьями. Это веселое и комфортное место... Но я всегда удивляюсь. Удивляюсь миру Макины Джури, улыбающейся и окруженной прекрасными людьми, там, на другой стороне класса. Однажды, я войду в ее мир. Но это не так просто, как кажется.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/840320.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/1ffb38beb32159a1d4e20f3dc639d7c0571e647a.jpg",
+          "https://shikimori.one/system/screenshots/original/60fd9bae2782a99818222cbc7b2cb1fe7f72f8b6.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "короткометражка",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Повседневность",
+          "Психологическое",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Studio Rikka"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 408,
+        "imdb_rating": 6.6,
+        "imdb_votes": 308,
+        "shikimori_rating": 7.31,
+        "shikimori_votes": 4600,
+        "premiere_world": "2014-03-01",
+        "aired_at": "2014-03-01",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Макото Фурукава",
+          "Рё Ивасаки",
+          "Кэнта Мацумото",
+          "Ёсицугу Мацуока",
+          "Манами Нумакура",
+          "Реина Уэда"
+        ],
+        "directors": [
+          "Ясухиро Ёсиура"
+        ],
+        "composers": [
+          "Томохиса Исикава"
+        ]
+      }
+    },
+    {
+      "id": "serial-20967",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Терраформеры OVA-1",
+      "title_orig": "Terra Formars OVA",
+      "other_title": "Терраформирование OVA / Терра Формарс",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 2,
+      "episodes_count": 2,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2251",
+      "shikimori_id": "22689",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-10T16:44:11Z",
+      "updated_at": "2020-01-10T16:44:11Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/555370/d510e4ee0a30cf0e5f930fa023c10603/720p",
+            "2": "//aniqit.com/seria/555371/e0fcd288351613aa4d29f8ebf9eaf715/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Терраформирование OVA",
+        "title_en": "Terra Formars: Bugs 2-hen",
+        "other_titles": [
+          "Terra Formars: Bugs2 2599",
+          "TERRAFORMARS OVA"
+        ],
+        "other_titles_jp": [
+          "テラフォーマーズ　バグズ２号編"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "description": "Адаптация второй арки манги.",
+        "poster_url": "https://shikimori.one/system/animes/original/22689.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/affa4f692d210019cd3be05fb282e56593e266b9.jpg",
+          "https://shikimori.one/system/screenshots/original/c2f7336c65ac583ea9078602a87dce227ce970dd.jpg"
+        ],
+        "anime_genres": [
+          "Космос",
+          "Ужасы",
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "LIDENFILMS"
+        ],
+        "shikimori_rating": 7.2,
+        "shikimori_votes": 1668,
+        "aired_at": "2014-08-19",
+        "released_at": "2014-11-19",
+        "rating_mpaa": "R",
+        "episodes_total": 2,
+        "episodes_aired": 1
+      }
+    },
+    {
+      "id": "movie-47465",
+      "type": "anime",
+      "link": "",
+      "title": "Быть в нужном месте",
+      "title_orig": "Right Places",
+      "other_title": "Right Places: Sono Toki, Boku no Irubeki Basho",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2013,
+      "imdb_id": "tt7130000",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8649",
+      "shikimori_id": "39018",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-10T16:41:50Z",
+      "updated_at": "2020-01-10T16:41:50Z",
+      "material_data": {
+        "title": "Нужное место: Вот, где я должен быть",
+        "title_en": "Right Places: Sono Toki, Boku no Irubeki Basho",
+        "other_titles_en": [
+          "Right Places"
+        ],
+        "other_titles_jp": [
+          "Right Places その時, ぼくの居るべき場所"
+        ],
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "poster_url": "https://shikimori.one/system/animes/original/39018.jpg",
+        "anime_genres": [
+          "Сверхъестественное",
+          "Фэнтези"
+        ],
+        "shikimori_rating": 5.83,
+        "shikimori_votes": 72,
+        "aired_at": "2013-10-25",
+        "rating_mpaa": "G",
+        "episodes_total": 1,
+        "episodes_aired": 1
+      }
+    },
+    {
+      "id": "serial-19830",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Дневник психопата",
+      "title_orig": "Ssaikopaeseu daieori",
+      "other_title": "Psychopath Diary",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "1272433",
+      "imdb_id": "tt11133466",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-11-21T14:22:34Z",
+      "updated_at": "2020-01-10T16:40:42Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/527942/4a9ea95c35d6e9e52b84c96ba5ba5762/720p",
+            "2": "//kodik.cc/seria/528300/94a3b1f96626b18dc8d247bb2692a792/720p",
+            "3": "//kodik.cc/seria/532329/34b5d51eb0c4695f299fb074cc811e3b/720p",
+            "4": "//kodik.cc/seria/532589/6b30d705a22f63756dc7b2c1fcba836e/720p",
+            "5": "//kodik.cc/seria/536460/0137e2e85e2763b928880fb63b718e2e/720p",
+            "6": "//kodik.cc/seria/536949/6c36cf846a78564d17b392f9200b3ff9/720p",
+            "7": "//kodik.cc/seria/539536/5f952a4911774009c2eac00671d3f433/720p",
+            "8": "//kodik.cc/seria/539863/13633f5c7ba8a52f24b73fb539d6c614/720p",
+            "9": "//kodik.cc/seria/543074/eb979a44ff68b0a9cd05038bf52a3cd3/720p",
+            "10": "//kodik.cc/seria/543298/ce3237fd934dc43d49e92b389eb09f25/720p",
+            "11": "//kodik.cc/seria/545713/b40c5673f38f8056fc4ce9e15479abd2/720p",
+            "12": "//kodik.cc/seria/546401/f13a6b420157cdd297baf06c63f1e404/720p",
+            "13": "//kodik.cc/seria/549495/9c0e8d731323477d2cc81b7d2505b629/720p",
+            "14": "//kodik.cc/seria/549938/19487d295deb1dfd2c2ad44c03ca9e1f/720p",
+            "15": "//kodik.cc/seria/554192/065a3e5296023b49780964a32a7df4f7/720p",
+            "16": "//kodik.cc/seria/555367/18bcbbdcd7459f6e6cfd82857bad2bd3/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Дневник психопата",
+        "title_en": "Ssaikopaeseu daieori",
+        "year": 2019,
+        "description": "К скромному служащему брокерской конторы Юк Тон-щику в руки случайно попадает дневник серийного убийцы, где подробно описаны его преступления. После этого парень из-за несчастного случая теряет память и решает, что он сам и есть маньяк. С этого момента Тон-щик начинает меняться.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1272433.jpg",
+        "duration": 80,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "криминал",
+          "триллер"
+        ],
+        "kinopoisk_rating": 7.8,
+        "kinopoisk_votes": 641,
+        "imdb_rating": 7.8,
+        "imdb_votes": 280,
+        "premiere_world": "2019-11-20",
+        "actors": [
+          "Юн Щи-юн",
+          "Чон Ин-сон",
+          "Пак Сон-хун",
+          "Ким Ги-ду",
+          "Ли Хан-ви",
+          "Хо Сон-тхэ",
+          "Чхве Дэ-чхоль",
+          "Ли Мин-джи",
+          "Ким Мён-су",
+          "Чхве Сон-вон"
+        ],
+        "directors": [
+          "Ли Джон-джэ"
+        ],
+        "writers": [
+          "Рю Ён-джэ",
+          "Чхве Сон-джун"
+        ]
+      }
+    },
+    {
+      "id": "serial-13895",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Узелок любви: Первая любовь Его Превосходительства",
+      "title_orig": "Jie ai: qian sui da ren de chu lian",
+      "other_title": "Символ любви: Первая любовь его Превосходительства / Лунный свет и Валентин / The Love Knot: His Excellency's First Love / Moonshine and Valentine",
+      "translation": {
+        "id": 640,
+        "title": "Sound-Group",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 9,
+      "episodes_count": 9,
+      "kinopoisk_id": "1134823",
+      "imdb_id": "tt7872144",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-01-04T10:36:27Z",
+      "updated_at": "2020-01-10T16:40:25Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/368437/465aefefb7f83e0d7c54e76abadef5c5/720p",
+            "2": "//kodik.cc/seria/368438/88b1c51844a334be6bf094941f90b884/720p",
+            "3": "//kodik.cc/seria/368439/96865bab136b3a716adb201754fc43f8/720p",
+            "4": "//kodik.cc/seria/368440/893921b738105957ecb675099bf747e2/720p",
+            "5": "//kodik.cc/seria/395770/bc777d1f59b8e98b0bc391f4e35c8cd1/720p",
+            "6": "//kodik.cc/seria/422085/f464324ef81b22b91a27c17f1be76683/720p",
+            "7": "//kodik.cc/seria/540319/6e185d419b7ad589ea278b0137902c45/720p",
+            "8": "//kodik.cc/seria/554986/4605abc0c4ba5711c2c1fc3f4da91a0e/720p",
+            "9": "//kodik.cc/seria/555291/380786e95000917c528d788d8ef96b8c/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Узелок любви: Первая любовь Его Превосходительства",
+        "title_en": "Jie ai: qian sui da ren de chu lian",
+        "year": 2018,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1134823.jpg",
+        "duration": 45,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "мелодрама",
+          "фэнтези"
+        ],
+        "imdb_rating": 7.6,
+        "imdb_votes": 152,
+        "premiere_world": "2018-05-09",
+        "actors": [
+          "Виктория Сун",
+          "Джонни Хуан",
+          "Сюй Кайчэн",
+          "Сюй Фанъи"
+        ],
+        "directors": [
+          "Лэсте Чэнь",
+          "Сюй Чжаожэнь"
+        ],
+        "composers": [
+          "Tina C. Wang"
+        ],
+        "operators": [
+          "Чарли Лам"
+        ]
+      }
+    },
+    {
+      "id": "serial-20965",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Чудесная Момо",
+      "title_orig": "Wonder Momo",
+      "other_title": "ワンダーモモ",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 5,
+      "episodes_count": 5,
+      "kinopoisk_id": "842739",
+      "imdb_id": "tt3804720",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2197",
+      "shikimori_id": "22377",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-10T16:39:19Z",
+      "updated_at": "2020-01-10T16:39:19Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/555362/b2f2b82e364264515145cb21ed879a05/720p",
+            "2": "//aniqit.com/seria/555363/b25c07721210ffe40e093698364f36fa/720p",
+            "3": "//aniqit.com/seria/555364/89f1055e0c42a46242429d5d73375204/720p",
+            "4": "//aniqit.com/seria/555365/eccd10326195d4157599fdd9967b2243/720p",
+            "5": "//aniqit.com/seria/555366/33737edf314404f899fd6b12cff6a4c9/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Чудесная Момо",
+        "title_en": "Wonder Momo",
+        "other_titles_jp": [
+          "ワンダーモモ"
+        ],
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "year": 2014,
+        "description": "Слегка неуклюжая и не всегда смекалистая старшеклассница Момоко стремится стать идолом. После столкновения со странного вида фанатом на школу Момоко нападают разного рода существа, а сама она внезапно начинает превращаться в «Чудесную Момо». А все потому, что однажды группа пришельцев вторглась в Токио, планируя захватить Землю! ",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/842739.jpg",
+        "duration": 7,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "приключения"
+        ],
+        "anime_genres": [
+          "Боевые искусства",
+          "Игры",
+          "Школа",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Graphinica"
+        ],
+        "imdb_rating": 4,
+        "imdb_votes": 30,
+        "shikimori_rating": 3.62,
+        "shikimori_votes": 83,
+        "premiere_world": "2014-02-06",
+        "aired_at": "2014-02-06",
+        "released_at": "2014-03-06",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 5,
+        "episodes_aired": 5,
+        "actors": [
+          "Yuka Fujiwara",
+          "Ацуси Имаруока",
+          "Андзю Инами",
+          "Мисаки Комацу",
+          "Харуко Момои",
+          "Роб Перейда",
+          "Ацуси Тамару"
+        ],
+        "directors": [
+          "Ютака Кагава"
+        ],
+        "producers": [
+          "Хидэмаса Арай",
+          "Роб Перейда",
+          "Ютаро Икэгая"
+        ],
+        "writers": [
+          "Ayumi Inabe",
+          "Эрик Ко",
+          "Jim Zubkavich"
+        ],
+        "composers": [
+          "Alex Culang"
+        ]
+      }
+    },
+    {
+      "id": "serial-20964",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Мангака и все-все-все",
+      "title_orig": "Mangaka-san to Assistant-san to The Animation",
+      "other_title": "Мангака и его ассистентка",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "838844",
+      "imdb_id": "tt3588312",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2065",
+      "shikimori_id": "21863",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-10T16:37:15Z",
+      "updated_at": "2020-01-10T16:37:15Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/555350/1db093766d42999e40c68805b6fbfc7b/720p",
+            "2": "//aniqit.com/seria/555351/abe7c69581c45f075cddf594e65be806/720p",
+            "3": "//aniqit.com/seria/555352/3ae5fa3cc8b2505f218614a39775775b/720p",
+            "4": "//aniqit.com/seria/555353/b78f1082fd813d8c72d6c6d7ef133bfe/720p",
+            "5": "//aniqit.com/seria/555354/4921198569f6c9c93c7bd486a63b3598/720p",
+            "6": "//aniqit.com/seria/555355/aa4edbac30136f8e5edaef00bd74a0d6/720p",
+            "7": "//aniqit.com/seria/555356/98e268bae1895fe14c9d47257bcbf3f3/720p",
+            "8": "//aniqit.com/seria/555357/d2088cf5a0512953a4363caa588fd0f3/720p",
+            "9": "//aniqit.com/seria/555358/677724108c91768454e3e8d7596fffab/720p",
+            "10": "//aniqit.com/seria/555359/3df3c30024d978ea7ea1b2c7e90b0dc7/720p",
+            "11": "//aniqit.com/seria/555360/fb140e53f4806bbde33e5f5fea68e230/720p",
+            "12": "//aniqit.com/seria/555361/a2bed06835155adb3df23acab87e032e/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Мангака и его ассистентка",
+        "title_en": "Mangaka-san to Assistant-san to",
+        "other_titles": [
+          "Мангака и все-все-все",
+          "Mangaka-san to Assistant-san to",
+          "ManAshi"
+        ],
+        "other_titles_en": [
+          "The Comic Artist and His Assistants"
+        ],
+        "other_titles_jp": [
+          "マンガ家さんとアシスタントさんと THE ANIMATION"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2014,
+        "description": "22-летний Юки Айто – талантливый художник, умеренный извращенец и закоренелый фетишист, душой навеки оставшийся в золотом детстве. Именно поэтому его манга «Кафе «Смущение» нашла свою аудиторию и завоевала популярность, а автору выделили персонального редактора, симпатичную и волевую Михари Отосуну. Конечно же, творческой личности чужды понятия о сроках и графиках, но Михари знает Юки со школы и в курсе, как стимулировать его личную работоспособность.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/838844.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/4b566ab8d94ab3e4e5441c8fdf12300bb93fa29a.jpg",
+          "https://shikimori.one/system/screenshots/original/a952ad2ea83ab530bcee541d6c49642e0db69b91.jpg"
+        ],
+        "duration": 13,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Гарем",
+          "Комедия",
+          "Повседневность",
+          "Сейнен",
+          "Этти"
+        ],
+        "anime_studios": [
+          "Zexcs"
+        ],
+        "kinopoisk_rating": 6.4,
+        "kinopoisk_votes": 483,
+        "imdb_rating": 6.4,
+        "imdb_votes": 255,
+        "shikimori_rating": 7.19,
+        "shikimori_votes": 8905,
+        "premiere_world": "2014-04-07",
+        "aired_at": "2014-04-08",
+        "released_at": "2014-06-24",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Саори Хаями",
+          "Ёсицугу Мацуока",
+          "Ариса Ното",
+          "Юка Игути",
+          "Риэ Кугимия",
+          "Мику Ито",
+          "Манами Танака"
+        ]
+      }
+    },
+    {
+      "id": "serial-20963",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Войны девочек-волшебниц",
+      "title_orig": "Mahou Shoujo Taisen",
+      "other_title": "Войны девочек волшебниц",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 26,
+      "episodes_count": 26,
+      "kinopoisk_id": "838852",
+      "imdb_id": "tt3448296",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2033",
+      "shikimori_id": "21421",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-10T16:34:59Z",
+      "updated_at": "2020-01-10T16:34:59Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/555324/20db3882822db2b23d8cd353df0100fc/720p",
+            "2": "//aniqit.com/seria/555325/62cacf7b62d59b147cc5f210fd52b461/720p",
+            "3": "//aniqit.com/seria/555326/5527fc527ad7d95fe259cff4ee0227f2/720p",
+            "4": "//aniqit.com/seria/555327/9767a769172aa472293b068f74d3a956/720p",
+            "5": "//aniqit.com/seria/555328/1858f416484f2bca12b402bc5b81d09c/720p",
+            "6": "//aniqit.com/seria/555329/2c273c0f169e005066bc251b719d4de4/720p",
+            "7": "//aniqit.com/seria/555330/3fa736b1eb44694fd3996993ae84e91b/720p",
+            "8": "//aniqit.com/seria/555331/be2b54b18fcfd4f9dcfcc9ec9a958c74/720p",
+            "9": "//aniqit.com/seria/555332/13c0f08386b235f046300a89ebd63f2d/720p",
+            "10": "//aniqit.com/seria/555333/e9e5ec680aa939c9bd4bf18f37310b40/720p",
+            "11": "//aniqit.com/seria/555334/6ac96480239d1a18762c06152e9b20fc/720p",
+            "12": "//aniqit.com/seria/555335/2c21996c13d0c912d8f3b0698999d07a/720p",
+            "13": "//aniqit.com/seria/555336/7e853a270a619f4e506524eb382fb663/720p",
+            "14": "//aniqit.com/seria/555337/f15f030dae20bac07dd45d33fda434d6/720p",
+            "15": "//aniqit.com/seria/555338/f7b6113d7735a0da4b06d8b34d1ef6ab/720p",
+            "16": "//aniqit.com/seria/555339/8f6c0755f7cda7336f8c757708996f59/720p",
+            "17": "//aniqit.com/seria/555340/e143e8131a641330e35d480f872794ee/720p",
+            "18": "//aniqit.com/seria/555341/b76294685a7be7ee91870c8e19504e50/720p",
+            "19": "//aniqit.com/seria/555342/20ea22b56b97d4bfaac74a94f82b5761/720p",
+            "20": "//aniqit.com/seria/555343/b34d803bf42ebe3af5ea3e515df55327/720p",
+            "21": "//aniqit.com/seria/555344/cc452bdba5887e8766e66fca8f5c9ce0/720p",
+            "22": "//aniqit.com/seria/555345/ec78ce8b5cecb81bb975f445e3ea6fd8/720p",
+            "23": "//aniqit.com/seria/555346/684523d392283ca031eec35eac12aac9/720p",
+            "24": "//aniqit.com/seria/555347/a17bd719f8ea60d5d3856a97c7f038df/720p",
+            "25": "//aniqit.com/seria/555348/526d968de52e0674a79b5af181036713/720p",
+            "26": "//aniqit.com/seria/555349/d3135c07c18601763946d94f6bc305ba/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Войны девочек волшебниц",
+        "title_en": "Mahou shoujo taisen",
+        "other_titles_en": [
+          "Magica Wars"
+        ],
+        "other_titles_jp": [
+          "魔法少女大戦"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2014,
+        "description": "47 очаровательных девушек-волшебниц — представительницы различных японских городов. Они соревнуются друг с другом, но у них одна цель — победить злых (вид у которых, безусловно, милый) магацухи и спасти Японию.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/838852.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/b345c9636eac3432ec83b2d177e6b59fd0792159.jpg",
+          "https://shikimori.one/system/screenshots/original/a946a664ec4efa596ac00de6cb7214b2e869835c.jpg"
+        ],
+        "duration": 4,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Магия"
+        ],
+        "anime_studios": [
+          "Gainax"
+        ],
+        "imdb_rating": 5.3,
+        "imdb_votes": 16,
+        "shikimori_rating": 5.77,
+        "shikimori_votes": 201,
+        "premiere_world": "2014-04-08",
+        "aired_at": "2014-04-08",
+        "released_at": "2014-09-30",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 26,
+        "episodes_aired": 26,
+        "actors": [
+          "Сатоми Араи",
+          "Михо Аракава",
+          "Сигэру Тиба",
+          "Мицуо Ивата",
+          "Котори Коиваи",
+          "Микако Комацу",
+          "Риэ Муракава",
+          "Ёсино Нандзё",
+          "Ариса Нисигути",
+          "Рёко Синтани"
+        ]
+      }
+    },
+    {
+      "id": "serial-20961",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Помолвлена с незнакомцем OVA",
+      "title_orig": "Mikakunin de Shinkoukei: Kamo Nikutte Midorippoi Aji ga Suru no ne.",
+      "other_title": "未確認で進行形 鴨肉って緑っぽい味がするのね.",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 2,
+      "episodes_count": 2,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2252",
+      "shikimori_id": "23227",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-10T16:33:29Z",
+      "updated_at": "2020-01-10T16:33:29Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/555313/d733ca35dc77e0a47bb93f52f8f95a45/720p",
+            "2": "//aniqit.com/seria/555314/ec3d85e7edde56ed94091744a05325ae/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Помолвлена с незнакомцем OVA",
+        "title_en": "Mikakunin de Shinkoukei: Kamoniku tte Midori-ppoi Aji ga Suru no ne.",
+        "other_titles": [
+          "Mikakunin de Shinkoukei OVA",
+          "Engaged to the Unidentified OVA"
+        ],
+        "other_titles_jp": [
+          "未確認で進行形 「鴨肉って緑っぽい味がするのね。」"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "description": "Дополнительный эпизод, выпущенный вместе со специальным изданием пятого тома оригинальной манги «Помолвлена с незнакомцем».\r\n Маширо и Кобэни делятся друг с другом историями из своего прошлого. Кобэни рассказывает о том, как она играла в детстве вместе с Бэнио и Надэшико , а Маширо описывает один из дней, проведенных у себя дома в горах.",
+        "poster_url": "https://shikimori.one/system/animes/original/23227.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/374e2f0fe2a38f361e69db76f6abe1018ec6b724.jpg",
+          "https://shikimori.one/system/screenshots/original/6610f99b26f7de5ee5b72bf979035797f7f420c9.jpg"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Повседневность",
+          "Романтика",
+          "Сейнен"
+        ],
+        "anime_studios": [
+          "Doga Kobo"
+        ],
+        "shikimori_rating": 7.15,
+        "shikimori_votes": 2474,
+        "aired_at": "2014-03-28",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": 0
+      }
+    },
+    {
+      "id": "serial-20960",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Общий сбор! Академия Фалком",
+      "title_orig": "Minna Atsumare! Falcom Gakuen",
+      "other_title": "Полный сбор! Академия Фалком",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "imdb_id": "tt3437760",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2027",
+      "shikimori_id": "21427",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-10T16:31:48Z",
+      "updated_at": "2020-01-10T16:31:48Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/555300/ea584893bbe1f081e4a7eea0179a9c10/720p",
+            "2": "//aniqit.com/seria/555301/7015cbaa9f7193e6b55efa10a518434e/720p",
+            "3": "//aniqit.com/seria/555302/6e82f9ab76431279c47e3861d135bb09/720p",
+            "4": "//aniqit.com/seria/555303/8729f328b567cacf0d8a71a885805093/720p",
+            "5": "//aniqit.com/seria/555304/c03af32564ba59833075d992118c41a0/720p",
+            "6": "//aniqit.com/seria/555305/c8c607037f63346ba13d000fa1e1a320/720p",
+            "7": "//aniqit.com/seria/555306/8296a3120024d493e05ac473a42c7c4e/720p",
+            "8": "//aniqit.com/seria/555307/56c28ea60c6f3c31934d3a722e55479b/720p",
+            "9": "//aniqit.com/seria/555308/517102dd0e982bb619ed39e6189f2a4a/720p",
+            "10": "//aniqit.com/seria/555309/cad1c5894caaffdce65a568adce4f553/720p",
+            "11": "//aniqit.com/seria/555310/0f18bff46551fa93b17286113f5aac70/720p",
+            "12": "//aniqit.com/seria/555311/02c7469ccca0ae964d7cca3db2e48979/720p",
+            "13": "//aniqit.com/seria/555312/6d757f81d6ad1147a3a46f3f7dbc54b4/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Полный сбор! Академия Фальком",
+        "title_en": "Minna Atsumare! Falcom Gakuen",
+        "other_titles": [
+          "Everyone Assemble! Falcom Academy"
+        ],
+        "other_titles_jp": [
+          "みんな集まれ！ファルコム学園"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "description": "Различные персонажи игр, выпущенных компанией «Falcom» (например, Dragon Slayer, The Legend of Heroes и Ys Series), были призваны в Ксанаду неведомыми силами. И теперь им предстоит всем вместе ходить в школу, где их учителем станет Тёмная Сущность, затянутая той же магией в этот странный, но забавный мир.",
+        "poster_url": "https://shikimori.one/system/animes/original/21427.jpg",
+        "anime_genres": [
+          "Комедия",
+          "Пародия",
+          "Сейнен",
+          "Школа"
+        ],
+        "anime_studios": [
+          "DAX Production"
+        ],
+        "shikimori_rating": 5.89,
+        "shikimori_votes": 128,
+        "aired_at": "2014-01-05",
+        "released_at": "2014-03-30",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 13,
+        "episodes_aired": 12
+      }
+    },
+    {
+      "id": "movie-47464",
+      "type": "anime",
+      "link": "",
+      "title": "Побег с того света",
+      "title_orig": "Meisou! Underworld",
+      "other_title": "Meisou! Underworld [CM]",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2014,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2286",
+      "shikimori_id": "23837",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-10T16:31:00Z",
+      "updated_at": "2020-01-10T16:31:00Z",
+      "material_data": {
+        "title": "Побег с того света",
+        "title_en": "Meisou! Underworld",
+        "other_titles_jp": [
+          "迷走！アンダーワールド"
+        ],
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "poster_url": "https://shikimori.one/system/animes/original/23837.jpg",
+        "anime_genres": [
+          "Сверхъестественное",
+          "Триллер",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Studio Pierrot"
+        ],
+        "shikimori_rating": 5.76,
+        "shikimori_votes": 171,
+        "aired_at": "2014-04-15",
+        "rating_mpaa": "R",
+        "episodes_total": 1,
+        "episodes_aired": 0
+      }
+    },
+    {
       "id": "movie-47463",
       "type": "anime",
       "link": "",
@@ -2358,8 +3299,8 @@
         "kinopoisk_votes": 145,
         "imdb_rating": 6.1,
         "imdb_votes": 346,
-        "shikimori_rating": 6.35,
-        "shikimori_votes": 5258,
+        "shikimori_rating": 6.34,
+        "shikimori_votes": 5373,
         "premiere_world": "2019-10-03",
         "aired_at": "2019-10-03",
         "released_at": "2019-12-19",
@@ -2885,7 +3826,7 @@
         "imdb_rating": 4.6,
         "imdb_votes": 83,
         "shikimori_rating": 4.63,
-        "shikimori_votes": 442,
+        "shikimori_votes": 453,
         "premiere_world": "2020-01-10",
         "aired_at": "2020-01-10",
         "rating_mpaa": "R+",
@@ -8603,948 +9544,6 @@
         "rating_mpaa": "PG-13",
         "episodes_total": 1,
         "episodes_aired": 0
-      }
-    },
-    {
-      "id": "movie-47389",
-      "type": "anime",
-      "link": "",
-      "title": "Сейчас моя сестра малость сама не своя OVA",
-      "title_orig": "Saikin, Imouto no Yousu ga Chotto Okashiinda ga. OVA",
-      "other_title": "Моя сестренка последнее время сама не своя",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "1146460",
-      "imdb_id": "tt4296574",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2028",
-      "shikimori_id": "21679",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-09T14:47:03Z",
-      "updated_at": "2020-01-09T14:47:03Z",
-      "material_data": {
-        "title": "Saikin, imouto no yousu ga chotto okashiindaga OVA",
-        "title_en": "",
-        "other_titles": [
-          "Моя сестрёнка последнее время сама не своя OVA",
-          "Кажется, моя сестрёнка немного изменилась OVA",
-          "Recently, My Little Sister is Unusual OVA",
-          "ImoCho",
-          "ImoCyo"
-        ],
-        "other_titles_jp": [
-          "最近、妹のようすがちょっとおかしいんだが。 OVA"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 2014,
-        "description": "Данная OVA разделена на две части. Первая повествует о Сётаро Тории, преследующем свою младшую сестру на свидании. Вторая часть — о рождественском вечере, который Мицуки , Юя и их друзья справляют в доме Кандзаки. Вышла в комплекте с эксклюзивным изданием седьмого тома манги.",
-        "poster_url": "https://shikimori.one/system/animes/original/21679.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/1f0e002fa48b2ccf373e742b125f290e810e31b0.png",
-          "https://shikimori.one/system/screenshots/original/a1d03cbf09664d9a7e1396c7adf18fafe3765975.png"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "короткометражка",
-          "мелодрама",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Романтика",
-          "Сверхъестественное",
-          "Сёнен",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Project No.9"
-        ],
-        "imdb_rating": 5.8,
-        "imdb_votes": 12,
-        "shikimori_rating": 6.44,
-        "shikimori_votes": 1368,
-        "premiere_world": "2014-06-30",
-        "aired_at": "2014-06-30",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "directors": [
-          "Хироюки Хата"
-        ],
-        "writers": [
-          "Хидэюки Курата",
-          "Мари Мацудзава"
-        ],
-        "composers": [
-          "Рёсукэ Наканиси"
-        ]
-      }
-    },
-    {
-      "id": "movie-47388",
-      "type": "anime",
-      "link": "",
-      "title": "Сад чудес",
-      "title_orig": "Wonder Garden",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "1041010",
-      "imdb_id": "tt5068570",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2008",
-      "shikimori_id": "20965",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-09T14:45:47Z",
-      "updated_at": "2020-01-09T14:45:47Z",
-      "material_data": {
-        "title": "Control Bear: Wonder Garden",
-        "title_en": "",
-        "other_titles": [
-          "Control Bear [WONDER GARDEN] Short Animation Film"
-        ],
-        "other_titles_jp": [
-          "WONDER GARDEN"
-        ],
-        "anime_kind": "ona",
-        "anime_status": "released",
-        "year": 2013,
-        "description": "Гуляя по городу, маленькая девочка замечает в одной из витрин магазина большого плюшевого мишку. Она подходит поближе, чтобы рассмотреть игрушку, как вдруг медвежонок приветливо машет ей лапой и приглашает с собой в волшебную страну.",
-        "poster_url": "https://shikimori.one/system/animes/original/20965.jpg",
-        "duration": 4,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Studio Colorido"
-        ],
-        "imdb_rating": 6,
-        "imdb_votes": 49,
-        "shikimori_rating": 6.38,
-        "shikimori_votes": 281,
-        "aired_at": "2013-10-19",
-        "rating_mpaa": "PG",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "directors": [
-          "Ёдзиро Арай"
-        ],
-        "producers": [
-          "Yoichi Kawakami",
-          "Nagatake Uehara"
-        ],
-        "composers": [
-          "Takaaki Nakahashi"
-        ]
-      }
-    },
-    {
-      "id": "movie-47387",
-      "type": "anime",
-      "link": "",
-      "title": "Всё ради науки",
-      "title_orig": "Kagaku na Yatsura",
-      "other_title": "カガクなヤツら",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "1180130",
-      "imdb_id": "tt8819706",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1868",
-      "shikimori_id": "15391",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-09T14:44:37Z",
-      "updated_at": "2020-01-09T14:44:37Z",
-      "material_data": {
-        "title": "Всё ради науки",
-        "title_en": "Kagaku na Yatsura",
-        "other_titles": [
-          "Всё ради науки"
-        ],
-        "other_titles_jp": [
-          "カガクなヤツら"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 2013,
-        "description": "У Харуки есть два необычных друга. Аяна, над которой был проведён эксперимент, и теперь она имеет собачьи уши и хвост. И Айри – девушка киборг, у которой есть множество механических устройств. Харуки должен выбрать к какому клубу присоединится - к химическому клубу Аяны или механическому клубу Айри.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1180130.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/2199f22ed6079c6c3aa12e0969efb62249a8a26d.jpg",
-          "https://shikimori.one/system/screenshots/original/f1641b33a562cc854f4db531e295f9b6eb17532b.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "короткометражка",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Романтика",
-          "Сейнен",
-          "Фантастика",
-          "Школа",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Hoods Entertainment"
-        ],
-        "imdb_rating": 4.8,
-        "imdb_votes": 15,
-        "shikimori_rating": 5.73,
-        "shikimori_votes": 822,
-        "premiere_world": "2013-02-20",
-        "aired_at": "2013-02-20",
-        "rating_mpaa": "R+",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Кана Акуцу",
-          "Ёхэй Адзаками",
-          "Рёсукэ Канэмото",
-          "Кэндзи Китамура",
-          "Дзюндзи Мадзима",
-          "Куми Сакума",
-          "Кадзуёси Сиибаси",
-          "Нацуми Такамори",
-          "Дзюнъити Янагита"
-        ],
-        "directors": [
-          "Хираку Канэко"
-        ],
-        "producers": [
-          "Масару Нагаи",
-          "Ёсихиро Ояма"
-        ],
-        "writers": [
-          "Ёсикава Хидэаки",
-          "Кацухико Такаяма"
-        ],
-        "composers": [
-          "Сигэго Ёсида"
-        ],
-        "editors": [
-          "Минами Утихара"
-        ],
-        "operators": [
-          "Наоки Китамура"
-        ]
-      }
-    },
-    {
-      "id": "movie-47386",
-      "type": "anime",
-      "link": "",
-      "title": "Радужные светлячки: Вечные летние каникулы",
-      "title_orig": "Niji-iro Hotaru: Eien no Natsuyasumi",
-      "other_title": "Rainbow Fireflies",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2012,
-      "kinopoisk_id": "713443",
-      "imdb_id": "tt2450486",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1858",
-      "shikimori_id": "6219",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-09T14:43:33Z",
-      "updated_at": "2020-01-09T14:43:33Z",
-      "material_data": {
-        "title": "Радужные светлячки: Вечные летние каникулы",
-        "title_en": "Niji-iro Hotaru: Eien no Natsuyasumi",
-        "other_titles": [
-          "Niji-iro Hotaru: Eien no Natsuyasumi",
-          "Rainbow-colored Firefly: Never Ending Summer Vacation",
-          "Niji-Iro Hotaru ~Eien no Natsu Yasumi~",
-          "Rainbow-Colored Fireflies: The Eternal Summer Vacation"
-        ],
-        "other_titles_jp": [
-          "虹色ほたる~永遠の夏休み~"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2012,
-        "description": "Год назад в автокатастрофе у Юты погибает отец. Сейчас, во время летних каникул, он пытается вернуть утраченные простые радости лета: ловлю светлячков, запуск фейерверков. Неожиданно начинается гроза, Юта поскальзывается и ударяется головой. Придя в себя он обнаруживает, что местность вокруг слегка изменилась. Оказывается парень перенесся на 30 лет в прошлое. В ближайшей деревне, которая в будущем будет затоплена, он встречает свою первую любовь.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/713443.jpg",
-        "duration": 104,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Повседневность",
-          "Романтика",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Toei Animation"
-        ],
-        "kinopoisk_rating": 7.3,
-        "kinopoisk_votes": 164,
-        "imdb_rating": 6.9,
-        "imdb_votes": 83,
-        "shikimori_rating": 7.02,
-        "shikimori_votes": 278,
-        "premiere_world": "2011-05-19",
-        "aired_at": "2012-05-19",
-        "rating_mpaa": "G",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "directors": [
-          "Коносукэ Уда"
-        ],
-        "producers": [
-          "Ацутоси Умэдзава"
-        ]
-      }
-    },
-    {
-      "id": "serial-8617",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Робо-девчата Зет",
-      "title_orig": "Toei Robot Girls Z",
-      "other_title": "ロボットガールズZ",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 3,
-      "episodes_count": 3,
-      "kinopoisk_id": "818656",
-      "imdb_id": "tt3121602",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1773",
-      "shikimori_id": "19799",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-01-10T16:19:10Z",
-      "updated_at": "2020-01-09T14:39:46Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/222971/370e2a94a509f1c15b1de5ad09d01547/720p",
-            "2": "//aniqit.com/seria/222972/bd5f52331a42c8375d083e7289e09661/720p",
-            "3": "//aniqit.com/seria/222973/c61c42e0843eb4bbb0ed00fdf4172da4/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Робо-девчата Зет",
-        "title_en": "Toei Robot Girls Z",
-        "other_titles": [
-          "RGZ"
-        ],
-        "other_titles_en": [
-          "Robot Girls Z"
-        ],
-        "other_titles_jp": [
-          "ロボットガールズＺ"
-        ],
-        "anime_kind": "special",
-        "anime_status": "released",
-        "year": 2014,
-        "description": "Это проект по перевоплощению легендарных супер роботов в прекрасных девушек!\n\rЗвёзды «Robot Girls Z» — Зет-тян, Гре-тян, и Гренда-сан. Вместе они защищают (или пытаются это сделать) город Photon Power от «механических монстродевочек подземной империи». Во главе злодеев стоит Барон Ашура, подземный император, склонный к мировому господству или хотя бы к господству над городом.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/818656.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/179acac46f2a35b538f1ef5c2cfe7cb56bdf64e1.png",
-          "https://shikimori.one/system/screenshots/original/14f0179695a14c55ab33e87ff7c35c19c1099de6.png"
-        ],
-        "duration": 30,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Меха",
-          "Пародия"
-        ],
-        "anime_studios": [
-          "Toei Animation"
-        ],
-        "imdb_rating": 5.7,
-        "imdb_votes": 28,
-        "shikimori_rating": 6.46,
-        "shikimori_votes": 157,
-        "aired_at": "2014-01-04",
-        "released_at": "2014-03-02",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 3,
-        "episodes_aired": 3,
-        "actors": [
-          "Кадзуса Аранами",
-          "Марико Хонда",
-          "Инори Минасэ"
-        ],
-        "directors": [
-          "Хироси Икэхата"
-        ]
-      }
-    },
-    {
-      "id": "movie-47384",
-      "type": "anime",
-      "link": "",
-      "title": "Героем я, увы, не стал, зато работу подыскал OVA",
-      "title_orig": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku o Ketsui Shimashita. OVA",
-      "other_title": "Раз героем мне не стать - самое время работу искать! OVA / Героем я не стал, так что мне пришлось искать работу!",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2014,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1724",
-      "shikimori_id": "20545",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-09T14:36:54Z",
-      "updated_at": "2020-01-09T14:36:54Z",
-      "material_data": {
-        "title": "Раз героем мне не стать — самое время работу искать! OVA",
-        "title_en": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita. OVA",
-        "other_titles": [
-          "Yusibu OVA",
-          "Yu-sibu OVA",
-          "Yuushibu OVA",
-          "I Couldn't Become a Hero",
-          "So I Reluctantly Decided to Get a Job. OVA"
-        ],
-        "other_titles_en": [
-          "Yusibu: I couldn't become a hero, so I reluctantly decided to get a job. OVA"
-        ],
-        "other_titles_jp": [
-          "勇者になれなかった俺はしぶしぶ就職を決意しました。OVA"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "description": "Бонус к эксклюзивному ограниченному изданию девятого тома ранобэ.\r\n\r\nФансервисный эпизод. К Раулю приезжает в гости его младшая сестрёнка, и, чтобы не упасть в её глазах, он со своими друзьями разыгрывает геройскую постановку на горячих источниках.",
-        "poster_url": "https://shikimori.one/system/animes/original/20545.jpg",
-        "anime_genres": [
-          "Комедия",
-          "Фэнтези",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Asread"
-        ],
-        "shikimori_rating": 6.83,
-        "shikimori_votes": 2043,
-        "aired_at": "2014-03-07",
-        "rating_mpaa": "R+",
-        "episodes_total": 1,
-        "episodes_aired": 0
-      }
-    },
-    {
-      "id": "movie-47383",
-      "type": "anime",
-      "link": "",
-      "title": "Тетрадь дружбы Нацумэ OVA-1",
-      "title_orig": "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai",
-      "other_title": "夏目友人帳 ニャンコ先生とはじめてのおつかい",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "1066394",
-      "imdb_id": "tt5837794",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1687",
-      "shikimori_id": "18849",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-09T14:34:39Z",
-      "updated_at": "2020-01-09T14:34:39Z",
-      "material_data": {
-        "title": "Natsume Yujin-cho OVA",
-        "title_en": "",
-        "other_titles": [
-          "Nyanko-sensei & the First Errand",
-          "Natsume Yuujinchou LaLa Special",
-          "Natsume Yujincho LaLa Special",
-          "Natsume's Book of Friends LaLa Special"
-        ],
-        "other_titles_jp": [
-          "夏目友人帳新作アニメDVD"
-        ],
-        "anime_kind": "special",
-        "anime_status": "released",
-        "year": 2013,
-        "description": "Однажды Нацумэ прогуливался вместе с Мадарой и по привычке упрекал ёкая, что тот слишком растолстел. Но в самый разгар спора Мадара, завидев стрекозу, помчался за ней и в итоге оказался в лесу, кишащем духами. Там он встретил девочку и мальчика, которые должны были кое-что достать...",
-        "poster_url": "https://shikimori.one/system/animes/original/18849.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/70c85aa9c5fc02dc0834a73cc1592cb07fb15184.jpg",
-          "https://shikimori.one/system/screenshots/original/41046b3b9dbea44cd3f76ffda57e920d7bd9104f.jpg"
-        ],
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Демоны",
-          "Драма",
-          "Повседневность",
-          "Сверхъестественное",
-          "Сёдзё"
-        ],
-        "anime_studios": [
-          "Brain's Base"
-        ],
-        "imdb_rating": 7.7,
-        "imdb_votes": 162,
-        "shikimori_rating": 7.66,
-        "shikimori_votes": 2309,
-        "aired_at": "2013-12-15",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Кадзухико Иноуэ",
-          "Хироси Камия",
-          "Дзюнъити Сувабэ"
-        ]
-      }
-    },
-    {
-      "id": "movie-47381",
-      "type": "anime",
-      "link": "",
-      "title": "Арве Резл: Механические феи",
-      "title_orig": "Arve Rezzle: Kikaijikake no Yousei-tachi",
-      "other_title": "アルヴ・レズル -機械仕掛けの妖精たち-",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "715010",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1563",
-      "shikimori_id": "13863",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-09T14:31:07Z",
-      "updated_at": "2020-01-09T14:31:07Z",
-      "material_data": {
-        "title": "Арве Резл: Механические феи",
-        "title_en": "Arve Rezzle: Kikaijikake no Yousei-tachi",
-        "other_titles": [
-          "Wakate Animator Ikusei Project",
-          "2012 Young Animator Training Project",
-          "Anime Mirai 2012",
-          "Aruvu Rezuru",
-          "Aruvu Rezuru: Kikai Jikake no Yousei-tachi",
-          "Aruvu Rezuru: Mechanized Fairies",
-          "Arve Rezzle: Mechanized Fairies",
-          "Arve Rezzle: Kikaijikake no Yoseitachi"
-        ],
-        "other_titles_jp": [
-          "アルヴ・レズル -機械仕掛けの妖精たち-"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2013,
-        "description": "События происходят в 2022 году. Люди развили свои технологии до небывалых высот. Они могут загружать свой ум в киберпространство, оставляя свои тела бездушными. Но происходит один несчастный случай и люди, загрузившие свои умы в киберпространство, остаются там запертыми. И тут мы знакомимся с парнишкой по имени Рема, сестра которого осталась заперта в кибер пространстве. Он готов сделать все что угодно, только бы ее вернуть…",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/715010.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/48a19f8621512456cf009e356207ca3167f02364.jpg",
-          "https://shikimori.one/system/screenshots/original/ba71340fd8036a87a81769c03b874a070bd661f0.jpg"
-        ],
-        "duration": 20,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "короткометражка",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Драма",
-          "Триллер",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Zexcs"
-        ],
-        "kinopoisk_rating": 5.5,
-        "kinopoisk_votes": 155,
-        "shikimori_rating": 6.3,
-        "shikimori_votes": 1131,
-        "premiere_world": "2013-02-25",
-        "aired_at": "2013-03-02",
-        "rating_mpaa": "R",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "directors": [
-          "Тацуя Ёсихара"
-        ]
-      }
-    },
-    {
-      "id": "movie-47380",
-      "type": "anime",
-      "link": "",
-      "title": "Рандеву с жизнью OVA-1",
-      "title_orig": "Date a Live: Date to Date",
-      "other_title": "Рандеву с жизнью ОВА",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2013,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1499",
-      "shikimori_id": "17641",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-09T14:02:08Z",
-      "updated_at": "2020-01-09T14:02:08Z",
-      "material_data": {
-        "title": "Рандеву с жизнью: Время до свидания",
-        "title_en": "Date A Live: Date to Date",
-        "other_titles": [
-          "Date A Live OVA",
-          "Date A Live Episode 13"
-        ],
-        "other_titles_jp": [
-          "デート・ア・ライブ DATE TO DATE"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "description": "Эпизод, вышедший в комплекте с 9 томом новеллы и не показанный на ТВ. Рассказывает о том, как Оригами пригласила Шидо на свидание.",
-        "poster_url": "https://shikimori.one/system/animes/original/17641.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/d2afbcc9700e188fdfeb97b5718a658bd013ecb5.jpg",
-          "https://shikimori.one/system/screenshots/original/a54e4e46d8a5dc3638b3b5076ed1e67bf6c0b8b6.jpg"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Комедия",
-          "Романтика",
-          "Фантастика",
-          "Школа"
-        ],
-        "anime_studios": [
-          "AIC PLUS+"
-        ],
-        "shikimori_rating": 7.38,
-        "shikimori_votes": 7453,
-        "aired_at": "2013-12-06",
-        "rating_mpaa": "R+",
-        "episodes_total": 1,
-        "episodes_aired": 0
-      }
-    },
-    {
-      "id": "movie-47379",
-      "type": "anime",
-      "link": "",
-      "title": "Класс убийц OVA",
-      "title_orig": "Ansatsu Kyoushitsu OVA",
-      "other_title": "Убийство в классной комнате",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "820060",
-      "imdb_id": "tt3428540",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1434",
-      "shikimori_id": "19759",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-09T14:00:53Z",
-      "updated_at": "2020-01-09T14:00:53Z",
-      "material_data": {
-        "title": "Убийство в классной комнате",
-        "title_en": "Ansatsu Kyoushitsu",
-        "other_titles": [
-          "Ansatsu Kyoushitsu Jump Super Anime Tour Special",
-          "Assassination Classroom",
-          "Ansatsu Kyoushitsu: Jump Festa 2013 Special"
-        ],
-        "other_titles_jp": [
-          "暗殺教室"
-        ],
-        "anime_kind": "special",
-        "anime_status": "released",
-        "year": 2013,
-        "description": "У учеников есть задание: убить своего учителя до выпускного. Он уже уничтожил Луну, и пообещал уничтожить Землю, если никто его не убьёт в течении года. Но как этот класс неудачников сможет убить тентаклеобразного монстра, способного реагировать в 20 раз быстрее скорости звука, который возможно является лучшим учителем из всех, кто у них был?!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/820060.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/1da659d1a73bbbbff0072a0f5623617ab516d125.png",
-          "https://shikimori.one/system/screenshots/original/099080b93de5b70aaf54297b0f263d4fa7b0b396.png"
-        ],
-        "duration": 31,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "короткометражка",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Сёнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Brain's Base"
-        ],
-        "kinopoisk_rating": 6.6,
-        "kinopoisk_votes": 220,
-        "imdb_rating": 7.6,
-        "imdb_votes": 76,
-        "shikimori_rating": 7.22,
-        "shikimori_votes": 5451,
-        "premiere_world": "2013-10-06",
-        "aired_at": "2013-10-06",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Юи Хориэ",
-          "Нобухико Окамото",
-          "Томокадзу Сэки",
-          "Нао Тояма"
-        ],
-        "directors": [
-          "Кэйдзи Гото"
-        ],
-        "writers": [
-          "Юсэи Мацуи"
-        ]
-      }
-    },
-    {
-      "id": "movie-47378",
-      "type": "anime",
-      "link": "",
-      "title": "Кровавый парень OVA",
-      "title_orig": "Blood Lad: Wagahai wa Neko de wa Nai",
-      "other_title": "ブラッドラッド 我輩は猫ではない",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2013,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1418",
-      "shikimori_id": "18441",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-09T13:59:34Z",
-      "updated_at": "2020-01-09T13:59:34Z",
-      "material_data": {
-        "title": "Кровавый парень: Я не кот",
-        "title_en": "Blood Lad: Wagahai wa Neko de wa Nai",
-        "other_titles_en": [
-          "Blood Lad OVA"
-        ],
-        "other_titles_jp": [
-          "ブラッドラッド 我輩は猫ではない"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "description": "Специальный эпизод, выпущенный с десятым томом манги в ограниченном издании.",
-        "poster_url": "https://shikimori.one/system/animes/original/18441.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/a6b6b172b82a612a51af5ca9034fdea6b5044ba4.jpg",
-          "https://shikimori.one/system/screenshots/original/0030c36efe62f3788ba68ce8aaa43effc07cf686.jpg"
-        ],
-        "anime_genres": [
-          "Вампиры",
-          "Демоны",
-          "Комедия",
-          "Сверхъестественное",
-          "Сейнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Brain's Base"
-        ],
-        "shikimori_rating": 7.18,
-        "shikimori_votes": 5203,
-        "aired_at": "2013-12-04",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0
-      }
-    },
-    {
-      "id": "serial-16362",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Четвёрка попаданцев [ТВ-1]",
-      "title_orig": "Isekai Quartet",
-      "other_title": "Квартет Исэкай / Квартет Попаданцев ТВ-1 / Квартет из другого мира",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1211428",
-      "imdb_id": "tt9193770",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9845",
-      "shikimori_id": "38472",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-04-14T20:31:36Z",
-      "updated_at": "2020-01-09T13:57:24Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/426679/8698cb92919b7cab27fb7166d129206d/720p",
-            "2": "//aniqit.com/seria/427553/b4e480d3ccca4547789571182f8de01b/720p",
-            "3": "//aniqit.com/seria/429366/31f5668b73e55a6e165d5e85b2ce10c9/720p",
-            "4": "//aniqit.com/seria/432419/276d76588c0985dd70b2bd91fc09737c/720p",
-            "5": "//aniqit.com/seria/436676/d294cb1c241443d08449c10e72847c3f/720p",
-            "6": "//aniqit.com/seria/439803/4558247890e26213b899292647a7a2aa/720p",
-            "7": "//aniqit.com/seria/442333/3030c1d279012e1ef78f567b12c27ce9/720p",
-            "8": "//aniqit.com/seria/446668/e83888399419fdff61cd4144b2a39a04/720p",
-            "9": "//aniqit.com/seria/446669/4f630d13bfca54592ecebf8ec96a3435/720p",
-            "10": "//aniqit.com/seria/448695/2fe6f32262ca618ba8c37787a3d1a00f/720p",
-            "11": "//aniqit.com/seria/448696/7c6265d9d322a3eb15ff32800a87585e/720p",
-            "12": "//aniqit.com/seria/450978/aac26c790eb26cae15769c360b27984d/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Квартет Исэкай",
-        "title_en": "Isekai Quartet",
-        "other_titles": [
-          "Квартет из другого мира",
-          "Квартет попаданцев"
-        ],
-        "other_titles_jp": [
-          "異世界かるてっと"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2019,
-        "description": "Кроссовер четырёх аниме: «», «», «» и «».\r\n\r\nВ мирах каждого из героев этих аниме появляется странная кнопка. По стечению различных обстоятельств каждый нажимает на кнопку, после чего все переносятся в один мир. Им предстоит учиться в школе, налаживать контакт с каждым из новоприбывших «попаданцев», ну и конечно... веселиться!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1211428.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/33ff000d10ad7ebcb5a1485ab5ae1df59708de2a.png",
-          "https://shikimori.one/system/screenshots/original/a8594261c4f6934d4699c60d2ad888b4bfade1d2.png"
-        ],
-        "duration": 12,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Пародия",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Studio PuYUKAI"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 738,
-        "imdb_rating": 7,
-        "imdb_votes": 477,
-        "shikimori_rating": 7.45,
-        "shikimori_votes": 11095,
-        "premiere_world": "2019-04-10",
-        "aired_at": "2019-04-10",
-        "released_at": "2019-06-26",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Сора Амамия",
-          "Дзюн Фукусима",
-          "Юми Хара",
-          "Саори Хаями",
-          "Сатоси Хино",
-          "Юсукэ Кобаяси",
-          "Риэ Такахаси",
-          "Аои Юки"
-        ],
-        "directors": [
-          "Минору Асина"
-        ],
-        "writers": [
-          "Нацумэ Акацуки",
-          "Куганэ Маруяма",
-          "Таппэй Нагацуки",
-          "Карло Дзэн"
-        ]
       }
     }
   ]

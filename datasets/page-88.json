@@ -1,6 +1,1356 @@
 {
   "results": [
     {
+      "id": "movie-57104",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Парень и зелёная ива",
+      "title_orig": "A Boy and Sungreen",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1261596",
+      "imdb_id": "tt10402898",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-06-25T06:13:42Z",
+      "updated_at": "2020-06-25T06:13:42Z",
+      "material_data": {
+        "title": "Парень и зелёная ива",
+        "title_en": "Bohuiwa nokyang",
+        "year": 2019,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1261596.jpg",
+        "duration": 99,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "imdb_rating": 6.6,
+        "imdb_votes": 43,
+        "premiere_world": "2019-05-29",
+        "actors": [
+          "Ан Джи-хо",
+          "Ким Джу-а",
+          "Со Хён-у",
+          "Щин Дон-ми",
+          "Чха Со-вон",
+          "Ли Хэ-ён",
+          "Ким Хи-чхан",
+          "Пак Кын-нок",
+          "Мин Гён-джин",
+          "Ким Со-ра"
+        ],
+        "directors": [
+          "Ан Джу-ён"
+        ],
+        "producers": [
+          "Со Джун-бом"
+        ],
+        "writers": [
+          "Ан Джу-ён"
+        ],
+        "operators": [
+          "Ли Сон-ён"
+        ]
+      }
+    },
+    {
+      "id": "serial-25355",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Власть книжного червя [ТВ-2]",
+      "title_orig": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2020)",
+      "other_title": "Власть книжного червя: Чтобы стать библиотекарем, все средства хороши / Власть книжного червя 2 / Ascendance of a Bookworm (2020)",
+      "translation": {
+        "id": 1237,
+        "title": "Jisedai",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 2,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1297259",
+      "imdb_id": "tt10885406",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10309",
+      "shikimori_id": "40815",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-03T06:47:41Z",
+      "updated_at": "2020-06-25T05:40:44Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/640619/4297cca1cf42fc4532551a981a045187/720p",
+            "2": "//aniqit.com/seria/640620/7909a1f1167a662845e10748ebbe790d/720p",
+            "3": "//aniqit.com/seria/640621/d52e22b37f5552e634aba001e68acc59/720p",
+            "4": "//aniqit.com/seria/640622/6c7168a66f673775c1e6f7750fea1bd8/720p",
+            "5": "//aniqit.com/seria/641920/46d139657de7e606e4133dc78009ca23/720p",
+            "6": "//aniqit.com/seria/651002/6e0b49ef5fca5291ac525c4a48ad26e0/720p",
+            "7": "//aniqit.com/seria/651465/a5eeb99c6775c84580d7c5685de1a1a9/720p",
+            "8": "//aniqit.com/seria/655871/b4fee27ce5939a4b8d510d1ed3d7763a/720p",
+            "9": "//aniqit.com/seria/663907/b1807b5c93e1d32fa7022fbf37482ec4/720p",
+            "10": "//aniqit.com/seria/668791/11ab359f860fbf161ad5197556c300dc/720p",
+            "11": "//aniqit.com/seria/670488/44304c63488b3deb5bbc1e817277ffb7/720p",
+            "12": "//aniqit.com/seria/675025/60968af7825c0c34ff084cff2869a2f8/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Власть книжного червя",
+        "title_en": "Honzuki no Gekokujou",
+        "other_titles": [
+          "Власть книжного червя: Чтобы стать библиотекарем, все средства хороши 2",
+          "Революция книжного червя: Чтобы стать библиотекарем, все средства хороши 2",
+          "Восхождение книжного червя 2",
+          "Ascendance of a Bookworm 2nd Season"
+        ],
+        "other_titles_en": [
+          "Ascendance of a Bookworm Part 2"
+        ],
+        "other_titles_jp": [
+          "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 第2期"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "После завершения церемонии крещения Майн начинает работать в храме в качестве служительницы церкви. То, что ожидает её внутри — это то, о чём она всегда мечтала: комната, полная книг! Но её новая жизнь не совсем та, на которую она надеялась; Майн окружена дворянами, которые презирают её простолюдинское происхождение, и даже её собственные последователи причиняют ей неприятности. Кроме того, ей приходится постоянно бороться со слабостью и болезненностью собственного тела. Но с любовью к книгам, пылающей в её сердце, она полностью отдаётся своим новым ученическим обязанностям.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1297259.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/75a2bf6a8d32005e678cf26e383f8aa89ce265f0.jpg",
+          "https://shikimori.one/system/screenshots/original/72db0fe5a6169c32c4dfa8d34c92d7206eb6fe3c.jpg"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Повседневность",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Ajia-Do"
+        ],
+        "kinopoisk_rating": 7.2,
+        "kinopoisk_votes": 581,
+        "imdb_rating": 7.9,
+        "imdb_votes": 428,
+        "shikimori_rating": 8.16,
+        "shikimori_votes": 5068,
+        "premiere_world": "2019-10-02",
+        "aired_at": "2020-04-05",
+        "released_at": "2020-06-21",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Юка Игути",
+          "Сё Хаями",
+          "Мэгуми Накадзима",
+          "Фумико Орикаса",
+          "Такэси Кояма",
+          "Муцуми Тамура",
+          "Такэхито Коясу",
+          "Сатоси Хино",
+          "Томоаки Маэно",
+          "Ая Утида"
+        ],
+        "directors": [
+          "Хонго Мицуру"
+        ],
+        "writers": [
+          "Марико Кунисава"
+        ],
+        "composers": [
+          "Митиру"
+        ]
+      }
+    },
+    {
+      "id": "serial-20147",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Ванпанчмен [ТВ-2]",
+      "title_orig": "One Punch Man (2019)",
+      "other_title": "Ванпанчмен [OVA 1 - OVA 2 - OVA 3 - OVA 4 - OVA 5 - OVA 6]",
+      "translation": {
+        "id": 910,
+        "title": "AniStar",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 6,
+      "episodes_count": 6,
+      "kinopoisk_id": "1138757",
+      "imdb_id": "tt5254328",
+      "shikimori_id": "39705",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-12-09T21:16:07Z",
+      "updated_at": "2020-06-24T23:30:51Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/538639/1e9246572efcc6c967a9137172d26487/720p",
+            "2": "//aniqit.com/seria/538640/ab18d59f39cb42922918a570cf30b4d6/720p",
+            "3": "//aniqit.com/seria/572590/297e42d6d95e294b6d714c6c96348c6b/720p",
+            "4": "//aniqit.com/seria/603719/75006caf133c8a20bed46f4d0ccb2cfa/720p",
+            "5": "//aniqit.com/seria/674855/8fdd75934fae52ba0b559fa5273c978d/720p",
+            "6": "//aniqit.com/seria/675014/8a17bfe4921ac35bbd6b4d385c7c69fc/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Ванпанчмен: Путь становления героя",
+        "title_en": "One Punch Man: Road to Hero",
+        "other_titles_jp": [
+          "ワンパンマン SEASON 2 OVA 2"
+        ],
+        "anime_kind": "special",
+        "anime_status": "released",
+        "year": 2015,
+        "description": "История о том, как Сайтама получил свой супергеройский костюм.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1138757.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/b8605173dd8557986ac1c491d4568bb2c6e479f0.jpg",
+          "https://shikimori.one/system/screenshots/original/5a7bdd01b7a28a35ebde3d969570c2f6fb4531ff.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "короткометражка",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Пародия",
+          "Сверхъестественное",
+          "Супер сила",
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "J.C.Staff"
+        ],
+        "kinopoisk_rating": 7.8,
+        "kinopoisk_votes": 1196,
+        "shikimori_rating": 7.3,
+        "shikimori_votes": 5080,
+        "premiere_world": "2015-12-04",
+        "aired_at": "2019-10-25",
+        "released_at": "2020-03-27",
+        "rating_mpaa": "R",
+        "episodes_total": 6,
+        "episodes_aired": 2,
+        "actors": [
+          "Макото Фурукава",
+          "Каито Исикава"
+        ],
+        "directors": [
+          "Минору Ямаока"
+        ],
+        "writers": [
+          "Томохиро Судзуки"
+        ]
+      }
+    },
+    {
+      "id": "serial-25368",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Арте",
+      "title_orig": "Arte",
+      "other_title": "アルテ",
+      "translation": {
+        "id": 739,
+        "title": "Animedia",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1323563",
+      "imdb_id": "tt11754514",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10165",
+      "shikimori_id": "40128",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-03T19:48:10Z",
+      "updated_at": "2020-06-24T23:29:59Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/641148/ede440f875361acf14e0614158128950/720p",
+            "2": "//aniqit.com/seria/642784/598df6facc91e695262cf5476424b9bc/720p",
+            "3": "//aniqit.com/seria/642864/9937311f186c52ced83cb38dca92ef7d/720p",
+            "4": "//aniqit.com/seria/643540/74cfbd1835ec04019ce3c7a8911a029d/720p",
+            "5": "//aniqit.com/seria/644210/b931824f27f5ac9143e97e8dd4e56d99/720p",
+            "6": "//aniqit.com/seria/646447/5e0f41803072dc0132f8bf1358edcbf5/720p",
+            "7": "//aniqit.com/seria/649486/f55cbe8c40bd0a2e1cbc79dbe8db1647/720p",
+            "8": "//aniqit.com/seria/654304/b97cf694c670624a9b64c410a8f9aee6/720p",
+            "9": "//aniqit.com/seria/660622/0b608f26a923612ba1bbef7ed52f1bda/720p",
+            "10": "//aniqit.com/seria/664270/4c4a071b4b90f81aeb6c5e0a3669bf1a/720p",
+            "11": "//aniqit.com/seria/669011/6b975534052034408d9d2b5a0079db67/720p",
+            "12": "//aniqit.com/seria/675011/852bddf0894f79f95e5ff5d1dc319837/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Арте",
+        "title_en": "Arte",
+        "other_titles_en": [
+          "Arte"
+        ],
+        "other_titles_jp": [
+          "アルテ"
+        ],
+        "anime_license_name": "ARTE",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2020,
+        "description": "Флоренция начала XVI века, закат Ренессанса. Молодая аристократка Арте мечтает рисовать картины и посвятить свою жизнь искусству. Вот только мать девушки не особо заботят её желания — в отличие от замужества. Женщина хочет поскорее найти дочери достойную партию, чтобы вернуть былое влияние семьи, поэтому Арте бросает родной дом и просится в ученики в мастерскую, где начинается её путь в искусство.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1323563.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/1874571c20a37f0735087ff9a0f91198a817b943.png",
+          "https://shikimori.one/system/screenshots/original/28d6b0c0a7317f3c549e0ded110260e18b86a852.png"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "драма",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Исторический",
+          "Повседневность",
+          "Романтика",
+          "Сейнен"
+        ],
+        "anime_studios": [
+          "Seven Arcs"
+        ],
+        "imdb_rating": 7,
+        "imdb_votes": 199,
+        "shikimori_rating": 7.17,
+        "shikimori_votes": 2562,
+        "premiere_world": "2020-04-04",
+        "aired_at": "2020-04-04",
+        "released_at": "2020-06-20",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Микако Комацу",
+          "Дзюнъя Эноки",
+          "Мао Итимити",
+          "Кацуя Кониси",
+          "Косукэ Ториуми",
+          "Саяка Охара"
+        ],
+        "directors": [
+          "Такаюки Хамана"
+        ],
+        "writers": [
+          "Рэйко Ёсида"
+        ]
+      }
+    },
+    {
+      "id": "serial-24310",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Башня Бога",
+      "title_orig": "Kami no Tou",
+      "other_title": "Tower of God",
+      "translation": {
+        "id": 739,
+        "title": "Animedia",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "1363114",
+      "imdb_id": "tt12057106",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10389",
+      "shikimori_id": "40221",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-01T21:36:30Z",
+      "updated_at": "2020-06-24T23:29:50Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/622849/71dd8afd8740b5fbb7f691472136006a/720p",
+            "2": "//aniqit.com/seria/626832/dc56e532f0e14f2ca6553213b068fd3f/720p",
+            "3": "//aniqit.com/seria/630577/959bff24a87d267062d09d7c804afcad/720p",
+            "4": "//aniqit.com/seria/634678/f816bef455734211d306c935a6c80bda/720p",
+            "5": "//aniqit.com/seria/639120/794d37df96494950573a1075ed5584cb/720p",
+            "6": "//aniqit.com/seria/643538/0de23c4b5c8f30041d925e058f5292d5/720p",
+            "7": "//aniqit.com/seria/647118/c2144c940a2fef2656f56fedd029495f/720p",
+            "8": "//aniqit.com/seria/651514/7d8dbaab58f45974353adc378c6f05f7/720p",
+            "9": "//aniqit.com/seria/657925/51417a9b3d168b62f3f82e7d6f1a5c0d/720p",
+            "10": "//aniqit.com/seria/662256/cef9088c46c5ab53adf9ab763c49366c/720p",
+            "11": "//aniqit.com/seria/666001/eb88b0a55a8bf5995ac92be56da33111/720p",
+            "12": "//aniqit.com/seria/670407/c21c7fb0c9a069681c62819822fdf058/720p",
+            "13": "//aniqit.com/seria/675010/0cff5de584842e6166341767a9230a69/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Башня Бога",
+        "title_en": "Kami no Tou",
+        "other_titles": [
+          "Sin-ui Tap"
+        ],
+        "other_titles_en": [
+          "Tower of God"
+        ],
+        "other_titles_jp": [
+          "神之塔 -Tower of God-"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2020,
+        "description": "Мальчик Баам большую часть жизни провел у загадочной Башни. За десять тысяч лет никому так и не удалось постичь тайны строения. По легенде, если добраться до ее вершины, можно исполнить любую мечту — и даже стать богом. Сделать это непросто: на этажах поджидают опасности и испытания, которые усложняются с каждым уровнем. Но Баама не слишком заботит награда. Мальчик поднимается на Башню, чтобы вернуть Рахиль — девушку, которая поднялась наверх, чтобы увидеть звезды.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1363114.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/982a1b571257a8678f8be5f24c640dd222884289.png",
+          "https://shikimori.one/system/screenshots/original/efefa2b97f639d6f374c21c931b54ad34fef615d.png"
+        ],
+        "duration": 25,
+        "countries": [
+          "Корея Южная",
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "приключения"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Драма",
+          "Приключения",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Telecom Animation Film"
+        ],
+        "kinopoisk_rating": 7.7,
+        "kinopoisk_votes": 2010,
+        "imdb_rating": 7.9,
+        "imdb_votes": 2989,
+        "shikimori_rating": 7.66,
+        "shikimori_votes": 19112,
+        "premiere_world": "2020-04-01",
+        "aired_at": "2020-04-02",
+        "released_at": "2020-06-25",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 13,
+        "episodes_aired": 13,
+        "actors": [
+          "Таити Итикава",
+          "Нобухико Окамото",
+          "Кэнта Миякэ",
+          "Саори Хаями",
+          "Хотю Оцука",
+          "Кадзуюки Окицу",
+          "Такуя Эгути",
+          "Тосинари Фукамати",
+          "Марико Хонда",
+          "Акира Сэкинэ"
+        ],
+        "directors": [
+          "Такаси Сано"
+        ],
+        "producers": [
+          "Джозеф Чоу",
+          "Kun Gao",
+          "Такэси Кавакита",
+          "JunKoo Kim",
+          "Нобухико Куросу",
+          "Масао Моросава",
+          "Макико Нагано",
+          "Saechan",
+          "Харуки Сатоми",
+          "Sae Whan Song"
+        ],
+        "writers": [
+          "СИУ"
+        ],
+        "composers": [
+          "Кевин Пенкин"
+        ],
+        "editors": [
+          "Кадзухиро Нии"
+        ],
+        "operators": [
+          "Тацуо Ногути"
+        ]
+      }
+    },
+    {
+      "id": "serial-27132",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Бек",
+      "title_orig": "Beck: Mongolian Chop Squad",
+      "other_title": "Бек: Восточная Ударная Группа",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2004,
+      "last_season": 1,
+      "last_episode": 26,
+      "episodes_count": 26,
+      "kinopoisk_id": "387166",
+      "imdb_id": "tt0434662",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2671",
+      "shikimori_id": "57",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-06-24T23:27:03Z",
+      "updated_at": "2020-06-24T23:27:03Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/674984/f0f7da5f59ebdd8d495b9c95c5ca8c9d/720p",
+            "2": "//aniqit.com/seria/674985/277ac615c3f3ee87c66112091d228e0e/720p",
+            "3": "//aniqit.com/seria/674986/2981ec77238867b9cdb6a720509c80b4/720p",
+            "4": "//aniqit.com/seria/674987/77906e1b8c30f95b6e14238897a12d63/720p",
+            "5": "//aniqit.com/seria/674988/bd900bccd1610570856d971db1c47e54/720p",
+            "6": "//aniqit.com/seria/674989/574857193b1217fd4bc79cc54cc94e48/720p",
+            "7": "//aniqit.com/seria/674990/9905ffb5705688e165c431867e7c74ef/720p",
+            "8": "//aniqit.com/seria/674991/c0db64ab1a530c30068aac012030394b/720p",
+            "9": "//aniqit.com/seria/674992/ed32044340fc78183dcdf132a9492303/720p",
+            "10": "//aniqit.com/seria/674993/31827ce329d58fa6ca3b2a1f8d146757/720p",
+            "11": "//aniqit.com/seria/674994/119d9a1db2a67156ca1cd848dfa6dcfb/720p",
+            "12": "//aniqit.com/seria/674995/afb2a19395382e25ff6e52e9f004c5f4/720p",
+            "13": "//aniqit.com/seria/674996/9a211701bcf9cf0aa70ec10a956c8b33/720p",
+            "14": "//aniqit.com/seria/674997/51bfb0b12e84067abc2f8675d84452d4/720p",
+            "15": "//aniqit.com/seria/674998/69c94fba26759cad1bca7e22f00086fa/720p",
+            "16": "//aniqit.com/seria/674999/1181df8cd7ff8e778e7fbfba3a16e3db/720p",
+            "17": "//aniqit.com/seria/675000/b2d30f11cde0f12fcec5d04930997380/720p",
+            "18": "//aniqit.com/seria/675001/5bef365e5629f1e4b1975f6f8699aa8a/720p",
+            "19": "//aniqit.com/seria/675002/4501f01e5bb6785cb727a21273ef2dc2/720p",
+            "20": "//aniqit.com/seria/675003/d995ac1b7ac209da57111b42e44e041f/720p",
+            "21": "//aniqit.com/seria/675004/72719b02ac8265e87446bc3a9cd06197/720p",
+            "22": "//aniqit.com/seria/675005/f85a7616c4b255d68497b45d101aea82/720p",
+            "23": "//aniqit.com/seria/675006/fad6077b33c75e85802ecbe6ca7dd250/720p",
+            "24": "//aniqit.com/seria/675007/aeaffe45630632f9aefd0d3e3a4cc40a/720p",
+            "25": "//aniqit.com/seria/675008/4457ae6f74e687638516c70dd01ddf55/720p",
+            "26": "//aniqit.com/seria/675009/6710462d91024322100372229db775b6/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Бек",
+        "title_en": "Beck: Mongolian Chop Squad",
+        "other_titles": [
+          "Бек: Восточная ударная группа",
+          "BECK"
+        ],
+        "other_titles_en": [
+          "Beck: Mongolian Chop Squad"
+        ],
+        "other_titles_jp": [
+          "ベック"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2004,
+        "tagline": "Гитара - как человеческая душа, передающая послание миру всего через шесть струн",
+        "description": "Бек – это рассказ о простом японском парне, 14-летнем Юкио Танаке, который волею судьбы встретился с молодым гитаристом Рюскэ Минами и, благодаря таланту, силе духа, простому и открытому характеру, нашел свое место в жизни, обрел друзей и встретил любовь. Это рассказ о поиске путей самовыражения, на которых искренность и честность приносят радость, а злоба и лицемерие заводят в тупик. А еще это рассказ о встрече непростых людей, которые сумели создать и сохранить рок-группу, то самое целое, которое куда больше суммы слагаемых. Именно так и рождается настоящая музыка. Именно так вышло одно из лучших музыкальных аниме всех времен!",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/387166.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/877cfa9c4b400d0f456d7343c67128befc14f8e2.jpg",
+          "https://shikimori.one/system/screenshots/original/f3fa596dd2815e5a2425222cc4a071c855210c2a.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "драма",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Комедия",
+          "Музыка",
+          "Повседневность",
+          "Сёнен"
+        ],
+        "anime_studios": [
+          "Madhouse"
+        ],
+        "kinopoisk_rating": 8.3,
+        "kinopoisk_votes": 6610,
+        "imdb_rating": 8.3,
+        "imdb_votes": 2055,
+        "shikimori_rating": 8.32,
+        "shikimori_votes": 10133,
+        "premiere_world": "2004-10-06",
+        "aired_at": "2004-10-07",
+        "released_at": "2005-03-31",
+        "rating_mpaa": "R",
+        "episodes_total": 26,
+        "episodes_aired": 0,
+        "actors": [
+          "Томохиса Асо",
+          "Грег Эирс",
+          "Толизин Джаффе",
+          "Джэми МакГоннигал",
+          "Синтаро Оохата",
+          "Михо Саики",
+          "Эрик Вейл",
+          "Кристофер Сабат",
+          "Джастин Кук",
+          "Джерри Джуэлл"
+        ],
+        "directors": [
+          "Кристофер Бевинс",
+          "Хиро Хамасаки",
+          "Осаму Кобаяси"
+        ],
+        "producers": [
+          "Ацуси Морияма"
+        ],
+        "writers": [
+          "Джон Бургмейер",
+          "Толизин Джаффе",
+          "Майк МакФарланд",
+          "Спенсер Прокоп",
+          "Шон Тиг",
+          "Харолд Сакуйси"
+        ],
+        "operators": [
+          "Такахару Одзаки"
+        ]
+      }
+    },
+    {
+      "id": "serial-24309",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Башня Бога",
+      "title_orig": "Kami no Tou",
+      "other_title": "Tower of God",
+      "translation": {
+        "id": 923,
+        "title": "AnimeVost",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "1363114",
+      "imdb_id": "tt12057106",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10389",
+      "shikimori_id": "40221",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-01T21:21:10Z",
+      "updated_at": "2020-06-24T19:02:59Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/622847/a45114c5d0d84ba8191afe9b014c27c6/720p",
+            "2": "//aniqit.com/seria/626637/5621aae41ebd83a78028f146048e8c98/720p",
+            "3": "//aniqit.com/seria/630473/9ba7773f416147a4195d149c7a9f6138/720p",
+            "4": "//aniqit.com/seria/634550/6140d7eeaeee5a5f3f294f169489788c/720p",
+            "5": "//aniqit.com/seria/639049/918e8916f89222cef85df078d6ce40a8/720p",
+            "6": "//aniqit.com/seria/643402/ddad6aa56ec0e7c557f149a7b5f71863/720p",
+            "7": "//aniqit.com/seria/647057/4834be39def643b80f63bd62a1b3a09c/720p",
+            "8": "//aniqit.com/seria/651433/44dfbc4a4317075b24f43ba884f77f43/720p",
+            "9": "//aniqit.com/seria/657817/6a548fccbb87c4d3aa154fe25ec43729/720p",
+            "10": "//aniqit.com/seria/661945/9dd648406d48b5ef36386df95b23825c/720p",
+            "11": "//aniqit.com/seria/665687/3ae5caa18809c98a736122df3044f2e6/720p",
+            "12": "//aniqit.com/seria/670421/c2474438a24beb16da4aaafe5dae71eb/720p",
+            "13": "//aniqit.com/seria/674856/3cc54cf5d16bd70353bd492c6d638e48/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Башня Бога",
+        "title_en": "Kami no Tou",
+        "other_titles": [
+          "Sin-ui Tap"
+        ],
+        "other_titles_en": [
+          "Tower of God"
+        ],
+        "other_titles_jp": [
+          "神之塔 -Tower of God-"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2020,
+        "description": "Мальчик Баам большую часть жизни провел у загадочной Башни. За десять тысяч лет никому так и не удалось постичь тайны строения. По легенде, если добраться до ее вершины, можно исполнить любую мечту — и даже стать богом. Сделать это непросто: на этажах поджидают опасности и испытания, которые усложняются с каждым уровнем. Но Баама не слишком заботит награда. Мальчик поднимается на Башню, чтобы вернуть Рахиль — девушку, которая поднялась наверх, чтобы увидеть звезды.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1363114.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/982a1b571257a8678f8be5f24c640dd222884289.png",
+          "https://shikimori.one/system/screenshots/original/efefa2b97f639d6f374c21c931b54ad34fef615d.png"
+        ],
+        "duration": 25,
+        "countries": [
+          "Корея Южная",
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "приключения"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Драма",
+          "Приключения",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Telecom Animation Film"
+        ],
+        "kinopoisk_rating": 7.7,
+        "kinopoisk_votes": 2010,
+        "imdb_rating": 7.9,
+        "imdb_votes": 2989,
+        "shikimori_rating": 7.66,
+        "shikimori_votes": 19112,
+        "premiere_world": "2020-04-01",
+        "aired_at": "2020-04-02",
+        "released_at": "2020-06-25",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 13,
+        "episodes_aired": 13,
+        "actors": [
+          "Таити Итикава",
+          "Нобухико Окамото",
+          "Кэнта Миякэ",
+          "Саори Хаями",
+          "Хотю Оцука",
+          "Кадзуюки Окицу",
+          "Такуя Эгути",
+          "Тосинари Фукамати",
+          "Марико Хонда",
+          "Акира Сэкинэ"
+        ],
+        "directors": [
+          "Такаси Сано"
+        ],
+        "producers": [
+          "Джозеф Чоу",
+          "Kun Gao",
+          "Такэси Кавакита",
+          "JunKoo Kim",
+          "Нобухико Куросу",
+          "Масао Моросава",
+          "Макико Нагано",
+          "Saechan",
+          "Харуки Сатоми",
+          "Sae Whan Song"
+        ],
+        "writers": [
+          "СИУ"
+        ],
+        "composers": [
+          "Кевин Пенкин"
+        ],
+        "editors": [
+          "Кадзухиро Нии"
+        ],
+        "operators": [
+          "Тацуо Ногути"
+        ]
+      }
+    },
+    {
+      "id": "serial-20857",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Грабитель",
+      "title_orig": "Plunderer",
+      "other_title": "プランダラ",
+      "translation": {
+        "id": 643,
+        "title": "StudioBand",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 24,
+      "kinopoisk_id": "1334755",
+      "imdb_id": "tt11418324",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10041",
+      "shikimori_id": "37345",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-08T18:14:51Z",
+      "updated_at": "2020-06-24T17:45:09Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/553967/3a57aceb2de63cac4d9ee1e5f8faa821/720p",
+            "2": "//aniqit.com/seria/560209/2ca6fcefd7e0af70c2265b79677999da/720p",
+            "3": "//aniqit.com/seria/566603/49998435e37174cf4cb996204a3745b3/720p",
+            "4": "//aniqit.com/seria/572332/20187dac4823d118deb3aec04b7f7daa/720p",
+            "5": "//aniqit.com/seria/580394/a52cbef102ba400ebbdae89afffa0a11/720p",
+            "6": "//aniqit.com/seria/586642/31f14c80d351a253b03a79774f8485f0/720p",
+            "7": "//aniqit.com/seria/591716/44b3de9cd3be257a37ff66fc3d582b07/720p",
+            "8": "//aniqit.com/seria/597971/eaf7918638fdb70673a3d5a11fe0027b/720p",
+            "9": "//aniqit.com/seria/602504/67b56145d9139fcb6f6f7dab4e8e7b38/720p",
+            "10": "//aniqit.com/seria/606817/410ed96aed0f98f5f2fefb6279e394e6/720p",
+            "11": "//aniqit.com/seria/612112/602e4a72b7617059b314899c2b5dd57c/720p",
+            "12": "//aniqit.com/seria/622845/3691dd05fa00df66e4bdeafcf1dc2cea/720p",
+            "13": "//aniqit.com/seria/626678/20ee6c37664a3dd4bf70cef346414a91/720p",
+            "14": "//aniqit.com/seria/630474/ebbf226c73a3cfa1f82d16b6a109a862/720p",
+            "15": "//aniqit.com/seria/634585/d3040981c549d8143074cabc0510d504/720p",
+            "16": "//aniqit.com/seria/639095/289e0634054bff209ab14b4a7b01ce22/720p",
+            "17": "//aniqit.com/seria/643447/57bb7023f536c84e1b94e3571167e68b/720p",
+            "18": "//aniqit.com/seria/647071/e6738d2070f824ea0aa658ef64459cb5/720p",
+            "19": "//aniqit.com/seria/651467/d47bfbb22f766c3c030f3065f3dec2e8/720p",
+            "20": "//aniqit.com/seria/657818/9387204d91c425a09c76d63de811023b/720p",
+            "21": "//aniqit.com/seria/662072/f750229a46291e59bb4b27cd72fd29ff/720p",
+            "22": "//aniqit.com/seria/665565/b867888bd05e252f57ed6d0c91423034/720p",
+            "23": "//aniqit.com/seria/670310/63f34820771e79bf3f58c1e67125c2b1/720p",
+            "24": "//aniqit.com/seria/674823/0f73e714930a1c06057777d867580c7d/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Грабитель",
+        "title_en": "Plunderer",
+        "other_titles_en": [
+          "Plunderer"
+        ],
+        "other_titles_jp": [
+          "プランダラ"
+        ],
+        "anime_license_name": "Грабитель",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2020,
+        "description": "В постапокалиптическом мире будущего главными оказываются «числа», отпечатанные на теле каждого человека. Это «число» уникально для человека и означает количество чего-то в твоей жизни. Это может быть пройденное тобою расстояние или количество комплиментов, которые тебе скажут, или что угодно. «Число» может изменяться, стать больше или меньше, и человек может повлиять на это. Однако если «число» достигнет нуля, то человека затянет пучина.\r\nКак раз это произошло с матерью главной героини. Будучи наполовину затянутой в пучину, мать поручила Хине отыскать некого Красного Барона — легендарного героя прошлого. В своих поисках Хина, прежде живущая с матерью в горах, узнаёт больше о природе и законах «чисел», и встречает много новых хороших, плохих, а иногда просто странных людей, как например, Лихта Баха.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1334755.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/23a3fd7a2644847a8122bd883da32f9a46a9ee9c.jpg",
+          "https://shikimori.one/system/screenshots/original/665e5f560c11e42dad28d7eb4270194c2f3e9639.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Сёнен",
+          "Фэнтези",
+          "Экшен",
+          "Этти"
+        ],
+        "anime_studios": [
+          "GEEK TOYS"
+        ],
+        "kinopoisk_rating": 5.7,
+        "kinopoisk_votes": 844,
+        "imdb_rating": 6.3,
+        "imdb_votes": 584,
+        "shikimori_rating": 6.5,
+        "shikimori_votes": 5893,
+        "premiere_world": "2020-01-09",
+        "aired_at": "2020-01-09",
+        "released_at": "2020-06-25",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 24,
+        "episodes_aired": 24,
+        "actors": [
+          "Ёсики Накадзима",
+          "Рина Хоноидзуми",
+          "Аои Итикава",
+          "Сидзука Ито",
+          "Ари Одзава",
+          "Юитиро Умэхара",
+          "Тосихико Сэки",
+          "Аои Юки",
+          "Сатоси Хино",
+          "Хироки Тоути"
+        ],
+        "directors": [
+          "Хироюки Канбэ",
+          "Хироюки Окуно",
+          "Хироюки Цутия",
+          "Акира Като",
+          "Наоёси Кусака",
+          "Наоки Мацуура",
+          "Сюдзи Мияхара",
+          "Масахару Томода",
+          "Shôgo Hanagami",
+          "Kôichirô Kuroda"
+        ]
+      }
+    },
+    {
+      "id": "movie-57091",
+      "type": "anime",
+      "link": "",
+      "title": "Осколки времени",
+      "title_orig": "Fragtime",
+      "other_title": "フラグタイム",
+      "translation": {
+        "id": 651,
+        "title": "Люб. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1301877",
+      "imdb_id": "tt11343974",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10036",
+      "shikimori_id": "39545",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-06-24T17:41:49Z",
+      "updated_at": "2020-06-24T17:41:49Z",
+      "material_data": {
+        "title": "Осколки времени",
+        "title_en": "Fragtime",
+        "other_titles": [
+          "Flag Time",
+          "Flagtime",
+          "Frag Time"
+        ],
+        "other_titles_jp": [
+          "フラグタイム"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "У школьницы Мисудзу Моритани есть суперсила – она может остановить время на три минуты в день. Однажды Мисудзу использует свой талант, чтобы посмотреть на трусики Харуки Мураками, самой популярной девочки в школе, однако та внезапно оказывается невосприимчива к её силе.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1301877.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/fe5fcbad129d71d95f3ae391db40cab04f436788.jpg",
+          "https://shikimori.one/system/screenshots/original/2f16d48c306684ed2df84b48646c3d05fb2b4f22.jpg"
+        ],
+        "duration": 61,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мелодрама",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Повседневность",
+          "Романтика",
+          "Сёдзё-ай",
+          "Фантастика",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Tear Studio"
+        ],
+        "imdb_rating": 6,
+        "imdb_votes": 188,
+        "shikimori_rating": 6.53,
+        "shikimori_votes": 779,
+        "premiere_world": "2019-11-22",
+        "aired_at": "2019-11-22",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Мику Ито",
+          "Юмэ Миямото",
+          "Тика Андзаи"
+        ],
+        "directors": [
+          "Такуя Сато"
+        ],
+        "writers": [
+          "Такуя Сато"
+        ]
+      }
+    },
+    {
+      "id": "serial-26831",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Люби меня таким",
+      "title_orig": "Beni Böyle Sev",
+      "translation": {
+        "id": 1315,
+        "title": "Мобильное телевидение",
+        "type": "voice"
+      },
+      "year": 2013,
+      "last_season": 3,
+      "last_episode": 26,
+      "episodes_count": 89,
+      "kinopoisk_id": "793904",
+      "imdb_id": "tt2735500",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-06-14T15:48:38Z",
+      "updated_at": "2020-06-24T16:49:21Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/668894/61b95836b0be50ad2869c21bb60aac7d/720p",
+            "2": "//kodik.cc/seria/668895/3c6af8859e07db63692ea44d8a51cd9f/720p",
+            "3": "//kodik.cc/seria/668896/9eeb1cdd93b8f29defa5f751a0226f86/720p",
+            "4": "//kodik.cc/seria/668897/5fbc34574320323f8c858729c3b1c0b8/720p",
+            "5": "//kodik.cc/seria/668898/eaa4769ad17f5c7854c3dac2ec45856c/720p",
+            "6": "//kodik.cc/seria/668899/2ec2facc48170efc6346ec5687132657/720p",
+            "7": "//kodik.cc/seria/668900/f47e28cd642b6b698071e9d0ee4f04b2/720p",
+            "8": "//kodik.cc/seria/668901/9c0ed86d4fed40e45062d2385c2ea118/720p",
+            "9": "//kodik.cc/seria/668902/df1c6d53b10ac6484b3fa41b6399f245/720p",
+            "10": "//kodik.cc/seria/668903/b8e8081ba3dd516027979f8d32bab941/720p",
+            "11": "//kodik.cc/seria/668904/711cdfd2693064c69f9c15c0cf0abfec/720p",
+            "12": "//kodik.cc/seria/668905/9d2cc5b9a44bbfefc0b7d2413920a217/720p",
+            "13": "//kodik.cc/seria/668906/f9a3389d0b1f096249e0bbbebbc545e2/720p",
+            "14": "//kodik.cc/seria/668907/8e9460f1181cbb91cf55a02d745f1e38/720p",
+            "15": "//kodik.cc/seria/668908/8b230e4f570b13775e58386843cb577b/720p",
+            "16": "//kodik.cc/seria/668909/0f05b0c2f38f600d4f7429ffc0beb1f8/720p",
+            "17": "//kodik.cc/seria/668910/ddd6a085ac6a1017be4f151a101004ee/720p",
+            "18": "//kodik.cc/seria/668911/25a5b8ffb1997a76946a4e32453cac63/720p",
+            "19": "//kodik.cc/seria/668912/8aaa808e67e758c9358af13941278677/720p",
+            "20": "//kodik.cc/seria/668913/0779611ee5138def74b1b45055034441/720p",
+            "21": "//kodik.cc/seria/668914/a591ce4d538f992964f5ef11baacf3a4/720p",
+            "22": "//kodik.cc/seria/668915/d71d1d5b0838b0a298a1613c26ef1205/720p"
+          }
+        },
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/668882/8caf468fb551be17f8fe19e5d4383312/720p",
+            "2": "//kodik.cc/seria/668883/49f5a0c890839638dcad8e3aabf4996f/720p",
+            "3": "//kodik.cc/seria/668884/915b3da7f6dce9eabcb508c915fed3cf/720p",
+            "4": "//kodik.cc/seria/668885/907bb2e931b5fe9c932f0ae14b19e2c8/720p",
+            "5": "//kodik.cc/seria/668886/e08aec4fa62d58d05885971df52dd55f/720p",
+            "6": "//kodik.cc/seria/668887/9e105180478040a9c8f2d202e8e89932/720p",
+            "7": "//kodik.cc/seria/668888/a264a954dc905c77a0755f2cfc07d4f2/720p",
+            "8": "//kodik.cc/seria/668889/17d61060ceadf31111e0a68047ba2032/720p",
+            "9": "//kodik.cc/seria/668890/ee1e89dba95fecaf5b4b0aecbfd02717/720p",
+            "10": "//kodik.cc/seria/668891/05e2e81e5561fa105e046a8e643f1969/720p",
+            "11": "//kodik.cc/seria/668892/16e2637939fd58b1e8a00a2a30beb7f3/720p",
+            "12": "//kodik.cc/seria/668893/d1bd79dd8c658fcd1d888b0c38bbc67f/720p",
+            "13": "//kodik.cc/seria/669509/c36d35d5ee611250741bd19df11f1eae/720p",
+            "14": "//kodik.cc/seria/669510/10b6edf1afde2e3e48461046664006e0/720p",
+            "15": "//kodik.cc/seria/669511/a4e1cb4eafeb8f1c1731c5ca98a75674/720p",
+            "16": "//kodik.cc/seria/669512/738a42a28e08356670481c7c52e51fbe/720p",
+            "17": "//kodik.cc/seria/669513/a79ba489730e68589158e7a6d2925530/720p",
+            "18": "//kodik.cc/seria/669514/b80e6e4fe1ad7738004bd47e25438114/720p",
+            "19": "//kodik.cc/seria/669515/76d18ec152c926db173a46a493ff554c/720p",
+            "20": "//kodik.cc/seria/669516/6aa2f9cdfdf10984d4d3e138e764962e/720p",
+            "21": "//kodik.cc/seria/669517/ee8c36b6e9af92a5e944b3c08ae59e4e/720p",
+            "22": "//kodik.cc/seria/669518/a07f53596c0a7c1a4da4156394197b5b/720p",
+            "23": "//kodik.cc/seria/669519/1adbd3719c9b95f93b2ffc36ac748ba4/720p",
+            "24": "//kodik.cc/seria/669520/f8aba765c4519805aeb2431527e06ab0/720p",
+            "25": "//kodik.cc/seria/669521/5de9971bf3e4b49ef3341dc3cd09d553/720p",
+            "26": "//kodik.cc/seria/669522/f09946f96c31a052412a3c058115dc7d/720p",
+            "27": "//kodik.cc/seria/669523/b851f019a0942591498704260069e8fd/720p",
+            "28": "//kodik.cc/seria/669524/95fc4726f56de5a30eca99f32bd3b4b3/720p",
+            "29": "//kodik.cc/seria/669525/abd27f2d902017a7d62fa61585f168f8/720p",
+            "30": "//kodik.cc/seria/669526/390a17b68bf99cb93810b936e31b5e87/720p",
+            "31": "//kodik.cc/seria/669527/43cb9f9cbc2407a4b1298cda7b56850e/720p",
+            "32": "//kodik.cc/seria/669528/3943e2d47b4eaa1f035ef6dbb69fcba1/720p",
+            "33": "//kodik.cc/seria/669529/7c5772855a0818b265f4fe8864ceff52/720p",
+            "34": "//kodik.cc/seria/669530/a7750efce8962816999e9345fac22571/720p",
+            "35": "//kodik.cc/seria/674749/eacc16103712401ed1e4e23c88874a25/720p",
+            "36": "//kodik.cc/seria/674750/68e95c114f39511aec947126c032ebfb/720p",
+            "37": "//kodik.cc/seria/674751/c68a19f3157eec2a4354c62f710e76fa/720p",
+            "38": "//kodik.cc/seria/674752/4ef233b6678bbe65595b4f7b5c5de052/720p",
+            "39": "//kodik.cc/seria/674753/b88ad3efba491127c9d035a9072be7eb/720p",
+            "40": "//kodik.cc/seria/674754/e72903328563c4ffc4567034ee9e67a8/720p",
+            "41": "//kodik.cc/seria/674755/21be0af41a3f4684ec85bc58ed33f66c/720p"
+          }
+        },
+        "3": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/674724/0431878b3356cef7005dcf3f89f9119a/720p",
+            "2": "//kodik.cc/seria/674725/f02fb4ddc412f22ce1c0589d71cc7a4b/720p",
+            "3": "//kodik.cc/seria/674726/6f88ae5f988cd9d4dfc98e911333a6c6/720p",
+            "4": "//kodik.cc/seria/674727/1c7f2606e61da494ffc4f8c1d08d1b13/720p",
+            "5": "//kodik.cc/seria/674728/81e592ecaa989715c555abdb0f9251d0/720p",
+            "6": "//kodik.cc/seria/674729/40948e2ef7448bd650572d6a91b29eeb/720p",
+            "7": "//kodik.cc/seria/674730/459af2262f7b87fff6ef92a06464a391/720p",
+            "8": "//kodik.cc/seria/674731/bb248734a0770b552a9fa974413254c3/720p",
+            "9": "//kodik.cc/seria/674732/7a8a8d916f42dd4d6c531d8b7bd80302/720p",
+            "10": "//kodik.cc/seria/674733/5d568ed85eb60ba06749b675eb4071ad/720p",
+            "11": "//kodik.cc/seria/674734/12fe58ef084bc1749d5d1030e96cad89/720p",
+            "12": "//kodik.cc/seria/674735/8e0d0f72a60d596b808ec300523f5493/720p",
+            "13": "//kodik.cc/seria/674736/25e422ce97511a208c4665610f1581ef/720p",
+            "14": "//kodik.cc/seria/674737/e34db35e01dc0f839ed66a3094036c1c/720p",
+            "15": "//kodik.cc/seria/674738/9563397117591d32a87cf702b2887e21/720p",
+            "16": "//kodik.cc/seria/674739/d1e32f0ce0305bd77e2e7be94d298940/720p",
+            "17": "//kodik.cc/seria/674740/7d70179ce855fb17c0d4732d9fe7a6ce/720p",
+            "18": "//kodik.cc/seria/674741/1a28323d74b427535d55f12cf68e4743/720p",
+            "19": "//kodik.cc/seria/674742/daa9176e58a9b6e080ffbc392da45567/720p",
+            "20": "//kodik.cc/seria/674743/29df4e33abce6a88a25da9ff408f5fab/720p",
+            "21": "//kodik.cc/seria/674744/23f1c6355e93ec8248806d182d1c469b/720p",
+            "22": "//kodik.cc/seria/674745/c766f70a7e96f43e9d3d7ad7485417af/720p",
+            "23": "//kodik.cc/seria/674746/0454b25dec6c95df21c69632694b6853/720p",
+            "24": "//kodik.cc/seria/674747/3bf17b15a9e83b8300cd09e23537b132/720p",
+            "25": "//kodik.cc/seria/674748/50bb3fc848e17cdd06c798e25c2e603e/720p",
+            "26": "//kodik.cc/seria/674820/970910bd9c87b3ed70cacf8e8f77cae8/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Люби меня таким",
+        "title_en": "Beni Böyle Sev",
+        "year": 2013,
+        "description": "История о начале семейной жизни молодой турецкой пары Айшем и Омера. Бойкая девушка из провинции влюбляется в богатого однокурсника, но после свадьбы их испытания только начинаются…",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/793904.jpg",
+        "duration": 100,
+        "countries": [
+          "Турция"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 7.1,
+        "imdb_votes": 579,
+        "premiere_world": "2013-02-11",
+        "actors": [
+          "Зейнеп Чамджи",
+          "Фатих Коюноглу",
+          "Зафер Алгёз",
+          "Аслы Бекироглу",
+          "Озан Османпашаоглу",
+          "Айсен Батигюн",
+          "Туран Джихан Шимшек",
+          "Turhan Cihan Simsek",
+          "Мурат Акдаг",
+          "Доган Акдоган"
+        ],
+        "directors": [
+          "Левент Тюркан",
+          "Cem Tabak"
+        ],
+        "producers": [
+          "Basak Bingüller",
+          "Çagri Bingüller"
+        ],
+        "writers": [
+          "Deniz Büyükkirli",
+          "Хакан Хаксун",
+          "Муйдан Кайсерли",
+          "Mert Mericli",
+          "Gokhan Seker"
+        ],
+        "editors": [
+          "Эмре Дэйр"
+        ],
+        "designers": [
+          "Orkide Batir"
+        ],
+        "operators": [
+          "Emin Cakir"
+        ]
+      }
+    },
+    {
+      "id": "serial-24313",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Башня Бога",
+      "title_orig": "Kami no Tou",
+      "other_title": "Tower of God",
+      "translation": {
+        "id": 910,
+        "title": "AniStar",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "1363114",
+      "imdb_id": "tt12057106",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10389",
+      "shikimori_id": "40221",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-01T22:31:52Z",
+      "updated_at": "2020-06-24T16:07:57Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/622860/65d66b42afcbc595c1dfa3a255b04852/720p",
+            "2": "//aniqit.com/seria/626604/cdcbe6119f835429820df72b5d5644f0/720p",
+            "3": "//aniqit.com/seria/630383/390f179dddd6e0abbee697debb6ea84e/720p",
+            "4": "//aniqit.com/seria/634548/73065d631bd06d9d18ed295cdd780750/720p",
+            "5": "//aniqit.com/seria/639053/b4817e875a258ecc48d6ad7456f63c78/720p",
+            "6": "//aniqit.com/seria/643407/421b2533457992e5450a78b757e3e35e/720p",
+            "7": "//aniqit.com/seria/647058/47d8cbb415114a67156cecb742ea135c/720p",
+            "8": "//aniqit.com/seria/651434/c62b0dd6efadb5d69eeabec7ee32c891/720p",
+            "9": "//aniqit.com/seria/657803/3c4e66976820d8a6f4e1b5e9c364c16a/720p",
+            "10": "//aniqit.com/seria/661892/7a2ba5e75bf803e2e42ad79d6ca73796/720p",
+            "11": "//aniqit.com/seria/665533/3100db3645a57c20dce2afe7ea2bf8dd/720p",
+            "12": "//aniqit.com/seria/670290/6ec190dc4750e222cd258b9de0c9193c/720p",
+            "13": "//aniqit.com/seria/674723/42b9a46ac02899c339f852d0b35a372f/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Башня Бога",
+        "title_en": "Kami no Tou",
+        "other_titles": [
+          "Sin-ui Tap"
+        ],
+        "other_titles_en": [
+          "Tower of God"
+        ],
+        "other_titles_jp": [
+          "神之塔 -Tower of God-"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2020,
+        "description": "Мальчик Баам большую часть жизни провел у загадочной Башни. За десять тысяч лет никому так и не удалось постичь тайны строения. По легенде, если добраться до ее вершины, можно исполнить любую мечту — и даже стать богом. Сделать это непросто: на этажах поджидают опасности и испытания, которые усложняются с каждым уровнем. Но Баама не слишком заботит награда. Мальчик поднимается на Башню, чтобы вернуть Рахиль — девушку, которая поднялась наверх, чтобы увидеть звезды.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1363114.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/982a1b571257a8678f8be5f24c640dd222884289.png",
+          "https://shikimori.one/system/screenshots/original/efefa2b97f639d6f374c21c931b54ad34fef615d.png"
+        ],
+        "duration": 25,
+        "countries": [
+          "Корея Южная",
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "приключения"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Драма",
+          "Приключения",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Telecom Animation Film"
+        ],
+        "kinopoisk_rating": 7.7,
+        "kinopoisk_votes": 2010,
+        "imdb_rating": 7.9,
+        "imdb_votes": 2989,
+        "shikimori_rating": 7.66,
+        "shikimori_votes": 19112,
+        "premiere_world": "2020-04-01",
+        "aired_at": "2020-04-02",
+        "released_at": "2020-06-25",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 13,
+        "episodes_aired": 13,
+        "actors": [
+          "Таити Итикава",
+          "Нобухико Окамото",
+          "Кэнта Миякэ",
+          "Саори Хаями",
+          "Хотю Оцука",
+          "Кадзуюки Окицу",
+          "Такуя Эгути",
+          "Тосинари Фукамати",
+          "Марико Хонда",
+          "Акира Сэкинэ"
+        ],
+        "directors": [
+          "Такаси Сано"
+        ],
+        "producers": [
+          "Джозеф Чоу",
+          "Kun Gao",
+          "Такэси Кавакита",
+          "JunKoo Kim",
+          "Нобухико Куросу",
+          "Масао Моросава",
+          "Макико Нагано",
+          "Saechan",
+          "Харуки Сатоми",
+          "Sae Whan Song"
+        ],
+        "writers": [
+          "СИУ"
+        ],
+        "composers": [
+          "Кевин Пенкин"
+        ],
+        "editors": [
+          "Кадзухиро Нии"
+        ],
+        "operators": [
+          "Тацуо Ногути"
+        ]
+      }
+    },
+    {
       "id": "serial-24466",
       "type": "anime-serial",
       "link": "",
@@ -8628,1474 +9978,6 @@
         "operators": [
           "Рёсукэ Цуда"
         ]
-      }
-    },
-    {
-      "id": "serial-27035",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Усио и Тора [ТВ-1]",
-      "title_orig": "Ushio to Tora",
-      "other_title": "Ushio & Tora",
-      "translation": {
-        "id": 739,
-        "title": "Animedia",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 1,
-      "last_episode": 26,
-      "episodes_count": 26,
-      "kinopoisk_id": "917919",
-      "imdb_id": "tt4801510",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8219",
-      "shikimori_id": "29854",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-21T10:25:45Z",
-      "updated_at": "2020-06-21T10:25:45Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/672719/3922578407b77d6e578bfe0858503eff/720p",
-            "2": "//aniqit.com/seria/672720/d5d3870a3ddbae2910c9f264e98fcb38/720p",
-            "3": "//aniqit.com/seria/672721/d3e7cf868276c72e938889a38ee87be6/720p",
-            "4": "//aniqit.com/seria/672722/ff34e3449a779f3d1207684a465b6a2b/720p",
-            "5": "//aniqit.com/seria/672723/23b0f163dd0ce59aecad182d6895bab1/720p",
-            "6": "//aniqit.com/seria/672724/a79762ecebbb1109e229316495c36ebf/720p",
-            "7": "//aniqit.com/seria/672725/301048ded60488052463e02033f0bf58/720p",
-            "8": "//aniqit.com/seria/672726/6b1fec1184b83e41da4436d3e15039f5/720p",
-            "9": "//aniqit.com/seria/672727/219eff949bbce5730bbfca04269444a7/720p",
-            "10": "//aniqit.com/seria/672728/6708067ff4597f41dd5a38b47e554896/720p",
-            "11": "//aniqit.com/seria/672729/e2bf78c13c89a2a33037e800809f2c19/720p",
-            "12": "//aniqit.com/seria/672730/1e8839fcbca6119ece9855805989a1ab/720p",
-            "13": "//aniqit.com/seria/672731/8ccdf8b3142c77374e2e7096f13832f2/720p",
-            "14": "//aniqit.com/seria/672732/ec6c6636750e2182f7c80718c6232490/720p",
-            "15": "//aniqit.com/seria/672733/6b9503902a1e82b579290dd0eca2ac97/720p",
-            "16": "//aniqit.com/seria/672734/01a47e9107dceab519b7b2b6257154da/720p",
-            "17": "//aniqit.com/seria/672735/8139e383c874d1899dad987c55233d44/720p",
-            "18": "//aniqit.com/seria/672736/35c06f3af51589d7a5bfc78eef74ab00/720p",
-            "19": "//aniqit.com/seria/672737/42bf69efe359ea426b3cd8ac140d9d11/720p",
-            "20": "//aniqit.com/seria/672738/eeef4228b528a4868cf1aa19b4479c26/720p",
-            "21": "//aniqit.com/seria/672739/4a79175c506506bee7da131f44facb0d/720p",
-            "22": "//aniqit.com/seria/672740/2d5f000176ba606e885fb1b4622badc2/720p",
-            "23": "//aniqit.com/seria/672741/08c596ac9e86b572c4e91deffdc5fe1b/720p",
-            "24": "//aniqit.com/seria/672742/e8f7a21ca7b4c480f71e4cb9b8fbca22/720p",
-            "25": "//aniqit.com/seria/672743/702fdd3d33a8eab37aefb48b016e3e6b/720p",
-            "26": "//aniqit.com/seria/672744/dbad736ecff7840d38de24e4c79fcd0c/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Усио и Тора",
-        "title_en": "Ushio & Tora",
-        "other_titles": [
-          "Ushio & Tora"
-        ],
-        "other_titles_en": [
-          "Ushio and Tora"
-        ],
-        "other_titles_jp": [
-          "うしおととら"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2015,
-        "description": "Усио считает чушью рассказы своего отца о древнем предке, пригвоздившем демона к алтарю храма легендарным Звериным Копьем, но найдя монстра в собственном подвале, ему приходится по-новому взглянуть на семейную легенду! Чтобы спасти своих друзей и семью от внезапного вторжения духов, Усио вынужден выпустить Тору из плена. Но не обернётся ли это ещё большей бедой?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/917919.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/be12f7d3ef119c2ad3b0d7cf1b939f3151716276.jpg",
-          "https://shikimori.one/system/screenshots/original/0628a3ba80ec1a7f9332313c75a263d3b32b75b7.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Демоны",
-          "Комедия",
-          "Приключения",
-          "Сверхъестественное",
-          "Сёнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "MAPPA",
-          "Studio VOLN"
-        ],
-        "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 831,
-        "imdb_rating": 7.8,
-        "imdb_votes": 683,
-        "shikimori_rating": 7.6,
-        "shikimori_votes": 7651,
-        "premiere_world": "2015-07-03",
-        "aired_at": "2015-07-03",
-        "released_at": "2015-12-25",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 26,
-        "episodes_aired": 26,
-        "actors": [
-          "Грег Эирс",
-          "Тиффани Грант",
-          "Джон Гремиллион",
-          "Тасуку Хатанака",
-          "Кайл Джонс",
-          "Бриттни Карбовски",
-          "Эндрю Лав",
-          "Дэвид Матранга",
-          "Майк Вэнс",
-          "Кира Венсан-Дави"
-        ],
-        "directors": [
-          "Сатоси Нисимура"
-        ],
-        "producers": [
-          "Джон Лэдфорд",
-          "Масао Маруяма",
-          "Кэйдзи Мита"
-        ],
-        "writers": [
-          "Kazuhiro Fujita",
-          "Тосики Иноэ"
-        ],
-        "composers": [
-          "Эиси Сэгава"
-        ],
-        "editors": [
-          "Юми Дзингудзи"
-        ],
-        "designers": [
-          "Томоюки Симидзу"
-        ],
-        "operators": [
-          "Юя Кумадзава"
-        ]
-      }
-    },
-    {
-      "id": "serial-27034",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Призрак в доспехах: Синдром одиночки 2045",
-      "title_orig": "Koukaku Kidoutai SAC_2045",
-      "other_title": "Призрак в Доспехах: Синдром Одиночки_2045 Koukaku Kidoutai: SAC_2045",
-      "translation": {
-        "id": 1154,
-        "title": "micola777",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1226367",
-      "imdb_id": "tt9466298",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9908",
-      "shikimori_id": "38799",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-21T10:12:07Z",
-      "updated_at": "2020-06-21T10:12:07Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/672707/ef3bfccc8568ec1b88ed36b8c2a8a853/720p",
-            "2": "//aniqit.com/seria/672708/b00fceec3fec9cc7ccdc4c2d09f55c3f/720p",
-            "3": "//aniqit.com/seria/672709/7df8fe4afb07dfc12a3faf569399771d/720p",
-            "4": "//aniqit.com/seria/672710/2bc92aa647fd4d0a4f7ffb0892bb391e/720p",
-            "5": "//aniqit.com/seria/672711/88988e15fbf2ddd58d9c5fb450979127/720p",
-            "6": "//aniqit.com/seria/672712/87c635351fb9e9236718d16216815e6d/720p",
-            "7": "//aniqit.com/seria/672713/3b1df203a9d4ac91a05c077ceee88e79/720p",
-            "8": "//aniqit.com/seria/672714/b539e854e32ca4db1e0996a6776410b7/720p",
-            "9": "//aniqit.com/seria/672715/7888e8594d9a4de1f61c85a41c7752fe/720p",
-            "10": "//aniqit.com/seria/672716/dec71f518a7812d6b1bb51d7c17885d9/720p",
-            "11": "//aniqit.com/seria/672717/ed84cfb1fe1f97c9933a48a4a147561d/720p",
-            "12": "//aniqit.com/seria/672718/1859acf1d4833cdcfda29be0d5d7ea98/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Призрак в доспехах: Синдром одиночки 2045",
-        "title_en": "Ghost in the Shell: SAC_2045",
-        "other_titles": [
-          "Ghost in the Shell: Stand Alone Complex 2045",
-          "Ghost in the Shell: SAC_2045"
-        ],
-        "other_titles_jp": [
-          "攻殻機動隊 SAC_2045"
-        ],
-        "anime_license_name": "Призрак в доспехах: SAC_2045",
-        "anime_kind": "ona",
-        "anime_status": "released",
-        "year": 2020,
-        "description": "2045 год. После масштабного экономического краха, известного как Синхронизированный глобальный дефолт, началось быстрое развитие искусственного интеллекта, и теперь человечество находится в состоянии так называемой Устойчивой войны.\n\rБывшие члены 9-го отдела стали наёмниками и колесят по выжженному войной и солнцем западному побережью США, когда сталкиваются с невиданной доселе угрозой - постчеловеком, существом, по всем параметрам значительно превосходящим киборгов.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1226367.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/4c4738f486666431857575c035199bd168b3f785.jpg",
-          "https://shikimori.one/system/screenshots/original/70ed81c8ccedc5c1ff62eebc44ee0410962d832c.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Военное",
-          "Меха",
-          "Полиция",
-          "Сейнен",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Production I.G",
-          "Sola Digital Arts"
-        ],
-        "kinopoisk_rating": 6.2,
-        "kinopoisk_votes": 577,
-        "imdb_rating": 6.3,
-        "imdb_votes": 1515,
-        "shikimori_rating": 6.69,
-        "shikimori_votes": 780,
-        "premiere_world": "2020-04-23",
-        "aired_at": "2020-04-23",
-        "rating_mpaa": "R",
-        "episodes_total": 12,
-        "episodes_aired": 0,
-        "actors": [
-          "Ацуко Танака",
-          "Осаму Сака",
-          "Акио Оцука",
-          "Таро Ямагути",
-          "Мэгуми Хан",
-          "Ютака Накано",
-          "Кайдзи Содзэ",
-          "Сигэо Кияма",
-          "Такаси Онодзука",
-          "Тору Окава"
-        ],
-        "directors": [
-          "Синдзи Арамаки",
-          "Кэндзи Камияма"
-        ],
-        "writers": [
-          "Масамунэ Сиро",
-          "Кэндзи Камияма"
-        ],
-        "composers": [
-          "Кадзума Дзинноти",
-          "Иронэ Тода"
-        ],
-        "editors": [
-          "Го Садамацу"
-        ],
-        "designers": [
-          "Илья Кувшинов",
-          "Дайсукэ Мацуда"
-        ]
-      }
-    },
-    {
-      "id": "serial-24429",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Власть книжного червя [ТВ-2]",
-      "title_orig": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2020)",
-      "other_title": "Власть книжного червя: Чтобы стать библиотекарем, все средства хороши / Власть книжного червя 2 / Ascendance of a Bookworm (2020)",
-      "translation": {
-        "id": 923,
-        "title": "AnimeVost",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 2,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1297259",
-      "imdb_id": "tt10885406",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10309",
-      "shikimori_id": "40815",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-05T08:19:46Z",
-      "updated_at": "2020-06-21T08:28:44Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/624585/3f35c2b19370984cd5aa9844c72e04d7/720p",
-            "2": "//aniqit.com/seria/628434/ffef6489ccc4f38f9210f59741d21776/720p",
-            "3": "//aniqit.com/seria/632222/19972e54ca17b15cd6d0ef956286b6c4/720p",
-            "4": "//aniqit.com/seria/636486/303872b5805206580ca9a6ad1f5766f2/720p",
-            "5": "//aniqit.com/seria/640554/86ba0a2bc60dcc31606a821a720be644/720p",
-            "6": "//aniqit.com/seria/645336/45545a84d086007b62640be4777a733e/720p",
-            "7": "//aniqit.com/seria/648672/861f765d674525e5c95d43d66c4c8a0e/720p",
-            "8": "//aniqit.com/seria/654078/ec1805f686757fae3df5c003b8394675/720p",
-            "9": "//aniqit.com/seria/660459/ff4a5c6083eb60a6edb6f95374dde781/720p",
-            "10": "//aniqit.com/seria/663585/5fdc1af6727ce3558dc14376c1c9aebd/720p",
-            "11": "//aniqit.com/seria/668066/c07c0d839f4911ab7b87228e2eb98882/720p",
-            "12": "//aniqit.com/seria/672698/4ae45f44f96e20c18fd954773a632802/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Власть книжного червя",
-        "title_en": "Honzuki no Gekokujou",
-        "other_titles": [
-          "Власть книжного червя: Чтобы стать библиотекарем, все средства хороши 2",
-          "Революция книжного червя: Чтобы стать библиотекарем, все средства хороши 2",
-          "Восхождение книжного червя 2",
-          "Ascendance of a Bookworm 2nd Season"
-        ],
-        "other_titles_en": [
-          "Ascendance of a Bookworm Part 2"
-        ],
-        "other_titles_jp": [
-          "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 第2期"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2019,
-        "description": "После завершения церемонии крещения Майн начинает работать в храме в качестве служительницы церкви. То, что ожидает её внутри — это то, о чём она всегда мечтала: комната, полная книг! Но её новая жизнь не совсем та, на которую она надеялась; Майн окружена дворянами, которые презирают её простолюдинское происхождение, и даже её собственные последователи причиняют ей неприятности. Кроме того, ей приходится постоянно бороться со слабостью и болезненностью собственного тела. Но с любовью к книгам, пылающей в её сердце, она полностью отдаётся своим новым ученическим обязанностям.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1297259.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/75a2bf6a8d32005e678cf26e383f8aa89ce265f0.jpg",
-          "https://shikimori.one/system/screenshots/original/72db0fe5a6169c32c4dfa8d34c92d7206eb6fe3c.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Повседневность",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Ajia-Do"
-        ],
-        "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 581,
-        "imdb_rating": 7.9,
-        "imdb_votes": 428,
-        "shikimori_rating": 8.16,
-        "shikimori_votes": 5068,
-        "premiere_world": "2019-10-02",
-        "aired_at": "2020-04-05",
-        "released_at": "2020-06-21",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Юка Игути",
-          "Сё Хаями",
-          "Мэгуми Накадзима",
-          "Фумико Орикаса",
-          "Такэси Кояма",
-          "Муцуми Тамура",
-          "Такэхито Коясу",
-          "Сатоси Хино",
-          "Томоаки Маэно",
-          "Ая Утида"
-        ],
-        "directors": [
-          "Хонго Мицуру"
-        ],
-        "writers": [
-          "Марико Кунисава"
-        ],
-        "composers": [
-          "Митиру"
-        ]
-      }
-    },
-    {
-      "id": "serial-23665",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Любовь инженеров",
-      "title_orig": "En of Love",
-      "other_title": "Любовь инженеров: Тоссара / Тоssara / Love Mechanics / This is Love Story",
-      "translation": {
-        "id": 961,
-        "title": "KiraiMedia",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 11,
-      "episodes_count": 11,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-03-15T11:42:55Z",
-      "updated_at": "2020-06-21T07:58:43Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/608542/79eefad865806bf3dd41d787d08ea55e/720p",
-            "2": "//kodik.cc/seria/619790/222f57f882a152e575cc58b208d812b7/720p",
-            "3": "//kodik.cc/seria/620568/a1ee2e011678d80a4855084b69d2f900/720p",
-            "4": "//kodik.cc/seria/624752/aa9759f887d9dca149aeecbbe0d3b129/720p",
-            "5": "//kodik.cc/seria/628676/a3a93426d8b49c21ca73859ab90370e1/720p",
-            "6": "//kodik.cc/seria/632484/501c52aed142db2369a6c2f5216fe005/720p",
-            "7": "//kodik.cc/seria/636562/96f4baa3d1e087239f77ab4bb60decdf/720p",
-            "8": "//kodik.cc/seria/641896/4b27a6fa9091299f5056d2fb02d4a2d5/720p",
-            "9": "//kodik.cc/seria/663614/92544ada532130d82fcadc6639f4801d/720p",
-            "10": "//kodik.cc/seria/668110/4b32f64eeba742215fcff71fa140a4da/720p",
-            "11": "//kodik.cc/seria/672696/bd742e8f0e2ae7d230d4b730c4a1bfcb/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-27032",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Галактический ангел [ТВ-2]",
-      "title_orig": "Galaxy Angel Z",
-      "other_title": "Галактический ангел Зет / Галактический ангел Z / ギャラクシーエンジェルZ",
-      "translation": {
-        "id": 1334,
-        "title": "Dajana",
-        "type": "voice"
-      },
-      "year": 2002,
-      "last_season": 2,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "kinopoisk_id": "408653",
-      "imdb_id": "tt0833572",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=189",
-      "shikimori_id": "652",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-21T07:49:49Z",
-      "updated_at": "2020-06-21T07:49:49Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/672684/7414da344c82a009b611ace61dd499b2/720p",
-            "2": "//aniqit.com/seria/672685/9bdc36ea5c8797f8c8881b7a99517e08/720p",
-            "3": "//aniqit.com/seria/672686/e2ef5437be1f50a6d43c4d771fc99fb2/720p",
-            "4": "//aniqit.com/seria/672687/21ccef808a473f4c704c5a741b647001/720p",
-            "5": "//aniqit.com/seria/672688/f84bdb58b3e0622365a587f0272d8f8b/720p",
-            "6": "//aniqit.com/seria/672689/1d8bc93814123a3eb774479b389cc0cd/720p",
-            "7": "//aniqit.com/seria/672690/52ed39e5a9e5f79f19f1635441a8d9c5/720p",
-            "8": "//aniqit.com/seria/672691/bc6d660c0f2f9a5312eed44b9f1ce249/720p",
-            "9": "//aniqit.com/seria/672692/b36a809580a97403cbc4309cc676a989/720p",
-            "10": "//aniqit.com/seria/672693/848e44c265a1538aa012de0e01b11edd/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Галактический ангел",
-        "title_en": "Galaxy Angel",
-        "other_titles": [
-          "Galaxy Angel 2"
-        ],
-        "other_titles_jp": [
-          "ギャラクシーエンジェルＺ"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2000,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/408653.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/60b8a124f6eaa6ca1d566e85dcd01cecb1a7e571.jpg",
-          "https://shikimori.one/system/screenshots/original/f06b98573ca1c525ed6cc0511211edf00289f48d.jpg"
-        ],
-        "duration": 12,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фантастика"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Фантастика"
-        ],
-        "anime_studios": [
-          "Madhouse"
-        ],
-        "imdb_rating": 7.2,
-        "imdb_votes": 97,
-        "shikimori_rating": 7.18,
-        "shikimori_votes": 116,
-        "premiere_world": "2001-04-07",
-        "aired_at": "2002-02-03",
-        "released_at": "2002-03-31",
-        "rating_mpaa": "PG",
-        "episodes_total": 9,
-        "episodes_aired": 0,
-        "actors": [
-          "Николь Боума",
-          "Анна Каммер",
-          "Николь Леруа",
-          "Жослин Ловен",
-          "Элисон Мэтьюз",
-          "Ричард Иэн Кокс",
-          "Майкл Копса",
-          "Рёко Синтани",
-          "Мика Канаи",
-          "Миюки Савасиро"
-        ],
-        "producers": [
-          "Масао Маруяма",
-          "Тацуя Оно",
-          "Тэцуро Сатоми"
-        ],
-        "writers": [
-          "Акинори Эндо",
-          "Тосики Иноэ",
-          "Кэнъити Канэмаки",
-          "Ясуко Кобаяси",
-          "Ёсиюки Суга",
-          "Коити Таки"
-        ],
-        "composers": [
-          "Хикару Нанасэ"
-        ],
-        "editors": [
-          "Сатоси Тэраути"
-        ],
-        "operators": [
-          "Хитоси Ямагути"
-        ]
-      }
-    },
-    {
-      "id": "serial-27031",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Галактический ангел [ТВ-1]",
-      "title_orig": "Galaxy Angel",
-      "other_title": "ギャラクシーエンジェル",
-      "translation": {
-        "id": 1334,
-        "title": "Dajana",
-        "type": "voice"
-      },
-      "year": 2001,
-      "last_season": 1,
-      "last_episode": 24,
-      "episodes_count": 26,
-      "kinopoisk_id": "408653",
-      "imdb_id": "tt0833572",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=188",
-      "shikimori_id": "383",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-21T07:47:29Z",
-      "updated_at": "2020-06-21T07:47:29Z",
-      "seasons": {
-        "0": {
-          "title": "Спешлы",
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/672658/b3d4dcff771c62f5ccc90aee228ba116/720p",
-            "2": "//aniqit.com/seria/672659/b19326d686bfd47c1975f950c228754f/720p"
-          }
-        },
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/672660/b3d4dcff771c62f5ccc90aee228ba116/720p",
-            "2": "//aniqit.com/seria/672661/b19326d686bfd47c1975f950c228754f/720p",
-            "3": "//aniqit.com/seria/672662/b8f147b91eb40f0a57a680a27e03634a/720p",
-            "4": "//aniqit.com/seria/672663/52ae45f155ff2998412ce94d6a52a080/720p",
-            "5": "//aniqit.com/seria/672664/4bf25755e907056e6d11e20d4e8c1ee4/720p",
-            "6": "//aniqit.com/seria/672665/d73d84f962e860707fac7e23cbac3270/720p",
-            "7": "//aniqit.com/seria/672666/a0c3e16deef029e081ede0e50fe3a9b5/720p",
-            "8": "//aniqit.com/seria/672667/cab9e6a164d70147735c18eea726fb1c/720p",
-            "9": "//aniqit.com/seria/672668/23da585f22f1707be447ecd93af80f61/720p",
-            "10": "//aniqit.com/seria/672669/0c7a9f55bd8f3be6bb51b632518c7f92/720p",
-            "11": "//aniqit.com/seria/672670/30165cb22b3be7f7ff3ac68c21912c18/720p",
-            "12": "//aniqit.com/seria/672671/06f96e85ede76646e844e6f4f314feef/720p",
-            "13": "//aniqit.com/seria/672672/9b4d52d3bc2ef235adbd6bbdb380b3ec/720p",
-            "14": "//aniqit.com/seria/672673/eff090fdd5c8fc0d3a362a90f784173e/720p",
-            "15": "//aniqit.com/seria/672674/ba71ddf32c1c5f836c6174d2e0cea40b/720p",
-            "16": "//aniqit.com/seria/672675/eba4aface90d7c0cb101bc924ef6eea9/720p",
-            "17": "//aniqit.com/seria/672676/0257fb5ead72ecc0734b261eb52d6575/720p",
-            "18": "//aniqit.com/seria/672677/8d47f8f14a36346ea8d5e1cc44d38726/720p",
-            "19": "//aniqit.com/seria/672678/bc54878f9bbf6068358e17026b60c969/720p",
-            "20": "//aniqit.com/seria/672679/d0c9a1fd07cf6b703f9b512bfb85754c/720p",
-            "21": "//aniqit.com/seria/672680/5899d50f91206bd46455e76fd186b27e/720p",
-            "22": "//aniqit.com/seria/672681/e44b0a065c57f27e86a0a853773b5f42/720p",
-            "23": "//aniqit.com/seria/672682/11e6cb0a73a20829f828d0268a1a71a5/720p",
-            "24": "//aniqit.com/seria/672683/fbe70a0dbdc9c95665caff440305ffd4/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Галактический ангел",
-        "title_en": "Galaxy Angel",
-        "other_titles_jp": [
-          "ギャラクシーエンジェル"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2000,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/408653.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/c4ec726b14cc4087a6a97704e57ad25fb29c6c52.jpg",
-          "https://shikimori.one/system/screenshots/original/4bad48136b0a4b36ac4d473baedbd9ad0cfab86f.jpg"
-        ],
-        "duration": 12,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фантастика"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Фантастика"
-        ],
-        "anime_studios": [
-          "Madhouse"
-        ],
-        "imdb_rating": 7.2,
-        "imdb_votes": 97,
-        "shikimori_rating": 7.03,
-        "shikimori_votes": 177,
-        "premiere_world": "2001-04-07",
-        "aired_at": "2001-04-08",
-        "released_at": "2001-09-30",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 24,
-        "episodes_aired": 0,
-        "actors": [
-          "Николь Боума",
-          "Анна Каммер",
-          "Николь Леруа",
-          "Жослин Ловен",
-          "Элисон Мэтьюз",
-          "Ричард Иэн Кокс",
-          "Майкл Копса",
-          "Рёко Синтани",
-          "Мика Канаи",
-          "Миюки Савасиро"
-        ],
-        "producers": [
-          "Масао Маруяма",
-          "Тацуя Оно",
-          "Тэцуро Сатоми"
-        ],
-        "writers": [
-          "Акинори Эндо",
-          "Тосики Иноэ",
-          "Кэнъити Канэмаки",
-          "Ясуко Кобаяси",
-          "Ёсиюки Суга",
-          "Коити Таки"
-        ],
-        "composers": [
-          "Хикару Нанасэ"
-        ],
-        "editors": [
-          "Сатоси Тэраути"
-        ],
-        "operators": [
-          "Хитоси Ямагути"
-        ]
-      }
-    },
-    {
-      "id": "serial-27030",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Карточные бои Авангарда G: Будущее",
-      "title_orig": "Cardfight!! Vanguard G Next",
-      "other_title": "カードファイト!!ヴァンガードG Next",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2016,
-      "last_season": 8,
-      "last_episode": 52,
-      "episodes_count": 52,
-      "kinopoisk_id": "802253",
-      "imdb_id": "tt2549176",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8950",
-      "shikimori_id": "34077",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-21T06:53:32Z",
-      "updated_at": "2020-06-21T06:53:32Z",
-      "seasons": {
-        "8": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/672605/c0d20b787fbfd233ac22aa16352c8331/720p",
-            "2": "//aniqit.com/seria/672606/58d4c723b28891b581d3bb47d8b7961e/720p",
-            "3": "//aniqit.com/seria/672607/341b14fefc23063ee599a0eca2b8bb6a/720p",
-            "4": "//aniqit.com/seria/672608/aba34200225077d64cc78a3f6d4a8cbf/720p",
-            "5": "//aniqit.com/seria/672609/2e5156a2b7cf4cd6ad8bb337a92b03e7/720p",
-            "6": "//aniqit.com/seria/672610/4dc216057e6f6a8cb1a147296c43dde1/720p",
-            "7": "//aniqit.com/seria/672611/71e36de61efa6e142277bd5644cb6b62/720p",
-            "8": "//aniqit.com/seria/672612/12bffbfaacb53af563e18ef6b52f0285/720p",
-            "9": "//aniqit.com/seria/672613/673db7e8eeb4d27e33cc0bee56b12ab0/720p",
-            "10": "//aniqit.com/seria/672614/fba3e1e48e7d45e781a367592e736fba/720p",
-            "11": "//aniqit.com/seria/672615/6894fe488c28cb9069c0046fd1123b46/720p",
-            "12": "//aniqit.com/seria/672616/43dc4f2bbc19597952151b17c51d4f4f/720p",
-            "13": "//aniqit.com/seria/672617/5952addebd45fc73803a0b3fe5f6853e/720p",
-            "14": "//aniqit.com/seria/672618/d0b44ecf0e2c6435f40e347465c36904/720p",
-            "15": "//aniqit.com/seria/672619/d61e642128d8c6b997d575127504657b/720p",
-            "16": "//aniqit.com/seria/672620/5b5aab2f3f4b75394ccd96fc9c830e77/720p",
-            "17": "//aniqit.com/seria/672621/875ff3a06b8a81e481583607d3c7fdab/720p",
-            "18": "//aniqit.com/seria/672622/829cc19836fb9ec9a2f96c971b50c9dd/720p",
-            "19": "//aniqit.com/seria/672623/587bfcc72ef9179a7e567afa946f071e/720p",
-            "20": "//aniqit.com/seria/672624/904e7545e469348ca4cf141cb1b1b917/720p",
-            "21": "//aniqit.com/seria/672625/9d336ee29dbf53b5cd8d84a9ca86c284/720p",
-            "22": "//aniqit.com/seria/672626/e95c2c20bfb615236a7f6fcef0c6c0c2/720p",
-            "23": "//aniqit.com/seria/672627/3ad00106dd34b7f8658ebffb87e06e97/720p",
-            "24": "//aniqit.com/seria/672628/4e976343b12af9e2eaa9dfd9f20feaeb/720p",
-            "25": "//aniqit.com/seria/672629/32a294a0ac598ec81c3a225f281444e9/720p",
-            "26": "//aniqit.com/seria/672630/f5d382ed995b32a0fa0a56b798fd5b65/720p",
-            "27": "//aniqit.com/seria/672631/0f651f026326aafd0ab9d5cd75455318/720p",
-            "28": "//aniqit.com/seria/672632/d623f345c59b4ea73d555c65715132ef/720p",
-            "29": "//aniqit.com/seria/672633/5a2cf9f93e65e2cb07a192d4e1967866/720p",
-            "30": "//aniqit.com/seria/672634/5ae215bd71e51370104c0c319d2fa47c/720p",
-            "31": "//aniqit.com/seria/672635/b9d37ec761aea62364edb442633a0f28/720p",
-            "32": "//aniqit.com/seria/672636/34d7c28ed5d6845805ef37972341004d/720p",
-            "33": "//aniqit.com/seria/672637/e7402ff25b3669e785795142b0d88c64/720p",
-            "34": "//aniqit.com/seria/672638/f15fafbda3fb817db7d43366f4343474/720p",
-            "35": "//aniqit.com/seria/672639/aa55005e37ae3fad9a2420557f85bdff/720p",
-            "36": "//aniqit.com/seria/672640/9391b080f8e3d9d2534cf52407285b87/720p",
-            "37": "//aniqit.com/seria/672641/695a14c949be73664143c2117ff34cc9/720p",
-            "38": "//aniqit.com/seria/672642/c8c66007418b15ce495921a1296c6a72/720p",
-            "39": "//aniqit.com/seria/672643/bd455698a1c76742a005b2b0079c62c6/720p",
-            "40": "//aniqit.com/seria/672644/f00a475fce5a8793b8eb8c0f58825e8b/720p",
-            "41": "//aniqit.com/seria/672645/f8ddd96c95663584539a83cfd2c7bb86/720p",
-            "42": "//aniqit.com/seria/672646/a9e4fa7d719672954332651fbcd68890/720p",
-            "43": "//aniqit.com/seria/672647/e2258f5ed8450360b4635a0295959cd1/720p",
-            "44": "//aniqit.com/seria/672648/b4f21390284537d00961e8d739ed5b6f/720p",
-            "45": "//aniqit.com/seria/672649/5d736983f456295da5f697f9c31b6354/720p",
-            "46": "//aniqit.com/seria/672650/674937dcdf99c982ea399ab7280cefb1/720p",
-            "47": "//aniqit.com/seria/672651/17a01b04e236d93be65145495ab2a403/720p",
-            "48": "//aniqit.com/seria/672652/0632ab3000a714cebdfe847a09b85590/720p",
-            "49": "//aniqit.com/seria/672653/66a1ca0608838c1374bd5a71919dea5d/720p",
-            "50": "//aniqit.com/seria/672654/621fd41c7d1728951cea56162329fca6/720p",
-            "51": "//aniqit.com/seria/672655/13634787fb8f003733fda091de50e0a7/720p",
-            "52": "//aniqit.com/seria/672656/f9b780fdb86d79f5d8b90c63f1e6e682/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Карточные бои «Авангарда»",
-        "title_en": "Cardfight!! Vanguard",
-        "other_titles_en": [
-          "Cardfight!! Vanguard G NEXT"
-        ],
-        "other_titles_jp": [
-          "CARDFIGHT!! ヴァンガードG NEXT"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2011,
-        "tagline": "Based on Card Game of the same name",
-        "description": "Вся прогрессивная молодежь Японии болеет новой карточной игрой «Авангард»! Фанаты увлеченно собирают колоды, отчаянно ищут редкие карты и оттачивают мастерство где угодно: в школе, дома, в парке на скамейке, чтобы достойно выступить среди серьезных игроков на официальных турнирах. Десятиклассник Тосики Кай обыграл всех в районе, его имя известно в клубах и кафе, но сам от этого не очень-то счастлив. По восточным канонам, для движения вперед нужен вызов, необходим соперник, которого должна послать судьба. Почивание на лаврах означает застой, противный духу истинного бойца. Тосики все понимает, но где же тот, кто снова зажжет в его душе пламя борьбы? Ждать осталось недолго!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/802253.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/0cce2f32405dea82c69452c71fc128eb5611176b.jpg",
-          "https://shikimori.one/system/screenshots/original/4dabb9153947fec40847458d0e2437af48ee5407.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Игры",
-          "Сёнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "OLM"
-        ],
-        "imdb_rating": 7.2,
-        "imdb_votes": 91,
-        "shikimori_rating": 6.6,
-        "shikimori_votes": 144,
-        "premiere_world": "2011-01-08",
-        "aired_at": "2016-10-02",
-        "released_at": "2017-10-01",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 52,
-        "episodes_aired": 30,
-        "actors": [
-          "Мелисса Дорси",
-          "Тим Хамагучи",
-          "Джеймс Бич",
-          "Ryan Luhning",
-          "Natasha Strickey",
-          "Кайтлинн Медрек",
-          "Nancy Situ",
-          "Nathan Hunt",
-          "Rylan Nilsson",
-          "Гриффин Корк"
-        ],
-        "directors": [
-          "Хацуки Цудзи"
-        ],
-        "producers": [
-          "Shôzô Abe",
-          "Такэхико Аоки",
-          "Диана Гейдж",
-          "Рёта Като",
-          "Тадахито Мацумото",
-          "Ken Morrison",
-          "Shigeto Nihei",
-          "Rob Petley-Jones",
-          "Хаято Сага",
-          "Сигэру Саито"
-        ],
-        "writers": [
-          "Kyle Bottom",
-          "Юки Энацу",
-          "Akira Itô",
-          "Такааки Кидани",
-          "Курасуми Сунаяма",
-          "Тацухико Урахата",
-          "Kenichi Yamada",
-          "Томоясу Окубо"
-        ],
-        "composers": [
-          "Такаюки Нэгиси"
-        ],
-        "editors": [
-          "Яёи Отакэ"
-        ],
-        "designers": [
-          "Minako Akashi"
-        ],
-        "operators": [
-          "Хитоси Сирао",
-          "Yuko Kamahara"
-        ]
-      }
-    },
-    {
-      "id": "serial-27029",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Карточные бои Авангарда G: Врата Страйда",
-      "title_orig": "Cardfight!! Vanguard G: Stride Gate Hen",
-      "other_title": "Cardfight!! ヴァンガードG ストライドゲート編",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2016,
-      "last_season": 7,
-      "last_episode": 24,
-      "episodes_count": 24,
-      "kinopoisk_id": "802253",
-      "imdb_id": "tt2549176",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8709",
-      "shikimori_id": "32802",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-21T06:45:01Z",
-      "updated_at": "2020-06-21T06:45:01Z",
-      "seasons": {
-        "7": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/672581/f25a061f37e43db3a1466992471d8912/720p",
-            "2": "//aniqit.com/seria/672582/f05525ba79f4a7214782346dadb1202e/720p",
-            "3": "//aniqit.com/seria/672583/7d8522df5ff88789a83ac93c98624351/720p",
-            "4": "//aniqit.com/seria/672584/e700646df589d8bf5563295fdbccff6f/720p",
-            "5": "//aniqit.com/seria/672585/1723da5e5b314c16d7b5d8c51035b926/720p",
-            "6": "//aniqit.com/seria/672586/668f06627e684c34b688dc2b0250d737/720p",
-            "7": "//aniqit.com/seria/672587/75d0c143f7fa6d788008999607cd9461/720p",
-            "8": "//aniqit.com/seria/672588/5c6585137e6134af660ab8e5b0240304/720p",
-            "9": "//aniqit.com/seria/672589/8ae120d835c77373d3f38464bcf92be8/720p",
-            "10": "//aniqit.com/seria/672590/69e7713e7c07814430b67d2f8aaf2d6f/720p",
-            "11": "//aniqit.com/seria/672591/f2a3d94b022f147819178d8107b4b02e/720p",
-            "12": "//aniqit.com/seria/672592/81dcead1949e0f2ce70ac1e33d4f6b90/720p",
-            "13": "//aniqit.com/seria/672593/0aa2aeb150eca88273c07d1fc8746e33/720p",
-            "14": "//aniqit.com/seria/672594/4b77520b066fbc735b7ab26159513ae7/720p",
-            "15": "//aniqit.com/seria/672595/721a8723ae2239fa4a91b95af9595a3c/720p",
-            "16": "//aniqit.com/seria/672596/e7209c1bb6ad3613de199e1866ed3f4a/720p",
-            "17": "//aniqit.com/seria/672597/200a546c9b14c28b0a704a2d1291b7ab/720p",
-            "18": "//aniqit.com/seria/672598/1952bbeced7fdc5d5ceed013fba5cfcc/720p",
-            "19": "//aniqit.com/seria/672599/d6e4fc9d5b2f6dce7867a164a7fb5489/720p",
-            "20": "//aniqit.com/seria/672600/c5b003b2f0608e04c1794c87ab331f0a/720p",
-            "21": "//aniqit.com/seria/672601/c2ffbdff82a6339b06d75e91849a6780/720p",
-            "22": "//aniqit.com/seria/672602/621a5dcf65da5edf4585ce08ac219c9c/720p",
-            "23": "//aniqit.com/seria/672603/1b4e2c93b3a1031e176e9f7255f0f2a9/720p",
-            "24": "//aniqit.com/seria/672604/90e6e64d70f3e56814db5d03d16e0e96/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Карточные бои «Авангарда»",
-        "title_en": "Cardfight!! Vanguard",
-        "other_titles_en": [
-          "Cardfight!! Vanguard G Stride Gate"
-        ],
-        "other_titles_jp": [
-          "カードファイト!! ヴァンガードG ストライドゲート編"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2011,
-        "tagline": "Based on Card Game of the same name",
-        "description": "Вся прогрессивная молодежь Японии болеет новой карточной игрой «Авангард»! Фанаты увлеченно собирают колоды, отчаянно ищут редкие карты и оттачивают мастерство где угодно: в школе, дома, в парке на скамейке, чтобы достойно выступить среди серьезных игроков на официальных турнирах. Десятиклассник Тосики Кай обыграл всех в районе, его имя известно в клубах и кафе, но сам от этого не очень-то счастлив. По восточным канонам, для движения вперед нужен вызов, необходим соперник, которого должна послать судьба. Почивание на лаврах означает застой, противный духу истинного бойца. Тосики все понимает, но где же тот, кто снова зажжет в его душе пламя борьбы? Ждать осталось недолго!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/802253.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/e5362d28afdfebfb54421dbebbcdc6a72dffd134.jpg",
-          "https://shikimori.one/system/screenshots/original/347ed33e89d89b80a83076a57d610c3b12887682.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Игры",
-          "Сёнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "TMS Entertainment"
-        ],
-        "imdb_rating": 7.2,
-        "imdb_votes": 91,
-        "shikimori_rating": 6.69,
-        "shikimori_votes": 148,
-        "premiere_world": "2011-01-08",
-        "aired_at": "2016-04-17",
-        "released_at": "2016-09-25",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 24,
-        "episodes_aired": 2,
-        "actors": [
-          "Мелисса Дорси",
-          "Тим Хамагучи",
-          "Джеймс Бич",
-          "Ryan Luhning",
-          "Natasha Strickey",
-          "Кайтлинн Медрек",
-          "Nancy Situ",
-          "Nathan Hunt",
-          "Rylan Nilsson",
-          "Гриффин Корк"
-        ],
-        "directors": [
-          "Хацуки Цудзи"
-        ],
-        "producers": [
-          "Shôzô Abe",
-          "Такэхико Аоки",
-          "Диана Гейдж",
-          "Рёта Като",
-          "Тадахито Мацумото",
-          "Ken Morrison",
-          "Shigeto Nihei",
-          "Rob Petley-Jones",
-          "Хаято Сага",
-          "Сигэру Саито"
-        ],
-        "writers": [
-          "Kyle Bottom",
-          "Юки Энацу",
-          "Akira Itô",
-          "Такааки Кидани",
-          "Курасуми Сунаяма",
-          "Тацухико Урахата",
-          "Kenichi Yamada",
-          "Томоясу Окубо"
-        ],
-        "composers": [
-          "Такаюки Нэгиси"
-        ],
-        "editors": [
-          "Яёи Отакэ"
-        ],
-        "designers": [
-          "Minako Akashi"
-        ],
-        "operators": [
-          "Хитоси Сирао",
-          "Yuko Kamahara"
-        ]
-      }
-    },
-    {
-      "id": "serial-27028",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Карточные бои Авангарда G: Приборный кризис",
-      "title_orig": "Cardfight!! Vanguard G: Girs Crisis Hen",
-      "other_title": "Cardfight!! ヴァンガードG ギアーズクライシス編",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2015,
-      "last_season": 6,
-      "last_episode": 26,
-      "episodes_count": 26,
-      "kinopoisk_id": "802253",
-      "imdb_id": "tt2549176",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8434",
-      "shikimori_id": "31196",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-21T06:35:18Z",
-      "updated_at": "2020-06-21T06:35:18Z",
-      "seasons": {
-        "6": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/672555/e92e98752fcc9cd2ed7c27b016f13561/720p",
-            "2": "//aniqit.com/seria/672556/c18b19ebbacc93438cc5b4a63b84ae12/720p",
-            "3": "//aniqit.com/seria/672557/31f7764b9b1fa45cdf2bdc68764b8973/720p",
-            "4": "//aniqit.com/seria/672558/6e6de8fadbb7a1485511a59d0f38acac/720p",
-            "5": "//aniqit.com/seria/672559/015d308a681f611f7e7c3ce716168be1/720p",
-            "6": "//aniqit.com/seria/672560/dc266ad32e923a43aa1e446dd962088c/720p",
-            "7": "//aniqit.com/seria/672561/a82a7948b488f25d23e843d4f6bd2cdf/720p",
-            "8": "//aniqit.com/seria/672562/19fbb11f3419a899e91d828b3e90a1e2/720p",
-            "9": "//aniqit.com/seria/672563/708431f3b1f3f52de8100e3fbf4dadcd/720p",
-            "10": "//aniqit.com/seria/672564/bb1786fd1a04803f402e5fab90359929/720p",
-            "11": "//aniqit.com/seria/672565/7e09b724db775bf4ac26ec5117f80af0/720p",
-            "12": "//aniqit.com/seria/672566/7344032e6fcf48b8df2f7020bbf6c660/720p",
-            "13": "//aniqit.com/seria/672567/6be3460943055b9fe7382fdb692a89c0/720p",
-            "14": "//aniqit.com/seria/672568/713549541ad7162920c980bc7f921b21/720p",
-            "15": "//aniqit.com/seria/672569/01293f9fa6396f42a6e64ea39077be49/720p",
-            "16": "//aniqit.com/seria/672570/09a70537a88761fe8b37721fb3befac6/720p",
-            "17": "//aniqit.com/seria/672571/03eee9626a946f914abd57891396c64d/720p",
-            "18": "//aniqit.com/seria/672572/e57c83b8b3ab9d36d8bd7c9739460432/720p",
-            "19": "//aniqit.com/seria/672573/ad18a8df59cb8ddafb88fe177b679995/720p",
-            "20": "//aniqit.com/seria/672574/26201f51a1286e06c351941d0294b23a/720p",
-            "21": "//aniqit.com/seria/672575/f05c476de5c4b103214f5d823c11669a/720p",
-            "22": "//aniqit.com/seria/672576/a1614fc70b6149e59836c374c26a1855/720p",
-            "23": "//aniqit.com/seria/672577/92910d6067e7a023bd5aa929256a4690/720p",
-            "24": "//aniqit.com/seria/672578/355cc30608445ace4ce927d5dbf21e5d/720p",
-            "25": "//aniqit.com/seria/672579/1a244495f7d62dbeef25391f1ddbf0be/720p",
-            "26": "//aniqit.com/seria/672580/fe780f94d6510b889aff1ed864d45294/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Карточные бои «Авангарда»",
-        "title_en": "Cardfight!! Vanguard",
-        "other_titles_en": [
-          "Cardfight!! Vanguard G GIRS Crisis"
-        ],
-        "other_titles_jp": [
-          "カードファイト!! ヴァンガードG　ギアースクライシス編"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2011,
-        "tagline": "Based on Card Game of the same name",
-        "description": "Вся прогрессивная молодежь Японии болеет новой карточной игрой «Авангард»! Фанаты увлеченно собирают колоды, отчаянно ищут редкие карты и оттачивают мастерство где угодно: в школе, дома, в парке на скамейке, чтобы достойно выступить среди серьезных игроков на официальных турнирах. Десятиклассник Тосики Кай обыграл всех в районе, его имя известно в клубах и кафе, но сам от этого не очень-то счастлив. По восточным канонам, для движения вперед нужен вызов, необходим соперник, которого должна послать судьба. Почивание на лаврах означает застой, противный духу истинного бойца. Тосики все понимает, но где же тот, кто снова зажжет в его душе пламя борьбы? Ждать осталось недолго!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/802253.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/d54acd03e39e9ee1d3f75147b3282e14ea059e1b.jpg",
-          "https://shikimori.one/system/screenshots/original/3c985a88b5434adeef360cb4e7f56f5265dc2ed9.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Игры",
-          "Сёнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "TMS Entertainment"
-        ],
-        "imdb_rating": 7.2,
-        "imdb_votes": 91,
-        "shikimori_rating": 6.69,
-        "shikimori_votes": 182,
-        "premiere_world": "2011-01-08",
-        "aired_at": "2015-10-11",
-        "released_at": "2016-04-10",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 26,
-        "episodes_aired": 26,
-        "actors": [
-          "Мелисса Дорси",
-          "Тим Хамагучи",
-          "Джеймс Бич",
-          "Ryan Luhning",
-          "Natasha Strickey",
-          "Кайтлинн Медрек",
-          "Nancy Situ",
-          "Nathan Hunt",
-          "Rylan Nilsson",
-          "Гриффин Корк"
-        ],
-        "directors": [
-          "Хацуки Цудзи"
-        ],
-        "producers": [
-          "Shôzô Abe",
-          "Такэхико Аоки",
-          "Диана Гейдж",
-          "Рёта Като",
-          "Тадахито Мацумото",
-          "Ken Morrison",
-          "Shigeto Nihei",
-          "Rob Petley-Jones",
-          "Хаято Сага",
-          "Сигэру Саито"
-        ],
-        "writers": [
-          "Kyle Bottom",
-          "Юки Энацу",
-          "Akira Itô",
-          "Такааки Кидани",
-          "Курасуми Сунаяма",
-          "Тацухико Урахата",
-          "Kenichi Yamada",
-          "Томоясу Окубо"
-        ],
-        "composers": [
-          "Такаюки Нэгиси"
-        ],
-        "editors": [
-          "Яёи Отакэ"
-        ],
-        "designers": [
-          "Minako Akashi"
-        ],
-        "operators": [
-          "Хитоси Сирао",
-          "Yuko Kamahara"
-        ]
-      }
-    },
-    {
-      "id": "serial-27027",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Карточные бои Авангарда G",
-      "title_orig": "Cardfight!! Vanguard G",
-      "other_title": "カードファイト!! ヴァンガードG / Cardfight!! ヴァンガードG",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2014,
-      "last_season": 5,
-      "last_episode": 48,
-      "episodes_count": 48,
-      "kinopoisk_id": "802253",
-      "imdb_id": "tt2549176",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5105",
-      "shikimori_id": "27815",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-21T06:31:40Z",
-      "updated_at": "2020-06-21T06:31:40Z",
-      "seasons": {
-        "5": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/672507/eca97c5c34b3fabdc343233a09a9d4c3/720p",
-            "2": "//aniqit.com/seria/672508/adb84a7bcc78b12c6415adbab64439bf/720p",
-            "3": "//aniqit.com/seria/672509/dec0234102832566049034e41ab59796/720p",
-            "4": "//aniqit.com/seria/672510/e8a1a0a9d4c71cbbed6e64e45d38f39c/720p",
-            "5": "//aniqit.com/seria/672511/1f80f15e34fd4932325617389f515f75/720p",
-            "6": "//aniqit.com/seria/672512/a27ad1111418838bce3189dcd2f17c18/720p",
-            "7": "//aniqit.com/seria/672513/4e9cf0c55d106f22d34b58d26bad4d30/720p",
-            "8": "//aniqit.com/seria/672514/ca932d44854eca9cdc9100af4a1d8d80/720p",
-            "9": "//aniqit.com/seria/672515/c57c5d90e48cc6b820b0cecff289b7b2/720p",
-            "10": "//aniqit.com/seria/672516/725b74846b65c6f168ca465ac3bb6761/720p",
-            "11": "//aniqit.com/seria/672517/a6482e15f3659dab967112e7360e9a58/720p",
-            "12": "//aniqit.com/seria/672518/4657e393521d5612f4f7d3b26fc0f2f9/720p",
-            "13": "//aniqit.com/seria/672519/d5fb98bbc218e876c37f86e5b4234c86/720p",
-            "14": "//aniqit.com/seria/672520/58b717bbe86f12c8cdc2cc60861c7bf8/720p",
-            "15": "//aniqit.com/seria/672521/4acbd35b730558d48fc41285b87ca0d2/720p",
-            "16": "//aniqit.com/seria/672522/0a85f000a40bcb39046e611270c09eb2/720p",
-            "17": "//aniqit.com/seria/672523/41cc50e6097d2adc211504f370ec4ddc/720p",
-            "18": "//aniqit.com/seria/672524/c9fbd2f1890d19faaebd71a3f58085f3/720p",
-            "19": "//aniqit.com/seria/672525/0bb562457069caf5e3f701df04ae8ce9/720p",
-            "20": "//aniqit.com/seria/672526/b995cb719da54b096de72d7f61101fcb/720p",
-            "21": "//aniqit.com/seria/672527/7f60f512f3435fdcd94c9b7b3292164a/720p",
-            "22": "//aniqit.com/seria/672528/e7a726d97bf2d8e5def17e1d52da2320/720p",
-            "23": "//aniqit.com/seria/672529/b614ec35003833a1b5e3210d7563b9e2/720p",
-            "24": "//aniqit.com/seria/672530/961fc3b0393bc9dcd2053660d0aa6fc4/720p",
-            "25": "//aniqit.com/seria/672531/a16016bcf0f4955763037ad3d421b58e/720p",
-            "26": "//aniqit.com/seria/672532/5adffd5d0b7d77abff86ab1e090e7f14/720p",
-            "27": "//aniqit.com/seria/672533/b1eac511c7f600f331ebee0f3f52258f/720p",
-            "28": "//aniqit.com/seria/672534/5c05b05157de3d89c0056ad788f8e1ad/720p",
-            "29": "//aniqit.com/seria/672535/409c76071e6289bc1e9d23ca382f9c3a/720p",
-            "30": "//aniqit.com/seria/672536/25ddb9819db7a238b7645f94abada0fe/720p",
-            "31": "//aniqit.com/seria/672537/a842a3a7c77f36590c6d50017abf459f/720p",
-            "32": "//aniqit.com/seria/672538/814c21b1832f239026f76dfbace26091/720p",
-            "33": "//aniqit.com/seria/672539/37ab2ec09949f34f145e881fa761add0/720p",
-            "34": "//aniqit.com/seria/672540/368320f03f7f373759d322bbed534b1b/720p",
-            "35": "//aniqit.com/seria/672541/82aab481941edd4ac3c0b17e766c40e3/720p",
-            "36": "//aniqit.com/seria/672542/424eb40463dfb45c9a6496c98680889b/720p",
-            "37": "//aniqit.com/seria/672543/e5b912c30f0c3e4ee3f983f54584d715/720p",
-            "38": "//aniqit.com/seria/672544/bcd92819d16f463ea3aa0ba83bd208a7/720p",
-            "39": "//aniqit.com/seria/672545/01782641e12bf6a215a54da3bf79fd94/720p",
-            "40": "//aniqit.com/seria/672546/8d88cfcb078076544a0c755e71856a9c/720p",
-            "41": "//aniqit.com/seria/672547/6822f3ce9089a28d44c1f38aaebaf60e/720p",
-            "42": "//aniqit.com/seria/672548/ce9cc313d4aa813c9437825fa562d05e/720p",
-            "43": "//aniqit.com/seria/672549/8cf28a2bb0d6df0943cb631e2b4bfdd2/720p",
-            "44": "//aniqit.com/seria/672550/f7b70012e51d2a813d6a71ebcb317d15/720p",
-            "45": "//aniqit.com/seria/672551/6b00a47d4024532371b4531fce756dda/720p",
-            "46": "//aniqit.com/seria/672552/5bbc3b4fdf38f653e536bfbf3cb018ae/720p",
-            "47": "//aniqit.com/seria/672553/42d468c285e107187278cd8a4542559f/720p",
-            "48": "//aniqit.com/seria/672554/c75661bc1b781f9c6bc73a0dae79dd05/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Карточные бои «Авангарда»",
-        "title_en": "Cardfight!! Vanguard",
-        "other_titles_en": [
-          "Cardfight!! Vanguard G"
-        ],
-        "other_titles_jp": [
-          "カードファイト!! ヴァンガードG"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2011,
-        "tagline": "Based on Card Game of the same name",
-        "description": "Вся прогрессивная молодежь Японии болеет новой карточной игрой «Авангард»! Фанаты увлеченно собирают колоды, отчаянно ищут редкие карты и оттачивают мастерство где угодно: в школе, дома, в парке на скамейке, чтобы достойно выступить среди серьезных игроков на официальных турнирах. Десятиклассник Тосики Кай обыграл всех в районе, его имя известно в клубах и кафе, но сам от этого не очень-то счастлив. По восточным канонам, для движения вперед нужен вызов, необходим соперник, которого должна послать судьба. Почивание на лаврах означает застой, противный духу истинного бойца. Тосики все понимает, но где же тот, кто снова зажжет в его душе пламя борьбы? Ждать осталось недолго!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/802253.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/2c9901af0273a8af24d5a73a45c8351d462cc2b6.jpg",
-          "https://shikimori.one/system/screenshots/original/40fb74b083c20dfc909f91feb71a8c4e65c09d63.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Игры",
-          "Сёнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "TMS Entertainment"
-        ],
-        "imdb_rating": 7.2,
-        "imdb_votes": 91,
-        "shikimori_rating": 6.53,
-        "shikimori_votes": 0,
-        "premiere_world": "2011-01-08",
-        "aired_at": "2014-10-26",
-        "released_at": "2015-10-04",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 48,
-        "episodes_aired": 48,
-        "actors": [
-          "Мелисса Дорси",
-          "Тим Хамагучи",
-          "Джеймс Бич",
-          "Ryan Luhning",
-          "Natasha Strickey",
-          "Кайтлинн Медрек",
-          "Nancy Situ",
-          "Nathan Hunt",
-          "Rylan Nilsson",
-          "Гриффин Корк"
-        ],
-        "directors": [
-          "Хацуки Цудзи"
-        ],
-        "producers": [
-          "Shôzô Abe",
-          "Такэхико Аоки",
-          "Диана Гейдж",
-          "Рёта Като",
-          "Тадахито Мацумото",
-          "Ken Morrison",
-          "Shigeto Nihei",
-          "Rob Petley-Jones",
-          "Хаято Сага",
-          "Сигэру Саито"
-        ],
-        "writers": [
-          "Kyle Bottom",
-          "Юки Энацу",
-          "Akira Itô",
-          "Такааки Кидани",
-          "Курасуми Сунаяма",
-          "Тацухико Урахата",
-          "Kenichi Yamada",
-          "Томоясу Окубо"
-        ],
-        "composers": [
-          "Такаюки Нэгиси"
-        ],
-        "editors": [
-          "Яёи Отакэ"
-        ],
-        "designers": [
-          "Minako Akashi"
-        ],
-        "operators": [
-          "Хитоси Сирао",
-          "Yuko Kamahara"
-        ]
-      }
-    },
-    {
-      "id": "serial-5233",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Акварион [ТВ-3]",
-      "title_orig": "Aquarion Logos",
-      "other_title": "Акварион: Логос / Акварион Логос",
-      "translation": {
-        "id": 923,
-        "title": "AnimeVost",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 3,
-      "last_episode": 26,
-      "episodes_count": 26,
-      "imdb_id": "tt5258698",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8304",
-      "shikimori_id": "30382",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-10-28T23:17:10Z",
-      "updated_at": "2020-06-21T02:47:40Z",
-      "seasons": {
-        "3": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/139852/1b302276d40e7d699363942eebe1ff68/720p",
-            "2": "//aniqit.com/seria/139853/66bee82fcee07e7da6538f2d57637b69/720p",
-            "3": "//aniqit.com/seria/139854/707e3e2099f4b347485d07a1d9bfbb87/720p",
-            "4": "//aniqit.com/seria/139855/e63bc772af16b02a5cf50d2d08ffb578/720p",
-            "5": "//aniqit.com/seria/139856/b17b1d867f035a68e9c750c2e0eae4b8/720p",
-            "6": "//aniqit.com/seria/139857/e33543c528f08d59179c315d40818bfa/720p",
-            "7": "//aniqit.com/seria/139858/b8d33278ca2d86cfbad2d238f91727c8/720p",
-            "8": "//aniqit.com/seria/139859/cfcad75363494e37631836e456142275/720p",
-            "9": "//aniqit.com/seria/139860/eccebb213c01946ee20ba11b99b80368/720p",
-            "10": "//aniqit.com/seria/139861/2a30c09ecd29c6538cfe863899646730/720p",
-            "11": "//aniqit.com/seria/139862/3d1d869944ac25aa8b8f5a2a7d9810fa/720p",
-            "12": "//aniqit.com/seria/139863/48a1dac616f6bfa20737bc4cffcbacb5/720p",
-            "13": "//aniqit.com/seria/139864/6471b7100a4ee98685a7e3756c94c015/720p",
-            "14": "//aniqit.com/seria/672490/ed4ea5a3053ceecb829134ba3a6687c0/720p",
-            "15": "//aniqit.com/seria/672491/87a8c556d9b2d59eb7acfaf296248ebf/720p",
-            "16": "//aniqit.com/seria/672492/48d20f1d46e0fe1f4236222d0e40f09c/720p",
-            "17": "//aniqit.com/seria/672493/46ea06315827da25599fd30dbdc21808/720p",
-            "18": "//aniqit.com/seria/672494/a76754b3286bbf620a3c2317675b7e91/720p",
-            "19": "//aniqit.com/seria/672495/8806a7e5f4d6c5197815c764b3325af7/720p",
-            "20": "//aniqit.com/seria/672496/364d6c942b4c42caaf8acc75fc9c2fe2/720p",
-            "21": "//aniqit.com/seria/672497/a715458161fb623b7eaad88e26f51d36/720p",
-            "22": "//aniqit.com/seria/672498/5878def7ef42b97946df9d7892d819c4/720p",
-            "23": "//aniqit.com/seria/672499/8472a28fe6917f0074a4a0e1496154c8/720p",
-            "24": "//aniqit.com/seria/672500/02da77ef7c1e09cf1cde73e9c5e0bbbc/720p",
-            "25": "//aniqit.com/seria/672501/91ef71e9d57230083fdb7bf43bb5ebea/720p",
-            "26": "//aniqit.com/seria/672502/3e6c85ffde9745b9dc587ab1bff5bf66/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Акварион: Логос",
-        "title_en": "Aquarion Logos",
-        "other_titles_jp": [
-          "アクエリオンロゴス"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "description": "Однажды, давным-давно, человеческие голоса определили истинный характер всех вещей, тем не менее изобретение текста изменило статус-кво, создав «Мир Логоса» между голосом и истиной. Тысячелетия прошли с тех пор. Достижения цивилизаций сделали Мир Логоса слишком большим, чтобы управлять «текстами». По этой причине группа молодых людей посвящает себя борьбе с хаотичными «текстами» при помощи «силы создавать связь». Среди этих юных борцов — и наш главный герой — самоуверенный, но отважный юноша по имени Акира Кайбуки , живущий в Асагаи.",
-        "poster_url": "https://shikimori.one/system/animes/original/30382.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/09067093f8f7860515ba70388fe50399f27cb517.jpg",
-          "https://shikimori.one/system/screenshots/original/c308350290e10ad3f6a9c05c47e9d1cf41a9d2c0.jpg"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Комедия",
-          "Меха",
-          "Романтика",
-          "Фантастика",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Satelight"
-        ],
-        "shikimori_rating": 5.74,
-        "shikimori_votes": 409,
-        "aired_at": "2015-07-03",
-        "released_at": "2015-12-25",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 26,
-        "episodes_aired": 26
       }
     }
   ]

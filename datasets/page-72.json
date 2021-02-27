@@ -1,6 +1,947 @@
 {
   "results": [
     {
+      "id": "movie-58908",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Снеговик-почтовик",
+      "title_orig": "Snegovik-pochtovik",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1956,
+      "kinopoisk_id": "431162",
+      "imdb_id": "tt1794958",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-14T07:19:45Z",
+      "updated_at": "2020-08-14T07:19:45Z",
+      "material_data": {
+        "title": "Снеговик-почтовик",
+        "title_en": "",
+        "year": 1955,
+        "description": "О снеговике, который отправился к деду Морозу с письмом от детей с просьбой прислать им ёлку к Новому году.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/431162.jpg",
+        "duration": 20,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 8,
+        "kinopoisk_votes": 27627,
+        "imdb_rating": 7.5,
+        "imdb_votes": 196,
+        "premiere_world": "1956-01-06",
+        "minimal_age": 6,
+        "actors": [
+          "Юрий Хржановский",
+          "Георгий Вицин",
+          "Александр Щагин",
+          "Юлия Юльская",
+          "Алексей Грибов",
+          "Ростислав Плятт",
+          "Мария Виноградова",
+          "Лариса Бухарцева"
+        ],
+        "directors": [
+          "Леонид Амальрик"
+        ],
+        "writers": [
+          "Владимир Сутеев"
+        ],
+        "composers": [
+          "Никита Богословский"
+        ],
+        "designers": [
+          "Александр Трусов"
+        ],
+        "operators": [
+          "Михаил Друян"
+        ]
+      }
+    },
+    {
+      "id": "serial-28627",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Моб Психо 100 [ТВ-2]",
+      "title_orig": "Mob Psycho 100 II",
+      "other_title": "Моб Психо 100 2",
+      "translation": {
+        "id": 1079,
+        "title": "Aniraccoon",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 2,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "1002686",
+      "imdb_id": "tt5897304",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9629",
+      "shikimori_id": "37510",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-13T10:34:59Z",
+      "updated_at": "2020-08-14T06:39:55Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/704103/b21b6013b29fc1ad03446de31d1c0018/720p",
+            "2": "//aniqit.com/seria/704104/bb26f4d13a25200d5e8b7d9af2704e64/720p",
+            "3": "//aniqit.com/seria/704105/2ce14c60043572788d80e61dc32eeba9/720p",
+            "4": "//aniqit.com/seria/704299/280445c42d8b3c61d75e9d995c5fea41/720p",
+            "5": "//aniqit.com/seria/704300/303b7b6e252f54cc1785bc0cb5a200c7/720p",
+            "6": "//aniqit.com/seria/704301/357d80128b7d3f1aa141d319d5b00deb/720p",
+            "7": "//aniqit.com/seria/704329/98c96043dab63a8fd39c4c5b60aebf3d/720p",
+            "8": "//aniqit.com/seria/704330/ef90edb259c7df78dd3b88a1abb40946/720p",
+            "9": "//aniqit.com/seria/704331/11c47318adc259faacce9b734e702d39/720p",
+            "10": "//aniqit.com/seria/704332/a8a7b884cad7cd713b1bca7b2ed38201/720p",
+            "11": "//aniqit.com/seria/704363/353fc8ccceb60b4593a761b0b149afc6/720p",
+            "12": "//aniqit.com/seria/704364/a87d47b3deb09905499f45da29f7df8a/720p",
+            "13": "//aniqit.com/seria/704365/837ad1d46cae8921d564caa0f1057d33/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Моб Психо 100",
+        "title_en": "Mob Psycho 100",
+        "other_titles": [
+          "Mob Psycho 100 2nd Season",
+          "Mob Psycho Hyaku",
+          "Mob Psycho One Hundred"
+        ],
+        "other_titles_en": [
+          "Mob Psycho 100 II"
+        ],
+        "other_titles_jp": [
+          "モブサイコ100 II"
+        ],
+        "anime_license_name": "Моб Психо 100 II",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2016,
+        "description": "Сигэо Кагэяма, также известный как Моб, - восьмиклассник с психическими способностями. Он умеет сгибать ложки и поднимать вещи силой мысли с ранних лет, но затем он постепенно начал сдерживаться от использования способностей на публике. И теперь единственное, чего он хочет - это подружиться с одноклассницей Цубоми. Вместе со своим психическим наставником (у которого нет психических способностей), он продолжает свою повседневную жизнь, пытаясь понять свое назначение в жизни.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1002686.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/e5373b50bca36cb74236a981cad953be8c32804b.png",
+          "https://shikimori.one/system/screenshots/original/774dae7bd2d9941ea64423ad84870d86f024a9c6.png"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Повседневность",
+          "Сверхъестественное",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Bones"
+        ],
+        "kinopoisk_rating": 8.1,
+        "kinopoisk_votes": 10265,
+        "imdb_rating": 8.5,
+        "imdb_votes": 14675,
+        "shikimori_rating": 8.84,
+        "shikimori_votes": 34786,
+        "premiere_ru": "2018-09-11",
+        "premiere_world": "2016-07-11",
+        "aired_at": "2019-01-07",
+        "released_at": "2019-04-01",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 13,
+        "episodes_aired": 13,
+        "actors": [
+          "Сэцуо Ито",
+          "Такахиро Сакурай",
+          "Акио Оцука",
+          "Мию Ирино",
+          "Ёсицугу Мацуока",
+          "Ёсимаса Хосоя",
+          "Рюносукэ Ватануки",
+          "Сэиитиро Ямасита",
+          "Кохэи Амасаки",
+          "Даики Хамано"
+        ],
+        "directors": [
+          "Юдзуру Татикава",
+          "Такэфуми Андзаи",
+          "Кацуя Сигэхара",
+          "Кэнъити Фудзисава",
+          "Ёко Канамори",
+          "Такаси Кавабата",
+          "Томоаки Ота",
+          "Юдзи Оя"
+        ],
+        "producers": [
+          "Дзюн Фукуда",
+          "Юкихиро Ито",
+          "Акио Мацуда",
+          "Юки Нагано",
+          "Хироцуги Огису"
+        ],
+        "writers": [
+          "Онэ",
+          "Хироси Сэко"
+        ],
+        "composers": [
+          "Кэндзи Каваи"
+        ],
+        "editors": [
+          "Киёси Хиросэ"
+        ],
+        "designers": [
+          "Рё Коно"
+        ],
+        "operators": [
+          "Маюко Фурумото"
+        ]
+      }
+    },
+    {
+      "id": "serial-28641",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Денежное поле [ТВ-2]",
+      "title_orig": "Gurazeni: Season 2",
+      "other_title": "Денежное поле 2",
+      "translation": {
+        "id": 923,
+        "title": "AnimeVost",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 2,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9740",
+      "shikimori_id": "37990",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-14T06:38:55Z",
+      "updated_at": "2020-08-14T06:38:55Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/704351/a10c71b228d76b189400985e1a3adf46/720p",
+            "2": "//aniqit.com/seria/704352/4f8630ecd7efa64f9c4628cba5665d0e/720p",
+            "3": "//aniqit.com/seria/704353/c222e343c6759852f0d3221964882177/720p",
+            "4": "//aniqit.com/seria/704354/310b7c45606251b47d8456e0704cdd51/720p",
+            "5": "//aniqit.com/seria/704355/2ed9bce94bf2d680b42ada9ac18a1ec9/720p",
+            "6": "//aniqit.com/seria/704356/730a7f0a9e736f81a1e7fd0eda9be171/720p",
+            "7": "//aniqit.com/seria/704357/4fb12420242b709190acb6cf715aefda/720p",
+            "8": "//aniqit.com/seria/704358/d404c49ff9cbf3f06a109a6dfcb6bc16/720p",
+            "9": "//aniqit.com/seria/704359/ba3adee5ca5c13f06a7c191902af03bd/720p",
+            "10": "//aniqit.com/seria/704360/fd02ce10166bc7af8b8a42a1cd4a009f/720p",
+            "11": "//aniqit.com/seria/704361/d2aa2b1a6cae61b2c01189c6909e2ef5/720p",
+            "12": "//aniqit.com/seria/704362/4549666a5c538f693f148109e14e8014/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Денежное поле 2",
+        "title_en": "Gurazeni Season 2",
+        "other_titles": [
+          "Gurazeni 2nd Season",
+          "Gurazeni (2018)"
+        ],
+        "other_titles_jp": [
+          "グラゼニ シーズン2"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "poster_url": "https://shikimori.one/system/animes/original/37990.jpg",
+        "anime_genres": [
+          "Драма",
+          "Комедия",
+          "Сейнен",
+          "Спорт"
+        ],
+        "anime_studios": [
+          "Studio Deen"
+        ],
+        "shikimori_rating": 6.75,
+        "shikimori_votes": 83,
+        "aired_at": "2018-10-05",
+        "released_at": "2018-12-21",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12
+      }
+    },
+    {
+      "id": "serial-28639",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Денежное поле [ТВ-1]",
+      "title_orig": "Gurazeni",
+      "other_title": "Gurazeni: Money Pitch",
+      "translation": {
+        "id": 923,
+        "title": "AnimeVost",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9194",
+      "shikimori_id": "35183",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-14T06:32:59Z",
+      "updated_at": "2020-08-14T06:32:59Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/704333/45d7b551b5914a52eff5efdcc58a3cd9/720p",
+            "2": "//aniqit.com/seria/704334/e660f39f4b02e8d23f8759a0687b72f3/720p",
+            "3": "//aniqit.com/seria/704335/d564ee8b875abe57a894b15bd73f1a45/720p",
+            "4": "//aniqit.com/seria/704336/4ac5a3e8968e83b7f522f2aa4e035d8a/720p",
+            "5": "//aniqit.com/seria/704337/e9b3eb67e519169f18cb3ce411588ac5/720p",
+            "6": "//aniqit.com/seria/704338/cbe9ea884b0e11a7a6e64b6dcdb2c202/720p",
+            "7": "//aniqit.com/seria/704339/875c839a6659a1c9310c5852c3634348/720p",
+            "8": "//aniqit.com/seria/704340/fc87b94db73eb6866392282c6cedd275/720p",
+            "9": "//aniqit.com/seria/704341/79784491b2f9412da3aa1dd5de041548/720p",
+            "10": "//aniqit.com/seria/704342/9c4fb352982e5f658c001345f755421a/720p",
+            "11": "//aniqit.com/seria/704343/ac771b094b10e7a905a2932238af02b1/720p",
+            "12": "//aniqit.com/seria/704344/4830992d4b8f31c446fae1dc8b4c17be/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Денежное поле",
+        "title_en": "Gurazeni",
+        "other_titles_en": [
+          "Gurazeni: Money Pitch"
+        ],
+        "other_titles_jp": [
+          "グラゼニ"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "description": "Это история о Нацуноскэ Бонде , профессиональном бейсбольном игроке. Восемь лет он является игроком команды под названием «Пауки» на позиции релиф-питчера. В команде существует чёткое иерархическое разделение: в зависимости от того, как ты сыграешь, такую зарплату ты в итоге и получишь. Нацуноскэ — один из самых высокооплачиваемых игроков в команде. Он оценивает то, насколько хорош игрок, по тому, сколько денег он зарабатывает. А ещё он стремится к тому, чтобы добраться до самой вершины и оставаться там. И ради этой цели он всегда в поиске перспективных игроков, которым можно бросить вызов, и убедиться в том, что он по-прежнему лучший.",
+        "poster_url": "https://shikimori.one/system/animes/original/35183.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/f1eb1301695a3cd842b12865f87320e6e1d5ba7d.jpg",
+          "https://shikimori.one/system/screenshots/original/95e80f0dc20c0f510ef6372a5432afd855dbcda0.jpg"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Комедия",
+          "Сейнен",
+          "Спорт"
+        ],
+        "anime_studios": [
+          "Studio Deen"
+        ],
+        "shikimori_rating": 6.34,
+        "shikimori_votes": 181,
+        "aired_at": "2018-04-06",
+        "released_at": "2018-06-22",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12
+      }
+    },
+    {
+      "id": "serial-28638",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Священные звери [ТВ-2]",
+      "title_orig": "Saint Beast: Kouin Jojishi Tenshi Tan",
+      "other_title": "セイント・ビースト ～光陰叙事詩天使譚～",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2007,
+      "last_season": 2,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6273",
+      "shikimori_id": "2153",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-14T06:25:39Z",
+      "updated_at": "2020-08-14T06:25:39Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/704316/52d0890f8d23d1c5e657e95003c81f9f/720p",
+            "2": "//aniqit.com/seria/704317/ef96a4a169301708e60b5bf465cd5615/720p",
+            "3": "//aniqit.com/seria/704318/700a9e38911b3aa6a8d5f254ee7eb122/720p",
+            "4": "//aniqit.com/seria/704319/4592e00bb595ee9def3e53ba00207613/720p",
+            "5": "//aniqit.com/seria/704320/265faf1ec38fd014cb3bf0ea489e9a6e/720p",
+            "6": "//aniqit.com/seria/704321/f24b046274fc352035edaae41e51151e/720p",
+            "7": "//aniqit.com/seria/704322/7a2c3f798f54dbd2707fa4bf0d7063cc/720p",
+            "8": "//aniqit.com/seria/704323/30d707dbc293571b2da9f4c4b7ff5050/720p",
+            "9": "//aniqit.com/seria/704324/9a6355840f2e0657d4dc24dc6570115f/720p",
+            "10": "//aniqit.com/seria/704325/f902d5dc05bc3605793d27ae6d9be774/720p",
+            "11": "//aniqit.com/seria/704326/8ec7b72e7b95e9e8385e59f46ed3304f/720p",
+            "12": "//aniqit.com/seria/704327/5b35a58c2d74b3d3a305d46d97e87991/720p",
+            "13": "//aniqit.com/seria/704328/ae97d8ec41ae33cd985f7483464ddd65/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Священные звери: Ангельские Хроники",
+        "title_en": "Saint Beast: Kouin Jojishi Tenshi Tan",
+        "other_titles_jp": [
+          "セイント・ビースト～光陰叙事詩天使譚～"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "description": "Однажды, давным-давно главенствующий бог Зевс создал трехуровневую иерархию ангелов, несмотря на то, что все они должны быть равны друг перед другом. Помощники Небес разделились на следующие касты: высшие, средние и низшие соответственно. Также Зевс назначил 6 ангелов Священными Зверьми, которые должны управлять животными на Земле. Избраны были Го, Лазурный Дракон Востока; Шин, Черная Черепаха Севера; Рей, Малиновый Феникс Юга; Гай, Белый Тигр Запада; а также ] Иуда и ] Лука. Тем не менее, Кира, Падающая Звезда, и Майя, Ветер, не присутствовали на выборочных тестах и посему покинули Небеса, обосновавшись на Земле. Вся оставшаяся шестерка ангелов выполняла свои обязанности тщательно и добросовестно. Однако, как можно не засомневаться в Зевсе, ведь его поистине тиранические действия начинают показывать его истинную сущность?..",
+        "poster_url": "https://shikimori.one/system/animes/original/2153.jpg",
+        "anime_genres": [
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Tokyo Kids",
+          "Marvelous AQL",
+          "Avex Entertainment",
+          "Lantis"
+        ],
+        "shikimori_rating": 6.35,
+        "shikimori_votes": 101,
+        "aired_at": "2007-04-04",
+        "released_at": "2007-06-27",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 13,
+        "episodes_aired": 0
+      }
+    },
+    {
+      "id": "serial-28637",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Тайна древнего шестикнижья",
+      "title_orig": "Ys",
+      "other_title": "Ys イース",
+      "translation": {
+        "id": 767,
+        "title": "SHIZA Project",
+        "type": "voice"
+      },
+      "year": 1989,
+      "last_season": 1,
+      "last_episode": 7,
+      "episodes_count": 7,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3859",
+      "shikimori_id": "1276",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-13T19:39:54Z",
+      "updated_at": "2020-08-13T19:39:54Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/704292/6f2138fbad02e4f7796d318dff7daee3/720p",
+            "2": "//aniqit.com/seria/704293/2f974c572aafe5962f78c25cbfe6a16b/720p",
+            "3": "//aniqit.com/seria/704294/c0fa00a279c72e2fed43d497c043608d/720p",
+            "4": "//aniqit.com/seria/704295/f40657b206c379eb5985ca85a8e01a54/720p",
+            "5": "//aniqit.com/seria/704296/0a4f8b145a56db62290fde6189f6f714/720p",
+            "6": "//aniqit.com/seria/704297/bf2a6a0b0646b7abb8d4d0879aeb4d2b/720p",
+            "7": "//aniqit.com/seria/704298/c3c70152b4013311317f11cf66f86110/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Тайна древнего шестикнижья",
+        "title_en": "Ys",
+        "other_titles": [
+          "Ancient Books of Ys"
+        ],
+        "other_titles_jp": [
+          "Ys イース"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "description": "Молодой путешественник Адол Кристин отправляется в поисках приключений на загадочную землю Эстерия, что расположена далеко от материка, и путь к которой преграждают небывалые шторма. Эстерия долгие годы находится под гнетом монстров, управляемых темным магом Сущностью . И лишь одна надежда не дает сопротивляющемуся народу опустить руки — древняя легенда. В пророчестве сестер-богинь говорится, что Эстерию спасет герой с материка, и имя его будет — ] Криcтин.",
+        "poster_url": "https://shikimori.one/system/animes/original/1276.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/a40a195668cf4638c90d2088ecd6493f9147ab30.jpg",
+          "https://shikimori.one/system/screenshots/original/1dd328982d9ecec3c43740dd82cf75d91657e0d1.jpg"
+        ],
+        "anime_genres": [
+          "Демоны",
+          "Драма",
+          "Магия",
+          "Приключения",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Tokyo Kids"
+        ],
+        "shikimori_rating": 6.49,
+        "shikimori_votes": 117,
+        "aired_at": "1989-11-21",
+        "released_at": "1991-09-05",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 7,
+        "episodes_aired": 0
+      }
+    },
+    {
+      "id": "movie-58905",
+      "type": "anime",
+      "link": "",
+      "title": "Лучшая в мире первая любовь 2: Предложение",
+      "title_orig": "Sekaiichi Hatsukoi: Proposal Hen",
+      "other_title": "Лучшая в мире первая любовь: Предложение",
+      "translation": {
+        "id": 654,
+        "title": "AniFilm",
+        "type": "voice"
+      },
+      "year": 2020,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10280",
+      "shikimori_id": "40314",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-13T19:37:10Z",
+      "updated_at": "2020-08-13T19:37:10Z",
+      "material_data": {
+        "title": "Лучшая в мире первая любовь 2: Предложение",
+        "title_en": "Sekaiichi Hatsukoi: Propose-hen",
+        "other_titles": [
+          "Sekai'ichi Hatsukoi 2: Propose Hen"
+        ],
+        "other_titles_jp": [
+          "世界一初恋~プロポーズ編~"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "poster_url": "https://shikimori.one/system/animes/original/40314.jpg",
+        "anime_genres": [
+          "Драма",
+          "Комедия",
+          "Романтика",
+          "Сёнен-ай"
+        ],
+        "anime_studios": [
+          "Studio Deen"
+        ],
+        "shikimori_rating": 7.39,
+        "shikimori_votes": 487,
+        "aired_at": "2020-02-21",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": 0
+      }
+    },
+    {
+      "id": "serial-28636",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Дьявольский детектив",
+      "title_orig": "Akdong tamjeongseu",
+      "other_title": "Детективы-плохиши / Озорные детективы / Devil Inspector / Rebel Detectives / Bad Boy Detective",
+      "translation": {
+        "id": 1097,
+        "title": "GreatGroup",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 9,
+      "episodes_count": 9,
+      "kinopoisk_id": "1047640",
+      "imdb_id": "tt7891330",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-13T19:35:35Z",
+      "updated_at": "2020-08-13T19:35:35Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/704282/3ae8a0b650abe6e33564b61a899ef888/720p",
+            "2": "//kodik.cc/seria/704283/2eb64c980adbf01b5ed19689ae2799fc/720p",
+            "3": "//kodik.cc/seria/704284/43b550e8ec09e5f77e347ad0df64a384/720p",
+            "4": "//kodik.cc/seria/704285/3a5209790f120d8529130c0416258152/720p",
+            "5": "//kodik.cc/seria/704286/0ba05985d27442ab689006c8e284ec03/720p",
+            "6": "//kodik.cc/seria/704287/5b354d0e5dd6930570d0c65936583374/720p",
+            "7": "//kodik.cc/seria/704288/651992214d6e754132f1a07248e08b83/720p",
+            "8": "//kodik.cc/seria/704289/52e00cb92f8ac58274c8d660b4e7e66b/720p",
+            "9": "//kodik.cc/seria/704290/1d00c4b90fac378b841a70f348e088a0/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Дьявольский детектив",
+        "title_en": "Akdong tamjeongseu",
+        "year": 2017,
+        "description": "Три способных старшеклассника расследуют исчезновение родителей после странного случая.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1047640.jpg",
+        "duration": 15,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "детектив",
+          "драма",
+          "комедия"
+        ],
+        "premiere_world": "2017-09-12",
+        "actors": [
+          "Ким Нам-джу",
+          "Ан Хён-соп",
+          "Ю Сон-хо",
+          "Ли Су-мин",
+          "Ким Тхэ-мин",
+          "Ли Бит-на",
+          "Ю Джон-у",
+          "Пён Хон",
+          "Ким Ну-ри"
+        ],
+        "directors": [
+          "Пак Сон-джэ"
+        ],
+        "writers": [
+          "Пак Сон-джэ"
+        ]
+      }
+    },
+    {
+      "id": "serial-25531",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Мастер китайского альманаха",
+      "title_orig": "Huangli Shi",
+      "other_title": "Huang Li Shi / Chinese Almanac Master / Secret Archives of Unscientific Materialism",
+      "translation": {
+        "id": 923,
+        "title": "AnimeVost",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=90709",
+      "shikimori_id": "39736",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-08T08:08:23Z",
+      "updated_at": "2020-08-13T19:33:31Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/644305/ed42e4c3ca7f5590e81d13cdbeef00a8/720p",
+            "2": "//aniqit.com/seria/644306/16fa9746a8b07b533226413cc286334e/720p",
+            "3": "//aniqit.com/seria/644307/88b5217053734fdb626c122078dd4704/720p",
+            "4": "//aniqit.com/seria/647316/437c690deafb9df3112b083fb9a8149f/720p",
+            "5": "//aniqit.com/seria/652031/16e57d5a68a1b6b0985af31527fb874f/720p",
+            "6": "//aniqit.com/seria/658614/91bc736cdab822cb0986a62a15a2ec74/720p",
+            "7": "//aniqit.com/seria/666290/178b475f2d4cefae6c25b05695fc1fa2/720p",
+            "8": "//aniqit.com/seria/670614/723da738a7fb79b7ea915bd8bc1480bd/720p",
+            "9": "//aniqit.com/seria/675166/968f2000677fd647643f03f893564d22/720p",
+            "10": "//aniqit.com/seria/679439/e83cf8e347d1b627aba7d7c938973ef7/720p",
+            "11": "//aniqit.com/seria/683037/198dc38354cd3624662c5c5d970c6b37/720p",
+            "12": "//aniqit.com/seria/687379/677868bb625f5232efe8d256c1fb56ee/720p",
+            "13": "//aniqit.com/seria/695308/95224ed6d93f59ed73fbba641c642e2e/720p",
+            "14": "//aniqit.com/seria/695751/334bffae0786f619c4d98a495e1bc0f8/720p",
+            "15": "//aniqit.com/seria/700070/ca5ee1afc36e4989ac33e4c52e3b5604/720p",
+            "16": "//aniqit.com/seria/704281/3293f29ea120c38c04fa28a21d365181/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Мастер китайского альманаха",
+        "title_en": "Li Shi",
+        "other_titles": [
+          "Мастер Календаря",
+          "Huang Li Shi",
+          "Chinese Almanac Master",
+          "Secret Archives of Unscientific Materialism",
+          "不科学唯物主义秘密档案",
+          "黄历师"
+        ],
+        "other_titles_jp": [
+          "历师"
+        ],
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "description": "Согласно легендам традиционный китайский календарь это не просто даты, сведения о лунном цикле, затмениях и фестивалях, — это наиважнейший инструмент. Календарь даёт рекомендации на каждый день, что следует, а что не нужно делать в эту конкретную дату. Мастер, овладевший календарём, способен предсказывать будущее.\r\nИз поколения в поколение предки ныне безработного Наньчжу Сяо передавали тайные знания об управлении календарём, и вот, вдохновлённый другом детства, Няньчжу решается унаследовать святой семейный долг, ну и параллельно немного подзаработать. Однако не проходит и пары дней, как Няньчжу готов проклясть день, когда согласился с доводами друга.",
+        "poster_url": "https://shikimori.one/system/animes/original/39736.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/cf1a84ae91d58d8d586a15841a64c074a94fec2f.jpg",
+          "https://shikimori.one/system/screenshots/original/d0bd0d57333d592a994a610d12c7a7ec85fedfbf.jpg"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Сверхъестественное",
+          "Экшен"
+        ],
+        "shikimori_rating": 6.23,
+        "shikimori_votes": 260,
+        "aired_at": "2020-05-07",
+        "released_at": "2020-08-13",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 16,
+        "episodes_aired": 16
+      }
+    },
+    {
+      "id": "serial-5250",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Ангельские ритмы!",
+      "title_orig": "Angel Beats!",
+      "other_title": "Стук сердца ангела",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2010,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 16,
+      "kinopoisk_id": "518728",
+      "imdb_id": "tt1639109",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7634",
+      "shikimori_id": "6547",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-10-28T23:40:10Z",
+      "updated_at": "2020-08-13T13:06:16Z",
+      "seasons": {
+        "0": {
+          "title": "Спешлы",
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/534645/1b4dd9811ea9a79d7c42fd9543695a09/720p",
+            "2": "//aniqit.com/seria/704142/ea8a5ef04d9c1914aa81624f5a350886/720p",
+            "3": "//aniqit.com/seria/711368/42f1e2957a4c471d4a5f64798d8ec091/720p"
+          }
+        },
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/140091/1b4dd9811ea9a79d7c42fd9543695a09/720p",
+            "2": "//aniqit.com/seria/140092/ea8a5ef04d9c1914aa81624f5a350886/720p",
+            "3": "//aniqit.com/seria/140093/42f1e2957a4c471d4a5f64798d8ec091/720p",
+            "4": "//aniqit.com/seria/140094/20fa4b0e3c276c369e5fdb79f2d530cf/720p",
+            "5": "//aniqit.com/seria/140095/79beb34fb05096b807af7abb7de4ce99/720p",
+            "6": "//aniqit.com/seria/140096/df1aef81e64995aad517196b8b21f64b/720p",
+            "7": "//aniqit.com/seria/140097/1e1a9922b821fc7306ab037a10a17348/720p",
+            "8": "//aniqit.com/seria/140098/6d8fcfa841d5242dcc45d00d59c48c06/720p",
+            "9": "//aniqit.com/seria/140099/6d1e51eeec579574e551d6cb5912d9c0/720p",
+            "10": "//aniqit.com/seria/140100/1d26e9b23edef93a0fd689390e11cef4/720p",
+            "11": "//aniqit.com/seria/140101/da2b02ef4557a3aeeaf1754671ecfb66/720p",
+            "12": "//aniqit.com/seria/140102/bc16654eb5722a5c30171b69e4b3ab54/720p",
+            "13": "//aniqit.com/seria/140103/7a53c5f3b0d51791d7b2512c6e655d27/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Ангельские ритмы!",
+        "title_en": "Angel Beats!",
+        "other_titles_en": [
+          "Angel Beats!"
+        ],
+        "other_titles_jp": [
+          "Angel Beats!（エンジェルビーツ）"
+        ],
+        "anime_license_name": "Ангельские ритмы!",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2010,
+        "tagline": "1-2-3-4-5-6-7 All Good Children Go To Heaven (They Wish)",
+        "description": "Главная героиня сериала — девушка с замечательным именем Юри — возглавляет отряд SSS (сокращение от Shinda Sekai Sensen, что в переводе означает Фронт Мира Мёртвых), который целиком и полностью состоит из уже попавших на тот свет людей, которые некогда вели безрассудную жизнь, а теперь восстали против Бога и сражаются со всё еще верными ему ангелами.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/518728.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/45dde73759398994f022aa23a9bbc67318627f90.png",
+          "https://shikimori.one/system/screenshots/original/c6a97c4f916a32af05bde1ca546cd94a3a818337.png"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Комедия",
+          "Сверхъестественное",
+          "Школа",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "P.A. Works"
+        ],
+        "kinopoisk_rating": 8.1,
+        "kinopoisk_votes": 10228,
+        "imdb_rating": 7.7,
+        "imdb_votes": 11455,
+        "shikimori_rating": 8.16,
+        "shikimori_votes": 57087,
+        "premiere_world": "2010-04-02",
+        "aired_at": "2010-04-03",
+        "released_at": "2010-06-26",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 13,
+        "episodes_aired": 13,
+        "actors": [
+          "Хироси Камия",
+          "Харуми Сакурай",
+          "Кана Ханадзава",
+          "Рёхэй Кимура",
+          "Блейк Шепард",
+          "Бриттни Карбовски",
+          "Эмили Невез",
+          "Дэвид Матранга",
+          "Сюн Такаги",
+          "Юуки Масуда"
+        ],
+        "directors": [
+          "Сэидзи Киси",
+          "Такэфуми Андзаи",
+          "Хироюки Хасимото",
+          "Ёсимити Хирай",
+          "Хо Джон",
+          "Кодай Какимото",
+          "Масанори Такахаси"
+        ],
+        "producers": [
+          "Дэвид Дель Рио",
+          "Наохиро Футоно",
+          "Ацуси Хигасияма",
+          "Таканори Коарай",
+          "Джон Лэдфорд",
+          "Тосихиро Маэда",
+          "Хиро Маруяма",
+          "Коитиро Нацумэ",
+          "Кадзутомо Судзуки",
+          "Эиити Такахаси"
+        ],
+        "writers": [
+          "Такахиро Баба",
+          "Дзюн Маэда"
+        ],
+        "composers": [
+          "Аи Камати",
+          "Дзюн Маэда",
+          "Тацуо Нагами"
+        ],
+        "editors": [
+          "Аюму Такахаси"
+        ],
+        "designers": [
+          "Кадзуки Хигасидзи"
+        ],
+        "operators": [
+          "Кацуфуми Сато"
+        ]
+      }
+    },
+    {
+      "id": "movie-58891",
+      "type": "anime",
+      "link": "",
+      "title": "Уж не зомби ли это? OVA-2",
+      "title_orig": "Kore wa Zombie Desuka? (2012)",
+      "other_title": "Уж не зомби ли это? Среди мертвецов OVA",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2012,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1536",
+      "shikimori_id": "15437",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-13T12:53:36Z",
+      "updated_at": "2020-08-13T12:53:36Z",
+      "material_data": {
+        "title": "Уж не зомби ли это? Среди мертвецов OVA",
+        "title_en": "Kore wa Zombie Desu ka? of the Dead: Hai, Minotake ni Attemasu",
+        "other_titles": [
+          "Kore wa Zombie Desu ka? of the Dead Episode 11",
+          "Is This a Zombie? Of the Dead: Yes",
+          "This Suits Me Just Fine",
+          "Is this A Zombie? of the Dead OVA"
+        ],
+        "other_titles_en": [
+          "Is This a Zombie? Of the Dead OVA"
+        ],
+        "other_titles_jp": [
+          "これはゾンビですか? OF THE DEAD 「はい、身の丈に合ってます」"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "description": "Дополнительный 11 эпизод второго сезона сериала, являющийся экранизацией 6 тома манги.",
+        "poster_url": "https://shikimori.one/system/animes/original/15437.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/2c735c2203975038d410b68d533f916174bb70c5.png",
+          "https://shikimori.one/system/screenshots/original/194abaf0c4228efc03decdabfe543059882f690f.png"
+        ],
+        "anime_genres": [
+          "Гарем",
+          "Комедия",
+          "Магия",
+          "Сверхъестественное",
+          "Экшен",
+          "Этти"
+        ],
+        "anime_studios": [
+          "Studio Deen"
+        ],
+        "shikimori_rating": 7.49,
+        "shikimori_votes": 3509,
+        "aired_at": "2012-10-20",
+        "rating_mpaa": "R+",
+        "episodes_total": 1,
+        "episodes_aired": 0
+      }
+    },
+    {
       "id": "movie-58873",
       "type": "foreign-movie",
       "link": "",
@@ -8367,1215 +9308,6 @@
           "Марв Вольфман",
           "Джин Колан",
           "Том Палмер"
-        ]
-      }
-    },
-    {
-      "id": "serial-28570",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Огненная буря",
-      "title_orig": "Firestorm",
-      "translation": {
-        "id": 1159,
-        "title": "Юки",
-        "type": "voice"
-      },
-      "year": 2003,
-      "last_season": 1,
-      "last_episode": 26,
-      "episodes_count": 26,
-      "kinopoisk_id": "715472",
-      "imdb_id": "tt1746356",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3907",
-      "shikimori_id": "2382",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-11T09:49:04Z",
-      "updated_at": "2020-08-11T09:49:04Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/703115/9404531ac9dd24b25f74dcf4a946aa7a/720p",
-            "2": "//aniqit.com/seria/703116/83f5e11f26a64e0c224e53f301c7a5cc/720p",
-            "3": "//aniqit.com/seria/703117/0cbb0eef0934cfc0da6db99201359c84/720p",
-            "4": "//aniqit.com/seria/703118/303d07ea3f2a1bd0fe89d00a953428d2/720p",
-            "5": "//aniqit.com/seria/703119/66c3a77ed781ad47c3fdd2bccbfc3c7f/720p",
-            "6": "//aniqit.com/seria/703120/c00574b5804cbd59cb512b0f53220038/720p",
-            "7": "//aniqit.com/seria/703121/167dc16a9ec9120a8fac2d533ab2f159/720p",
-            "8": "//aniqit.com/seria/703122/36adf340339420c91db0a251387f8a46/720p",
-            "9": "//aniqit.com/seria/703123/0f15704206c97d5709af5f8ec3308bb4/720p",
-            "10": "//aniqit.com/seria/703124/0bfdab07787eb4ae34889515bdbe1e90/720p",
-            "11": "//aniqit.com/seria/703125/3317d816695d9a25d7451df7f3bdb87b/720p",
-            "12": "//aniqit.com/seria/703126/e2ef0f759488e969dd8e623fd0693242/720p",
-            "13": "//aniqit.com/seria/703127/dfc52ae3c9d15e424ae737974b72e78c/720p",
-            "14": "//aniqit.com/seria/703128/74adb3782e0cb25d0b564203e30726e4/720p",
-            "15": "//aniqit.com/seria/703129/197315baec4cf68ffb58be9246beee81/720p",
-            "16": "//aniqit.com/seria/703130/5f09d5b8dc4b0fb0b2ecc45b4face6ad/720p",
-            "17": "//aniqit.com/seria/703131/63447cc545e4ae4784832572a881761a/720p",
-            "18": "//aniqit.com/seria/703132/76e051065e242fe943f37823b1371a0d/720p",
-            "19": "//aniqit.com/seria/703133/9b5bd32a5c9cecdf536bfd84f054f28b/720p",
-            "20": "//aniqit.com/seria/703134/e67b21a23280366c2768c8644ab8da75/720p",
-            "21": "//aniqit.com/seria/703135/9dbd30281f7041f408a503b4ce4cf781/720p",
-            "22": "//aniqit.com/seria/703136/77fd1cdda08553f2e50e403b70adb9a1/720p",
-            "23": "//aniqit.com/seria/703137/a225ce29ab80278a47937d449bf32e2f/720p",
-            "24": "//aniqit.com/seria/703138/872939fd6fe35cca4d981faafdb9abd0/720p",
-            "25": "//aniqit.com/seria/703139/ee3f217a400df17d558e9221d29db8e4/720p",
-            "26": "//aniqit.com/seria/703140/ad79238f0899caf2f593cf2855cfd969/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Огненная буря",
-        "title_en": "Faiyâsutômu",
-        "other_titles_jp": [
-          "FIRESTORM　ファイアーストーム"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2003,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/715472.jpg",
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "военный",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Военное",
-          "Меха",
-          "Приключения",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Trans Arts"
-        ],
-        "shikimori_rating": 5.68,
-        "shikimori_votes": 13,
-        "premiere_world": "2003-04-06",
-        "aired_at": "2003-04-06",
-        "released_at": "2003-09-28",
-        "episodes_total": 26,
-        "episodes_aired": 0,
-        "actors": [
-          "Ёсино Такамори",
-          "Масая Такацука",
-          "Юко Сумитомо",
-          "Хитоси Хорикава",
-          "Казуюки Шимура",
-          "Такэси Ватабэ",
-          "Юка Сиояма",
-          "Нори Хорикоши",
-          "Дзюнъити Эндо",
-          "Кэйдзи Хираи"
-        ],
-        "directors": [
-          "Кэндзи Тэрада",
-          "Роко Огивара",
-          "Юкио Окадзаки",
-          "Ryôichi Ashizawa",
-          "Ёситака Фудзимото",
-          "Кодзи Ито",
-          "Ken'ichi Masaki",
-          "Ёсихиро Мори",
-          "Такеши Сирадо",
-          "Ёсими Цуда"
-        ],
-        "producers": [
-          "Сюндзи Аоки",
-          "Акихико Иране",
-          "Kazuaki Inukai",
-          "Eiji Imanari"
-        ],
-        "writers": [
-          "Кэндзи Тэрада",
-          "Сукэхиро Томита",
-          "Рима Китаки",
-          "Yoshihiro Shirataki",
-          "Кацуюки Сумидзава"
-        ],
-        "designers": [
-          "Хирому Сато"
-        ],
-        "operators": [
-          "Харухико Цумура"
-        ]
-      }
-    },
-    {
-      "id": "serial-28569",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Гигантский робот OVA",
-      "title_orig": "Giant Robo The Animation: Chikyuu ga Seishi Suru Hi",
-      "other_title": "Giant Robo: The Day the Earth Stood Still",
-      "translation": {
-        "id": 757,
-        "title": "MC Entertainment",
-        "type": "voice"
-      },
-      "year": 1992,
-      "last_season": 1,
-      "last_episode": 7,
-      "episodes_count": 7,
-      "kinopoisk_id": "298463",
-      "imdb_id": "tt0101950",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3989",
-      "shikimori_id": "2321",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-11T09:45:17Z",
-      "updated_at": "2020-08-11T09:45:17Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/703108/1454120ea54f880ef6389b3dad28a0b2/720p",
-            "2": "//aniqit.com/seria/703109/7f38bcddcc3c2fd80f5bf1dbcab9a9c8/720p",
-            "3": "//aniqit.com/seria/703110/7a70962457a1381f439099b850213634/720p",
-            "4": "//aniqit.com/seria/703111/252f216a1f69b7a984e3f165921086a0/720p",
-            "5": "//aniqit.com/seria/703112/787c4dfbb09a3813e5183161175705fb/720p",
-            "6": "//aniqit.com/seria/703113/de29da7aa5328b848b81f128ca7108c4/720p",
-            "7": "//aniqit.com/seria/703114/5002f2eab5d4c67f182a4d2538cbc275/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Гигантский робот",
-        "title_en": "Jaianto Robo: The Animation - Chikyuu ga Seishi Suru Hi",
-        "other_titles_en": [
-          "Giant Robo the Animation: The Day the Earth Stood Still"
-        ],
-        "other_titles_jp": [
-          "ジャイアントロボ THE ANIMATION 地球が静止する日"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 1992,
-        "description": "Десять лет назад доктор Сидзума со своими коллегами изобрел двигатель, совершивший энергетическую революцию. За прогресс была заплачена высокая цена, и наконец-то человечество нашло замену нефти и газу. Однако в самых темных уголках этого ярко освещенного мира восстала зловещая сила - тайная организация «Группа Большого Огня». Смогут ли Эксперты Правосудия и Дайсаку, пилот знаменитого Гигантского робота, остановить злодеев?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/298463.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/ad8cff40c2b7be81f0a0ca0cfa2ecfc8403b1dd7.jpg",
-          "https://shikimori.one/system/screenshots/original/18ba891e4405d745844fcb1f560c88a9fe9652db.jpg"
-        ],
-        "duration": 45,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фантастика"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Меха",
-          "Супер сила",
-          "Сёнен",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Phoenix Entertainment"
-        ],
-        "imdb_rating": 8,
-        "imdb_votes": 386,
-        "shikimori_rating": 7.84,
-        "shikimori_votes": 105,
-        "premiere_world": "1992-07-22",
-        "aired_at": "1992-07-23",
-        "released_at": "1998-01-25",
-        "rating_mpaa": "PG-13",
-        "minimal_age": 16,
-        "episodes_total": 7,
-        "episodes_aired": 0,
-        "actors": [
-          "Грегори Аббей",
-          "Ёсукэ Акимото",
-          "Такэси Аоно",
-          "Стивен Блум",
-          "Стив Бьюлен",
-          "Дэнни Бурстейн",
-          "Марвин Биркетт",
-          "Steve Cassling",
-          "Fred Chagan",
-          "Joe Chagan"
-        ],
-        "directors": [
-          "Ясухиро Имагава",
-          "Кадзуёси Катаяма",
-          "Сигэдо Макино",
-          "Сетсуо Такасе",
-          "Ясунори Урата"
-        ],
-        "producers": [
-          "Лоуренс Гиннесс",
-          "Tatsuya Hoshino",
-          "Хидэо Кавано",
-          "Кэн Мацумото",
-          "Масаюки Миясита",
-          "Коити Мураками",
-          "Минору Наказава",
-          "Джон Сирабелла",
-          "Минору Таканаси",
-          "Норито Ямаки"
-        ],
-        "writers": [
-          "Ясухиро Имагава",
-          "Норито Ямаки",
-          "Эйити Ямамото",
-          "Мицутеру Ёкояма"
-        ],
-        "composers": [
-          "Масамити Амано"
-        ],
-        "editors": [
-          "Сигэру Нисияма"
-        ],
-        "designers": [
-          "Хиромаса Огура",
-          "Юсукэ Такэда",
-          "Масару Ота",
-          "Кен Арай",
-          "Хироси Като"
-        ],
-        "operators": [
-          "Yoshiaki Yasuhara"
-        ]
-      }
-    },
-    {
-      "id": "movie-58773",
-      "type": "anime",
-      "link": "",
-      "title": "Лихая баскетбольная команда Кодзу",
-      "title_orig": "I'll/CKBC",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2002,
-      "kinopoisk_id": "787458",
-      "imdb_id": "tt3099330",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3845",
-      "shikimori_id": "359",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-11T09:43:45Z",
-      "updated_at": "2020-08-11T09:43:45Z",
-      "material_data": {
-        "title": "Лихая баскетбольная команда Кодзу",
-        "title_en": "I'll/CKBC",
-        "other_titles": [
-          "I'll / Crazy KOUZU Basketball Club",
-          "Generation basket"
-        ],
-        "other_titles_en": [
-          "I'll/CKBC"
-        ],
-        "other_titles_jp": [
-          "I'll/CKBC"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 2002,
-        "description": "Два мальчика, Тачибана и Хираги, однажды играли в соперничающих командах в баскетбол. Вскоре Хираги переходит в школу Тачибаны и попадает в ту же баскетбольную команду. Они начинают играть как товарищи одной команды, но семья Хираги, где отец - тренер баскетбольной команды, а старший брат - профессиональный игрок, хотят, чтобы он играл в команде более высокого уровня. Теперь Тачибана и Хираги должны играть друг против друга.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/787458.jpg",
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Спорт",
-          "Сёнен",
-          "Школа",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "M.S.C"
-        ],
-        "shikimori_rating": 6.3,
-        "shikimori_votes": 172,
-        "premiere_world": "2002-12-18",
-        "aired_at": "2002-12-18",
-        "released_at": "2003-03-26",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 2,
-        "episodes_aired": 0,
-        "actors": [
-          "Кэйдзи Хираи",
-          "Ая Хисакава",
-          "Хироси Камия",
-          "Нобору Канеко",
-          "Санаэ Кобаяси",
-          "Синъитиро Мики",
-          "Кэндзи Нодзима",
-          "Мицуки Саига",
-          "Такахиро Сакурай",
-          "Маико Тода"
-        ],
-        "directors": [
-          "Ицуро Кавасаки"
-        ],
-        "producers": [
-          "Mamiko Namazue",
-          "Рюдзо Сиракава",
-          "Soichi Matsui"
-        ],
-        "writers": [
-          "Хироюки Асада",
-          "Ицуро Кавасаки",
-          "Миюки Такахаси"
-        ],
-        "editors": [
-          "Сэидзи Морита"
-        ]
-      }
-    },
-    {
-      "id": "movie-58772",
-      "type": "anime",
-      "link": "",
-      "title": "Лео: Император джунглей",
-      "title_orig": "Janguru taitei",
-      "other_title": "Император джунглей - Фильм (1997)",
-      "translation": {
-        "id": 580,
-        "title": "Дольский",
-        "type": "voice"
-      },
-      "year": 1997,
-      "kinopoisk_id": "171168",
-      "imdb_id": "tt0119406",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4168",
-      "shikimori_id": "2264",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-11T09:41:56Z",
-      "updated_at": "2020-08-11T09:41:56Z",
-      "material_data": {
-        "title": "Лео: Император джунглей",
-        "title_en": "Janguru taitei",
-        "other_titles_en": [
-          "Jungle Emperor Leo"
-        ],
-        "other_titles_jp": [
-          "ジャングル大帝　劇場版"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 1997,
-        "description": "У подножия мистической Лунной горы живет белый лев по имени Лео, правитель джунглей. Он и его семья живут мирно среди других животных и буйной растительности. Люди, вошедшие во владения Лео, разрушают мир своими безжалостными поисками «сияющих камней» - источника сильного здоровья. Животные, обеспокоенные вторжением в их мирную жизнь, должны оказать им сопротивление.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/171168.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/4f589d835fdf4ae1e11ad330d0e5a280ac560a15.jpg",
-          "https://shikimori.one/system/screenshots/original/1689fb4b7ea64e2322470b9cf0481419e7b77c79.jpg"
-        ],
-        "duration": 100,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Приключения",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Tezuka Productions"
-        ],
-        "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 170,
-        "imdb_rating": 6.8,
-        "imdb_votes": 418,
-        "shikimori_rating": 7.08,
-        "shikimori_votes": 163,
-        "premiere_world": "1997-08-01",
-        "aired_at": "1997-08-01",
-        "rating_mpaa": "PG",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Масанэ Цукаяма",
-          "Тиэко Байсё",
-          "Томоко Исимура",
-          "Хэкиру Сиина",
-          "Канэта Кимоцуки",
-          "Наоки Тацута",
-          "Масато Ибу",
-          "Ранран Судзуки",
-          "Кэй Тани",
-          "Тяфурин"
-        ],
-        "directors": [
-          "Ёсио Такэути"
-        ],
-        "producers": [
-          "Чихару Акиба",
-          "Минору Кубота",
-          "Сумио Удагава",
-          "Такаюки Мацутани",
-          "Хайме Юки"
-        ],
-        "writers": [
-          "Ёсио Такэути",
-          "Осаму Тэдзука"
-        ],
-        "composers": [
-          "Исао Томита"
-        ],
-        "designers": [
-          "Юкио Абэ"
-        ]
-      }
-    },
-    {
-      "id": "serial-28568",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Проект Кирамэки",
-      "title_orig": "Kirameki Project",
-      "other_title": "きらめき☆プロジェクト",
-      "translation": {
-        "id": 822,
-        "title": "Persona99 & MaxDamage",
-        "type": "voice"
-      },
-      "year": 2005,
-      "last_season": 1,
-      "last_episode": 5,
-      "episodes_count": 5,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3854",
-      "shikimori_id": "2260",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-11T09:40:47Z",
-      "updated_at": "2020-08-11T09:40:47Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/703103/01b3d98032cad7c9f2639fa7ccfbc08a/720p",
-            "2": "//aniqit.com/seria/703104/fa9c00916ca89b4c27098f08a3926eda/720p",
-            "3": "//aniqit.com/seria/703105/1754004ff8744358a0772165fa6582ba/720p",
-            "4": "//aniqit.com/seria/703106/e87980e1e7bb7c12ed90b8a68809ea03/720p",
-            "5": "//aniqit.com/seria/703107/e813288f5eeb0809c9d2b393ac02b5f3/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Проект Кирамэки",
-        "title_en": "Kirameki☆Project",
-        "other_titles_jp": [
-          "きらめき☆プロジェクト"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "poster_url": "https://shikimori.one/system/animes/original/2260.jpg",
-        "anime_genres": [
-          "Комедия",
-          "Меха",
-          "Фантастика",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Studio Fantasia"
-        ],
-        "shikimori_rating": 6.23,
-        "shikimori_votes": 32,
-        "aired_at": "2005-06-24",
-        "released_at": "2006-02-24",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 5,
-        "episodes_aired": 0
-      }
-    },
-    {
-      "id": "movie-58771",
-      "type": "anime",
-      "link": "",
-      "title": "Кит на стеклянной волне",
-      "title_orig": "Glassy Ocean: Kujira no Chouyaku",
-      "other_title": "Kujira no Chouyaku",
-      "translation": {
-        "id": 1029,
-        "title": "Sad Kit",
-        "type": "voice"
-      },
-      "year": 1998,
-      "kinopoisk_id": "500322",
-      "imdb_id": "tt2402540",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4069",
-      "shikimori_id": "1204",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-11T09:39:23Z",
-      "updated_at": "2020-08-11T09:39:23Z",
-      "material_data": {
-        "title": "Кит на стеклянной волне",
-        "title_en": "Glassy Ocean: Kujira no Chouyaku",
-        "other_titles": [
-          "Glassy Ocean"
-        ],
-        "other_titles_jp": [
-          "クジラの跳躍"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 1998,
-        "description": "Добро пожаловать в мир, где зеленые стеклянные волны устремляются смешными бугорками к салатному небу, где можно собирать голыми руками застывших в полете летучих рыб, где полупрозрачные морские жители, внутри которых вполне комфортно существуют рыбки, споют вам свою неторопливую, плавную и текучую, как сама вода, песню - стоит только развести костер на вершине волны… Ах да, конечно же, самое главное! И где прыжок вынырнувшего из воды кита длится ровно шесть часов… И за это время он становится объединяющим звеном в жизнях стольких людей – около него встречаются старые друзья, звучат воспоминания, назначаются свидания… Около неподвижно застывшего в воздухе огромного тела.. И в каждой душе эта картина пробуждает что-то лучшее, какое-то странное умиротворение, покой, дарит мир, позволяя вспомнить что-то такое важное, но невероятно давно забытое…",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/500322.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/2e856e6d8f024185e19f527c69fc7dc43165221f.jpg",
-          "https://shikimori.one/system/screenshots/original/89136bf50fefad1fd7cb5aa2b5f6581fa0e39de0.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "короткометражка",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Детское",
-          "Драма",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Tamura Shigeru Studio"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 158,
-        "shikimori_rating": 6.67,
-        "shikimori_votes": 326,
-        "aired_at": "1998-11-14",
-        "rating_mpaa": "G",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "directors": [
-          "Тамура Сигэру"
-        ],
-        "composers": [
-          "Хироси Огасавара"
-        ]
-      }
-    },
-    {
-      "id": "movie-58770",
-      "type": "anime",
-      "link": "",
-      "title": "Кит на стеклянной волне",
-      "title_orig": "Glassy Ocean: Kujira no Chouyaku",
-      "other_title": "Kujira no Chouyaku",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1998,
-      "kinopoisk_id": "500322",
-      "imdb_id": "tt2402540",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4069",
-      "shikimori_id": "1204",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-11T09:38:26Z",
-      "updated_at": "2020-08-11T09:38:26Z",
-      "material_data": {
-        "title": "Кит на стеклянной волне",
-        "title_en": "Glassy Ocean: Kujira no Chouyaku",
-        "other_titles": [
-          "Glassy Ocean"
-        ],
-        "other_titles_jp": [
-          "クジラの跳躍"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 1998,
-        "description": "Добро пожаловать в мир, где зеленые стеклянные волны устремляются смешными бугорками к салатному небу, где можно собирать голыми руками застывших в полете летучих рыб, где полупрозрачные морские жители, внутри которых вполне комфортно существуют рыбки, споют вам свою неторопливую, плавную и текучую, как сама вода, песню - стоит только развести костер на вершине волны… Ах да, конечно же, самое главное! И где прыжок вынырнувшего из воды кита длится ровно шесть часов… И за это время он становится объединяющим звеном в жизнях стольких людей – около него встречаются старые друзья, звучат воспоминания, назначаются свидания… Около неподвижно застывшего в воздухе огромного тела.. И в каждой душе эта картина пробуждает что-то лучшее, какое-то странное умиротворение, покой, дарит мир, позволяя вспомнить что-то такое важное, но невероятно давно забытое…",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/500322.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/2e856e6d8f024185e19f527c69fc7dc43165221f.jpg",
-          "https://shikimori.one/system/screenshots/original/89136bf50fefad1fd7cb5aa2b5f6581fa0e39de0.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "короткометражка",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Детское",
-          "Драма",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Tamura Shigeru Studio"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 158,
-        "shikimori_rating": 6.67,
-        "shikimori_votes": 326,
-        "aired_at": "1998-11-14",
-        "rating_mpaa": "G",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "directors": [
-          "Тамура Сигэру"
-        ],
-        "composers": [
-          "Хироси Огасавара"
-        ]
-      }
-    },
-    {
-      "id": "serial-28567",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Сегодня и начну!",
-      "title_orig": "Kyou kara Ore wa!!",
-      "other_title": "今日から俺は!!",
-      "translation": {
-        "id": 820,
-        "title": "animereactor",
-        "type": "voice"
-      },
-      "year": 1993,
-      "last_season": 1,
-      "last_episode": 8,
-      "episodes_count": 8,
-      "kinopoisk_id": "807414",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4186",
-      "shikimori_id": "851",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-11T09:37:02Z",
-      "updated_at": "2020-08-11T09:37:02Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/703095/50535b7ecdbba6a5b6d90c2b6953042d/720p",
-            "2": "//aniqit.com/seria/703096/7e7aa0ee4fd01b37e17ed631120e9148/720p",
-            "3": "//aniqit.com/seria/703097/6a91e8eee32889dcf6cccd86424b2fdb/720p",
-            "4": "//aniqit.com/seria/703098/d4c11ac03d3cb37a1260638f0121140c/720p",
-            "5": "//aniqit.com/seria/703099/aa460077274f1eff73e183a36164687f/720p",
-            "6": "//aniqit.com/seria/703100/148b8c404d1da40e02e3f2ef82eabaff/720p",
-            "7": "//aniqit.com/seria/703101/557c7ffe1d8b5772d8c9696b929552ab/720p",
-            "8": "//aniqit.com/seria/703102/e06c2d4134c2a73724854dabf444e808/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Сегодня и начну!",
-        "title_en": "Kyou Kara Ore Wa!!",
-        "other_titles": [
-          "Kyou Kara Ore Ha!!",
-          "From Today I'll",
-          "From Today on I am"
-        ],
-        "other_titles_jp": [
-          "今日から俺は！！"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 1993,
-        "description": "Такаши Мицухаши — обычный школьник, который, однако, устал от своей обычности и непопулярности и дозрел до перемен. Шанс выпадает ему вместе с переездом. Новый дом, а значит новая школа, новые знакомства и возможность преподнести себя в свежем имидже. А что может быть лучше, чем образ отпетого хулигана? Внимание общественности обеспечено! И всё бы шло по плану, если бы не тот факт, что гениальные идеи летают в воздухе. И надо же такому случиться, что та же мысль приходит в голову еще одному новичку в классе — Шинджи Ито, такому же переведенному студенту, решившему изображать «бандюгана». Двое новоявленных хулиганов сразу же ссорятся, не стерпев конкуренции. К тому же оказывается, что характер у них прямо противоположный: Ито блюдет кодекс чести и обладает чувством справедливости, а прохвост Мицухаши не чурается грязных приемчиков, так как разумно полагает, что в драке главное — победа. Начав с взаимных претензий, после пары совместных разборок, парни становятся друзьями не разлей вода. И свершения их грозного дуэта прогремят по всей Японии!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/807414.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/3c3361d712406d21eb669d2f6e31c862ae60ef04.png",
-          "https://shikimori.one/system/screenshots/original/ee8d1340bdaa5c29b114a5b850ab24aecf3a94fd.png"
-        ],
-        "duration": 60,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Сёнен"
-        ],
-        "anime_studios": [
-          "Studio Pierrot"
-        ],
-        "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 103,
-        "shikimori_rating": 8.07,
-        "shikimori_votes": 1280,
-        "premiere_world": "1993-04-01",
-        "aired_at": "1992-12-11",
-        "released_at": "1997-12-21",
-        "rating_mpaa": "R",
-        "episodes_total": 10,
-        "episodes_aired": 0,
-        "actors": [
-          "Хидэюки Хори",
-          "Ясунори Мацумото",
-          "Аи Орикаса",
-          "Акио Оцука",
-          "Fumie Kusachi",
-          "Хидэюки Умэдзу",
-          "Яо Кадзуки",
-          "Кёко Хиками",
-          "Масами Кикути",
-          "Масаси Сугавара"
-        ],
-        "directors": [
-          "Такэси Мори"
-        ]
-      }
-    },
-    {
-      "id": "serial-28565",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Длинноногий папочка [ТВ]",
-      "title_orig": "Watashi no Ashinaga Ojisan",
-      "other_title": "Длинноногий дядюшка / My Daddy Long Legs",
-      "translation": {
-        "id": 1053,
-        "title": "Kedra",
-        "type": "voice"
-      },
-      "year": 1990,
-      "last_season": 1,
-      "last_episode": 40,
-      "episodes_count": 40,
-      "kinopoisk_id": "408728",
-      "imdb_id": "tt0168436",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4142",
-      "shikimori_id": "1375",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-11T09:33:23Z",
-      "updated_at": "2020-08-11T09:33:23Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/703045/1ca77ae3d5e6987a20fa7d3ec9cf7aa7/720p",
-            "2": "//aniqit.com/seria/703046/f450e3ade5d1182268da4f4d4b19422d/720p",
-            "3": "//aniqit.com/seria/703047/359eca9152954daee1bede4c14a6f7a1/720p",
-            "4": "//aniqit.com/seria/703048/b8e214938ed7912cd3587806ed3627ba/720p",
-            "5": "//aniqit.com/seria/703049/b1c9e61edfef772ae85bcfb9fe6654ff/720p",
-            "6": "//aniqit.com/seria/703050/ad044a673167bf2d7f2f273a79294c0a/720p",
-            "7": "//aniqit.com/seria/703051/e1613dcb2b0f5e155251870c79d40169/720p",
-            "8": "//aniqit.com/seria/703052/4d26a1991fccb22a00ca96dce7c72151/720p",
-            "9": "//aniqit.com/seria/703053/8f288ddfc7b7750f65842bcab260ddfa/720p",
-            "10": "//aniqit.com/seria/703054/98da12ad2a95315428ee6bead7698f7f/720p",
-            "11": "//aniqit.com/seria/703055/81b452a01ffaf11e4a58257961e51e0a/720p",
-            "12": "//aniqit.com/seria/703056/88d256c72e0699d50b28b20860154c16/720p",
-            "13": "//aniqit.com/seria/703057/b36f692bf81fa0b4325553d890471cfd/720p",
-            "14": "//aniqit.com/seria/703058/d4129a516cf3e129e760c6d166eb93d1/720p",
-            "15": "//aniqit.com/seria/703059/aa3624dc054b2a085781dfe287f8b2b1/720p",
-            "16": "//aniqit.com/seria/703060/c5decb2292a595c6319a6d6930389dc1/720p",
-            "17": "//aniqit.com/seria/703061/b6096188784e21fb0211b92c6be86a0f/720p",
-            "18": "//aniqit.com/seria/703062/7878303a6ef2990eaeadbda377a74f65/720p",
-            "19": "//aniqit.com/seria/703063/3eba1f34eb05eb54d042865e9a06dcf6/720p",
-            "20": "//aniqit.com/seria/703064/edbd9341235952ab8ac9ad49ca8e77e5/720p",
-            "21": "//aniqit.com/seria/703065/45052771a059abb3520e8fb42c732858/720p",
-            "22": "//aniqit.com/seria/703066/f52425cfecef2253da3e798cee2bdea2/720p",
-            "23": "//aniqit.com/seria/703067/fd47bcea46b499d8bc688ad65417dfc2/720p",
-            "24": "//aniqit.com/seria/703068/97643456fb33a54cbd30faaf64ae4115/720p",
-            "25": "//aniqit.com/seria/703069/9b0ace3afa187c1c512cc6e460da9eef/720p",
-            "26": "//aniqit.com/seria/703070/522edfbf9990f4b32c424874876ff0ab/720p",
-            "27": "//aniqit.com/seria/703071/354b4646fca980ee4a3eb695bd2a52d1/720p",
-            "28": "//aniqit.com/seria/703072/726ea7830480b06e10f32a632ab4f8f8/720p",
-            "29": "//aniqit.com/seria/703073/48be9eb4e6652da7c408e6638a9d6ea5/720p",
-            "30": "//aniqit.com/seria/703074/97c0f55dff09e30fa543f427da519cd3/720p",
-            "31": "//aniqit.com/seria/703075/f6a49d756e94f7f962a9e12e2fb0b1ee/720p",
-            "32": "//aniqit.com/seria/703076/da5f09ae999a03c52bb09174a68a3b2e/720p",
-            "33": "//aniqit.com/seria/703077/d129eb486b59162d8dd9fd205b64dbdb/720p",
-            "34": "//aniqit.com/seria/703078/81aba6278515719ac15aab43734f69bd/720p",
-            "35": "//aniqit.com/seria/703079/b91a6ac390812808577d166c678f38d7/720p",
-            "36": "//aniqit.com/seria/703080/5fe773caaf14f012c0d6538e1eb44968/720p",
-            "37": "//aniqit.com/seria/703081/c8684f850800b15e035c24ebfc3d14e0/720p",
-            "38": "//aniqit.com/seria/703082/ffb35fa444edc69af94faf77d486272c/720p",
-            "39": "//aniqit.com/seria/703083/bbb074e9b84d3ca371e462f932ecb149/720p",
-            "40": "//aniqit.com/seria/703084/be2462829d01c42a38014ab13ecb0b7f/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Длинноногий папочка",
-        "title_en": "Watashi no ashinaga ojisan",
-        "other_titles": [
-          "Длинноногий дядюшка",
-          "Sekai Meisaku Gekijou",
-          "Daddy-Long-Legs"
-        ],
-        "other_titles_en": [
-          "My Daddy Long Legs"
-        ],
-        "other_titles_jp": [
-          "私のあしながおじさん"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 1990,
-        "description": "Джуди пишет письма загадочному незнакомому дядюшке, который оплачивает её обучение в гимназии для девочек. Джуди — очень живая, непосредственная девушка с сильным и независимым характером. В её жизни происходит много интересного, но главная загадка — кто же этот таинственный дядюшка, которому она обязана своим образованием?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/408728.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/c95d963d99c12c055bdd39bc12f2ba33a2c1c00f.jpg",
-          "https://shikimori.one/system/screenshots/original/e253ea0b854e08c283a78d4921bbedfb20d04f46.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Исторический",
-          "Комедия",
-          "Повседневность",
-          "Романтика",
-          "Сёдзё",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Nippon Animation"
-        ],
-        "kinopoisk_rating": 8,
-        "kinopoisk_votes": 77,
-        "imdb_rating": 8.2,
-        "imdb_votes": 1204,
-        "shikimori_rating": 7.75,
-        "shikimori_votes": 276,
-        "premiere_world": "1990-01-14",
-        "aired_at": "1990-01-04",
-        "released_at": "1990-12-23",
-        "rating_mpaa": "G",
-        "episodes_total": 40,
-        "episodes_aired": 0,
-        "actors": [
-          "Мицуко Хориэ",
-          "Тиэ Сато"
-        ],
-        "directors": [
-          "Кадзуёси Ёкота",
-          "Такаёси Судзуки",
-          "Дзиро Саито",
-          "Синъити Мацуми",
-          "Цуёси Кага",
-          "Такэюки Садохара"
-        ],
-        "producers": [
-          "Такадзи Мацудо",
-          "Мотохаси Коити",
-          "Ёсихиса Накаяма",
-          "Сёдзи Сато",
-          "Кэндзи Симидзу",
-          "Масуносукэ Охаси"
-        ],
-        "writers": [
-          "Нобуюки Фудзимото",
-          "Джин Уэбстер",
-          "Хироси Оцука"
-        ],
-        "composers": [
-          "Ая Вакакуса"
-        ],
-        "editors": [
-          "Хироси Мэгуро",
-          "Тосихико Кодзима",
-          "Хадзимэ Окаясу",
-          "Эико Нисидэ",
-          "Хидэтоси Кадооно"
-        ],
-        "designers": [
-          "Сигэру Моримото"
-        ],
-        "operators": [
-          "Тосиаки Морита"
-        ]
-      }
-    },
-    {
-      "id": "serial-28564",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Лицензировано королевством",
-      "title_orig": "L/R: Licensed by Royalty",
-      "other_title": "L/R (Licensed By Royalty) / L/R Licensed by Royal",
-      "translation": {
-        "id": 829,
-        "title": "Animegroup",
-        "type": "voice"
-      },
-      "year": 2003,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "425887",
-      "imdb_id": "tt0435972",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3858",
-      "shikimori_id": "1456",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-11T09:27:42Z",
-      "updated_at": "2020-08-11T09:27:42Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/703033/bfb28d36c31af3d5c71c126bb54fc2cf/720p",
-            "2": "//aniqit.com/seria/703034/534319573ea30fabbd54cf2ef3b51971/720p",
-            "3": "//aniqit.com/seria/703035/0498a2c43389a3b1aa3dbb8ba5f2fca6/720p",
-            "4": "//aniqit.com/seria/703036/e23429e749a67ea804af0b554fed06ba/720p",
-            "5": "//aniqit.com/seria/703037/fe053e00187a5c511ea64d35018ea130/720p",
-            "6": "//aniqit.com/seria/703038/a149ada774223e45f49b8001927b0243/720p",
-            "7": "//aniqit.com/seria/703039/bacef84ce5f9f3f386c6e8281a84b575/720p",
-            "8": "//aniqit.com/seria/703040/787c6a7552413644fa814c9a6b699f24/720p",
-            "9": "//aniqit.com/seria/703041/076c962fc3a1325519419171edde47bb/720p",
-            "10": "//aniqit.com/seria/703042/05aafae0f445287ad500f352c751d362/720p",
-            "11": "//aniqit.com/seria/703043/1ce69fd538e02c8fe0e9e8a78edcef53/720p",
-            "12": "//aniqit.com/seria/703044/6928118001c7c5f8d892b6c10582245a/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Лицензировано королевством",
-        "title_en": "L/R: Licensed by Royal",
-        "other_titles_en": [
-          "Licensed by Royalty"
-        ],
-        "other_titles_jp": [
-          "L/R -Licensed by Royal-"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2003,
-        "tagline": "Twice the agents, twice the action and twice the fun",
-        "description": "В центре повествования работа специальных агентов королевской семьи Иштара — Джека Хофнера и Роу Рикенбакера . Вместе агенты ведут расследования, занимаются поиском драгоценностей королевского дома, работают телохранителями и выполняют иные поручения руководства. А в это время весь мир ожидает появления пропавшей пятнадцать лет назад наследницы престола, вот только никто не знает где она и как её найти.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/425887.jpg",
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "боевик",
-          "криминал",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Полиция",
-          "Приключения",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "TNK"
-        ],
-        "imdb_rating": 6.3,
-        "imdb_votes": 38,
-        "shikimori_rating": 6.5,
-        "shikimori_votes": 59,
-        "premiere_world": "2003-01-09",
-        "aired_at": "2003-01-08",
-        "released_at": "2003-03-26",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 0,
-        "actors": [
-          "Джейби Бланк",
-          "Heather Klinke",
-          "Сьюзэн Мэсси",
-          "Уильям Морган Шеппард",
-          "Фредди Дуглас",
-          "Шиван Флинн",
-          "Артур Берри",
-          "Ральф Листер",
-          "Барбара Гудсон",
-          "Эмметт Джеймс"
-        ],
-        "directors": [
-          "Джейби Бланк",
-          "Ицуро Кавасаки"
-        ],
-        "producers": [
-          "Рэико Мацуо",
-          "Сатоси Фудзии",
-          "Джей Клейн"
-        ],
-        "writers": [
-          "Кадзуки Матсуи"
-        ]
-      }
-    },
-    {
-      "id": "serial-28563",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Вперед! Школьная секция пинг-понга",
-      "title_orig": "Ike! Ina-chuu Takkyuubu",
-      "other_title": "Ping Pong Club",
-      "translation": {
-        "id": 827,
-        "title": "Persona99",
-        "type": "voice"
-      },
-      "year": 1995,
-      "last_season": 1,
-      "last_episode": 26,
-      "episodes_count": 26,
-      "kinopoisk_id": "416111",
-      "imdb_id": "tt0309163",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3917",
-      "shikimori_id": "914",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-11T09:25:00Z",
-      "updated_at": "2020-08-11T09:25:00Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/703000/1e5a356df4e95680207af4c3d26765eb/720p",
-            "2": "//aniqit.com/seria/703001/2957bac0d8404516f1421f678793ecb4/720p",
-            "3": "//aniqit.com/seria/703002/64800ff79f6db939a2a5dbda93b2b606/720p",
-            "4": "//aniqit.com/seria/703003/1a3c124769163ddc9e00d379aa253403/720p",
-            "5": "//aniqit.com/seria/703004/687e874ac73867027d70720e6d24f5ee/720p",
-            "6": "//aniqit.com/seria/703005/8fa34840e0e5bfbdbac335d881b60521/720p",
-            "7": "//aniqit.com/seria/703006/06082bd722b3f19bcf9a0b5febb73dce/720p",
-            "8": "//aniqit.com/seria/703007/543b0058d17fef7745e206827041c83e/720p",
-            "9": "//aniqit.com/seria/703008/673bec1e77e0d626c13804476eefd107/720p",
-            "10": "//aniqit.com/seria/703009/e0017ad40b0b75bcd0d06fda0e13d609/720p",
-            "11": "//aniqit.com/seria/703010/d10554919eb46a31ead2796373a83b5e/720p",
-            "12": "//aniqit.com/seria/703011/234abf6426e47b42314165738db495a3/720p",
-            "13": "//aniqit.com/seria/703012/ac879880a4d969dbfa96f93947f51f6c/720p",
-            "14": "//aniqit.com/seria/703013/7758ca578a6269355ba9bacc468adc07/720p",
-            "15": "//aniqit.com/seria/703014/6e99f679763e90e54c712f198c6b4a3f/720p",
-            "16": "//aniqit.com/seria/703015/22def7619e8c35cc28322507c5c16b71/720p",
-            "17": "//aniqit.com/seria/703016/5059aa56f73d8c9b3da58d568acd1290/720p",
-            "18": "//aniqit.com/seria/703017/587133dca0808c88191ad16c0c1a7358/720p",
-            "19": "//aniqit.com/seria/703018/7f13c2e613a5b02bb4cd607ad8f739ae/720p",
-            "20": "//aniqit.com/seria/703019/3afc3fa9ec77794ccccb0bd1502a939a/720p",
-            "21": "//aniqit.com/seria/703020/2a95413d966d2bef0c97542988c0a632/720p",
-            "22": "//aniqit.com/seria/703021/be2bac088ba6b96a440a1d4ad3c8046f/720p",
-            "23": "//aniqit.com/seria/703022/ea71db677f8200faf08e424611e25d6f/720p",
-            "24": "//aniqit.com/seria/703023/aac50512638e59e5757a74f7ace2b871/720p",
-            "25": "//aniqit.com/seria/703024/ff1ab9dd5fbf77ffa7eaa53c7b969ffd/720p",
-            "26": "//aniqit.com/seria/703025/e1f9d081608b466e664b4ecd1ee23e62/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Вперед! Школьная секция пинг-понга",
-        "title_en": "Ike! Ina-chuu Takkyuubu",
-        "other_titles": [
-          "Go! Ina Junior High Ping-Pong Club"
-        ],
-        "other_titles_en": [
-          "The Ping-Pong Club"
-        ],
-        "other_titles_jp": [
-          "行け! 稲中卓球部"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 1995,
-        "description": "В основе сюжета данного аниме-сериала лежат приключения школьного клуба по игре в пинг-понг. В него входят шесть таких не похожих друг на друга персонажей: сильный и решительный капитан команды Такеда, красавчик Киношта, добряк Танабе, маленький сексуально озабоченный Танака и двое совершенно сумасшедших чокнутых друзей Маэно и Изава, от выходок которых порой бросает в дрожь. \n\rБудучи объединёнными общей любовью к пинг-понгу, этим шестерым предстоит  сражаться за свою клубную комнату и сам клуб, участвовать в различных соревнованиях, попасть во множество нелепых смешных ситуаций, а самое главное не поубивать друг друга, так как если членов клуба станет меньше шести, то клуб ликвидируется.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/416111.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/06f653a4000521f751328c6d94a49e4542b7e5a1.jpg",
-          "https://shikimori.one/system/screenshots/original/56f90beec5123c0a8ecdbd521b86898c7b49ac8e.jpg"
-        ],
-        "duration": 26,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Спорт",
-          "Школа",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Studio Hibari"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 143,
-        "imdb_rating": 7.7,
-        "imdb_votes": 120,
-        "shikimori_rating": 7.57,
-        "shikimori_votes": 543,
-        "premiere_world": "1995-04-05",
-        "aired_at": "1995-04-06",
-        "released_at": "1995-09-28",
-        "rating_mpaa": "R+",
-        "episodes_total": 26,
-        "episodes_aired": 0,
-        "actors": [
-          "Дзёдзи Накада",
-          "Косукэ Окано",
-          "Такуми Ямадзаки",
-          "Цутому Такаяма",
-          "Сусуму Касэта",
-          "Ясухиро Такато",
-          "Масато Амада",
-          "Сакура Уэхара",
-          "Нанами Куросаки",
-          "Тё"
-        ],
-        "directors": [
-          "Масами Хата"
-        ],
-        "producers": [
-          "Норио Ямакава",
-          "Джон О’Доннелл"
-        ],
-        "writers": [
-          "Сукэхиро Томита",
-          "Минору Фуруя"
         ]
       }
     }
