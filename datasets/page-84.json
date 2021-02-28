@@ -1,6 +1,1380 @@
 {
   "results": [
     {
+      "id": "movie-57559",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Платиновые данные",
+      "title_orig": "Puratina Deta",
+      "other_title": "Platinum Data",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2013,
+      "kinopoisk_id": "719747",
+      "imdb_id": "tt2282917",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-07T08:03:20Z",
+      "updated_at": "2020-07-07T08:03:20Z",
+      "material_data": {
+        "title": "Платиновые данные",
+        "title_en": "Puratina Deta",
+        "year": 2013,
+        "description": "2017 год: японское правительство пытается тайно контролировать ДНК своего народа. Рюхэй Кагура является одним из лучших ученых в области анализа ДНК. Он работает в исследовательском учреждении, которое контролирует национальное полицейское агентство.\n\rКогда убивают изобретателя системы анализа ДНК, на месте убийства находят ДНК Кагуры. Став главным подозреваемым, он вынужден бежать. Детектив Рейджи Асама начинает погоню.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/719747.jpg",
+        "duration": 133,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "детектив",
+          "фантастика"
+        ],
+        "kinopoisk_rating": 6.2,
+        "kinopoisk_votes": 180,
+        "imdb_rating": 5.7,
+        "imdb_votes": 482,
+        "premiere_world": "2013-03-16",
+        "actors": [
+          "Кадзунари Ниномия",
+          "Эцуси Тоёкава",
+          "Хонами Судзуки",
+          "Кацухиса Намасэ",
+          "Аннэ Ватанабэ",
+          "Кико Мидзухара"
+        ],
+        "directors": [
+          "Кэиси Отомо"
+        ],
+        "producers": [
+          "Джули К. Фудзисима",
+          "Минами Итикава",
+          "Киёми Каназава",
+          "Акихиро Ямаути"
+        ],
+        "writers": [
+          "Кэйго Хигасино",
+          "Хидэя Хамада"
+        ],
+        "composers": [
+          "Хироюки Савано"
+        ],
+        "editors": [
+          "Цуёси Имаи"
+        ],
+        "designers": [
+          "Со Хасимото"
+        ],
+        "operators": [
+          "Акира Сако"
+        ]
+      }
+    },
+    {
+      "id": "serial-26419",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Операция «Буффало»",
+      "title_orig": "Operation Buffalo",
+      "translation": {
+        "id": 752,
+        "title": "IDEAFILM",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 6,
+      "episodes_count": 6,
+      "kinopoisk_id": "1354700",
+      "imdb_id": "tt11853364",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-31T23:11:23Z",
+      "updated_at": "2020-07-07T07:31:32Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/660952/e188ab3b4448b981336e9db045b33b29/720p",
+            "2": "//kodik.cc/seria/664248/1c76e74cb0bdfbeb7017996cc81816fa/720p",
+            "3": "//kodik.cc/seria/668956/af6ccb9355fa265940dde5faa9789b1f/720p",
+            "4": "//kodik.cc/seria/673550/10badc3a7b07de3b67133661521603cd/720p",
+            "5": "//kodik.cc/seria/677799/f7b69bca1a16348021166f4d018c5c2c/720p",
+            "6": "//kodik.cc/seria/681553/bef3e4e14ee43aabd791076d09c290de/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Операция Буффало",
+        "title_en": "Operation Buffalo",
+        "year": 2020,
+        "tagline": "Mushroom clouds, misadventure and murder",
+        "description": "В Маралинге, Южная Австралия, в разгар холодной войны на отдаленной военной базе, где Великобритания проводит ядерные испытания, процветает паранойя: бомбы - не единственное, что подвергается проверке.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1354700.jpg",
+        "duration": 52,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "драма",
+          "комедия",
+          "триллер"
+        ],
+        "imdb_rating": 6.3,
+        "imdb_votes": 409,
+        "premiere_world": "2020-05-31",
+        "actors": [
+          "Ивен Лесли",
+          "Джессика Де Гау",
+          "Джеймс Кромуэлл",
+          "Тони Мартин",
+          "Алан Дьюкс",
+          "Сэм Парсонсон",
+          "Alexander Bertrand",
+          "Бренден Ловетт",
+          "Бенедикт Уолл",
+          "Эдриэнн Пикеринг"
+        ],
+        "directors": [
+          "Питер Дункан"
+        ],
+        "producers": [
+          "Ванесса Браун",
+          "Питер Дункан",
+          "Эндрю Грегори",
+          "Tanya Phegan",
+          "Amy Powter",
+          "Сэлли Райли",
+          "Анита Шиэн",
+          "Винсент Шиэн",
+          "Лиз Уоттс"
+        ],
+        "writers": [
+          "Эндрю Анастасиос",
+          "Питер Дункан",
+          "Tanya Phegan"
+        ],
+        "composers": [
+          "Энтони Партос"
+        ],
+        "editors": [
+          "Марк Перри"
+        ],
+        "designers": [
+          "Колин Гибсон",
+          "Николас ДаРе",
+          "Венди Корк",
+          "Джастин Данн"
+        ],
+        "operators": [
+          "Мартин МакГрат"
+        ]
+      }
+    },
+    {
+      "id": "movie-57556",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Прекрасный несчастный случай",
+      "title_orig": "Mei hao de yi wai",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1044622",
+      "imdb_id": "tt6797204",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-07T06:54:15Z",
+      "updated_at": "2020-07-07T06:54:15Z",
+      "material_data": {
+        "title": "Прекрасный несчастный случай",
+        "title_en": "Mei hao de yi wai",
+        "year": 2017,
+        "description": "Успешная адвокатесса имеет наглость жить одна в огромной квартире и ни о ком не заботиться. Ни мужа, ни детей. Но на небесах лучше знают, что такое женское счастье, поэтому женщина попадает в аварию, умирает и оказывается в небесной канцелярии. А там, конечно же случайно, произошла ошибка, и теперь, чтобы вернуть свою никчемную и бесполезную жизнь независимой женщины, она должна пожить в теле домохозяйки с двумя детьми.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1044622.jpg",
+        "duration": 105,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "мелодрама",
+          "фэнтези"
+        ],
+        "imdb_rating": 6.6,
+        "imdb_votes": 266,
+        "premiere_world": "2017-05-25",
+        "actors": [
+          "Квай Луньмэй",
+          "Ван Цзинчунь",
+          "Нана Оуян",
+          "Уильям Ван",
+          "Чэнь Кунь",
+          "Yen-chuang Chen",
+          "Kai-Yuan Cheng",
+          "Kuang-Yao Fan",
+          "Eugene Chun-Hui Hsieh",
+          "Се Иншуань"
+        ],
+        "directors": [
+          "Хо Ви-Дин"
+        ],
+        "writers": [
+          "Ха Чжичао",
+          "Ким Джэ-ён",
+          "Гарри Сегалл",
+          "Jialin Zhou"
+        ],
+        "operators": [
+          "Вэйд Мюллер"
+        ]
+      }
+    },
+    {
+      "id": "serial-18552",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Следователи за работой",
+      "title_orig": "Dallineun josagwan",
+      "other_title": "Бегущий следователь / Гонки следователей / Investigation Couple / The Running Mates: Human Rights / Running Investigator / The Defender: Human Rights",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 14,
+      "episodes_count": 14,
+      "kinopoisk_id": "1248518",
+      "imdb_id": "tt10826036",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-09-21T13:40:17Z",
+      "updated_at": "2020-07-07T06:23:21Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/487408/5883999eeee817de22228e25cdb0b2c6/720p",
+            "2": "//kodik.cc/seria/487537/b13bcef90f1c95efd9bda65abbeccee6/720p",
+            "3": "//kodik.cc/seria/489930/52f6de21cdbfe33d7bfe67dccd6dc197/720p",
+            "4": "//kodik.cc/seria/491688/dd79bb3e6f8933eeec30809b796f6ef4/720p",
+            "5": "//kodik.cc/seria/500563/7e4908e8946bf52721449f3267ebb059/720p",
+            "6": "//kodik.cc/seria/521517/b8fbe374e6f87b5b58b1f477c0f7df0b/720p",
+            "7": "//kodik.cc/seria/524190/0e389a83f04383b8c0fe3510139914ec/720p",
+            "8": "//kodik.cc/seria/533203/c299bfea17ab73aacd646d1ec091ecbb/720p",
+            "9": "//kodik.cc/seria/665261/af2f6cc20ae57cee1d5f44140ac75d34/720p",
+            "10": "//kodik.cc/seria/669798/d544805bf11dc04468b62a67eb7587d5/720p",
+            "11": "//kodik.cc/seria/674530/b89650301b8d03676489344a31eefcb9/720p",
+            "12": "//kodik.cc/seria/679591/bf43bb8726f400134de605ff4a5887c2/720p",
+            "13": "//kodik.cc/seria/681483/203344a9f8f9433f14ddb73d025bc0c4/720p",
+            "14": "//kodik.cc/seria/730746/75bfe013c46f236090cd1688540f48d4/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Следователи за работой",
+        "title_en": "Dallineun josagwan",
+        "year": 2019,
+        "description": "Будни сотрудников комиссии по правам человека.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1248518.jpg",
+        "duration": 60,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "детектив",
+          "драма",
+          "криминал"
+        ],
+        "imdb_rating": 7.9,
+        "imdb_votes": 8,
+        "premiere_world": "2019-09-18",
+        "actors": [
+          "Ли Ё-вон",
+          "Чхве Гви-хва",
+          "Чан Хён-сон",
+          "О Ми-хи",
+          "Ли Джу-у",
+          "Ким Джу-ён",
+          "Щим Джи-хо",
+          "Чан Джон-ён",
+          "Ким Рве-ха",
+          "Щин Сон-иль"
+        ],
+        "directors": [
+          "Ким Ён-су"
+        ]
+      }
+    },
+    {
+      "id": "movie-57553",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мой парень на таблетках",
+      "title_orig": "My Boyfriend's Meds",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1192599",
+      "imdb_id": "tt8976664",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-07T05:22:23Z",
+      "updated_at": "2020-07-07T05:22:23Z",
+      "material_data": {
+        "title": "My Boyfriend's Meds",
+        "title_en": "",
+        "year": 2020,
+        "tagline": "Get Ready for One Crazy Trip",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1192599.jpg",
+        "duration": 100,
+        "countries": [
+          "Мексика"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "imdb_rating": 4.3,
+        "imdb_votes": 334,
+        "premiere_world": "2020-02-14",
+        "rating_mpaa": "R",
+        "minimal_age": 16,
+        "actors": [
+          "Марко Антонио Агирре",
+          "Джейсон Александер",
+          "Pamela Almanza",
+          "Луис Арриета",
+          "Брайан Баумгартнер",
+          "Ана Белена",
+          "Хайме Камиль",
+          "Сандра Эчеверриа",
+          "Кевин Холт",
+          "Моника Уарте"
+        ],
+        "directors": [
+          "Диего Каплан"
+        ],
+        "producers": [
+          "Бен Силверман",
+          "Родриго Калдерон",
+          "Хайме Камиль",
+          "Aaron Rivera-Ashford",
+          "Джей Уэйследер",
+          "Леонардо Симброн"
+        ],
+        "writers": [
+          "Диего Каплан",
+          "Гари Маркс"
+        ],
+        "composers": [
+          "Иван Вышогрод"
+        ],
+        "editors": [
+          "Vanesa Ferrario"
+        ],
+        "designers": [
+          "Мигель Анхель Альварес",
+          "Elisa Martín González",
+          "Лорена Тиноко"
+        ],
+        "operators": [
+          "Эмильяно Вильянуэва"
+        ]
+      }
+    },
+    {
+      "id": "serial-25275",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Руководство сотен демонов",
+      "title_orig": "Manual of Hundred Demons",
+      "other_title": "Хроники сотни демонов / Bai Yao Pu / Hundred Demon Spectrum",
+      "translation": {
+        "id": 825,
+        "title": "AniMaunt",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=85913",
+      "shikimori_id": "41224",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-29T23:02:21Z",
+      "updated_at": "2020-07-06T19:48:15Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/639151/4ebc74c8b9a73be564ee22f06fc2bb76/720p",
+            "2": "//aniqit.com/seria/639152/c3a45ac3166a207103a432228b79ee7e/720p",
+            "3": "//aniqit.com/seria/640959/37cf5e4c9e4db246d3330a28cce60cb6/720p",
+            "4": "//aniqit.com/seria/645352/f3b0a194da9a74163650cf4d066d9a1e/720p",
+            "5": "//aniqit.com/seria/648706/31d01520fecd6f8e62ef091c1db2db12/720p",
+            "6": "//aniqit.com/seria/673407/16ced9786798632ee81e548b7f3d4f8f/720p",
+            "7": "//aniqit.com/seria/673408/116e3dbdc7844c22eac88288fe43d019/720p",
+            "8": "//aniqit.com/seria/673409/3db305d49e6077f59753817c5cd7b585/720p",
+            "9": "//aniqit.com/seria/673410/c7271e18a32cfba4de8e39d9d871ab56/720p",
+            "10": "//aniqit.com/seria/673411/2dfc21561988f8c93548f2a4f775730e/720p",
+            "11": "//aniqit.com/seria/681349/15b0413df783163cd288172e630e0d19/720p",
+            "12": "//aniqit.com/seria/681350/198012cf7317b15623d40fda588ee30b/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Руководство сотен демонов",
+        "title_en": "Bai Yao Pu",
+        "other_titles": [
+          "Хроники сотни демонов",
+          "Manual of Hundred Demons",
+          "Hundred Demon Spectrum"
+        ],
+        "other_titles_en": [
+          "Fairies Albums"
+        ],
+        "other_titles_jp": [
+          "百妖谱"
+        ],
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "description": "Эта история поведает нам о необычной целительнице Таояо, путешествующей в компании маленького монаха и лисёнка. Необычность девушки заключается в целебном даре, который она применяет лишь к демонам и духам. Маленькая компания странствует из одного уголка страны в другой, попутно встречая на своём пути самых разных представителей мистических существ — двухцветного лиса, птицу, извергающую золото, человека-волка, маленького духа, рождающегося в воде, и прочих существ. Судьба и история каждого демона не могут оставить равнодушным, и целительница Тао помогает им избавиться от горечи и страданий, исцеляя не только физические раны, но и душевные.",
+        "poster_url": "https://shikimori.one/system/animes/original/41224.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/572aeaa5581df7e536558be1439e8b1de18f0aff.jpg",
+          "https://shikimori.one/system/screenshots/original/4b9dbbfdaf62852d5225b93605fb54fbfc1338a6.jpg"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Исторический",
+          "Приключения",
+          "Сверхъестественное",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Haoliners Animation League"
+        ],
+        "shikimori_rating": 6.95,
+        "shikimori_votes": 471,
+        "aired_at": "2020-04-25",
+        "released_at": "2020-07-04",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12
+      }
+    },
+    {
+      "id": "serial-23110",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Покемон",
+      "title_orig": "Pocket Monsters (2019)",
+      "other_title": "ポケットモンスター (2019)",
+      "translation": {
+        "id": 1070,
+        "title": "MedusaSub.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2019,
+      "last_season": 23,
+      "last_episode": 24,
+      "episodes_count": 24,
+      "kinopoisk_id": "79517",
+      "imdb_id": "tt0176385",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10274",
+      "shikimori_id": "40351",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-02-24T11:17:47Z",
+      "updated_at": "2020-07-06T17:28:11Z",
+      "seasons": {
+        "23": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/595283/17c4dd68c65ec570f7c1634da3ee0780/720p",
+            "2": "//aniqit.com/seria/595284/1a4592f5344b16214e380fa5d6a1196d/720p",
+            "3": "//aniqit.com/seria/595285/230b63c5d49630a6756774c3994974ab/720p",
+            "4": "//aniqit.com/seria/595286/a4f0ca7a4d26807406004b388d627cec/720p",
+            "5": "//aniqit.com/seria/595287/7f61407303fe9e7f9c5621ed7d7acb30/720p",
+            "6": "//aniqit.com/seria/595288/6db8760ba52081e464a211ac16938e11/720p",
+            "7": "//aniqit.com/seria/595289/e14a46191f7b405aa4e3610b182072ea/720p",
+            "8": "//aniqit.com/seria/595290/9578946b38cea4c8049cc732050c2021/720p",
+            "9": "//aniqit.com/seria/595291/19c53f907b28136c4fa37ca459790ad9/720p",
+            "10": "//aniqit.com/seria/595292/28ed8c908488dece979c131ad0993063/720p",
+            "11": "//aniqit.com/seria/595293/6269a3c1b9fa96da1b49564592716760/720p",
+            "12": "//aniqit.com/seria/595294/2a579ffb40c0cf607dac214a7f8ced52/720p",
+            "13": "//aniqit.com/seria/595295/33b71846e5c07f25486529da09ba83fd/720p",
+            "14": "//aniqit.com/seria/655179/07e963cc5add29f8888be10ca9e527aa/720p",
+            "15": "//aniqit.com/seria/655180/048e77562d8aa4493ccd847da908c27d/720p",
+            "16": "//aniqit.com/seria/655181/bab497f17ed15d2317b4e669a64d81e7/720p",
+            "17": "//aniqit.com/seria/655184/babda51ba96ea8dec9791e90532de9f6/720p",
+            "18": "//aniqit.com/seria/657781/a73d3af70745ed125682462123c71b74/720p",
+            "19": "//aniqit.com/seria/658203/5709d3dd87c2d8f94a2710de035c995e/720p",
+            "20": "//aniqit.com/seria/663869/6f044315b7655047e8c3c5552adaaf8a/720p",
+            "21": "//aniqit.com/seria/663870/cf5dd23090d096b370d6f9ee560e17ed/720p",
+            "22": "//aniqit.com/seria/663872/1a8c495a997e3f5014aa8e4d64d1cd93/720p",
+            "23": "//aniqit.com/seria/681284/5e4b9ce0ab585e6362efc1452701e1dc/720p",
+            "24": "//aniqit.com/seria/681285/39b90e870063ad5930b022400a39d536/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Покемон",
+        "title_en": "Pokémon",
+        "other_titles": [
+          "Pocket Monsters",
+          "Pokemon 2019",
+          "Pokémon"
+        ],
+        "other_titles_en": [
+          "Pokemon Journeys: The Series"
+        ],
+        "other_titles_jp": [
+          "ポケットモンスター"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "ongoing",
+        "year": 1997,
+        "tagline": "Gotta catch 'em all!",
+        "description": "Мальчик Эш отправляется со своим первым покемоном Пикачу в путешествие с целью стать величайшим Мастером Покемонов на свете. По пути к нему присоединяются Брок, повернутый на девочках тренер каменных покемонов, и девчонка-сорванец Мисти, тренер водяных покемонов, которой, похоже, приглянулся Эш. Друзья путешествуют по всей стране, участвуя в различных соревнованиях покемонов. Однако по дороге им все время мешают Джесси, Джеймс и Мяут — троица воришек, охотящихся за Пикачу.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/79517.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/39079b416d1ce0919f6162d8c3f20ca64dbc9cad.jpg",
+          "https://shikimori.one/system/screenshots/original/ce1b7bf5095855150a594187378420ef2c8ecad0.jpg"
+        ],
+        "duration": 22,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Детское",
+          "Комедия",
+          "Приключения",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "OLM"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 19663,
+        "imdb_rating": 7.5,
+        "imdb_votes": 26774,
+        "shikimori_rating": 7.28,
+        "shikimori_votes": 250,
+        "premiere_world": "1998-09-08",
+        "aired_at": "2019-11-17",
+        "rating_mpaa": "PG",
+        "minimal_age": 12,
+        "episodes_total": 0,
+        "episodes_aired": 56,
+        "writers": [
+          "Дзюнъити Масуда",
+          "Кэн Сугимори",
+          "Сатоси Тадзири"
+        ]
+      }
+    },
+    {
+      "id": "serial-25932",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Легенда о Белом Коте",
+      "title_orig": "Da Li Si Ri Zhi",
+      "other_title": "High Court's Journal / The Journal of Dali Temple / White Cat Legend / Dali Si Rizhi",
+      "translation": {
+        "id": 923,
+        "title": "AnimeVost",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "imdb_id": "tt12516564",
+      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=88585",
+      "shikimori_id": "38742",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-22T08:43:01Z",
+      "updated_at": "2020-07-06T14:18:48Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/652511/25cff7c9b6b89f079aaf9c0af9dc3b5c/720p",
+            "2": "//aniqit.com/seria/652512/99518d31cfaf01b4de425e742a5fe92c/720p",
+            "3": "//aniqit.com/seria/652513/d246a60f73f2ce8ec6740892e6d64b85/720p",
+            "4": "//aniqit.com/seria/652514/ee79abc2d3d883945740329a94e2112c/720p",
+            "5": "//aniqit.com/seria/652515/4ccb9dad31bb6809a0911e25775aed0a/720p",
+            "6": "//aniqit.com/seria/652516/98b1174829b87d044c2edf1328e456a8/720p",
+            "7": "//aniqit.com/seria/652517/f69d801316a67e6b22d9b77e9cb3e029/720p",
+            "8": "//aniqit.com/seria/653813/73e69042412548a37f54eea190e6bc20/720p",
+            "9": "//aniqit.com/seria/660604/5423bda85f7c0a90a5f1874dffcff2bd/720p",
+            "10": "//aniqit.com/seria/665864/21aba55e08dd409cbdbfb429bc622144/720p",
+            "11": "//aniqit.com/seria/674455/cd9c4c39cb94707f37e76881fced9b8e/720p",
+            "12": "//aniqit.com/seria/681115/acb66bf3c5aa841e6ff0b2a8bdf4302c/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Легенда о Белом Коте",
+        "title_en": "Da Li Si Rizhi",
+        "other_titles": [
+          "Dalisi Rizhi",
+          "The Journal of Dali Temple"
+        ],
+        "other_titles_en": [
+          "White Cat Legend"
+        ],
+        "other_titles_jp": [
+          "大理寺日志"
+        ],
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "poster_url": "https://shikimori.one/system/animes/original/38742.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/556ca87ed12d9b88c8139e4772d10c041fa1b3cd.jpg",
+          "https://shikimori.one/system/screenshots/original/159be81329f3d77fe5df4cf406752d118bdc18fe.jpg"
+        ],
+        "anime_genres": [
+          "Боевые искусства",
+          "Демоны",
+          "Детектив",
+          "Исторический",
+          "Комедия",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Nice Boat Animation"
+        ],
+        "shikimori_rating": 6.73,
+        "shikimori_votes": 285,
+        "aired_at": "2020-04-10",
+        "released_at": "2020-07-03",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12
+      }
+    },
+    {
+      "id": "serial-27245",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Буду серьёзней в следующей жизни",
+      "title_orig": "Raise de wa Chanto Shimasu",
+      "other_title": "Я сделаю это в будущей жизни / Я буду делать это и в следующей жизни / In the Next Life I Will Be Serious / I will do it in the next life",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1325620",
+      "imdb_id": "tt11348386",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-06-29T10:30:46Z",
+      "updated_at": "2020-07-06T13:16:34Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/677379/b3d59b57925809c702d9e10b2be7e1a8/720p",
+            "2": "//kodik.cc/seria/677380/53e7a4d328a9a5e874dbee1255218c0f/720p",
+            "3": "//kodik.cc/seria/677381/29c0be9e7a27cb79323a6465ec96adf2/720p",
+            "4": "//kodik.cc/seria/677382/8827fb0c1ea3be9f0c2eb187a23dd25d/720p",
+            "5": "//kodik.cc/seria/678728/980c51d5cc354d4c578b53eb3ba09915/720p",
+            "6": "//kodik.cc/seria/678729/269f402496cfe784f8b8ade0e8264c8f/720p",
+            "7": "//kodik.cc/seria/678730/e9b950fec6dbb28baf30a49ae5b7dc46/720p",
+            "8": "//kodik.cc/seria/679315/eacd76f3e63e2c0a74586619a44e1a50/720p",
+            "9": "//kodik.cc/seria/679691/610f18ae0a0e7a5abe16dad4a9a6f950/720p",
+            "10": "//kodik.cc/seria/680548/4f64f5d218f7d1cae0e2be4124c4d3e1/720p",
+            "11": "//kodik.cc/seria/680549/115528138b5c804b80a19f8f121d5862/720p",
+            "12": "//kodik.cc/seria/681095/4ef0f5ac856fae3471a30a5bb8ae7fde/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Буду серьёзней в следующей жизни",
+        "title_en": "Raise de wa Chanto Shimasu",
+        "year": 2020,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 5.4,
+        "imdb_votes": 75,
+        "premiere_world": "2020-01-08",
+        "actors": [
+          "Рио Утида",
+          "Такэнори Гото",
+          "Юта Косэки",
+          "Рина Ота",
+          "Цубаса Тобинага",
+          "Тика Накагава",
+          "Акихиса Сионо",
+          "Mayu Ura",
+          "Фудзико Кодзима",
+          "Ютаро"
+        ],
+        "directors": [
+          "Коитиро Мики",
+          "Макико Мидзогути"
+        ],
+        "writers": [
+          "Сорами Датэ",
+          "Макико Мидзогути"
+        ]
+      }
+    },
+    {
+      "id": "serial-27288",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Обитель мрачного мононокэ [ТВ-1]",
+      "title_orig": "Fukigen na Mononokean",
+      "other_title": "Угрюмый заклинатель духов / Угрюмый хранитель мононоке / Хижина угрюмого Мононоке",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "994543",
+      "imdb_id": "tt5839698",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8661",
+      "shikimori_id": "32696",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-06-30T14:43:59Z",
+      "updated_at": "2020-07-06T13:14:41Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/678259/caad6a1fbaedc3629943313a7ae39c66/720p",
+            "2": "//aniqit.com/seria/678260/16863c46319810cb79eb1f9f898d39ea/720p",
+            "3": "//aniqit.com/seria/678261/6f44e68c9004d4c7891ac44357ecc620/720p",
+            "4": "//aniqit.com/seria/678262/4f66f0608ef5bf2d175a77c03f543a2c/720p",
+            "5": "//aniqit.com/seria/678263/39be1534e3b750640e750da2166ca6cd/720p",
+            "6": "//aniqit.com/seria/678264/2e9e93dcc6f714dbe5367dab4cbda282/720p",
+            "7": "//aniqit.com/seria/678265/121586899ab36ad6d81f3f71406b339a/720p",
+            "8": "//aniqit.com/seria/678266/4c2e5ee5792755941ecad34c1174dcbe/720p",
+            "9": "//aniqit.com/seria/679419/b320aeb277d7d1176d7aca76410ae2d0/720p",
+            "10": "//aniqit.com/seria/679420/e5d2558cbd2d046def22529ad7cf020e/720p",
+            "11": "//aniqit.com/seria/679833/0b0b35611c1f6473d4c60c8657b9183a/720p",
+            "12": "//aniqit.com/seria/680584/03f0fc9a495951bcd49f2b0df7dd1bbd/720p",
+            "13": "//aniqit.com/seria/681090/b65db1baa3974d0baaa39a97a5fc8096/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Угрюмый заклинатель духов",
+        "title_en": "Fukigen na Mononokean",
+        "other_titles": [
+          "Угрюмый Мононокэан",
+          "Угрюмый хозяин обители мононокэ",
+          "Обитель мрачного мононокэ",
+          "Хижина угрюмого мононокэ"
+        ],
+        "other_titles_en": [
+          "The Morose Mononokean"
+        ],
+        "other_titles_jp": [
+          "不機嫌なモノノケ庵"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2016,
+        "description": "Шел себе Ханаэ по дороге, никого не трогал. Ну, почти никого. Кроме одного пушистого ёкая, который приклеился к нему не хуже банного листа. И вот начало учебного года новоиспеченный старшеклассник вынужден провести не с одноклассниками, а на больничной койке. К счастью (или на беду), нашелся один владелец небольшой чайной, способный помочь Ханаэ в его беде. Разумеется, за «умеренную» плату. Зовут его Харуйцуки Абэно, и он крайне угрюмая личность, которая занимается тем, что провожает заплутавших в человеческом мире ёкаев в мир потусторонний.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/994543.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/b3f4e34f345d9f79f1bfd80970efb8dc59afc565.jpg",
+          "https://shikimori.one/system/screenshots/original/8066834d67932b1a98b0e86f560f979184164b10.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Демоны",
+          "Комедия",
+          "Сверхъестественное"
+        ],
+        "anime_studios": [
+          "Pierrot Plus"
+        ],
+        "kinopoisk_rating": 7.4,
+        "kinopoisk_votes": 759,
+        "imdb_rating": 7.1,
+        "imdb_votes": 203,
+        "shikimori_rating": 7.42,
+        "shikimori_votes": 5082,
+        "premiere_world": "2016-06-28",
+        "aired_at": "2016-06-28",
+        "released_at": "2016-09-20",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 13,
+        "episodes_aired": 13,
+        "actors": [
+          "Дзюнъити Сувабэ",
+          "Кисё Танияма",
+          "Юки Кадзи",
+          "Томоаки Маэно"
+        ],
+        "directors": [
+          "Акира Иванага"
+        ],
+        "writers": [
+          "Такао Ёсиока"
+        ]
+      }
+    },
+    {
+      "id": "serial-26400",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Операция «Буффало»",
+      "title_orig": "Operation Buffalo",
+      "translation": {
+        "id": 611,
+        "title": "ColdFilm",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 6,
+      "episodes_count": 6,
+      "kinopoisk_id": "1354700",
+      "imdb_id": "tt11853364",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-31T23:11:23Z",
+      "updated_at": "2020-07-06T10:50:25Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/660704/d623ec4895f83665754479127a72a011/720p",
+            "2": "//kodik.cc/seria/664221/8664c9d483032b9663914ef5271b1183/720p",
+            "3": "//kodik.cc/seria/668397/e154124da6bee5c564febbcae880a135/720p",
+            "4": "//kodik.cc/seria/673151/e587c6a1f7b84a730dc23a8e307f2992/720p",
+            "5": "//kodik.cc/seria/676999/a2b5a5fcc8d79d265f5b086c18da5423/720p",
+            "6": "//kodik.cc/seria/681066/047c503391a6601dc10b6d1cb5040913/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Операция Буффало",
+        "title_en": "Operation Buffalo",
+        "year": 2020,
+        "tagline": "Mushroom clouds, misadventure and murder",
+        "description": "В Маралинге, Южная Австралия, в разгар холодной войны на отдаленной военной базе, где Великобритания проводит ядерные испытания, процветает паранойя: бомбы - не единственное, что подвергается проверке.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1354700.jpg",
+        "duration": 52,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "драма",
+          "комедия",
+          "триллер"
+        ],
+        "imdb_rating": 6.3,
+        "imdb_votes": 409,
+        "premiere_world": "2020-05-31",
+        "actors": [
+          "Ивен Лесли",
+          "Джессика Де Гау",
+          "Джеймс Кромуэлл",
+          "Тони Мартин",
+          "Алан Дьюкс",
+          "Сэм Парсонсон",
+          "Alexander Bertrand",
+          "Бренден Ловетт",
+          "Бенедикт Уолл",
+          "Эдриэнн Пикеринг"
+        ],
+        "directors": [
+          "Питер Дункан"
+        ],
+        "producers": [
+          "Ванесса Браун",
+          "Питер Дункан",
+          "Эндрю Грегори",
+          "Tanya Phegan",
+          "Amy Powter",
+          "Сэлли Райли",
+          "Анита Шиэн",
+          "Винсент Шиэн",
+          "Лиз Уоттс"
+        ],
+        "writers": [
+          "Эндрю Анастасиос",
+          "Питер Дункан",
+          "Tanya Phegan"
+        ],
+        "composers": [
+          "Энтони Партос"
+        ],
+        "editors": [
+          "Марк Перри"
+        ],
+        "designers": [
+          "Колин Гибсон",
+          "Николас ДаРе",
+          "Венди Корк",
+          "Джастин Данн"
+        ],
+        "operators": [
+          "Мартин МакГрат"
+        ]
+      }
+    },
+    {
+      "id": "serial-26395",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Операция «Буффало»",
+      "title_orig": "Operation Buffalo",
+      "translation": {
+        "id": 920,
+        "title": "Octopus",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 6,
+      "episodes_count": 6,
+      "kinopoisk_id": "1354700",
+      "imdb_id": "tt11853364",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-31T23:11:23Z",
+      "updated_at": "2020-07-06T08:32:38Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/660640/481853294b8a59e3aacc87b66848d250/720p",
+            "2": "//kodik.cc/seria/664205/6ed43c0a3af30828e4e5ee1f5c043ba3/720p",
+            "3": "//kodik.cc/seria/668409/7dc87eb89e28b6ff2749a6ee93247975/720p",
+            "4": "//kodik.cc/seria/673204/0dcf87216bdbf196b1aaa22536fdeb0f/720p",
+            "5": "//kodik.cc/seria/677009/f615626419bec43e0ab52e204df736b7/720p",
+            "6": "//kodik.cc/seria/681030/3b00fda68c8f26839876e07037a53022/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Операция Буффало",
+        "title_en": "Operation Buffalo",
+        "year": 2020,
+        "tagline": "Mushroom clouds, misadventure and murder",
+        "description": "В Маралинге, Южная Австралия, в разгар холодной войны на отдаленной военной базе, где Великобритания проводит ядерные испытания, процветает паранойя: бомбы - не единственное, что подвергается проверке.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1354700.jpg",
+        "duration": 52,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "драма",
+          "комедия",
+          "триллер"
+        ],
+        "imdb_rating": 6.3,
+        "imdb_votes": 409,
+        "premiere_world": "2020-05-31",
+        "actors": [
+          "Ивен Лесли",
+          "Джессика Де Гау",
+          "Джеймс Кромуэлл",
+          "Тони Мартин",
+          "Алан Дьюкс",
+          "Сэм Парсонсон",
+          "Alexander Bertrand",
+          "Бренден Ловетт",
+          "Бенедикт Уолл",
+          "Эдриэнн Пикеринг"
+        ],
+        "directors": [
+          "Питер Дункан"
+        ],
+        "producers": [
+          "Ванесса Браун",
+          "Питер Дункан",
+          "Эндрю Грегори",
+          "Tanya Phegan",
+          "Amy Powter",
+          "Сэлли Райли",
+          "Анита Шиэн",
+          "Винсент Шиэн",
+          "Лиз Уоттс"
+        ],
+        "writers": [
+          "Эндрю Анастасиос",
+          "Питер Дункан",
+          "Tanya Phegan"
+        ],
+        "composers": [
+          "Энтони Партос"
+        ],
+        "editors": [
+          "Марк Перри"
+        ],
+        "designers": [
+          "Колин Гибсон",
+          "Николас ДаРе",
+          "Венди Корк",
+          "Джастин Данн"
+        ],
+        "operators": [
+          "Мартин МакГрат"
+        ]
+      }
+    },
+    {
+      "id": "movie-57543",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Сёстры Панти",
+      "title_orig": "The Panti Sisters",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1283627",
+      "imdb_id": "tt10637682",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-06T07:50:25Z",
+      "updated_at": "2020-07-06T07:50:25Z",
+      "material_data": {
+        "title": "The Panti Sisters",
+        "title_en": "",
+        "year": 2019,
+        "duration": 108,
+        "countries": [
+          "Филиппины"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "imdb_rating": 5.5,
+        "imdb_votes": 209,
+        "premiere_world": "2019-09-13",
+        "actors": [
+          "Паоло Бальестерос",
+          "Мартин дель Росарио",
+          "Christian Bables",
+          "Джон Арсилья",
+          "Карми Мартин",
+          "Росанна Росес",
+          "Joross Gamboa",
+          "Вия Антонио",
+          "Annalie Forbes",
+          "Cedrick Juan"
+        ],
+        "directors": [
+          "Хун Лана"
+        ],
+        "producers": [
+          "Дзёдзи Алонсо"
+        ],
+        "composers": [
+          "Emerzon Texon"
+        ],
+        "designers": [
+          "Маулен Фадуль",
+          "Charvin Jules Dupaya"
+        ]
+      }
+    },
+    {
+      "id": "movie-57545",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Секретарша Амалия",
+      "title_orig": "Amalia the Secretary",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1060564",
+      "imdb_id": "tt7161342",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-06T07:49:13Z",
+      "updated_at": "2020-07-06T07:49:13Z",
+      "material_data": {
+        "title": "Amalia the Secretary",
+        "title_en": "",
+        "year": 2018,
+        "duration": 103,
+        "countries": [
+          "Колумбия"
+        ],
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "imdb_rating": 6.4,
+        "imdb_votes": 175,
+        "premiere_world": "2018-04-06",
+        "actors": [
+          "Ана Мария Аранго",
+          "Фернандо Аревало",
+          "Хуан Пабло Барраган",
+          "Марсела Бенхумеа",
+          "Энрике Каррьясо",
+          "Диего Леон Ойос",
+          "Carolina López",
+          "Марко Антонио Лопес",
+          "Фабио Рубиано",
+          "Патриция Тамайо"
+        ],
+        "directors": [
+          "Андрес Бургос"
+        ],
+        "producers": [
+          "Yalile Giordanelli",
+          "Andrea Marulanda",
+          "Diego Villegas"
+        ],
+        "writers": [
+          "Андрес Бургос"
+        ],
+        "composers": [
+          "Juan Pablo Martínez",
+          "Martha Lucía Miranda"
+        ],
+        "editors": [
+          "Мария Васкес"
+        ],
+        "designers": [
+          "Хуан Фернандо Перес",
+          "Lina Carvajal"
+        ],
+        "operators": [
+          "Мануэль Кастанеда"
+        ]
+      }
+    },
+    {
+      "id": "serial-19357",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Очень нравишься ты",
+      "title_orig": "All I Want for Love Is You",
+      "other_title": "Всё, что я хочу в любви — это ты / Всё, что мне нужно для любви это ты / Manman Xihuan Ni",
+      "translation": {
+        "id": 1038,
+        "title": "Light Fox\t",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 21,
+      "episodes_count": 21,
+      "kinopoisk_id": "1317121",
+      "imdb_id": "tt11166828",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-10-25T08:00:38Z",
+      "updated_at": "2020-07-06T07:07:12Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/502988/35515561dd76edfff5c460c02790d94b/720p",
+            "2": "//kodik.cc/seria/544094/8f0968396760a03d0304abf5c775cdf5/720p",
+            "3": "//kodik.cc/seria/545099/60d3ca1008c70543d6eca2a0d7e3f87b/720p",
+            "4": "//kodik.cc/seria/546728/9ed245032fb760c5eeb1f78be6780dcd/720p",
+            "5": "//kodik.cc/seria/586634/0b0bd93b68a2bef57433b76d60c3abac/720p",
+            "6": "//kodik.cc/seria/586635/fe31f19222b59a31b4b9fcafe9007f00/720p",
+            "7": "//kodik.cc/seria/586636/74059d3f6f6c206311dda32cf706fd33/720p",
+            "8": "//kodik.cc/seria/586637/a83b4e95e00bbe364ae57fa7bbcc6808/720p",
+            "9": "//kodik.cc/seria/586638/5f8a36c97496d64b236dcbdb0a581da6/720p",
+            "10": "//kodik.cc/seria/586639/5f49f510e4b6b90798493e041ad62eb8/720p",
+            "11": "//kodik.cc/seria/597994/c9f73874bd7f57dfbeee2b2e83b7bf7a/720p",
+            "12": "//kodik.cc/seria/601346/a5381f9a216dbf250748647d35f8fafd/720p",
+            "13": "//kodik.cc/seria/620712/6db99e144edd4e5b5573403d41b1c2ec/720p",
+            "14": "//kodik.cc/seria/620713/2dd84d05127ce26c61f29323d6468235/720p",
+            "15": "//kodik.cc/seria/620714/aabf3e4986ad2680c4f48e36dbd950f6/720p",
+            "16": "//kodik.cc/seria/642379/43fcfa89a8ab92f790eb9086328f60c9/720p",
+            "17": "//kodik.cc/seria/642380/ed3017d62df878c5c01cdfb99ba288f6/720p",
+            "18": "//kodik.cc/seria/642381/d081bc77b03886434addc0fb73214d08/720p",
+            "19": "//kodik.cc/seria/681007/d56402fc88d32f891f8b332187beaac8/720p",
+            "20": "//kodik.cc/seria/681008/ec2aab675f1e0f3f4ec8eb09c08e023d/720p",
+            "21": "//kodik.cc/seria/681009/d716151c7871170be6c9be4e17b98a0e/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "All I Want for Love Is You",
+        "title_en": "",
+        "year": 2019,
+        "duration": 40,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 7.8,
+        "imdb_votes": 30,
+        "premiere_world": "2019-10-10",
+        "actors": [
+          "Xinyu Han",
+          "Yanqing Liu",
+          "Лю Иньцзюнь",
+          "Yuhan Liu",
+          "Лу Чжаохуа",
+          "Нин Вэньтун",
+          "Shuo Wang",
+          "Zhixun Xie"
+        ],
+        "directors": [
+          "Yulei Li"
+        ]
+      }
+    },
+    {
+      "id": "serial-27173",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Пропавшие люди",
+      "title_orig": "Missing Persons",
+      "other_title": "Пропавшие без вести / Shi zong ren kou",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1413428",
+      "imdb_id": "tt12434402",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-06-26T12:08:52Z",
+      "updated_at": "2020-07-06T07:06:06Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/675611/e562f6ef22bb8d73253e7d55848f3a76/720p",
+            "2": "//kodik.cc/seria/675612/da996e46bd1f747910fced0d7adda1b3/720p",
+            "3": "//kodik.cc/seria/675613/9663c647de0e602f71b596d4f2cc2327/720p",
+            "4": "//kodik.cc/seria/675614/0285bb19bcf54672929fd135193ea377/720p",
+            "5": "//kodik.cc/seria/675615/96fb83ca418dff5390eab9588d2c4717/720p",
+            "6": "//kodik.cc/seria/675726/7bd2ae5369d31714a0027dc82f3b6f59/720p",
+            "7": "//kodik.cc/seria/677956/a5e4e3e52b4735e6db771d8a40ba1db6/720p",
+            "8": "//kodik.cc/seria/678311/17b5af82257578d664a1415bf46eaa49/720p",
+            "9": "//kodik.cc/seria/679087/223123ce21b77973222af5dd4507a6b6/720p",
+            "10": "//kodik.cc/seria/679845/d55103e0f101c6d662d46e1c15e78e0f/720p",
+            "11": "//kodik.cc/seria/680556/5f8c3acc1878c6754278ece61748830d/720p",
+            "12": "//kodik.cc/seria/681006/fca6092827bc4ae1128594c2bd4cca0d/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Missing Persons",
+        "title_en": "",
+        "year": 2020,
+        "duration": 50,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 6,
+        "imdb_votes": 8,
+        "premiere_world": "2020-06-03",
+        "actors": [
+          "Чэнь Хаоюй",
+          "Чэнь Сяоюнь",
+          "Лю Чан",
+          "Лу Юйлай",
+          "Ван Юнцюань",
+          "Ван Цзычэнь",
+          "Zhi Lu Zhang",
+          "Чжао Ян"
+        ],
+        "directors": [
+          "Chengye Shi",
+          "Ruixin Wang"
+        ],
+        "writers": [
+          "Ruixin Wang"
+        ]
+      }
+    },
+    {
       "id": "movie-57537",
       "type": "foreign-movie",
       "link": "",
@@ -1063,7 +2437,7 @@
           "драма"
         ],
         "imdb_rating": 7.2,
-        "imdb_votes": 145,
+        "imdb_votes": 147,
         "premiere_world": "2019-08-22",
         "actors": [
           "Ким На-ён",
@@ -2794,11 +4168,11 @@
           "Wit Studio"
         ],
         "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 318,
+        "kinopoisk_votes": 344,
         "imdb_rating": 8,
-        "imdb_votes": 2299,
+        "imdb_votes": 2348,
         "shikimori_rating": 8.38,
-        "shikimori_votes": 5159,
+        "shikimori_votes": 5295,
         "premiere_world": "2020-06-02",
         "aired_at": "2020-06-02",
         "released_at": "2020-09-21",
@@ -3788,7 +5162,7 @@
         "imdb_rating": 8.4,
         "imdb_votes": 4235,
         "shikimori_rating": 8.74,
-        "shikimori_votes": 21918,
+        "shikimori_votes": 22266,
         "premiere_world": "2019-01-12",
         "aired_at": "2020-04-11",
         "released_at": "2020-06-27",
@@ -7896,11 +9270,11 @@
           "Wit Studio"
         ],
         "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 318,
+        "kinopoisk_votes": 344,
         "imdb_rating": 8,
-        "imdb_votes": 2299,
+        "imdb_votes": 2348,
         "shikimori_rating": 8.38,
-        "shikimori_votes": 5159,
+        "shikimori_votes": 5295,
         "premiere_world": "2020-06-02",
         "aired_at": "2020-06-02",
         "released_at": "2020-09-21",
@@ -7995,1372 +9369,6 @@
           "Thao Nguyen",
           "Diep Mai Phuong",
           "Tuong Vi"
-        ]
-      }
-    },
-    {
-      "id": "movie-57481",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Дом бабочек",
-      "title_orig": "Ngoi Nha Buom Buom",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1307659",
-      "imdb_id": "tt10575710",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-07-03T14:08:02Z",
-      "updated_at": "2020-07-03T14:08:02Z",
-      "material_data": {
-        "title": "Дом бабочек",
-        "title_en": "Ngoi Nha Bươm Bướm",
-        "year": 2019,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1307659.jpg",
-        "duration": 100,
-        "countries": [
-          "Вьетнам"
-        ],
-        "genres": [
-          "комедия",
-          "мелодрама"
-        ],
-        "imdb_rating": 5.7,
-        "imdb_votes": 46,
-        "premiere_world": "2019-08-22",
-        "actors": [
-          "Loc Thanh",
-          "Quang Minh",
-          "Lien Binh Phat",
-          "Hoang Yen Chibi",
-          "Хонг Дао",
-          "Trinh Tu Trung",
-          "Ван Чанг",
-          "Xuan Truong",
-          "Фи Фунг",
-          "Фи Тань Ван"
-        ],
-        "directors": [
-          "Huynh Tuan Anh"
-        ],
-        "producers": [
-          "Мартин Нгуйен",
-          "Trinh Tu Trung"
-        ],
-        "writers": [
-          "Huynh Tuan Anh",
-          "Жан Пуарэ"
-        ],
-        "composers": [
-          "Кристофер Вон"
-        ]
-      }
-    },
-    {
-      "id": "movie-57482",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Чан Кван",
-      "title_orig": "Trang Quynh",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1235653",
-      "imdb_id": "tt9633108",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-07-03T14:07:51Z",
-      "updated_at": "2020-07-03T14:07:51Z",
-      "material_data": {
-        "title": "Trạng Quỳnh",
-        "title_en": "",
-        "year": 2019,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1235653.jpg",
-        "duration": 98,
-        "countries": [
-          "Вьетнам"
-        ],
-        "genres": [
-          "комедия",
-          "приключения"
-        ],
-        "imdb_rating": 4.2,
-        "imdb_votes": 96,
-        "premiere_world": "2019-01-25",
-        "actors": [
-          "Tran Quoc Anh",
-          "Cong Duong",
-          "Kha Nhu",
-          "Фыонг Нья",
-          "Чан Тхань"
-        ],
-        "directors": [
-          "Duc Thinh"
-        ]
-      }
-    },
-    {
-      "id": "serial-25317",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Легенда о Белом Коте",
-      "title_orig": "Da Li Si Ri Zhi",
-      "other_title": "High Court's Journal / The Journal of Dali Temple / White Cat Legend / Dali Si Rizhi",
-      "translation": {
-        "id": 910,
-        "title": "AniStar",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "imdb_id": "tt12516564",
-      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=88585",
-      "shikimori_id": "38742",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-01T08:57:25Z",
-      "updated_at": "2020-07-03T14:07:18Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/639934/6a444042817064a862e60caca20eea4a/720p",
-            "2": "//aniqit.com/seria/639935/49f7e318aafab3a193963d5dd63891ca/720p",
-            "3": "//aniqit.com/seria/639936/3e30b98e46a067f2b243d7af1fb7d142/720p",
-            "4": "//aniqit.com/seria/639937/c5caf24d7d10b8877ef3f6c0b2560850/720p",
-            "5": "//aniqit.com/seria/639938/19eb967d28c1df399faa16d195fbc325/720p",
-            "6": "//aniqit.com/seria/644312/d48c62885c810e83d08b804707ea616e/720p",
-            "7": "//aniqit.com/seria/647609/0e4664b53a1c73eda1e255a5a2c1fa93/720p",
-            "8": "//aniqit.com/seria/652484/b0f7edb6221010dfb07d624f6441e76d/720p",
-            "9": "//aniqit.com/seria/659096/834859e77a29aa07f6cd3af7a5412322/720p",
-            "10": "//aniqit.com/seria/662584/76b8e2b51815669e3b11835264bc99f1/720p",
-            "11": "//aniqit.com/seria/666683/a75eb947de832944d46e270e3d73dd69/720p",
-            "12": "//aniqit.com/seria/679719/25fcd561fee1fd186a171331522aa89b/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Легенда о Белом Коте",
-        "title_en": "Da Li Si Rizhi",
-        "other_titles": [
-          "Dalisi Rizhi",
-          "The Journal of Dali Temple"
-        ],
-        "other_titles_en": [
-          "White Cat Legend"
-        ],
-        "other_titles_jp": [
-          "大理寺日志"
-        ],
-        "anime_kind": "ona",
-        "anime_status": "released",
-        "poster_url": "https://shikimori.one/system/animes/original/38742.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/556ca87ed12d9b88c8139e4772d10c041fa1b3cd.jpg",
-          "https://shikimori.one/system/screenshots/original/159be81329f3d77fe5df4cf406752d118bdc18fe.jpg"
-        ],
-        "anime_genres": [
-          "Боевые искусства",
-          "Демоны",
-          "Детектив",
-          "Исторический",
-          "Комедия",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Nice Boat Animation"
-        ],
-        "shikimori_rating": 6.73,
-        "shikimori_votes": 285,
-        "aired_at": "2020-04-10",
-        "released_at": "2020-07-03",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12
-      }
-    },
-    {
-      "id": "movie-57483",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "200 фунтов красоты",
-      "title_orig": "Sac Dep Ngan Can",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1327356",
-      "imdb_id": "tt7228744",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-07-03T14:06:47Z",
-      "updated_at": "2020-07-03T14:06:47Z",
-      "material_data": {
-        "title": "200 фунтов красоты",
-        "title_en": "Sắc Đẹp Ngan Can",
-        "year": 2017,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1327356.jpg",
-        "duration": 95,
-        "countries": [
-          "Вьетнам"
-        ],
-        "genres": [
-          "комедия",
-          "мелодрама",
-          "музыка"
-        ],
-        "imdb_rating": 5.3,
-        "imdb_votes": 45,
-        "premiere_world": "2017-08-04",
-        "actors": [
-          "Minh Hang",
-          "Фуонг Трин Джоли",
-          "Dai Nghia",
-          "Rocker Nguyen"
-        ],
-        "directors": [
-          "James Ngo"
-        ],
-        "producers": [
-          "Tan Tran Khanh"
-        ],
-        "writers": [
-          "Юмико Судзуки"
-        ],
-        "editors": [
-          "Theophile Guibout"
-        ],
-        "designers": [
-          "Хосе Мари Паминтуан",
-          "Hiep Le Duc"
-        ],
-        "operators": [
-          "Гэбриел Льюис"
-        ]
-      }
-    },
-    {
-      "id": "serial-27470",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Госпожа Дила",
-      "title_orig": "Dila Hanim",
-      "translation": {
-        "id": 691,
-        "title": "turok1990",
-        "type": "voice"
-      },
-      "year": 2012,
-      "last_season": 2,
-      "last_episode": 27,
-      "episodes_count": 27,
-      "kinopoisk_id": "728555",
-      "imdb_id": "tt2544156",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-03T13:33:44Z",
-      "updated_at": "2020-07-03T13:33:44Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/680847/f4f412cd1460bfd946a6b101d0729e0f/720p",
-            "2": "//kodik.cc/seria/680848/b301423d9e142714f2680bedd003040d/720p",
-            "3": "//kodik.cc/seria/680849/8679a126ddc1640fb15c128b19791939/720p",
-            "4": "//kodik.cc/seria/680850/2ebe635891441c5432a992a9a1541ede/720p",
-            "5": "//kodik.cc/seria/680851/315a69e70ee5a396fd88c1063158627a/720p",
-            "6": "//kodik.cc/seria/680852/74b66120f6340b86bd16d5505ad83050/720p",
-            "7": "//kodik.cc/seria/680853/e30411970c07c45d1b2941a0f9c2915c/720p",
-            "8": "//kodik.cc/seria/680854/f21e9e9d48148f9ef26d5c2eb283df98/720p",
-            "9": "//kodik.cc/seria/680855/7f2601ac1d7cad92f146c47d090a3178/720p",
-            "10": "//kodik.cc/seria/680856/ba954b8cb816cddea0bf20c760e408b5/720p",
-            "11": "//kodik.cc/seria/680857/6f81dd481ae84e70746528a1b59227d8/720p",
-            "12": "//kodik.cc/seria/680858/72a22046afd1dc5b23bb3c4dbe2940c4/720p",
-            "13": "//kodik.cc/seria/680859/efbc5e2c98d4d17ff6fa64eeb1848e8e/720p",
-            "14": "//kodik.cc/seria/680860/aca61d0da30f8336aad8c93a2b9ef024/720p",
-            "15": "//kodik.cc/seria/680861/ad71c362c681c1ce4feb3c69fc535cd1/720p",
-            "16": "//kodik.cc/seria/680862/d85a141017bc15721fe030e9ab010df4/720p",
-            "17": "//kodik.cc/seria/680863/0d299e6827b5939a110a834246c1d86d/720p",
-            "18": "//kodik.cc/seria/680864/19ad495a655c9eb7240b91a1a4fcd051/720p",
-            "19": "//kodik.cc/seria/680865/d5b98fb15b03e0a77e1a912f1bfdebb9/720p",
-            "20": "//kodik.cc/seria/680866/3920203601a9661e1616d40034eb787a/720p",
-            "21": "//kodik.cc/seria/680867/ae2d78e179ef0c4bd22d9a9b15eaf392/720p",
-            "22": "//kodik.cc/seria/680868/1cbd237e9b3eed0a6d7727340c63b453/720p",
-            "23": "//kodik.cc/seria/680869/cfd0debcb2e26bb9d5998f685007a116/720p",
-            "24": "//kodik.cc/seria/680870/0bf7c3c5bf7326ad508dfc0a935807cd/720p",
-            "25": "//kodik.cc/seria/680871/7b5c19a2ab87da0eae5c52a989c39f3e/720p",
-            "26": "//kodik.cc/seria/680872/792040b210cdce0332a0e2efaccd9a92/720p",
-            "27": "//kodik.cc/seria/680873/696d7fe2cea5776df562f92db5017e38/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Госпожа Дила",
-        "title_en": "Dila Hanim",
-        "year": 2012,
-        "description": "Главный герой сериала Рыза хотел купить землю для постройки завода. Отец мужа госпожи Дили Саит Бей был не против, но младший сын Азар был категорически против продажи. Азар в свое время украл сестренку Рызы, что бы женится на ней и привел ее к себе домой. Но Рыза приехал за ней и побил Азара, отец Азара ничего не сказал, так как вина была Азара. Но Азар и Рыза стали врагами.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/728555.jpg",
-        "duration": 100,
-        "countries": [
-          "Турция"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 175,
-        "imdb_rating": 4.2,
-        "imdb_votes": 270,
-        "actors": [
-          "Гёркем Мертсёз",
-          "Хюлья Дарджан",
-          "Эркан Петеккая",
-          "Хатидже Шендиль",
-          "Энгин Шенкан",
-          "Неджип Мемили",
-          "Али Дюшенкалкар",
-          "Йонджа Джевхер",
-          "Октай Гюрсой",
-          "Озлем Токаслан"
-        ],
-        "directors": [
-          "Онур Тан"
-        ],
-        "producers": [
-          "Фарук Тургут"
-        ],
-        "writers": [
-          "Хюрер Эбеоглу",
-          "Зюлкюф Юджел"
-        ],
-        "editors": [
-          "Тамер Озалпук"
-        ],
-        "operators": [
-          "Рефик Чакар",
-          "Альпер Дерли",
-          "Волкан Ак"
-        ]
-      }
-    },
-    {
-      "id": "serial-27380",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Мой одноклассник — тёмный бог разрушения",
-      "title_orig": "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
-      "other_title": "Мой сосед - бог разрушения! / Мой сосед — бог разрушения! / A Destructive God Sits Next to Me",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1364357",
-      "imdb_id": "tt11296252",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10141",
-      "shikimori_id": "38302",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-03T13:05:19Z",
-      "updated_at": "2020-07-03T13:05:19Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/679696/71dd6276fb5f20731b8ed5454ec0599b/720p",
-            "2": "//aniqit.com/seria/679697/9ae0b6b2dca152a618e8295943894b77/720p",
-            "3": "//aniqit.com/seria/679698/90064e8972269f2324b9a32d1dd825f4/720p",
-            "4": "//aniqit.com/seria/679699/dcb3cf802230b5c0a55957d8b37e2bc5/720p",
-            "5": "//aniqit.com/seria/679700/2e8c6b795ae89675a41c2be7143160ad/720p",
-            "6": "//aniqit.com/seria/679701/cee0557f2cf81253cc6bbcaf350ff798/720p",
-            "7": "//aniqit.com/seria/679702/946a6618509b11dd90e75235cb4b9c7e/720p",
-            "8": "//aniqit.com/seria/679703/88fb187b9b2837be2f420afebe13988b/720p",
-            "9": "//aniqit.com/seria/679704/c6582a053994e2d9b1a691f8114ba011/720p",
-            "10": "//aniqit.com/seria/679705/dfa1e162eda35997dc1c3b6e9d27e609/720p",
-            "11": "//aniqit.com/seria/679706/615088e6e6f0ba41e12ee382b9db4f09/720p",
-            "12": "//aniqit.com/seria/679707/329241650f041b1c544215e97218b881/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Бог разрушения за соседней партой",
-        "title_en": "Boku No Tonari Ni Ankoku Hakaishin Ga Imasu.",
-        "other_titles": [
-          "Мой сосед — бог разрушения!",
-          "A Destructive God Sits Next to Me",
-          "Bokuhaka"
-        ],
-        "other_titles_jp": [
-          "ぼくのとなりに暗黒破壊神がいます。"
-        ],
-        "anime_license_name": "Мой одноклассник — тёмный бог разрушения",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2020,
-        "description": "Старшеклассник Сэри Коюки пытается жить обычной школьной жизнью, но что-то идёт не так, и он знакомится со странным одноклассником — Кабуто Ханадори. Кабуто явно не дружит с головой: он считает, что является странствующим рыцарем, а его повязка на правом глазу, утверждает он, сдерживает его второе «Я» — Михаэля Оффенбарунга Дункельхайта. Но конечно же, Сэри не вмешивается в его «проблемы» и не потакает ему... Конечно же... Легче сказать, чем сделать!\r\n",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1364357.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/9315fd720f05129638f8a4c912c1afa0a760a0e4.jpg",
-          "https://shikimori.one/system/screenshots/original/a35ef5ec26514635ea91724a403d5b240d8056bf.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Дзёсей",
-          "Комедия",
-          "Повседневность",
-          "Школа"
-        ],
-        "anime_studios": [
-          "EMT Squared"
-        ],
-        "imdb_rating": 6,
-        "imdb_votes": 45,
-        "shikimori_rating": 6.64,
-        "shikimori_votes": 981,
-        "premiere_world": "2020-01-11",
-        "aired_at": "2020-01-11",
-        "released_at": "2020-03-28",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Такахиро Сакурай",
-          "Дзюн Фукуяма",
-          "Акасаки Тинацу",
-          "Ёсико Икута",
-          "Аи Каяно",
-          "Рёхэй Кимура"
-        ],
-        "directors": [
-          "Ацуси Нигорикава"
-        ]
-      }
-    },
-    {
-      "id": "serial-27378",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Бюллетень",
-      "title_orig": "Chulsapyo",
-      "other_title": "Memorials / The Ballot / Into the Ring",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "kinopoisk_id": "1374412",
-      "imdb_id": "tt12504122",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-03T13:02:53Z",
-      "updated_at": "2020-07-03T13:02:53Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/679692/3479f5d7aab71883ea0730b8210b0b38/720p",
-            "2": "//kodik.cc/seria/679693/3c43644510cd2799dc7c29b7c974aa48/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Бюллетень",
-        "title_en": "Chulsapyo",
-        "year": 2020,
-        "description": "Девушка из бедной семьи идёт в политику, чтобы бороться с чиновничьим произволом и грязными политиканами.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1374412.jpg",
-        "duration": 35,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "комедия",
-          "мелодрама"
-        ],
-        "imdb_rating": 7.7,
-        "imdb_votes": 93,
-        "premiere_world": "2020-07-01",
-        "actors": [
-          "Нана",
-          "Пак Сон-хун",
-          "Ю Да-ин",
-          "Хан Джун-у",
-          "Ан Нэ-сан",
-          "Ан Гиль-ган",
-          "Чан Хе-джин",
-          "Ким Ми-су",
-          "Щин До-хён",
-          "Чхве Го"
-        ],
-        "directors": [
-          "Хван Сын-ги"
-        ]
-      }
-    },
-    {
-      "id": "serial-28722",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Проклятие: Начало",
-      "title_orig": "Ju-on: Origins",
-      "translation": {
-        "id": 939,
-        "title": "KerobTV",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "1354759",
-      "imdb_id": "tt12313914",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-03T12:52:09Z",
-      "updated_at": "2020-07-03T12:52:09Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/705825/65c45701fc168b4ea8f315b7ebf2b241/720p",
-            "2": "//kodik.cc/seria/705826/e4105c9dde277521c95a5f0bda20af1d/720p",
-            "3": "//kodik.cc/seria/705827/29fbfffb0296cb431cc3a9a8cee068c2/720p",
-            "4": "//kodik.cc/seria/705828/f7bfa67be3688ece124c9cf5a557a5a4/720p",
-            "5": "//kodik.cc/seria/705829/220dac4c5955e9f841a58b0cad89e95c/720p",
-            "6": "//kodik.cc/seria/705830/3e873064039e14e67d987e4343c212eb/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Проклятие: Начало",
-        "title_en": "Ju-On: Noroi no Ie",
-        "year": 2020,
-        "description": "Токио, 1988 год. Харука обращается к известному писателю и исследователю паранормального Ясуо Одадзиме. По ночам она слышит в квартире странные звуки, и ей даже удаётся записать на кассету загадочный топот маленьких ножек. Не в силах больше терпеть Харука переезжает жить к своему парню, а тот однажды признаётся Ясуо, что может видеть призраков. Недавно он выбирал жильё для них с Харукой и посетил жуткий дом, после чего его преследует призрак женщины в белом. А в это время две подружки зовут новенькую одноклассницу залезть после уроков в заброшенный дом неподалёку. Жизни разных людей на протяжении нескольких лет окажутся трагическим образом связаны с проклятым домом, местоположение которого пытается вычислить писатель Одадзима.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1354759.jpg",
-        "duration": 30,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "детектив",
-          "драма",
-          "ужасы"
-        ],
-        "kinopoisk_rating": 6,
-        "kinopoisk_votes": 461,
-        "imdb_rating": 6.1,
-        "imdb_votes": 3565,
-        "premiere_world": "2020-07-03",
-        "actors": [
-          "Ёсиёси Аракава",
-          "Юина Куросима",
-          "Ририка",
-          "Коки Осамура",
-          "Каи Иноваки",
-          "Кахо Цутимура",
-          "Такэми Фудзии",
-          "Идзуми Мацуока",
-          "Томомицу Адати",
-          "Нана Овада"
-        ],
-        "directors": [
-          "Сё Миякэ"
-        ],
-        "producers": [
-          "Такасигэ Итисэ",
-          "Микихико Хирата",
-          "Тосинори Ямагути",
-          "Каата Сакамото",
-          "Сатоси Фукусима",
-          "Даисукэ Мурамацу"
-        ],
-        "writers": [
-          "Хироси Такахаси",
-          "Такасигэ Итисэ"
-        ],
-        "composers": [
-          "Куниаки Хаисима"
-        ],
-        "editors": [
-          "Ёсифуми Фукадзава"
-        ],
-        "designers": [
-          "Тацуо Одзэки",
-          "Нами Синодзука"
-        ],
-        "operators": [
-          "Хидэтоси Синомия"
-        ]
-      }
-    },
-    {
-      "id": "serial-28721",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Проклятие: Начало",
-      "title_orig": "Ju-on: Origins",
-      "translation": {
-        "id": 752,
-        "title": "IDEAFILM",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "1354759",
-      "imdb_id": "tt12313914",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-03T12:52:09Z",
-      "updated_at": "2020-07-03T12:52:09Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/705819/7380f3349a86a05d67b5e53431eda4b7/720p",
-            "2": "//kodik.cc/seria/705820/69b286387c36b8fc312a03264cd4e78d/720p",
-            "3": "//kodik.cc/seria/705821/fbf9218442776dd17f95eb00ce60ddf2/720p",
-            "4": "//kodik.cc/seria/705822/b6ed5e2f9c3c74ab566eca9f146425d8/720p",
-            "5": "//kodik.cc/seria/705823/3c07dd0a2c67701ac45e9271d5b3b358/720p",
-            "6": "//kodik.cc/seria/705824/c3dd19bb464138c22435dbc2491d3294/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Проклятие: Начало",
-        "title_en": "Ju-On: Noroi no Ie",
-        "year": 2020,
-        "description": "Токио, 1988 год. Харука обращается к известному писателю и исследователю паранормального Ясуо Одадзиме. По ночам она слышит в квартире странные звуки, и ей даже удаётся записать на кассету загадочный топот маленьких ножек. Не в силах больше терпеть Харука переезжает жить к своему парню, а тот однажды признаётся Ясуо, что может видеть призраков. Недавно он выбирал жильё для них с Харукой и посетил жуткий дом, после чего его преследует призрак женщины в белом. А в это время две подружки зовут новенькую одноклассницу залезть после уроков в заброшенный дом неподалёку. Жизни разных людей на протяжении нескольких лет окажутся трагическим образом связаны с проклятым домом, местоположение которого пытается вычислить писатель Одадзима.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1354759.jpg",
-        "duration": 30,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "детектив",
-          "драма",
-          "ужасы"
-        ],
-        "kinopoisk_rating": 6,
-        "kinopoisk_votes": 461,
-        "imdb_rating": 6.1,
-        "imdb_votes": 3565,
-        "premiere_world": "2020-07-03",
-        "actors": [
-          "Ёсиёси Аракава",
-          "Юина Куросима",
-          "Ририка",
-          "Коки Осамура",
-          "Каи Иноваки",
-          "Кахо Цутимура",
-          "Такэми Фудзии",
-          "Идзуми Мацуока",
-          "Томомицу Адати",
-          "Нана Овада"
-        ],
-        "directors": [
-          "Сё Миякэ"
-        ],
-        "producers": [
-          "Такасигэ Итисэ",
-          "Микихико Хирата",
-          "Тосинори Ямагути",
-          "Каата Сакамото",
-          "Сатоси Фукусима",
-          "Даисукэ Мурамацу"
-        ],
-        "writers": [
-          "Хироси Такахаси",
-          "Такасигэ Итисэ"
-        ],
-        "composers": [
-          "Куниаки Хаисима"
-        ],
-        "editors": [
-          "Ёсифуми Фукадзава"
-        ],
-        "designers": [
-          "Тацуо Одзэки",
-          "Нами Синодзука"
-        ],
-        "operators": [
-          "Хидэтоси Синомия"
-        ]
-      }
-    },
-    {
-      "id": "serial-27941",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Проклятие: Начало",
-      "title_orig": "Ju-on: Origins",
-      "translation": {
-        "id": 760,
-        "title": "OMSKBIRD records",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "1354759",
-      "imdb_id": "tt12313914",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-03T12:52:09Z",
-      "updated_at": "2020-07-03T12:52:09Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/689800/c6ed9d0316114473471dde89908fcde9/720p",
-            "2": "//kodik.cc/seria/689801/4f1376a1f4d214e29d491c7e6c5a135f/720p",
-            "3": "//kodik.cc/seria/689802/a0ecea16764d127c660042c309ce2c5b/720p",
-            "4": "//kodik.cc/seria/689803/6918a4809abe692facd60b9a799b0c9f/720p",
-            "5": "//kodik.cc/seria/689804/a063adc6029760fc1060a1253b97ba0f/720p",
-            "6": "//kodik.cc/seria/689805/123e17d4b683dfb8c165caae77dd27e5/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Проклятие: Начало",
-        "title_en": "Ju-On: Noroi no Ie",
-        "year": 2020,
-        "description": "Токио, 1988 год. Харука обращается к известному писателю и исследователю паранормального Ясуо Одадзиме. По ночам она слышит в квартире странные звуки, и ей даже удаётся записать на кассету загадочный топот маленьких ножек. Не в силах больше терпеть Харука переезжает жить к своему парню, а тот однажды признаётся Ясуо, что может видеть призраков. Недавно он выбирал жильё для них с Харукой и посетил жуткий дом, после чего его преследует призрак женщины в белом. А в это время две подружки зовут новенькую одноклассницу залезть после уроков в заброшенный дом неподалёку. Жизни разных людей на протяжении нескольких лет окажутся трагическим образом связаны с проклятым домом, местоположение которого пытается вычислить писатель Одадзима.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1354759.jpg",
-        "duration": 30,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "детектив",
-          "драма",
-          "ужасы"
-        ],
-        "kinopoisk_rating": 6,
-        "kinopoisk_votes": 461,
-        "imdb_rating": 6.1,
-        "imdb_votes": 3565,
-        "premiere_world": "2020-07-03",
-        "actors": [
-          "Ёсиёси Аракава",
-          "Юина Куросима",
-          "Ририка",
-          "Коки Осамура",
-          "Каи Иноваки",
-          "Кахо Цутимура",
-          "Такэми Фудзии",
-          "Идзуми Мацуока",
-          "Томомицу Адати",
-          "Нана Овада"
-        ],
-        "directors": [
-          "Сё Миякэ"
-        ],
-        "producers": [
-          "Такасигэ Итисэ",
-          "Микихико Хирата",
-          "Тосинори Ямагути",
-          "Каата Сакамото",
-          "Сатоси Фукусима",
-          "Даисукэ Мурамацу"
-        ],
-        "writers": [
-          "Хироси Такахаси",
-          "Такасигэ Итисэ"
-        ],
-        "composers": [
-          "Куниаки Хаисима"
-        ],
-        "editors": [
-          "Ёсифуми Фукадзава"
-        ],
-        "designers": [
-          "Тацуо Одзэки",
-          "Нами Синодзука"
-        ],
-        "operators": [
-          "Хидэтоси Синомия"
-        ]
-      }
-    },
-    {
-      "id": "serial-27436",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Проклятие: Начало",
-      "title_orig": "Ju-on: Origins",
-      "translation": {
-        "id": 743,
-        "title": "BaibaKo",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "1354759",
-      "imdb_id": "tt12313914",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-03T12:52:09Z",
-      "updated_at": "2020-07-03T12:52:09Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/680465/2cb91668134973baa8dce1ee9c29bc48/720p",
-            "2": "//kodik.cc/seria/680466/f0197384e1e6c93f2bfd85e84a43b4c0/720p",
-            "3": "//kodik.cc/seria/680467/b73578e32dfcf44ac2968b7eac751152/720p",
-            "4": "//kodik.cc/seria/680468/b4845944959cd2c7628bee95969ec931/720p",
-            "5": "//kodik.cc/seria/680469/c31de02a72dda576b3dd3b72b47d346f/720p",
-            "6": "//kodik.cc/seria/680470/648afa0f448083498855083bf593c236/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Проклятие: Начало",
-        "title_en": "Ju-On: Noroi no Ie",
-        "year": 2020,
-        "description": "Токио, 1988 год. Харука обращается к известному писателю и исследователю паранормального Ясуо Одадзиме. По ночам она слышит в квартире странные звуки, и ей даже удаётся записать на кассету загадочный топот маленьких ножек. Не в силах больше терпеть Харука переезжает жить к своему парню, а тот однажды признаётся Ясуо, что может видеть призраков. Недавно он выбирал жильё для них с Харукой и посетил жуткий дом, после чего его преследует призрак женщины в белом. А в это время две подружки зовут новенькую одноклассницу залезть после уроков в заброшенный дом неподалёку. Жизни разных людей на протяжении нескольких лет окажутся трагическим образом связаны с проклятым домом, местоположение которого пытается вычислить писатель Одадзима.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1354759.jpg",
-        "duration": 30,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "детектив",
-          "драма",
-          "ужасы"
-        ],
-        "kinopoisk_rating": 6,
-        "kinopoisk_votes": 461,
-        "imdb_rating": 6.1,
-        "imdb_votes": 3565,
-        "premiere_world": "2020-07-03",
-        "actors": [
-          "Ёсиёси Аракава",
-          "Юина Куросима",
-          "Ририка",
-          "Коки Осамура",
-          "Каи Иноваки",
-          "Кахо Цутимура",
-          "Такэми Фудзии",
-          "Идзуми Мацуока",
-          "Томомицу Адати",
-          "Нана Овада"
-        ],
-        "directors": [
-          "Сё Миякэ"
-        ],
-        "producers": [
-          "Такасигэ Итисэ",
-          "Микихико Хирата",
-          "Тосинори Ямагути",
-          "Каата Сакамото",
-          "Сатоси Фукусима",
-          "Даисукэ Мурамацу"
-        ],
-        "writers": [
-          "Хироси Такахаси",
-          "Такасигэ Итисэ"
-        ],
-        "composers": [
-          "Куниаки Хаисима"
-        ],
-        "editors": [
-          "Ёсифуми Фукадзава"
-        ],
-        "designers": [
-          "Тацуо Одзэки",
-          "Нами Синодзука"
-        ],
-        "operators": [
-          "Хидэтоси Синомия"
-        ]
-      }
-    },
-    {
-      "id": "serial-27388",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Проклятие: Начало",
-      "title_orig": "Ju-on: Origins",
-      "other_title": "Проклятие: Проклятый дом / Ju-On: Noroi no Ie / Ju-On: House of Curse",
-      "translation": {
-        "id": 920,
-        "title": "Octopus",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "1354759",
-      "imdb_id": "tt12313914",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-03T12:52:09Z",
-      "updated_at": "2020-07-03T12:52:09Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/679809/0b0ded7d01d8fe8ed4f556e90e971276/720p",
-            "2": "//kodik.cc/seria/679810/32f00c0fa5cefd6d19783754420c9ae3/720p",
-            "3": "//kodik.cc/seria/679811/cef38b1d42205b54922b5a1bc03159b9/720p",
-            "4": "//kodik.cc/seria/679812/a0ba822c8b335f9a5694a4c45d9470c0/720p",
-            "5": "//kodik.cc/seria/679813/574569a5b998dad961cfe4103ac574fd/720p",
-            "6": "//kodik.cc/seria/679814/f8711e3e618c7eee0751f64abb4357a1/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Проклятие: Начало",
-        "title_en": "Ju-On: Noroi no Ie",
-        "year": 2020,
-        "description": "Токио, 1988 год. Харука обращается к известному писателю и исследователю паранормального Ясуо Одадзиме. По ночам она слышит в квартире странные звуки, и ей даже удаётся записать на кассету загадочный топот маленьких ножек. Не в силах больше терпеть Харука переезжает жить к своему парню, а тот однажды признаётся Ясуо, что может видеть призраков. Недавно он выбирал жильё для них с Харукой и посетил жуткий дом, после чего его преследует призрак женщины в белом. А в это время две подружки зовут новенькую одноклассницу залезть после уроков в заброшенный дом неподалёку. Жизни разных людей на протяжении нескольких лет окажутся трагическим образом связаны с проклятым домом, местоположение которого пытается вычислить писатель Одадзима.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1354759.jpg",
-        "duration": 30,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "детектив",
-          "драма",
-          "ужасы"
-        ],
-        "kinopoisk_rating": 6,
-        "kinopoisk_votes": 461,
-        "imdb_rating": 6.1,
-        "imdb_votes": 3565,
-        "premiere_world": "2020-07-03",
-        "actors": [
-          "Ёсиёси Аракава",
-          "Юина Куросима",
-          "Ририка",
-          "Коки Осамура",
-          "Каи Иноваки",
-          "Кахо Цутимура",
-          "Такэми Фудзии",
-          "Идзуми Мацуока",
-          "Томомицу Адати",
-          "Нана Овада"
-        ],
-        "directors": [
-          "Сё Миякэ"
-        ],
-        "producers": [
-          "Такасигэ Итисэ",
-          "Микихико Хирата",
-          "Тосинори Ямагути",
-          "Каата Сакамото",
-          "Сатоси Фукусима",
-          "Даисукэ Мурамацу"
-        ],
-        "writers": [
-          "Хироси Такахаси",
-          "Такасигэ Итисэ"
-        ],
-        "composers": [
-          "Куниаки Хаисима"
-        ],
-        "editors": [
-          "Ёсифуми Фукадзава"
-        ],
-        "designers": [
-          "Тацуо Одзэки",
-          "Нами Синодзука"
-        ],
-        "operators": [
-          "Хидэтоси Синомия"
-        ]
-      }
-    },
-    {
-      "id": "serial-15878",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Личный телохранитель",
-      "title_orig": "BG: Shinpen keigonin",
-      "other_title": "BG: Personal Bodyguard",
-      "translation": {
-        "id": 861,
-        "title": "LakeFilms",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 9,
-      "episodes_count": 9,
-      "kinopoisk_id": "1049703",
-      "imdb_id": "tt7533478",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-02-17T13:48:20Z",
-      "updated_at": "2020-07-03T10:45:14Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/416036/c84a088d48833ac6b32500ed02f90f56/720p",
-            "2": "//kodik.cc/seria/416037/f6f889c4e77bb2f5cd356969db64c340/720p",
-            "3": "//kodik.cc/seria/416038/f6dc6f2d69d4f6a6fe40b5ab17bf9db4/720p",
-            "4": "//kodik.cc/seria/416039/a1c868e84baea8b71131d565abc4cc5d/720p",
-            "5": "//kodik.cc/seria/416040/ec55ba5ea267b807c81d96fc838cbaeb/720p",
-            "6": "//kodik.cc/seria/416041/29c01a0704e98bbd0e3ab5b38d43fa59/720p",
-            "7": "//kodik.cc/seria/416042/06356dbb921ac30304817bcb978a28a3/720p",
-            "8": "//kodik.cc/seria/416043/2e40cfbd99073e1e801f2d1c196a71ad/720p",
-            "9": "//kodik.cc/seria/416044/ca17fb0bf34fd7bf45ae1a10eee9c85e/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Личный телохранитель",
-        "title_en": "BG: Shinpen keigonin",
-        "year": 2018,
-        "description": "Когда-то Акира Самидзаки был телохранителем, но потерял работу в результате инцидента. Теперь мужчина работает охранником на стройке и в одиночку воспитывает сына, ученика средней школы. Однажды охранная компания, на которую работает Самидзаки, создаёт новое подразделение. Скрыв своё прошлое, Акира переходит в новый отдел и начинает службу как телохранитель-новичок.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1049703.jpg",
-        "duration": 54,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 6.7,
-        "imdb_votes": 331,
-        "premiere_world": "2018-01-18",
-        "actors": [
-          "Такуя Кимура",
-          "Синносукэ Абэ",
-          "Ёсукэ Эгути",
-          "Юрико Исида",
-          "Такая Камикава",
-          "Сётаро Мамия",
-          "Синносукэ Мицусима",
-          "Тосиюки Нагасима",
-          "Нанао",
-          "Такуми Саито"
-        ],
-        "directors": [
-          "Го Сититака"
-        ],
-        "producers": [
-          "Сэйдзи Кавасима"
-        ],
-        "writers": [
-          "Юмико Иноуэ"
-        ]
-      }
-    },
-    {
-      "id": "movie-57480",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Легенда демонической печати",
-      "title_orig": "Legend of the Demon Seal",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1246169",
-      "imdb_id": "tt9865310",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-07-03T10:14:00Z",
-      "updated_at": "2020-07-03T10:14:00Z",
-      "material_data": {
-        "title": "Легенда демонической печати",
-        "title_en": "Feng mo chuan",
-        "year": 2019,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1246169.jpg",
-        "duration": 90,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "боевик",
-          "фэнтези"
-        ],
-        "imdb_rating": 3.7,
-        "imdb_votes": 23,
-        "premiere_world": "2019-02-25",
-        "actors": [
-          "Кин Фанг Чан",
-          "Чэнь Ин",
-          "Yu Hanbing",
-          "Zhu Jiaqi",
-          "Цзинь Сун",
-          "Люн Ка-Янь",
-          "Karen Li",
-          "Tianye Li",
-          "Mao Su",
-          "Нина Ву"
-        ],
-        "directors": [
-          "Мяо Шу"
-        ]
-      }
-    },
-    {
-      "id": "serial-26236",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Маг на полную ставку 4",
-      "title_orig": "Quanzhi Fashi 4",
-      "other_title": "Штатный волшебник 4 / Full-Time Magister 4 / Quanzhi Fashi 4th Season",
-      "translation": {
-        "id": 923,
-        "title": "AnimeVost",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 4,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1112797",
-      "imdb_id": "tt11317074",
-      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=88933",
-      "shikimori_id": "40005",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-27T16:46:36Z",
-      "updated_at": "2020-07-03T10:12:20Z",
-      "seasons": {
-        "4": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/657816/0b9ec0c48ff6fb9831ba753e25169cc4/720p",
-            "2": "//aniqit.com/seria/657822/5e2205a374c07f7271c81b023f247d3c/720p",
-            "3": "//aniqit.com/seria/661875/c8e0f5884e34fbd693c34f508ec83b1f/720p",
-            "4": "//aniqit.com/seria/665476/bb95b9e7a10b83e26ba735ea07c54f2b/720p",
-            "5": "//aniqit.com/seria/670162/e48ca0f68f2a5d117f72e301d0b3974d/720p",
-            "6": "//aniqit.com/seria/674631/5171efce9bb97f84d446f6df01720ccb/720p",
-            "7": "//aniqit.com/seria/675343/96754ec1d82bfa64e7aa79282725338f/720p",
-            "8": "//aniqit.com/seria/675344/549c155c1c971c32db5bfeba25e4e616/720p",
-            "9": "//aniqit.com/seria/675723/746fcb9825bba63d7c458bf37fb318eb/720p",
-            "10": "//aniqit.com/seria/675724/439f57eef1df59c1a5b5da96cef32b40/720p",
-            "11": "//aniqit.com/seria/679658/585a755762f55019fa2ad5ebf9aaa1e1/720p",
-            "12": "//aniqit.com/seria/679659/43591fb330da63802b045c3a4f307d37/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Маг на полную ставку",
-        "title_en": "Quan zhi fa shi",
-        "other_titles": [
-          "Quanzhi Fashi 4th Season",
-          "Quan Zhi Fa Shi 4",
-          "Full-Time Magister 4"
-        ],
-        "other_titles_jp": [
-          "全职法师Ⅳ"
-        ],
-        "anime_kind": "ona",
-        "anime_status": "released",
-        "year": 2016,
-        "description": "Внезапно мир меняется, и парень вместо обычной школы ходит в школу магии. Все люди могут управлять лишь одним элементов, но наш герой способен на большее.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1112797.jpg",
-        "duration": 18,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "мультфильм",
-          "приключения",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Магия",
-          "Фэнтези",
-          "Школа",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Shanghai Foch Film Culture Investment"
-        ],
-        "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 2617,
-        "imdb_rating": 8.3,
-        "imdb_votes": 52,
-        "shikimori_rating": 7.34,
-        "shikimori_votes": 1572,
-        "premiere_world": "2016-09-01",
-        "aired_at": "2020-05-27",
-        "released_at": "2020-06-24",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Чжао Лу",
-          "Шэнь Давэй"
-        ]
-      }
-    },
-    {
-      "id": "serial-16665",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Пловец",
-      "title_orig": "Mr Swimmer",
-      "other_title": "Mr.Swimmer",
-      "translation": {
-        "id": 639,
-        "title": "SoftBox",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 46,
-      "episodes_count": 46,
-      "kinopoisk_id": "1220421",
-      "imdb_id": "tt9365182",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-05-10T18:00:11Z",
-      "updated_at": "2020-07-03T09:08:37Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/434286/1a53f54ec731727c3b13ee2203919604/720p",
-            "2": "//kodik.cc/seria/434287/a6bb1f27d80d8dc7e476bb21a285dfef/720p",
-            "3": "//kodik.cc/seria/434288/64e70bdd891db67aa612816a0c9fa745/720p",
-            "4": "//kodik.cc/seria/434289/84c1f3ea762ad26a33b60de35eb25efa/720p",
-            "5": "//kodik.cc/seria/434290/a92a889ed634d24de1536566aff152c0/720p",
-            "6": "//kodik.cc/seria/434291/68fa07c0e29c835f934b65f53c264b25/720p",
-            "7": "//kodik.cc/seria/434292/cf0d5ca8d6a1adafa544ea6a73e169ae/720p",
-            "8": "//kodik.cc/seria/434293/17729ff48a380b16ffdb27694e45d12a/720p",
-            "9": "//kodik.cc/seria/434294/b74bef2cac522599fbc63279a1211d57/720p",
-            "10": "//kodik.cc/seria/434295/f76569aaede52cbca859895f1c58c7f8/720p",
-            "11": "//kodik.cc/seria/434296/4e8ddd033ca8ea3e696f7986d806f523/720p",
-            "12": "//kodik.cc/seria/434297/2c4b0f7903457ca60f5972481d3db585/720p",
-            "13": "//kodik.cc/seria/434298/fd8ee21f1514a243006e7236e5013169/720p",
-            "14": "//kodik.cc/seria/434299/13a0ee5f747c94b797cbc430c37a37c9/720p",
-            "15": "//kodik.cc/seria/434300/41388ec84def58cfb10d333337586aa3/720p",
-            "16": "//kodik.cc/seria/434301/c52527d3541099823c0cca589b2b692a/720p",
-            "17": "//kodik.cc/seria/434302/0370958c6ab3b81685a0f5d5cb8fd14e/720p",
-            "18": "//kodik.cc/seria/434303/6828aacc18e22650e30f5bb9ac634aac/720p",
-            "19": "//kodik.cc/seria/434304/a9f597cb4a1c2133ce18339b5caa1cec/720p",
-            "20": "//kodik.cc/seria/434305/d3414466c7698172cbb7b1edc4962834/720p",
-            "21": "//kodik.cc/seria/434306/8edf62a3125ba75d9b7efe66a6623555/720p",
-            "22": "//kodik.cc/seria/434307/c8c082e306af9cba944d1d57c8e0b20f/720p",
-            "23": "//kodik.cc/seria/434308/5a6361aaa96bec069252c3946f5cd25e/720p",
-            "24": "//kodik.cc/seria/434309/6901cf540c1ec9abfa92bd6abb1b48b7/720p",
-            "25": "//kodik.cc/seria/434310/6db0c1de04ceeadd912fd6cc35ba42e5/720p",
-            "26": "//kodik.cc/seria/434311/6f63d2a5d1047dd0aa9da7ddc9434479/720p",
-            "27": "//kodik.cc/seria/434312/4c5a8fd22c24af5422da56e107d4b82f/720p",
-            "28": "//kodik.cc/seria/434313/f2694e414eb1f01749002b61a2fc7ba5/720p",
-            "29": "//kodik.cc/seria/434314/60651966afaaf287c09b1bb8100df882/720p",
-            "30": "//kodik.cc/seria/434315/8dc706abd028cf06662eeff708b7c016/720p",
-            "31": "//kodik.cc/seria/434316/4c0bcd73ab48fc42b50456bba1295843/720p",
-            "32": "//kodik.cc/seria/434317/bf2eae2a83833a0a5e963692820279bf/720p",
-            "33": "//kodik.cc/seria/434318/89676d2abb7e2c35485b9b5297d34af6/720p",
-            "34": "//kodik.cc/seria/434319/5ea6f4ca5007711155f240bb6d7c7c5b/720p",
-            "35": "//kodik.cc/seria/434320/1d967e5aaf7108c5ab8f31c42aa177e3/720p",
-            "36": "//kodik.cc/seria/434321/555dd22a28ad8b72f8f9ba49f290dc1f/720p",
-            "37": "//kodik.cc/seria/434322/add7cb06509d4ee30e1e5f0d7515cb2b/720p",
-            "38": "//kodik.cc/seria/434323/2587311a902b63122cf01569606940e0/720p",
-            "39": "//kodik.cc/seria/434324/ca82bd3feaeab75a875e21ba9fda51cd/720p",
-            "40": "//kodik.cc/seria/434325/8ad5879c944fb8977a596c4a95fd6a66/720p",
-            "41": "//kodik.cc/seria/434326/3e2103ef1d4726d04932cebc4096b869/720p",
-            "42": "//kodik.cc/seria/434327/f7af1eba72513d6cd079ab4fbe05aea0/720p",
-            "43": "//kodik.cc/seria/434328/d3a982a089efe9e2143f272cdd052b29/720p",
-            "44": "//kodik.cc/seria/434329/08f4dd5ddc089ba820a7fec7dcf5454e/720p",
-            "45": "//kodik.cc/seria/434330/1270906f7fad0a2d091bd94d9817cb69/720p",
-            "46": "//kodik.cc/seria/434331/b007cf0b79b959ab16e12835d08a1b99/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Пловец",
-        "title_en": "You yong xian sheng",
-        "year": 2018,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1220421.jpg",
-        "duration": 45,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "мелодрама",
-          "спорт"
-        ],
-        "imdb_rating": 7.1,
-        "imdb_votes": 19,
-        "premiere_world": "2018-05-09",
-        "actors": [
-          "Пират Нитипаисалкул",
-          "Цзюй Цзинъи",
-          "Джерри Янь",
-          "Ху Бин",
-          "Antonio Anuk",
-          "Yan Yu Hao"
-        ],
-        "directors": [
-          "Мэн Вэйго"
-        ],
-        "producers": [
-          "Wen Yi Zhang"
         ]
       }
     }
