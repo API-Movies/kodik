@@ -1,6 +1,449 @@
 {
   "results": [
     {
+      "id": "movie-32632",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Судьба: История Камакуры",
+      "title_orig": "Destiny: Kamakura monogatari",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1022539",
+      "imdb_id": "tt6493648",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-20T10:15:55Z",
+      "updated_at": "2019-11-09T08:25:41Z",
+      "material_data": {
+        "title": "Судьба: История Камакуры",
+        "title_en": "Destiny: Kamakura monogatari",
+        "year": 2017,
+        "description": "Провинциальный городок Камакура — старая столица Японии, где по сей день живы традиции и легенды. Говорят, в местном управлении полиции все еще функционирует отдел по делам лесных духов, а всех диких енотовидных собак в обязательном порядке регистрируют целыми семьями (вдруг среди них есть оборотни тануки). Ещё в Камакуре всегда любили селиться писатели. Оказался среди них и детективщик Иссики. C молодой женой они расследуют преступления и загадки, связанные с призраками, оборотнями и даже инопланетянами.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1022539.jpg",
+        "duration": 129,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "мелодрама",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 7.2,
+        "kinopoisk_votes": 193,
+        "imdb_rating": 6.8,
+        "imdb_votes": 1089,
+        "premiere_world": "2017-12-09",
+        "actors": [
+          "Масато Сакаи",
+          "Мицуки Такахата",
+          "Синъити Цуцуми",
+          "Мин Танака",
+          "Дзюн Кунимура",
+          "Хироко Якусимару",
+          "Томокадзу Миура",
+          "Сакура Андо",
+          "Тамао Накамура",
+          "Арата Фурута"
+        ],
+        "directors": [
+          "Такаси Ямадзаки"
+        ],
+        "producers": [
+          "Дзюнъити Абэ",
+          "Масаси Фунакоси",
+          "Такааки Кабуто",
+          "Кадзуо Тани"
+        ],
+        "writers": [
+          "Рёхэй Сайган",
+          "Такаси Ямадзаки"
+        ],
+        "designers": [
+          "Анри Дзёдзё"
+        ],
+        "operators": [
+          "Кодзо Сибадзаки"
+        ]
+      }
+    },
+    {
+      "id": "serial-3392",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Сильная женщина То Бон-сун",
+      "title_orig": "Himssenyeoja Dobongsoon",
+      "other_title": "Сильная До Бон-Сун / Силачка До Бон Сун / Strong Woman Do Bong Soon / Powerful Woman Do Bong Soon",
+      "translation": {
+        "id": 641,
+        "title": "STEPonee",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "1008439",
+      "imdb_id": "tt6263222",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-03-19T17:47:17Z",
+      "updated_at": "2019-11-09T08:21:06Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/98729/299224c62251ed66fec7e1dc76613976/720p",
+            "2": "//kodik.cc/seria/98730/0348bd3b26e0230d86aaf17bcc0b1e4d/720p",
+            "3": "//kodik.cc/seria/98731/02e9cc66efa066b696c55efeed380c9f/720p",
+            "4": "//kodik.cc/seria/98732/c030ae75206c95db8a969e22127ddb22/720p",
+            "5": "//kodik.cc/seria/98733/0d519132bfdd723572e817711c5417ed/720p",
+            "6": "//kodik.cc/seria/99005/06b5a8ecf2d7114c06e12e890e41cc48/720p",
+            "7": "//kodik.cc/seria/101401/02a28b1925ff5fe74b8da22ab233416e/720p",
+            "8": "//kodik.cc/seria/101402/2b19019d47ca51dc85ce2b3d5834e40c/720p",
+            "9": "//kodik.cc/seria/101907/ff7eb431ed160de19dd764d7da0da9fe/720p",
+            "10": "//kodik.cc/seria/102087/ece50ff26782017511327fbca208a241/720p",
+            "11": "//kodik.cc/seria/102546/70a31623664539cce38f0193f24ed9fa/720p",
+            "12": "//kodik.cc/seria/103300/5f79ff0b0cd8eb7fe96012f3ec23f9ce/720p",
+            "13": "//kodik.cc/seria/103857/f07f03be7214318892b88fe34c00173d/720p",
+            "14": "//kodik.cc/seria/104108/597e05bea855b5dbd4fc320086ef7e69/720p",
+            "15": "//kodik.cc/seria/105071/37c74f1d1b41590f274309b2f09282ea/720p",
+            "16": "//kodik.cc/seria/105532/e1c7fe578172da50a45d3c45461d1122/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Сильная женщина То Бон-сун",
+        "title_en": "Himssen yeoja Do Bong-sun",
+        "year": 2017,
+        "description": "Невероятно сильная То Бон-сун влюблена в Кук-ту, педанта и зануду, поэтому девушка изо всех сил пытается подстроиться под его идеальный типаж - быть милой, очаровательной и изящной. То есть обычной. Но Бон-сун всё-таки необычная, поэтому получает работу телохранителя наследника богатой семьи Ан Мин-хёка. А тот - полная противоположность её возлюбленного: импульсивный, высокомерный и избалованный.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1008439.jpg",
+        "duration": 60,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама",
+          "фантастика"
+        ],
+        "kinopoisk_rating": 7.9,
+        "kinopoisk_votes": 8154,
+        "imdb_rating": 8.2,
+        "imdb_votes": 6825,
+        "premiere_world": "2017-02-24",
+        "actors": [
+          "Пак По-ён",
+          "Пак Хён-щик",
+          "Чи Су",
+          "Ан У-ён",
+          "Чон Сок-хо",
+          "Ким Мин-гё",
+          "Соль Ин-а",
+          "Ким Вон-хэ",
+          "Юн Е-хи",
+          "Ю Ин-су"
+        ],
+        "directors": [
+          "Ли Хён-мин"
+        ],
+        "writers": [
+          "Пэк Ми-гён"
+        ]
+      }
+    },
+    {
+      "id": "movie-44799",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Земля дождевых лесов",
+      "title_orig": "Reintsurî no kuni",
+      "other_title": "Страна дождливых деревьев / The Land of Rain Trees",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2015,
+      "kinopoisk_id": "857639",
+      "imdb_id": "tt4164040",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-11-09T01:20:13Z",
+      "updated_at": "2019-11-09T01:20:13Z",
+      "material_data": {
+        "title": "Земля дождевых лесов",
+        "title_en": "Reintsurî no kuni",
+        "year": 2015,
+        "description": "Сакисака Нобиюки работает служащим. Еще со средней школы он хранит книгу под названием «Игры феи», и все из-за концовки, тогда она его очень удивила. Однажды, блуждая по интернету, Сакисака натыкается на блог «Страна дождливых деревьев». Его автора тоже удивила концовка той книги, поэтому молодой человек решает написать автору. Так начинается их общение, переросшее вскоре в нечто более возвышенное. Но девушка что-то скрывает, поэтому отказывается встретиться с Нобиюки в реальной жизни",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/857639.jpg",
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 6.5,
+        "imdb_votes": 60,
+        "premiere_world": "2015-11-21",
+        "actors": [
+          "Мария Нисиюти",
+          "Юта Тамамори",
+          "Аиносукэ Катаока"
+        ],
+        "directors": [
+          "Ёсисигэ Миякэ"
+        ],
+        "writers": [
+          "Хиро Арикава"
+        ]
+      }
+    },
+    {
+      "id": "movie-44798",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Бросаю работу навсегда",
+      "title_orig": "Chotto ima kara shigoto yamete kuru",
+      "other_title": "Бросаю работу навсегда / Каждому свое / С этого момента я увольняюсь",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2017,
+      "kinopoisk_id": "994690",
+      "imdb_id": "tt5922578",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-11-09T01:18:20Z",
+      "updated_at": "2019-11-09T01:18:46Z",
+      "material_data": {
+        "title": "Бросаю работу навсегда",
+        "title_en": "Chotto ima kara shigoto yamete kuru",
+        "year": 2017,
+        "description": "Такаси Аояма - законченный трудоголик. Работает на износ, отдыхать на умеет и не хочет. Однажды после особенно изматывающей недели он теряет сознание на станции метро и падает под колеса идущего поезда. От смерти Такаси спасает его сверстник Ямамото - жизнерадостный парень, он ещё и говорит на смешном кансайском диалекте (из города Осака). Новое знакомство придаёт Такаси новых сил и возвращает ему радость от жизни, но однажды он видит Ямамото в автобусе, и лицо у парня совсем невесёлое.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/994690.jpg",
+        "duration": 113,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "imdb_rating": 6.7,
+        "imdb_votes": 525,
+        "premiere_world": "2017-05-27",
+        "actors": [
+          "Сота Фукуси",
+          "Наруси Икэда",
+          "Эико Коикэ",
+          "Асука Кудо",
+          "Хару Куроки",
+          "Ёко Моригути",
+          "Котаро Ёсида"
+        ],
+        "directors": [
+          "Идзуру Нарусима"
+        ],
+        "writers": [
+          "Эми Китагава",
+          "Идзуру Нарусима"
+        ]
+      }
+    },
+    {
+      "id": "movie-44797",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Моё лучшее лето",
+      "title_orig": "Zui hao de wo men",
+      "other_title": "My Best Summer",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1256588",
+      "imdb_id": "tt10195976",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-11-09T01:15:05Z",
+      "updated_at": "2019-11-09T01:15:05Z",
+      "material_data": {
+        "title": "Моё лучшее лето",
+        "title_en": "Zui hao de wo men",
+        "year": 2019,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1256588.jpg",
+        "duration": 110,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 5.7,
+        "imdb_votes": 131,
+        "premiere_world": "2019-06-06",
+        "actors": [
+          "Sulong Wang",
+          "Fang Wen Qiang",
+          "Цзян Цзыянь",
+          "Xia Jing",
+          "Fan Shao",
+          "Jeff Qin",
+          "Xiaohou Zhang",
+          "Wei Wang",
+          "Zhengyan Zhang",
+          "Сюй Мэнъюань"
+        ],
+        "directors": [
+          "Чжан Диша"
+        ],
+        "producers": [
+          "Baozhu Cui",
+          "Xueke Chen",
+          "Fei Wang",
+          "Yiwen Zhang"
+        ],
+        "writers": [
+          "Хуан Бинь",
+          "Moqi Huang",
+          "Qinghua Xu",
+          "Yuhai Cheng"
+        ],
+        "editors": [
+          "Jiahua Li"
+        ],
+        "designers": [
+          "Zhongwen Xi",
+          "Xiangrong Wei"
+        ]
+      }
+    },
+    {
+      "id": "movie-44796",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Затмение",
+      "title_orig": "Keoteo",
+      "other_title": "Eclipse",
+      "translation": {
+        "id": 840,
+        "title": "Храм Дорам ТВ",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "1045608",
+      "mdl_id": "15076-cutter",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-11-09T01:07:47Z",
+      "updated_at": "2019-11-09T01:07:47Z",
+      "material_data": {
+        "title": "Затмение",
+        "title_en": "Keoteo",
+        "year": 2016,
+        "description": "Робкий и нерешительный Юн-джэ переводится в новую школу и заводит дружбу с Сэ-джуном, жестоким и безжалостным парнем. Вскоре эти двое впутываются в дело, связанное с наркотиками и продажей девушек. Кроме того, между приятелями встаёт ученица из их школы.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1045608.jpg",
+        "duration": 103,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "драма",
+          "криминал",
+          "триллер"
+        ],
+        "imdb_rating": 7,
+        "imdb_votes": 80,
+        "premiere_world": "2016-03-30",
+        "actors": [
+          "Чхве Тхэ-джун",
+          "Ким Щи-ху",
+          "Мун Га-ён",
+          "Пак Чин-су",
+          "Ви Ха-джун",
+          "Чан Со-гён"
+        ],
+        "directors": [
+          "Чон Хи-сон"
+        ],
+        "writers": [
+          "Мун Сон-ён"
+        ]
+      }
+    },
+    {
+      "id": "movie-44793",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Пропавшая",
+      "title_orig": "Bang jia zhe",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1009652",
+      "imdb_id": "tt4823122",
+      "quality": "HDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-11-08T22:37:33Z",
+      "updated_at": "2019-11-08T22:37:33Z",
+      "material_data": {
+        "title": "Пропавшая",
+        "title_en": "Bang jia zhe",
+        "year": 2017,
+        "description": "Некий мужчина попадает в автомобильную аварию и впадает в кому. Но не надолго - как только он приходит в себя в больничной палате, на него тут же нападает убийца в маске. Но наш герой убивает его и сбегает от нагрянувшей полиции. Оказывается, он похитил маленькую дочь полицейской Линь Вэй, позвонил ей и хотел сказать, где спрятана девочка, но не успел, попав в аварию. Кроме того, он потерял память, поэтому при всём желании не может ничего вспомнить.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1009652.jpg",
+        "duration": 95,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "боевик",
+          "криминал"
+        ],
+        "imdb_rating": 5.1,
+        "imdb_votes": 144,
+        "premiere_world": "2017-04-01",
+        "actors": [
+          "Бай Байхэ",
+          "Стэнли Хуан",
+          "Мин Доу",
+          "Мэйсон Ли",
+          "Ники Ли",
+          "Сюй Цзинлэй"
+        ],
+        "directors": [
+          "Сюй Цзинлэй"
+        ],
+        "producers": [
+          "Сюй Цзинлэй"
+        ],
+        "writers": [
+          "Сюй Цзинлэй",
+          "Ян Ишу"
+        ]
+      }
+    },
+    {
       "id": "movie-44794",
       "type": "foreign-movie",
       "link": "",
@@ -9743,744 +10186,6 @@
         ],
         "operators": [
           "Kemal Sözen"
-        ]
-      }
-    },
-    {
-      "id": "serial-5942",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Второй размер, интим предлагать!",
-      "title_orig": "B Gata H Kei",
-      "other_title": "Yamada's First Time",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2010,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "521804",
-      "imdb_id": "tt1634165",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7770",
-      "shikimori_id": "7817",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-12T02:15:55Z",
-      "updated_at": "2019-11-07T07:44:09Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/158752/a8bbd510cbbf18ef132b0c8fae80bb6b/720p",
-            "2": "//aniqit.com/seria/158753/ca9b434cfd4ff9cd7e63d0045e90d629/720p",
-            "3": "//aniqit.com/seria/158754/a332fca9cf08932799e5b178882e2ddc/720p",
-            "4": "//aniqit.com/seria/158755/a7245b738b7182be61633ee7986960cc/720p",
-            "5": "//aniqit.com/seria/158756/37aa96d79fd0ae35b64cd23669fe3f4a/720p",
-            "6": "//aniqit.com/seria/158757/1f69bda542ab60eda38fdbdffb6b7a27/720p",
-            "7": "//aniqit.com/seria/158758/298488a98f6b5cda3aadd42373cc144f/720p",
-            "8": "//aniqit.com/seria/158759/2013660c52c9a302847b76e8bb276946/720p",
-            "9": "//aniqit.com/seria/158760/c82dea1733ff60ac1ec4ebcc1e86146d/720p",
-            "10": "//aniqit.com/seria/158761/f09ff9c43aa822db77141dce0427c8c6/720p",
-            "11": "//aniqit.com/seria/158762/2e8f0565a9846b174aed94038f50afdf/720p",
-            "12": "//aniqit.com/seria/158763/4d2cd729a93a9b6e3b704182ba0ca7c1/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Второй размер, интим предлагать!",
-        "title_en": "B-gata H-kei",
-        "other_titles": [
-          "Размер — второй, характер — извращенка",
-          "Извращенка со вторым размером"
-        ],
-        "other_titles_en": [
-          "Yamada's First Time: B Gata H Kei"
-        ],
-        "other_titles_jp": [
-          "B型H系"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2010,
-        "tagline": "This girl has a big dream...You won't believe what it is!",
-        "description": "15-летняя симпатичная девчонка по фамилии Ямада, поступив в старшую школу, озабочена очень важным вопросом - как потерять девственность и получить удовольствие?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/521804.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/f95f1e67b4c92e79f3bb94b71c44619b026a0712.jpg",
-          "https://shikimori.one/system/screenshots/original/44bc84a0b18aeae112bc08222ef997b46c718d82.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Романтика",
-          "Сейнен",
-          "Школа",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Hal Film Maker",
-          "TYO Animations"
-        ],
-        "kinopoisk_rating": 7.4,
-        "kinopoisk_votes": 2827,
-        "imdb_rating": 7.2,
-        "imdb_votes": 1168,
-        "shikimori_rating": 6.94,
-        "shikimori_votes": 15069,
-        "premiere_world": "2010-04-01",
-        "aired_at": "2010-04-02",
-        "released_at": "2010-06-18",
-        "rating_mpaa": "R+",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Юкари Тамура",
-          "Ацуси Абэ",
-          "Юи Хориэ",
-          "Руми Сисидо",
-          "Ютака Коидзуми",
-          "Кота Осита",
-          "Мики Хасэ",
-          "Терри Доти",
-          "Скотт Фриман",
-          "Бриттни Карбовски"
-        ],
-        "directors": [
-          "Юсукэ Ямамото"
-        ],
-        "writers": [
-          "Ёко Санри"
-        ]
-      }
-    },
-    {
-      "id": "movie-43254",
-      "type": "anime",
-      "link": "",
-      "title": "В подземелье я пойду, там красавицу найду: Стрела Ориона",
-      "title_orig": "Gekijouban danjon ni deai o motomeru no wa machigatteiru daro ka: Orion no ya",
-      "other_title": "В подземелье я пойду, там красавицу найду! (фильм)",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1226783",
-      "imdb_id": "tt9526152",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9579",
-      "shikimori_id": "37348",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-02T15:49:40Z",
-      "updated_at": "2019-11-07T07:41:22Z",
-      "material_data": {
-        "title": "В подземелье я пойду, там красавицу найду: Стрела Ориона",
-        "title_en": "Gekijouban danjon ni deai o motomeru no wa machigatteiru daro ka: Orion no ya",
-        "other_titles": [
-          "Разве плохо искать себе пару в подземелье? Стрела Ориона",
-          "DanMachi Movie",
-          "Is It Wrong That I Want to Meet You in a Dungeon Movie"
-        ],
-        "other_titles_en": [
-          "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion"
-        ],
-        "other_titles_jp": [
-          "劇場版 ダンジョンに出会いを求めるのは間違っているだろうか -オリオンの矢-"
-        ],
-        "anime_license_name": "Разве плохо искать себе пару в подземелье? Стрела Ориона",
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2019,
-        "description": "Жизнь в Орарио кипит как никогда: сегодня Боголуние — праздник, придуманный ещё до сошествия богов в мир смертных. И пока авантюрист Белл Кранел и его покровительница Гестия бродят между пёстрыми лавками и множеством огней, весь город с недосягаемых высот окутывает бледным светом луна, молчаливо ожидающая, когда на сцену поднимется герой, о котором будет сложена новая сага.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1226783.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/ae22d927e45c7a7e1753ede7fc07685831068152.jpg",
-          "https://shikimori.one/system/screenshots/original/2e65fe8ccd578d3d57a178fdaceda750e9b573d0.jpg"
-        ],
-        "duration": 82,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Приключения",
-          "Романтика",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "J.C.Staff"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 2335,
-        "imdb_rating": 6.8,
-        "imdb_votes": 669,
-        "shikimori_rating": 7.44,
-        "shikimori_votes": 6645,
-        "premiere_world": "2019-02-15",
-        "aired_at": "2019-02-15",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": -1,
-        "actors": [
-          "Ёсицугу Мацуока",
-          "Инори Минасэ",
-          "Маая Сакамото",
-          "Маая Утида",
-          "Саори Оониси",
-          "Сома Саито",
-          "Саори Хаями",
-          "Сидзука Исигами",
-          "Харука Томацу",
-          "Ёсимаса Хосоя"
-        ],
-        "directors": [
-          "Кацуси Сакураби"
-        ],
-        "writers": [
-          "Фудзино Омори"
-        ],
-        "composers": [
-          "Кэидзи Инаи"
-        ]
-      }
-    },
-    {
-      "id": "movie-42630",
-      "type": "anime",
-      "link": "",
-      "title": "В подземелье я пойду, там красавицу найду: Стрела Ориона",
-      "title_orig": "Gekijouban danjon ni deai o motomeru no wa machigatteiru daro ka: Orion no ya",
-      "other_title": "В подземелье я пойду, там красавицу найду! (фильм)",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1226783",
-      "imdb_id": "tt9526152",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9579",
-      "shikimori_id": "37348",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-21T10:44:43Z",
-      "updated_at": "2019-11-07T07:40:47Z",
-      "material_data": {
-        "title": "В подземелье я пойду, там красавицу найду: Стрела Ориона",
-        "title_en": "Gekijouban danjon ni deai o motomeru no wa machigatteiru daro ka: Orion no ya",
-        "other_titles": [
-          "Разве плохо искать себе пару в подземелье? Стрела Ориона",
-          "DanMachi Movie",
-          "Is It Wrong That I Want to Meet You in a Dungeon Movie"
-        ],
-        "other_titles_en": [
-          "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion"
-        ],
-        "other_titles_jp": [
-          "劇場版 ダンジョンに出会いを求めるのは間違っているだろうか -オリオンの矢-"
-        ],
-        "anime_license_name": "Разве плохо искать себе пару в подземелье? Стрела Ориона",
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2019,
-        "description": "Жизнь в Орарио кипит как никогда: сегодня Боголуние — праздник, придуманный ещё до сошествия богов в мир смертных. И пока авантюрист Белл Кранел и его покровительница Гестия бродят между пёстрыми лавками и множеством огней, весь город с недосягаемых высот окутывает бледным светом луна, молчаливо ожидающая, когда на сцену поднимется герой, о котором будет сложена новая сага.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1226783.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/ae22d927e45c7a7e1753ede7fc07685831068152.jpg",
-          "https://shikimori.one/system/screenshots/original/2e65fe8ccd578d3d57a178fdaceda750e9b573d0.jpg"
-        ],
-        "duration": 82,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Приключения",
-          "Романтика",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "J.C.Staff"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 2335,
-        "imdb_rating": 6.8,
-        "imdb_votes": 669,
-        "shikimori_rating": 7.44,
-        "shikimori_votes": 6645,
-        "premiere_world": "2019-02-15",
-        "aired_at": "2019-02-15",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": -1,
-        "actors": [
-          "Ёсицугу Мацуока",
-          "Инори Минасэ",
-          "Маая Сакамото",
-          "Маая Утида",
-          "Саори Оониси",
-          "Сома Саито",
-          "Саори Хаями",
-          "Сидзука Исигами",
-          "Харука Томацу",
-          "Ёсимаса Хосоя"
-        ],
-        "directors": [
-          "Кацуси Сакураби"
-        ],
-        "writers": [
-          "Фудзино Омори"
-        ],
-        "composers": [
-          "Кэидзи Инаи"
-        ]
-      }
-    },
-    {
-      "id": "serial-3390",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Ён-пхаль: Подпольный доктор",
-      "title_orig": "Yongpalyi",
-      "other_title": "Ён Паль: Подпольный доктор / Ёнпаль / Ёнпхари / Yong-pal",
-      "translation": {
-        "id": 641,
-        "title": "STEPonee",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 1,
-      "last_episode": 18,
-      "episodes_count": 18,
-      "kinopoisk_id": "931138",
-      "imdb_id": "tt5010664",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-03-19T17:44:22Z",
-      "updated_at": "2019-11-07T07:33:04Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/98702/530ded1dbe2de8d679289d8dc2977c3a/720p",
-            "2": "//kodik.cc/seria/98703/4096db67bfc7bbd4c508dccaf3500282/720p",
-            "3": "//kodik.cc/seria/98704/d86bcd1465a9df3c845d0ad8475ef0e0/720p",
-            "4": "//kodik.cc/seria/98705/4fc4e15be31b1ebb2754602c9b3842ac/720p",
-            "5": "//kodik.cc/seria/98706/0b9b4a3c436c809e5cf42ce0aaf3e8cd/720p",
-            "6": "//kodik.cc/seria/98707/74b6eb472b9f8c6dbf045a322ca0391f/720p",
-            "7": "//kodik.cc/seria/98708/22001932431b81c1fa96a8d7c2396772/720p",
-            "8": "//kodik.cc/seria/98709/da452b393f1790332e32f23d8e4e3628/720p",
-            "9": "//kodik.cc/seria/98710/76b668a67289ef8b34b191bde328c4d1/720p",
-            "10": "//kodik.cc/seria/98711/1b9a4f48af7b8d0073a6869654b89ec9/720p",
-            "11": "//kodik.cc/seria/98712/53ad6337d4906e86016bab76a11fca5a/720p",
-            "12": "//kodik.cc/seria/98713/5ced22e71451c606d58dbe684dad5395/720p",
-            "13": "//kodik.cc/seria/98714/ef0f0efbf730aed9dd65b7d12fdcd717/720p",
-            "14": "//kodik.cc/seria/98715/f16dc6b2d401b4f85683494326b9ff27/720p",
-            "15": "//kodik.cc/seria/98716/6080b1a59857e6af19cd00d1943a5c1c/720p",
-            "16": "//kodik.cc/seria/98717/38d782dbc7e5f622706af24cbaea0e15/720p",
-            "17": "//kodik.cc/seria/98718/f3fb56b1e8d7cdd7e1342ed79fe35868/720p",
-            "18": "//kodik.cc/seria/98719/8c396ba00e768e4427649c51930edc92/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Ён-пхаль: Подпольный доктор",
-        "title_en": "Yongpalyi",
-        "year": 2015,
-        "description": "Талантливый выпускник медицинской академии упорно трудился ради своей мечты. Но его сестра неожиданно стала нуждаться в еженедельном диализе, поэтому он влез в долги. Тогда парень берёт псевдоним Ён-пхаль и начинает ездить по тайным вызовам в дома богатых людей, которые не могут открыто воспользоваться медицинскими услугами по разным причинам, где и становится свидетелем грязных дел самых влиятельных людей Сеула.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/931138.jpg",
-        "duration": 60,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.4,
-        "kinopoisk_votes": 535,
-        "imdb_rating": 7.5,
-        "imdb_votes": 618,
-        "premiere_world": "2015-08-05",
-        "actors": [
-          "Чу Вон",
-          "Ким Тхэ-хи",
-          "Ким Ми-гён",
-          "Чан Гван",
-          "Ким Дон-сок",
-          "Ю Джун-хон",
-          "Со Хи-джон",
-          "Ха Су-хо",
-          "Чхве Бён-мо",
-          "Стефани Ли"
-        ],
-        "directors": [
-          "О Джин-сок"
-        ],
-        "writers": [
-          "Чан Хён-нин"
-        ]
-      }
-    },
-    {
-      "id": "movie-44704",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Голубая бездна",
-      "title_orig": "Blue",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2009,
-      "kinopoisk_id": "410072",
-      "imdb_id": "tt1223922",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-11-07T05:31:08Z",
-      "updated_at": "2019-11-07T05:31:08Z",
-      "material_data": {
-        "title": "Голубая бездна",
-        "title_en": "Blue",
-        "year": 2009,
-        "tagline": "Тайна, скрытая в пучине",
-        "description": "Опытный ныряльщик Сагаар Сингх работает на человека, пытающего уговорить его пуститься на поиски давно затонувших сокровищ. В это же время младший брат Сагаара попадает в неприятности, бежит из Бангкока и возвращается к брату на Багамы в поисках убежища. Но убежать не так просто. 50 миллионов долларов или твоя жизнь. К тому же в наше время никому нельзя доверять. Ведь не все на самом деле так, как оно есть в действительности. И не все люди такие, какими они кажутся",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/410072.jpg",
-        "duration": 116,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "приключения",
-          "триллер"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 466,
-        "imdb_rating": 3.7,
-        "imdb_votes": 4452,
-        "premiere_world": "2009-10-16",
-        "minimal_age": 16,
-        "actors": [
-          "Акшай Кумар",
-          "Санджай Датт",
-          "Лара Датта",
-          "Зайед Кхан",
-          "Рахул Дев",
-          "Кабир Беди",
-          "Катрина Каиф",
-          "Кайли Миноуг",
-          "Ritchard-Ellis Smith",
-          "Adam Nicholas Brown"
-        ],
-        "directors": [
-          "Энтони Д’Соуза"
-        ],
-        "producers": [
-          "Култхеп Нарула",
-          "Брайан Одом"
-        ],
-        "writers": [
-          "Энтони Д’Соуза",
-          "Майур Пури"
-        ],
-        "composers": [
-          "А.Р. Рахман"
-        ],
-        "editors": [
-          "Шийам К. Салгонкар"
-        ],
-        "operators": [
-          "Лаксман Утекар"
-        ]
-      }
-    },
-    {
-      "id": "serial-11943",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Тетрадь дружбы Нацумэ (третий сезон)",
-      "title_orig": "Natsume Yuujinchou San",
-      "other_title": "Natsume Yuujinchou 3",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2011,
-      "last_season": 3,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "481534",
-      "imdb_id": "tt1352421",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=400",
-      "shikimori_id": "10379",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-08-09T11:18:20Z",
-      "updated_at": "2019-11-07T02:08:44Z",
-      "seasons": {
-        "3": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/320466/cad6246559da4a7b2a0ba3208d3e0617/720p",
-            "2": "//aniqit.com/seria/320467/91ba4e6d5c2c0726a3bc2dad454fa71e/720p",
-            "3": "//aniqit.com/seria/320468/0989aae4cb6f2a5f030c9c3bd86202de/720p",
-            "4": "//aniqit.com/seria/320469/b12dcc6a308a54ac109945fdfcfad9fa/720p",
-            "5": "//aniqit.com/seria/320470/8183f4a454564a333f0f28e9194a11b4/720p",
-            "6": "//aniqit.com/seria/320471/c7efa84494d5e9ddccbec4d7875804ad/720p",
-            "7": "//aniqit.com/seria/320472/9969df5bc53ec6d7ac6a94a4ad392eff/720p",
-            "8": "//aniqit.com/seria/320473/c3fb58f5b75e199fcbbf4fae128d0de4/720p",
-            "9": "//aniqit.com/seria/320474/abe056371b486bf2496fae98acb99dae/720p",
-            "10": "//aniqit.com/seria/320475/3a49107d32334997666bc5898e66d2d2/720p",
-            "11": "//aniqit.com/seria/320476/22ab29a9853f62f27bda3504b7acef5c/720p",
-            "12": "//aniqit.com/seria/320477/9a0888a7b995a928e779ebedde858fa5/720p",
-            "13": "//aniqit.com/seria/320478/cc034cd28b61b107a3bb3053a4e09e94/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Тетрадь дружбы Нацумэ",
-        "title_en": "Natsume yujincho",
-        "other_titles": [
-          "Natsume Yuujinchou Three",
-          "Natsume Yuujinchou 3",
-          "Natsume Yujincho 3"
-        ],
-        "other_titles_en": [
-          "Natsume's Book of Friends Season 3"
-        ],
-        "other_titles_jp": [
-          "夏目友人帳 参"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2008,
-        "description": "Такаси Нацумэ по-прежнему живет в доме семьи Фудзивара, по-прежнему видит духов и по-прежнему оберегаем Нянко-сэнсеем. Сменяются сезоны, новые и новые призраки обращаются к нему за своими плененными именами или за той помощью, которую юный духовидец способен оказать ёкаям или уездным божкам.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/481534.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/2e812d28ec9c9525e34d61618592b3f63657a2e9.jpg",
-          "https://shikimori.one/system/screenshots/original/a6baf02d79db3d017546d21f774e8738f6adbe6f.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Демоны",
-          "Драма",
-          "Повседневность",
-          "Сверхъестественное",
-          "Сёдзё"
-        ],
-        "anime_studios": [
-          "Brain's Base"
-        ],
-        "kinopoisk_rating": 8,
-        "kinopoisk_votes": 3976,
-        "imdb_rating": 8.1,
-        "imdb_votes": 1628,
-        "shikimori_rating": 8.6,
-        "shikimori_votes": 8212,
-        "premiere_world": "2008-07-07",
-        "aired_at": "2011-07-05",
-        "released_at": "2011-09-27",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 13,
-        "episodes_aired": 13,
-        "actors": [
-          "Хироси Камия",
-          "Кадзухико Иноуэ",
-          "Миса Ватанабэ",
-          "Аи Хоранаи",
-          "Мики Ито",
-          "Рёхэй Кимура",
-          "Хисаёси Суганума",
-          "Миюки Савасиро",
-          "Хироси Симодзаки",
-          "Акира Исида"
-        ],
-        "directors": [
-          "Такахиро Омори",
-          "Котоми Дэаи"
-        ],
-        "writers": [
-          "Кэнъити Араки",
-          "Дзюкки Ханада",
-          "Миэ Кага",
-          "Мисато Кага",
-          "Кэнъити Канэмаки",
-          "Юки Мидорикава",
-          "Садаюки Мураи",
-          "Хироси Оноги",
-          "Сэкидзима Маёри",
-          "Нобору Такаги"
-        ]
-      }
-    },
-    {
-      "id": "serial-7961",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Тетрадь дружбы Нацумэ (шестой сезон)",
-      "title_orig": "Natsume Yuujinchou Roku",
-      "other_title": "Natsume yujincho",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 6,
-      "last_episode": 11,
-      "episodes_count": 11,
-      "kinopoisk_id": "481534",
-      "imdb_id": "tt1352421",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9075",
-      "shikimori_id": "34591",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-29T13:43:04Z",
-      "updated_at": "2019-11-07T02:06:45Z",
-      "seasons": {
-        "6": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/208020/80db21d5cb3c4af8da2498f79b46c4e2/720p",
-            "2": "//aniqit.com/seria/208021/907a165e344b76d1c640cd1bc301e327/720p",
-            "3": "//aniqit.com/seria/208022/5e2165279211aff2dc711b6a0381bd19/720p",
-            "4": "//aniqit.com/seria/208023/d8861b38744cace73ae3cbe92d2aa096/720p",
-            "5": "//aniqit.com/seria/208024/ee3147215aa8e99245c3e2a1a372b476/720p",
-            "6": "//aniqit.com/seria/219099/3e01b97b7efeb08fbcc5c7b98916a7a5/720p",
-            "7": "//aniqit.com/seria/219100/c17d174ce91e2419a3529e1fa24ab024/720p",
-            "8": "//aniqit.com/seria/219101/c45af06202216029be918b54802176fe/720p",
-            "9": "//aniqit.com/seria/219981/beea58c9d21827c55f235603d196886b/720p",
-            "10": "//aniqit.com/seria/243386/3f71c070695613620097cbe77c735fcf/720p",
-            "11": "//aniqit.com/seria/243387/d38bb35f1569bafb58739a83a112dbb4/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Тетрадь дружбы Нацумэ",
-        "title_en": "Natsume yujincho",
-        "other_titles": [
-          "Natsume Yuujinchou Season 6",
-          "Natsume's Book of Friends Six"
-        ],
-        "other_titles_en": [
-          "Natsume's Book of Friends Season 6"
-        ],
-        "other_titles_jp": [
-          "夏目友人帳 陸"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2008,
-        "description": "Такаси Нацумэ по-прежнему живет в доме семьи Фудзивара, по-прежнему видит духов и по-прежнему оберегаем Нянко-сэнсеем. Сменяются сезоны, новые и новые призраки обращаются к нему за своими плененными именами или за той помощью, которую юный духовидец способен оказать ёкаям или уездным божкам.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/481534.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/dd53c1485c5b46a99197b08e652531e85fc1982c.jpg",
-          "https://shikimori.one/system/screenshots/original/fc4bdfd3643c1580c2caec6c958812699648a141.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Демоны",
-          "Драма",
-          "Повседневность",
-          "Сверхъестественное",
-          "Сёдзё"
-        ],
-        "anime_studios": [
-          "Shuka"
-        ],
-        "kinopoisk_rating": 8,
-        "kinopoisk_votes": 3976,
-        "imdb_rating": 8.1,
-        "imdb_votes": 1628,
-        "shikimori_rating": 8.65,
-        "shikimori_votes": 4678,
-        "premiere_world": "2008-07-07",
-        "aired_at": "2017-04-12",
-        "released_at": "2017-06-21",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 11,
-        "episodes_aired": 11,
-        "actors": [
-          "Хироси Камия",
-          "Кадзухико Иноуэ",
-          "Миса Ватанабэ",
-          "Аи Хоранаи",
-          "Мики Ито",
-          "Рёхэй Кимура",
-          "Хисаёси Суганума",
-          "Миюки Савасиро",
-          "Хироси Симодзаки",
-          "Акира Исида"
-        ],
-        "directors": [
-          "Такахиро Омори",
-          "Котоми Дэаи"
-        ],
-        "writers": [
-          "Кэнъити Араки",
-          "Дзюкки Ханада",
-          "Миэ Кага",
-          "Мисато Кага",
-          "Кэнъити Канэмаки",
-          "Юки Мидорикава",
-          "Садаюки Мураи",
-          "Хироси Оноги",
-          "Сэкидзима Маёри",
-          "Нобору Такаги"
         ]
       }
     }

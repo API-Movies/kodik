@@ -1,6 +1,590 @@
 {
   "results": [
     {
+      "id": "movie-42860",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Швейк на фронте",
+      "title_orig": "Poslusne hlásím",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 1958,
+      "kinopoisk_id": "279081",
+      "imdb_id": "tt0050853",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-25T04:40:47Z",
+      "updated_at": "2019-09-25T04:40:47Z",
+      "material_data": {
+        "title": "Швейк на фронте",
+        "title_en": "Poslusne hlásím",
+        "year": 1957,
+        "description": "Йозеф Швейк, чешский торговец собаками, которого уже один раз выгнали из армии по слабоумию, вновь призван в армию в качестве пушечного мяса для Первой Мировой Войны. Притесняемый бюрократами, полицией, докторами, «проданный» одним офицером другому, жизнерадостный, разговорчивый и простодушный солдат неохотно следует своему невезучему, но полному приключений и забавных ситуаций, пути на передовую.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/279081.jpg",
+        "duration": 91,
+        "countries": [
+          "Чехословакия"
+        ],
+        "genres": [
+          "военный",
+          "комедия"
+        ],
+        "kinopoisk_rating": 7.2,
+        "kinopoisk_votes": 468,
+        "imdb_rating": 7.5,
+        "imdb_votes": 629,
+        "premiere_world": "1958-01-03",
+        "actors": [
+          "Рудольф Грушинский",
+          "Сватоплук Бенеш",
+          "Ярослав Марван",
+          "Милош Недбал",
+          "Фанда Мразек",
+          "Ярослав Войта",
+          "Алоис Дворски",
+          "Яна Коварикова",
+          "Франтишек Черны",
+          "Франтишек Шлегр"
+        ],
+        "directors": [
+          "Карел Стеклы"
+        ],
+        "writers": [
+          "Ярослав Гашек",
+          "Карел Стеклы"
+        ],
+        "composers": [
+          "Ян Сейдл"
+        ],
+        "editors": [
+          "Мирослав Гайек",
+          "Магда Хайкова"
+        ],
+        "designers": [
+          "Богумил Покорны",
+          "Йозеф Габриэль"
+        ],
+        "operators": [
+          "Ян Рот"
+        ]
+      }
+    },
+    {
+      "id": "serial-18630",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Семьянин",
+      "title_orig": "The Family Man",
+      "translation": {
+        "id": 752,
+        "title": "IDEAFILM",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "1226828",
+      "imdb_id": "tt9544034",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-09-24T20:10:04Z",
+      "updated_at": "2019-09-24T20:10:04Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/489602/f395611c81f852b0da1421311a0e1afc/720p",
+            "2": "//kodik.cc/seria/489603/71b155b30a613f99ab201e961bd6bf42/720p",
+            "3": "//kodik.cc/seria/489604/a81f293dad3387dbe127e8638cae0449/720p",
+            "4": "//kodik.cc/seria/489605/41143b9957144b8a5c3381f77f1e5b61/720p",
+            "5": "//kodik.cc/seria/489606/095cb9cfdc872cef4a9ed1184ac7e7b0/720p",
+            "6": "//kodik.cc/seria/489607/13a59d1528961ad6f48f396619df81cb/720p",
+            "7": "//kodik.cc/seria/489608/3364b8a0a4b9c4d8fabf9ebdca2a910b/720p",
+            "8": "//kodik.cc/seria/489609/933e7eec8644142a0c8b63e8ea7f4401/720p",
+            "9": "//kodik.cc/seria/489610/03e8cffccd2e1ff7ec8975812ed54faf/720p",
+            "10": "//kodik.cc/seria/489611/2d6c0b69f4671f4bd81c35853a4c084e/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "The Family Man",
+        "title_en": "",
+        "year": 2019,
+        "duration": 45,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "боевик",
+          "драма",
+          "комедия"
+        ],
+        "imdb_rating": 8.6,
+        "imdb_votes": 30793,
+        "premiere_world": "2019-09-19",
+        "actors": [
+          "Манодж Баджпаи",
+          "Шариб Хашми",
+          "Vedant Sinha",
+          "Mehek Thakur",
+          "Приямани",
+          "Нирадж Мадхав",
+          "Шарад Келкар",
+          "Shreya Dhanwanthary",
+          "Shahab Ali",
+          "Паван Чопра"
+        ],
+        "directors": [
+          "Кришна Д.К.",
+          "Радж Нидимору"
+        ],
+        "producers": [
+          "Кришна Д.К.",
+          "Рахул Гандхи",
+          "Радж Нидимору"
+        ],
+        "writers": [
+          "Самит Арора",
+          "Кришна Д.К.",
+          "Суман Кумар",
+          "Радж Нидимору"
+        ],
+        "composers": [
+          "Кетан Содха",
+          "Divya Limbasia"
+        ],
+        "editors": [
+          "Sumeet Kotian"
+        ],
+        "designers": [
+          "Saini S. Johray",
+          "Фали Унвалла",
+          "Рамчарантедж Лабани",
+          "Krish Khatri",
+          "Monica Balsara",
+          "Yasmin Sethi"
+        ],
+        "operators": [
+          "Нигам Бомзан",
+          "Azim Moollan"
+        ]
+      }
+    },
+    {
+      "id": "serial-18596",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Семьянин",
+      "title_orig": "The Family Man",
+      "translation": {
+        "id": 743,
+        "title": "BaibaKo",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "1226828",
+      "imdb_id": "tt9544034",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-09-24T20:10:04Z",
+      "updated_at": "2019-09-24T20:10:04Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/488831/36579c0f2a8eb080d4d75d5ef6ed5362/720p",
+            "2": "//kodik.cc/seria/488832/c9a70c0cabf1bbfabd04d431cbbef6b8/720p",
+            "3": "//kodik.cc/seria/488833/a82ea6395ee0eb307341ef3d48aee15d/720p",
+            "4": "//kodik.cc/seria/488834/a9338e8853cae8e0c9902bb77cf1959f/720p",
+            "5": "//kodik.cc/seria/488835/d5977ef019faa95f719d8f2f40915fbd/720p",
+            "6": "//kodik.cc/seria/488836/9486506ae3dde5dec08b08530662d033/720p",
+            "7": "//kodik.cc/seria/488837/26332af3717d582e80610de9b144beb6/720p",
+            "8": "//kodik.cc/seria/488838/729001cf060299f6bb030c8446f9a1d4/720p",
+            "9": "//kodik.cc/seria/488839/10870fe17dfe9ea0c07fc6a6ce8d1050/720p",
+            "10": "//kodik.cc/seria/488840/010174becc5e202824356888765c15e2/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "The Family Man",
+        "title_en": "",
+        "year": 2019,
+        "duration": 45,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "боевик",
+          "драма",
+          "комедия"
+        ],
+        "imdb_rating": 8.6,
+        "imdb_votes": 30793,
+        "premiere_world": "2019-09-19",
+        "actors": [
+          "Манодж Баджпаи",
+          "Шариб Хашми",
+          "Vedant Sinha",
+          "Mehek Thakur",
+          "Приямани",
+          "Нирадж Мадхав",
+          "Шарад Келкар",
+          "Shreya Dhanwanthary",
+          "Shahab Ali",
+          "Паван Чопра"
+        ],
+        "directors": [
+          "Кришна Д.К.",
+          "Радж Нидимору"
+        ],
+        "producers": [
+          "Кришна Д.К.",
+          "Рахул Гандхи",
+          "Радж Нидимору"
+        ],
+        "writers": [
+          "Самит Арора",
+          "Кришна Д.К.",
+          "Суман Кумар",
+          "Радж Нидимору"
+        ],
+        "composers": [
+          "Кетан Содха",
+          "Divya Limbasia"
+        ],
+        "editors": [
+          "Sumeet Kotian"
+        ],
+        "designers": [
+          "Saini S. Johray",
+          "Фали Унвалла",
+          "Рамчарантедж Лабани",
+          "Krish Khatri",
+          "Monica Balsara",
+          "Yasmin Sethi"
+        ],
+        "operators": [
+          "Нигам Бомзан",
+          "Azim Moollan"
+        ]
+      }
+    },
+    {
+      "id": "serial-18539",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Монархиня",
+      "title_orig": "Monarca",
+      "translation": {
+        "id": 980,
+        "title": "Elysium",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "1172755",
+      "imdb_id": "tt8655736",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-09-20T12:40:38Z",
+      "updated_at": "2019-09-24T19:38:50Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/487243/fa8958923b9f390b125c0ddac5b430ca/720p",
+            "2": "//kodik.cc/seria/487244/049e3525961582af10a20921d38fb72f/720p",
+            "3": "//kodik.cc/seria/487245/4e9296a65a91acf8262cb9ac18c376ce/720p",
+            "4": "//kodik.cc/seria/487246/abaeec6fd1b8913c7f53c1be67a96703/720p",
+            "5": "//kodik.cc/seria/488592/c0c1f1a47e2c5baa4c236ed19e5b16f0/720p",
+            "6": "//kodik.cc/seria/488593/fdac13a79f87649b5bb0a7955a3ab352/720p",
+            "7": "//kodik.cc/seria/488594/fd34727339473be96f128fdfaf1c1af9/720p",
+            "8": "//kodik.cc/seria/488595/4baf8ddbc980aecfeb100bfa2ebbb054/720p",
+            "9": "//kodik.cc/seria/488596/c51bf605118d3fc21bdb58433af903d3/720p",
+            "10": "//kodik.cc/seria/488597/067e102bbc72f378395255b06dc6a1c9/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Монархиня",
+        "title_en": "Monarca",
+        "year": 2019,
+        "description": "Спустя 20 лет Ана Мария возвращается в Мексику и борется за контроль над принадлежащей на протяжении нескольких поколений её семье бизнес-империей текилы, которой грозит крах из-за коррупции и множества тайн.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1172755.jpg",
+        "duration": 43,
+        "countries": [
+          "Мексика"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 8,
+        "imdb_votes": 2242,
+        "premiere_world": "2019-09-13",
+        "actors": [
+          "Ирене Асуэла",
+          "Хуан Мануэль Берналь",
+          "Освальдо Бенавидес",
+          "Антонио де ла Вега",
+          "Джеймс Хайд",
+          "Рехина Павон",
+          "Роса Мария Бьянчи",
+          "Карла Аделл",
+          "Дали Гонзалез",
+          "Габриела де ла Гарса"
+        ],
+        "directors": [
+          "Фернандо Ровзар",
+          "Наталия Беристайн",
+          "Хосе Мануэль Кравиотто"
+        ],
+        "producers": [
+          "Диего Гарсия Гутиеррез",
+          "Сальма Хайек",
+          "Майкл МакДональд",
+          "Хуан Карлос Кото",
+          "Алексис Фридман",
+          "Билл Ровзар",
+          "Viridiana Torres",
+          "Фернандо Ровзар",
+          "Isaac Levy",
+          "Джордже Эдуардо Рамирез"
+        ],
+        "writers": [
+          "Диего Гарсия Гутиеррез",
+          "Сандра Гарсия Фельтен",
+          "Фернандо Ровзар",
+          "Ана София Клеричи",
+          "Julia Denis"
+        ],
+        "composers": [
+          "Camilo Froideval",
+          "Дэн Злотник"
+        ],
+        "editors": [
+          "Хорхе Макая",
+          "Monarca",
+          "Fernanda Morales de la Cerda",
+          "Nicolenka Beltran",
+          "Хонатан Пельисер"
+        ],
+        "designers": [
+          "Карлос Лагунас",
+          "Сандро Вальдес",
+          "Sebastian Buendia",
+          "Барбара Хоркаситас"
+        ],
+        "operators": [
+          "Rocco Rodriguez",
+          "Чуй Чавес"
+        ]
+      }
+    },
+    {
+      "id": "movie-42826",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мастер возвращается",
+      "title_orig": "Master Returns",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2018,
+      "imdb_id": "tt10497998",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-24T17:16:55Z",
+      "updated_at": "2019-09-24T17:16:55Z"
+    },
+    {
+      "id": "movie-42821",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Врата дракона и тигра",
+      "title_orig": "Lung foo moon",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2006,
+      "kinopoisk_id": "194208",
+      "imdb_id": "tt0482930",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-24T12:53:46Z",
+      "updated_at": "2019-09-24T12:53:46Z",
+      "material_data": {
+        "title": "Врата дракона и тигра",
+        "title_en": "Lung foo moon",
+        "year": 2006,
+        "description": "История о двух мастерах кунг-фу, которые должны продолжить дело своих отцов в битве со злом. Двое некровных брата должны защитить мир от злых сил бессмертного прозвавшего себя Черной Пагодой. Борьба добра и зла! Кто же победит в этой битве? На этот раз зло обладает великой силой, которой противостоять могут всего лишь два человека - два брата Тигр и Дракон.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/194208.jpg",
+        "duration": 87,
+        "countries": [
+          "Гонконг",
+          "Китай"
+        ],
+        "genres": [
+          "боевик",
+          "драма",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 6.2,
+        "kinopoisk_votes": 696,
+        "imdb_rating": 6.2,
+        "imdb_votes": 6404,
+        "premiere_world": "2006-07-27",
+        "minimal_age": 16,
+        "actors": [
+          "Юк Лонг Вонг",
+          "Луис Ку",
+          "Изабелла Люн",
+          "Элла Кун",
+          "Донни Йен",
+          "Николас Тсе",
+          "Шон Юе",
+          "Дун Цзэ",
+          "Ли Сяожань",
+          "Юэнь Ва"
+        ],
+        "directors": [
+          "Уилсон Ип"
+        ],
+        "producers": [
+          "Ши Наньсунь",
+          "Коан Хуэй",
+          "Нань Ли",
+          "Саймон Луй",
+          "Пан Юк-Лам",
+          "Жэнь Чжунлунь",
+          "Рэймонд Вон",
+          "Сюй Пэнлэ",
+          "Донни Йен",
+          "Юй Дун"
+        ],
+        "writers": [
+          "Юк Лонг Вонг",
+          "Эдмонд Вон"
+        ],
+        "composers": [
+          "Кэндзи Каваи"
+        ],
+        "editors": [
+          "Чун Ка-Фай"
+        ],
+        "designers": [
+          "Уильям Чан",
+          "Че Киу Лам",
+          "Кеннет Мак",
+          "Ли Пик-Кван"
+        ],
+        "operators": [
+          "Ко Чиу-Лам"
+        ]
+      }
+    },
+    {
+      "id": "movie-42787",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Уличный боец",
+      "title_orig": "Gekitotsu! Satsujin ken",
+      "translation": {
+        "id": 590,
+        "title": "Кузнецов",
+        "type": "voice"
+      },
+      "year": 1974,
+      "kinopoisk_id": "65501",
+      "imdb_id": "tt0073756",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-24T11:16:05Z",
+      "updated_at": "2019-09-24T11:16:05Z",
+      "material_data": {
+        "title": "Уличный боец",
+        "title_en": "Gekitotsu! Satsujin ken",
+        "year": 1974,
+        "tagline": "The First X Rated Fight Scenes in Screen History!",
+        "description": "Каратиста-убийцу по имени Джинджи должны сегодня казнить. Его брат с сестрой нанимают другого каратиста-убийцу по имени Терри Цуруги для того, чтобы он спас их брата.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/65501.jpg",
+        "duration": 91,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "боевик",
+          "криминал",
+          "триллер"
+        ],
+        "kinopoisk_rating": 6.8,
+        "kinopoisk_votes": 313,
+        "imdb_rating": 7.1,
+        "imdb_votes": 4481,
+        "premiere_world": "1974-02-02",
+        "rating_mpaa": "R",
+        "actors": [
+          "Сонни Тиба",
+          "Ютака Накадзима",
+          "Тиёко Кадзама",
+          "Эцуко Сихоми",
+          "Гоичи Ямада",
+          "Нобуо Каваи",
+          "Акира Сиодзи",
+          "Чико Лоран",
+          "Тони Сетера",
+          "Осман Юсуф"
+        ],
+        "directors": [
+          "Сигэхиро Одзава"
+        ],
+        "producers": [
+          "Норимити Мацудайра"
+        ],
+        "writers": [
+          "Кодзи Такада",
+          "Мотохиро Тории",
+          "Steve Autrey"
+        ],
+        "composers": [
+          "Тосиаки Цусима"
+        ],
+        "editors": [
+          "Кодзо Хориикэ"
+        ],
+        "designers": [
+          "Такатоси Судзуки",
+          "Tamotsu Iwasako",
+          "Hisashi Yamada"
+        ],
+        "operators": [
+          "Кэн Цукакоси"
+        ]
+      }
+    },
+    {
       "id": "movie-42774",
       "type": "foreign-movie",
       "link": "",
@@ -231,7 +815,7 @@
           "триллер"
         ],
         "imdb_rating": 5.2,
-        "imdb_votes": 366,
+        "imdb_votes": 367,
         "premiere_world": "2019-06-05",
         "actors": [
           "Аниша Амброзе",
@@ -5196,7 +5780,7 @@
         "imdb_rating": 7.4,
         "imdb_votes": 14813,
         "shikimori_rating": 7.79,
-        "shikimori_votes": 6073,
+        "shikimori_votes": 6193,
         "premiere_world": "1999-07-24",
         "aired_at": "2000-06-03",
         "rating_mpaa": "R",
@@ -5310,7 +5894,7 @@
         "imdb_rating": 7.4,
         "imdb_votes": 14813,
         "shikimori_rating": 7.79,
-        "shikimori_votes": 6073,
+        "shikimori_votes": 6193,
         "premiere_world": "1999-07-24",
         "aired_at": "2000-06-03",
         "rating_mpaa": "R",
@@ -7897,491 +8481,6 @@
         ],
         "directors": [
           "Хироси Кимура"
-        ]
-      }
-    },
-    {
-      "id": "serial-17661",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Дарованный",
-      "title_orig": "Given",
-      "other_title": "Одаренный",
-      "translation": {
-        "id": 957,
-        "title": "youmiteru",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 11,
-      "episodes_count": 10,
-      "kinopoisk_id": "1290992",
-      "imdb_id": "tt10479420",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10019",
-      "shikimori_id": "39533",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-07-19T14:57:51Z",
-      "updated_at": "2019-09-19T22:32:10Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "2": "//aniqit.com/seria/460254/ad866915f2765ffae70288b4e5fb4fba/720p",
-            "3": "//aniqit.com/seria/462981/db495f03de88b684ce6786d6ca6888d6/720p",
-            "4": "//aniqit.com/seria/466704/3458519e2c79ea632230af3bf65a985a/720p",
-            "5": "//aniqit.com/seria/469444/8ee183dd473f04dc2754965812daf4b6/720p",
-            "6": "//aniqit.com/seria/472585/df6452dc38f9df4b9ee5cef63a8b54e5/720p",
-            "7": "//aniqit.com/seria/475010/431f3340300c4d8e42ace57845ddb24b/720p",
-            "8": "//aniqit.com/seria/478992/b521abee8f012d1eac2abc423efaf848/720p",
-            "9": "//aniqit.com/seria/480966/af74717686e143bf2c3296847433c2cd/720p",
-            "10": "//aniqit.com/seria/484017/c11b25777b767a0bdee45616b8479eda/720p",
-            "11": "//aniqit.com/seria/486915/fcd817be2297bd24da2248ac55f16aba/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Дарованный",
-        "title_en": "Given",
-        "other_titles": [
-          "Одарённый"
-        ],
-        "other_titles_jp": [
-          "ギヴン"
-        ],
-        "anime_license_name": "Дарованный",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2019,
-        "description": "Рицука Уэнояма является гитаристом для группы, состоящей из его самого, басиста Харуки Накаяма и барабанщика Акихико Кадзи. Он становится учителем игры на гитаре Мафую Сато, застенчивого одноклассника. Рицука вскоре понимает, что Мафую исключительно талантливый певец, и приглашает его присоединиться к группе.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1290992.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/2a4e7cc6c05a7808bf1698b07ed07bb59da7e6cf.png",
-          "https://shikimori.one/system/screenshots/original/1c81e6d74d9d9e1284cfddd071b33b73e287a5f0.png"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Музыка",
-          "Повседневность",
-          "Романтика",
-          "Сёнен-ай"
-        ],
-        "anime_studios": [
-          "Lerche"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 1123,
-        "imdb_rating": 8.3,
-        "imdb_votes": 1032,
-        "shikimori_rating": 8.32,
-        "shikimori_votes": 6295,
-        "premiere_world": "2019-07-12",
-        "aired_at": "2019-07-12",
-        "released_at": "2019-09-20",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 11,
-        "episodes_aired": 11,
-        "actors": [
-          "Такуя Эгути",
-          "Масатомо Накадзава",
-          "Юма Утида",
-          "Сёго Яно"
-        ],
-        "directors": [
-          "Хикару Ямагути"
-        ],
-        "writers": [
-          "Аяна Юнико",
-          "Нацуки Кидзу"
-        ],
-        "composers": [
-          "Митиру"
-        ]
-      }
-    },
-    {
-      "id": "movie-42556",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Поддельный наёмный убийца",
-      "title_orig": "Comedian counterfeit killer",
-      "other_title": "Powerful Comedian 2",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2019,
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-19T21:49:50Z",
-      "updated_at": "2019-09-19T21:49:50Z"
-    },
-    {
-      "id": "serial-18036",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Класс врунов",
-      "title_orig": "Miseuteo Giganje",
-      "other_title": "Класс лжи / Мистер Контракт / Урок лжи / Уроки лжи / Класс лжецов / Class of Lies / Mr. Temporary / Mr. Fixed Term / Undercover Teacher",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1256284",
-      "imdb_id": "tt10467640",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-08-06T09:38:15Z",
-      "updated_at": "2019-09-19T21:35:09Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/471077/7313d6f963b47cfe968a99e7ae8de1b5/720p",
-            "2": "//kodik.cc/seria/471078/b16c622a367a972d1e780d57e0af877a/720p",
-            "3": "//kodik.cc/seria/471165/f507b740b703bf646a98084caa2e45ac/720p",
-            "4": "//kodik.cc/seria/471166/806e6917ce58ef9cb2f4a101d71582ac/720p",
-            "5": "//kodik.cc/seria/471167/c83c753717c0d5004c01262bc82e3252/720p",
-            "6": "//kodik.cc/seria/471168/b9467a0b4c85dd2caf4488afea8a7adc/720p",
-            "7": "//kodik.cc/seria/471169/d1a5887eebf59c99e9149bf6042fdcca/720p",
-            "8": "//kodik.cc/seria/473050/d0c5f698933c3bb89b7cd40c9d3d1ff6/720p",
-            "9": "//kodik.cc/seria/473821/f08c41051198e4f4ab90b0ca9bb75d62/720p",
-            "10": "//kodik.cc/seria/473822/6d526dc38d13ed00f2c6e8eb2e161f4b/720p",
-            "11": "//kodik.cc/seria/478248/b853c81d70c1ca1fa51938f94114775e/720p",
-            "12": "//kodik.cc/seria/479340/1f690f783e6a168b9a132f72cae9db0e/720p",
-            "13": "//kodik.cc/seria/481730/2432abc5eb3181b44e69efba0164fcce/720p",
-            "14": "//kodik.cc/seria/481731/6b76e54e3e6557b7352d42dcce60c5ea/720p",
-            "15": "//kodik.cc/seria/486922/1450bb12c366cc87f7ffc7c3e140a0ce/720p",
-            "16": "//kodik.cc/seria/486923/354599829d922ed88b1784c21930abe3/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Класс врунов",
-        "title_en": "Miseuteo Giganje",
-        "year": 2019,
-        "description": "Беспринципный адвокат Ки Му-хёк с высоким процентом выигранных дел, для которого значение имеют только деньги, сталкивается со случаем убийства в школе, из-за чего его профессиональная репутация падает ниже плинтуса. Чтобы разобраться в этом запутанном деле, Му-хёк устраивается учителем в школу, где знакомится с симпатичной учительницей физкультуры.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1256284.jpg",
-        "duration": 60,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "детектив",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 306,
-        "imdb_rating": 7.7,
-        "imdb_votes": 247,
-        "premiere_world": "2019-07-17",
-        "actors": [
-          "Юн Гюн-сан",
-          "Кым Сэ-рок",
-          "Джун",
-          "Чхве Ю-хва",
-          "Чхве Гю-джин",
-          "Хан Со-ын",
-          "Квон Со-хён",
-          "Чан Дон-джу",
-          "Пён Хон",
-          "Ли Джон-мин"
-        ],
-        "directors": [
-          "Сон Ён-иль"
-        ],
-        "writers": [
-          "Чан Хон-чхоль"
-        ]
-      }
-    },
-    {
-      "id": "movie-42555",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Моя волшебная невеста",
-      "title_orig": "My cohabitation fairy",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2019,
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-19T21:31:17Z",
-      "updated_at": "2019-09-19T21:31:17Z"
-    },
-    {
-      "id": "serial-18580",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Последний тамплиер",
-      "title_orig": "The Last Templar",
-      "translation": {
-        "id": 711,
-        "title": "ТВ3",
-        "type": "voice"
-      },
-      "year": 2009,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "kinopoisk_id": "454305",
-      "imdb_id": "tt1197580",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-09-19T07:09:57Z",
-      "updated_at": "2019-09-19T07:09:57Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/488381/3fadc26fea234020fb190017c7a12d86/720p",
-            "2": "//kodik.cc/seria/488382/826380882f599f3d68f848804ec298aa/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Последний тамплиер",
-        "title_en": "The Last Templar",
-        "year": 2009,
-        "tagline": "Only one can shatter the Code",
-        "description": "Франция. 1290 год. Католическая церковь, заручившись поддержкой короля Филиппа Красивого, объявляет рыцарей ордена Тамплиеров еретиками и начинает на них безжалостную охоту. Спасая дело ордена, Великий Магистр передает рыцарям Мартину и Аймару бесценный артефакт. \r\n\r\nЧтобы спрятать его от короля и папских приспешников, рыцари отправляются к берегам Святой земли. И вот уже 8 веков охотники за реликвиями тщетно ищут следы одного из самых главных сокровищ тамплиеров...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/454305.jpg",
-        "duration": 172,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "драма",
-          "триллер",
-          "фэнтези"
-        ],
-        "kinopoisk_rating": 6,
-        "kinopoisk_votes": 518,
-        "imdb_rating": 4.5,
-        "imdb_votes": 3513,
-        "minimal_age": 12,
-        "actors": [
-          "Джозеф Антаки",
-          "Кристофер Бакус",
-          "Дэнни Бланко",
-          "Адам Брамбл",
-          "Джейсон Кавалье",
-          "Патрик Костильо",
-          "Марио Давиньон",
-          "Larry Day II",
-          "Стефан Демерс",
-          "Питер Майкл Диллон"
-        ],
-        "directors": [
-          "Паоло Барзмен"
-        ],
-        "producers": [
-          "Закария Алауи",
-          "Сандрин Грос Д’Эйллон",
-          "Ирен Литинский",
-          "Майкл Прупас"
-        ],
-        "writers": [
-          "Сьюзетт Кутюр",
-          "Рэймонд Хури"
-        ],
-        "composers": [
-          "Норман Корбей"
-        ],
-        "editors": [
-          "Артур Тарновски"
-        ],
-        "designers": [
-          "Зои Сакелларопуло",
-          "Пьер Перро",
-          "Марио Давиньон"
-        ],
-        "operators": [
-          "Томас Бёрстин"
-        ]
-      }
-    },
-    {
-      "id": "serial-18512",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Облом",
-      "title_orig": "The Letdown",
-      "translation": {
-        "id": 611,
-        "title": "ColdFilm",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "1142593",
-      "imdb_id": "tt7320300",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-09-17T11:28:00Z",
-      "updated_at": "2019-09-19T07:00:09Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/486781/44498671ff431584412980cb905572b7/720p",
-            "2": "//kodik.cc/seria/486782/4d4f1a5edeb9d1f9195f9d82878916d5/720p",
-            "3": "//kodik.cc/seria/486783/d36d653a4f995a61d947b9346aba2ae5/720p",
-            "4": "//kodik.cc/seria/486785/418bd0c2b39b146cc1b975e7135e5923/720p",
-            "5": "//kodik.cc/seria/486786/71dc5b46221fdacaac8556724b186148/720p",
-            "6": "//kodik.cc/seria/486787/265f0b9dcbce92bfdd66a83684d66d02/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Облом",
-        "title_en": "The Letdown",
-        "year": 2017,
-        "description": "Одри полна решимости не зацикливаться на материнстве. Теоретически, это кажется довольно простым. На практике ее муж-карьерист, занятая исключительно собой мать и лучшая подруга-фантазерка делают это чертовски невозможным... «Облом» - это юмористическое, но правдивое представление «родительства», когда после рождения ребёнка ты вдруг понимаешь, теперь в жизни - полный... облом!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1142593.jpg",
-        "duration": 30,
-        "countries": [
-          "Австралия"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "imdb_rating": 7.5,
-        "imdb_votes": 2709,
-        "premiere_world": "2017-11-01",
-        "actors": [
-          "Элисон Белл",
-          "Дункан Феллоуз",
-          "Леон Форд",
-          "Нони Хазлхерст",
-          "Саша Хорлер",
-          "Селеста Барбер",
-          "Леа Ванденберг",
-          "Люси Дарак",
-          "Сюзанна Тан",
-          "Annika Boon"
-        ],
-        "directors": [
-          "Трент О’Доннелл"
-        ],
-        "producers": [
-          "Asha Anderson",
-          "Элисон Белл",
-          "Джулиан Морроу",
-          "Мартин Робертсон",
-          "Сара Шеллер О’Доннелл",
-          "Грег Ситч",
-          "Грег Уотерс",
-          "Rebecca Anderson",
-          "Rick Kalowski"
-        ],
-        "writers": [
-          "Элисон Белл",
-          "Сара Шеллер О’Доннелл",
-          "Zoe Norton Lodge",
-          "Крис Тейлор",
-          "Рэйчел Гордон",
-          "Сэм Симмонс"
-        ],
-        "editors": [
-          "Пол Суэйн",
-          "Дилан Биэн",
-          "Крис Бисон"
-        ],
-        "designers": [
-          "Элизабет Мери Мур",
-          "Лоретта Косгров",
-          "Тесс Шофилд"
-        ],
-        "operators": [
-          "Джудд Овертон"
-        ]
-      }
-    },
-    {
-      "id": "movie-42533",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "На ком жениться",
-      "title_orig": "Kaake Da Viyah",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1199147",
-      "imdb_id": "tt8852408",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-19T06:16:51Z",
-      "updated_at": "2019-09-19T06:16:51Z",
-      "material_data": {
-        "title": "Kaake Da Viyah",
-        "title_en": "",
-        "year": 2019,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "imdb_rating": 5.1,
-        "imdb_votes": 60,
-        "premiere_world": "2019-02-01",
-        "actors": [
-          "Джордан Сандху",
-          "Prabh Grewal",
-          "Нирмал Риши",
-          "Прити Сапру Валия",
-          "Карамджит Анмол",
-          "Акшита",
-          "Харби Санха",
-          "Гурмит Саджан",
-          "Принц К.Й. Сингх",
-          "Арун Бали"
-        ],
-        "directors": [
-          "Rai Yuvraj Bains"
-        ],
-        "producers": [
-          "Rai Yuvraj Bains",
-          "Vineet Upadhyay"
-        ],
-        "operators": [
-          "Сунит Вац"
         ]
       }
     }

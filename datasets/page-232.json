@@ -1,6 +1,676 @@
 {
   "results": [
     {
+      "id": "movie-44315",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Кумир",
+      "title_orig": "Usang",
+      "other_title": "Woosang",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1046980",
+      "imdb_id": "tt7095698",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-27T14:05:38Z",
+      "updated_at": "2019-10-27T14:05:38Z",
+      "material_data": {
+        "title": "Кумир",
+        "title_en": "Usang",
+        "year": 2019,
+        "description": "Узнав, что его сын сбил человека, а супруга пытается скрыть преступление, политик Ку Мён-хве в разгар предвыборной кампании решает, что наилучший ход в данной ситуации — сдаться властям. Через два дня сын Ку приходит с повинной в полицию. Но отец погибшего считает, что тут что-то не так, ведь его сын был с женой на медовом месяце. Убитый горем мужчина решает во что бы то ни стало докопаться до правды и начинает разыскивать пропавшую невестку.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1046980.jpg",
+        "duration": 144,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "детектив",
+          "криминал",
+          "триллер"
+        ],
+        "imdb_rating": 5.7,
+        "imdb_votes": 233,
+        "premiere_world": "2019-02-08",
+        "actors": [
+          "Хан Сок-кю",
+          "Соль Гён-гу",
+          "Чхон У-хи",
+          "Ю Сын-мок",
+          "Хён Бон-щик",
+          "Кан Маль-гым",
+          "Ким Сон-нё",
+          "Со Джу-хи",
+          "Ким Мён-гон",
+          "Чо Бён-гю"
+        ],
+        "directors": [
+          "Ли Су-джин"
+        ],
+        "producers": [
+          "Ан Ын-ми",
+          "Мики Ли",
+          "Хан Сан-хён",
+          "О Джи-ён"
+        ],
+        "writers": [
+          "Ли Су-джин"
+        ],
+        "composers": [
+          "Ким Тхэ-сон"
+        ],
+        "editors": [
+          "Чхве Хён-сук"
+        ],
+        "designers": [
+          "Ким Щи-ён",
+          "Чон Хе-вон",
+          "Ким Ха-гён"
+        ],
+        "operators": [
+          "Сон Вон-хо"
+        ]
+      }
+    },
+    {
+      "id": "serial-7531",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Полное затмение",
+      "title_orig": "Total Eclipse",
+      "other_title": "Muv-Luv Alternative: Total Eclipse",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2012,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 24,
+      "kinopoisk_id": "730408",
+      "imdb_id": "tt2293824",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=302",
+      "shikimori_id": "11021",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-12-25T23:38:38Z",
+      "updated_at": "2019-10-27T13:42:30Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/198997/acd6d95e16d0783389704dd3da18ecb7/720p",
+            "2": "//aniqit.com/seria/198998/310c9cb8b43a3538b41980db0b38366a/720p",
+            "3": "//aniqit.com/seria/198999/9b69f1fd026bfce95550287e19b4d0ff/720p",
+            "4": "//aniqit.com/seria/199000/38d3dedb2f03a964649176d808e21dd0/720p",
+            "5": "//aniqit.com/seria/199001/b75dfdf4654fe97813087a41b9286d76/720p",
+            "6": "//aniqit.com/seria/199002/cd029254388b31099bc7e27ca382692b/720p",
+            "7": "//aniqit.com/seria/199003/421daacc95d062ebe28bce7002e87595/720p",
+            "8": "//aniqit.com/seria/199004/15c303624b7fa0f5d38d7796d76cf692/720p",
+            "9": "//aniqit.com/seria/199005/f5409281cfa01dcc4619d162faf5153e/720p",
+            "10": "//aniqit.com/seria/199006/aa79f4efd45490abc16a7e20459a62da/720p",
+            "11": "//aniqit.com/seria/199007/593e2f7440cd57d1741ae41f4c5c8ac4/720p",
+            "12": "//aniqit.com/seria/199008/8f481307b4d52d09358fe02086198671/720p",
+            "13": "//aniqit.com/seria/199009/a3d5bb0305ce2acb7f72847bf8a8ec85/720p",
+            "14": "//aniqit.com/seria/199010/f3fd1f2b275b195b04631c2865bc4b5d/720p",
+            "15": "//aniqit.com/seria/199011/31b437314d628d80f86d2f84c736d016/720p",
+            "16": "//aniqit.com/seria/199012/2859def20fa73c34655a812e6d57051c/720p",
+            "17": "//aniqit.com/seria/199013/a30cdd8fe190b71a7577e8f57152e5f4/720p",
+            "18": "//aniqit.com/seria/199014/9a6b3a95b03e998fcab093ca975353b8/720p",
+            "19": "//aniqit.com/seria/199015/8f1d2592b29251dcd900408cc2511e15/720p",
+            "20": "//aniqit.com/seria/199016/2c5605932683894381ed03f31ed2d9e4/720p",
+            "21": "//aniqit.com/seria/199017/ae91b780a912f7fb59cbb5ca789ea6d3/720p",
+            "22": "//aniqit.com/seria/199018/a451af5bb650d06bb585703a44259793/720p",
+            "23": "//aniqit.com/seria/199019/acd50f149d1cadf19929a2e00e5548e3/720p",
+            "24": "//aniqit.com/seria/199020/536ea9d7baa5cdd854918845b961e503/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Полное затмение",
+        "title_en": "Total Eclipse",
+        "other_titles": [
+          "MuvLuv Alternative Total Eclipse",
+          "MLA TE"
+        ],
+        "other_titles_en": [
+          "Muv-Luv Alternative: Total Eclipse"
+        ],
+        "other_titles_jp": [
+          "マブラヴ オルタネイティヴ トータル・イクリプス"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2012,
+        "description": "В 1967 году лунная экспедиция впервые встретила «братьев по разуму». Огромные пришельцы перебили астронавтов, потом сокрушили лунную базу и в 1973 году оказались на Земле. Только крайним напряжением сил врагов, получивших имя БЕТА, удалось сдержать на границах Евразии, причем главную роль сыграли спешно созданные 20-метровые боевые роботы. Островная Япония, конечно, выиграла: теперь она, наряду с США и Россией - ведущая военная держава. Но что с того? В конце XX века стало ясно, что земляне лишь защищаются, и поражение – вопрос времени. Тем временем в Киото, в элитной школе пилотов учится Юй Такамура – наследница древнего самурайского рода, приближенного к Императору...\n\rНеизбежное случилось – БЕТА ворвались в Японию и стремительно двинулись к столице. Курсанты, еще не завершившие обучение, попали на фронт – в истории такое бывало множество раз. Такамура одна из немногих сумела выжить, в буквальном смысле не угодить в пасть захватчикам, обрести опыт и мастерство. И вот боевые успехи (и родственные связи) привели к тому, что Юй отправилась координатором на секретную базу на Аляске, где в отчаянной попытке переломить ход войны международный коллектив ученых создает новое поколение боевых роботов. Конечно же, испытывать машины будут лучшие молодые пилоты различных наций, попутно выясняя, кто из них самый крутой. А как иначе – без гусарской удали и куража последний козырь человечества точно не разыграть!",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/730408.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/a1eeefa11ba5d29dd03f0a1bc9ef9196f6dbea2a.jpg",
+          "https://shikimori.one/system/screenshots/original/b1802b2710875896805db9f50075a7850dc07721.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Военное",
+          "Меха",
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Satelight",
+          "ixtl"
+        ],
+        "kinopoisk_rating": 6.4,
+        "kinopoisk_votes": 248,
+        "shikimori_rating": 7.12,
+        "shikimori_votes": 3247,
+        "premiere_world": "2012-07-02",
+        "aired_at": "2012-07-02",
+        "released_at": "2012-12-24",
+        "rating_mpaa": "R+",
+        "episodes_total": 24,
+        "episodes_aired": 24,
+        "actors": [
+          "Даисукэ Оно",
+          "Маи Накахара",
+          "Ацуси Оно",
+          "Эидзо Цуда",
+          "Хитоми Набатамэ",
+          "Каори Исихара",
+          "Кэндзи Хамада",
+          "Мамико Ното",
+          "Нацуми Такамори",
+          "Риэ Танака"
+        ],
+        "directors": [
+          "Такаюки Инагаки"
+        ],
+        "writers": [
+          "Хироси Ямагути",
+          "Кацухико Тиба",
+          "Такаси Аосима",
+          "Такаюки Инагаки",
+          "Юко Какихара"
+        ]
+      }
+    },
+    {
+      "id": "serial-19397",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Яркая романтика",
+      "title_orig": "Saengdongsung yeonae",
+      "other_title": "Три цвета фантазии: Яркая романтика / Vivid Romance / Жизнь, наполненная романтикой / Three Color Fantasy: Romance Full of Life / Segaji Saeg Pantaji: Saengdongseong Yeonae",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 21,
+      "episodes_count": 21,
+      "kinopoisk_id": "1008451",
+      "imdb_id": "tt6212814",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-10-27T12:32:45Z",
+      "updated_at": "2019-10-27T13:02:31Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/515343/e330fc58ecce93dffe3d09684a54f05e/720p",
+            "2": "//kodik.cc/seria/515344/af0ad8463b9951e56889e6beea73d87b/720p",
+            "3": "//kodik.cc/seria/515345/8a978aaf79c42965a1061a0cd341da8c/720p",
+            "4": "//kodik.cc/seria/515346/718a6ee8a9031a672cb0f678c9acf229/720p",
+            "5": "//kodik.cc/seria/515347/09f760d02743b7cc26feade02d37c181/720p",
+            "6": "//kodik.cc/seria/515351/dd71503af16aff667a9a5b53599fd3d5/720p",
+            "7": "//kodik.cc/seria/515352/8964b7946104130f22ee7fbe7d906d28/720p",
+            "8": "//kodik.cc/seria/515353/02d184c7665bf5a13d189792debf879b/720p",
+            "9": "//kodik.cc/seria/515354/b2881601c68a1fdb7a0fa1840f91d4a9/720p",
+            "10": "//kodik.cc/seria/515355/cd8d727e619db1401d4d21b8c86a9005/720p",
+            "11": "//kodik.cc/seria/515356/432cf99378fded12edbbd919a0190791/720p",
+            "12": "//kodik.cc/seria/515357/e5b70152a83af6c36d3dc29f87634ca2/720p",
+            "13": "//kodik.cc/seria/515358/85375f20ee5afa357844ecb9f2170e5b/720p",
+            "14": "//kodik.cc/seria/515359/84d000d532a1703a4e46ef5361115b10/720p",
+            "15": "//kodik.cc/seria/515360/051ff4d8b63e33aa47aa9e2e880f2446/720p",
+            "16": "//kodik.cc/seria/515361/05e025f02cbac15493a6c4c13257b104/720p",
+            "17": "//kodik.cc/seria/515362/c1ce7bb582d6242a4c42229b500a2caf/720p",
+            "18": "//kodik.cc/seria/515363/1a3c2477c3f8ef5aef9bc0434c967888/720p",
+            "19": "//kodik.cc/seria/515364/506cc44398c7d1d853a16208779af099/720p",
+            "20": "//kodik.cc/seria/515367/0d42db9a37d753b58b87abf562dfd157/720p",
+            "21": "//kodik.cc/seria/515368/5d6de9b2854640fa0bfe28d4d0eff693/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Яркая романтика",
+        "title_en": "Saengdongsung yeonae",
+        "year": 2017,
+        "description": "Ин-сон готовился к сдаче экзамена на офицера полиции 4 года. Он провалил экзамен уже 8 раз, но всё ещё с оптимизмом смотрит в будущее. Деньги парню всё равно нужны, и он находит высокооплачиваемую работу под названием «Эксперимент, полный жизни».",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1008451.jpg",
+        "duration": 11,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 149,
+        "imdb_rating": 6.6,
+        "imdb_votes": 77,
+        "premiere_world": "2017-02-16",
+        "actors": [
+          "Юн Щи-юн",
+          "Чо Су-хян",
+          "Чан Хи-рён",
+          "Кан Ги-ён",
+          "Ким Мин-су",
+          "Чи Дэ-хан",
+          "Пак Ён-су",
+          "У Джон-гук",
+          "Ким Сыль-ги",
+          "Хван Ён-хи"
+        ],
+        "directors": [
+          "Пак Сан-хун"
+        ],
+        "writers": [
+          "Пак Ын-ён",
+          "Пак Хи-гвон"
+        ]
+      }
+    },
+    {
+      "id": "serial-19396",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Песни ветра",
+      "title_orig": "Punggyeong",
+      "other_title": "Поющий ветер / Wind-Bell / Scenery",
+      "translation": {
+        "id": 916,
+        "title": "MixFilm",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "1235036",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-10-27T12:03:00Z",
+      "updated_at": "2019-10-27T12:03:16Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/515327/d7c5a84c9e30b1ffbb0187f2f97b3c9c/720p",
+            "2": "//kodik.cc/seria/515328/fd45b106e8484310905c61af77ee5bd7/720p",
+            "3": "//kodik.cc/seria/515329/124d09385aa1dd33988d1cce0da39e53/720p",
+            "4": "//kodik.cc/seria/515330/d6ce870e7df529e8184fa89664362a29/720p",
+            "5": "//kodik.cc/seria/515331/fb9953264de3b11a96d8a521b97770f8/720p",
+            "6": "//kodik.cc/seria/515332/cf25bfd2944aa92d45b7372445fcfb1d/720p",
+            "7": "//kodik.cc/seria/515333/e569dae4b57f9be0dceb16f96f6c170a/720p",
+            "8": "//kodik.cc/seria/515334/d469556ae184f8a7c6d029115d9239df/720p",
+            "9": "//kodik.cc/seria/515335/023bd823424046984fdaea6b26fd3ea0/720p",
+            "10": "//kodik.cc/seria/515336/1e8c79ee53028d27fc06362a87fdce01/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Песни ветра",
+        "title_en": "Punggyeong",
+        "year": 2019,
+        "description": "Американец корейского происхождения, усыновленный в 10-летнем возрасте, возвращается в Корею, чтобы встретиться с биологической семьёй.",
+        "duration": 10,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "мелодрама"
+        ],
+        "premiere_world": "2019-01-18",
+        "actors": [
+          "Чин Ён",
+          "Квон Мин-а",
+          "Пак Хён-сук",
+          "Юн Джи-ук",
+          "Ли Сын-ук",
+          "Юн Джон-хва",
+          "Чхве Джон-у"
+        ]
+      }
+    },
+    {
+      "id": "movie-44130",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Ты ещё здесь",
+      "title_orig": "Zhi qingchun 2: yuanlai ni hai zai zheli",
+      "other_title": "Бесконечная юность / Столь молоды 2: Мы все еще здесь / Zhi qing chun 2: Yuan lai ni hai zai zhe li",
+      "translation": {
+        "id": 639,
+        "title": "SoftBox",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "935618",
+      "imdb_id": "tt5011290",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-27T11:31:59Z",
+      "updated_at": "2019-10-27T11:34:23Z",
+      "material_data": {
+        "title": "Ты ещё здесь",
+        "title_en": "Zhi qingchun 2: yuanlai ni hai zai zheli",
+        "year": 2016,
+        "tagline": "Love Makes Difference",
+        "description": "Су Юньцзынь - новенькая в школе. Из-за проблем со здоровьем отца она не очень-то сосредоточена на учёбе, и успеваемость у неё средняя. Зато у её одноклассника Чэн Чжэна дела лучше некуда - он и отличник, и из богатой семьи, и красавец, в которого влюблены все девчонки школы. По какой-то непонятной причине Чжэн втрескивается в Юньцзынь по уши и предлагает ей помочь подтянуть математику.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/935618.jpg",
+        "duration": 100,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "драма",
+          "мелодрама"
+        ],
+        "kinopoisk_rating": 6.2,
+        "kinopoisk_votes": 455,
+        "imdb_rating": 5.2,
+        "imdb_votes": 759,
+        "premiere_world": "2016-07-08",
+        "rating_mpaa": "PG-13",
+        "actors": [
+          "Крис У",
+          "Лю Ифэй",
+          "Цзинь Шицзя",
+          "Ли Цинь",
+          "Ли Мэн",
+          "Хао Шаовэнь",
+          "Кими Цяо"
+        ],
+        "directors": [
+          "Чжоу Таожу"
+        ],
+        "producers": [
+          "Чжан Ибай"
+        ],
+        "writers": [
+          "Чжоу Таожу",
+          "Синь Иу"
+        ]
+      }
+    },
+    {
+      "id": "serial-3535",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Моя геройская академия [ТВ-2]",
+      "title_orig": "Boku no Hero Academia 2",
+      "other_title": "My Hero Academia Season 2",
+      "translation": {
+        "id": 557,
+        "title": "JAM",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 2,
+      "last_episode": 25,
+      "episodes_count": 25,
+      "kinopoisk_id": "975897",
+      "imdb_id": "tt5626028",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8837",
+      "shikimori_id": "33486",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-04-03T18:38:02Z",
+      "updated_at": "2019-10-27T11:17:14Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/280122/3ba541db70992a1f1b07019299bba315/720p",
+            "2": "//aniqit.com/seria/280123/c1b451c417d8919ac921fd3981352b25/720p",
+            "3": "//aniqit.com/seria/280124/286baf160f9e757e4624e27513ba46a0/720p",
+            "4": "//aniqit.com/seria/280125/3950049ca4e57bab1165a4aeaf69984b/720p",
+            "5": "//aniqit.com/seria/280126/ef5b0899a327c4c74bd5d63530d7f61e/720p",
+            "6": "//aniqit.com/seria/280127/718cf366f44d4ddbfae46b995545a5f1/720p",
+            "7": "//aniqit.com/seria/280128/bb98710c67f4dc62d380d82b17e11739/720p",
+            "8": "//aniqit.com/seria/280129/44e1fb5130f9d7689a9bfa49c738f114/720p",
+            "9": "//aniqit.com/seria/280130/154e9238912040b754a3c0d61d52c0d6/720p",
+            "10": "//aniqit.com/seria/280131/23323323ac0ec8102d3dd2e628da3770/720p",
+            "11": "//aniqit.com/seria/280132/4677694879b28c05a41bd3c8f0c49afc/720p",
+            "12": "//aniqit.com/seria/280133/0c87d5870b5fa82ff5c3272e52a674ce/720p",
+            "13": "//aniqit.com/seria/280134/bd859ae65f48111064a83ecb6f967be4/720p",
+            "14": "//aniqit.com/seria/280135/dcb47ceff06fad72b970de9a99c56739/720p",
+            "15": "//aniqit.com/seria/280136/06e6cdc3725164e9062075d6a8731395/720p",
+            "16": "//aniqit.com/seria/280137/2446707e37c36b889958987a9838adfc/720p",
+            "17": "//aniqit.com/seria/280138/ff81316ff740e2bb7302e4bf45190611/720p",
+            "18": "//aniqit.com/seria/280139/92bf6bd051ebb5b0ac707e075ffc47b1/720p",
+            "19": "//aniqit.com/seria/515284/8dedc05cc8b345af48a378080eeef576/720p",
+            "20": "//aniqit.com/seria/515285/db63acd311b022146ba09be2ec28101d/720p",
+            "21": "//aniqit.com/seria/515286/ee87f0cf72881369447f3c8db145414d/720p",
+            "22": "//aniqit.com/seria/515287/8de582ad4c380c2d87f6cc8871206d25/720p",
+            "23": "//aniqit.com/seria/515288/bf19d05a985172a83ecb4eb2bb30bb45/720p",
+            "24": "//aniqit.com/seria/515289/593404cfbe25214168bdf2228262b30e/720p",
+            "25": "//aniqit.com/seria/515290/707d9ea8155c40487e04cef930e27fe9/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Моя геройская академия",
+        "title_en": "Boku no hîrô akademia",
+        "other_titles_en": [
+          "My Hero Academia 2"
+        ],
+        "other_titles_jp": [
+          "僕のヒーローアカデミア"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2016,
+        "description": "В некоем мире больший процент населения человечества рождается с необычными способностями, которые называются причудами. Но наш герой в этот процент не попал. Но парень упорно пытается достичь небывалой силы и приблизиться к своей мечте стать супергероем.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/975897.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/d81ee3e8e474b457c454f2fb7137343e66bd5810.jpg",
+          "https://shikimori.one/system/screenshots/original/1a8e43b8b660faca1e6cfc98c34507db3f3192a1.jpg"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Супер сила",
+          "Сёнен",
+          "Школа",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Bones"
+        ],
+        "kinopoisk_rating": 7.6,
+        "kinopoisk_votes": 12819,
+        "imdb_rating": 8.5,
+        "imdb_votes": 35825,
+        "shikimori_rating": 8.37,
+        "shikimori_votes": 51442,
+        "premiere_world": "2016-04-03",
+        "aired_at": "2017-04-01",
+        "released_at": "2017-09-30",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 25,
+        "episodes_aired": 25,
+        "actors": [
+          "Даики Ямасита",
+          "Нобухико Окамото",
+          "Каито Исикава",
+          "Аянэ Сакура",
+          "Юки Кадзи",
+          "Тосики Масуда",
+          "Дзюнъити Сувабэ",
+          "Кэнта Миякэ",
+          "Марина Иноуэ",
+          "Аои Юки"
+        ],
+        "directors": [
+          "Кэндзи Нагасаки",
+          "Томо Окубо",
+          "Сэцуми Докава",
+          "Сатоси Такафудзи",
+          "Такудаи Какути",
+          "Сёдзи Икэно",
+          "Такуро Цукада",
+          "Хитоми Эдзоэ",
+          "Масаси Абэ",
+          "Ёсифуми Сасахара"
+        ],
+        "producers": [
+          "Наоки Амано",
+          "Хирокадзу Хара",
+          "Хироси Камэи",
+          "Нацуми Мори",
+          "Вакана Окамура",
+          "Кадзумаса Сандзёба"
+        ],
+        "writers": [
+          "Кохэй Хорикосии",
+          "Ёсукэ Курода"
+        ],
+        "composers": [
+          "Юки Хаяси"
+        ],
+        "editors": [
+          "Кумико Сакамото"
+        ],
+        "designers": [
+          "Сигэми Икэда",
+          "Юкико Маруяма"
+        ],
+        "operators": [
+          "Масатака Икэгами"
+        ]
+      }
+    },
+    {
+      "id": "serial-5943",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "За твоей улыбкой",
+      "title_orig": "Fu shi de de wei xiao",
+      "other_title": "Что таит твоя улыбка? / Позади твоей улыбки / Улыбка Фауста / Faust's Smile / Fu Shih De Wei Hsiao / Behind Your Smile",
+      "translation": {
+        "id": 864,
+        "title": "Julia Prosenuk",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 19,
+      "episodes_count": 19,
+      "kinopoisk_id": "1046877",
+      "imdb_id": "tt6352762",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-11-12T05:31:32Z",
+      "updated_at": "2019-10-27T09:12:49Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/158771/3bb41515a1fa78c733024e624f4a63eb/720p",
+            "2": "//kodik.cc/seria/158772/a018cb08cfa2092d316e42c357c00eb2/720p",
+            "3": "//kodik.cc/seria/158773/691b501113874627b705ad200eab9288/720p",
+            "4": "//kodik.cc/seria/158774/157518315cfe1223785ed3e971ae7120/720p",
+            "5": "//kodik.cc/seria/158775/09455b61257c00aa8be314be5fbf58fb/720p",
+            "6": "//kodik.cc/seria/158776/236acc5e288a730f1644af84e9a41f18/720p",
+            "7": "//kodik.cc/seria/158777/8a8b7a5b77960ec7dc40306f6acb29fb/720p",
+            "8": "//kodik.cc/seria/158778/f5b109cd835d28ba76ee3fa74a52990f/720p",
+            "9": "//kodik.cc/seria/158779/874038ad818c52234eacc2725f100a7e/720p",
+            "10": "//kodik.cc/seria/158780/649e0a0e3d04bb1aa5594e4befa247aa/720p",
+            "11": "//kodik.cc/seria/158781/b41f82a8364d9c58799c28a7f3972fa5/720p",
+            "12": "//kodik.cc/seria/158782/697320f55b4049b4829c3b54a2b2ef0f/720p",
+            "13": "//kodik.cc/seria/158783/a222130b08bb78d7485db9ddddef0a9d/720p",
+            "14": "//kodik.cc/seria/158784/6d421445e2678ec2ae87f8f9a399a74a/720p",
+            "15": "//kodik.cc/seria/158785/7b6687a508304a95222e35ecc5f9d4a4/720p",
+            "16": "//kodik.cc/seria/158786/ff7f4c78f8ceef9dc9a1e07aa82a13c0/720p",
+            "17": "//kodik.cc/seria/158787/2177a9771a3af8c5d219d18a19012c7c/720p",
+            "18": "//kodik.cc/seria/158788/9310c140eae016720d2f7ad0ea2072cf/720p",
+            "19": "//kodik.cc/seria/158789/eb5c248ac6346e96cf9435417cdbfe3d/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "За твоей улыбкой",
+        "title_en": "Fu shi de de wei xiao",
+        "year": 2016,
+        "duration": 75,
+        "countries": [
+          "Тайвань"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 7.4,
+        "imdb_votes": 93,
+        "premiere_world": "2016-11-13",
+        "actors": [
+          "Маркус Чан",
+          "Юджени Лю",
+          "Эстер Янг",
+          "Шао Сян",
+          "Shih Hong",
+          "Чанг Чиен",
+          "Double Lin",
+          "Кэ Суюнь",
+          "Gail Lin",
+          "Ting-Hsuan Chen"
+        ],
+        "directors": [
+          "Чэнь Жунхуэй"
+        ],
+        "writers": [
+          "Хин Йи Ду",
+          "Yu-Chi Wang"
+        ]
+      }
+    },
+    {
       "id": "serial-6621",
       "type": "anime-serial",
       "link": "",
@@ -9232,9 +9902,9 @@
           "триллер"
         ],
         "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 14717,
+        "kinopoisk_votes": 15161,
         "imdb_rating": 6.9,
-        "imdb_votes": 7748,
+        "imdb_votes": 8008,
         "premiere_world": "2019-05-15",
         "minimal_age": 18,
         "actors": [
@@ -9437,764 +10107,6 @@
         ],
         "operators": [
           "Рюта Накагами"
-        ]
-      }
-    },
-    {
-      "id": "movie-43407",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Песня о любви: Обещание",
-      "title_orig": "Aiuta: yakusoku no Nakuhito",
-      "translation": {
-        "id": 641,
-        "title": "STEPonee",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1193792",
-      "imdb_id": "tt9019312",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-07T10:52:28Z",
-      "updated_at": "2019-10-24T13:36:21Z",
-      "material_data": {
-        "title": "Песня о любви: Обещание",
-        "title_en": "Aiuta: yakusoku no Nakuhito",
-        "year": 2019,
-        "description": "У Тору нет никакого желания найти свою любовь. Но однажды он встречает своего давнего друга Тацую и находит поэму, которая положила начало изменениям в его жизни. Решив, что эти два события - знак, он начинает искать свою любовь и вскоре знакомится с Наги.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1193792.jpg",
-        "duration": 126,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "imdb_rating": 4.7,
-        "imdb_votes": 88,
-        "premiere_world": "2019-01-25",
-        "actors": [
-          "Хироки Иидзима",
-          "Кая Киёхара",
-          "Юри Накамура",
-          "Михо Накаяма",
-          "Рико Наруми",
-          "Сатоси Никайдо",
-          "Сюн Нисимэ",
-          "Тору Номагути",
-          "Эита Окуно",
-          "Хадзуки Симидзу"
-        ],
-        "directors": [
-          "Ясухиро Кавамура"
-        ],
-        "producers": [
-          "Кэнтаро Коикэ",
-          "Akihiro Hiraishi",
-          "Masahiro Iida",
-          "Такахиро Исикава",
-          "Дзин",
-          "Fuminari Maruyama",
-          "Сатоси Мацуи",
-          "Chikara Takuya",
-          "Нарухико Янагисако"
-        ],
-        "writers": [
-          "Масаси Симидзу"
-        ],
-        "operators": [
-          "Мицунори Кого"
-        ]
-      }
-    },
-    {
-      "id": "serial-6191",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Как из обычной девушки воспитать героиню [ТВ-1]",
-      "title_orig": "Saenai Heroine no Sodatekata",
-      "other_title": "Как создать из обычной девушки героиню / Как воспитать из обычной девушки героиню",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "891840",
-      "imdb_id": "tt3612626",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2255",
-      "shikimori_id": "23277",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-19T00:18:09Z",
-      "updated_at": "2019-10-24T13:35:17Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/165947/80a10944eb6a66208e467ac4d940e4c8/720p",
-            "2": "//aniqit.com/seria/165948/23abe5c16194342c1257f162801668a3/720p",
-            "3": "//aniqit.com/seria/165949/bf2ad4deab68feffe9f8b263142cc226/720p",
-            "4": "//aniqit.com/seria/165950/b75a65fda12b26d1bb85a01044404766/720p",
-            "5": "//aniqit.com/seria/165951/17101491b497c19c5f3b68ef4eba0fd5/720p",
-            "6": "//aniqit.com/seria/165952/96319a3e0878db3511d82ef195506459/720p",
-            "7": "//aniqit.com/seria/165953/0c999b2947ec264f6eec5b455c513ccb/720p",
-            "8": "//aniqit.com/seria/165954/726b95877c8be7da5ce11f4499d1d46c/720p",
-            "9": "//aniqit.com/seria/165955/7c90f495762b5a4999976e7e37822cde/720p",
-            "10": "//aniqit.com/seria/165956/87ee957e984375f891a8a9980cedd519/720p",
-            "11": "//aniqit.com/seria/165957/9c1fa5e33ea7e42ec65fe7778f8acc9a/720p",
-            "12": "//aniqit.com/seria/165958/412054d6bc60a389533b5a29cef2f16e/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Как воспитать героиню из обычной девушки",
-        "title_en": "Saenai hiroin no sodatekata",
-        "other_titles": [
-          "Как создать скучную героиню",
-          "Saenai Kanojo no Sodate-kata"
-        ],
-        "other_titles_en": [
-          "Saekano: How to Raise a Boring Girlfriend"
-        ],
-        "other_titles_jp": [
-          "冴えない彼女〈ヒロイン〉の育てかた"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2015,
-        "description": "Отаку Томоя Аки увлекается созданием игр и работает на нескольких работах, лишь бы иметь возможность покупать аниме и игры. Однажды он помогает поймать унесенную ветром шапку незнакомой девушки и под впечатлением от этой сцены решает сделать симулятор свиданий. Спустя месяц он встречается с той же незнакомкой вновь. Оказывается, что незнакомка — Като Мэгуми, неприметная девушка, которая учится в той же школе, что и Аки. Видя её неприметность, Аки решает сделать Като главной героиней своей игры.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/891840.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/d6020daf78ae4b46cd49d6298bad8af039ef3bdb.jpg",
-          "https://shikimori.one/system/screenshots/original/88acb02fd91039960e3f264f243ba3a9bbfb8aac.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Комедия",
-          "Романтика",
-          "Школа",
-          "Этти"
-        ],
-        "anime_studios": [
-          "A-1 Pictures"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 679,
-        "imdb_rating": 6.9,
-        "imdb_votes": 685,
-        "shikimori_rating": 7.55,
-        "shikimori_votes": 14281,
-        "premiere_world": "2015-01-16",
-        "aired_at": "2015-01-16",
-        "released_at": "2015-03-27",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Ёсицугу Мацуока",
-          "Саори Оониси",
-          "Киёно Ясуно",
-          "Аи Каяно",
-          "Ё Таити",
-          "Саюри Яаги",
-          "Тэцуя Какихара",
-          "Акасаки Тинацу",
-          "Хоко Кувасима",
-          "Юма Утида"
-        ],
-        "directors": [
-          "Канта Камэи",
-          "Такахиро Кавакоси",
-          "Акихиса Сибата",
-          "Юки Огава",
-          "Сигэ Фукасэ",
-          "Кадзуки Охаси",
-          "Дзин Ивацуки",
-          "Дзюн Сога",
-          "Хидэтоси Такахаси",
-          "Даисукэ Такасима"
-        ],
-        "producers": [
-          "Атасухиро Иваками",
-          "Синъитиро Касивада",
-          "Ёко Мацусаки",
-          "Акитоси Мори",
-          "Акира Симидзу"
-        ],
-        "writers": [
-          "Фумиаки Маруто"
-        ],
-        "composers": [
-          "Хадзимэ Хяккоку"
-        ],
-        "editors": [
-          "Акари Саито"
-        ],
-        "designers": [
-          "Нацуки Кусакабэ"
-        ],
-        "operators": [
-          "Юитиро Тодзава",
-          "Мицуёси Ямамото"
-        ]
-      }
-    },
-    {
-      "id": "movie-44115",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Таксист",
-      "title_orig": "Taeksi unjeonsa",
-      "other_title": "Taxi Driver",
-      "translation": {
-        "id": 641,
-        "title": "STEPonee",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1008113",
-      "imdb_id": "tt6878038",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-24T17:53:12Z",
-      "updated_at": "2019-10-24T13:34:59Z",
-      "material_data": {
-        "title": "Таксист",
-        "title_en": "Taeksi unjeonsa",
-        "year": 2017,
-        "tagline": "Если дал слово, не останавливайся",
-        "description": "В результате военного переворота в декабре 1979 года южнокорейским президентом становится Чон Ду-хван. После расстрела студенческой демонстрации в городе Кванджу местные жители решают массово выступить против режима. Диктатор бросает на подавление восстания военные части. \n\rВ это время оказавшийся в Токио репортёр германской газеты решает проникнуть в Кванджу, чтобы донести до внешнего мира правду о том, что творится в Корее. Доставить немца в зону боевых действий и обратно должен простой сеульский таксист Ман-соп, который с утра даже не представлял, что скоро ему придется скрываться от военных патрулей.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1008113.jpg",
-        "duration": 137,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "биография",
-          "драма",
-          "история"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 4250,
-        "imdb_rating": 7.9,
-        "imdb_votes": 16279,
-        "premiere_world": "2017-08-02",
-        "minimal_age": 16,
-        "actors": [
-          "Сон Кан-хо",
-          "Томас Кречман",
-          "Ю Хэ-джин",
-          "Рю Джун-ёль",
-          "Пак Хёк-квон",
-          "Чхве Гви-хва",
-          "Чха Сун-бэ",
-          "Ом Тхэ-гу",
-          "Рю Сон-хён",
-          "Ли Джон-ын"
-        ],
-        "directors": [
-          "Чан Хун"
-        ],
-        "producers": [
-          "Ю Джон-хун",
-          "Пак Ын-гён",
-          "Со Ган-хо"
-        ],
-        "writers": [
-          "Ом Ю-на"
-        ],
-        "composers": [
-          "Чо Ён-ук"
-        ],
-        "editors": [
-          "Ким Сан-бом",
-          "Ким Джэ-бом"
-        ],
-        "designers": [
-          "Чо Хва-сон",
-          "Чон И-джин",
-          "Чо Сан-гён"
-        ],
-        "operators": [
-          "Ко Рак-сон"
-        ]
-      }
-    },
-    {
-      "id": "movie-20282",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Возвращение бывших 2",
-      "title_orig": "Qian ren 2: bei tai fan ji zhan",
-      "other_title": "Бывшие-2: брошенки наносят ответный удар / Ex-Files 2",
-      "translation": {
-        "id": 641,
-        "title": "STEPonee",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "955244",
-      "imdb_id": "tt5297596",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-12-31T09:09:38Z",
-      "updated_at": "2019-10-24T13:34:20Z",
-      "material_data": {
-        "title": "Возвращение бывших 2",
-        "title_en": "Qian ren 2: bei tai fan ji zhan",
-        "year": 2015,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/955244.jpg",
-        "duration": 108,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "imdb_rating": 4.5,
-        "imdb_votes": 130,
-        "premiere_world": "2015-11-06",
-        "actors": [
-          "Чжэн Кай",
-          "Эмбер Ко",
-          "Ван Чуаньцзюнь",
-          "Чжан Исин",
-          "Чжан Дяньлунь"
-        ],
-        "directors": [
-          "Тянь Юйшэн"
-        ]
-      }
-    },
-    {
-      "id": "serial-6189",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Как и ожидал, моя школьная романтическая жизнь не удалась [ТВ-1]",
-      "title_orig": "Yahari Ore no Seishun Lovecome wa Machigatte Iru",
-      "other_title": "Как и ожидалось, моя подростковая романтическая комедия не складывается / Розовая пора моей школьной жизни сплошной обман / Жизнь - любовное кино, но какое-то не то!",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2013,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "740696",
-      "imdb_id": "tt2703720",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1159",
-      "shikimori_id": "14813",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-19T00:09:41Z",
-      "updated_at": "2019-10-24T13:23:35Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/165921/339fcb0bdfb9a04f3c00cdb0fc7f3783/720p",
-            "2": "//aniqit.com/seria/165922/13a6edd51897c4d522666a20b2d27875/720p",
-            "3": "//aniqit.com/seria/165923/95cf2e04b32a396c178a0634c6027075/720p",
-            "4": "//aniqit.com/seria/165924/e2aa655da1953098ced6751583f9347e/720p",
-            "5": "//aniqit.com/seria/165925/b5cfc51414d13d98b1333f61185f5808/720p",
-            "6": "//aniqit.com/seria/165926/11542d5de094e8d4360c87cf0abc84d0/720p",
-            "7": "//aniqit.com/seria/165927/0a565b122e797a0ea72f18756840b79c/720p",
-            "8": "//aniqit.com/seria/165928/c64bac1723f9d6b887c5104fba5240b6/720p",
-            "9": "//aniqit.com/seria/165929/1cc5aff26da95da024f9aa2f20489416/720p",
-            "10": "//aniqit.com/seria/165930/2d6c0cdbcb44117f6c3fe4b03ed6d707/720p",
-            "11": "//aniqit.com/seria/165931/c54e71f32d412cbe31f6e901afef54ea/720p",
-            "12": "//aniqit.com/seria/165932/39dc90f65cd1cbf1280bc8e08d7e92da/720p",
-            "13": "//aniqit.com/seria/165933/d00d2362b0161f2363b259a9865ecc0f/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Как и ожидалось, моя подростковая романтическая комедия не складывается",
-        "title_en": "Yahari ore no seishun rabukome wa machigatteiru.",
-        "other_titles": [
-          "Розовая пора моей школьной жизни — сплошной обман",
-          "Жизнь — любовное кино, но какое-то не то...",
-          "Как я и ожидал, моя школьная жизнь не задалась",
-          "Как и ожидалось, моя подростковая романтическая комедия не складывается",
-          "Как я и думал, с романтической комедией моей юности что-то не так",
-          "Oregairu",
-          "My youth romantic comedy is wrong as I expected."
-        ],
-        "other_titles_en": [
-          "My Teen Romantic Comedy SNAFU"
-        ],
-        "other_titles_jp": [
-          "やはり俺の青春ラブコメはまちがっている。"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2013,
-        "description": "17-летний Хатиман Хикигая – юный циник и пессимист, уверенный, что «весна юности», дружба и любовь - обман, ложь и фикция, а поддержание сего мифа есть коллективный заговор тех, кто обжегся и ничего не получил, но не хочет признавать очевидного. Молодая учительница Сидзука Хирацука оказалась не в силах переубедить проблемного ученика и в отчаянии отправила его в «клуб служения», единственным членом которого числится звезда школы Юкино Юкиносита. А может, на деле сэнсэй не так уж проста и поняла, что помощь требуется обоим?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/740696.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/3d91d5853af40c89de3cff92ed3211fa0adc5237.png",
-          "https://shikimori.one/system/screenshots/original/0ca1d36cf43720bab9ef7529b40a36857c872940.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Комедия",
-          "Повседневность",
-          "Романтика",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Brain's Base"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 3478,
-        "imdb_rating": 7.8,
-        "imdb_votes": 3632,
-        "shikimori_rating": 8.07,
-        "shikimori_votes": 44284,
-        "premiere_world": "2013-04-05",
-        "aired_at": "2013-04-05",
-        "released_at": "2013-06-28",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 13,
-        "episodes_aired": 13,
-        "actors": [
-          "Такуя Эгути",
-          "Саори Хаями",
-          "Нао Тояма"
-        ],
-        "directors": [
-          "Аи Ёсимура"
-        ],
-        "producers": [
-          "Танака Дзюнъитиро",
-          "Кэнтаро Хаттори",
-          "Кодзуэ Канэнива"
-        ],
-        "writers": [
-          "Кацухико Такаяма",
-          "Сётаро Суга",
-          "Токо Матида",
-          "Ватару Ватари"
-        ]
-      }
-    },
-    {
-      "id": "serial-6889",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Как и ожидал, моя школьная романтическая жизнь не удалась [ТВ-2]",
-      "title_orig": "Yahari Ore no Seishun Lovecome wa Machigatte Iru. Zoku",
-      "other_title": "Как и ожидалось, моя подростковая романтическая комедия не складывается. Дважды / Розовая пора моей школьной жизни сплошной обман / Жизнь - любовное кино, но какое-то не то!",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 2,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "740696",
-      "imdb_id": "tt2703720",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4755",
-      "shikimori_id": "23847",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-02T22:28:47Z",
-      "updated_at": "2019-10-24T13:23:11Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/182403/2afae63aef3500d53380d9b51240508b/720p",
-            "2": "//aniqit.com/seria/182404/c918cffc30e6abfdd064e9dd98b367b0/720p",
-            "3": "//aniqit.com/seria/182405/b402745bf62dc2b072a5e1af071de769/720p",
-            "4": "//aniqit.com/seria/182406/80cbdb688214f5b5fe052b0d569d543b/720p",
-            "5": "//aniqit.com/seria/182407/2841a4fdadaae540f3474d2869264057/720p",
-            "6": "//aniqit.com/seria/182408/c6a2550238bf26f0147a6d13939c51c9/720p",
-            "7": "//aniqit.com/seria/182409/89dc6ca7f524e1375616e8464e0e3770/720p",
-            "8": "//aniqit.com/seria/182410/9f5f1a26ab30b864e8973adf0dda1537/720p",
-            "9": "//aniqit.com/seria/182411/310c2b18bd8be1a862821506f56dcb31/720p",
-            "10": "//aniqit.com/seria/182412/af3e5a1298ba60b6143ec8f80d18e69a/720p",
-            "11": "//aniqit.com/seria/182413/760e26a735927b07996be4a78af3e5e1/720p",
-            "12": "//aniqit.com/seria/182414/9aa8e76f7e0b436092b99f32650429b0/720p",
-            "13": "//aniqit.com/seria/182415/db03a10733dfdf19c4f3a2e83be652f9/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Как и ожидалось, моя подростковая романтическая комедия не складывается",
-        "title_en": "Yahari ore no seishun rabukome wa machigatteiru.",
-        "other_titles": [
-          "Розовая пора моей школьной жизни — сплошной обман 2",
-          "Жизнь — любовное кино, но какое-то не то... 2",
-          "Как я и ожидал, моя школьная жизнь не задалась 2",
-          "Oregairu 2",
-          "My Teen Romantic Comedy SNAFU 2",
-          "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Second Season",
-          "Yahari Ore no Seishun Love Comedy wa Machigatteiru. 2nd Season"
-        ],
-        "other_titles_en": [
-          "My Teen Romantic Comedy SNAFU TOO!"
-        ],
-        "other_titles_jp": [
-          "やはり俺の青春ラブコメはまちがっている。続"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2013,
-        "description": "17-летний Хатиман Хикигая – юный циник и пессимист, уверенный, что «весна юности», дружба и любовь - обман, ложь и фикция, а поддержание сего мифа есть коллективный заговор тех, кто обжегся и ничего не получил, но не хочет признавать очевидного. Молодая учительница Сидзука Хирацука оказалась не в силах переубедить проблемного ученика и в отчаянии отправила его в «клуб служения», единственным членом которого числится звезда школы Юкино Юкиносита. А может, на деле сэнсэй не так уж проста и поняла, что помощь требуется обоим?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/740696.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/ff4c6bab6fb034948b55f0d4071a26c4271e38e8.jpg",
-          "https://shikimori.one/system/screenshots/original/f67ae373e3255dbefe93db73a71ba20560a61485.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Комедия",
-          "Повседневность",
-          "Романтика",
-          "Школа"
-        ],
-        "anime_studios": [
-          "feel."
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 3478,
-        "imdb_rating": 7.8,
-        "imdb_votes": 3632,
-        "shikimori_rating": 8.28,
-        "shikimori_votes": 35381,
-        "premiere_world": "2013-04-05",
-        "aired_at": "2015-04-03",
-        "released_at": "2015-06-26",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 13,
-        "episodes_aired": 13,
-        "actors": [
-          "Такуя Эгути",
-          "Саори Хаями",
-          "Нао Тояма"
-        ],
-        "directors": [
-          "Аи Ёсимура"
-        ],
-        "producers": [
-          "Танака Дзюнъитиро",
-          "Кэнтаро Хаттори",
-          "Кодзуэ Канэнива"
-        ],
-        "writers": [
-          "Кацухико Такаяма",
-          "Сётаро Суга",
-          "Токо Матида",
-          "Ватару Ватари"
-        ]
-      }
-    },
-    {
-      "id": "serial-12752",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Индекс волшебства [ТВ-3]",
-      "title_orig": "Toaru Majutsu no Index III",
-      "other_title": "A Certain Magical Index III",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 3,
-      "last_episode": 26,
-      "episodes_count": 26,
-      "kinopoisk_id": "437359",
-      "imdb_id": "tt1308089",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9416",
-      "shikimori_id": "36432",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-10-12T09:48:15Z",
-      "updated_at": "2019-10-24T13:21:21Z",
-      "seasons": {
-        "3": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/340441/1b14583b2f4461fe1efb36dda3e31c78/720p",
-            "2": "//aniqit.com/seria/341880/25ee0168968c89145c0474f5f2ced7ea/720p",
-            "3": "//aniqit.com/seria/345500/cfa936073d716a0fd4104f0010bc27fa/720p",
-            "4": "//aniqit.com/seria/350028/4d4038ff1c6b7c78ee03004aad3d9953/720p",
-            "5": "//aniqit.com/seria/352634/ef2bc92463e0450bf29eec168059c59b/720p",
-            "6": "//aniqit.com/seria/357686/0e132be3a2baf476b302f5bec8b411e2/720p",
-            "7": "//aniqit.com/seria/357687/e3c98db4df2e1487edfc97e5982f1554/720p",
-            "8": "//aniqit.com/seria/360516/1b226539206240604b96ae8b1510810d/720p",
-            "9": "//aniqit.com/seria/362152/a5a1bcfc9647d7aa942de47f77d95acf/720p",
-            "10": "//aniqit.com/seria/362153/ccfed0d4f17869778add08c10d6ba966/720p",
-            "11": "//aniqit.com/seria/366752/e86a0a97760c9ced2bcd224898a075fa/720p",
-            "12": "//aniqit.com/seria/368340/0dfb24afa18f916437c0f2706d750fff/720p",
-            "13": "//aniqit.com/seria/373169/7e2c1e7c242e64d4a24efba99c4e1ca9/720p",
-            "14": "//aniqit.com/seria/386140/c6a67148d939e6725f4931f9558ef4b9/720p",
-            "15": "//aniqit.com/seria/389322/ddb43b7f8099b1e277ad737d6790f237/720p",
-            "16": "//aniqit.com/seria/390180/bf0b6d8316979748d46777872578d30b/720p",
-            "17": "//aniqit.com/seria/398661/119444914551fea991ce5b48af589576/720p",
-            "18": "//aniqit.com/seria/403228/01b02b400c2d81e33893a48aab0aa612/720p",
-            "19": "//aniqit.com/seria/416786/b85f0cadd1ba22b50059b3309e207804/720p",
-            "20": "//aniqit.com/seria/416787/deb0f9b2f9932fb2e1ccd13cda988762/720p",
-            "21": "//aniqit.com/seria/416788/d06ae656508ea7329b7f39fbe60e8dab/720p",
-            "22": "//aniqit.com/seria/422043/09c399bf2c9c0e4f95b0ddc5ac12f657/720p",
-            "23": "//aniqit.com/seria/422044/0c14c01744cff6322b9c45cb1e7dc39e/720p",
-            "24": "//aniqit.com/seria/426412/d499542b21b0a319d2c75f5da172149d/720p",
-            "25": "//aniqit.com/seria/426413/77e36733935f53059505b95ea03386ec/720p",
-            "26": "//aniqit.com/seria/426414/14fa3e14cb018c87e7d4bac741943009/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Индекс волшебства",
-        "title_en": "To aru majutsu no indekkusu",
-        "other_titles_en": [
-          "A Certain Magical Index III"
-        ],
-        "other_titles_jp": [
-          "とある魔術の禁書目録Ⅲ"
-        ],
-        "anime_license_name": "Некий магический индекс 3",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2008,
-        "description": "Действие разворачивается в параллельном мире, где наука спетена с магией, и сверхъестественные способности давно никого не удивляют. Их носители делятся на две категории: эсперов, которые в результате направленной мутации получили один, пусть и мощный дар, и магов, которые могут быть слабее, но диапазон возможностей у них куда шире. Юных эсперов со всей Японии собирают в единый образовательный центр – город под названием Академия. \n\rТам и учится Тома Камидзё. Дар у парня весьма странный: его правая рука – универсальный негатор, то есть обнуляет любое парафизическое, магическое или божественное воздействие. А раз так, считает Тома, то и немногие крупицы счастья, посылаемые судьбой, до него просто не доходят, и вся его жизнь – полная невезуха. То на телефон наступит, то не с теми парнями свяжется, то обнаружит на перилах собственного балкона на редкость милое и голодное юное создание в костюме монашки.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/437359.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/adc4fb5d318a836e9a2497092656b12f258996a0.png",
-          "https://shikimori.one/system/screenshots/original/fc3e28f17fcff0557fc9304216586c9e6ec6e273.png"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фантастика"
-        ],
-        "anime_genres": [
-          "Магия",
-          "Супер сила",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "J.C.Staff"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 2217,
-        "imdb_rating": 6.9,
-        "imdb_votes": 1502,
-        "shikimori_rating": 6.76,
-        "shikimori_votes": 4380,
-        "premiere_world": "2008-10-04",
-        "aired_at": "2018-10-05",
-        "released_at": "2019-04-05",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 26,
-        "episodes_aired": 26,
-        "actors": [
-          "Ацуси Абэ",
-          "Юка Игути",
-          "Рина Сато",
-          "Нобухико Окамото",
-          "Кимико Кояма",
-          "Ёсихиса Кавахара",
-          "Кисё Танияма",
-          "Сатоми Араи",
-          "Мамико Ното",
-          "Анри Кацу"
-        ],
-        "directors": [
-          "Масая Кавамо",
-          "Хироси Нисикиори"
-        ],
-        "producers": [
-          "Гэн Фукунага",
-          "Ясутака Кимура",
-          "Кадзума Мики",
-          "Нобухиро Накаяма",
-          "Сатоси Фудзита",
-          "Кохэй Кавасэ",
-          "Наоко Кояма",
-          "Юдзи Мацукура",
-          "З. Чарльз Болтон",
-          "Джастин Кук"
-        ],
-        "writers": [
-          "Масанао Акахоси",
-          "Джон Бургмейер",
-          "Бонни Клинкенберд",
-          "Киётака Хаймура",
-          "Кадзума Камати",
-          "Сэиси Минаками",
-          "Сатору Нисидзоно",
-          "Акира Танидзаки"
-        ],
-        "composers": [
-          "Маико Иути",
-          "Ивэ"
-        ],
-        "editors": [
-          "Сигэру Нисияма"
-        ],
-        "designers": [
-          "Томонори Курода",
-          "Ёсинори Хиросэ"
-        ],
-        "operators": [
-          "Синго Фукуё"
         ]
       }
     }

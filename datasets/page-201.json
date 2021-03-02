@@ -1,6 +1,628 @@
 {
   "results": [
     {
+      "id": "movie-46007",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Вторая",
+      "title_orig": "The Second",
+      "translation": {
+        "id": 743,
+        "title": "BaibaKo",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "983921",
+      "imdb_id": "tt5636922",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-12-09T07:09:39Z",
+      "updated_at": "2019-12-09T07:09:39Z",
+      "material_data": {
+        "title": "Вторая",
+        "title_en": "The Second",
+        "year": 2018,
+        "description": "Репутация известной писательницы оказывается под угрозой, когда её лучшая подруга и муза раскрывает тайну происхождения её первого романа, закручивая историю о сексе, лжи и предательстве.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/983921.jpg",
+        "duration": 94,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "детектив",
+          "триллер"
+        ],
+        "imdb_rating": 4.8,
+        "imdb_votes": 281,
+        "premiere_world": "2018-07-05",
+        "actors": [
+          "Рэйчел Блейк",
+          "Сьюзи Портер",
+          "Винс Колосимо",
+          "Мартин Сакс",
+          "Сьюзэн Прайор",
+          "Megan Dale",
+          "Bridget Webb",
+          "Will Beasley",
+          "Лиза Кэй",
+          "Паула Назарски"
+        ],
+        "directors": [
+          "Маири Камерон"
+        ],
+        "producers": [
+          "Стивен Лэнс",
+          "Лиэнн Тонкес",
+          "Nick Forward",
+          "Роб Гибсон",
+          "Эми Хобби",
+          "Энн Хаббелл",
+          "Миту Боумик Ланж",
+          "Джон Моллой",
+          "Глен Тонкес"
+        ],
+        "writers": [
+          "Стивен Лэнс"
+        ],
+        "composers": [
+          "Райан Уолш"
+        ],
+        "editors": [
+          "Роэн Купер",
+          "Стив Купер",
+          "Sue Schweikert"
+        ],
+        "designers": [
+          "Джон Доудинг",
+          "Ванесса Лох",
+          "Manuela Masoch",
+          "Крисси Фельд"
+        ],
+        "operators": [
+          "Марк Уэрхем"
+        ]
+      }
+    },
+    {
+      "id": "serial-7522",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Полёт ведьмы",
+      "title_orig": "Flying Witch",
+      "other_title": "Летающая ведьма / Furaingu Witchi",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "988208",
+      "imdb_id": "tt5621006",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8394",
+      "shikimori_id": "31376",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-12-25T23:26:49Z",
+      "updated_at": "2019-12-09T06:10:52Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/198898/bfbe0a611f974a08e8b99172a2504a15/720p",
+            "2": "//aniqit.com/seria/198899/9518e078f0f20cda3237981aab22fc18/720p",
+            "3": "//aniqit.com/seria/198900/8903bd15b8387165d0d12a0b5d56a22e/720p",
+            "4": "//aniqit.com/seria/198901/30eae66b61906d316d9ae051a63a45d6/720p",
+            "5": "//aniqit.com/seria/198902/3b6103e56a7af4f094110ab5511fdb1e/720p",
+            "6": "//aniqit.com/seria/198903/18cda2c13e9cb60e3b6a0e8ef7c6e330/720p",
+            "7": "//aniqit.com/seria/198904/11141b0285ffbd35fdf40f30240013f2/720p",
+            "8": "//aniqit.com/seria/198905/d0999ff80391fb79706c725028212b53/720p",
+            "9": "//aniqit.com/seria/198906/2831486ff0756620939a75d314d6c537/720p",
+            "10": "//aniqit.com/seria/198907/85322fb50427051648b037a6c19e2379/720p",
+            "11": "//aniqit.com/seria/198908/2ace8cdea00d3956343fb7eb4204dff7/720p",
+            "12": "//aniqit.com/seria/198909/9edeb7efb826edf53ef453bbf1fc3fa3/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Полёт ведьмы",
+        "title_en": "Flying Witch",
+        "other_titles_en": [
+          "Flying Witch"
+        ],
+        "other_titles_jp": [
+          "ふらいんぐうぃっち"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2016,
+        "description": "Аомори, Япония. Провинциальный городок, удивляющий своей красивой природой. Среди гор и прозрачных рек, окружённых зеленью, жизнь течёт особенно размеренно и спокойно. По крайней мере, так было до того, как туда приехала молодая ведьма Макото, которую отправили к родственникам, чтобы она научилась жить вдали от дома и стала лучше в ведьмовском деле. Она поселяется у троюродного брата Кэя и сестры Тинацу, которые сразу замечают, что она ведёт себя немного странно. Когда Макото, выбирая метлу на рынке, поднимается на ней в воздух, Тинацу окончательно понимает, что их ждёт весёлая и необычная совместная жизнь.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/988208.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/96820c83c13f8d85b3e44db12067a5b61eff8c67.jpg",
+          "https://shikimori.one/system/screenshots/original/16ad1f313cb26d0ace402dc17cf7ace0452dcce1.jpg"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "комедия",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Магия",
+          "Повседневность",
+          "Сверхъестественное",
+          "Сёнен"
+        ],
+        "anime_studios": [
+          "J.C.Staff"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 364,
+        "imdb_rating": 7.2,
+        "imdb_votes": 509,
+        "shikimori_rating": 7.54,
+        "shikimori_votes": 4859,
+        "premiere_world": "2016-04-10",
+        "aired_at": "2016-04-10",
+        "released_at": "2016-06-26",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Минами Синода",
+          "Эри Судзуки",
+          "Синсукэ Сугавара",
+          "Кана Аои",
+          "Кикуко Иноуэ",
+          "Аи Каяно",
+          "Сиори Миками",
+          "Аянэ Сакура",
+          "Рё Сугисаки",
+          "Мари Хино"
+        ],
+        "directors": [
+          "Кацуси Сакураби",
+          "Масахиро Синохара",
+          "Хидэаки Куракава",
+          "Киёко Саяма",
+          "Даисукэ Такасима",
+          "Тосикадзу Хасимото",
+          "Кэнтаро Судзуки"
+        ],
+        "producers": [
+          "Эиити Такахаси",
+          "Хироюки Инагэ",
+          "Ёхэй Ито",
+          "Ацуси Киримото",
+          "Джон Лэдфорд",
+          "Shunsuke Nara",
+          "Kazunari Sengoku",
+          "Каору Судзуки"
+        ],
+        "writers": [
+          "Тихиро Исидзука",
+          "Хироко Фукуда",
+          "Юки Энацу"
+        ],
+        "composers": [
+          "Ёсиаки Дэва"
+        ],
+        "editors": [
+          "Масахиро Гото"
+        ],
+        "designers": [
+          "Ясухиро Окумура"
+        ],
+        "operators": [
+          "Ёсио Окоти"
+        ]
+      }
+    },
+    {
+      "id": "movie-45902",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Битва на реке Сянцзян",
+      "title_orig": "Battle of Xiangjiang River",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1045871",
+      "imdb_id": "tt7735492",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-12-06T07:25:30Z",
+      "updated_at": "2019-12-09T06:10:02Z",
+      "material_data": {
+        "title": "Битва на реке Сянцзян",
+        "title_en": "Xue zhan Xiangjiang",
+        "year": 2016,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1045871.jpg",
+        "duration": 118,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "боевик",
+          "военный",
+          "история"
+        ],
+        "imdb_rating": 5.3,
+        "imdb_votes": 26,
+        "premiere_world": "2017-06-30",
+        "directors": [
+          "Чэнь Ли"
+        ]
+      }
+    },
+    {
+      "id": "movie-40184",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Борцы с зомби",
+      "title_orig": "Kud Krachak Krien",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1133551",
+      "imdb_id": "tt6780894",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-12-09T09:34:05Z",
+      "updated_at": "2019-12-09T06:08:53Z",
+      "material_data": {
+        "title": "Борцы с зомби",
+        "title_en": "Kud Krachak Krien",
+        "year": 2017,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1133551.jpg",
+        "duration": 100,
+        "countries": [
+          "Таиланд"
+        ],
+        "genres": [
+          "комедия",
+          "ужасы"
+        ],
+        "imdb_rating": 5.3,
+        "imdb_votes": 75,
+        "premiere_world": "2017-04-06",
+        "actors": [
+          "Павина Чариффсакул",
+          "Кунатип Пинпрадаб",
+          "Anon Saisangcharn",
+          "Kittipat Samarntragulchai",
+          "Puvadol Vechwongsa"
+        ],
+        "directors": [
+          "Пой Арнон"
+        ]
+      }
+    },
+    {
+      "id": "movie-45993",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Необстрелянные",
+      "title_orig": "Pohwasogeuro",
+      "translation": {
+        "id": 598,
+        "title": "Сербин",
+        "type": "voice"
+      },
+      "year": 2010,
+      "kinopoisk_id": "494417",
+      "imdb_id": "tt1587729",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-12-09T06:06:56Z",
+      "updated_at": "2019-12-09T06:06:56Z",
+      "material_data": {
+        "title": "Необстрелянные",
+        "title_en": "Pohwasogeuro",
+        "year": 2010,
+        "description": "Август 1950 года, Корейская война. Южнокорейские войска вынуждены отступать под натиском Корейской народной армии. Линию фронта удалось стабилизировать лишь у реки Нактон, где идут кровопролитные бои. Роте, состоящей из 71-го студента-новобранца, приказано держать оборону Пхоханской школы. Перед ними поставлена практически невыполнимая задача – как можно дольше сдерживать продвижение противника, намного превосходящего их численностью и опытом.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/494417.jpg",
+        "duration": 120,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "военный",
+          "драма",
+          "история"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 2851,
+        "imdb_rating": 7.3,
+        "imdb_votes": 5009,
+        "premiere_world": "2010-06-16",
+        "minimal_age": 16,
+        "actors": [
+          "Чха Сын-вон",
+          "Квон Сан-у",
+          "Чхве Сын-хён",
+          "Ким Сын-у",
+          "Ким Хе-сон",
+          "Ку Сон-хван",
+          "Щин Хён-тхак",
+          "Мун Джэ-вон",
+          "Ким Дон-бом",
+          "Тхак Тхы-ин"
+        ],
+        "directors": [
+          "Джон Х. Ли"
+        ],
+        "producers": [
+          "Мён-гю Чхве",
+          "Hyun Gil Jo",
+          "Ким Джон-хён",
+          "Сон Гван-ик",
+          "Чон Тхэ-вон"
+        ],
+        "writers": [
+          "Ли Ман-хи",
+          "Ким Дон-у",
+          "Джон Х. Ли"
+        ],
+        "composers": [
+          "Ли Дон-джун"
+        ],
+        "editors": [
+          "Стив М. Чхве",
+          "Ким Чхан-джу"
+        ],
+        "designers": [
+          "Чхве Ги-хо",
+          "Юн Иль-лан"
+        ],
+        "operators": [
+          "Чхве Чхан-мин"
+        ]
+      }
+    },
+    {
+      "id": "movie-45998",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Квантовая физика",
+      "title_orig": "Yangjamullihak",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1162831",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-12-09T06:03:01Z",
+      "updated_at": "2019-12-09T06:03:01Z",
+      "material_data": {
+        "title": "Квантовая физика",
+        "title_en": "Yangjamullihak",
+        "year": 2019,
+        "description": "Ли Чхан-у долго к этому шёл, даже брал в долю бандитов, и вот его мечта реализовалась - он открыл модный ночной клуб. Персонал он подобрал надёжный и, начитавшись популярных книжек по квантовой физике, считает, что для плодотворного сотрудничества люди должны быть на одной волне. Но вскоре после открытия заведения Ли выясняет, что к нему захаживает популярный рэпер и употребляет там наркотики, что в Корее карается по всей строгости закона. Решив сдать нарушителя знакомому журналисту, Чхан-у не предполагал, каким кошмаром обернётся ситуация, когда к делу подключится ещё и прокуратура.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1162831.jpg",
+        "duration": 119,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "боевик",
+          "криминал"
+        ],
+        "imdb_rating": 5.8,
+        "imdb_votes": 153,
+        "premiere_world": "2019-09-25",
+        "actors": [
+          "Пак Хэ-су",
+          "Со Е-джи",
+          "Ким Сан-хо",
+          "Ким Ын-су",
+          "Пён Хи-бон",
+          "Ким Ён-джэ",
+          "Ли Чхан-хун",
+          "Ким Вон-щик",
+          "Чи Чхан",
+          "Чу Сок-тхэ"
+        ],
+        "directors": [
+          "Ли Сон-тхэ"
+        ],
+        "producers": [
+          "Хон Джэ-джун",
+          "Ким Ён-мин"
+        ],
+        "writers": [
+          "Ли Сон-тхэ"
+        ],
+        "composers": [
+          "Но Хён-у"
+        ],
+        "designers": [
+          "Чан Мин-у",
+          "Ли Хе-ран"
+        ],
+        "operators": [
+          "Пак Хон-ёль",
+          "Ван Хо-сан"
+        ]
+      }
+    },
+    {
+      "id": "serial-5254",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Аполлон с холма",
+      "title_orig": "Sakamichi no Apollon",
+      "other_title": "Аполлон: Дети на холме / Дети на склоне",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2012,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "677654",
+      "imdb_id": "tt2341375",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=614",
+      "shikimori_id": "12531",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-10-28T23:45:28Z",
+      "updated_at": "2019-12-09T05:54:50Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/140142/314d71f20cb7e9bd84ef5b4436dcbc4b/720p",
+            "2": "//aniqit.com/seria/140143/8850d23ef2566534cdaea8d39b9e5d41/720p",
+            "3": "//aniqit.com/seria/140144/60e75b4a9697f6754350dfad7537f6d4/720p",
+            "4": "//aniqit.com/seria/140145/37f2b6f5ec05d3726a88f412f21da9dc/720p",
+            "5": "//aniqit.com/seria/140146/6b6359f934d7e23ce59a39dacb7ea294/720p",
+            "6": "//aniqit.com/seria/140147/d89426b2c5a2c59473dca335ee4511e4/720p",
+            "7": "//aniqit.com/seria/140148/acad3551dba66ca7d641107eccba6a0d/720p",
+            "8": "//aniqit.com/seria/140149/c431734496d1fc01d87ef35009478288/720p",
+            "9": "//aniqit.com/seria/140150/9fdf1fb4c9031c938d6832e3d08d6c5d/720p",
+            "10": "//aniqit.com/seria/140151/ca330b8159ebfc38f43621b79bd785a9/720p",
+            "11": "//aniqit.com/seria/140152/0de4fcd5125b8e6dfa5bb963d934fe0a/720p",
+            "12": "//aniqit.com/seria/140153/7b0e33025f86a2a9e1fb6a0675bb7326/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Аполлон: Дети на холме",
+        "title_en": "Sakamichi no Apollon",
+        "other_titles": [
+          "Дети на склоне",
+          "Аполлон с холма",
+          "Sakamichi no Aporon",
+          "Apollo on the Slope"
+        ],
+        "other_titles_en": [
+          "Kids on the Slope"
+        ],
+        "other_titles_jp": [
+          "坂道のアポロン"
+        ],
+        "anime_license_name": "Аполлон: Дети на холме",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2012,
+        "description": "Робкий и угрюмый пианист Каору, страдающий частыми паническими атаками, переводится в новую школу и знакомится с милашкой Рико и местным эксцентричным хулиганом Сэнтаро, фанатеющим от джаза и ударных. Вместе ребята начинают потихоньку сколачивать собственную джазовую группу в подсобке магазина пластинок.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/677654.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/89b3e40f30f41de1f7e7bd5fc681ca9e9e634bfc.JPG",
+          "https://shikimori.one/system/screenshots/original/627b7ba8e2f5d133a83c67adf8b2ddcf8e93f4a4.JPG"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "драма",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Дзёсей",
+          "Драма",
+          "Музыка",
+          "Романтика",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Tezuka Productions",
+          "MAPPA"
+        ],
+        "kinopoisk_rating": 8,
+        "kinopoisk_votes": 2220,
+        "imdb_rating": 8.3,
+        "imdb_votes": 2303,
+        "shikimori_rating": 8.36,
+        "shikimori_votes": 10641,
+        "premiere_world": "2012-04-12",
+        "aired_at": "2012-04-13",
+        "released_at": "2012-06-29",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 12,
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Леральдо Анцальдуа",
+          "Шелли Карлин-Блэк",
+          "Люси Кристиан",
+          "Мэгги Флекно",
+          "Хилари Хааг",
+          "Бриттни Карбовски",
+          "Эндрю Лав",
+          "Синтия Мартинес",
+          "Калоб Мартинес",
+          "Дэвид Матранга"
+        ],
+        "directors": [
+          "Синъитиро Ватанабэ",
+          "Котоми Дэаи",
+          "Хисатоси Симицу",
+          "Минору Ямаока",
+          "Аои Саё",
+          "Дзюн Сисидо",
+          "Сэйки Сугавара",
+          "Юи Умэмото"
+        ],
+        "producers": [
+          "Дэвид Дель Рио",
+          "Джон Лэдфорд",
+          "Эиити Такахаси",
+          "Китагава Наоки",
+          "Дайсукэ Конака",
+          "Масао Маруяма",
+          "Масао Моросава",
+          "Манабу Оцука",
+          "Норико Одзаки",
+          "Дзунити Синсака"
+        ],
+        "writers": [
+          "Юко Какихара",
+          "Аяко Като",
+          "Юки Кодама"
+        ],
+        "composers": [
+          "Ёко Канно"
+        ],
+        "designers": [
+          "Синъити Уэхара"
+        ],
+        "operators": [
+          "Кэндзи Такэхара"
+        ]
+      }
+    },
+    {
       "id": "serial-5868",
       "type": "anime-serial",
       "link": "",
@@ -4891,8 +5513,8 @@
         ],
         "imdb_rating": 5.8,
         "imdb_votes": 25,
-        "shikimori_rating": 6.55,
-        "shikimori_votes": 963,
+        "shikimori_rating": 6.54,
+        "shikimori_votes": 973,
         "premiere_world": "2007-01-07",
         "aired_at": "2007-01-08",
         "released_at": "2007-03-26",
@@ -11629,869 +12251,6 @@
         ],
         "operators": [
           "Hidetake Nakajima"
-        ]
-      }
-    },
-    {
-      "id": "serial-7984",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Трапеция",
-      "title_orig": "Kuuchuu Buranko",
-      "other_title": "Trapeze",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2009,
-      "last_season": 1,
-      "last_episode": 11,
-      "episodes_count": 11,
-      "kinopoisk_id": "666593",
-      "imdb_id": "tt3417500",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7337",
-      "shikimori_id": "6774",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-29T14:20:09Z",
-      "updated_at": "2019-12-07T17:36:56Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/208423/d72371a5c925253dd5886490f290f599/720p",
-            "2": "//aniqit.com/seria/208424/42a33e2a7e4e02b5e4b74bce4ce29cb6/720p",
-            "3": "//aniqit.com/seria/208425/e420fbdeacff9ad2a420c28e64ffe85c/720p",
-            "4": "//aniqit.com/seria/208426/cf50e8c96d92e40d90040ae3bd1e72c4/720p",
-            "5": "//aniqit.com/seria/208427/2606fcc5204664d7cc152829f25bcd11/720p",
-            "6": "//aniqit.com/seria/208428/c6b5d1cf68c67d8e8c821314b5b96ebc/720p",
-            "7": "//aniqit.com/seria/208429/3f7baa7c30288e28fcf371f61b17703e/720p",
-            "8": "//aniqit.com/seria/208430/280327153fd2e514403ff3d38506ae11/720p",
-            "9": "//aniqit.com/seria/208431/527f7d17a671a31c2c3a6b4e84fc0a54/720p",
-            "10": "//aniqit.com/seria/208432/de6151692357ee7f515a7e606f650d90/720p",
-            "11": "//aniqit.com/seria/208433/bb06169987c84ed494b89412cbb7e944/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Трапеция",
-        "title_en": "Trapeze",
-        "other_titles": [
-          "Trapeze",
-          "Flying Trapeze"
-        ],
-        "other_titles_en": [
-          "Welcome to Irabu's Office"
-        ],
-        "other_titles_jp": [
-          "空中ブランコ"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2009,
-        "description": "Время стрессов и страстей мчится все быстрей! Жители современного японского общества, где жизнь кипит, а старое сливается с новым в каком-то немыслимом круговороте, втрое чаще обращаются за помощью не к тем, кто врачует тело, а к «инженерам человеческих душ». Тут их и ждет самый веселый и эксцентричный психиатр Японии – доктор Итиро Ирабу, сын владельца крупной клиники, которому положение позволяет применять немыслимые ранее методы лечения!\n\rУ вас проблемы? А у кого их нет? Раздвоение личности? А у доктора сразу растроение! Скопилось напряжение? Поможет сексапильная медсестра Маюми! Неизвестно науке? А что ей вообще известно? Ведь наука – это обобщенная практика, в которой Ирабу-сэнсэю воистину нет равных. В его оригинальном методе сплелись западная и восточная мудрость, арт-терапия и магия Таро, гештальт и простое человеческое участие. В представленном сериале каждый найдет что-то интересное: специалисты – для размышления, публика – для развлечения!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/666593.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/fe166e57eb3139032a2aa30a484fd710c172880b.jpg",
-          "https://shikimori.one/system/screenshots/original/a4038e888661009fd352fb13c6480f83734bf9db.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "комедия"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Комедия",
-          "Психологическое",
-          "Сейнен"
-        ],
-        "anime_studios": [
-          "Toei Animation"
-        ],
-        "kinopoisk_rating": 7.5,
-        "kinopoisk_votes": 272,
-        "shikimori_rating": 7.97,
-        "shikimori_votes": 0,
-        "aired_at": "2009-10-15",
-        "released_at": "2009-12-24",
-        "rating_mpaa": "R",
-        "episodes_total": 11,
-        "episodes_aired": 0,
-        "actors": [
-          "Мицуя Юдзи",
-          "Роми Пак",
-          "Сугимото Юми",
-          "Тосиюки Морикава",
-          "Такахиро Сакурай",
-          "Синъитиро Мики",
-          "Даисукэ Намикава",
-          "Хирата Хироаки",
-          "Мию Ирино",
-          "Такахаси Хироки"
-        ],
-        "directors": [
-          "Накамура Кэндзи",
-          "Хатано Кохэй",
-          "Уэда Хидэхито",
-          "Киёси Фукумото",
-          "Какудо Хироюки",
-          "Каидзава Юкио",
-          "Тиока Кимитоси"
-        ],
-        "producers": [
-          "Васио Такаси",
-          "Дзёно Масато",
-          "Сано Хироаки",
-          "Ямамото Кодзи",
-          "Китагава Наоки",
-          "Морисита Кодзо",
-          "Такада Ёсио",
-          "Томикава Яцухо",
-          "Юса Кадзухико"
-        ],
-        "writers": [
-          "Исикава Манабу",
-          "Мураяма Исао"
-        ],
-        "composers": [
-          "Хидэхару Мори"
-        ],
-        "designers": [
-          "Токива Сёдзи"
-        ]
-      }
-    },
-    {
-      "id": "serial-12135",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Триплексоголик OVA-1",
-      "title_orig": "xxxHOLiC Shunmuki",
-      "other_title": "Триплексоголик: Весенний сон",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2009,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "kinopoisk_id": "420797",
-      "imdb_id": "tt1461305",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7093",
-      "shikimori_id": "4918",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-08-28T16:25:28Z",
-      "updated_at": "2019-12-07T17:35:32Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/326073/3f66e3019495e83582f06b6f817ef8e3/720p",
-            "2": "//aniqit.com/seria/326074/1d9b3f060c3c78cdc85ebd730df0c0d6/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Триплексоголик",
-        "title_en": "xxxHOLiC: Shunmuki",
-        "other_titles": [
-          "xxxHOLiC OVA"
-        ],
-        "other_titles_jp": [
-          "xxxHOLiC 春夢記"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 2009,
-        "description": "Жизнь обычного старшеклассника Кимихиро Ватануки, имеющего необычную способность видеть духов, сильно изменилась с тех пор, как он начал работать в магазине таинственной ведьмы Юко, исполняющей самые заветные желания людей за определенную плату. За время, проведенное в этом месте, он успел встретить множество интересных людей, а также обрести друга в лице Харука Думеки, с которым сначала у него возникла взаимная неприязнь. Вскоре Ватануки сталкивается с чередой загадочных снов, окутанных тайной, которую герою предстоит разгадать, заручившись поддержкой друзей.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/420797.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/d9eda6a610b0b32a59eb3df7ec1e48ceaae90c0f.jpg",
-          "https://shikimori.one/system/screenshots/original/16b37237369d71660de9c37cd9a29f010ca08da6.jpg"
-        ],
-        "duration": 27,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Драма",
-          "Комедия",
-          "Психологическое",
-          "Сверхъестественное"
-        ],
-        "anime_studios": [
-          "Production I.G"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 505,
-        "imdb_rating": 7.9,
-        "imdb_votes": 119,
-        "shikimori_rating": 8.08,
-        "shikimori_votes": 2559,
-        "premiere_world": "2009-02-17",
-        "aired_at": "2009-02-17",
-        "released_at": "2009-06-23",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 2,
-        "episodes_aired": 0,
-        "actors": [
-          "Саяка Охара",
-          "Дзюн Фукуяма",
-          "Кадзуя Накаи",
-          "Мика Кикути",
-          "Рина Хидака",
-          "Икуко Тани",
-          "Мию Ирино",
-          "Юи Исикава",
-          "Юкико Мондэн",
-          "Томо Адати"
-        ],
-        "directors": [
-          "Цутому Мидзусима",
-          "Сюнсукэ Тада"
-        ],
-        "writers": [
-          "Кламп",
-          "Нанасэ Окава"
-        ],
-        "composers": [
-          "S.E.N.S. Project"
-        ]
-      }
-    },
-    {
-      "id": "serial-7864",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Солти Рэй",
-      "title_orig": "Solty Rei",
-      "other_title": "SoltyRei",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2005,
-      "last_season": 1,
-      "last_episode": 24,
-      "episodes_count": 24,
-      "kinopoisk_id": "408691",
-      "imdb_id": "tt0972735",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3630",
-      "shikimori_id": "152",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-29T06:26:27Z",
-      "updated_at": "2019-12-07T17:33:50Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/206267/6c82bb2561721822c529bae4db5265ff/720p",
-            "2": "//aniqit.com/seria/206268/94d356e43e028b1c953fdde94dace244/720p",
-            "3": "//aniqit.com/seria/206269/95869f53b56cb431115a39c251d7f3b8/720p",
-            "4": "//aniqit.com/seria/206270/4c08b9689aa877942d9cb52e0f495d3c/720p",
-            "5": "//aniqit.com/seria/206271/13a20c71a6390a321c30c243112bc562/720p",
-            "6": "//aniqit.com/seria/206272/c1b5d8f34c490af90ee6ef4f4cb137e6/720p",
-            "7": "//aniqit.com/seria/206273/4e1d0badafaebb325394d8128d8e3e8c/720p",
-            "8": "//aniqit.com/seria/206274/15804d6e24177c3de738387a6c6ba5df/720p",
-            "9": "//aniqit.com/seria/206275/22932f04f2568da632e06964b3bcb6ad/720p",
-            "10": "//aniqit.com/seria/206276/ee5c3488028f8ae808693d26765bdbb7/720p",
-            "11": "//aniqit.com/seria/206277/5cd5c2ed453c550e785a98fba876fbd2/720p",
-            "12": "//aniqit.com/seria/206278/6f08fd8f4b5b2d18ab66210b1814d47a/720p",
-            "13": "//aniqit.com/seria/206279/42b840c583caaff478e3f00813190f15/720p",
-            "14": "//aniqit.com/seria/206280/3cfdc98e839f0fbd08daceb23f2a2592/720p",
-            "15": "//aniqit.com/seria/206281/81446cc9428a53f9fee7fcbfb2ca63ca/720p",
-            "16": "//aniqit.com/seria/206282/25210765e13d26d40a021b217adb2d2a/720p",
-            "17": "//aniqit.com/seria/206283/9e6f37cfc666003972e13f565ac001d8/720p",
-            "18": "//aniqit.com/seria/206284/339cd00aeb240113e6ca0da731de4e70/720p",
-            "19": "//aniqit.com/seria/206285/28a58b71c308a2c2b1dcabcdf2efa196/720p",
-            "20": "//aniqit.com/seria/206286/498c33600fdedf1d40aa5ec3d62b2bad/720p",
-            "21": "//aniqit.com/seria/206287/a66ea30c067bf5ce2d5d0c3d47841077/720p",
-            "22": "//aniqit.com/seria/206288/49b4383ba9804477d81cb4be5ea65e42/720p",
-            "23": "//aniqit.com/seria/206289/4194d437cb187e6070108f8d9efc5c1d/720p",
-            "24": "//aniqit.com/seria/206290/553ba9bd46adf056ce97134e425f0e42/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Солти Рэй",
-        "title_en": "SoltyRei",
-        "other_titles": [
-          "SoltyRei"
-        ],
-        "other_titles_jp": [
-          "ソルティレイ"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2005,
-        "tagline": "Salvation lies in the heart of the broken.",
-        "description": "В довольно отдалённом будущем на человечество обрушилось тяжёлое глобальное бедствие: разряд магнитного поля планеты привёл к мощнейшему взрыву, в результате чего великое множество людей погибло или пропало без вести, а ещё больше осталось инвалидами. Огромный спрос на протезы и заменители утраченных конечностей привёл к расцвету кибертроники. В этой сфере особенно преуспела корпорация RUC, разработавшая Resemble, особую технологию, которая позволяла заменять электроникой до 60% тела человека.\n\rСреди пропавших в глобальной катастрофе оказалась и единственная дочь Роя Реванта, зарабатывающего на жизнь поимкой объявленных в розыск преступников. Тяжко переживая утрату, он с головой уходит в работу - отчаянно кидается на отъявленных головорезов, зачастую киборгов, чем снискал себе славу безумца, которого боятся и свои, и чужие. \n\rНо однажды на Роя буквально сваливается милое зеленоволосое существо, которому суждено растопить лёд его одиночества. Правда, прочно войдя в жизнь одинокого волка, трогательная девчушка Солти принесла с собой и неразрешимую загадку - кроме того, что девочка ничего не помнит о своём прошлом, её тело оказывается на 100% Resemble, что даёт ей в момент гнева исполинскую силу. Вместе Рою и Солти предстоит раскрыть эту тайну...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/408691.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/76d492cce1c499be74f6d885d7ec9c18a12f3faf.jpg",
-          "https://shikimori.one/system/screenshots/original/77dce00decb9c165f6e0e0c63e3be4e40e635087.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фантастика"
-        ],
-        "anime_genres": [
-          "Супер сила",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Gonzo"
-        ],
-        "kinopoisk_rating": 5.8,
-        "kinopoisk_votes": 95,
-        "imdb_rating": 7.3,
-        "imdb_votes": 202,
-        "shikimori_rating": 7.28,
-        "shikimori_votes": 350,
-        "premiere_world": "2005-10-06",
-        "aired_at": "2005-10-07",
-        "released_at": "2006-03-31",
-        "rating_mpaa": "R",
-        "episodes_total": 24,
-        "episodes_aired": 0,
-        "actors": [
-          "Люси Кристиан",
-          "Кара Эдвардс",
-          "Кристофер Сабат",
-          "Кэрри Сэвадж",
-          "Стефани Янг",
-          "Нацуко Куватани",
-          "Дзёдзи Накада",
-          "Саяка Охара",
-          "Момоко Саито",
-          "Джейми Марчи"
-        ],
-        "directors": [
-          "Shûichi Hara"
-        ],
-        "writers": [
-          "Джон Бургмейер",
-          "Нобору Кимура",
-          "Майк МакФарланд",
-          "Спенсер Прокоп",
-          "Шон Тиг",
-          "Шон Уитли"
-        ]
-      }
-    },
-    {
-      "id": "serial-7865",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Соседи!",
-      "title_orig": "Tonagura!",
-      "other_title": "となグラ!",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2006,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "408747",
-      "imdb_id": "tt0988931",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4927",
-      "shikimori_id": "1218",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-29T06:27:33Z",
-      "updated_at": "2019-12-07T17:31:49Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/206291/c0dc5c8d90b7a3f20237ab43efd1a2aa/720p",
-            "2": "//aniqit.com/seria/206292/71ce2a77af9fd5c0b9ac8bb4759a0e5c/720p",
-            "3": "//aniqit.com/seria/206293/91895028a4f52d5928499ffcaa81fb6a/720p",
-            "4": "//aniqit.com/seria/206294/2b1b1a6018182494a28acaba0aa14743/720p",
-            "5": "//aniqit.com/seria/206295/29e61e6b4ff74c654bc3846c45f22715/720p",
-            "6": "//aniqit.com/seria/206296/25ace7f9060d377906b7415e2815f860/720p",
-            "7": "//aniqit.com/seria/206297/6c7bd086faff7f832160b8af2aaee3ea/720p",
-            "8": "//aniqit.com/seria/206298/167a7677bab75bb3ca98d4ceae29df3d/720p",
-            "9": "//aniqit.com/seria/206299/019276b83f2f35e4a828cc7f48fafb32/720p",
-            "10": "//aniqit.com/seria/206300/1759f17c07a75df7d80c491acec5b792/720p",
-            "11": "//aniqit.com/seria/206301/b46d683fe5a6f67b5873da7b59281d1e/720p",
-            "12": "//aniqit.com/seria/206302/95561b02edb044bcde45870950cb2b44/720p",
-            "13": "//aniqit.com/seria/206303/6e718a73fcc63a378e95befeff672222/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Соседи!",
-        "title_en": "Tonagura!",
-        "other_titles": [
-          "Tona-gura!"
-        ],
-        "other_titles_jp": [
-          "となグラ！"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2006,
-        "description": "Арисака Кадзуки учится в первом классе старшей школы, но все еще лелеет в памяти свою детскую любовь – соседского мальчика Юдзи. Семьи Арисака и Кагура жили по соседству, окна в окна, и дети – Кадзуки и Юдзи, Мари и Хацунэ – играли все вместе. Потом родители Юдзи переехали, а Кадзуки десять лет вспоминала своего лучшего друга и берегла так и не врученную ему любовную записку.\n\rИ вот – о, чудо, о, исполнение надежд!!! – Юдзи Кагура возвращается в свой прежний дом. У Кадзуки появится долгожданная возможность отдать ему письмо и открыть сердце... для нее десять лет минули незаметно. Но не для Юдзи – он вырос, возмужал и тяжело переносит юношескую гормональную революцию. Так что вместо нежного мальчика через балкон от Кадзуки поселяется всерьез озабоченный подросток...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/408747.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/76416ec893d2fe080813677eaec0baeec1d7034b.jpg",
-          "https://shikimori.one/system/screenshots/original/81cf8ace05ad2ab7ccad8bcad3127d0380a9b88e.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Комедия",
-          "Романтика",
-          "Школа",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Daume"
-        ],
-        "kinopoisk_rating": 6.2,
-        "kinopoisk_votes": 202,
-        "imdb_rating": 6.7,
-        "imdb_votes": 73,
-        "shikimori_rating": 6.75,
-        "shikimori_votes": 988,
-        "premiere_world": "2006-07-08",
-        "aired_at": "2006-07-09",
-        "released_at": "2006-10-01",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 13,
-        "episodes_aired": 0,
-        "actors": [
-          "Акэми Канда",
-          "Хироюки Ёсино",
-          "Саяка Охара",
-          "Эрино Хадзуки",
-          "Мисаки Сэкияма",
-          "Аюми Цудзи",
-          "Рина Сато",
-          "Кисё Танияма",
-          "Такаюки Кондо",
-          "Сидзука Ито"
-        ],
-        "directors": [
-          "Тацуя Абе"
-        ],
-        "writers": [
-          "Такаси Аосима",
-          "Михару Хирами",
-          "Хидетака Какэй",
-          "Масаси Кубота",
-          "Сатоси Нисимура"
-        ]
-      }
-    },
-    {
-      "id": "serial-7875",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Спидграфер",
-      "title_orig": "Speed Grapher",
-      "other_title": "Скоростной Графер",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2005,
-      "last_season": 1,
-      "last_episode": 24,
-      "episodes_count": 24,
-      "kinopoisk_id": "408650",
-      "imdb_id": "tt0805960",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3002",
-      "shikimori_id": "198",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-29T06:36:37Z",
-      "updated_at": "2019-12-07T17:30:30Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/206435/96a738f4afd8f20f7a1f3f62b9221389/720p",
-            "2": "//aniqit.com/seria/206436/c2e7f5fbf25806c96d2e66294f6b9ee2/720p",
-            "3": "//aniqit.com/seria/206437/ba71842419ee10787fd8c086b2106cb5/720p",
-            "4": "//aniqit.com/seria/206438/8c0637ca34ac02e5bb729acbdc351364/720p",
-            "5": "//aniqit.com/seria/206439/8c5fd38786be24c0545d00f587d6833b/720p",
-            "6": "//aniqit.com/seria/206440/5fddd3cc037b8fb073dde118bc63f38e/720p",
-            "7": "//aniqit.com/seria/206441/03ed8aa7a4ab8a62b3adaf4de2eea75e/720p",
-            "8": "//aniqit.com/seria/206442/99aa3c3171bc282a62ffc713071bed53/720p",
-            "9": "//aniqit.com/seria/206443/2b987c663cba8613c2574caaf471f5a4/720p",
-            "10": "//aniqit.com/seria/206444/ce409d3b80ad6b8092e9d887b668124a/720p",
-            "11": "//aniqit.com/seria/206445/588056b0b449cf95d417325aae22e074/720p",
-            "12": "//aniqit.com/seria/206446/56b590e35ddb38baa6cbbcad0de454e2/720p",
-            "13": "//aniqit.com/seria/206447/2a10089b8bc23d663525b3070d13c087/720p",
-            "14": "//aniqit.com/seria/206448/61e2209c371e5d26bdef7607870725b5/720p",
-            "15": "//aniqit.com/seria/206449/21baa7289cf1890e38efbc267ea394c4/720p",
-            "16": "//aniqit.com/seria/206450/bf4c56ef190d4b15004b6c1e793d1764/720p",
-            "17": "//aniqit.com/seria/206451/2b688987033dc08b48769cb3e18821c1/720p",
-            "18": "//aniqit.com/seria/206452/18543ff73552ace885fea1d65ca2b2c5/720p",
-            "19": "//aniqit.com/seria/206453/a55a624e75df14d67190b512967ae03f/720p",
-            "20": "//aniqit.com/seria/206454/5264f2f3ba71d8a94572a7113b0f42d3/720p",
-            "21": "//aniqit.com/seria/206455/bd8e48637550124378fcbc94fcafe65a/720p",
-            "22": "//aniqit.com/seria/206456/9e29ead01eefb512ba146312d6041250/720p",
-            "23": "//aniqit.com/seria/206457/ff1d5d2021bdc99fcc5256454deae9c4/720p",
-            "24": "//aniqit.com/seria/206458/807ae7c3e2eb267a66eb3c4eae960bf6/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Скоростной Графер",
-        "title_en": "Speed Grapher",
-        "other_titles": [
-          "Скоростной фотограф"
-        ],
-        "other_titles_en": [
-          "Speed Grapher"
-        ],
-        "other_titles_jp": [
-          "スピードグラファー"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2005,
-        "tagline": "Smile for the camera... or perish in the glare of its lens!",
-        "description": "Однажды бывший военный фотограф Тацуми Сайга проник на встречу известного в определённых кругах, закрытого от сторонней публики клуба. Здесь правят балом маски, здесь нет праведников. Это место - рай, но рай для грешников. Как и в каждом уважающем себя клубе, здесь для VIP-членов существуют свои восхитительные привилегии. Раз в определённый отрезок времени для этих избранных проводятся церемонии. «Богиня исполнит ваше самое сокровенное желание, настолько сокровенное, что вы сами не сможете его назвать…». В этот день пришло время для очередной церемонии, она и всё произошедшее изменили самого Сайгу… Ведь вместо того, чтобы убить чужака по приказу президента клуба, «богиня» избрала его. Какое сокровенное желание было у нашего героя? Кто эта девушка, что дарит этим монстрам таланты, исполняя их желания? Выживет ли Сайга?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/408650.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/803f10327866799b3b4f88fe5f9eee99e0ffc473.JPG",
-          "https://shikimori.one/system/screenshots/original/f84331408f23d6dfc9716b9dbc07282c64ea834f.JPG"
-        ],
-        "duration": 25,
-        "countries": [
-          "Филиппины",
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Супер сила",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Gonzo"
-        ],
-        "kinopoisk_rating": 7.4,
-        "kinopoisk_votes": 771,
-        "imdb_rating": 7.2,
-        "imdb_votes": 850,
-        "shikimori_rating": 7.36,
-        "shikimori_votes": 3567,
-        "premiere_world": "2005-04-07",
-        "aired_at": "2005-04-08",
-        "released_at": "2005-09-30",
-        "rating_mpaa": "R+",
-        "episodes_total": 24,
-        "episodes_aired": 0,
-        "actors": [
-          "Кристофер Сабат",
-          "Моника Риал",
-          "Крис Эйрс",
-          "Кларин Харп",
-          "Кеи Саито",
-          "Кэи Синдо",
-          "Юдзи Такада",
-          "Грег Эирс",
-          "Боб Картер",
-          "Хисао Эгава"
-        ],
-        "directors": [
-          "Кацуя Асано",
-          "Кунихиса Сугисима"
-        ],
-        "producers": [
-          "Таити Хасимото",
-          "Наоми Нишигучи"
-        ],
-        "writers": [
-          "Джаред Хеджес",
-          "Джоэль Берген",
-          "Ясуюки Сузуки",
-          "Син Ёсида"
-        ],
-        "composers": [
-          "Синкити Мицумунэ"
-        ]
-      }
-    },
-    {
-      "id": "serial-11933",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Токийская школа магов [ТВ-1]",
-      "title_orig": "Tokyo Majin Gakuen Kenpuchou Tou",
-      "other_title": "Токийская школа истребителей нечисти ТВ-1 / Токийская школа истребителей нечисти (первый сезон)",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2007,
-      "last_season": 1,
-      "last_episode": 14,
-      "episodes_count": 14,
-      "kinopoisk_id": "602387",
-      "imdb_id": "tt3198020",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6126",
-      "shikimori_id": "1860",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-08-08T13:01:58Z",
-      "updated_at": "2019-12-07T17:27:55Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/320197/d27385b8582f9a52130c1de57472abbf/720p",
-            "2": "//aniqit.com/seria/320198/71e4f3ac837358f1d9b460efa52dd85a/720p",
-            "3": "//aniqit.com/seria/320199/cf8d4fdfb8dbac699158fb5d8238800a/720p",
-            "4": "//aniqit.com/seria/320200/0fe0c84a4e2992948cbffac2c210f481/720p",
-            "5": "//aniqit.com/seria/320201/56cf569ae3789c508a9872bc592327fc/720p",
-            "6": "//aniqit.com/seria/320202/a4bc199edf175eae10731b03072ab2a9/720p",
-            "7": "//aniqit.com/seria/320203/7cb370de419adc9268f7b566a249efef/720p",
-            "8": "//aniqit.com/seria/320204/3b6f35c0e8ae6b082e1e0b1d53e8a2d5/720p",
-            "9": "//aniqit.com/seria/320205/eb30147b3819ccfdc32049ff7bac17a6/720p",
-            "10": "//aniqit.com/seria/320206/6462a4e28ffbfa2f5eccad71357862d7/720p",
-            "11": "//aniqit.com/seria/320207/4a7f0e581e75d4f1b10fddab79971dd4/720p",
-            "12": "//aniqit.com/seria/320208/6375447f9432b7cd85211adf4858317b/720p",
-            "13": "//aniqit.com/seria/320209/461a0e98612e61ac9d5ad9ff6ab5b5ad/720p",
-            "14": "//aniqit.com/seria/320210/96cc6dcc6a897868c05953b8ff36ca48/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Токийская школа истребителей нечисти",
-        "title_en": "Tokyo Majin Gakuen Kenpucho To",
-        "other_titles": [
-          "Токийская школа истребителей нечисти",
-          "Tokyo Majin Gakuen Kenpuchou"
-        ],
-        "other_titles_en": [
-          "Tokyo Majin"
-        ],
-        "other_titles_jp": [
-          "東京魔人學園剣風帖　龖（トウ）"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2007,
-        "description": "В Академию Магами поступает загадочный новичок по имени Тацума Хию, который сразу находит общий язык с местным сорвиголовой Кёути Хораидзи. Их связывает не только дружба но и общее дела, общая тайна. Они вместе с другими товарищами со школы ведут борьбу с демонами, которые так и норовят устроить какую-нить пакость.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/602387.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/e5081301a5eb7f2223b316b53591755ad387334d.jpg",
-          "https://shikimori.one/system/screenshots/original/ba29d60c24d566c1a8c7cced3135aefe18e651bd.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Боевые искусства",
-          "Драма",
-          "Сверхъестественное",
-          "Ужасы",
-          "Фэнтези",
-          "Школа",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "AIC Spirits",
-          "BeSTACK"
-        ],
-        "kinopoisk_rating": 6.6,
-        "kinopoisk_votes": 260,
-        "imdb_rating": 6.5,
-        "imdb_votes": 90,
-        "shikimori_rating": 7.16,
-        "shikimori_votes": 1893,
-        "premiere_world": "2007-01-19",
-        "aired_at": "2007-01-19",
-        "released_at": "2007-04-20",
-        "rating_mpaa": "R",
-        "minimal_age": 12,
-        "episodes_total": 14,
-        "episodes_aired": 0,
-        "directors": [
-          "Синдзи Исихира"
-        ],
-        "writers": [
-          "Тосидзо Нэмото",
-          "Амамия Хитоми"
-        ],
-        "composers": [
-          "Такаюки Нэгиси"
-        ]
-      }
-    },
-    {
-      "id": "serial-7968",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Токийская школа магов [ТВ-2]",
-      "title_orig": "Tokyo Majin Gakuen Kenpuchou Tou Dai Ni Maku",
-      "other_title": "Токийская школа истребителей нечисти: Боевой кулак ТВ-2 / Токийская школа истребителей нечисти (второй сезон)",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2007,
-      "last_season": 2,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "602387",
-      "imdb_id": "tt3198020",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6515",
-      "shikimori_id": "2683",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-29T13:55:11Z",
-      "updated_at": "2019-12-07T17:27:30Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/208149/0f686205741050cdf766f85fc1379d7b/720p",
-            "2": "//aniqit.com/seria/208150/c8b97b0ac8c0d87d5d0d59c56921abeb/720p",
-            "3": "//aniqit.com/seria/208151/c05566e39f578e93f29ddd01c5e148f4/720p",
-            "4": "//aniqit.com/seria/208152/2559d1cf6c64709b8334cdcefc8d6570/720p",
-            "5": "//aniqit.com/seria/208153/9b24c5ef5194deca429686dbc369cfd9/720p",
-            "6": "//aniqit.com/seria/208154/3a31b133f3fbff0de701b5730fa1d40a/720p",
-            "7": "//aniqit.com/seria/208155/31533a6d31f94d0f0093f2247043b800/720p",
-            "8": "//aniqit.com/seria/208156/75c1bd040d7cc1eb313edcff5871b2eb/720p",
-            "9": "//aniqit.com/seria/208157/3b96932537964bf8d53eab0d7d187a4e/720p",
-            "10": "//aniqit.com/seria/208158/6fd7615d4452b8aa88262063924a370d/720p",
-            "11": "//aniqit.com/seria/208159/e86509586a8cce15490ca1b309a3601f/720p",
-            "12": "//aniqit.com/seria/208160/76ecd194c9b2f7ee15b8fabc0a2ed686/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Токийская школа истребителей нечисти",
-        "title_en": "Tokyo Majin Gakuen Kenpucho To",
-        "other_titles": [
-          "Токийская школа истребителей нечисти 2",
-          "Tokyo Majin Gakuen Kenpucho: Tou Kenbu Hen",
-          "Tokyo Majin Gakuen Kenpucho Tou: Dainimaku",
-          "Tokyo Majin Gakuen Kenpucho: Tou 2nd Act"
-        ],
-        "other_titles_jp": [
-          "東京魔人學園剣風帖　龖（トウ） 第弐幕"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2007,
-        "description": "В Академию Магами поступает загадочный новичок по имени Тацума Хию, который сразу находит общий язык с местным сорвиголовой Кёути Хораидзи. Их связывает не только дружба но и общее дела, общая тайна. Они вместе с другими товарищами со школы ведут борьбу с демонами, которые так и норовят устроить какую-нить пакость.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/602387.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/fe0862f49558ab4cdf0c88a2fdc93006c6c47f11.jpg",
-          "https://shikimori.one/system/screenshots/original/65a9f349a31e595a3656b6d3b61f759e7fb72394.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Боевые искусства",
-          "Детектив",
-          "Драма",
-          "Ужасы",
-          "Фэнтези",
-          "Школа",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "AIC Spirits"
-        ],
-        "kinopoisk_rating": 6.6,
-        "kinopoisk_votes": 260,
-        "imdb_rating": 6.5,
-        "imdb_votes": 90,
-        "shikimori_rating": 7.27,
-        "shikimori_votes": 1121,
-        "premiere_world": "2007-01-19",
-        "aired_at": "2007-07-27",
-        "released_at": "2007-10-12",
-        "rating_mpaa": "R",
-        "minimal_age": 12,
-        "episodes_total": 12,
-        "episodes_aired": 0,
-        "directors": [
-          "Синдзи Исихира"
-        ],
-        "writers": [
-          "Тосидзо Нэмото",
-          "Амамия Хитоми"
-        ],
-        "composers": [
-          "Такаюки Нэгиси"
         ]
       }
     }

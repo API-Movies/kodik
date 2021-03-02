@@ -1,6 +1,666 @@
 {
   "results": [
     {
+      "id": "movie-57510",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Звезда и Глупец",
+      "title_orig": "Sieu sao sieu ngo",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1125082",
+      "imdb_id": "tt8010518",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-04T11:26:28Z",
+      "updated_at": "2020-07-04T11:26:28Z",
+      "material_data": {
+        "title": "Суперзвёздный, суперглупый",
+        "title_en": "Sieu Sao Sieu Ngố",
+        "year": 2018,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1125082.jpg",
+        "duration": 90,
+        "countries": [
+          "Вьетнам"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 4.8,
+        "imdb_votes": 59,
+        "premiere_world": "2018-02-16",
+        "actors": [
+          "Truong Giang",
+          "Nguyen Ha My",
+          "Duc Thinh",
+          "Тан Тхюй"
+        ],
+        "directors": [
+          "Duc Thinh"
+        ]
+      }
+    },
+    {
+      "id": "movie-57509",
+      "type": "anime",
+      "link": "",
+      "title": "Батс и Терри",
+      "title_orig": "Bats and Terry",
+      "other_title": "バツ&テリー",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 1987,
+      "kinopoisk_id": "923483",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6285",
+      "shikimori_id": "16514",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-04T11:15:35Z",
+      "updated_at": "2020-07-04T11:15:35Z",
+      "material_data": {
+        "title": "Батс и Терри",
+        "title_en": "Bats and Terry",
+        "other_titles": [
+          "Bats & Terry",
+          "Bats and Terry"
+        ],
+        "other_titles_jp": [
+          "バツ＆テリー"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 1987,
+        "description": "Бацу и Терри — два «чётких» пацана, которые никому ничего не спустят с рук, даже учителям. Если возникнет необходимость, они готовы пустить в ход кулаки, защищая незнакомцев от опасности, особенно если этот незнакомец — красивая девушка. Так что они хороши не только в том, чтобы задираться, но могут и вступиться. Кого-то они нещадно терроризируют, а у кого-то способны вызвать искреннюю симпатию.\r\nОднажды они избавляют от проблем настоящую красотку и вынуждены из-за неё вступить в бой с целой бандой. Полиция преследует их, но стражи порядка сами восхищены и благодарны этой парочке за разгром банды. Ах, да, самое главное! Они, звёздный дуэт школьной бейсбольной команды, — великолепные питчер и кэтчер!",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/923483.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/b35efe6acb621b7afd0d88e48ab1f0f0d27eebc7.jpg",
+          "https://shikimori.one/system/screenshots/original/d41a2d404f78a60ceac302659af9b82d7272eafc.jpg"
+        ],
+        "duration": 79,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Комедия",
+          "Спорт",
+          "Сёнен",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Sunrise"
+        ],
+        "shikimori_rating": 0,
+        "shikimori_votes": 16,
+        "premiere_world": "1987-03-14",
+        "aired_at": "1987-03-14",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "directors": [
+          "Тэцуро Амино"
+        ]
+      }
+    },
+    {
+      "id": "serial-27422",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Человек-горилла",
+      "title_orig": "Gorillaman",
+      "other_title": "ゴリラーマン",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 1992,
+      "last_season": 1,
+      "last_episode": 2,
+      "episodes_count": 2,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5873",
+      "shikimori_id": "24093",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-07-04T11:14:24Z",
+      "updated_at": "2020-07-04T11:14:24Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/680357/55dde93b9d6bb83f887766e6a65fc53f/720p",
+            "2": "//aniqit.com/seria/680358/5445edfdd70cafbb707a48ae1c0420f6/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Человек-горилла",
+        "title_en": "Gorillaman",
+        "other_titles_jp": [
+          "ゴリラーマン"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "poster_url": "https://shikimori.one/system/animes/original/24093.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/4a704b3b257eb890b90783e1f4b10aebec64f383.jpg",
+          "https://shikimori.one/system/screenshots/original/1f421a05d02979eeafd8ce3f916032ddd00823c7.jpg"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Сейнен",
+          "Школа"
+        ],
+        "anime_studios": [
+          "J.C.Staff"
+        ],
+        "shikimori_rating": 0,
+        "shikimori_votes": 18,
+        "aired_at": "1992-06-25",
+        "released_at": "1993-12-24",
+        "rating_mpaa": "R",
+        "episodes_total": 2,
+        "episodes_aired": 0
+      }
+    },
+    {
+      "id": "serial-25099",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Руководство сотен демонов",
+      "title_orig": "Manual of Hundred Demons",
+      "other_title": "Хроники сотни демонов / Bai Yao Pu / Hundred Demon Spectrum",
+      "translation": {
+        "id": 1009,
+        "title": "Anistar Многоголосый",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=85913",
+      "shikimori_id": "41224",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-25T10:05:39Z",
+      "updated_at": "2020-07-04T11:13:28Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/635873/6c7386a0d428f0a2ca48380619d7d293/720p",
+            "2": "//aniqit.com/seria/635874/4d70957be9fb80073f7df7c990adc52d/720p",
+            "3": "//aniqit.com/seria/640261/ad0da40c0a16998304665da54218ee01/720p",
+            "4": "//aniqit.com/seria/645059/2e3d1a70af39d87f0e148690ac3ea340/720p",
+            "5": "//aniqit.com/seria/648025/9488c90e40ea140ea1216aea123756b8/720p",
+            "6": "//aniqit.com/seria/653611/777754261057fa3e7a79b494715577b9/720p",
+            "7": "//aniqit.com/seria/660271/5dcef47a0dd04b924e931cfa8c93cf83/720p",
+            "8": "//aniqit.com/seria/663276/84ef7fd92395bb571a943fe106d6faae/720p",
+            "9": "//aniqit.com/seria/667660/29274dbf3aee776adf1db8eb0bed5387/720p",
+            "10": "//aniqit.com/seria/675996/106681e877ce20722d3a7dd152f3ddf3/720p",
+            "11": "//aniqit.com/seria/675997/a7107d97c938139ae4beb76243ee828c/720p",
+            "12": "//aniqit.com/seria/680356/4e7dbc0a70ce3d308cd75ca581d8ab4a/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Руководство сотен демонов",
+        "title_en": "Bai Yao Pu",
+        "other_titles": [
+          "Хроники сотни демонов",
+          "Manual of Hundred Demons",
+          "Hundred Demon Spectrum"
+        ],
+        "other_titles_en": [
+          "Fairies Albums"
+        ],
+        "other_titles_jp": [
+          "百妖谱"
+        ],
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "description": "Эта история поведает нам о необычной целительнице Таояо, путешествующей в компании маленького монаха и лисёнка. Необычность девушки заключается в целебном даре, который она применяет лишь к демонам и духам. Маленькая компания странствует из одного уголка страны в другой, попутно встречая на своём пути самых разных представителей мистических существ — двухцветного лиса, птицу, извергающую золото, человека-волка, маленького духа, рождающегося в воде, и прочих существ. Судьба и история каждого демона не могут оставить равнодушным, и целительница Тао помогает им избавиться от горечи и страданий, исцеляя не только физические раны, но и душевные.",
+        "poster_url": "https://shikimori.one/system/animes/original/41224.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/572aeaa5581df7e536558be1439e8b1de18f0aff.jpg",
+          "https://shikimori.one/system/screenshots/original/4b9dbbfdaf62852d5225b93605fb54fbfc1338a6.jpg"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Исторический",
+          "Приключения",
+          "Сверхъестественное",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Haoliners Animation League"
+        ],
+        "shikimori_rating": 6.95,
+        "shikimori_votes": 474,
+        "aired_at": "2020-04-25",
+        "released_at": "2020-07-04",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12
+      }
+    },
+    {
+      "id": "movie-57508",
+      "type": "anime",
+      "link": "",
+      "title": "Кинжал Камуи",
+      "title_orig": "Kamui no ken",
+      "other_title": "The Dagger of Kamui",
+      "translation": {
+        "id": 580,
+        "title": "Дольский",
+        "type": "voice"
+      },
+      "year": 1985,
+      "kinopoisk_id": "47624",
+      "imdb_id": "tt0088983",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=442",
+      "shikimori_id": "496",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-04T08:13:13Z",
+      "updated_at": "2020-07-04T08:13:13Z",
+      "material_data": {
+        "title": "Кинжал Камуи",
+        "title_en": "Kamui no ken",
+        "other_titles": [
+          "Dagger of Kamui",
+          "Blade of Kamui",
+          "Revenge of the Ninja Warrior"
+        ],
+        "other_titles_jp": [
+          "カムイの剣"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 1985,
+        "description": "Япония, середина XIX века. Дзиро - сирота, воспитанный доброй крестьянкой. Однако неожиданно приемную семью Дзиро убивают, а его самого соседи считают убийцей. Все, что осталось у Дзиро, - старинный меч, который называют Божественным.\n\rТэнкай, глава одного из кланов ниндзя, помогает Дзиро отомстить за смерть приемной матери и берет его в свой клан на обучение. Однако вскоре Дзиро осознает, что Тэнкай и его приспешники хотят захватить власть в стране. Не желая иметь с ними ничего общего, юноша убегает из клана и пытается узнать, кем были его настоящие родители. Однако для того, чтобы узнать правду, ему приходится совершить кругосветное путешествие...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/47624.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/d4b50a2809ffc6bf3c52e740a3cbddba2dbba561.jpg",
+          "https://shikimori.one/system/screenshots/original/9577fa674ed1e6de474784ab531b7f93a5a71166.jpg"
+        ],
+        "duration": 132,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Исторический",
+          "Приключения",
+          "Сёнен",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Madhouse"
+        ],
+        "kinopoisk_rating": 5.9,
+        "kinopoisk_votes": 82,
+        "imdb_rating": 6.9,
+        "imdb_votes": 621,
+        "shikimori_rating": 6.62,
+        "shikimori_votes": 81,
+        "premiere_world": "1985-03-09",
+        "aired_at": "1985-03-09",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Хироюки Санада",
+          "Мами Кояма",
+          "Таро Исида",
+          "Юрико Ямамото",
+          "Итиро Нагаи",
+          "Канэто Сиодзава",
+          "Такэси Аоно",
+          "Согабэ Кадзуюки",
+          "Такаси Эбата",
+          "Такаси Тояма"
+        ],
+        "directors": [
+          "Ринтаро"
+        ],
+        "producers": [
+          "Satoru Ikegami",
+          "Масао Маруяма",
+          "Ринтаро",
+          "Харуки Кадокава",
+          "Роберт Дж. Вудхед"
+        ],
+        "writers": [
+          "Мори Масаки",
+          "Тетсу Яно"
+        ],
+        "composers": [
+          "Эитэцу Хаяси",
+          "Рюдо Удзаки"
+        ],
+        "editors": [
+          "Osamu Tanaka"
+        ],
+        "designers": [
+          "Масао Маруяма",
+          "Такамура Мукуо"
+        ]
+      }
+    },
+    {
+      "id": "movie-57507",
+      "type": "anime",
+      "link": "",
+      "title": "Обреченная любовь 1989",
+      "title_orig": "Desperate Love 1989",
+      "other_title": "Zetsuai 1989",
+      "translation": {
+        "id": 1037,
+        "title": "WiaDub",
+        "type": "voice"
+      },
+      "year": 1992,
+      "kinopoisk_id": "703297",
+      "imdb_id": "tt4849722",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=452",
+      "shikimori_id": "1041",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-04T08:12:18Z",
+      "updated_at": "2020-07-04T08:12:18Z",
+      "material_data": {
+        "title": "Обреченная любовь 1989",
+        "title_en": "Desperate Love 1989",
+        "other_titles": [
+          "Desperate Love",
+          "Everlasting Love",
+          "Bronze: 1989"
+        ],
+        "other_titles_jp": [
+          "絶愛-1989-"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "year": 1992,
+        "description": "Рок-певца Кодзи Нандзё не миновала звёздная болезнь. Он молод, красив, знаменит, и слава избаловала его, создав иллюзию вседозволенности. Но всю его жизнь перевернула случайная встреча с Такуто Идзуми - парнем, которому не было дела до звездного статуса нового знакомого. Мрачный, резкий и нелюдимый Такуто оказался для Кодзи загадкой и вызовом.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/703297.jpg",
+        "duration": 45,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "короткометражка",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Музыка",
+          "Романтика",
+          "Спорт",
+          "Яой"
+        ],
+        "anime_studios": [
+          "Madhouse"
+        ],
+        "kinopoisk_rating": 6.5,
+        "kinopoisk_votes": 125,
+        "imdb_rating": 6.3,
+        "imdb_votes": 50,
+        "shikimori_rating": 6.45,
+        "shikimori_votes": 520,
+        "premiere_world": "1992-07-29",
+        "aired_at": "1992-07-29",
+        "rating_mpaa": "R+",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Сё Хаями",
+          "Такэхито Коясу",
+          "Нисимото Эцуко",
+          "Каппэи Ямагути",
+          "Кацуми Судзуки",
+          "Кумико Нисихара",
+          "Миюки Мацусита",
+          "Наоко Иси",
+          "Томоко Мунаката",
+          "Томомити Нисимура"
+        ],
+        "directors": [
+          "Такудзи Эндо"
+        ],
+        "writers": [
+          "Кэндзи Каваи"
+        ]
+      }
+    },
+    {
+      "id": "movie-57506",
+      "type": "anime",
+      "link": "",
+      "title": "Лесная легенда",
+      "title_orig": "Mori no densetsu",
+      "other_title": "Legend of the Forest",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "333451",
+      "imdb_id": "tt0093399",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=275",
+      "shikimori_id": "2456",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-04T08:08:05Z",
+      "updated_at": "2020-07-04T08:08:05Z",
+      "material_data": {
+        "title": "Лесная легенда",
+        "title_en": "Mori no densetsu",
+        "other_titles": [
+          "Mori no Densetsu PART-1",
+          "Legend of the Forest PART-1"
+        ],
+        "other_titles_en": [
+          "Legend of the Forest"
+        ],
+        "other_titles_jp": [
+          "森の伝説"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 1987,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/333451.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/10ba25c41aa66931e1e7a86deb05f7e06e1d56c8.jpg",
+          "https://shikimori.one/system/screenshots/original/2323d1e88b606a54b3711929e26d03d0e45070c8.jpg"
+        ],
+        "duration": 30,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Музыка",
+          "Приключения",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Tezuka Productions"
+        ],
+        "imdb_rating": 7.2,
+        "imdb_votes": 272,
+        "shikimori_rating": 6.42,
+        "shikimori_votes": 34,
+        "premiere_world": "2002-11-27",
+        "aired_at": "1987-12-18",
+        "rating_mpaa": "G",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "directors": [
+          "Осаму Тэдзука"
+        ],
+        "producers": [
+          "Такаюки Мацутани",
+          "Минору Кубота"
+        ],
+        "writers": [
+          "Осаму Тэдзука"
+        ],
+        "editors": [
+          "Харутоси Огата"
+        ],
+        "designers": [
+          "Масами Саито"
+        ]
+      }
+    },
+    {
+      "id": "movie-57505",
+      "type": "anime",
+      "link": "",
+      "title": "Люпен III: Несчастливые дни Фудзико",
+      "title_orig": "Rupan Sansei: Ai no da capo - Fujiko's Unlucky Days",
+      "other_title": "Люпен III: Несчастливые дни Фудзико (спецвыпуск 11)",
+      "translation": {
+        "id": 820,
+        "title": "animereactor",
+        "type": "voice"
+      },
+      "year": 1999,
+      "kinopoisk_id": "355189",
+      "imdb_id": "tt0461571",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=192",
+      "shikimori_id": "1431",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-07-04T08:06:01Z",
+      "updated_at": "2020-07-04T08:06:01Z",
+      "material_data": {
+        "title": "Люпен III: Несчастливые дни Фудзико",
+        "title_en": "Rupan Sansei: Ai no da capo - Fujiko's Unlucky Days",
+        "other_titles": [
+          "Rupan Sansei",
+          "Lupin III: Da Capo of Love - Fujiko's Unlucky Days",
+          "Lupin III: Fujiko's Unlucky Days"
+        ],
+        "other_titles_en": [
+          "Lupin III: The Columbus Files"
+        ],
+        "other_titles_jp": [
+          "ルパン三世『愛のダ・カーポ ～Fujiko's Unlucky Days』"
+        ],
+        "anime_kind": "special",
+        "anime_status": "released",
+        "year": 1999,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/355189.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/f15619863c2c2bd27b688ddef3a62014c1b49def.jpg",
+          "https://shikimori.one/system/screenshots/original/e2eb56ca1768cd652ccb62881a09c6aea3247e1c.jpg"
+        ],
+        "duration": 92,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "мультфильм",
+          "фантастика",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Комедия",
+          "Приключения",
+          "Сейнен",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "VAP",
+          "Tokyo Movie Shinsha",
+          "FUNimation Entertainment"
+        ],
+        "imdb_rating": 6.7,
+        "imdb_votes": 184,
+        "shikimori_rating": 6.84,
+        "shikimori_votes": 131,
+        "premiere_world": "1999-07-30",
+        "aired_at": "1999-07-30",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Син Аомори",
+          "Трой Бэйкер",
+          "Наоки Бандо",
+          "Сигэру Тиба",
+          "Коллин Клинкенберд",
+          "Р. Брюс Эллиотт",
+          "Кайл Хеберт",
+          "Макио Иноэ",
+          "Ясуо Ивата",
+          "Джефф Джонсон"
+        ],
+        "directors": [
+          "Сетсуо Такасе",
+          "Синъити Ватанабэ"
+        ],
+        "producers": [
+          "Ясумити Озаки",
+          "Хироси Ямасита",
+          "Гэн Фукунага",
+          "Хиромичи Оиши"
+        ],
+        "writers": [
+          "Синдзо Фудзита",
+          "Манки Панч"
+        ],
+        "composers": [
+          "Юдзи Оно"
+        ],
+        "editors": [
+          "Джереми Хименес",
+          "Дэниэл Мансилла",
+          "Масатоси Цурубуси"
+        ]
+      }
+    },
+    {
       "id": "movie-57504",
       "type": "anime",
       "link": "",
@@ -3688,7 +4348,7 @@
         "anime_studios": [
           "Nice Boat Animation"
         ],
-        "shikimori_rating": 6.73,
+        "shikimori_rating": 6.72,
         "shikimori_votes": 285,
         "aired_at": "2020-04-10",
         "released_at": "2020-07-03",
@@ -8337,614 +8997,6 @@
         ],
         "operators": [
           "Кун-ва Ма"
-        ]
-      }
-    },
-    {
-      "id": "movie-57398",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Телохранитель из Пекина",
-      "title_orig": "Zhong Nan Hai bao biao",
-      "translation": {
-        "id": 590,
-        "title": "Кузнецов",
-        "type": "voice"
-      },
-      "year": 1994,
-      "kinopoisk_id": "23598",
-      "imdb_id": "tt0111835",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-07-02T06:19:26Z",
-      "updated_at": "2020-07-02T06:19:26Z",
-      "material_data": {
-        "title": "Телохранитель из Пекина",
-        "title_en": "Zhong Nan Hai bao biao",
-        "year": 1994,
-        "tagline": "Only One Man Stands Between The Assassin And His Target!",
-        "description": "Свидетели долго не живут, как гласит жестокое правило преступного мира. Когда молодая женщина по имени Мишель Юн становится единственной очевидицей убийства, совершенного могущественным злодеем, никто не сомневался, что дни ее сочтены. Но нет правил без исключений.\n\rНанятый другом Мишель, из Пекина прибывает таинственный телохранитель. Поначалу героиня не верит, чтo от него будет толк, однако первая же уличная перестрелка показывает, на что способен этот человек-армия. Молниеносный как атакующая кобра, ее защитник за пару секунд может нейтрализовать толпу врагов. И лишь одно может помешать ему исполнить свой профессиональный долг - внезапно нагрянувшая любовь к прекрасной Мишель...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/23598.jpg",
-        "duration": 92,
-        "countries": [
-          "Гонконг"
-        ],
-        "genres": [
-          "боевик",
-          "криминал",
-          "триллер"
-        ],
-        "kinopoisk_rating": 7.1,
-        "kinopoisk_votes": 1301,
-        "imdb_rating": 6.5,
-        "imdb_votes": 4744,
-        "premiere_world": "1994-07-28",
-        "rating_mpaa": "R",
-        "minimal_age": 16,
-        "actors": [
-          "Джет Ли",
-          "Кристи Чунг",
-          "Кент Чэн",
-          "Колин Чоу",
-          "Джои Люн",
-          "Вэй-Квок Нг",
-          "Вай-лим Чу",
-          "Чань Чун-Тай",
-          "Сек Чан",
-          "Джеки Чунг"
-        ],
-        "directors": [
-          "Кори Юэнь"
-        ],
-        "producers": [
-          "Джулия Чу",
-          "Джет Ли"
-        ],
-        "writers": [
-          "Гордон Чан",
-          "Джон Чан",
-          "Джек Маэби"
-        ],
-        "composers": [
-          "Николас Ривера",
-          "Уильям У"
-        ],
-        "editors": [
-          "Энджи Лам"
-        ],
-        "designers": [
-          "Джейсон Мок",
-          "Ширли Чан"
-        ],
-        "operators": [
-          "Том Лау"
-        ]
-      }
-    },
-    {
-      "id": "movie-57399",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Большая белая башня",
-      "title_orig": "Shiroi Kyotô",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 1966,
-      "kinopoisk_id": "123075",
-      "imdb_id": "tt0327147",
-      "quality": "DVDScr",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-07-02T06:12:26Z",
-      "updated_at": "2020-07-02T06:12:26Z",
-      "material_data": {
-        "title": "Большая белая башня",
-        "title_en": "Shiroi Kyotô",
-        "year": 1966,
-        "description": "Профессор медицинского факультета одного из университетов собирается уходить на пенсию. На это место претендует молодой способный хирург Горо Дзайдзэн. Он талантлив. Он прекрасен своей щедрой одарённостью, своим ненасытным упоением жизнью и своими успехами, этот сын нищей крестьянки, с неимоверным трудом выбившийся в люди. И всё-таки Дзайдзэн конченый человек, ибо со студенческих лет принял условия игры, в которой все средства хороши. И его самонадеянность, пренебрежение к длительным клиническим исследованиям и к мнению товарищей по профессии вызывают опасения у профессуры университета. Чтобы получить большинство голосов на выборах, Горо использует любые средства для закулисных интриг: связи, подкуп, шантаж.\n\rЦеликом увлечённый интригами, доктор Дзайдзэн в спешке ставит неправильный диагноз больному, и тот вскоре умирает. Дело о смерти больного выносится в суд. Однако подкупленные свидетели дают в суде ложные показания и Дзайдзэна оправдывают. В результате он побеждает в конкурсе на вакантное место. А некоторым врачам, не одобряющим методов Горо, приходится покинуть клинику.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/123075.jpg",
-        "duration": 150,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 6.9,
-        "imdb_votes": 159,
-        "premiere_world": "1966-10-15",
-        "actors": [
-          "Дзиро Тамия",
-          "Эидзиро Тоно",
-          "Такахиро Тамура",
-          "Эитаро Одзава",
-          "Эйдзи Фунакоси",
-          "Осаму Такидзава",
-          "Сихо Фудзимура",
-          "Маюми Огава",
-          "Тэруко Киси",
-          "Ёси Като"
-        ],
-        "directors": [
-          "Сацуо Ямамото"
-        ],
-        "producers": [
-          "Масаити Нагата"
-        ],
-        "writers": [
-          "Синобу Хасимото",
-          "Тоёко Ямасаки"
-        ],
-        "composers": [
-          "Сэй Икэно"
-        ],
-        "editors": [
-          "Тацудзи Накасидзу"
-        ],
-        "designers": [
-          "Такэо Ито",
-          "Садао Заицен",
-          "Сигэо Мано"
-        ],
-        "operators": [
-          "Нобуо Мунэкава"
-        ]
-      }
-    },
-    {
-      "id": "movie-44958",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Бездомный пес",
-      "title_orig": "Nora inu",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1949,
-      "kinopoisk_id": "76978",
-      "imdb_id": "tt0041699",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-11-12T13:55:21Z",
-      "updated_at": "2020-07-02T05:59:04Z",
-      "material_data": {
-        "title": "Бездомный пес",
-        "title_en": "Nora inu",
-        "year": 1949,
-        "tagline": "Another great detective classic in the tradition of «High and Low» by the same director!",
-        "description": "Послевоенные годы. У полицейского Горо Мураками в автобусе крадут пистолет. В поисках пропавшего оружия он вынужден посетить многие районы Токио, побывать в тайных притонах, трущобах, на пустырях.\n\rА в это время похищенным пистолетом совершаются несколько убийств. Горо одержим идеей ответственности за все эти преступления. Преступник, которого он выслеживает, как и он оказывается бывшим солдатом. Горо размышляет, как он бы поступил, оказавшись в подобных обстоятельствах.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/76978.jpg",
-        "duration": 122,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "драма",
-          "триллер",
-          "фильм-нуар"
-        ],
-        "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 1054,
-        "imdb_rating": 7.9,
-        "imdb_votes": 14873,
-        "premiere_world": "1949-10-17",
-        "minimal_age": 12,
-        "actors": [
-          "Тосиро Мифунэ",
-          "Такаси Симура",
-          "Кэйко Авадзи",
-          "Эико Миёси",
-          "Норико Сэнгоку",
-          "Норико Хонма",
-          "Рэйкити Кавамура",
-          "Эидзиро Тоно",
-          "Ясуси Нагата",
-          "Исао Кимура"
-        ],
-        "directors": [
-          "Акира Куросава"
-        ],
-        "producers": [
-          "Сёдзиро Мотоки",
-          "Акира Куросава",
-          "Сэнкити Танигути",
-          "Кадзиро Ямамото"
-        ],
-        "writers": [
-          "Рюдзо Кикусима",
-          "Акира Куросава"
-        ],
-        "composers": [
-          "Фумио Хаясака"
-        ],
-        "editors": [
-          "Тосио Гото",
-          "Ёси Сугихара"
-        ],
-        "designers": [
-          "Такаси Мацуяма"
-        ],
-        "operators": [
-          "Асакадзу Накаи"
-        ]
-      }
-    },
-    {
-      "id": "movie-57400",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Безумная миссия 3: Наш человек с Бонд-стрит",
-      "title_orig": "Zui jia pai dang 3: Nu huang mi ling",
-      "translation": {
-        "id": 1321,
-        "title": "Никитин",
-        "type": "voice"
-      },
-      "year": 1984,
-      "kinopoisk_id": "31929",
-      "imdb_id": "tt0088457",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-07-02T05:57:38Z",
-      "updated_at": "2020-07-02T05:57:38Z",
-      "material_data": {
-        "title": "Безумная миссия 3: Наш человек с Бонд-стрит",
-        "title_en": "Zui jia pai dang 3: Nu huang mi ling",
-        "year": 1984,
-        "description": "Аферист и вор Кинг Конг опять вляпался в грязную историю. Согласившись помочь британскому секретному агенту и самой королеве украсть драгоценную корону, он не догадывается, что его обвели вокруг пальца их двойники, и разгрести заваренную им кашу теперь слишком сложно. Помочь Кинг Конгу придется его другу Болди и его супруге, у которых уже подрастает малыш.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/31929.jpg",
-        "duration": 96,
-        "countries": [
-          "Гонконг"
-        ],
-        "genres": [
-          "боевик",
-          "комедия"
-        ],
-        "kinopoisk_rating": 5.9,
-        "kinopoisk_votes": 64,
-        "imdb_rating": 5.9,
-        "imdb_votes": 788,
-        "premiere_world": "1984-01-26",
-        "actors": [
-          "Сэм Хуэй",
-          "Карл Мака",
-          "Сильвия Чан",
-          "Jean Mersant",
-          "Наоми Оцубо",
-          "Huguette Funfrock",
-          "Рикки Хуэй",
-          "Тат-Ва Чо",
-          "Тоби Расселл",
-          "Кен Бойл"
-        ],
-        "directors": [
-          "Цуй Харк"
-        ],
-        "producers": [
-          "Карл Мака",
-          "Дин Шек",
-          "Джим Лау",
-          "Рэймонд Вон"
-        ],
-        "writers": [
-          "Ларри Долгин",
-          "Рэймонд Вон"
-        ],
-        "composers": [
-          "Линси де Пол",
-          "Ноэль Куинлэн"
-        ],
-        "editors": [
-          "Квок Чунг Чоу"
-        ],
-        "designers": [
-          "Оливер Вонг"
-        ],
-        "operators": [
-          "Генри Чан"
-        ]
-      }
-    },
-    {
-      "id": "movie-57401",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Тихая дуэль",
-      "title_orig": "Shizukanaru kettô",
-      "translation": {
-        "id": 729,
-        "title": "СВ-Дубль",
-        "type": "voice"
-      },
-      "year": 1949,
-      "kinopoisk_id": "161213",
-      "imdb_id": "tt0041870",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-07-02T05:55:46Z",
-      "updated_at": "2020-07-02T05:55:46Z",
-      "material_data": {
-        "title": "Тихая дуэль",
-        "title_en": "Shizukanaru kettô",
-        "year": 1949,
-        "description": "Военный врач Кёдзи во время операции заражается сифилисом от своего пациента Наката. Оба не начинают лечение вовремя, и болезнь круто меняет жизни не только самих Кёдзи и Накаты, но и их близких...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/161213.jpg",
-        "duration": 95,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 1089,
-        "imdb_rating": 7.4,
-        "imdb_votes": 2885,
-        "premiere_world": "1949-03-13",
-        "minimal_age": 16,
-        "actors": [
-          "Тосиро Мифунэ",
-          "Такаси Симура",
-          "Мики Сандзё",
-          "Кэндзиро Уэмура",
-          "Тиэко Накакита",
-          "Норико Сэнгоку",
-          "Дзёносукэ Миядзаки",
-          "Исаму Ямагути",
-          "Шигеру Мацумото",
-          "Хироко Матида"
-        ],
-        "directors": [
-          "Акира Куросава"
-        ],
-        "producers": [
-          "Хисао Ичикава",
-          "Сёдзиро Мотоки"
-        ],
-        "writers": [
-          "Кадзуо Кикута",
-          "Акира Куросава",
-          "Сэнкити Танигути"
-        ],
-        "composers": [
-          "Акира Ификубэ"
-        ],
-        "editors": [
-          "Масанори Цудзи"
-        ],
-        "designers": [
-          "Койти Имаи"
-        ],
-        "operators": [
-          "Соити Аисака"
-        ]
-      }
-    },
-    {
-      "id": "movie-57402",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Убийство в тени",
-      "title_orig": "Geu-rim-ja sal-in",
-      "translation": {
-        "id": 680,
-        "title": "den904",
-        "type": "voice"
-      },
-      "year": 2009,
-      "kinopoisk_id": "493138",
-      "imdb_id": "tt1483004",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-07-02T05:54:08Z",
-      "updated_at": "2020-07-02T05:54:08Z",
-      "material_data": {
-        "title": "Убийство в тени",
-        "title_en": "Geurimja sarin",
-        "year": 2009,
-        "description": "Кёнсон, 1910 год. Хон Джи-хо - репортёр, подрабатывающий розыском сбежавших жён, копит деньги и мечтает уехать в Америку. Боясь быть обвиненным в убийстве, к нему обращается студент-медик, случайно нашедший в лесу тело пропавшего без вести сына министра внутренних дел, и просит помощи в розыске настоящего убийцы.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/493138.jpg",
-        "duration": 111,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "детектив",
-          "криминал",
-          "триллер"
-        ],
-        "kinopoisk_rating": 7,
-        "kinopoisk_votes": 201,
-        "imdb_rating": 6.8,
-        "imdb_votes": 835,
-        "premiere_world": "2009-04-02",
-        "rating_mpaa": "PG-13",
-        "actors": [
-          "Хван Джон-мин",
-          "Рю Док-хван",
-          "О Даль-су",
-          "Ом Джи-вон",
-          "Юн Джэ-мун",
-          "Чу Да-ён",
-          "Ким Хян-ги",
-          "Сон Джэ-хо",
-          "Ким Ын-су",
-          "О Тхэ-гён"
-        ],
-        "directors": [
-          "Пак Тэ-мин"
-        ],
-        "producers": [
-          "Ким Бон-со",
-          "Ли Сан-ён"
-        ],
-        "writers": [
-          "Пак Тэ-мин",
-          "Ли Ён-джон"
-        ],
-        "composers": [
-          "Хван Сан-джун"
-        ],
-        "editors": [
-          "Нам На-ён"
-        ],
-        "designers": [
-          "Чо Сан-гён",
-          "Чхве Хён-сок",
-          "Юн Ми-ра"
-        ],
-        "operators": [
-          "Чхве Чхан-мин"
-        ]
-      }
-    },
-    {
-      "id": "movie-57403",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "17 ниндзя. Часть 2",
-      "title_orig": "Ju nana-ri no ninja dai kessen",
-      "translation": {
-        "id": 590,
-        "title": "Кузнецов",
-        "type": "voice"
-      },
-      "year": 1966,
-      "kinopoisk_id": "664102",
-      "imdb_id": "tt9466096",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-07-02T05:53:07Z",
-      "updated_at": "2020-07-02T05:53:07Z",
-      "material_data": {
-        "title": "17 ниндзя. Часть 2",
-        "title_en": "Daikessen",
-        "year": 1966,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/664102.jpg",
-        "duration": 97,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          ""
-        ],
-        "premiere_world": "1974-02-02",
-        "actors": [
-          "Хироки Мацуката",
-          "Рютаро Отомо",
-          "Дзюсиро Коноэ",
-          "Юрико Мисима",
-          "Минору Оки",
-          "Тацуо Эндо",
-          "Киндзи Накамура",
-          "Кодзи Намбара",
-          "Кандзюро Араси"
-        ],
-        "directors": [
-          "Мотохиро Тории"
-        ],
-        "writers": [
-          "Канэо Икэгами",
-          "Мотохиро Тории"
-        ],
-        "composers": [
-          "Тосиаки Цусима"
-        ],
-        "designers": [
-          "Дзиро Томита"
-        ],
-        "operators": [
-          "Сигэру Акацука"
-        ]
-      }
-    },
-    {
-      "id": "movie-50275",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Каратистка",
-      "title_orig": "K.G.",
-      "translation": {
-        "id": 694,
-        "title": "Береговых",
-        "type": "voice"
-      },
-      "year": 2011,
-      "kinopoisk_id": "569905",
-      "imdb_id": "tt1726661",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-02-25T12:52:28Z",
-      "updated_at": "2020-07-02T05:51:30Z",
-      "material_data": {
-        "title": "Каратистка",
-        "title_en": "K.G.",
-        "year": 2011,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/569905.jpg",
-        "duration": 92,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "боевик"
-        ],
-        "imdb_rating": 5.1,
-        "imdb_votes": 495,
-        "premiere_world": "2011-02-05",
-        "actors": [
-          "Рина Такэда",
-          "Hina Tobimatsu",
-          "Тацуя Нака",
-          "Кадзутоси Ёкояма",
-          "Richard Heselton",
-          "Киёдзи Амано",
-          "Кэисукэ Хорибэ",
-          "Норико Ирияма",
-          "Тацуя Мори",
-          "Фуюхико Ниси"
-        ],
-        "directors": [
-          "Йошикатсу Кимура"
-        ],
-        "producers": [
-          "Хидэюки Фукухара",
-          "Хитоси Кураути",
-          "Фуюхико Ниси",
-          "Кацухиро Огава",
-          "Такэхико Симадзу",
-          "Юсукэ Вакабаяси",
-          "Томоми Ёсимура",
-          "Кадзуо Като",
-          "Мунэюки Кии",
-          "Манабу Синода"
-        ],
-        "writers": [
-          "Фуюхико Ниси"
-        ],
-        "composers": [
-          "Горо Ясукава"
-        ],
-        "editors": [
-          "Масаки Мураками"
-        ],
-        "designers": [
-          "Тэцудзи Тацута"
-        ],
-        "operators": [
-          "Даисукэ Сома"
         ]
       }
     }

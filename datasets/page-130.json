@@ -1,6 +1,715 @@
 {
   "results": [
     {
+      "id": "movie-52374",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Космическое приключение",
+      "title_orig": "Kun ta: Fan zhuan xing qiu",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1048067",
+      "imdb_id": "tt7262780",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-24T14:15:50Z",
+      "updated_at": "2020-03-24T14:15:50Z",
+      "material_data": {
+        "title": "Космическое приключение",
+        "title_en": "Kun ta: Fan zhuan xing qiu",
+        "year": 2017,
+        "tagline": "Три маленьких героя. Тысячи коварных врагов. Одна большая победа",
+        "description": "Когда-то планета Кеплер процветала. Источником суперэнергии для планеты служил многовековой волшебный лес из деревьев Кар-Лало. Но после прихода землян лес был полностью уничтожен, а Кеплер обречен на вымирание. Чтобы возродить оазис и спасти свою землю, друзья Аксель, Джоно и Гага сражаются со злыми землянами и гигантскими роботами, пускаются в опасное путешествие на самое дно вулкана. Во что бы то ни стало они должны отыскать последнее семечко Кар-Лало, но времени уже почти не осталось.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1048067.jpg",
+        "duration": 90,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "мультфильм",
+          "приключения",
+          "фантастика"
+        ],
+        "imdb_rating": 6.3,
+        "imdb_votes": 22,
+        "premiere_ru": "2019-06-12",
+        "premiere_world": "2017-10-01",
+        "minimal_age": 6,
+        "actors": [
+          "Ли Чжэнсян",
+          "Хун Хайтянь",
+          "Го Ифэн",
+          "Тао Дянь",
+          "Чжао Цяньцзин",
+          "Ли Чуаньин",
+          "Ван Сяобин",
+          "У Лэй",
+          "Хань Цзяоцзяо",
+          "Е Ци"
+        ],
+        "directors": [
+          "Ли Лиань"
+        ],
+        "producers": [
+          "Ху Лэйлэй",
+          "Ли Лиань"
+        ],
+        "writers": [
+          "Ли Лиань",
+          "Ма Хуа"
+        ]
+      }
+    },
+    {
+      "id": "serial-24062",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "В яблочко!",
+      "title_orig": "Maeching! Sonyeonyanggungbu",
+      "other_title": "Matching! Boys Archery Club",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 8,
+      "episodes_count": 8,
+      "kinopoisk_id": "1290329",
+      "imdb_id": "tt10745822",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-03-24T14:14:17Z",
+      "updated_at": "2020-03-24T14:14:17Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/616968/459ab5116346cede67b2866bd56c11d3/720p",
+            "2": "//kodik.cc/seria/616969/66d045b53dfb9a8483a5604dbb45405d/720p",
+            "3": "//kodik.cc/seria/616970/1edf3094686c05c52a50997230597616/720p",
+            "4": "//kodik.cc/seria/616971/0b170d75a6672c356cd3bf9e33d17682/720p",
+            "5": "//kodik.cc/seria/616972/71c1592231e83b23ae9cc3b7c3d90799/720p",
+            "6": "//kodik.cc/seria/616973/24d1cad3b0d8c5b9445679c677cfdd90/720p",
+            "7": "//kodik.cc/seria/616974/ebdb824fc35c6503c03a3803dde81e81/720p",
+            "8": "//kodik.cc/seria/616975/26fab4f42d2c87faa8149bad8345ca18/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "В яблочко!",
+        "title_en": "Maeching! Sonyeonyanggungbu",
+        "year": 2016,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1290329.jpg",
+        "duration": 17,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "мелодрама",
+          "спорт"
+        ],
+        "premiere_world": "2016-08-04",
+        "actors": [
+          "Ким Джи-ён",
+          "Пэк Чхоль-мин",
+          "Со Джи-хун",
+          "Чо Джэ-юн",
+          "Ким Чхан-хван"
+        ],
+        "directors": [
+          "Нам Ги-хун"
+        ],
+        "writers": [
+          "Ли А-ён"
+        ]
+      }
+    },
+    {
+      "id": "serial-24061",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Эль-Хазард: Странники",
+      "title_orig": "Shinpi no Sekai El Hazard",
+      "other_title": "El Hazard: The Wanderers / 神秘の世界エルハザード",
+      "translation": {
+        "id": 757,
+        "title": "MC Entertainment",
+        "type": "voice"
+      },
+      "year": 1995,
+      "last_season": 1,
+      "last_episode": 26,
+      "episodes_count": 26,
+      "kinopoisk_id": "394050",
+      "imdb_id": "tt0112940",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=175",
+      "shikimori_id": "116",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-03-24T13:31:09Z",
+      "updated_at": "2020-03-24T13:37:06Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/616881/a87d5c78c7691753868ebda9d44d9b99/720p",
+            "2": "//aniqit.com/seria/616882/1950bf0010b5a50f78d17ef89b5683f8/720p",
+            "3": "//aniqit.com/seria/616883/ec89e0e1a579abbe05951bd8808f28dc/720p",
+            "4": "//aniqit.com/seria/616884/4f43b9cb0069175ea2db41a3d26fbb13/720p",
+            "5": "//aniqit.com/seria/616885/2eae953edf2c30d26fb07a4a4ea5a842/720p",
+            "6": "//aniqit.com/seria/616886/8d736236ce41e9aa2d36b5204c90adca/720p",
+            "7": "//aniqit.com/seria/616887/6fca0fe37d10ed206d37241fdb79fdef/720p",
+            "8": "//aniqit.com/seria/616888/813c0a4ddfa4282b5b6cf7213ad84500/720p",
+            "9": "//aniqit.com/seria/616889/2ef2dc939ef39459d01fdd67ace0910a/720p",
+            "10": "//aniqit.com/seria/616890/854456461d814a3aa59b7101fd53bf87/720p",
+            "11": "//aniqit.com/seria/616891/897649689e2164bede398d349fcfadbe/720p",
+            "12": "//aniqit.com/seria/616892/c4bb59aeaa63e4c47c90e5666b9a5e09/720p",
+            "13": "//aniqit.com/seria/616893/f54627009b0ce9cd7b53cae482edd2db/720p",
+            "14": "//aniqit.com/seria/616894/6c8bf176af24560ce9ddd1af371e272d/720p",
+            "15": "//aniqit.com/seria/616895/0123b7821062bd1cad6e9be1bff22b8f/720p",
+            "16": "//aniqit.com/seria/616896/19e6bd38460b64c356108677d0e3e9f6/720p",
+            "17": "//aniqit.com/seria/616897/e8358a11c16652e7e9a7141801d79e9f/720p",
+            "18": "//aniqit.com/seria/616898/1416ad51388b0f189c5c9045199e4802/720p",
+            "19": "//aniqit.com/seria/616899/9dfd8747fc23c8fd241371aabac4b798/720p",
+            "20": "//aniqit.com/seria/616900/7ae0b47be444eae906bcc104fb50aa65/720p",
+            "21": "//aniqit.com/seria/616901/f701008f184f52bcb98647ce34043935/720p",
+            "22": "//aniqit.com/seria/616902/b801e6f0758693b9480b5353c6c8dd56/720p",
+            "23": "//aniqit.com/seria/616964/41000c92089882fc17f836a66e58ee43/720p",
+            "24": "//aniqit.com/seria/616965/ec76224e31cad0036616eea90e95417a/720p",
+            "25": "//aniqit.com/seria/616966/3673164a59674471deab306f6af0fafd/720p",
+            "26": "//aniqit.com/seria/616967/db5a41579c12ad91d190cd6558c65d06/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Эль-Хазард: Странники",
+        "title_en": "El Hazard: Wanderers",
+        "other_titles": [
+          "Shinpi no Sekai El-Hazard TV",
+          "Shinpi no Sekai El-Hazard",
+          "El-Hazard: The Magnificent World (TV)"
+        ],
+        "other_titles_en": [
+          "El-Hazard: The Wanderers"
+        ],
+        "other_titles_jp": [
+          "神秘の世界エルハザード"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 1995,
+        "description": "«Эль-Хазард» рассказывает о приключениях японского школьника Макото Мидзухары, очутившегося в удивительном сказочном мире. Вместе с ним туда попали учитель Фудзисава, Нанами Дзиннай и ее брат - подлец Кадзухико Дзиннай, по прибытии в страну фантазий тут же встающий во главе расы Багромов, зловещих насекомых. Теперь Макото, Манами и Фудзисава должны защитить королевство Роштария от нашествия Багромов и демона Ифуриты, а заодно и найти способ вернуться домой. ",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/394050.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/ebed3bd708c07ca73d5ff7dc872e2981e8fa179f.png",
+          "https://shikimori.one/system/screenshots/original/c2e9f55d3e10af3aebea0c883e2453080df8efd4.png"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Приключения",
+          "Романтика",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "AIC"
+        ],
+        "imdb_rating": 6.6,
+        "imdb_votes": 125,
+        "shikimori_rating": 6.97,
+        "shikimori_votes": 199,
+        "aired_at": "1995-10-06",
+        "released_at": "1996-03-29",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 12,
+        "episodes_total": 26,
+        "episodes_aired": 0,
+        "actors": [
+          "Стивен Блум",
+          "Рэнди МакФерсон",
+          "Хейди Ленхарт",
+          "Эдди Фрирсон",
+          "Майкл Сорич",
+          "Роберт Мартин Клейн",
+          "Лия Сарджент",
+          "Мелисса Чарльз",
+          "Джули Энн Тейлор",
+          "Уильям Найт"
+        ],
+        "directors": [
+          "Кацухито Акияма",
+          "Ёсиаки Ивасаки",
+          "Икуро Сато",
+          "Тосихико Тадано",
+          "Такаси Кобаяси",
+          "Макото Сокудза",
+          "Харуми Тамано",
+          "Макото Бэссё",
+          "Казухито Кикути",
+          "Kô Matsuzono"
+        ],
+        "producers": [
+          "Хироаки Иноуэ",
+          "Кёко Кобаяси",
+          "Таро Маки",
+          "Тору Миура",
+          "Кадзуаки Моридзири",
+          "Ясуси Тодо",
+          "Кинья Ватанабэ",
+          "Хидэки Гото"
+        ],
+        "writers": [
+          "Хироки Хаяси",
+          "Рёэ Цукимура",
+          "Нарухиса Аракава",
+          "Ясунори Ямада",
+          "Кацуми Хасэгава",
+          "Хидэки Сонода",
+          "Дзиро Такаяма",
+          "Исао Сидзуя"
+        ],
+        "composers": [
+          "Сэико Нагаока"
+        ],
+        "designers": [
+          "Сигэми Икэда"
+        ],
+        "operators": [
+          "Шигео Камияма"
+        ]
+      }
+    },
+    {
+      "id": "serial-23854",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Эй, учитель, вы разве не знаете?",
+      "title_orig": "Nee Sensei, Shiranai No?",
+      "other_title": "Hey Sensei, Don't you know?",
+      "translation": {
+        "id": 871,
+        "title": "Asian Miracle Group",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 6,
+      "episodes_count": 6,
+      "kinopoisk_id": "1370926",
+      "imdb_id": "tt12093584",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-03-18T16:33:52Z",
+      "updated_at": "2020-03-24T13:10:53Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/612010/82ab612474f129353c0ad83f3f361906/720p",
+            "2": "//kodik.cc/seria/612011/554408a8841fd6eb71fff3592aeaf550/720p",
+            "3": "//kodik.cc/seria/612012/db078dc4cdccd44f2624d0abcb2f7709/720p",
+            "4": "//kodik.cc/seria/612013/90aa93c716da7b5be2d34e7ef2ede937/720p",
+            "5": "//kodik.cc/seria/613253/ddabc57987cb6e6c64f4ec40dfeb63f6/720p",
+            "6": "//kodik.cc/seria/616876/ce15a99e08de15595c62ffb0fcd3cc49/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Nee Sensei, Shiranai No? (Hey Sensei, Don't you know?)",
+        "title_en": "",
+        "year": 2019,
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "мелодрама"
+        ],
+        "imdb_rating": 6.7,
+        "imdb_votes": 57,
+        "actors": [
+          "Эйдзи Акасо",
+          "Фумика Баба",
+          "Honoka Yahagi"
+        ],
+        "directors": [
+          "Keijiro Tsubakimoto"
+        ],
+        "producers": [
+          "Хироо Маруяма"
+        ],
+        "writers": [
+          "Юко Симода"
+        ]
+      }
+    },
+    {
+      "id": "serial-10200",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Богиня, благослови Мамору-куна!",
+      "title_orig": "Mamoru-kun ni Megami no Shukufuku o!",
+      "other_title": "Mamoru-kun ni Megami no Shukufuku wo!",
+      "translation": {
+        "id": 1099,
+        "title": "Anything Group",
+        "type": "voice"
+      },
+      "year": 2006,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 24,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5923",
+      "shikimori_id": "1588",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-04-20T13:43:52Z",
+      "updated_at": "2020-03-24T13:05:00Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/271375/348d6f7ea7aab0d495464a1ffcef62f7/720p",
+            "2": "//aniqit.com/seria/271376/102e435e71dff47629cb06e3b6d5af47/720p",
+            "3": "//aniqit.com/seria/271377/a0bc74b3deff660f18207976a415539b/720p",
+            "4": "//aniqit.com/seria/271378/08078a49542de8cdbed2b6f989d893b5/720p",
+            "5": "//aniqit.com/seria/271379/3af939c56f4f4b6a4168a1100f21a8f8/720p",
+            "6": "//aniqit.com/seria/271380/317e6366d90843c5c5a0e1d665ac8203/720p",
+            "7": "//aniqit.com/seria/271381/399d4d6991c93b2ebeae7a0024ce3e5a/720p",
+            "8": "//aniqit.com/seria/271382/6d9626003d3d5cdf98111be57cc60066/720p",
+            "9": "//aniqit.com/seria/271383/a44f7517a2d24197c7606c757b4e0cd9/720p",
+            "10": "//aniqit.com/seria/271384/69cb8c04f547c08cc9a96066cb75231b/720p",
+            "11": "//aniqit.com/seria/271385/595681c49c9e5d89155547adbcdc9c8d/720p",
+            "12": "//aniqit.com/seria/271386/2e0cf56b2a4d90fa01649fa667a61059/720p",
+            "13": "//aniqit.com/seria/271387/6948c6346e8b19d2c0f9f455810a1c9a/720p",
+            "14": "//aniqit.com/seria/271388/2587175243aac29811f71d5a99d6cd65/720p",
+            "15": "//aniqit.com/seria/271389/61891b56857bcee58a3cb13ffee72fd0/720p",
+            "16": "//aniqit.com/seria/271390/1cb66ed79b28871e1a987753a1e3c41a/720p",
+            "17": "//aniqit.com/seria/271391/66c9adcfdd8276e04225c75f9bb6a489/720p",
+            "18": "//aniqit.com/seria/271392/d17f670ef74ee6f1459afae89e346dcb/720p",
+            "19": "//aniqit.com/seria/271393/26e7a1f13bd0fd81d38b5a059b246295/720p",
+            "20": "//aniqit.com/seria/271394/5f749a0f4c86fae2e939da15b33e3222/720p",
+            "21": "//aniqit.com/seria/271395/806e8f6a42e4da6dc9910599f5a3f082/720p",
+            "22": "//aniqit.com/seria/271396/870bf8beeb77cbb9c8b8325e10c25774/720p",
+            "23": "//aniqit.com/seria/271397/dc969c2138eec9b916c587edeb49a340/720p",
+            "24": "//aniqit.com/seria/271398/60aa77bb7d958a9f0674931efe8a54dc/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Богиня, благослови Мамору-куна!",
+        "title_en": "Mamoru-kun ni Megami no Shukufuku wo!",
+        "other_titles": [
+          "Mamoru-kun was Blessed by a Goddess!"
+        ],
+        "other_titles_en": [
+          "Venus to Mamoru!"
+        ],
+        "other_titles_jp": [
+          "護くんに女神の祝福を！"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "poster_url": "https://shikimori.one/system/animes/original/1588.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/fc0a6880f32af4e6a10ea26f06d19f8108588db5.png",
+          "https://shikimori.one/system/screenshots/original/217d29a30e694e8cd94d457f520abf0759870ad3.png"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Романтика",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Zexcs"
+        ],
+        "shikimori_rating": 7.08,
+        "shikimori_votes": 399,
+        "aired_at": "2006-10-06",
+        "released_at": "2007-03-30",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 24,
+        "episodes_aired": 0
+      }
+    },
+    {
+      "id": "serial-8298",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Богиня-школьница",
+      "title_orig": "Kamichu!",
+      "other_title": "かみちゅ!",
+      "translation": {
+        "id": 1159,
+        "title": "Юки",
+        "type": "voice"
+      },
+      "year": 2005,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 16,
+      "kinopoisk_id": "408663",
+      "imdb_id": "tt0961173",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4312",
+      "shikimori_id": "489",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-01-04T04:58:21Z",
+      "updated_at": "2020-03-24T12:59:32Z",
+      "seasons": {
+        "0": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/616866/f7f59a600e153241d6e8daa646c46aec/720p",
+            "2": "//aniqit.com/seria/616867/9ae16176f4be1ca784378d447fea164d/720p",
+            "3": "//aniqit.com/seria/616868/7da63692848f45907c92b60bacc57fb9/720p",
+            "4": "//aniqit.com/seria/616869/f611839ada3686f142db93663778b242/720p"
+          }
+        },
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/214197/f7f59a600e153241d6e8daa646c46aec/720p",
+            "2": "//aniqit.com/seria/214198/9ae16176f4be1ca784378d447fea164d/720p",
+            "3": "//aniqit.com/seria/214199/7da63692848f45907c92b60bacc57fb9/720p",
+            "4": "//aniqit.com/seria/214200/f611839ada3686f142db93663778b242/720p",
+            "5": "//aniqit.com/seria/214201/e645a62b32aa2b9a4cd2d0fff93669bd/720p",
+            "6": "//aniqit.com/seria/214202/dfc74d386462d89c33a7f401eedc7182/720p",
+            "7": "//aniqit.com/seria/214203/6174f6cdd51752e54cab62f982154337/720p",
+            "8": "//aniqit.com/seria/214204/4df98d2f16987b208ec0f4ce32ea4834/720p",
+            "9": "//aniqit.com/seria/214205/4bcbcd81315cbca6243b88382300dc89/720p",
+            "10": "//aniqit.com/seria/214206/75a89aa2e1e00c71ccd09c8b3ea1041b/720p",
+            "11": "//aniqit.com/seria/214207/0b9ad97352baa636864e79e788484960/720p",
+            "12": "//aniqit.com/seria/214208/24a8080d50d83ee7c00a959c6fa1cc9c/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Богиня-школьница",
+        "title_en": "Kamichu!",
+        "other_titles": [
+          "Kami-chu!: Kami-sama wa Chuugakusei",
+          "The Goddess is a Middle School Student"
+        ],
+        "other_titles_en": [
+          "Kamichu!"
+        ],
+        "other_titles_jp": [
+          "かみちゅ!"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2005,
+        "description": "Начинается всё с того, что в школе на большой перемене (прямо над коробочкой с завтраком) Юрия Хитоцубаси сообщает своей подруге, что стала богиней. Как, почему, какого чёрта – кто это может знать? Да и не в том сейчас дело: стала, и всё тут. Интересно, что дальше-то будет?\n\rНа счастье Юрии к ней немедля подсаживается ее одноклассница Мацури Сайгуса (она живет при храме и в богах разбирается, как никто другой). Главное, говорит Мацури, теперь выяснить, какая именно богиня Юрия. А пока она будет с этим определяться, нужно, не мешкая, заняться исполнением просьб верующих. Еще следует оградить родной город от всяческих напастей – этим ведь все местечковые боги занимаются, верно?.. Словом, дел невпроворот, и на учебу времени почти не остается.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/408663.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/c899347eff698da61cca1128d43876361581d5ec.jpg",
+          "https://shikimori.one/system/screenshots/original/e1166b04714a598f369d406d7acda4565c2572db.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "драма",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Комедия",
+          "Повседневность",
+          "Сверхъестественное"
+        ],
+        "anime_studios": [
+          "Brain's Base"
+        ],
+        "kinopoisk_rating": 5.9,
+        "kinopoisk_votes": 140,
+        "imdb_rating": 7.2,
+        "imdb_votes": 161,
+        "shikimori_rating": 7.4,
+        "shikimori_votes": 0,
+        "premiere_world": "2005-06-28",
+        "aired_at": "2005-06-29",
+        "released_at": "2005-09-27",
+        "rating_mpaa": "G",
+        "episodes_total": 12,
+        "episodes_aired": 0,
+        "actors": [
+          "Меган Тейлор Харви",
+          "Мако",
+          "Каори Минэ",
+          "Кэрри Сэвадж",
+          "Рика Моринага",
+          "Хантер МакКензи Остин",
+          "Дж.Д. Стоун",
+          "Джонни Йонг Бош",
+          "Лайам О’Брайэн",
+          "Стефани Ше"
+        ],
+        "directors": [
+          "Кодзи Масунари",
+          "Хироюки Хата",
+          "Даисукэ Тадзима",
+          "Даисукэ Такасима",
+          "Харумэ Косака",
+          "Кацуя Асано",
+          "Сэй Сампэй",
+          "Юу Йамашита",
+          "Масаси Исихама"
+        ],
+        "producers": [
+          "Саеко Мацуда",
+          "Томонори Отикоси",
+          "Юми Сату",
+          "Akeko Yokoyama",
+          "Ацуси Кадзи"
+        ],
+        "writers": [
+          "Бесамемучо",
+          "Хидэюки Курата"
+        ],
+        "composers": [
+          "Ёсихиро Икэ"
+        ],
+        "editors": [
+          "Масаки Сакамото"
+        ],
+        "designers": [
+          "Окама",
+          "Юкихиро Сибутани"
+        ],
+        "operators": [
+          "Atsuo Tsukioka"
+        ]
+      }
+    },
+    {
+      "id": "movie-52343",
+      "type": "anime",
+      "link": "",
+      "title": "В подземелье я пойду, там красавицу найду: Стрела Ориона",
+      "title_orig": "Gekijouban danjon ni deai o motomeru no wa machigatteiru daro ka: Orion no ya",
+      "other_title": "В подземелье я пойду, там красавицу найду! (фильм)",
+      "translation": {
+        "id": 761,
+        "title": "Onibaku",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1226783",
+      "imdb_id": "tt9526152",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9579",
+      "shikimori_id": "37348",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-24T12:29:36Z",
+      "updated_at": "2020-03-24T12:29:36Z",
+      "material_data": {
+        "title": "В подземелье я пойду, там красавицу найду: Стрела Ориона",
+        "title_en": "Gekijouban danjon ni deai o motomeru no wa machigatteiru daro ka: Orion no ya",
+        "other_titles": [
+          "Разве плохо искать себе пару в подземелье? Стрела Ориона",
+          "DanMachi Movie",
+          "Is It Wrong That I Want to Meet You in a Dungeon Movie"
+        ],
+        "other_titles_en": [
+          "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion"
+        ],
+        "other_titles_jp": [
+          "劇場版 ダンジョンに出会いを求めるのは間違っているだろうか -オリオンの矢-"
+        ],
+        "anime_license_name": "Разве плохо искать себе пару в подземелье? Стрела Ориона",
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "Жизнь в Орарио кипит как никогда: сегодня Боголуние — праздник, придуманный ещё до сошествия богов в мир смертных. И пока авантюрист Белл Кранел и его покровительница Гестия бродят между пёстрыми лавками и множеством огней, весь город с недосягаемых высот окутывает бледным светом луна, молчаливо ожидающая, когда на сцену поднимется герой, о котором будет сложена новая сага.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1226783.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/ae22d927e45c7a7e1753ede7fc07685831068152.jpg",
+          "https://shikimori.one/system/screenshots/original/2e65fe8ccd578d3d57a178fdaceda750e9b573d0.jpg"
+        ],
+        "duration": 82,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Приключения",
+          "Романтика",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "J.C.Staff"
+        ],
+        "kinopoisk_rating": 6.8,
+        "kinopoisk_votes": 2335,
+        "imdb_rating": 6.8,
+        "imdb_votes": 669,
+        "shikimori_rating": 7.44,
+        "shikimori_votes": 6779,
+        "premiere_world": "2019-02-15",
+        "aired_at": "2019-02-15",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": -1,
+        "actors": [
+          "Ёсицугу Мацуока",
+          "Инори Минасэ",
+          "Маая Сакамото",
+          "Маая Утида",
+          "Саори Оониси",
+          "Сома Саито",
+          "Саори Хаями",
+          "Сидзука Исигами",
+          "Харука Томацу",
+          "Ёсимаса Хосоя"
+        ],
+        "directors": [
+          "Кацуси Сакураби"
+        ],
+        "writers": [
+          "Фудзино Омори"
+        ],
+        "composers": [
+          "Кэидзи Инаи"
+        ]
+      }
+    },
+    {
       "id": "movie-52342",
       "type": "anime",
       "link": "",
@@ -1217,7 +1926,7 @@
         "imdb_rating": 7.6,
         "imdb_votes": 834,
         "shikimori_rating": 7.9,
-        "shikimori_votes": 9709,
+        "shikimori_votes": 9792,
         "premiere_world": "2020-01-06",
         "aired_at": "2020-01-06",
         "released_at": "2020-03-23",
@@ -2079,7 +2788,7 @@
         "imdb_rating": 6.3,
         "imdb_votes": 140,
         "shikimori_rating": 6.91,
-        "shikimori_votes": 1575,
+        "shikimori_votes": 1603,
         "premiere_world": "2019-10-12",
         "aired_at": "2019-10-12",
         "released_at": "2020-03-28",
@@ -3538,8 +4247,8 @@
         "anime_studios": [
           "Haoliners Animation League"
         ],
-        "shikimori_rating": 6.46,
-        "shikimori_votes": 430,
+        "shikimori_rating": 6.44,
+        "shikimori_votes": 437,
         "aired_at": "2020-01-01",
         "released_at": "2020-03-11",
         "rating_mpaa": "PG-13",
@@ -8184,9 +8893,9 @@
           "фэнтези"
         ],
         "kinopoisk_rating": 7.1,
-        "kinopoisk_votes": 211,
+        "kinopoisk_votes": 216,
         "imdb_rating": 7.2,
-        "imdb_votes": 114,
+        "imdb_votes": 116,
         "premiere_world": "2020-01-22",
         "actors": [
           "Тхэгён",
@@ -8599,711 +9308,6 @@
         "rating_mpaa": "PG-13",
         "episodes_total": 1,
         "episodes_aired": 0
-      }
-    },
-    {
-      "id": "movie-52206",
-      "type": "anime",
-      "link": "",
-      "title": "Ван Пис 3",
-      "title_orig": "One Piece Movie 3: Chinjuu-jima no Chopper Oukoku",
-      "other_title": "Ван-Пис: Фильм третий",
-      "translation": {
-        "id": 1048,
-        "title": "Евгения Лурье",
-        "type": "voice"
-      },
-      "year": 2002,
-      "kinopoisk_id": "281402",
-      "imdb_id": "tt0997084",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2172",
-      "shikimori_id": "461",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-22T22:04:07Z",
-      "updated_at": "2020-03-22T22:04:07Z",
-      "material_data": {
-        "title": "Ван Пис 3",
-        "title_en": "One Piece Movie 3: Chinjuu-jima no Chopper Oukoku",
-        "other_titles": [
-          "One Piece: Chinjou Shima no Chopper Oukoku"
-        ],
-        "other_titles_en": [
-          "One Piece: Chopper Kingdom of Strange Animal Island"
-        ],
-        "other_titles_jp": [
-          "ワンピース 珍獣島のチョッパー王国"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2002,
-        "tagline": "Tony T. Chopper, the new Animal King!",
-        "description": "Остров Короны изаестерн как место нахождения ценного артефакта - рогов Короля зверей. Охраняют сокровище местные зверюшки, два говорящих попугая и мальчик, сын убитого пиратами зоолога. По легенде в день, когда подводные рифы образуют корону вокруг острова, небеса пошлют зверям нового Короля. Так получилось, что на этот риф напоролся корабль Соломенной Шляпы, и упавшего с небес Тони-Тони Чоппера объявили Королем.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/281402.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/8ff26df83290a33c8f75390463fe731accfccc86.jpg",
-          "https://shikimori.one/system/screenshots/original/4cca6105b170e5380ac7c568fcf530265eab95cc.jpg"
-        ],
-        "duration": 56,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Приключения",
-          "Супер сила",
-          "Сёнен",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Toei Animation"
-        ],
-        "kinopoisk_rating": 6.6,
-        "kinopoisk_votes": 481,
-        "imdb_rating": 6.5,
-        "imdb_votes": 1148,
-        "shikimori_rating": 6.99,
-        "shikimori_votes": 1838,
-        "premiere_world": "2002-03-02",
-        "aired_at": "2002-03-02",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Такэси Аоно",
-          "Масаси Эбара",
-          "Тосико Фудзита",
-          "Даисукэ Гори",
-          "Хирата Хироаки",
-          "Кадзуя Накаи",
-          "Акэми Окамура",
-          "Аи Орикаса",
-          "Томокадзу Сэки",
-          "Маюми Танака"
-        ],
-        "directors": [
-          "Ацудзи Симидзу"
-        ],
-        "producers": [
-          "Масаки Мияути",
-          "Тан Такаива",
-          "Хидэки Ямасита"
-        ],
-        "writers": [
-          "Хироси Хасимото",
-          "Эйитиро Ода"
-        ],
-        "composers": [
-          "Кохэй Танака"
-        ],
-        "editors": [
-          "Синъити Фукумицу"
-        ],
-        "designers": [
-          "Юри Санан",
-          "Рюудзи Ёсиикэ"
-        ],
-        "operators": [
-          "Юмико Кадзивара"
-        ]
-      }
-    },
-    {
-      "id": "movie-52205",
-      "type": "anime",
-      "link": "",
-      "title": "Ван Пис 3",
-      "title_orig": "One Piece Movie 3: Chinjuu-jima no Chopper Oukoku",
-      "other_title": "Ван-Пис: Фильм третий",
-      "translation": {
-        "id": 827,
-        "title": "Persona99",
-        "type": "voice"
-      },
-      "year": 2002,
-      "kinopoisk_id": "281402",
-      "imdb_id": "tt0997084",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2172",
-      "shikimori_id": "461",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-22T22:03:23Z",
-      "updated_at": "2020-03-22T22:03:23Z",
-      "material_data": {
-        "title": "Ван Пис 3",
-        "title_en": "One Piece Movie 3: Chinjuu-jima no Chopper Oukoku",
-        "other_titles": [
-          "One Piece: Chinjou Shima no Chopper Oukoku"
-        ],
-        "other_titles_en": [
-          "One Piece: Chopper Kingdom of Strange Animal Island"
-        ],
-        "other_titles_jp": [
-          "ワンピース 珍獣島のチョッパー王国"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2002,
-        "tagline": "Tony T. Chopper, the new Animal King!",
-        "description": "Остров Короны изаестерн как место нахождения ценного артефакта - рогов Короля зверей. Охраняют сокровище местные зверюшки, два говорящих попугая и мальчик, сын убитого пиратами зоолога. По легенде в день, когда подводные рифы образуют корону вокруг острова, небеса пошлют зверям нового Короля. Так получилось, что на этот риф напоролся корабль Соломенной Шляпы, и упавшего с небес Тони-Тони Чоппера объявили Королем.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/281402.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/8ff26df83290a33c8f75390463fe731accfccc86.jpg",
-          "https://shikimori.one/system/screenshots/original/4cca6105b170e5380ac7c568fcf530265eab95cc.jpg"
-        ],
-        "duration": 56,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Приключения",
-          "Супер сила",
-          "Сёнен",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Toei Animation"
-        ],
-        "kinopoisk_rating": 6.6,
-        "kinopoisk_votes": 481,
-        "imdb_rating": 6.5,
-        "imdb_votes": 1148,
-        "shikimori_rating": 6.99,
-        "shikimori_votes": 1838,
-        "premiere_world": "2002-03-02",
-        "aired_at": "2002-03-02",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Такэси Аоно",
-          "Масаси Эбара",
-          "Тосико Фудзита",
-          "Даисукэ Гори",
-          "Хирата Хироаки",
-          "Кадзуя Накаи",
-          "Акэми Окамура",
-          "Аи Орикаса",
-          "Томокадзу Сэки",
-          "Маюми Танака"
-        ],
-        "directors": [
-          "Ацудзи Симидзу"
-        ],
-        "producers": [
-          "Масаки Мияути",
-          "Тан Такаива",
-          "Хидэки Ямасита"
-        ],
-        "writers": [
-          "Хироси Хасимото",
-          "Эйитиро Ода"
-        ],
-        "composers": [
-          "Кохэй Танака"
-        ],
-        "editors": [
-          "Синъити Фукумицу"
-        ],
-        "designers": [
-          "Юри Санан",
-          "Рюудзи Ёсиикэ"
-        ],
-        "operators": [
-          "Юмико Кадзивара"
-        ]
-      }
-    },
-    {
-      "id": "movie-52204",
-      "type": "anime",
-      "link": "",
-      "title": "Блич OVA-1",
-      "title_orig": "Bleach: Memories in the Rain",
-      "other_title": "Блич: Воспоминания под дождем",
-      "translation": {
-        "id": 1175,
-        "title": "Lisek",
-        "type": "voice"
-      },
-      "year": 2005,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4824",
-      "shikimori_id": "762",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-22T22:02:22Z",
-      "updated_at": "2020-03-22T22:02:22Z",
-      "material_data": {
-        "title": "Блич: Воспоминания под дождём",
-        "title_en": "Bleach: Memories in the Rain",
-        "other_titles": [
-          "Bleach: Jump Festa 2004",
-          "ブリーチ Memories in the Rain"
-        ],
-        "other_titles_en": [
-          "Bleach: Memories in the Rain"
-        ],
-        "other_titles_jp": [
-          "BLEACH Memories in the Rain"
-        ],
-        "anime_kind": "special",
-        "anime_status": "released",
-        "description": "Куросаки Ичиго идёт с семьёй на могилу своей матери и встречает там пустого, который убил её 6 лет назад. Он сражается с ним в бою за честь, пытаясь во что бы то ни стало отомстить за смерть матери.\r\nЭто специальный эпизод, повторяющий события 8 и 9 серии основного сериала.",
-        "poster_url": "https://shikimori.one/system/animes/original/762.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/e57cb49ffa21708e7c5cc58aac9a6544ba77c3c7.jpg",
-          "https://shikimori.one/system/screenshots/original/1dd33e540ff666822f666394251804195fe68670.jpg"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Приключения",
-          "Сверхъестественное",
-          "Сёнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Studio Pierrot"
-        ],
-        "shikimori_rating": 7.15,
-        "shikimori_votes": 3904,
-        "aired_at": "2004-12-18",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0
-      }
-    },
-    {
-      "id": "movie-52203",
-      "type": "anime",
-      "link": "",
-      "title": "Девятый ковчег",
-      "title_orig": "Ark IX",
-      "other_title": "アークIX",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 2013,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1389",
-      "shikimori_id": "17395",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-22T21:59:28Z",
-      "updated_at": "2020-03-22T21:59:28Z",
-      "material_data": {
-        "title": "Девятый ковчег",
-        "title_en": "Ark IX",
-        "other_titles_en": [
-          "Ark Nine"
-        ],
-        "other_titles_jp": [
-          "アークIX"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "description": "Гигантская стена разделила мир на две части, чтобы предотвратить распространение эпидемии «Чёрный туман». Для того, чтобы приютить беженцев, были построены искусственные города — «Ковчеги».\r\nОднажды, частному детективу Эниши Шидо, работающему в девятом Ковчеге, было поручено поймать вора. И это простое расследование приведёт его к большому заговору.",
-        "poster_url": "https://shikimori.one/system/animes/original/17395.jpg",
-        "anime_genres": [
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Hoods Entertainment"
-        ],
-        "shikimori_rating": 5.16,
-        "shikimori_votes": 268,
-        "aired_at": "2013-07-02",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0
-      }
-    },
-    {
-      "id": "serial-24020",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Сервамп [ТВ]",
-      "title_orig": "Servamp",
-      "other_title": "Слуга Вампир",
-      "translation": {
-        "id": 739,
-        "title": "Animedia",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1008893",
-      "imdb_id": "tt5861440",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8651",
-      "shikimori_id": "31229",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-03-22T21:56:13Z",
-      "updated_at": "2020-03-22T21:56:13Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/616108/bd9f423022bf694e459fe85576559f12/720p",
-            "2": "//aniqit.com/seria/616109/7f4ab5e7f0d6e89c5971ccdbe56ac345/720p",
-            "3": "//aniqit.com/seria/616110/1b68a6fdba1fe3ac73e9e05ecd422296/720p",
-            "4": "//aniqit.com/seria/616111/eff84396a4b0a956afba6d53c40e7968/720p",
-            "5": "//aniqit.com/seria/616112/b98b73f8673b06dc70d4fcc11df63695/720p",
-            "6": "//aniqit.com/seria/616113/a64b6a7cee7d187fcddecab9bbf31bd9/720p",
-            "7": "//aniqit.com/seria/616114/85af88be45fe9f1c942629f088d406c6/720p",
-            "8": "//aniqit.com/seria/616115/dfc2a40eba69ac540f710baa84200d37/720p",
-            "9": "//aniqit.com/seria/616116/dd9f388beaccad9dd3bc5c7293d47205/720p",
-            "10": "//aniqit.com/seria/616117/00a5b38db441b7ca6daa9b9810086297/720p",
-            "11": "//aniqit.com/seria/616118/1f057118b0896e705d21208e9c0dd902/720p",
-            "12": "//aniqit.com/seria/616119/9871462c9acc329cde8729fbbad2375e/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Слуга Вампир",
-        "title_en": "Servamp",
-        "other_titles": [
-          "Слуга-вампир"
-        ],
-        "other_titles_en": [
-          "SERVAMP"
-        ],
-        "other_titles_jp": [
-          "SERVAMP（サーヴァンプ）"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2016,
-        "description": "15-летний Махиру терпеть не может всякие сложности в жизни, предпочитая простоту и ясность во всем. Однажды парень подбирает на дороге черного котика и дает тому соответствующее имя — Куро (по-японски - «черный»). Только вот кот оказывается совсем не котом, а неким сервампом, как он сам изволил представиться. И приходит пора Махиру попрощаться с простотой и ясностью мира, ведь теперь между ним и «котом» заключен контракт. Махиру втягивают в войну между семью сервампами и их восьмым братом Цубаки.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1008893.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/dac96e8e643d6a5fe5b29ff332fa7d2dd0a8a416.jpg",
-          "https://shikimori.one/system/screenshots/original/19b2dbeabb07ea7ed078f84979dd9d13ab13a812.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "драма",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Вампиры",
-          "Дзёсей",
-          "Драма",
-          "Комедия",
-          "Сверхъестественное",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Brain's Base",
-          "Platinum Vision"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 2087,
-        "imdb_rating": 6.3,
-        "imdb_votes": 276,
-        "shikimori_rating": 6.93,
-        "shikimori_votes": 11254,
-        "premiere_world": "2016-07-05",
-        "aired_at": "2016-07-05",
-        "released_at": "2016-09-20",
-        "rating_mpaa": "R",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Юки Кадзи",
-          "Такума Тэрасима",
-          "Алехандро Сааб",
-          "Брайан Олвера",
-          "Кристен МакГуайр",
-          "Ёсицугу Мацуока",
-          "Симадзаки Нобунага"
-        ],
-        "composers": [
-          "Кэндзи Каваи"
-        ]
-      }
-    },
-    {
-      "id": "serial-24019",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Чемпион!",
-      "title_orig": "Campione! Matsurowanu Kamigami to Kamigoroshi no Maou",
-      "other_title": "カンピオーネ! ~まつろわぬ神々と神殺しの魔王~",
-      "translation": {
-        "id": 1236,
-        "title": "AnimeSpace",
-        "type": "voice"
-      },
-      "year": 2012,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "692461",
-      "imdb_id": "tt2250160",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1080",
-      "shikimori_id": "12293",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-03-22T21:51:51Z",
-      "updated_at": "2020-03-22T21:51:51Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/616095/825d604928b7d33f2ba4ea08599727a1/720p",
-            "2": "//aniqit.com/seria/616096/c48ba93859950353dc0510b3142f5774/720p",
-            "3": "//aniqit.com/seria/616097/d00f7fc6e66613f25c0bf062f8fe8b2e/720p",
-            "4": "//aniqit.com/seria/616098/c1aacc6847e9876937114693acceb114/720p",
-            "5": "//aniqit.com/seria/616099/4b9fc01b999f9ddde08341683fe15bdc/720p",
-            "6": "//aniqit.com/seria/616100/740ba266737594ede7d066922dd59265/720p",
-            "7": "//aniqit.com/seria/616101/ec2ab93b1d98f80613c657b951da67da/720p",
-            "8": "//aniqit.com/seria/616102/cfd13cbd2388a1afe1666a524eaa14b0/720p",
-            "9": "//aniqit.com/seria/616103/da91af5ecdb08a97e0247c962543f943/720p",
-            "10": "//aniqit.com/seria/616104/670c0979893006d7db6b1aae19891ec1/720p",
-            "11": "//aniqit.com/seria/616105/2c64d9d8a42e4d4d4f3e9e1395f23a92/720p",
-            "12": "//aniqit.com/seria/616106/25cc9dc35260a5d8abf88749537284c3/720p",
-            "13": "//aniqit.com/seria/616107/3456c40c46ce113c9041bbcc4771a1c8/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Чемпион!",
-        "title_en": "Campione!",
-        "other_titles": [
-          "Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou"
-        ],
-        "other_titles_en": [
-          "Campione!"
-        ],
-        "other_titles_jp": [
-          "カンピオーネ！ ～まつろわぬ神々と神殺しの魔王～"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2012,
-        "description": "Самое страшное существо во Вселенной – японский школьник, вступивший в пору весны юности! Потому 16-летний Годо Кусанаги ничуть не удивился, когда чудаковатый дедушка послал его, не знающего ни дороги, ни языка, в Италию - вернуть старой знакомой некую каменную табличку. Бравый парень тем более не потерялся, когда узнал, что кругом бродят маги, чудища и древние боги. Потому, победив с помощью чудесной таблички и резковатой красотки Эрики Бланделли персидского бога Веретрагну, Кусанаги спокойно принял божественные способности, став одним из семи супервоинов, способных поражать даже небожителей...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/692461.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/3f9363715f68629f7fbb7a8ef9901c3626d37a08.jpg",
-          "https://shikimori.one/system/screenshots/original/30b5730ffc70c8eeeccce7b8442688f3284e6eea.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Комедия",
-          "Магия",
-          "Романтика",
-          "Фэнтези",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Diomedéa"
-        ],
-        "kinopoisk_rating": 6.6,
-        "kinopoisk_votes": 463,
-        "imdb_rating": 7,
-        "imdb_votes": 910,
-        "shikimori_rating": 7.06,
-        "shikimori_votes": 8649,
-        "premiere_world": "2012-07-06",
-        "aired_at": "2012-07-06",
-        "released_at": "2012-09-28",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 13,
-        "episodes_aired": 13,
-        "actors": [
-          "Карли Мосье",
-          "Ёко Хикаса",
-          "Ёсицугу Мацуока",
-          "Фумихико Татики"
-        ],
-        "directors": [
-          "Кэидзо Кусакава"
-        ],
-        "producers": [
-          "Джон Лэдфорд"
-        ]
-      }
-    },
-    {
-      "id": "serial-23989",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Семь смертных грехов [ТВ-2]",
-      "title_orig": "Nanatsu no Taizai: Imashime no Fukkatsu",
-      "other_title": "Семь смертных грехов: Возрождение заповедей / Семь смертных грехов 2: Возрождение заповедей",
-      "translation": {
-        "id": 739,
-        "title": "Animedia",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 2,
-      "last_episode": 24,
-      "episodes_count": 24,
-      "kinopoisk_id": "843954",
-      "imdb_id": "tt3909224",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8964",
-      "shikimori_id": "34577",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-03-22T16:16:52Z",
-      "updated_at": "2020-03-22T21:51:39Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/615539/52041003d2cf1da64fecbd8ab9b617a4/720p",
-            "2": "//aniqit.com/seria/615540/5e76dbd750afde03c89471c60d665d28/720p",
-            "3": "//aniqit.com/seria/615541/96abf829ab81a29f4aabd5838648c4ce/720p",
-            "4": "//aniqit.com/seria/615542/5e966149b287aa8650ff477be38d916f/720p",
-            "5": "//aniqit.com/seria/615543/4d5b0717ffbfb019b6b6c122a34014a5/720p",
-            "6": "//aniqit.com/seria/615544/57c1d957862e1a5b68f50e87a64f6f37/720p",
-            "7": "//aniqit.com/seria/615545/43897f1a4494f7059989070a974682a8/720p",
-            "8": "//aniqit.com/seria/615546/201e3dbc3d9ec99fb9994a58d91993a0/720p",
-            "9": "//aniqit.com/seria/615547/cb98361c96ebf837a242589622f4b3eb/720p",
-            "10": "//aniqit.com/seria/615548/341fce9a603f87be2609766303203ffb/720p",
-            "11": "//aniqit.com/seria/615549/e7fbe91ec23f374ff24e62e754c30710/720p",
-            "12": "//aniqit.com/seria/615550/3112fbcd4b7258cad2b25e0f49aabb47/720p",
-            "13": "//aniqit.com/seria/615551/f94901615a488c0e20bd1d6a0ae516bf/720p",
-            "14": "//aniqit.com/seria/615552/a1a0173e769e580804f90957300c0bf6/720p",
-            "15": "//aniqit.com/seria/615553/e3340c2463ea08d45bbdfc36976391e2/720p",
-            "16": "//aniqit.com/seria/615554/a33ed2870b5eadc6ac25d17884a9bbd5/720p",
-            "17": "//aniqit.com/seria/615555/5c8350e0f5eee2641ae1a691776d8406/720p",
-            "18": "//aniqit.com/seria/615556/90fed74d9fbe20098aece43bc58dde95/720p",
-            "19": "//aniqit.com/seria/615557/cec9ae83f53e36e9dc454af2ce3bcb30/720p",
-            "20": "//aniqit.com/seria/615558/6f0e56a8a32ab181016e36d0db606c00/720p",
-            "21": "//aniqit.com/seria/615559/da144afd3df395698e47d618b7d9e55d/720p",
-            "22": "//aniqit.com/seria/615560/48aab893cd940de0b3f80a99f9d0d60d/720p",
-            "23": "//aniqit.com/seria/616093/5469578c65bdee8c5193c8293cbf17b2/720p",
-            "24": "//aniqit.com/seria/616094/bd62e1a359035ff8e513eef09f6e8d39/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Семь смертных грехов",
-        "title_en": "Nanatsu no Taizai: The Seven Deadly Sins",
-        "other_titles": [
-          "The Seven Deadly Sins: Revival of the Commandments"
-        ],
-        "other_titles_en": [
-          "The Seven Deadly Sins: Revival of the Commandments"
-        ],
-        "other_titles_jp": [
-          "七つの大罪 戒めの復活"
-        ],
-        "anime_license_name": "Семь смертных грехов: Возрождение заповедей",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2014,
-        "description": "Семь смертных грехов - давным-давно так называли семерых могущественных рыцарей, обвинённых в заговоре с целью свергнуть короля Британии. Воины были казнены благородным Орденом священных рыцарей, однако ходят слухи, что Семь грехов ещё живы. Десять лет спустя священные рыцари устроили государственный переворот и вероломно убили монарха, установив собственную тиранию в королевстве. Элизабет, третья дочь короля, отправляется на поиски Семи смертных грехов, дабы, заручившись их поддержкой, вернуть в страну закон и справедливость.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/843954.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/8a86850d537a4c3ad1d150a788c3055b1543ff88.png",
-          "https://shikimori.one/system/screenshots/original/cfba22110fc96f424f0184c4a31b8b2a53e99472.png"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Магия",
-          "Приключения",
-          "Сверхъестественное",
-          "Сёнен",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "A-1 Pictures"
-        ],
-        "kinopoisk_rating": 7.8,
-        "kinopoisk_votes": 10772,
-        "imdb_rating": 8.1,
-        "imdb_votes": 22860,
-        "shikimori_rating": 7.86,
-        "shikimori_votes": 34633,
-        "premiere_world": "2014-09-01",
-        "aired_at": "2018-01-13",
-        "released_at": "2018-06-30",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 24,
-        "episodes_aired": 24,
-        "actors": [
-          "Юки Кадзи",
-          "Сора Амамия",
-          "Мисаки Куно",
-          "Аои Юки",
-          "Тацухиса Судзуки",
-          "Дзюн Фукуяма",
-          "Маая Сакамото",
-          "Кацуюки Конъиси",
-          "Мамору Мияно",
-          "Такахиро Сакурай"
-        ],
-        "directors": [
-          "Томокадзу Токоро",
-          "Тэнсаи Окамура"
-        ],
-        "producers": [
-          "Такамицу Иноэ",
-          "Кодзуэ Канэнива",
-          "Кэнсукэ Татэиси",
-          "Рю Хасимото",
-          "Хиро Маруяма",
-          "Такуя Мацусита",
-          "Томонори Отикоси",
-          "Хироюки Симидзу"
-        ],
-        "writers": [
-          "Сётаро Суга"
-        ],
-        "composers": [
-          "Хироюки Савано"
-        ]
       }
     }
   ]

@@ -1,6 +1,542 @@
 {
   "results": [
     {
+      "id": "movie-41901",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Темные времена",
+      "title_orig": "Dark Age",
+      "other_title": "Век невежества",
+      "translation": {
+        "id": 583,
+        "title": "Живов",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "52762",
+      "imdb_id": "tt0092830",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-05T05:36:38Z",
+      "updated_at": "2019-09-05T05:36:38Z",
+      "material_data": {
+        "title": "Темные времена",
+        "title_en": "Dark Age",
+        "year": 1987,
+        "tagline": "Death is only one bite away.",
+        "description": "На австралийской Северной территории живёт гигантский морской крокодил, который охотится на людей. Смотрителю национального парка поручено избавить местное население от чудовища. Но охоте мешают аборигены, верящие, что в крокодиле живёт дух прошлого.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/52762.jpg",
+        "duration": 91,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "приключения",
+          "ужасы"
+        ],
+        "kinopoisk_rating": 5.9,
+        "kinopoisk_votes": 112,
+        "imdb_rating": 6.1,
+        "imdb_votes": 939,
+        "premiere_world": "1987-05-21",
+        "rating_mpaa": "R",
+        "minimal_age": 18,
+        "actors": [
+          "Джон Джэррэт",
+          "Никки Когхилл",
+          "Макс Фиппс",
+          "Бёрнэм Бёрнэм",
+          "Дэвид Галпилил",
+          "Рэй Мигер",
+          "Джефф Эшби",
+          "Пол Бертрам",
+          "Рон Бланчард",
+          "Джерри Дагган"
+        ],
+        "directors": [
+          "Арч Николсон"
+        ],
+        "producers": [
+          "Бейзил Эпплби",
+          "Билл Гэвин",
+          "Энтони И. Гиннэйн"
+        ],
+        "writers": [
+          "Соня Борг",
+          "Стивен Кросс",
+          "Тони Морфетт",
+          "Грэхам Уэбб"
+        ],
+        "composers": [
+          "Дэнни Бекерманн"
+        ],
+        "editors": [
+          "Адриан Карр"
+        ],
+        "designers": [
+          "Дэвид Коппинг"
+        ],
+        "operators": [
+          "Эндрю Лесни"
+        ]
+      }
+    },
+    {
+      "id": "movie-41878",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Наш дом",
+      "title_orig": "Watashitachi no ie",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1111724",
+      "imdb_id": "tt7797250",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-05T01:53:58Z",
+      "updated_at": "2019-09-05T05:25:26Z",
+      "material_data": {
+        "title": "Наш дом",
+        "title_en": "Watashitachi no ie",
+        "year": 2017,
+        "description": "С тех пор, как отец пропал без вести, Сэри живёт с матерью. Девочке скоро исполнится 14 - сложный возраст, когда бурлят противоречивые эмоции. И как раз в это время Сэри узнаёт, что её мать начала встречаться с мужчиной.\n\rСана просыпается на пароме. Она ничего не помнит о себе и о том, как сюда попала. Здесь она повстречает Токо, и та заберёт девушку к себе домой.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1111724.jpg",
+        "duration": 80,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 6.2,
+        "imdb_votes": 210,
+        "premiere_world": "2017-09-16",
+        "actors": [
+          "Нодока Каваниси",
+          "Юкико Ясуно",
+          "Мэи Фудзивара",
+          "Масанори Кикудзава",
+          "Мариво Осава"
+        ],
+        "directors": [
+          "Юи Киёхара"
+        ],
+        "producers": [
+          "Рётаро Икэмото",
+          "Даи Сано"
+        ],
+        "writers": [
+          "Норико Като",
+          "Юи Киёхара"
+        ],
+        "composers": [
+          "Кэйити Сугимото"
+        ],
+        "editors": [
+          "Жанибек Камбаралиев"
+        ],
+        "designers": [
+          "Ёко Като"
+        ],
+        "operators": [
+          "Рёта Тида"
+        ]
+      }
+    },
+    {
+      "id": "movie-41876",
+      "type": "anime",
+      "link": "",
+      "title": "Агрессивная Рэцуко: Мы желаем вам метал-Рождества",
+      "title_orig": "Aggretsuko: We Wish You a Metal Christmas",
+      "other_title": "Aggressive Retsuko: We Wish You a Metal Christmas /  \tアグレッシブ烈子: We Wish You a Metal Christmas",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1354920",
+      "imdb_id": "tt9416906",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9928",
+      "shikimori_id": "38815",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-05T01:09:00Z",
+      "updated_at": "2019-09-05T01:09:00Z",
+      "material_data": {
+        "title": "Агрессивная Рэцуко: Мы желаем Вам метал-Рождества",
+        "title_en": "Aggretsuko: We Wish You a Metal Christmas",
+        "other_titles_en": [
+          "Aggretsuko: We Wish You a Metal Christmas"
+        ],
+        "other_titles_jp": [
+          "アグレッシブ烈子: We Wish You a Metal Christmas"
+        ],
+        "anime_license_name": "Агрессивная Рэцуко: Металлическое Рождество",
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "year": 2018,
+        "description": "Рэцуко озабочена количеством «лайков» в Instagram и самовыражением через социальные сети. Теперь Цунода стала для панды своего рода наставником социальных сетей, критикуя почти каждые посты Рэцуко, дабы в конечном итоге она стала настоящей «Instagram-девочкой». Но вся эта суета может привести к тому, что планы Рэцуко на Рождество просто-напросто не смогут воплотиться в жизнь.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1354920.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/3e5a5a270d4a0f41a7b820bda221a98c2fbeb820.jpg",
+          "https://shikimori.one/system/screenshots/original/70b47a61b4a92e7a02c73d8e3c0cd73522fcf303.jpg"
+        ],
+        "duration": 22,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "короткометражка",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Повседневность"
+        ],
+        "anime_studios": [
+          "Fanworks"
+        ],
+        "shikimori_rating": 7.28,
+        "shikimori_votes": 654,
+        "premiere_world": "2018-12-20",
+        "aired_at": "2018-12-20",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": 1,
+        "actors": [
+          "Каорип",
+          "Синго Като",
+          "Комэгуми Коивасаки",
+          "Маки Цурута",
+          "Сота Араи",
+          "Рина Иноэ",
+          "Юки Такахаси",
+          "Рарэко",
+          "Тихару Саса"
+        ],
+        "directors": [
+          "Рарэко"
+        ],
+        "writers": [
+          "Рарэко"
+        ]
+      }
+    },
+    {
+      "id": "movie-41875",
+      "type": "anime",
+      "link": "",
+      "title": "Любовь - проблема для отаку OVA",
+      "title_orig": "Otaku ni Koi wa Muzukashii: Youth",
+      "other_title": "Так сложно любить отаку: Молодые годы / Любовь – проблема для отаку: Молодость",
+      "translation": {
+        "id": 873,
+        "title": "AniPLague",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1354837",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9828",
+      "shikimori_id": "38349",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-05T01:05:20Z",
+      "updated_at": "2019-09-05T01:05:20Z",
+      "material_data": {
+        "title": "Любовь – проблема для отаку: Молодость",
+        "title_en": "Wotaku ni Koi wa Muzukashii: Youth",
+        "other_titles": [
+          "Очень трудно любить отаку OVA",
+          "Любовь — проблема для отаку OVA",
+          "Wotaku ni Koi wa Muzukashii OVA",
+          "It's Difficult to Love an Otaku OVA",
+          "Wotakoi: Love is Hard for Otaku OVA"
+        ],
+        "other_titles_jp": [
+          "ヲタクに恋は難しい OAD"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "ongoing",
+        "year": 2019,
+        "description": "Ответвление аниме-сериала, выпущенное в комплекте с седьмым томом манги авторства Fujita, в котором рассказывается о перипетиях любви в жизни повзрослевших отаку. Дополнительный эпизод раскроет зрителю тайну зарождения романтических чувств между Таро Кабакурой и Ханако Коянаги, которые познакомились, ещё будучи учениками одной школы.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1354837.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/37c757ee20de4c1760459ed7567802db05a4cd3b.jpg",
+          "https://shikimori.one/system/screenshots/original/b4df4618bcbbd18936e5c501dbaa53b4189547d9.jpg"
+        ],
+        "duration": 22,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "короткометражка",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Повседневность",
+          "Романтика"
+        ],
+        "anime_studios": [
+          "A-1 Pictures",
+          "Lapin Track"
+        ],
+        "shikimori_rating": 7.86,
+        "shikimori_votes": 3862,
+        "premiere_world": "2019-03-29",
+        "aired_at": "2019-03-29",
+        "released_at": "2021-02-26",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 2,
+        "episodes_aired": 1,
+        "actors": [
+          "Томокадзу Сугита",
+          "Миюки Савасиро",
+          "Ариса Датэ",
+          "Кэнто Ито"
+        ],
+        "directors": [
+          "Ёсимаса Хираикэ"
+        ]
+      }
+    },
+    {
+      "id": "movie-41874",
+      "type": "anime",
+      "link": "",
+      "title": "Любовь - проблема для отаку OVA",
+      "title_orig": "Otaku ni Koi wa Muzukashii: Youth",
+      "other_title": "Так сложно любить отаку: Молодые годы / Любовь – проблема для отаку: Молодость",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1354837",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9828",
+      "shikimori_id": "38349",
+      "quality": "BDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-05T01:03:23Z",
+      "updated_at": "2019-09-05T01:03:23Z",
+      "material_data": {
+        "title": "Любовь – проблема для отаку: Молодость",
+        "title_en": "Wotaku ni Koi wa Muzukashii: Youth",
+        "other_titles": [
+          "Очень трудно любить отаку OVA",
+          "Любовь — проблема для отаку OVA",
+          "Wotaku ni Koi wa Muzukashii OVA",
+          "It's Difficult to Love an Otaku OVA",
+          "Wotakoi: Love is Hard for Otaku OVA"
+        ],
+        "other_titles_jp": [
+          "ヲタクに恋は難しい OAD"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "ongoing",
+        "year": 2019,
+        "description": "Ответвление аниме-сериала, выпущенное в комплекте с седьмым томом манги авторства Fujita, в котором рассказывается о перипетиях любви в жизни повзрослевших отаку. Дополнительный эпизод раскроет зрителю тайну зарождения романтических чувств между Таро Кабакурой и Ханако Коянаги, которые познакомились, ещё будучи учениками одной школы.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1354837.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/37c757ee20de4c1760459ed7567802db05a4cd3b.jpg",
+          "https://shikimori.one/system/screenshots/original/b4df4618bcbbd18936e5c501dbaa53b4189547d9.jpg"
+        ],
+        "duration": 22,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "короткометражка",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Повседневность",
+          "Романтика"
+        ],
+        "anime_studios": [
+          "A-1 Pictures",
+          "Lapin Track"
+        ],
+        "shikimori_rating": 7.86,
+        "shikimori_votes": 3862,
+        "premiere_world": "2019-03-29",
+        "aired_at": "2019-03-29",
+        "released_at": "2021-02-26",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 2,
+        "episodes_aired": 1,
+        "actors": [
+          "Томокадзу Сугита",
+          "Миюки Савасиро",
+          "Ариса Датэ",
+          "Кэнто Ито"
+        ],
+        "directors": [
+          "Ёсимаса Хираикэ"
+        ]
+      }
+    },
+    {
+      "id": "serial-18336",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Мирная жизнь братьев",
+      "title_orig": "Oneuldo hyeongjeneun pyeonghwaropda",
+      "other_title": "Мы мирные братья / My brother is peaceful today / We are peaceful brothers",
+      "translation": {
+        "id": 639,
+        "title": "SoftBox",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 1,
+      "episodes_count": 1,
+      "kinopoisk_id": "1262890",
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-09-04T21:09:44Z",
+      "updated_at": "2019-09-04T21:31:57Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/480548/c3279f79ed7012727d17f6b2019c52dd/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Мирная жизнь братьев",
+        "title_en": "Oneuldo hyeongjeneun pyeonghwaropda",
+        "year": 2017,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1262890.jpg",
+        "duration": 5,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "premiere_world": "2017-10-13",
+        "actors": [
+          "Стив Но",
+          "Ким Мин-гю",
+          "Ким Да-е",
+          "Ким Чхэ-ын"
+        ]
+      }
+    },
+    {
+      "id": "serial-12378",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Гость",
+      "title_orig": "Son: The Guest",
+      "other_title": "Рука: Призрак / The Guest / 손: The Guest / Hand: The Guest",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "1115712",
+      "imdb_id": "tt8801670",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-09-17T09:27:18Z",
+      "updated_at": "2019-09-04T15:32:36Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/331645/5a9300a3a181bd58121017f2eefbacb0/720p",
+            "2": "//kodik.cc/seria/356402/60fe40ace4a9f06b99d457ff0a441023/720p",
+            "3": "//kodik.cc/seria/356403/e3a53195c1a65f3323b60d1b8bb66972/720p",
+            "4": "//kodik.cc/seria/356404/f9641873211b758f9cf0e441bc1628e0/720p",
+            "5": "//kodik.cc/seria/356405/859a870ab4cbf233646c5a408be5c251/720p",
+            "6": "//kodik.cc/seria/356406/fccf7936815402dabfee8bc70f1e9d20/720p",
+            "7": "//kodik.cc/seria/356407/f4bfe3de40179f8e51534a03778bef6d/720p",
+            "8": "//kodik.cc/seria/356408/f952d54693ba37002fa9d8fb4dcca773/720p",
+            "9": "//kodik.cc/seria/356409/4a85f898e1600826ace78421e6a3b2fe/720p",
+            "10": "//kodik.cc/seria/356410/9bc875bd79ccdfabbd4ee9fbbce39894/720p",
+            "11": "//kodik.cc/seria/356411/794d0afd0744c3dc3d621a92fe67df40/720p",
+            "12": "//kodik.cc/seria/356412/d20d5c90726b5e44755837ef49c199c1/720p",
+            "13": "//kodik.cc/seria/480452/8a430feba4d822af3c56cbdfd4a73be0/720p",
+            "14": "//kodik.cc/seria/480453/1553a135e2d047ced3197223eb87c22a/720p",
+            "15": "//kodik.cc/seria/480454/723f1a3bb31da6203483a168b75b69e9/720p",
+            "16": "//kodik.cc/seria/480455/0588459a3509f2026e32055ed14fbf5a/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Гость",
+        "title_en": "Son: The Guest",
+        "year": 2018,
+        "description": "20 лет назад в маленькой прибрежной деревушке произошла серия странных смертей, которую местные жители связали с легендой о вышедшем из моря злом духе Пак Иль-до. В результате тех жутких событий трое детей - потомок семьи шаманов, обладающий способностями медиума, младший брат местного священника и дочь полицейской - потеряли родных. Шли годы, но никто из них не забывал о произошедшем и сам пытался разобраться в причинах. И вот, в 2018 году судьба вновь сводит их вместе во время расследования странного убийства.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1115712.jpg",
+        "duration": 65,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "детектив",
+          "триллер",
+          "ужасы"
+        ],
+        "kinopoisk_rating": 7.9,
+        "kinopoisk_votes": 375,
+        "imdb_rating": 8.2,
+        "imdb_votes": 741,
+        "premiere_world": "2018-09-12",
+        "minimal_age": 16,
+        "actors": [
+          "Ким Дон-ук",
+          "Ким Джэ-ук",
+          "Чон Ын-чхэ",
+          "Ли Вон-джон",
+          "Пак Хо-сан",
+          "Ли Хэ-ён",
+          "Щин Су-хо",
+          "Ан Нэ-сан",
+          "Нам Мун-чхоль",
+          "Юн Джон-сок"
+        ],
+        "directors": [
+          "Ким Хон-сон"
+        ],
+        "writers": [
+          "Квон Со-ра",
+          "Со Джэ-вон"
+        ],
+        "composers": [
+          "Ким Тхэ-сон"
+        ]
+      }
+    },
+    {
       "id": "movie-41864",
       "type": "foreign-movie",
       "link": "",
@@ -183,7 +719,7 @@
           "мелодрама"
         ],
         "imdb_rating": 6.3,
-        "imdb_votes": 747,
+        "imdb_votes": 762,
         "premiere_world": "2019-06-21",
         "actors": [
           "Дилджит Досанджх",
@@ -4294,7 +4830,7 @@
           "драма"
         ],
         "imdb_rating": 7.9,
-        "imdb_votes": 8534,
+        "imdb_votes": 8677,
         "premiere_world": "2019-03-01",
         "actors": [
           "Сушант Сингх Раджпут",
@@ -5002,9 +5538,9 @@
           "мелодрама"
         ],
         "kinopoisk_rating": 7.5,
-        "kinopoisk_votes": 339,
+        "kinopoisk_votes": 356,
         "imdb_rating": 7.4,
-        "imdb_votes": 141,
+        "imdb_votes": 152,
         "premiere_world": "2019-05-31",
         "actors": [
           "Джаспер Лю",
@@ -7104,568 +7640,6 @@
         ],
         "operators": [
           "Ло Дун"
-        ]
-      }
-    },
-    {
-      "id": "movie-41509",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Неуязвимая мишень",
-      "title_orig": "Nam yee boon sik",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2007,
-      "kinopoisk_id": "280945",
-      "imdb_id": "tt0995739",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-26T12:11:11Z",
-      "updated_at": "2019-08-26T12:11:11Z",
-      "material_data": {
-        "title": "Неуязвимая мишень",
-        "title_en": "Nam yee boon sik",
-        "year": 2007,
-        "description": "Во время ограбления инкассаторского броневика случайно погибает девушка, покупавшая обручальное кольцо в соседнем магазине. Ее жених, простой гонконгский полицейский, никак не может пережить смерть любимой, поэтому и соглашается отныне на самые отчаянные операции. Однажды его команда выходит на тех самых налетчиков, из-за которых и погибла его невеста. Отныне герой готов ради их поимки пойти на любые жертвы и что самое важное — таких как он еще двое...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/280945.jpg",
-        "duration": 129,
-        "countries": [
-          "Гонконг",
-          "Китай"
-        ],
-        "genres": [
-          "боевик",
-          "криминал",
-          "триллер"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 846,
-        "imdb_rating": 6.7,
-        "imdb_votes": 2786,
-        "premiere_world": "2007-07-19",
-        "rating_mpaa": "R",
-        "minimal_age": 16,
-        "actors": [
-          "Николас Тсе",
-          "Джейси Чан",
-          "Шон Юе",
-          "Джеки Ву",
-          "Лиза Лу",
-          "Энди Он",
-          "Кэнди Лю",
-          "Элэнн Квон",
-          "Сэм Ли",
-          "Кэн Ло"
-        ],
-        "directors": [
-          "Бенни Чан"
-        ],
-        "producers": [
-          "Бенни Чан",
-          "Чан Пан-чун",
-          "Кэри Чэн",
-          "Чунг Хонг Тат",
-          "Чи Сует Йинг",
-          "Элвин Лам",
-          "Дэниэл Лам",
-          "Стефен Лам",
-          "Дай Сун"
-        ],
-        "writers": [
-          "Бенни Чан",
-          "Чи-ман Лин",
-          "Мелоди Луи"
-        ],
-        "composers": [
-          "Энтони Чу"
-        ],
-        "editors": [
-          "Яу Чи-вай"
-        ],
-        "designers": [
-          "Билл Луи"
-        ],
-        "operators": [
-          "Kwok-Hung Chan",
-          "Ко Чиу-Лам"
-        ]
-      }
-    },
-    {
-      "id": "movie-41499",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "72 часа: мученик, который жив в наших сердцах",
-      "title_orig": "72 Hours: Martyr Who Never Died",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1221182",
-      "imdb_id": "tt9390222",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-26T09:12:10Z",
-      "updated_at": "2019-08-26T09:12:10Z",
-      "material_data": {
-        "title": "72 Hours: Martyr Who Never Died",
-        "title_en": "",
-        "year": 2019,
-        "duration": 130,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "военный",
-          "драма"
-        ],
-        "imdb_rating": 5.2,
-        "imdb_votes": 223,
-        "premiere_world": "2019-01-18",
-        "actors": [
-          "Avinash Dhyani",
-          "Yeshi Dema",
-          "Алка Эмин",
-          "Вирендра Саксена",
-          "Jeeshan Ali",
-          "Rudraksh Bahuguna",
-          "Prabhu Bhatt",
-          "Rishi Raj Bhatt",
-          "Sudeep Bhatt",
-          "Rohit Bisht"
-        ],
-        "directors": [
-          "Avinash Dhyani"
-        ],
-        "producers": [
-          "J.S. Rawat",
-          "Prashil Rawat",
-          "Tarun Singh Rawat",
-          "Hemal Rawat",
-          "Sahil Singh"
-        ],
-        "writers": [
-          "Rishi Bhatt",
-          "Avinash Dhyani"
-        ],
-        "composers": [
-          "Sunjoy Bose"
-        ],
-        "editors": [
-          "Ajay Varma",
-          "Ajay Verma"
-        ],
-        "designers": [
-          "Rudraksh Bahuguna",
-          "Saajan Chetri",
-          "Vinay Joshi",
-          "Prashant Kamboj",
-          "Charan Maharana",
-          "Tarihi Charan Maharana",
-          "Ajim Pathan",
-          "Dhananjay Dhyani",
-          "Suraj Negi",
-          "Gaurav Shama"
-        ],
-        "operators": [
-          "Harish Negi"
-        ]
-      }
-    },
-    {
-      "id": "movie-41473",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Супермен по-турецки",
-      "title_orig": "Süpermen Dönüyor",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1979,
-      "kinopoisk_id": "125086",
-      "imdb_id": "tt0392818",
-      "quality": "VHSRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-26T07:30:48Z",
-      "updated_at": "2019-08-26T07:30:48Z",
-      "material_data": {
-        "title": "Супермен по-турецки",
-        "title_en": "Süpermen Dönüyor",
-        "year": 1979,
-        "description": "Жители погибающей планеты Криптон, желая сохранить хотя бы напоминание о своем могуществе, отправляют в открытый космос ракету с ребенком. Ракета падает в турецком селе, где, затем, в обычной семье вырастает Тайфун - тот самый Сверхчеловек с Криптона. Все что у него осталось от погибшей Родины - криптоновый камень и сверхспособности, которые Тайфун решает направить на добрые дела.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/125086.jpg",
-        "duration": 67,
-        "countries": [
-          "Турция"
-        ],
-        "genres": [
-          "приключения",
-          "фантастика",
-          "фэнтези"
-        ],
-        "kinopoisk_rating": 2.9,
-        "kinopoisk_votes": 146,
-        "imdb_rating": 3.7,
-        "imdb_votes": 545,
-        "premiere_world": "2018-01-27",
-        "actors": [
-          "Тайфун Дэмир",
-          "Гюнгёр Байрак",
-          "Йылдырым Генджер",
-          "Эшреф Колчак",
-          "Нихат Ёзбек",
-          "Ресит Хазар",
-          "Seref Çokseker",
-          "Реха Юрдакул",
-          "Ekrem Dümer",
-          "Renan Fosforoglu"
-        ],
-        "directors": [
-          "Кунт Тулгар"
-        ],
-        "producers": [
-          "Кунт Тулгар",
-          "Мустафа Доган"
-        ],
-        "writers": [
-          "Нечдет Ток",
-          "Джо Шустер",
-          "Джерри Сигел"
-        ],
-        "editors": [
-          "Каан Тулгар"
-        ],
-        "designers": [
-          "Emel Tulgar"
-        ],
-        "operators": [
-          "Abdullah Gürek"
-        ]
-      }
-    },
-    {
-      "id": "movie-41479",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "6 причин почему",
-      "title_orig": "Six Reasons Why",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2008,
-      "kinopoisk_id": "409861",
-      "imdb_id": "tt1202044",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-26T07:20:38Z",
-      "updated_at": "2019-08-26T07:20:38Z",
-      "material_data": {
-        "title": "6 причин почему",
-        "title_en": "Six Reasons Why",
-        "year": 2008,
-        "tagline": "If You're Not Cheating, You're Not Trying Hard Enough",
-        "description": "В недалеком будущем общество прошло полный путь эволюции и вернулось в эпоху Дикого Запада, мира револьверов и дуэлей. Эта история о четырех людях, живущих в этом мире.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/409861.jpg",
-        "duration": 88,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "вестерн",
-          "фантастика"
-        ],
-        "kinopoisk_rating": 3.1,
-        "kinopoisk_votes": 94,
-        "imdb_rating": 2.7,
-        "imdb_votes": 261,
-        "premiere_world": "2008-08-26",
-        "rating_mpaa": "R",
-        "actors": [
-          "Дэн Вустер",
-          "Мадс Коудал",
-          "Кристофер Харрисон",
-          "Колм Фиор",
-          "Джефф Кампанья",
-          "Мэттью Кампанья",
-          "Аарон Харрисон",
-          "Ромас Станулис",
-          "Джофф Мейс",
-          "Анастасия Тубанос"
-        ],
-        "directors": [
-          "Джефф Кампанья",
-          "Мэттью Кампанья"
-        ],
-        "producers": [
-          "Пако Алварез",
-          "Джефф Кампанья",
-          "Мэттью Кампанья"
-        ],
-        "writers": [
-          "Мэттью Кампанья",
-          "Джефф Кампанья"
-        ],
-        "composers": [
-          "Лоуренс Корреа",
-          "Ник Нейм"
-        ],
-        "editors": [
-          "Джефф Кампанья",
-          "Мэттью Кампанья"
-        ],
-        "designers": [
-          "Джефф Кампанья",
-          "Мэттью Кампанья",
-          "Таня Лакария"
-        ],
-        "operators": [
-          "Мэттью Кампанья"
-        ]
-      }
-    },
-    {
-      "id": "movie-41481",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Битва у Красной скалы",
-      "title_orig": "Chi bi",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 2008,
-      "kinopoisk_id": "88123",
-      "imdb_id": "tt0425637",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-26T07:13:45Z",
-      "updated_at": "2019-08-26T07:13:45Z",
-      "material_data": {
-        "title": "Битва у Красной скалы",
-        "title_en": "Chibi",
-        "year": 2008,
-        "tagline": "Древний Китай. Миллионная армия. Знаменитая битва",
-        "description": "Древний Китай, 208 год нашей эры. Хитроумный премьер-министр, а фактически правитель империи, Цао Цао убеждает нерешительного императора начать войну с двумя независимыми царствами под предлогом объединения Китая. Миллионная армия легко разбивает немногочисленные отряды царства Шу и запирает остатки войска в цитадели у Красной Скалы, не оставив им другого выбора, как обратиться за подмогой к правителю царства Восточный У, послав туда военного советника Лян Чжугэ. Ему удается убедить правителя царства послать на помощь осажденным армию, возглавляемую вице-правителем Чжоу Юем. И теперь неясно, сможет ли грубая сила одолеть мужество и хитрость.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/88123.jpg",
-        "duration": 146,
-        "countries": [
-          "Гонконг",
-          "Китай",
-          "Япония"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "приключения"
-        ],
-        "kinopoisk_rating": 7.5,
-        "kinopoisk_votes": 8737,
-        "imdb_rating": 7.4,
-        "imdb_votes": 43212,
-        "premiere_ru": "2009-08-20",
-        "premiere_world": "2008-06-30",
-        "rating_mpaa": "R",
-        "minimal_age": 16,
-        "actors": [
-          "Тони Люн Чу Вай",
-          "Такеши Канеширо",
-          "Чжан Фэнъи",
-          "Чан Чэнь",
-          "Вики Чжао",
-          "Ху Цзюнь",
-          "Линь Чилин",
-          "Сидо Накамура",
-          "Ю Юн",
-          "Хоу Юн"
-        ],
-        "directors": [
-          "Джон Ву"
-        ],
-        "producers": [
-          "Теренс Чан",
-          "Го Цзылун",
-          "Хань Саньпин",
-          "Хань Сяоли",
-          "Хэ Бин",
-          "Ху Сяофэн",
-          "Цзинь-Вэнь Хуан",
-          "Тао Цзян",
-          "У Кэбо",
-          "Ким У-тхэк"
-        ],
-        "writers": [
-          "Джон Ву",
-          "Кхан Чан",
-          "Чэн Куо",
-          "Шэн Хэюй",
-          "Ло Гуаньчжун"
-        ],
-        "composers": [
-          "Таро Ивасиро"
-        ],
-        "editors": [
-          "Роберт А. Ферретти",
-          "Энджи Лам",
-          "Ян Хунъюй"
-        ],
-        "designers": [
-          "Тим Йип",
-          "Эдди Вонг"
-        ],
-        "operators": [
-          "Люй Юэ",
-          "Чжан Ли"
-        ]
-      }
-    },
-    {
-      "id": "movie-41420",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Братья",
-      "title_orig": "The Cousin",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1048632",
-      "imdb_id": "tt7157668",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-24T15:06:10Z",
-      "updated_at": "2019-08-26T07:04:15Z",
-      "material_data": {
-        "title": "Кузен",
-        "title_en": "The Cousin",
-        "year": 2017,
-        "description": "О взаимоотношениях еврея-семьянина и наёмного рабочего-араба, которого незаслуженно обвиняют в преступлении.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1048632.jpg",
-        "duration": 93,
-        "countries": [
-          "Израиль"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 6.9,
-        "imdb_votes": 85,
-        "premiere_world": "2017-09-04",
-        "actors": [
-          "Ала Дакка",
-          "Оснат Фишман",
-          "Цахи Град"
-        ],
-        "directors": [
-          "Цахи Град"
-        ],
-        "producers": [
-          "Эхуд Блайберг",
-          "Николас Доннермейер",
-          "Цахи Град",
-          "Барак Кесслер",
-          "Чарльз Вахсберг"
-        ],
-        "writers": [
-          "Цахи Град"
-        ],
-        "composers": [
-          "Sapir Matityahu"
-        ],
-        "editors": [
-          "Sari Bisharat",
-          "Дэнни Рафик"
-        ],
-        "operators": [
-          "Eitan Hatuka"
-        ]
-      }
-    },
-    {
-      "id": "movie-41435",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Дом по соседству",
-      "title_orig": "Aval",
-      "other_title": "Aval (The House Next Door)",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1049568",
-      "imdb_id": "tt7471004",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-25T18:53:27Z",
-      "updated_at": "2019-08-26T07:02:12Z",
-      "material_data": {
-        "title": "Дом по соседству",
-        "title_en": "Aval",
-        "year": 2017,
-        "description": "Молодой нейрохирург и его жена переезжают в новый дом, в котором с девушкой начинают происходить странные вещи.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1049568.jpg",
-        "duration": 137,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "ужасы"
-        ],
-        "imdb_rating": 6.8,
-        "imdb_votes": 2000,
-        "premiere_world": "2017-11-03",
-        "actors": [
-          "Пракаш Белавади",
-          "Khushi Hajare",
-          "Андреа Джеремия",
-          "Атул Кулкарни",
-          "Avinash Raghudevan",
-          "Сиддхартх",
-          "Суреш",
-          "Аниша Виктор",
-          "Манав Видж"
-        ],
-        "directors": [
-          "Milind Rau"
-        ],
-        "producers": [
-          "Сиддхартх"
-        ],
-        "writers": [
-          "Чандан Арора",
-          "Rahul Ramchandani",
-          "Milind Rau",
-          "Сиддхартх"
-        ],
-        "composers": [
-          "Girishh Gopalakrishnan"
-        ],
-        "editors": [
-          "Lawrence Kishore"
-        ],
-        "operators": [
-          "Shreyaas Krishna"
         ]
       }
     }

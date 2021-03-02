@@ -1,6 +1,574 @@
 {
   "results": [
     {
+      "id": "serial-16301",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Четвёрка попаданцев [ТВ-1]",
+      "title_orig": "Isekai Quartet",
+      "other_title": "Квартет Исэкай / Квартет Попаданцев ТВ-1 / Квартет из другого мира",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1211428",
+      "imdb_id": "tt9193770",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9845",
+      "shikimori_id": "38472",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-04-10T20:28:25Z",
+      "updated_at": "2019-06-27T06:42:38Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/425667/df10682af55e3563f9c24bbd98731540/720p",
+            "2": "//aniqit.com/seria/427280/b0c96c6fabfdc495c7991f7f84d198b7/720p",
+            "3": "//aniqit.com/seria/429368/7405d34a384f943e05f8d357f2e12ca0/720p",
+            "4": "//aniqit.com/seria/431921/57485e01a7dbbab96481c38bea72e388/720p",
+            "5": "//aniqit.com/seria/433779/30b66d59800631fadef8d29f0bcbcf6b/720p",
+            "6": "//aniqit.com/seria/436384/e5e1ad6cce886b539e131d8293ba1180/720p",
+            "7": "//aniqit.com/seria/439473/d1dcedb660365ae1d78d58d36b5b80a9/720p",
+            "8": "//aniqit.com/seria/442317/31f68839369a561a5669d9dfcfe022f4/720p",
+            "9": "//aniqit.com/seria/444155/478aba31ef11f2f8c0445d622c3ab7fc/720p",
+            "10": "//aniqit.com/seria/445705/f8647cd0e8f5ed1ab8792c230f0fb0d1/720p",
+            "11": "//aniqit.com/seria/447944/b057373ad078fb2a1938d3491e17fb96/720p",
+            "12": "//aniqit.com/seria/450526/6a1252de4934b4731228c4460cb9044e/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Квартет Исэкай",
+        "title_en": "Isekai Quartet",
+        "other_titles": [
+          "Квартет из другого мира",
+          "Квартет попаданцев"
+        ],
+        "other_titles_jp": [
+          "異世界かるてっと"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "Кроссовер четырёх аниме: «», «», «» и «».\r\n\r\nВ мирах каждого из героев этих аниме появляется странная кнопка. По стечению различных обстоятельств каждый нажимает на кнопку, после чего все переносятся в один мир. Им предстоит учиться в школе, налаживать контакт с каждым из новоприбывших «попаданцев», ну и конечно... веселиться!",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1211428.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/33ff000d10ad7ebcb5a1485ab5ae1df59708de2a.png",
+          "https://shikimori.one/system/screenshots/original/a8594261c4f6934d4699c60d2ad888b4bfade1d2.png"
+        ],
+        "duration": 12,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Пародия",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Studio PuYUKAI"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 738,
+        "imdb_rating": 7,
+        "imdb_votes": 477,
+        "shikimori_rating": 7.45,
+        "shikimori_votes": 11095,
+        "premiere_world": "2019-04-10",
+        "aired_at": "2019-04-10",
+        "released_at": "2019-06-26",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Сора Амамия",
+          "Дзюн Фукусима",
+          "Юми Хара",
+          "Саори Хаями",
+          "Сатоси Хино",
+          "Юсукэ Кобаяси",
+          "Риэ Такахаси",
+          "Аои Юки"
+        ],
+        "directors": [
+          "Минору Асина"
+        ],
+        "writers": [
+          "Нацумэ Акацуки",
+          "Куганэ Маруяма",
+          "Таппэй Нагацуки",
+          "Карло Дзэн"
+        ]
+      }
+    },
+    {
+      "id": "serial-16451",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Убийства",
+      "title_orig": "The Murders",
+      "translation": {
+        "id": 758,
+        "title": "NewStudio",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 8,
+      "episodes_count": 8,
+      "kinopoisk_id": "1194731",
+      "imdb_id": "tt8311576",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-04-23T11:14:26Z",
+      "updated_at": "2019-06-27T06:41:34Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/428664/093da2292ee2f24f887fb315290d17eb/720p",
+            "2": "//kodik.cc/seria/430259/c3a318a4ef652a229b6fd48852206e52/720p",
+            "3": "//kodik.cc/seria/432438/514fab876c6a89f759a904b3c3bcdade/720p",
+            "4": "//kodik.cc/seria/435265/90eca0ba6acdea986dbbea9255892ee4/720p",
+            "5": "//kodik.cc/seria/440956/577e78b983eb109cdc570a2d78e61f87/720p",
+            "6": "//kodik.cc/seria/444430/a18344806427e4d10e0d9f28dca5f97a/720p",
+            "7": "//kodik.cc/seria/450517/9a116468ba7ce5c3ed79aff630c8265b/720p",
+            "8": "//kodik.cc/seria/450518/c54a0f04507ba469178b575072803a64/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Убийства",
+        "title_en": "The Murders",
+        "year": 2019,
+        "description": "Кейт Джеймсон пошла по стопам отца и стала детективом в отделе убийств. Но из-за собственной неосторожности она потеряла напарника и теперь ищет искупления, расследуя самые сложные дела.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1194731.jpg",
+        "duration": 45,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "драма",
+          "криминал"
+        ],
+        "imdb_rating": 5.5,
+        "imdb_votes": 524,
+        "premiere_world": "2019-03-25",
+        "actors": [
+          "Джессика Лукас",
+          "Дилан Брюс",
+          "Терри Чен",
+          "Лувия Петерсен",
+          "Венус Терцо",
+          "Лаара Сэдик",
+          "Джеймс Пиццинато",
+          "Марко Граззини",
+          "Патрик Сабонгуй",
+          "Джим Шилд"
+        ],
+        "directors": [
+          "Джилл Картер",
+          "Кристин Леман",
+          "Энди Микита"
+        ],
+        "producers": [
+          "Ариэль Бойсверт",
+          "Джэми Горинг",
+          "Карен Хилл",
+          "Gemma Holdway",
+          "Charlotte Jutras-Marion",
+          "Джессика Лукас",
+          "Джесси Прупас",
+          "Майкл Прупас",
+          "Nataline Rodrigues",
+          "Misha Solomon"
+        ],
+        "writers": [
+          "Laura Good",
+          "Дженника Харпер",
+          "Damon Vignale",
+          "Карен Хилл",
+          "Gemma Holdway",
+          "Джонатан Уолкер"
+        ],
+        "composers": [
+          "Дэрил Беннетт"
+        ],
+        "editors": [
+          "Лиза Бинкли",
+          "Роб Грант",
+          "Ричард Швэдел"
+        ],
+        "designers": [
+          "Джеймс Роббинс",
+          "Кортни Стоукстэд",
+          "Одесса Беннетт",
+          "Джастин Райт",
+          "Винсент Райт"
+        ],
+        "operators": [
+          "Камал Деркауи"
+        ]
+      }
+    },
+    {
+      "id": "movie-38980",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Земляки",
+      "title_orig": "Zemlyaki",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1975,
+      "kinopoisk_id": "45274",
+      "imdb_id": "tt0072442",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-06-27T06:40:35Z",
+      "updated_at": "2019-06-27T06:40:35Z",
+      "material_data": {
+        "title": "Земляки",
+        "title_en": "",
+        "year": 1974,
+        "description": "Братья Громовы - Иван и Семен - после долгой разлуки встретились на похоронах отца. Добрый и трудолюбивый парень Сенька страдает от неразделенной любви к Валентине. Сельская красавица становится виновницей раздора между братьями.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/45274.jpg",
+        "duration": 87,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 6.4,
+        "kinopoisk_votes": 147,
+        "imdb_rating": 6.8,
+        "imdb_votes": 13,
+        "premiere_world": "1975-07-14",
+        "actors": [
+          "Сергей Никоненко",
+          "Леонид Неведомский",
+          "Михаил Кокшенов",
+          "Владимир Заманский",
+          "Михаил Глузский",
+          "Анатолий Соловьев",
+          "Геннадий Юхтин",
+          "Любовь Калюжная",
+          "Борис Кудрявцев",
+          "Елена Кузьмина"
+        ],
+        "directors": [
+          "Валентин Виноградов"
+        ],
+        "writers": [
+          "Василий Шукшин",
+          "Валентин Виноградов"
+        ],
+        "composers": [
+          "Владимир Комаров"
+        ],
+        "designers": [
+          "Ирина Шретер"
+        ],
+        "operators": [
+          "Роман Веселер"
+        ]
+      }
+    },
+    {
+      "id": "movie-38959",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Жила-была девочка",
+      "title_orig": "Zhila-byla devochka",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1944,
+      "kinopoisk_id": "45321",
+      "imdb_id": "tt0037479",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-06-27T05:21:32Z",
+      "updated_at": "2019-06-27T05:21:32Z",
+      "material_data": {
+        "title": "Жила-была девочка",
+        "title_en": "",
+        "year": 1944,
+        "tagline": "One of the Greatest Stories Ever Told",
+        "description": "История двух маленьких блокадниц в осажденном Ленинграде - 7-летней Настеньки и 5-летней Катеньки. Голод, холод, путешествия через вымерзший город к Неве с санками за водой, смерть матери, ранение - все это выпало на долю детей, перенесших наравне со взрослыми все тяготы войны.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/45321.jpg",
+        "duration": 74,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "военный",
+          "драма"
+        ],
+        "kinopoisk_rating": 8,
+        "kinopoisk_votes": 2258,
+        "imdb_rating": 7.6,
+        "imdb_votes": 91,
+        "premiere_world": "1944-12-18",
+        "minimal_age": 16,
+        "actors": [
+          "Нина Иванова",
+          "Наталья Защипина",
+          "Ада Войцик",
+          "Вера Алтайская",
+          "Лидия Штыкан",
+          "Александр Лариков",
+          "Николай Корн",
+          "Елена Кириллова"
+        ],
+        "directors": [
+          "Виктор Эйсымонт"
+        ],
+        "writers": [
+          "Чарльз Клемент",
+          "Владимир Недоброво"
+        ],
+        "composers": [
+          "Венедикт Пушков"
+        ],
+        "editors": [
+          "Стэра Горакова"
+        ],
+        "designers": [
+          "Игорь Бахметьев"
+        ],
+        "operators": [
+          "Грайр Гарибян"
+        ]
+      }
+    },
+    {
+      "id": "movie-38962",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Приключения Калле-сыщика",
+      "title_orig": "Priklyucheniya Kalle-syschika",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1976,
+      "kinopoisk_id": "423015",
+      "imdb_id": "tt1480293",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-06-27T05:10:50Z",
+      "updated_at": "2019-06-27T05:10:50Z",
+      "material_data": {
+        "title": "Приключения Калле-сыщика",
+        "title_en": "",
+        "year": 1976,
+        "description": "О приключениях мальчика, мечтавшего стать сыщиком. Ребята неожиданно становятся свидетелями загадочного преступления и помогают его расследовать.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/423015.jpg",
+        "duration": 125,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "детский",
+          "приключения"
+        ],
+        "kinopoisk_rating": 7.4,
+        "kinopoisk_votes": 672,
+        "imdb_rating": 7.4,
+        "imdb_votes": 39,
+        "premiere_world": "1976-12-12",
+        "actors": [
+          "Тадас Дилис",
+          "Моника Жебрюнайте",
+          "Арунас Букялис",
+          "Гедиминас Гирдвайнис",
+          "Вайва Майнелите",
+          "Нийоле Ожелите",
+          "Аудрюс Валявичус",
+          "Айдас Витлипас",
+          "Ритас Белявичус",
+          "Йонас Алекса"
+        ],
+        "directors": [
+          "Арунас Жебрюнас"
+        ],
+        "writers": [
+          "Астрид Линдгрен",
+          "Арунас Жебрюнас"
+        ],
+        "composers": [
+          "Вячеслав Ганелин"
+        ],
+        "designers": [
+          "Юзефа Чейчите"
+        ],
+        "operators": [
+          "Йонас Грицюс"
+        ]
+      }
+    },
+    {
+      "id": "movie-38964",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Чужая игра",
+      "title_orig": "Chuzhaya igra",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1991,
+      "kinopoisk_id": "582731",
+      "imdb_id": "tt2082428",
+      "quality": "DVBRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-06-27T05:03:50Z",
+      "updated_at": "2019-06-27T05:03:50Z",
+      "material_data": {
+        "title": "Чужая игра",
+        "title_en": "",
+        "year": 1991,
+        "description": "Герой фильма - тридцатилетний молодой человек возвращается в свой родной город и обнаруживает, что становится участником какой-то интриги, логика которая должна привести его к столкновению с Димом - главой одной из местных преступных группировок, Михаил не может избежать борьбы, потому что с этим именем связана тайна гибели его любимой...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/582731.jpg",
+        "duration": 88,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "детектив",
+          "драма",
+          "триллер"
+        ],
+        "premiere_ru": "1991-12-01",
+        "minimal_age": 0,
+        "actors": [
+          "Денис Карасев",
+          "Ирина Тычинина",
+          "Ато Мухамеджанов",
+          "Георгий Пицхелаури",
+          "Анатолий Лукьяненко",
+          "Мухамадали Махмадов",
+          "Сергей Галкин",
+          "Георгий Строков",
+          "Валентин Тарасов",
+          "Казбек Губиев"
+        ],
+        "directors": [
+          "Фархот Абдуллаев"
+        ],
+        "writers": [
+          "Фархот Абдуллаев"
+        ],
+        "composers": [
+          "Артем Артемьев"
+        ],
+        "designers": [
+          "Вячеслав Виданов"
+        ],
+        "operators": [
+          "Окил Хамидов"
+        ]
+      }
+    },
+    {
+      "id": "movie-38965",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Шакалы",
+      "title_orig": "Shakaly",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1990,
+      "kinopoisk_id": "412507",
+      "imdb_id": "tt1925501",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-06-27T04:39:07Z",
+      "updated_at": "2019-06-27T04:39:07Z",
+      "material_data": {
+        "title": "Шакалы",
+        "title_en": "",
+        "year": 1989,
+        "description": "Трое друзей, вернувшись из Афганистана, устав от крови и ужасов войны, желают только одного - обрести, наконец, покой. Но на Родине многое изменилось, и их родной город стал совсем другим. Добиться покоя можно только доказав свою силу и победив в борьбе с молодежной бандитской организацией, терроризирующей жителей города.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/412507.jpg",
+        "duration": 88,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "боевик",
+          "криминал"
+        ],
+        "kinopoisk_rating": 5.2,
+        "kinopoisk_votes": 99,
+        "imdb_rating": 4.4,
+        "imdb_votes": 9,
+        "minimal_age": 16,
+        "actors": [
+          "Назим Туляходжаев",
+          "Андрей Подошьян",
+          "Рустам Уразаев",
+          "Алишер Пирмухамедов",
+          "Оксана Калиберда",
+          "Виктор Шульгин",
+          "Олег Измайлов",
+          "Матлюба Алимова",
+          "Мария Виноградова",
+          "Анатолий Кузнецов"
+        ],
+        "directors": [
+          "Хабиб Файзиев"
+        ],
+        "writers": [
+          "Хабиб Файзиев",
+          "Всеволод Иванов"
+        ],
+        "composers": [
+          "Энмарк Салихов"
+        ],
+        "editors": [
+          "Татьяна Белоусова"
+        ],
+        "designers": [
+          "Анатолий Шибаев"
+        ],
+        "operators": [
+          "Владимир Климов"
+        ]
+      }
+    },
+    {
       "id": "movie-38951",
       "type": "foreign-movie",
       "link": "",
@@ -6940,437 +7508,6 @@
         ],
         "operators": [
           "Игорь Шатров"
-        ]
-      }
-    },
-    {
-      "id": "movie-38824",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Путь на арену",
-      "title_orig": "Tchanaparh depi krkes",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1963,
-      "kinopoisk_id": "42220",
-      "imdb_id": "tt0187433",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-06-24T05:45:11Z",
-      "updated_at": "2019-06-24T05:45:11Z",
-      "material_data": {
-        "title": "Путь на арену",
-        "title_en": "",
-        "year": 1963,
-        "description": "Младший сын профессора Енгибаряна мечтает стать клоуном и смешить людей. Ведь это так просто - думает Леня. Главный режиссер цирка считает иначе, но, подметив в парне неординарные способности, принимает его в свой коллектив униформистом. Леня влюбляется в артистку Ирину, Ирина влюбляется в будущего клоуна Леонида Енгибарова и принимает самое активное участие в его судьбе...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/42220.jpg",
-        "duration": 88,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "биография",
-          "комедия",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.3,
-        "kinopoisk_votes": 207,
-        "imdb_rating": 7.9,
-        "imdb_votes": 34,
-        "premiere_world": "1963-10-03",
-        "minimal_age": 6,
-        "actors": [
-          "Леонид Енгибаров",
-          "Ирина Шестуа",
-          "Изабелла Данзас",
-          "Гай Данзас",
-          "Вардуи Вардересян",
-          "Карп Хачванкян",
-          "Владимир Татосов",
-          "Гурген Ген",
-          "Степан Исаакян",
-          "Борис Асатурян"
-        ],
-        "directors": [
-          "Левон Исаакян",
-          "Генрих Малян"
-        ],
-        "writers": [
-          "Александр Юровский",
-          "Анатолий Галиев"
-        ],
-        "composers": [
-          "Константин Орбелян"
-        ],
-        "editors": [
-          "В. Хайказян"
-        ],
-        "designers": [
-          "Степан Андраникян",
-          "Мариам Асламазян",
-          "Валентин Подпомогов"
-        ],
-        "operators": [
-          "Жирайр Варданян"
-        ]
-      }
-    },
-    {
-      "id": "movie-38825",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Семья вурдалаков",
-      "title_orig": "Semya vurdalakov",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1990,
-      "kinopoisk_id": "255293",
-      "imdb_id": "tt0420158",
-      "quality": "VHSRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-06-24T05:44:17Z",
-      "updated_at": "2019-06-24T05:44:17Z",
-      "material_data": {
-        "title": "Семья вурдалаков",
-        "title_en": "",
-        "year": 1990,
-        "description": "Московский журналист, приехав в провинцию, поселяется в семье, которая недавно похоронила старика, и становится участником странных и страшных событий...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/255293.jpg",
-        "duration": 82,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "драма",
-          "ужасы"
-        ],
-        "kinopoisk_rating": 5.4,
-        "kinopoisk_votes": 823,
-        "imdb_rating": 6.2,
-        "imdb_votes": 410,
-        "actors": [
-          "Елена Караджова",
-          "Юрий Катин-Ярцев",
-          "Николай Кочегаров",
-          "Игорь Шавлак",
-          "Иван Щёголев",
-          "Никита Симановский",
-          "Николай Волошин",
-          "Елена Земляникина",
-          "Александр Рыжков",
-          "Всеволод Хабаров"
-        ],
-        "directors": [
-          "Геннадий Климов",
-          "Игорь Шавлак"
-        ],
-        "writers": [
-          "Геннадий Климов",
-          "Игорь Шавлак",
-          "Марина Собе-Панек",
-          "Алексей Толстой"
-        ],
-        "composers": [
-          "Владимир Давыденко"
-        ],
-        "designers": [
-          "Виктор Симановский"
-        ],
-        "operators": [
-          "Александр Мачильский"
-        ]
-      }
-    },
-    {
-      "id": "movie-38826",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Шурави",
-      "title_orig": "Shuravi",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1988,
-      "kinopoisk_id": "452820",
-      "imdb_id": "tt5733364",
-      "quality": "VHSRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-06-24T05:42:14Z",
-      "updated_at": "2019-06-24T05:42:14Z",
-      "material_data": {
-        "title": "Шурави",
-        "title_en": "",
-        "year": 1988,
-        "description": "Фильм рассказывает о советском солдате, попавшем в плен к афганским душманам, и о его успешном побеге.",
-        "duration": 64,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "боевик",
-          "военный"
-        ],
-        "actors": [
-          "Вадим Пожарский",
-          "Юозас Киселюс",
-          "Евгений Жариков",
-          "Наталья Гвоздикова",
-          "Анна Тихонова",
-          "Ахат Тураев",
-          "Арсен Амаспюрянц",
-          "Зинаида Воркуль"
-        ],
-        "directors": [
-          "Сергей Нилов"
-        ],
-        "writers": [
-          "Сергей Нилов",
-          "Александр Проханов"
-        ],
-        "composers": [
-          "Борис Рычков"
-        ],
-        "designers": [
-          "Саид Меняльщиков"
-        ],
-        "operators": [
-          "Вадим Михайлов"
-        ]
-      }
-    },
-    {
-      "id": "movie-38827",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Все хорошо приятель",
-      "title_orig": "Aman Ya Sahbi",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1150723",
-      "imdb_id": "tt7614270",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-06-24T05:40:37Z",
-      "updated_at": "2019-06-24T05:40:37Z",
-      "material_data": {
-        "title": "Aman Ya Sahbi",
-        "title_en": "",
-        "year": 2017,
-        "duration": 79,
-        "countries": [
-          "Египет"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "imdb_rating": 2.9,
-        "imdb_votes": 31,
-        "premiere_world": "2017-11-09",
-        "actors": [
-          "Saad El Soghayar",
-          "Mahmood El-Laithi",
-          "",
-          "Sofinar"
-        ],
-        "directors": [
-          "Hani Hamdi"
-        ]
-      }
-    },
-    {
-      "id": "movie-38814",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Такая Валентина",
-      "title_orig": "Very Valentine",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1219602",
-      "imdb_id": "tt9288782",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-06-24T05:24:19Z",
-      "updated_at": "2019-06-24T05:24:19Z",
-      "material_data": {
-        "title": "Very Valentine",
-        "title_en": "",
-        "year": 2019,
-        "duration": 90,
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 6.6,
-        "imdb_votes": 101,
-        "premiere_world": "2019-06-08",
-        "actors": [
-          "Келен Коулмэн",
-          "Лиам Макинтайр",
-          "Паоло Бернардини",
-          "Фабио Тести",
-          "Жаклин Биссет",
-          "Коша Энглер",
-          "Стефано Брасчи",
-          "Джейси Саллес",
-          "Дэниэл Фазерс",
-          "Кристина Домен"
-        ],
-        "directors": [
-          "Менхай Хада"
-        ],
-        "producers": [
-          "Александр Пейчев",
-          "Филлип Дж. Рот"
-        ],
-        "writers": [
-          "Adriana Trigiani"
-        ],
-        "composers": [
-          "Матео Мессина"
-        ],
-        "designers": [
-          "Антонелло Рубино",
-          "Бобби Майклс",
-          "Nikolai Nikolov",
-          "Арта Тоцци"
-        ]
-      }
-    },
-    {
-      "id": "movie-38815",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Один шаг за пределы",
-      "title_orig": "Itlauli Barrah",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1168459",
-      "imdb_id": "tt8011450",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-06-24T05:18:37Z",
-      "updated_at": "2019-06-24T05:18:37Z",
-      "material_data": {
-        "title": "Itlauli Barrah",
-        "title_en": "",
-        "year": 2018,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1168459.jpg",
-        "duration": 89,
-        "countries": [
-          "Египет"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "imdb_rating": 4.6,
-        "imdb_votes": 83,
-        "premiere_world": "2018-02-15",
-        "actors": [
-          "Karim Mahmoud Abdel Aziz",
-          "Калед Эль Сави"
-        ],
-        "directors": [
-          "Вайль Эхсан"
-        ]
-      }
-    },
-    {
-      "id": "movie-38819",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Потому что я тебя люблю",
-      "title_orig": "Saranghagi ttaemoone",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "989945",
-      "imdb_id": "tt5836246",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-06-24T05:05:32Z",
-      "updated_at": "2019-06-24T05:05:32Z",
-      "material_data": {
-        "title": "Потому что я тебя люблю",
-        "title_en": "Saranghagi ttaemune",
-        "year": 2017,
-        "description": "И-хён — талантливый поэт-песенник, но после несчастного случая ему приходится открыть в себе совершенно новое призвание. Будучи неспособным вернуться в собственное тело парень раз за разом переносится в тела других людей самых разных возрастов и полов. У всех этих людей есть одна общая черта: они несчастны в любви, хотя до победы в реальности всего пара шагов. И-хён помогает очередному человеку, взяв под контроль его тело, чтобы на следующее утро проснуться в теле ещё одного несчастного неудачника.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/989945.jpg",
-        "duration": 110,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "мелодрама",
-          "фэнтези"
-        ],
-        "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 285,
-        "imdb_rating": 6.5,
-        "imdb_votes": 381,
-        "premiere_world": "2016-11-16",
-        "actors": [
-          "Чха Тхэ-хён",
-          "Ким Ю-джон",
-          "Со Хён-джин",
-          "Лим Джу-хван",
-          "Ким Юн-хе",
-          "Пак Кын-хён",
-          "Сону Ён-нё",
-          "Сон Дон-иль",
-          "Пэ Сон-у",
-          "О На-ра"
-        ],
-        "directors": [
-          "Чу Джи-хон"
-        ],
-        "producers": [
-          "Чха Джи-хён",
-          "О Джон-хён"
-        ],
-        "writers": [
-          "Хван Сын-джэ"
-        ],
-        "composers": [
-          "Ким Джун-сок"
-        ],
-        "editors": [
-          "Ким Чхан-джу"
-        ],
-        "designers": [
-          "Ли Ё-хан",
-          "Ко Хи-джон"
-        ],
-        "operators": [
-          "Ким Ги-тхэ"
         ]
       }
     }

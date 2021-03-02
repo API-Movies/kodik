@@ -1,6 +1,671 @@
 {
   "results": [
     {
+      "id": "movie-40374",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Штормовой мальчик",
+      "title_orig": "Storm Boy",
+      "translation": {
+        "id": 794,
+        "title": "HDrezka Studio",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "809823",
+      "imdb_id": "tt3340446",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [
+        "RU"
+      ],
+      "created_at": "2019-07-30T07:22:54Z",
+      "updated_at": "2020-08-17T13:46:53Z",
+      "material_data": {
+        "title": "Мой друг мистер Персиваль",
+        "title_en": "Storm Boy",
+        "year": 2019,
+        "tagline": "Только любовь окрыляет",
+        "description": "Майкл Кингли – успешный бизнесмен и счастливый отец семейства. Но однажды его настигают образы из детства, которое он провел на спрятанном от всего мира побережье океана. \n\rОн должен рассказать своей внучке необыкновенную историю мальчика по прозвищу Штормик и осиротевшего пеликана - Мистера Персиваля. Историю опасных приключений и удивительной дружбы, которая повлияла на всю его жизнь.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/809823.jpg",
+        "duration": 99,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "драма",
+          "приключения",
+          "семейный"
+        ],
+        "kinopoisk_rating": 7,
+        "kinopoisk_votes": 2732,
+        "imdb_rating": 6.9,
+        "imdb_votes": 2824,
+        "premiere_ru": "2020-03-19",
+        "premiere_world": "2019-01-06",
+        "rating_mpaa": "PG",
+        "minimal_age": 6,
+        "actors": [
+          "Финн Литтл",
+          "Джай Кортни",
+          "Джеффри Раш",
+          "Эрик Томсон",
+          "Брэдли Трент Уильямс",
+          "Наташа Вэнганин",
+          "Ник Лончбери",
+          "Эмма Бэрджери",
+          "Тревор Джемисон",
+          "Моргана Дейвис"
+        ],
+        "directors": [
+          "Шон Сит"
+        ],
+        "producers": [
+          "Майкл Буген",
+          "Мэттью Стрит",
+          "Джастин Деймен",
+          "Кристофер Фигг",
+          "Теренс Конг",
+          "Кайли Маскорд",
+          "Шерман Нг",
+          "Пол Рэнфорд",
+          "Джеффри Раш",
+          "Джереми Сим"
+        ],
+        "writers": [
+          "Джастин Монжо",
+          "Колин Тьеле"
+        ],
+        "composers": [
+          "Алан Джон"
+        ],
+        "editors": [
+          "Денис Харатзис"
+        ],
+        "designers": [
+          "Мелинда Доринг",
+          "Джени Паркер",
+          "Луиз МакКарти",
+          "Глен В. Джонсон"
+        ],
+        "operators": [
+          "Брюс Янг"
+        ]
+      }
+    },
+    {
+      "id": "serial-28751",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Потомки солнца",
+      "title_orig": "Taeyangeui huye",
+      "translation": {
+        "id": 1315,
+        "title": "Мобильное телевидение",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "963340",
+      "imdb_id": "tt4925000",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2016-12-12T22:51:47Z",
+      "updated_at": "2020-08-17T13:46:11Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/706334/4e1e33397e47b68aa9a2a37807a9fb3e/720p",
+            "2": "//kodik.cc/seria/706455/45fc28249b31c5ed953bade95a8e138d/720p",
+            "3": "//kodik.cc/seria/706456/0b146959fd9e041d151c20620d018ea8/720p",
+            "4": "//kodik.cc/seria/706457/a6ba6ae36398aba1113c60198ae45e20/720p",
+            "5": "//kodik.cc/seria/706458/e8f5eac17b15094b2dbbeb05bad67e64/720p",
+            "6": "//kodik.cc/seria/706459/63489b67299521b02f30a115111697e8/720p",
+            "7": "//kodik.cc/seria/706460/c5b94f0c0321895c8910715d406bc009/720p",
+            "8": "//kodik.cc/seria/706461/a585856a315b232caa930af8e985d3f2/720p",
+            "9": "//kodik.cc/seria/706462/22530cc86951b9924386f34a47ef4b53/720p",
+            "10": "//kodik.cc/seria/706463/d90bf701843a2bc88d1f8e8b7ec93c12/720p",
+            "11": "//kodik.cc/seria/706464/6daf00177b928b190cf9dafb0af70144/720p",
+            "12": "//kodik.cc/seria/706465/f2caea915ffd727f3d10f6527852226f/720p",
+            "13": "//kodik.cc/seria/706466/f8051f45138afbc48e83797e1a2dfbaf/720p",
+            "14": "//kodik.cc/seria/706467/f3efe61c6dcbeb21297eddeb8676fe5e/720p",
+            "15": "//kodik.cc/seria/706468/93e4110f9050a288d567f0a678a1134c/720p",
+            "16": "//kodik.cc/seria/706469/c15bfd1d7898d6a8fe7d6b01fcc32021/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Потомки солнца",
+        "title_en": "Taeyangeui huye",
+        "year": 2016,
+        "description": "История любви миротворца ООН капитана Ю Щи-джина и военного врача Кан Мо-ён, которые по приказу ООН оказались в столице другого государства, охваченного войной.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/963340.jpg",
+        "duration": 60,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "боевик",
+          "драма",
+          "мелодрама"
+        ],
+        "kinopoisk_rating": 8.4,
+        "kinopoisk_votes": 12358,
+        "imdb_rating": 8.3,
+        "imdb_votes": 9016,
+        "premiere_world": "2016-02-24",
+        "actors": [
+          "Сон Джун-ги",
+          "Сон Хе-гё",
+          "Чин Гу",
+          "Ким Джи-вон",
+          "Кан Щин-иль",
+          "Ким Бён-чхоль",
+          "Ан Бо-хён",
+          "Ким Мин-сок",
+          "Ли Сын-джун",
+          "Со Джон-ён"
+        ],
+        "directors": [
+          "Ли Ын-бок",
+          "Пэк Сан-хун",
+          "Ю Джон-сон"
+        ],
+        "producers": [
+          "Ю Джон-сон"
+        ],
+        "writers": [
+          "Ким Вон-сок",
+          "Ким Ын-сук"
+        ]
+      }
+    },
+    {
+      "id": "serial-21136",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Покемон",
+      "title_orig": "Pocket Monsters (2019)",
+      "other_title": "ポケットモンスター (2019)",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 23,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "79517",
+      "imdb_id": "tt0176385",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10274",
+      "shikimori_id": "40351",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-13T07:06:35Z",
+      "updated_at": "2020-08-17T13:35:39Z",
+      "seasons": {
+        "23": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/595273/95945e422f7bdcaa45e0f3e83812e573/720p",
+            "2": "//aniqit.com/seria/595274/e125429fead1304df77d5898a7cecb3c/720p",
+            "3": "//aniqit.com/seria/595275/537f5e274c4cc00dba6aa7cdf219b087/720p",
+            "4": "//aniqit.com/seria/706392/d19fc8235137898c48383376fc5f5e6b/720p",
+            "5": "//aniqit.com/seria/706393/b91386db2bce69e1866278725bf59473/720p",
+            "6": "//aniqit.com/seria/706394/573a38f223e3012bbbe0ae243045e154/720p",
+            "7": "//aniqit.com/seria/706395/d120042381f5314a2b58a6c403f63ee1/720p",
+            "8": "//aniqit.com/seria/706396/d22259181f2a8b46b5e2f371fe694f48/720p",
+            "9": "//aniqit.com/seria/706397/2722fc7e0f714ed5da770187749f0c49/720p",
+            "10": "//aniqit.com/seria/706398/32e763fa58b2852acfa86e00838500df/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Покемон",
+        "title_en": "Pokémon",
+        "other_titles": [
+          "Pocket Monsters",
+          "Pokemon 2019",
+          "Pokémon"
+        ],
+        "other_titles_en": [
+          "Pokemon Journeys: The Series"
+        ],
+        "other_titles_jp": [
+          "ポケットモンスター"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "ongoing",
+        "year": 1997,
+        "tagline": "Gotta catch 'em all!",
+        "description": "Мальчик Эш отправляется со своим первым покемоном Пикачу в путешествие с целью стать величайшим Мастером Покемонов на свете. По пути к нему присоединяются Брок, повернутый на девочках тренер каменных покемонов, и девчонка-сорванец Мисти, тренер водяных покемонов, которой, похоже, приглянулся Эш. Друзья путешествуют по всей стране, участвуя в различных соревнованиях покемонов. Однако по дороге им все время мешают Джесси, Джеймс и Мяут — троица воришек, охотящихся за Пикачу.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/79517.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/39079b416d1ce0919f6162d8c3f20ca64dbc9cad.jpg",
+          "https://shikimori.one/system/screenshots/original/ce1b7bf5095855150a594187378420ef2c8ecad0.jpg"
+        ],
+        "duration": 22,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Детское",
+          "Комедия",
+          "Приключения",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "OLM"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 19663,
+        "imdb_rating": 7.5,
+        "imdb_votes": 26774,
+        "shikimori_rating": 7.28,
+        "shikimori_votes": 250,
+        "premiere_world": "1998-09-08",
+        "aired_at": "2019-11-17",
+        "rating_mpaa": "PG",
+        "minimal_age": 12,
+        "episodes_total": 0,
+        "episodes_aired": 56,
+        "writers": [
+          "Дзюнъити Масуда",
+          "Кэн Сугимори",
+          "Сатоси Тадзири"
+        ]
+      }
+    },
+    {
+      "id": "movie-59056",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Прощание",
+      "title_orig": "Khuda Haafiz",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1097019",
+      "imdb_id": "tt7363104",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-17T12:06:23Z",
+      "updated_at": "2020-08-17T12:06:23Z",
+      "material_data": {
+        "title": "Прощание",
+        "title_en": "Khuda Haafiz",
+        "year": 2020,
+        "tagline": "Inspired from true events",
+        "description": "Мужчина спасает жену из сексуального рабства.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1097019.jpg",
+        "duration": 133,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "боевик",
+          "криминал"
+        ],
+        "imdb_rating": 7.1,
+        "imdb_votes": 15109,
+        "premiere_world": "2020-08-14",
+        "actors": [
+          "Видьют Джамвал",
+          "Shivaleeka Oberoi",
+          "Анну Капур",
+          "Шив Пандит",
+          "Ахана Кумра",
+          "Наваб Шах",
+          "Гарги Патель",
+          "Мохит Чаухан",
+          "Рио Кападиа",
+          "Ikhlaque Khan"
+        ],
+        "directors": [
+          "Farouque Kabir"
+        ],
+        "producers": [
+          "Абхишек Патхак",
+          "Кумар Мангат",
+          "Murli Chhatwani",
+          "Aditya Chowksey",
+          "Ollwyn Dsouza",
+          "Санджив Джоши"
+        ],
+        "writers": [
+          "Farouque Kabir"
+        ],
+        "composers": [
+          "Амар Мохиле",
+          "Митхун Шарма"
+        ],
+        "editors": [
+          "Сендип Френсис"
+        ],
+        "designers": [
+          "Prerna Kathuria",
+          "Ранджит Сингх",
+          "Nikhil Vijayanand"
+        ],
+        "operators": [
+          "Jitan Harmeet Singh"
+        ]
+      }
+    },
+    {
+      "id": "movie-59057",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Деревенский жених",
+      "title_orig": "Como Novio de Pueblo",
+      "translation": {
+        "id": 819,
+        "title": "AlphaProject",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1218232",
+      "imdb_id": "tt9358486",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-17T12:05:57Z",
+      "updated_at": "2020-08-17T12:05:57Z",
+      "material_data": {
+        "title": "Como Novio de Pueblo",
+        "title_en": "",
+        "year": 2019,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1218232.jpg",
+        "duration": 121,
+        "countries": [
+          "Мексика"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "imdb_rating": 5.6,
+        "imdb_votes": 280,
+        "premiere_world": "2019-03-15",
+        "actors": [
+          "Хосе Мария Де Тавира",
+          "Мартин Альтомаро",
+          "Рикардо Поланко",
+          "Рехина Бландон",
+          "Дамаянти Кинтанар",
+          "Марианна Бурелли",
+          "Emiliano Saiz y Madrid",
+          "Виктор Угго Мартин",
+          "Алисия Запьен",
+          "Марта Клаудия Морено"
+        ],
+        "directors": [
+          "Джо Рендон"
+        ],
+        "producers": [
+          "Вальтер Навас",
+          "Моника Варгас Селис",
+          "Леонардо Симброн",
+          "Фернандо Бовайра",
+          "Родриго Калдерон",
+          "Симон Де Сантьяго",
+          "Marcela Enríquez",
+          "Хосе Антонио Фелес",
+          "Руис Де Веласко Гонсало"
+        ],
+        "writers": [
+          "Джо Рендон",
+          "Даниэль Санчес Аревало",
+          "Алекс Марин и Колл",
+          "Isaac Salame"
+        ],
+        "composers": [
+          "Franco Medina-Mora"
+        ],
+        "editors": [
+          "Хоаким Марти"
+        ],
+        "designers": [
+          "Alejandro Martínez Sánchez",
+          "Пабло Гарса Сеговия",
+          "Лупита Пекинпа",
+          "Shazel Villaseñor"
+        ],
+        "operators": [
+          "Дэниэл Бланко"
+        ]
+      }
+    },
+    {
+      "id": "movie-59059",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Нимбе: Фильм",
+      "title_orig": "Nimbe: The Movie",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1196559",
+      "imdb_id": "tt8718112",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-17T12:00:33Z",
+      "updated_at": "2020-08-17T12:00:33Z",
+      "material_data": {
+        "title": "Nimbe: The Movie",
+        "title_en": "",
+        "year": 2019,
+        "tagline": "Save this society",
+        "duration": 110,
+        "countries": [
+          "Нигерия"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 5.2,
+        "imdb_votes": 46,
+        "premiere_world": "2019-03-29",
+        "actors": [
+          "Doyin Abiola",
+          "Toyin Abraham",
+          "Odunlade Adekola",
+          "Bukola Beecroft-Shofola",
+          "Sani Musa Danja",
+          "Molawa Davis",
+          "Chimezie Imo",
+          "Gbenga Ojerinde",
+          "Рэйчил Оконкво",
+          "Samuel A. Perry"
+        ],
+        "directors": [
+          "Tope Alake"
+        ],
+        "producers": [
+          "Folarin Laosun",
+          "Seun Dania"
+        ],
+        "writers": [
+          "Ronke Gbede",
+          "Yakubu Olawale"
+        ],
+        "composers": [
+          "Wale Waves"
+        ],
+        "editors": [
+          "Moshood Sanusi",
+          "Kesiena Uvietaire"
+        ],
+        "designers": [
+          "Wasiu Adedeji"
+        ],
+        "operators": [
+          "Jide Laosun",
+          "Segun Oladimeji"
+        ]
+      }
+    },
+    {
+      "id": "serial-26582",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Ты моя судьба (китайская версия)",
+      "title_orig": "Ni shi wo de ming zhong zhu ding",
+      "other_title": "Ты мой судьба / Обречен любить тебя / You Are My Destiny (China) / Fated to Love You",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 36,
+      "episodes_count": 36,
+      "kinopoisk_id": "1384324",
+      "imdb_id": "tt12357958",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-06-07T13:10:45Z",
+      "updated_at": "2020-08-17T08:47:54Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/663804/9ded1cfc4e029c62940dbf521f4604cf/720p",
+            "2": "//kodik.cc/seria/664127/7882e357402ab920b60f1b8a746242a6/720p",
+            "3": "//kodik.cc/seria/666430/0147f72e881c98e0bdf55cc22243345f/720p",
+            "4": "//kodik.cc/seria/670635/54ebdbc34b886dfe5e65304d51aa1019/720p",
+            "5": "//kodik.cc/seria/672425/507a124470a1cdd17d3da55e08f24990/720p",
+            "6": "//kodik.cc/seria/672701/a1b117fe96379099351fa01f003cef33/720p",
+            "7": "//kodik.cc/seria/673094/79da3078371d3900588e8f35188e9041/720p",
+            "8": "//kodik.cc/seria/674822/0e5cdc247b8f61eb443676c60d480ea5/720p",
+            "9": "//kodik.cc/seria/678597/fce89383df2a8fb17befbf568114d3cb/720p",
+            "10": "//kodik.cc/seria/678606/adbe6f5582fad840c4e313c893ba135b/720p",
+            "11": "//kodik.cc/seria/679054/72c3a23b725d4c93340750074e8a2026/720p",
+            "12": "//kodik.cc/seria/679860/4b4ed6fe5ddad20f5b42996f19ce6e20/720p",
+            "13": "//kodik.cc/seria/680518/072b8b621577723fc0184075dd1446d1/720p",
+            "14": "//kodik.cc/seria/682232/4e73e7ea52a5684d520514d5e33a73c0/720p",
+            "15": "//kodik.cc/seria/683194/cb7588a4f9d717896e82b47f2dfaf366/720p",
+            "16": "//kodik.cc/seria/685025/d3b1e7848a6e022593c65a2064dc6b2e/720p",
+            "17": "//kodik.cc/seria/686784/27af01a270f8ac35002a8380ad0dbaef/720p",
+            "18": "//kodik.cc/seria/687473/e8ed53e40eac6a241e708cd663406bc8/720p",
+            "19": "//kodik.cc/seria/687953/b8d81ccbd934315f4d097b892d19751b/720p",
+            "20": "//kodik.cc/seria/689193/100c6a9759fe8721e4bd1b6987a77df9/720p",
+            "21": "//kodik.cc/seria/690694/a5bd123e43862c2cf923083f172fba81/720p",
+            "22": "//kodik.cc/seria/692000/ca15d500c80cbf7804599428764a906e/720p",
+            "23": "//kodik.cc/seria/693000/7083a3667650da5bfdf206053980b0d6/720p",
+            "24": "//kodik.cc/seria/693921/0aac90bd8ce2830141c81bc95a80a3c0/720p",
+            "25": "//kodik.cc/seria/693928/98d55f483b6efea30b59c53df80dab15/720p",
+            "26": "//kodik.cc/seria/695524/01ae60979571062dc6d76499d8d91448/720p",
+            "27": "//kodik.cc/seria/695525/7333a365cdb0c4328dc2252b13188b02/720p",
+            "28": "//kodik.cc/seria/697642/d5592a4ec29a3a9e36cc455f43e82f56/720p",
+            "29": "//kodik.cc/seria/698498/734e80f034fa8113b79c4d9f0fb73f86/720p",
+            "30": "//kodik.cc/seria/698499/af1d2770fb8394169e5db3cb1b104326/720p",
+            "31": "//kodik.cc/seria/700662/1d2ff40063db34baa2e685cffa2df54a/720p",
+            "32": "//kodik.cc/seria/701399/296aaa1c6c92ea0b166dffd21235b257/720p",
+            "33": "//kodik.cc/seria/703261/956c436dc5e25d8318d82bd74606ac5c/720p",
+            "34": "//kodik.cc/seria/704953/e288bd8c8959ed2452fe1a34063cff67/720p",
+            "35": "//kodik.cc/seria/705243/623beba0f7b91c94bc86cf7ba45aea0e/720p",
+            "36": "//kodik.cc/seria/706302/42c644958fcca6f58605dc05df75d176/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Ты – моя судьба",
+        "title_en": "Ni shi wo de ming zhong zhu ding",
+        "year": 2020,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1384324.jpg",
+        "duration": 45,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 7.8,
+        "imdb_votes": 85,
+        "premiere_world": "2020-06-05",
+        "actors": [
+          "Цай Ган",
+          "Long Chang",
+          "Кравдия Чоу",
+          "Tara Clance",
+          "Jing Fu",
+          "Лян Цзе",
+          "Цзю Хао",
+          "Zhou Jun-Chao",
+          "Лиэнн Лау",
+          "Линь Фэнсун"
+        ],
+        "directors": [
+          "Чжоу Сяопэн"
+        ]
+      }
+    },
+    {
+      "id": "serial-28746",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Клуб друзей-водителей",
+      "title_orig": "Friend Club",
+      "other_title": "Друзья за рулём / Friend Friend presented by Nissan Almera",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 9,
+      "episodes_count": 9,
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-17T08:46:44Z",
+      "updated_at": "2020-08-17T08:46:44Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/706293/5e288e21882bdd9a5991d837cf364ea7/720p",
+            "2": "//kodik.cc/seria/706294/dfd1d66038fc8467c85ba6d421fa4f94/720p",
+            "3": "//kodik.cc/seria/706295/b46c89b17719e692eda99ba60f24dc89/720p",
+            "4": "//kodik.cc/seria/706296/7e4876b0ac4023c7b2e07923cc44e7c9/720p",
+            "5": "//kodik.cc/seria/706297/36806d769e183a02504eb588ee9cae15/720p",
+            "6": "//kodik.cc/seria/706298/7eaa0eb2b926c72f871b38f553a0b65d/720p",
+            "7": "//kodik.cc/seria/706299/b971fd072baba5858f5a6ec138f6b8d9/720p",
+            "8": "//kodik.cc/seria/706300/16ca7bde78eabb9f331113bc2b7b67fa/720p",
+            "9": "//kodik.cc/seria/706301/271933e206bfcc33ae73e64bc5908f75/720p"
+          }
+        }
+      }
+    },
+    {
       "id": "serial-28745",
       "type": "anime-serial",
       "link": "",
@@ -1296,7 +1961,7 @@
         "imdb_rating": 7.6,
         "imdb_votes": 1974,
         "shikimori_rating": 7.62,
-        "shikimori_votes": 12151,
+        "shikimori_votes": 12356,
         "premiere_world": "2016-07-02",
         "aired_at": "2016-07-04",
         "released_at": "2016-09-26",
@@ -7284,750 +7949,6 @@
         ],
         "writers": [
           "Кацухико Такаяма"
-        ]
-      }
-    },
-    {
-      "id": "serial-13893",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Кардиохирурги",
-      "title_orig": "Hyungbuoegwa",
-      "other_title": "Война врачей / Торакальная хирургия / Две жизни - одно сердце / Thoracic Surgery / Two Lives One Heart / Heart Surgeons",
-      "translation": {
-        "id": 639,
-        "title": "SoftBox",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1162768",
-      "imdb_id": "tt8992866",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-01-04T10:21:25Z",
-      "updated_at": "2020-08-15T08:51:54Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/368396/b9ce5722c1eb0324d0e895c83daf5d5f/720p",
-            "2": "//kodik.cc/seria/368397/9eeb405201c5a88e1c67d825b69b117d/720p",
-            "3": "//kodik.cc/seria/368398/605f147a9674287eba660da2dd5a39a2/720p",
-            "4": "//kodik.cc/seria/368399/fa109174b53663320d2d0094322e3669/720p",
-            "5": "//kodik.cc/seria/368400/c058263b1613db91d0112423ce3e9cb6/720p",
-            "6": "//kodik.cc/seria/368401/55a8c991e37e8ef1f6ec58388c9ab4e0/720p",
-            "7": "//kodik.cc/seria/368402/cbc32baec93ed729e020e8e770119799/720p",
-            "8": "//kodik.cc/seria/368403/c25ab0e3dc7381add14c0ae35e605b99/720p",
-            "9": "//kodik.cc/seria/368404/cb25dcf921bfa67ce292aaf6c62053bb/720p",
-            "10": "//kodik.cc/seria/368405/aa2fa4cfc0d0cdacc64a29f342e589cd/720p",
-            "11": "//kodik.cc/seria/368406/f7f0624180a5f211f85ea709920a262d/720p",
-            "12": "//kodik.cc/seria/368407/5d943c2d563b93b5fb9550bf285023c4/720p",
-            "13": "//kodik.cc/seria/368408/06804ad22f2e1d18d7002893206ccff0/720p",
-            "14": "//kodik.cc/seria/368409/67f847e8c946b17c69951ad3fbfa469e/720p",
-            "15": "//kodik.cc/seria/368410/7678b59563bf0abc44e4d75523fbbd8e/720p",
-            "16": "//kodik.cc/seria/368411/44c44a81b59490a3c4c70a33928907a1/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Кардиохирурги",
-        "title_en": "Hyungbuoegwa",
-        "year": 2018,
-        "description": "История о трёх людях, чьи жизни связаны с кардиохирургией.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1162768.jpg",
-        "duration": 35,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 7.8,
-        "imdb_votes": 35,
-        "premiere_world": "2018-09-27",
-        "actors": [
-          "Ко Су",
-          "Ом Ги-джун",
-          "Со Джи-хе",
-          "Нам Гён-ып",
-          "Чан Со-ён",
-          "Ким Е-вон",
-          "Чон Бо-сок",
-          "О Дон-мин",
-          "Ан Нэ-сан",
-          "Ли Джэ-вон"
-        ],
-        "directors": [
-          "Чон Дон-юн",
-          "Чо Ён-гван"
-        ],
-        "writers": [
-          "Чхве Су-джин",
-          "Чхве Чхан-хван"
-        ]
-      }
-    },
-    {
-      "id": "serial-28032",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "С миру по нитке",
-      "title_orig": "Sipsiilban",
-      "other_title": "Десять с половиной часов / Вмешательство / Семейный очаг / Объединим усилия ради общего блага / Chip In / United Effort to Accomplish One Thing",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 7,
-      "episodes_count": 7,
-      "kinopoisk_id": "1357505",
-      "imdb_id": "tt12516638",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-23T20:34:32Z",
-      "updated_at": "2020-08-15T08:45:46Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/692003/d6c9957ec17d27d52ed6b3ae36bb4a2d/720p",
-            "2": "//kodik.cc/seria/692043/65b7bb7b72939f5cd7a680dfbee2897d/720p",
-            "3": "//kodik.cc/seria/695992/ee951d6255c1a76c2995fb5da59ffc7b/720p",
-            "4": "//kodik.cc/seria/696714/296fd803ff8deaa3306c026146976972/720p",
-            "5": "//kodik.cc/seria/700394/c18f8888973372a25f79c5a1b165e58d/720p",
-            "6": "//kodik.cc/seria/700653/67af04002fb75367066cdd016c202332/720p",
-            "7": "//kodik.cc/seria/705242/7a14766d4b3012f198e47841fba27ccc/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "С миру по нитке",
-        "title_en": "Sipsiilban",
-        "year": 2020,
-        "description": "Дочь известной и богатой художницы оказывается втянута в тяжбу за собственность.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1357505.jpg",
-        "duration": 35,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 7.2,
-        "imdb_votes": 37,
-        "premiere_world": "2020-07-22",
-        "actors": [
-          "Ким Хе-джун",
-          "О На-ра",
-          "Хан Сон-чхон",
-          "Ким Джон-ён",
-          "Чхве Гю-джин",
-          "Ким Щи-ын",
-          "Квон Дон-хо",
-          "Нам Мун-чхоль"
-        ],
-        "directors": [
-          "Чин Чхан-гю"
-        ],
-        "writers": [
-          "Чхве Гён"
-        ]
-      }
-    },
-    {
-      "id": "serial-27677",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Девушка на час [ТВ-1]",
-      "title_orig": "Kanojo, Okarishimasu",
-      "other_title": "Девушка на час / Девушка напрокат / Девушка в аренду / Rent-A-Girlfriend",
-      "translation": {
-        "id": 1291,
-        "title": "Crunchyroll.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "1332676",
-      "imdb_id": "tt11448214",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10329",
-      "shikimori_id": "40839",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-11T11:21:36Z",
-      "updated_at": "2020-08-15T08:38:28Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/684373/fc1ea4b41c2e3cc3913a3b69554ef640/720p",
-            "2": "//aniqit.com/seria/688551/d8ffde3999205f50fc064d2aaea1b379/720p",
-            "3": "//aniqit.com/seria/692473/8ce3901f645440b2d9c266cbd5acf09e/720p",
-            "4": "//aniqit.com/seria/696531/3d346b531cb8dc4185b9b293e6400249/720p",
-            "5": "//aniqit.com/seria/702735/32171340a844ac0c679172b58c3cf37c/720p",
-            "6": "//aniqit.com/seria/705240/0798dbe997d6620a70257b8072d41ab6/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Девушка на час",
-        "title_en": "Kanojo, Okarishimasu",
-        "other_titles": [
-          "Девушка в аренду",
-          "Kanokari"
-        ],
-        "other_titles_en": [
-          "Rent-a-Girlfriend"
-        ],
-        "other_titles_jp": [
-          "彼女、お借りします"
-        ],
-        "anime_license_name": "Девушка напрокат",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2020,
-        "description": "Брошенный своей девушкой студент Кадзуя пытается заполнить пустоту в сердце с помощью арендованной подруги из мобильного приложения. Поначалу Тидзуру кажется идеальной – она красивая, милая и заботливая. Однако, увидев неоднозначные отзывы в её профиле, Кадзуя решает, что Тидзуру просто играет с мужчинами, и ставит ей плохую оценку. Рассерженная девушка показывает свою истинную сущность.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1332676.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/e96a89e4c80eaad93d6c174e3dc2b518530d4869.jpg",
-          "https://shikimori.one/system/screenshots/original/4f217b2770d3238ce8beca08b7e4515628762f9d.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Романтика",
-          "Сёнен",
-          "Школа"
-        ],
-        "anime_studios": [
-          "TMS Entertainment"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 514,
-        "imdb_rating": 7.3,
-        "imdb_votes": 1593,
-        "shikimori_rating": 7.37,
-        "shikimori_votes": 10107,
-        "premiere_world": "2020-07-10",
-        "aired_at": "2020-07-11",
-        "released_at": "2020-09-26",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Сюн Хориэ",
-          "Сора Амамия",
-          "Аои Юки",
-          "Нао Тояма",
-          "Риэ Такахаси"
-        ],
-        "directors": [
-          "Кадзуоми Кога"
-        ],
-        "writers": [
-          "Мицутака Хирота",
-          "Рэидзи Миядзима"
-        ],
-        "composers": [
-          "Кэнъити Маэямада"
-        ]
-      }
-    },
-    {
-      "id": "serial-28695",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Мы слабые, но выиграем",
-      "title_orig": "Yowakutemo katemasu: Aoshi-sensei to heppoko kokokyuji no yabo",
-      "other_title": "Can Win Even If Weak",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 11,
-      "episodes_count": 11,
-      "kinopoisk_id": "1178192",
-      "imdb_id": "tt3493600",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-15T05:47:56Z",
-      "updated_at": "2020-08-15T05:47:56Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/705202/f2de317f6e5182934e58cfc69a2e5f0f/720p",
-            "2": "//kodik.cc/seria/705203/49a0dd6bf46c1e124721ba7f4175e866/720p",
-            "3": "//kodik.cc/seria/705204/d9a6a4815f003ee52fb613a5c212334c/720p",
-            "4": "//kodik.cc/seria/705205/3ee728154057f32a0b935bdeef566251/720p",
-            "5": "//kodik.cc/seria/705206/2d2af464625965d370781b0a403beca9/720p",
-            "6": "//kodik.cc/seria/705207/cd67210698eb746decf2bc1b29925b63/720p",
-            "7": "//kodik.cc/seria/705208/71695ac735f430e5c3bbc2f50a77fb86/720p",
-            "8": "//kodik.cc/seria/705209/f39e33d8802f7eb702b8c510b7d2dfcc/720p",
-            "9": "//kodik.cc/seria/705210/0cd4ea27b0233e150945ef5296a49b79/720p",
-            "10": "//kodik.cc/seria/705211/428c8b6174b625e73fb9271ced4872d4/720p",
-            "11": "//kodik.cc/seria/705212/9f860b85e078ea60229035f42e5c804a/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Мы слабые, но выиграем",
-        "title_en": "Yowakutemo katemasu: Aoshi-sensei to heppoko kokokyuji no yabo",
-        "year": 2014,
-        "duration": 54,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "комедия",
-          "спорт"
-        ],
-        "imdb_rating": 6.1,
-        "imdb_votes": 39,
-        "premiere_world": "2014-04-12",
-        "actors": [
-          "Кадзунари Ниномия",
-          "Кумико Асо",
-          "Сота Фукуси",
-          "Кэнто Ямадзаки",
-          "Юто Накадзима",
-          "Каната Хонго",
-          "Сётаро Мамия",
-          "Дори Сакурада",
-          "Кацухиро Судзуки",
-          "Сюнтаро Янаги"
-        ],
-        "directors": [
-          "Синтаро Сугавара",
-          "Кэндзи Икэда",
-          "Хирото Акаси"
-        ],
-        "producers": [
-          "Хибики Ито",
-          "Маки Канадзава",
-          "Хидэхиро Коно",
-          "Хироко Окура",
-          "Митиё Сугимото"
-        ],
-        "writers": [
-          "Хидэминэ Такахаси",
-          "Ютака Курамоти",
-          "Нондзи Нэмото"
-        ],
-        "composers": [
-          "Акира Иноэ"
-        ]
-      }
-    },
-    {
-      "id": "serial-28691",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "3% (Три процента)",
-      "title_orig": "3%",
-      "translation": {
-        "id": 752,
-        "title": "IDEAFILM",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 4,
-      "last_episode": 7,
-      "episodes_count": 7,
-      "kinopoisk_id": "1007455",
-      "imdb_id": "tt4922804",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-04-30T11:09:54Z",
-      "updated_at": "2020-08-15T05:46:25Z",
-      "seasons": {
-        "4": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/705170/d34dc6448bc2a4690fc378216179cbbe/720p",
-            "2": "//kodik.cc/seria/705171/acb7d00215f186bc9b1d9f69990e9821/720p",
-            "3": "//kodik.cc/seria/705172/3b6c5394b3d2c751b92855952516ef3f/720p",
-            "4": "//kodik.cc/seria/705173/36f747a110f69b65448bc65d29887726/720p",
-            "5": "//kodik.cc/seria/705224/2f2080d18f6dfce21b221eaee6fd7935/720p",
-            "6": "//kodik.cc/seria/705225/355f17b3d9dc9809f84b2a9edc7bc5ba/720p",
-            "7": "//kodik.cc/seria/705226/43ca21e452d0663aea06f6eb3afc93a1/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "3%",
-        "title_en": "3%",
-        "year": 2016,
-        "tagline": "Equality is a convincing illusion.",
-        "description": "Будущее, в котором мир разделён на две части: одни богатые, другие - нищие. Распределение происходит в результате строгого и кропотливого отбора под названием «Процесс». В двадцать лет каждому человеку дается шанс, избранные не возвращаются назад. Но их всего - три процента.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1007455.jpg",
-        "duration": 49,
-        "countries": [
-          "Бразилия"
-        ],
-        "genres": [
-          "боевик",
-          "триллер",
-          "фантастика"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 2967,
-        "imdb_rating": 7.4,
-        "imdb_votes": 21768,
-        "premiere_world": "2016-11-25",
-        "actors": [
-          "Бьянка Компрату",
-          "Ванеза Оливейра",
-          "Родольфо Валенте",
-          "Зезе Мотта",
-          "Рафаэль Лозаньо",
-          "Fátima Porphirio",
-          "Интия Сенек",
-          "Бруно Фагундез",
-          "Лайла Гарин",
-          "Thais Lago"
-        ],
-        "directors": [
-          "Jotagá Crema",
-          "Daina Giannecchini",
-          "Dani Libardi",
-          "Филипп Барчинский",
-          "Сезар Шарлони"
-        ],
-        "producers": [
-          "Тьяго Мелло",
-          "Артуро Диаз Рамос",
-          "Диего Авалос",
-          "Эрик Бармак",
-          "Robério Braga",
-          "Kelly Luegenbiehl",
-          "Lô Politi",
-          "Raquel Gusson",
-          "Eduardo Piagge"
-        ],
-        "writers": [
-          "Педро Агилера",
-          "Иван Накамура",
-          "Дэнис Нилсен",
-          "Teodoro Poppovic",
-          "Guilherme Freitas",
-          "Джулиана Рохас",
-          "André Sirangelo",
-          "Carol Rodrigues",
-          "Jotagá Crema",
-          "Cássio Koshikumo"
-        ],
-        "composers": [
-          "André Mehmari",
-          "Submarino Fantástico"
-        ],
-        "editors": [
-          "Винисиус Мартинс",
-          "Кристиан Чинен",
-          "Даниэль Гриншпу",
-          "Olívia Brenga",
-          "Рикардо Гонкалвес",
-          "Lia Kulakauskas"
-        ],
-        "designers": [
-          "Валди Лопес",
-          "Fernando Zuccolotto",
-          "Грасиэла Мартинс",
-          "Марио Суркан"
-        ],
-        "operators": [
-          "Eduardo Piagge",
-          "Рафаэль Мартинелли"
-        ]
-      }
-    },
-    {
-      "id": "serial-28694",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Круг",
-      "title_orig": "Çember",
-      "other_title": "Замкнутый круг",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 11,
-      "episodes_count": 11,
-      "kinopoisk_id": "1048084",
-      "imdb_id": "tt7130992",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-15T05:44:13Z",
-      "updated_at": "2020-08-15T05:44:13Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/705190/675c7ca283edceeb3568ca8771e3e305/720p",
-            "2": "//kodik.cc/seria/705191/198631ff9110a13f6c8256e273b6c848/720p",
-            "3": "//kodik.cc/seria/705192/536e4020c24667629c4b73b17643c6b6/720p",
-            "4": "//kodik.cc/seria/705193/e36df1d84d638e4e0e4d1dc70a1e19ff/720p",
-            "5": "//kodik.cc/seria/705194/be1655da80018add9136b58f5a8b0d57/720p",
-            "6": "//kodik.cc/seria/705195/c18419b34adc378f0b317d168c6f82a0/720p",
-            "7": "//kodik.cc/seria/705196/1da3830082bd7f5ca86743b23fb774e7/720p",
-            "8": "//kodik.cc/seria/705197/c674882439930c6f981cf426a596acfc/720p",
-            "9": "//kodik.cc/seria/705198/a11936dba914c63b0755d9f0830f9d34/720p",
-            "10": "//kodik.cc/seria/705199/74f87f7a77a4c83a47c447b8b9ba7973/720p",
-            "11": "//kodik.cc/seria/705200/1f52b92a4bd56c5a9c73a6e078b9a997/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Круг",
-        "title_en": "Çember",
-        "year": 2017,
-        "description": "В Турции организовывают специальную команду, которая должна раскрывать сложные преступления. В команде комиссара Барыша у каждого есть свои уникальные таланты. Комиссар Адем раскрывает преступления, используя дедукцию. Помощник комиссара Айше мгновенно определяет лжеца. Волкан - хакер. Объединившись, они начнут мастерски раскрывать самые запутанные дела.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1048084.jpg",
-        "countries": [
-          "Турция"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "криминал"
-        ],
-        "imdb_rating": 7.8,
-        "imdb_votes": 491,
-        "premiere_world": "2017-07-03",
-        "actors": [
-          "Барыш Багджи",
-          "Пелин Акил",
-          "Аныл Алтан",
-          "Серхат Мустафа Кылыч",
-          "Олгун Токер",
-          "Айлин Шаллы",
-          "Resit Berker Enhos",
-          "Мендерес Саманджилар",
-          "Гонджагюль Сунар",
-          "Мелиса Сёзен"
-        ],
-        "directors": [
-          "Абдулла Огуз",
-          "Эврен Огуз"
-        ],
-        "producers": [
-          "Абдулла Огуз",
-          "Эврен Огуз",
-          "Mahmut Kayimtu",
-          "Selen Sevigen"
-        ],
-        "writers": [
-          "Ибрахим Алтун",
-          "Гозде Йильмаз"
-        ]
-      }
-    },
-    {
-      "id": "serial-28693",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Полулюди OVA",
-      "title_orig": "Ajin OVA",
-      "other_title": "亜人 OVA",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 3,
-      "episodes_count": 3,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8536",
-      "shikimori_id": "32015",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-15T05:39:31Z",
-      "updated_at": "2020-08-15T05:39:31Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/705187/e3f9ca6b60c35291d6a0084e3b4e1eeb/720p",
-            "2": "//aniqit.com/seria/705188/a1d9fd90d9f71609a5178fcab808e483/720p",
-            "3": "//aniqit.com/seria/705189/dd848bb8abbe11e7965c638541b7b082/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Нелюдь OVA",
-        "title_en": "Ajin OVA",
-        "other_titles": [
-          "Получеловек OVA"
-        ],
-        "other_titles_jp": [
-          "亜人"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "description": "Нелюдь. Этот вид человечества появился семнадцать лет назад в Африке при проведении боевых действий. Их особенность — бессмертие. Из-за нависшей угрозы правительство объявляет щедрую награду за поимку хотя бы одного нелюдя.\r\nНаше время. Токио. Обычный первокурсник Синъя Накамура даже не подозревает, что после очередной быстрой поездки на своём мотоцикле его жизнь изменится в совершенно другую сторону.",
-        "poster_url": "https://shikimori.one/system/animes/original/32015.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/abf0309dd97f387186478fd67de7eed3497a583f.jpg",
-          "https://shikimori.one/system/screenshots/original/0b3cb82faac2e970ec3a27cc7dc8e03d9d113c97.jpg"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Сверхъестественное",
-          "Сейнен",
-          "Ужасы",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Polygon Pictures"
-        ],
-        "shikimori_rating": 7.25,
-        "shikimori_votes": 1790,
-        "aired_at": "2016-05-06",
-        "released_at": "2016-10-07",
-        "rating_mpaa": "R",
-        "episodes_total": 2,
-        "episodes_aired": 2
-      }
-    },
-    {
-      "id": "serial-28692",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Маг на полную ставку",
-      "title_orig": "Quanzhi Fashi",
-      "other_title": "Штатный волшебник / Full-Time Magister / Quanzhi Fashi 1th Season",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1112797",
-      "imdb_id": "tt11317074",
-      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=72439",
-      "shikimori_id": "34300",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-15T05:34:28Z",
-      "updated_at": "2020-08-15T05:34:28Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/705175/abb6524c21b60e236325441999c7949a/720p",
-            "2": "//aniqit.com/seria/705176/44243e870c54d9fede59a01d8558266c/720p",
-            "3": "//aniqit.com/seria/705177/faa066b1586fd14e4ddf8fd94f41b33c/720p",
-            "4": "//aniqit.com/seria/705178/21b15e1bb870ad161e5ec493f02a90c3/720p",
-            "5": "//aniqit.com/seria/705179/9b44b1fd4728ebb15d7a0dd0fec04835/720p",
-            "6": "//aniqit.com/seria/705180/99a1a09f4423b17f7b5f0e23a3b711d8/720p",
-            "7": "//aniqit.com/seria/705181/b762603685bf1ec25171af1bc5c69183/720p",
-            "8": "//aniqit.com/seria/705182/2ce371363e6f7928f1f4cc18b3565e25/720p",
-            "9": "//aniqit.com/seria/705183/2d4252a8f910bb7af783cfe2b4ce7a59/720p",
-            "10": "//aniqit.com/seria/705184/f283065cabb4c68b784c59f238a4eaa2/720p",
-            "11": "//aniqit.com/seria/705185/c35ea958cb50cc2d999dec3ef51c36b3/720p",
-            "12": "//aniqit.com/seria/705186/203c211965620218edcc0bdba23cedb3/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Маг на полную ставку",
-        "title_en": "Quan zhi fa shi",
-        "other_titles": [
-          "Штатный волшебник",
-          "Quan Zhi Fa Shi",
-          "Full-Time Magister"
-        ],
-        "other_titles_en": [
-          "QUANZHIFASHI"
-        ],
-        "other_titles_jp": [
-          "全职法师"
-        ],
-        "anime_kind": "ona",
-        "anime_status": "released",
-        "year": 2016,
-        "description": "Внезапно мир меняется, и парень вместо обычной школы ходит в школу магии. Все люди могут управлять лишь одним элементов, но наш герой способен на большее.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1112797.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/24f116ba8a1e187bbd3a91ad38ba4f480f81a71a.jpg",
-          "https://shikimori.one/system/screenshots/original/86921666b56abf921ab42ff91c7bccf72af61fdb.jpg"
-        ],
-        "duration": 18,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "мультфильм",
-          "приключения",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Магия",
-          "Фэнтези",
-          "Школа",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Shanghai Foch Film Culture Investment"
-        ],
-        "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 2617,
-        "imdb_rating": 8.3,
-        "imdb_votes": 52,
-        "shikimori_rating": 7.3,
-        "shikimori_votes": 8310,
-        "premiere_world": "2016-09-01",
-        "aired_at": "2016-09-02",
-        "released_at": "2016-11-04",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 0,
-        "actors": [
-          "Чжао Лу",
-          "Шэнь Давэй"
         ]
       }
     }

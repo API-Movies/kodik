@@ -1,6 +1,757 @@
 {
   "results": [
     {
+      "id": "movie-50878",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Любовь моей жизни",
+      "title_orig": "Love of My Life",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2013,
+      "kinopoisk_id": "668244",
+      "imdb_id": "tt2246831",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-04T18:28:32Z",
+      "updated_at": "2020-03-04T18:28:32Z",
+      "material_data": {
+        "title": "Любовь моей жизни",
+        "title_en": "Love of my Life",
+        "year": 2013,
+        "description": "Заснув в своей квартире, Джулиус открывает глаза в заброшенной больнице, привязанный к операционному столу. За пять дней он должен попытаться излечиться от любви, в чем ему будет помогать добрый доктор, самый лучший специалист по запущенным случаям. Сможет ли Джулиус сохранить чувства в адских муках и не отказаться от любимой?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/668244.jpg",
+        "duration": 96,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "триллер",
+          "ужасы"
+        ],
+        "kinopoisk_rating": 3.6,
+        "kinopoisk_votes": 91,
+        "imdb_rating": 3.4,
+        "imdb_votes": 315,
+        "premiere_world": "2013-11-10",
+        "actors": [
+          "Питер О’Брайэн",
+          "Бель Делиа",
+          "Жан-Пьер Йерма",
+          "Майкл Бадд",
+          "Isaro Kayitesi",
+          "Даэрмид Хайденрик",
+          "Аманда Джермин",
+          "Роб Мессер",
+          "Рипли Худ",
+          "Стивен Дэймонд"
+        ],
+        "directors": [
+          "Майкл Бадд"
+        ],
+        "producers": [
+          "Эллисон Бергер",
+          "Майкл Бадд",
+          "Вердон Катлер",
+          "Даэрмид Хайденрик",
+          "Фрэнк Манна",
+          "Адам МакАнульти",
+          "Анжелика Поллет",
+          "Йен Поллет",
+          "Мэттью Шон"
+        ],
+        "writers": [
+          "Лайам Барретт"
+        ],
+        "composers": [
+          "Enrica Sciandrone"
+        ],
+        "editors": [
+          "Райан МакГуайр"
+        ],
+        "designers": [
+          "Monika Azcona",
+          "Эжур Чэпман",
+          "Jamie-Lee Garner"
+        ],
+        "operators": [
+          "Стив Арнольд"
+        ]
+      }
+    },
+    {
+      "id": "movie-49654",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Сделано в Китае",
+      "title_orig": "Made in China",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1192652",
+      "imdb_id": "tt8983180",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-17T14:35:39Z",
+      "updated_at": "2020-03-04T18:27:57Z",
+      "material_data": {
+        "title": "Сделано в Китае",
+        "title_en": "Made in China",
+        "year": 2019,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1192652.jpg",
+        "duration": 128,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "imdb_rating": 6.2,
+        "imdb_votes": 3574,
+        "premiere_world": "2019-10-25",
+        "actors": [
+          "Раджкумар Рао",
+          "Боман Ирани",
+          "Муни Рой",
+          "Пареш Раваль",
+          "Гаджрадж Рао",
+          "Сумит Вьяс",
+          "Амира Дастур",
+          "Маной Джоши",
+          "Амит Бимрот",
+          "Bijou Thaangjam"
+        ],
+        "directors": [
+          "Mikhil Musale"
+        ],
+        "producers": [
+          "Динеш Виджан",
+          "Сачин Агарвал",
+          "Санджив Мишра"
+        ],
+        "writers": [
+          "Niren Bhatt",
+          "Parinda Joshi",
+          "Mikhil Musale",
+          "Каран Вьяс"
+        ],
+        "composers": [
+          "Сачин Сангхви",
+          "Джигар"
+        ],
+        "editors": [
+          "Манан Мехта"
+        ],
+        "designers": [
+          "Маюр Шарма",
+          "Амриш Патанге",
+          "Даянидхи Паттураджан",
+          "Шитал Шарма"
+        ],
+        "operators": [
+          "Анудж Дхаван"
+        ]
+      }
+    },
+    {
+      "id": "movie-50879",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Идеальные незнакомцы",
+      "title_orig": "Perfectos desconocidos",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1164864",
+      "imdb_id": "tt8580348",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-04T18:27:10Z",
+      "updated_at": "2020-03-04T18:27:10Z",
+      "material_data": {
+        "title": "Идеальные незнакомцы",
+        "title_en": "Perfectos desconocidos",
+        "year": 2018,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1164864.jpg",
+        "duration": 97,
+        "countries": [
+          "Мексика"
+        ],
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "imdb_rating": 6.5,
+        "imdb_votes": 1366,
+        "premiere_world": "2018-10-23",
+        "rating_mpaa": "R",
+        "actors": [
+          "Бруно Бичир",
+          "Мануэль Рульфо",
+          "Franky Martín",
+          "Мигель Родарте",
+          "Сесилия Суарес",
+          "Ана Клаудия Таланкон",
+          "Мариана Тревино",
+          "Camila Valero"
+        ],
+        "directors": [
+          "Маноло Каро Серрано"
+        ],
+        "producers": [
+          "Маноло Каро Серрано",
+          "Maria Jose Cordova",
+          "Rodrigo Sebastian Gonzalez",
+          "Рафаэль Лей",
+          "Мигель Миер"
+        ],
+        "writers": [
+          "Паоло Дженовезе",
+          "Паола Маммини",
+          "Роландо Равелло",
+          "Паоло Костелла",
+          "Филиппо Болонья"
+        ],
+        "editors": [
+          "Miguel Musálem"
+        ],
+        "operators": [
+          "Педро Гомез Миллан"
+        ]
+      }
+    },
+    {
+      "id": "serial-23374",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Возрождающие",
+      "title_orig": "Re:Creators",
+      "translation": {
+        "id": 654,
+        "title": "AniFilm",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 22,
+      "episodes_count": 22,
+      "kinopoisk_id": "1111095",
+      "imdb_id": "tt6755926",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9073",
+      "shikimori_id": "34561",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-03-04T17:35:12Z",
+      "updated_at": "2020-03-04T17:35:31Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/602481/22259c8da352597333732c70aad2d0de/720p",
+            "2": "//aniqit.com/seria/602482/979b13d17068264cd856bad34e90e318/720p",
+            "3": "//aniqit.com/seria/602483/bece37eba7db40ca8e19a284e38f43cc/720p",
+            "4": "//aniqit.com/seria/602484/5a3c46d0c20171204b0a56cd8216f743/720p",
+            "5": "//aniqit.com/seria/602485/5eaf54b7b18e51d328bd3718d91a67ad/720p",
+            "6": "//aniqit.com/seria/602486/4f1f1f00cda0a6f3422a4dd0f9987442/720p",
+            "7": "//aniqit.com/seria/602487/3b04f178c32f501fd4ea02b9045081c5/720p",
+            "8": "//aniqit.com/seria/602488/383edb76b2fdde4afcbd0c8273bb253c/720p",
+            "9": "//aniqit.com/seria/602489/a346ec3a3eb794a72ac4571a7ec22dcc/720p",
+            "10": "//aniqit.com/seria/602490/e2417bbd53a2360e28cce2abd4819d4c/720p",
+            "11": "//aniqit.com/seria/602491/12b9d2999ec50f9c0e76cf15968a36b4/720p",
+            "12": "//aniqit.com/seria/602492/7c4fc00e32419f5c3d498e618099b3a2/720p",
+            "13": "//aniqit.com/seria/602493/d177cf1c70c96cbf73773c0d5c030cb8/720p",
+            "14": "//aniqit.com/seria/602494/8f9e5ebaad94138aeb04e6c6c4249595/720p",
+            "15": "//aniqit.com/seria/602495/be0537b710a563e2dbaf1778e35889ff/720p",
+            "16": "//aniqit.com/seria/602496/4940476634707366b722e0189ed47493/720p",
+            "17": "//aniqit.com/seria/602497/3444707d1c7e1a3940653a311559a878/720p",
+            "18": "//aniqit.com/seria/602498/0049e453db839e07446e580c898f4cee/720p",
+            "19": "//aniqit.com/seria/602499/bb56fe50d799b963c1b97eca2c1aca2b/720p",
+            "20": "//aniqit.com/seria/602500/6f65cda3ad0f055c664265351005a806/720p",
+            "21": "//aniqit.com/seria/602501/542fbfa04765ff92d4eabe1eac2dfc6d/720p",
+            "22": "//aniqit.com/seria/602502/f212539c25891afdb78388cc3549e7b9/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Возрождающие",
+        "title_en": "Re: Creators",
+        "other_titles_en": [
+          "Re:CREATORS"
+        ],
+        "other_titles_jp": [
+          "Re:CREATORS 〈レクリエイターズ〉"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2017,
+        "description": "Множество прекрасных историй вышло из-под пера человека. \r\nИскрометная радость, глубокая печаль, бушующая ненависть — все эти яркие эмоции причудливо переплетены на их страницах. Истории пробуждают воображение, волнуют чувства, очаровывают и приводят в восторг.\r\nТак кажется на первый взгляд.\r\nНо что если герои истории наделены собственной волей? А мы, люди, для них — богоподобные создания, творцы, что дают жизнь их мирам и также легко низвергают в небытие?\r\nОтныне и наш мир изменился.\r\nДа свершится возмездие в царстве беззаботных богов. Ведь в новом мире каждый способен стать Творцом.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1111095.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/06a92aaf3bbb4992a36622ce499a6f05aec6eff3.jpg",
+          "https://shikimori.one/system/screenshots/original/8e5aaa55f1ec66e36b35a41ae2844000767b41c6.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Меха",
+          "Фантастика",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "TROYCA"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 988,
+        "imdb_rating": 7,
+        "imdb_votes": 726,
+        "shikimori_rating": 7.58,
+        "shikimori_votes": 12695,
+        "premiere_world": "2017-04-08",
+        "aired_at": "2017-04-08",
+        "released_at": "2017-09-16",
+        "rating_mpaa": "R",
+        "episodes_total": 22,
+        "episodes_aired": 22,
+        "actors": [
+          "Даики Ямасита",
+          "Инори Минасэ",
+          "Микако Комацу",
+          "Кацуюки Конъиси",
+          "Кэнъити Судзумура",
+          "Сора Амамия",
+          "Хисако Канэмото",
+          "Рё Сугисаки",
+          "Аюми Цунэмацу",
+          "Ёко Хикаса"
+        ],
+        "directors": [
+          "Макото Като",
+          "Нао Умакава",
+          "Сюу Ватанабэ",
+          "Хироки Хаяси",
+          "Эи Аоки",
+          "Кадзуто Араи",
+          "Макото Бэссё",
+          "Гэйсэй Морита",
+          "Акико Накано",
+          "Киёмицу Сато"
+        ],
+        "producers": [
+          "Сидзука Куросаки",
+          "Тосиюки Нагано",
+          "Дзюнъя Окамото",
+          "Ёсукэ Тоба",
+          "Микио Уэцуки"
+        ],
+        "writers": [
+          "Эи Аоки",
+          "Рэй Хироэ",
+          "Юкито Кидзава",
+          "Мунэо Накамото",
+          "Юки Сугавара"
+        ],
+        "composers": [
+          "Хироюки Савано"
+        ],
+        "editors": [
+          "Сёта Мигияма"
+        ],
+        "designers": [
+          "Коки Нагаёси"
+        ],
+        "operators": [
+          "Томонобу Като"
+        ]
+      }
+    },
+    {
+      "id": "serial-23373",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Школьная жизнь!",
+      "title_orig": "Gakkougurashi!",
+      "other_title": "Школьная жизнь",
+      "translation": {
+        "id": 654,
+        "title": "AniFilm",
+        "type": "voice"
+      },
+      "year": 2015,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "940676",
+      "imdb_id": "tt5105452",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2335",
+      "shikimori_id": "24765",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-03-04T17:32:17Z",
+      "updated_at": "2020-03-04T17:32:17Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/602454/2c51edc8725c65b34236dd47db9972d1/720p",
+            "2": "//aniqit.com/seria/602455/4c5380e1b0e3e09f13c6803da290c471/720p",
+            "3": "//aniqit.com/seria/602456/5ecd5ff3a504be54beeef192ec5ca6d7/720p",
+            "4": "//aniqit.com/seria/602457/b76af4e4680eb4241f74c6285943f474/720p",
+            "5": "//aniqit.com/seria/602458/cd6b578a4e2a7ea93097ce66a0125a0c/720p",
+            "6": "//aniqit.com/seria/602459/b0aaebc2ec59ad381b3395824c0f0914/720p",
+            "7": "//aniqit.com/seria/602460/a9d547f57144d97d6d0fd2f55faea537/720p",
+            "8": "//aniqit.com/seria/602461/2f4e345293129ea53486878a2f5d20b0/720p",
+            "9": "//aniqit.com/seria/602462/5ce0b301ad2fb5b08ac52a6f36628854/720p",
+            "10": "//aniqit.com/seria/602463/2a8b17b02edcce41e62706f4b7a411ea/720p",
+            "11": "//aniqit.com/seria/602464/a369eecd62c7066e9ee602f692de18e0/720p",
+            "12": "//aniqit.com/seria/602465/9230084e35ccce4c747121cd9475dcfc/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Школьная жизнь",
+        "title_en": "Gakko-gurashi!",
+        "other_titles": [
+          "Gakkou Gurashi!"
+        ],
+        "other_titles_en": [
+          "School-Live!"
+        ],
+        "other_titles_jp": [
+          "がっこうぐらし！"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2015,
+        "description": "Энергичная Юки Такэя очень любит свою школу, причём настолько сильно, что в прямом смысле живёт там вместе со своими подружками из «Кружка школьной жизни»: задумчивой Мики, заботливой Юри и серьёзной Куруми, которая никогда не расстаётся со своей лопатой. Можно было бы только порадоваться за девочек, если бы не одно обстоятельство.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/940676.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/97f3ea4b3429ed4e3883b2429d5fec74db604aef.jpg",
+          "https://shikimori.one/system/screenshots/original/e82fa3e6cc651a817ed291331919432fa5e1ff1b.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "ужасы"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Повседневность",
+          "Психологическое",
+          "Ужасы",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Lerche"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 418,
+        "imdb_rating": 7.2,
+        "imdb_votes": 563,
+        "shikimori_rating": 7.64,
+        "shikimori_votes": 9561,
+        "premiere_world": "2015-07-09",
+        "aired_at": "2015-07-09",
+        "released_at": "2015-09-24",
+        "rating_mpaa": "R",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Ари Одзава"
+        ],
+        "directors": [
+          "Масаоми Андо"
+        ],
+        "writers": [
+          "Макото Фуками",
+          "Юитиро Хигасидэ",
+          "Хикару Сакурай"
+        ]
+      }
+    },
+    {
+      "id": "serial-23372",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Фуука",
+      "title_orig": "Fuuka",
+      "other_title": "風夏",
+      "translation": {
+        "id": 654,
+        "title": "AniFilm",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1009340",
+      "imdb_id": "tt6422976",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8863",
+      "shikimori_id": "33743",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-03-04T17:30:58Z",
+      "updated_at": "2020-03-04T17:30:58Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/602442/448ef1a9e6c7b4aa44878f1c83d09bed/720p",
+            "2": "//aniqit.com/seria/602443/0f2c1276699eb705ed3a894385f61054/720p",
+            "3": "//aniqit.com/seria/602444/5934fca597ccf67762951ed4c7be3819/720p",
+            "4": "//aniqit.com/seria/602445/c5a60e79610637e8b135e73ede9cf420/720p",
+            "5": "//aniqit.com/seria/602446/030333d38571b458d9a1199f54e9a5ea/720p",
+            "6": "//aniqit.com/seria/602447/0a27095ad8cb983c35d95be43a833783/720p",
+            "7": "//aniqit.com/seria/602448/57216dbf3143795bf438557ecee00ac3/720p",
+            "8": "//aniqit.com/seria/602449/e334e5592ad18d7edd3693ecb67e4990/720p",
+            "9": "//aniqit.com/seria/602450/f9308038870f7e0436ad80c67fc5010f/720p",
+            "10": "//aniqit.com/seria/602451/f4236b746e820e9a8132564367452b58/720p",
+            "11": "//aniqit.com/seria/602452/a7bfbafa3597ae80465cb5f2ace735a3/720p",
+            "12": "//aniqit.com/seria/602453/7b46d6b694bdb7e9a39e2b2af144d969/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Фуука",
+        "title_en": "Fuuka",
+        "other_titles_en": [
+          "Fuuka"
+        ],
+        "other_titles_jp": [
+          "風夏"
+        ],
+        "anime_license_name": "Фука",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2017,
+        "description": "Простой и застенчивый Ю Харуна недавно переехал в новый город. После переезда он оказался буквально затянут в Твиттер, в котором юноша начал делиться разными мелочами из своей жизни.\r\nОднажды на уткнувшегося носом в свой телефон и обновлявшего ленту новостей Ю случайно налетает девушка по имени Фука Акицуки. В результате происходит неловкий случай: девушка по ошибке принимает парня за извращенца, фотографирующего её нижнее бельё, и в эмоциях разбивает его телефон. Успокоившись, оба выясняют, что учатся в одной школе и, более того, являются одноклассниками.\r\nПознакомившись с Фукой поближе, Ю понимает, что она совсем не похожа на остальную молодёжь. У неё нет мобильного телефона, и она не «зависает», как все, в социальных сетях. Акицуки любит музыку и увлекает одинокого Харуну вслед за своей страстью, чтобы показать, что мир существует не только на экране мобильного телефона.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1009340.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/df6d1b8f7dc9895097e87cb72bf00c502ba5ccf9.jpg",
+          "https://shikimori.one/system/screenshots/original/c7a29a18026f8c507bcd9078366b6a122ef26518.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Музыка",
+          "Романтика",
+          "Сёнен",
+          "Школа",
+          "Этти"
+        ],
+        "anime_studios": [
+          "Diomedéa"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 319,
+        "imdb_rating": 6.3,
+        "imdb_votes": 441,
+        "shikimori_rating": 6.55,
+        "shikimori_votes": 7384,
+        "premiere_world": "2017-01-06",
+        "aired_at": "2017-01-06",
+        "released_at": "2017-03-24",
+        "rating_mpaa": "R+",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Ринн",
+          "Юсукэ Кобаяси",
+          "Саори Хаями",
+          "Микако Комацу",
+          "Сома Саито",
+          "Кадзуюки Окицу",
+          "Даисукэ Накамура",
+          "Микако Такахаси",
+          "Саори Оониси",
+          "Каэдэ Хондо"
+        ],
+        "directors": [
+          "Кэидзо Кусакава"
+        ],
+        "writers": [
+          "Аои Акасиро",
+          "Кодзи Сэо"
+        ],
+        "composers": [
+          "Такуро Ига",
+          "West Ground"
+        ],
+        "editors": [
+          "Юудзи Ока"
+        ],
+        "designers": [
+          "Ёсика Мацусита"
+        ],
+        "operators": [
+          "Ясуюки Ито"
+        ]
+      }
+    },
+    {
+      "id": "serial-23371",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Молдайвер",
+      "title_orig": "Moldiver",
+      "other_title": "Молдайвер OVA",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 1993,
+      "last_season": 1,
+      "last_episode": 6,
+      "episodes_count": 6,
+      "kinopoisk_id": "335806",
+      "imdb_id": "tt0107589",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=810",
+      "shikimori_id": "571",
+      "quality": "HDDVDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-03-04T17:25:58Z",
+      "updated_at": "2020-03-04T17:25:58Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/602436/c9513dce466c555dc1e57771981b6f2b/720p",
+            "2": "//aniqit.com/seria/602437/84c9792874d8ef6faf70baa327242ce6/720p",
+            "3": "//aniqit.com/seria/602438/99f638a3e21c44d0753a69902971d4a5/720p",
+            "4": "//aniqit.com/seria/602439/181a397e715e53834697e20ef9072496/720p",
+            "5": "//aniqit.com/seria/602440/0eca14161e6c13c97bd8a3a1ca6c2ba5/720p",
+            "6": "//aniqit.com/seria/602441/1e01ebbedb7f0e75218ff2d42cfdb20a/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Молдайвер",
+        "title_en": "Morudaibâ",
+        "other_titles_jp": [
+          "モルダイバー"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "year": 1993,
+        "description": "Сюжет вращается вокруг молодой девушки по имени Мирай Озора, живущей в Токио 2045 года. Глядя на увлечённую своими любимыми занятиями - шоппингом и конкурсами красоты, Мирай трудно представить, что её старший брат Хироши - гениальный изобретатель, работающий на ZIC, одну из крупнейших технологических корпораций в мире. Все начинается с того что Хироши изобретает «Мол-Unit», устройство, позволяющее человеку существовать далеко за пределами нормальных законов физики. Полёт, суперскорость и сверхсила, неуязвимость, вот неполный список возможностей Мол-Unit`а. Единственное ограничение, однако, заключается в том, что он работает в течение ограниченного времени - всего лишь 666 секунд (чуть более 11 минут). Такое устройство могло бы изменить весь мир, но Хироши изобрёл его не столько для мира, сколько для того, чтобы потешить собственное эго. Используя возможности, даруемые «Мол-Unit`ом», Хироши становится супергероем - «Капитаном Токио». После своего дебюта под маской «Капитана Токио», Хироши распирает гордость, он же стал сенсацией в прессе! Однако, дальше всё пошло не так как он запланировал. Мирай случайно обнаруживает «Мол-Unit»...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/335806.jpg",
+        "duration": 30,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "короткометражка",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Меха",
+          "Романтика",
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "AIC"
+        ],
+        "imdb_rating": 6.2,
+        "imdb_votes": 109,
+        "shikimori_rating": 6.1,
+        "shikimori_votes": 30,
+        "aired_at": "1993-02-25",
+        "released_at": "1993-11-25",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 6,
+        "episodes_aired": 0,
+        "actors": [
+          "Юкана Ногами",
+          "Тосиюки Морикава",
+          "Акико Хирамацу",
+          "Эми Синохара",
+          "Изуми Кикути",
+          "Хейди Ленхарт",
+          "Дзёдзи Янами",
+          "Каору Симамура",
+          "Кикуко Иноуэ",
+          "Кумико Нисихара"
+        ],
+        "directors": [
+          "Такеши Аоки",
+          "Хирохиде Фудзивара",
+          "Хироюки Китадзумэ",
+          "Кэндзи Мияшита",
+          "Tarô Mozaiku",
+          "Ясунори Урата"
+        ],
+        "producers": [
+          "Хироаки Иноуэ",
+          "Кадзуаки Моридзири",
+          "Kurô Yamada",
+          "Хироси Какои",
+          "Таро Маки"
+        ],
+        "writers": [
+          "Хироюки Китадзумэ",
+          "Манабу Накамура",
+          "Рёэ Цукимура"
+        ],
+        "composers": [
+          "Кэи Вакакуса"
+        ],
+        "editors": [
+          "Yasue Funami",
+          "Тосио Хэнми"
+        ],
+        "designers": [
+          "Масуми Нишикава"
+        ],
+        "operators": [
+          "Кадзухиро Кониси"
+        ]
+      }
+    },
+    {
       "id": "serial-11672",
       "type": "anime-serial",
       "link": "",
@@ -5788,9 +6539,9 @@
           "фэнтези"
         ],
         "kinopoisk_rating": 7.5,
-        "kinopoisk_votes": 287,
+        "kinopoisk_votes": 297,
         "imdb_rating": 7.8,
-        "imdb_votes": 637,
+        "imdb_votes": 672,
         "premiere_world": "2017-08-12",
         "actors": [
           "Ким Нам-гиль",
@@ -8434,9 +9185,9 @@
           "драма"
         ],
         "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 235,
+        "kinopoisk_votes": 242,
         "imdb_rating": 7.5,
-        "imdb_votes": 6195,
+        "imdb_votes": 6341,
         "premiere_world": "2020-03-01",
         "actors": [
           "Ивонн Страховски",
@@ -8543,9 +9294,9 @@
           "драма"
         ],
         "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 235,
+        "kinopoisk_votes": 242,
         "imdb_rating": 7.5,
-        "imdb_votes": 6195,
+        "imdb_votes": 6341,
         "premiere_world": "2020-03-01",
         "actors": [
           "Ивонн Страховски",
@@ -8652,9 +9403,9 @@
           "драма"
         ],
         "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 235,
+        "kinopoisk_votes": 242,
         "imdb_rating": 7.5,
-        "imdb_votes": 6195,
+        "imdb_votes": 6341,
         "premiere_world": "2020-03-01",
         "actors": [
           "Ивонн Страховски",
@@ -8945,559 +9696,6 @@
         ],
         "operators": [
           "Кори Геряк"
-        ]
-      }
-    },
-    {
-      "id": "movie-50776",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Убийца поневоле",
-      "title_orig": "Badal",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2000,
-      "kinopoisk_id": "86760",
-      "imdb_id": "tt0247944",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-03T15:09:30Z",
-      "updated_at": "2020-03-03T15:09:30Z",
-      "material_data": {
-        "title": "Убийца поневоле",
-        "title_en": "Badal",
-        "year": 2000,
-        "description": "Офицер полиции в погоне за бандитами, укрывшимися в деревне, приказывает ее спалить и расстрелять всех мирных жителей. В живых остается лишь мальчик Бадал. Спустя годы он стал профессионалом, в совершенстве владеющим искусством убийства. Никто, даже любящая его красавица Рани не может заставить Бадала отказаться от мысли разыскать и стереть с лица земли убийцу своих родителей...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/86760.jpg",
-        "duration": 166,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "криминал"
-        ],
-        "imdb_rating": 4.9,
-        "imdb_votes": 1214,
-        "premiere_world": "2000-02-11",
-        "minimal_age": 12,
-        "actors": [
-          "Бобби Деол",
-          "Рани Мукхерджи",
-          "Ашутош Рана",
-          "Ашиш Видьятхи",
-          "Амриш Пури",
-          "Маюри Канго",
-          "Нина Кулкарни",
-          "Джонни Левер",
-          "Упасана Сингх",
-          "Суман Ранганатхан"
-        ],
-        "directors": [
-          "Радж Канвар"
-        ],
-        "producers": [
-          "Салим Ахтар",
-          "Назир Ахмед",
-          "Шафик Ахмед",
-          "Джавед Ахтар",
-          "Саба Ахтар",
-          "Самад Ахтар",
-          "Шама Ахтар",
-          "Шамим Ахтар"
-        ],
-        "writers": [
-          "Радж Канвар",
-          "Робин Бхатт",
-          "Сутану Гупта",
-          "Сантош Сарой"
-        ],
-        "composers": [
-          "Ану Малик",
-          "Адеш Шривастава"
-        ],
-        "editors": [
-          "Ваман Б. Бхосл"
-        ],
-        "designers": [
-          "Самир Афтаб",
-          "Р. Верман Шетти"
-        ],
-        "operators": [
-          "Хармит Сингх"
-        ]
-      }
-    },
-    {
-      "id": "movie-50777",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "В водовороте неприятностей",
-      "title_orig": "No Entry",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2005,
-      "kinopoisk_id": "160913",
-      "imdb_id": "tt0451833",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-03T15:08:20Z",
-      "updated_at": "2020-03-03T15:08:20Z",
-      "material_data": {
-        "title": "В водовороте неприятностей",
-        "title_en": "No Entry",
-        "year": 2005,
-        "description": "Кажется, что герои этого фильма, верный Кишан с ревнивой, но обожающей его Каджол, плейбой Прем с домашней и доверчивой Пуджей и фотограф Сани с невестой Санджаной составляют достаточно гармоничные любящие пары. Но стоит только в их жизни появиться сексапильной танцовщице Бобби, как они оказываются вовлеченными в водоворот неприятностей...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/160913.jpg",
-        "duration": 158,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама",
-          "мюзикл"
-        ],
-        "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 205,
-        "imdb_rating": 6.6,
-        "imdb_votes": 10484,
-        "premiere_world": "2005-08-26",
-        "minimal_age": 16,
-        "actors": [
-          "Анил Капур",
-          "Фардин Кхан",
-          "Салман Кхан",
-          "Бипаша Басу",
-          "Лара Датта",
-          "Селина Джейтли",
-          "Эша Деол",
-          "Боман Ирани",
-          "Пареш Ганатра",
-          "Кавери Гхош"
-        ],
-        "directors": [
-          "Анис Базми"
-        ],
-        "producers": [
-          "Бони Капур",
-          "Суриндер Капур",
-          "Балрадж Ирани",
-          "Арджун Капур",
-          "Култхеп Нарула",
-          "Рашвин Нарула",
-          "Канвалиндер Сингх"
-        ],
-        "writers": [
-          "Анис Базми"
-        ],
-        "composers": [
-          "Ану Малик",
-          "Салим Мерчант",
-          "Сулеман Мерчант"
-        ],
-        "editors": [
-          "Санджай Санкла"
-        ],
-        "designers": [
-          "Шийам",
-          "Шийам Сундер",
-          "Притен Патил",
-          "Шахид Амир"
-        ],
-        "operators": [
-          "Ашок Мехта"
-        ]
-      }
-    },
-    {
-      "id": "movie-50778",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Всемогущий",
-      "title_orig": "Vidhaata",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1982,
-      "kinopoisk_id": "39713",
-      "imdb_id": "tt0084866",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-03T15:07:10Z",
-      "updated_at": "2020-03-03T15:07:10Z",
-      "material_data": {
-        "title": "Всемогущий",
-        "title_en": "Vidhaata",
-        "year": 1982,
-        "description": "Деньги дают власть и могущество - так считал герой этого фильма. И ради внука, рано осиротевшего, он, скромный служащий, ставит себе цель - разбогатеть. Любой ценой. Забыв про совесть, честь. Но принесло ли огромное состояние, нажитое преступным путем, счастье любимому и единственному наследнику?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/39713.jpg",
-        "duration": 169,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "драма"
-        ],
-        "kinopoisk_rating": 5.7,
-        "kinopoisk_votes": 160,
-        "imdb_rating": 7.2,
-        "imdb_votes": 331,
-        "premiere_world": "1982-12-03",
-        "minimal_age": 16,
-        "actors": [
-          "Дилип Кумар",
-          "Шамми Капур",
-          "Санджай Датт",
-          "Санджив Кумар",
-          "Падмини Колхапуре",
-          "Суреш Оберой",
-          "Амриш Пури",
-          "Шрирам Лагу",
-          "Том Олтер",
-          "Харбанс Даршан"
-        ],
-        "directors": [
-          "Субхаш Гхай"
-        ],
-        "producers": [
-          "Гулшан Рай"
-        ],
-        "writers": [
-          "Сачин Бхоумик"
-        ],
-        "composers": [
-          "Ананджи Вирджи Шах",
-          "Калианджи Вирджи Шах"
-        ],
-        "designers": [
-          "С.С. Самель"
-        ],
-        "operators": [
-          "Камалакар Рао"
-        ]
-      }
-    },
-    {
-      "id": "movie-50779",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Свадьба Тану и Ману. Возвращение",
-      "title_orig": "Tanu Weds Manu Returns",
-      "translation": {
-        "id": 613,
-        "title": "DeadSno & den904",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "655698",
-      "imdb_id": "tt2140465",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-03T15:06:36Z",
-      "updated_at": "2020-03-03T15:06:36Z",
-      "material_data": {
-        "title": "Свадьба Тану и Ману. Возвращение",
-        "title_en": "Tanu Weds Manu Returns",
-        "year": 2015,
-        "description": "Тану и Ману уже женаты четыре года и живут в Англии. Любовь прошла, и осталась надежда лишь на психиатров, чтобы понять, если есть возможность улучшить ситуацию. Но, как назло, у Ману начинается психическое расстройство и он попадает в психиатрическую клинику. Бессердечная Тану оставляет его на произвол судьбы и возвращается в Индию к своим родителям. Там она сообщает его другу Паппи  о состоянии Ману.\n\rКогда Паппи приезжает в Лондон, Ману уже выписан из клиники и они вместе возвращаются в Индию. Однажды, совершенно случайно, Ману видит двойника Тану и ошибочно принимает за свою бывшую жену. Но оказывается, что её зовут Кусум по прозвищу Датто, родом из Харьяна и учится в Дели. Она спортсменка. Ману влюбляется в Кусум, потому что она напоминает Тану...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/655698.jpg",
-        "duration": 128,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "комедия",
-          "мелодрама"
-        ],
-        "imdb_rating": 7.6,
-        "imdb_votes": 26111,
-        "premiere_world": "2015-05-21",
-        "actors": [
-          "Кангана Ранаут",
-          "Мадхаван",
-          "Мохаммед Зишан Айюб",
-          "Джимми Шергилл",
-          "Свара Бхаскар",
-          "Раджеш Шарма",
-          "Дипак Добриял",
-          "Эйяз Кхан",
-          "Радж Авасти",
-          "Gaurav Mishra"
-        ],
-        "directors": [
-          "Рай Ананд"
-        ],
-        "producers": [
-          "Сунил Лула",
-          "Michael Arakkal",
-          "ChandraPrakash Dubey",
-          "Бхавеш Пател",
-          "Рай Ананд",
-          "Судипто Саркар",
-          "Sushanto Sarkar",
-          "Шашикант Синха"
-        ],
-        "writers": [
-          "Шарма Химаншу"
-        ],
-        "composers": [
-          "Rdb",
-          "Кришна Соло"
-        ],
-        "editors": [
-          "Хемаль Котари"
-        ],
-        "designers": [
-          "Васик Кхан",
-          "Анкита Джха",
-          "Реза Шараффи"
-        ],
-        "operators": [
-          "Ширантан Дас"
-        ]
-      }
-    },
-    {
-      "id": "movie-50780",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Спектакль",
-      "title_orig": "Tamasha",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "794276",
-      "imdb_id": "tt3148502",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-03T15:06:02Z",
-      "updated_at": "2020-03-03T15:06:02Z",
-      "material_data": {
-        "title": "Спектакль",
-        "title_en": "Tamasha",
-        "year": 2015,
-        "description": "Вед вырос среди историй. В детстве, в Шимла, он собирал и даже воровал деньги, чтобы старый сказочник рассказывал ему истории. Рамайан, Елена Троянская, Лайла Маджну, Хир Ранджа, Аладин, Ромео и Джульетта ... Кто-то мог бы сказать, что все эти истории одинаковы.\n\rВед хочет в его истории с Тарой быть другим. Поэтому они решили не рассказывать друг другу, кто они на самом деле, а только лгать о себе. И уехать с острова, чтобы никогда больше не встретиться друг с другом. Но они встречаются вновь. Вопрос в том, смогут ли они создавать свою историю так, как им захочется? Будет ли муза в состоянии из обычного человека сотворить художника? Получится у Веда разорвать оковы обычного существования и избежать корпоративных «крысиных гонок» и стать таким, каким Тара видит его в его буйных рассказах?\n\rКорсика, Шимла, Дели, Калькутта, Япония - весь мир является сценой, где разворачивается драма Веда и Тары. Шалости, ярость, причуды, смех, поражение, победа. Спектакль.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/794276.jpg",
-        "duration": 139,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "комедия",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7,
-        "kinopoisk_votes": 494,
-        "imdb_rating": 7.3,
-        "imdb_votes": 23281,
-        "premiere_world": "2015-11-26",
-        "actors": [
-          "Дипика Падукон",
-          "Ранбир Капур",
-          "Пиюш Мишра",
-          "Naila Grewal",
-          "Джавед Шейх",
-          "Arushi Sharma",
-          "Сушма Сетх",
-          "Ishwak Singh",
-          "Вивек Мушран",
-          "Svetlana Tulasi"
-        ],
-        "directors": [
-          "Имтиаз Али"
-        ],
-        "producers": [
-          "Саджид Надиадвала",
-          "Жан-Патрик Константини",
-          "Сандип Лейзелл",
-          "Rakesh Madhotra",
-          "Naman Mehra",
-          "Раджеш Шарма"
-        ],
-        "writers": [
-          "Имтиаз Али"
-        ],
-        "composers": [
-          "А.Р. Рахман"
-        ],
-        "editors": [
-          "Арти Баджадж"
-        ],
-        "designers": [
-          "Снигдха Басу",
-          "Сумит Басу",
-          "Ражниш Хедао",
-          "Манини Мишра",
-          "Арно Путман",
-          "Аки Нарула",
-          "Анаита"
-        ],
-        "operators": [
-          "Рави Варма"
-        ]
-      }
-    },
-    {
-      "id": "movie-50754",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Неверный возлюбленный",
-      "title_orig": "Sanam Bewafa",
-      "translation": {
-        "id": 765,
-        "title": "SDI Media",
-        "type": "voice"
-      },
-      "year": 1991,
-      "kinopoisk_id": "95914",
-      "imdb_id": "tt0102835",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-03T14:41:05Z",
-      "updated_at": "2020-03-03T14:41:05Z",
-      "material_data": {
-        "title": "Неверный возлюбленный",
-        "title_en": "Sanam Bewafa",
-        "year": 1991,
-        "description": "Всесильная любовь соединила Салмана и Рухсар - детей из двух враждующих знатных родов. Их отцы, богатые магнаты, поначалу соглашаются на свадьбу своих детей, но затем... Кровавые разборки между семьями зайдут так далеко, что даже жизнь ребенка Салмана и Рухсар ляжет на алтарь ненависти...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/95914.jpg",
-        "duration": 161,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 94,
-        "imdb_rating": 5.3,
-        "imdb_votes": 996,
-        "premiere_world": "1991-01-11",
-        "minimal_age": 16,
-        "actors": [
-          "Салман Кхан",
-          "Чандни",
-          "Канчан",
-          "Пран",
-          "Дэнни Дензонгпа",
-          "Пунит Иссар",
-          "Панкадж Дхир",
-          "Джагдип",
-          "Дина Патхак",
-          "Таира Кхан"
-        ],
-        "directors": [
-          "Саван Кумар Так"
-        ],
-        "producers": [
-          "Саван Кумар Так"
-        ],
-        "writers": [
-          "Бхарат Б. Бхалла",
-          "Анвар Кхан",
-          "Саван Кумар Так"
-        ],
-        "composers": [
-          "Кишор Шарма",
-          "Махеш Шарма"
-        ],
-        "editors": [
-          "Джавахар Раздан"
-        ],
-        "designers": [
-          "Р. Верман Шетти",
-          "Пунам Сет"
-        ],
-        "operators": [
-          "Манмохан Сингх"
-        ]
-      }
-    },
-    {
-      "id": "movie-50755",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Поезд",
-      "title_orig": "Thodari",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "997457",
-      "imdb_id": "tt5959700",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-03T14:39:42Z",
-      "updated_at": "2020-03-03T14:39:42Z",
-      "material_data": {
-        "title": "Поезд",
-        "title_en": "Thodari",
-        "year": 2016,
-        "description": "Пучи работает официантом в поезде на популярном маршруте “Дели - Ченнай”. На протяжении полутора суток он разносит по вагонам чай, макароны и котлетки. Работа - скучная, начальник - дурак, пассажиры - люди замороченные и трудные. Особенно в первом классе, будь то министр энергетики и его конвой или свита популярной тамильской киноактрисы. В секретаршу последней Пучи на этот раз даже влюбился по уши. \n\rК сожалению, это было не самое последнее событие в этой поездке. Сначала один из охранников министра слетел с катушек, потом соседние вагоны ограбили налетчики в балаклавах, еще позднее - под поезд попала корова, после чего машинист с горя умер от инфаркта, оставив неуправляемый состав нестись навстречу смерти на скорости 120 километров в час.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/997457.jpg",
-        "duration": 168,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "приключения",
-          "триллер"
-        ],
-        "imdb_rating": 4.6,
-        "imdb_votes": 951,
-        "premiere_world": "2016-09-22",
-        "actors": [
-          "Дхануш",
-          "Кирти Суреш",
-          "Ганеш Венкатраман",
-          "Imman Annachi",
-          "Чинни Джайянт",
-          "Пуджа Джхавери",
-          "Карунакаран",
-          "Нассер",
-          "Тамби Рамайа",
-          "Рада Рави"
-        ],
-        "directors": [
-          "Прабху Соломон"
-        ],
-        "writers": [
-          "Прабху Соломон"
-        ],
-        "composers": [
-          "Д. Иман"
-        ],
-        "editors": [
-          "L.V.K. Doss"
-        ],
-        "operators": [
-          "Vetrivel Mahendran"
         ]
       }
     }

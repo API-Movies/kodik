@@ -1,6 +1,526 @@
 {
   "results": [
     {
+      "id": "movie-62235",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Подаренка",
+      "title_orig": "Podarenka",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1978,
+      "kinopoisk_id": "594834",
+      "imdb_id": "tt10651094",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-26T11:55:08Z",
+      "updated_at": "2020-10-26T11:55:08Z",
+      "material_data": {
+        "title": "Подаренка",
+        "title_en": "",
+        "year": 1978,
+        "description": "По сказе П.Бажова «Серебряное копытце».",
+        "duration": 18,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "minimal_age": 0,
+        "actors": [
+          "Георгий Светлани",
+          "Л. Ворожцова"
+        ],
+        "directors": [
+          "Игорь Резников"
+        ],
+        "writers": [
+          "Александр Розин",
+          "Павел Бажов"
+        ],
+        "composers": [
+          "Владислав Казенин"
+        ],
+        "editors": [
+          "Л. Пермякова"
+        ],
+        "designers": [
+          "Николай Павлов"
+        ],
+        "operators": [
+          "Валентин Баженов"
+        ]
+      }
+    },
+    {
+      "id": "movie-45038",
+      "type": "anime",
+      "link": "",
+      "title": "Призрак в доспехах: Синдром одиночки. Сообщество крепкого государства",
+      "title_orig": "Kôkaku kidôtai: Stand Alone Complex Solid State Society",
+      "other_title": "Призрак в доспехах: Синдром одиночки (фильм) / Koukaku Kidoutai Stand Alone Complex: Solid State Society / 攻殻機動隊 Stand Alone Complex　Solid State Society / 攻殻機動隊 Stand Alone Complex Solid State Society",
+      "translation": {
+        "id": 1064,
+        "title": "Гланц и Королева",
+        "type": "voice"
+      },
+      "year": 2006,
+      "kinopoisk_id": "260426",
+      "imdb_id": "tt0856797",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5948",
+      "shikimori_id": "1566",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-11-13T23:48:48Z",
+      "updated_at": "2020-10-26T11:54:45Z",
+      "material_data": {
+        "title": "Призрак в доспехах: Синдром одиночки. Сообщество крепкого государства",
+        "title_en": "Kôkaku kidôtai: Stand Alone Complex Solid State Society",
+        "other_titles": [
+          "GitS SAC SSS",
+          "GitS: SAC 3",
+          "gits sac3",
+          "gitssac3",
+          "sac3",
+          "sss",
+          "Ghost in the Shell S.A.C. Solid State Society"
+        ],
+        "other_titles_en": [
+          "Ghost in the Shell: Stand Alone Complex - Solid State Society"
+        ],
+        "other_titles_jp": [
+          "攻殻機動隊 STAND ALONE COMPLEX Solid State Society"
+        ],
+        "anime_kind": "special",
+        "anime_status": "released",
+        "year": 2006,
+        "description": "2034 г нашей эры. Прошло два года с тех пор как Мотоко Кусанаги, ушла из 9 отдела. Тогуса - теперь новый лидер команды, в которой теперь сильно увеличено количество персонала. Расширенный новый 9 отдел противостоит множеству сложных инцидентов, и исследования показывают, что отличный хакер, названный Кукольником - виновник всего ряда событий. Ряд интригующих инцидентов, которые лица 9 отдела постепенно соединяют почти мастерски. Кто - Кукольник? Что случится с отношениями Бато с Мотоко? Что в действительности стоит за этим тщательно запланированным прекрасным преступлением? И, каков же будет результат? Тайны окружают Сообщество стабильной государственности...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/260426.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/390bc67506510c220254e108900878ad532fa20b.jpg",
+          "https://shikimori.one/system/screenshots/original/f1ad6c3bfa0483c2e551622b84b5de04812e98a4.jpg"
+        ],
+        "duration": 108,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Военное",
+          "Детектив",
+          "Меха",
+          "Полиция",
+          "Сейнен",
+          "Фантастика"
+        ],
+        "anime_studios": [
+          "Production I.G"
+        ],
+        "kinopoisk_rating": 7.7,
+        "kinopoisk_votes": 4164,
+        "imdb_rating": 8,
+        "imdb_votes": 6480,
+        "shikimori_rating": 8.14,
+        "shikimori_votes": 3072,
+        "premiere_world": "2006-09-01",
+        "aired_at": "2006-09-01",
+        "rating_mpaa": "R",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Ацуко Танака",
+          "Осаму Сака",
+          "Акио Оцука",
+          "Коити Ямадэра",
+          "Ютака Накано",
+          "Тору Окава",
+          "Такаси Онодзука",
+          "Таро Ямагути",
+          "Сакико Тамагава",
+          "Оки Сугияма"
+        ],
+        "directors": [
+          "Кэндзи Камияма"
+        ],
+        "producers": [
+          "Норихиса Оки"
+        ],
+        "writers": [
+          "Масамунэ Сиро",
+          "Кэндзи Камияма",
+          "Сётаро Суга",
+          "Ёсики Сакурай"
+        ],
+        "composers": [
+          "Ёко Канно"
+        ],
+        "editors": [
+          "Дзюнъити Уэмацу"
+        ],
+        "designers": [
+          "Юсукэ Такэда"
+        ],
+        "operators": [
+          "Кодзи Танака"
+        ]
+      }
+    },
+    {
+      "id": "movie-62236",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Похождения Хряпова",
+      "title_orig": "Похождения Хряпова",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1982,
+      "kinopoisk_id": "566703",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-26T11:52:52Z",
+      "updated_at": "2020-10-26T11:52:52Z",
+      "material_data": {
+        "title": "Похождения Хряпова",
+        "title_en": "",
+        "year": 1982,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/566703.jpg",
+        "duration": 8,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "minimal_age": 0,
+        "directors": [
+          "Раса Страутмане"
+        ],
+        "writers": [
+          "Владимир Голованов"
+        ],
+        "composers": [
+          "Михаил Меерович"
+        ],
+        "operators": [
+          "Леонард Кольвинковский"
+        ]
+      }
+    },
+    {
+      "id": "movie-62237",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Последний трубочист",
+      "title_orig": "Viimane korstnapühkija",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1964,
+      "kinopoisk_id": "137889",
+      "imdb_id": "tt0452527",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-26T11:50:49Z",
+      "updated_at": "2020-10-26T11:50:49Z",
+      "material_data": {
+        "title": "Последний трубочист",
+        "title_en": "",
+        "year": 1964,
+        "description": "История последнего трубочиста, у которого кончается работа, потому что все дома постепенно перешли на паровое отопление. Но трубочист недолго оставался без дела и, понимая, что нужно идти в ногу со временем, переквалифицировался в установщика телевизионных антенн - тут и работа на любимых сердцу крышах, и жителям польза, и здоровье от черной сажи не страдает!",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "directors": [
+          "Эльберт Туганов"
+        ],
+        "writers": [
+          "Ян Кросс",
+          "Эллен Нийт"
+        ],
+        "composers": [
+          "Арво Пярт"
+        ],
+        "designers": [
+          "Хенно Кяо"
+        ],
+        "operators": [
+          "Калью Курепылд"
+        ]
+      }
+    },
+    {
+      "id": "movie-62238",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Приключения кузнеца Вакулы",
+      "title_orig": "Priklyucheniya kuznetsa Vakuly",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1977,
+      "kinopoisk_id": "493730",
+      "imdb_id": "tt6024648",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-26T11:49:28Z",
+      "updated_at": "2020-10-26T11:49:28Z",
+      "material_data": {
+        "title": "Приключения кузнеца Вакулы",
+        "title_en": "",
+        "year": 1977,
+        "description": "История кузнеца Вакулы, которая случилась с ним на хуторе Диканьки в ночь на Рождество.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/493730.jpg",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 6.1,
+        "kinopoisk_votes": 88,
+        "imdb_rating": 6.6,
+        "imdb_votes": 9,
+        "minimal_age": 6,
+        "actors": [
+          "Аркадий Гашинский"
+        ],
+        "directors": [
+          "Евгений Сивоконь"
+        ],
+        "writers": [
+          "Н. Лень"
+        ],
+        "composers": [
+          "Яков Лапинский"
+        ],
+        "designers": [
+          "Генрих Уманский"
+        ],
+        "operators": [
+          "Александр Мухин",
+          "Анатолий Гаврилов"
+        ]
+      }
+    },
+    {
+      "id": "movie-62239",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Старые знакомые",
+      "title_orig": "Starye znakomye",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1956,
+      "kinopoisk_id": "470392",
+      "imdb_id": "tt5560734",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-26T11:48:47Z",
+      "updated_at": "2020-10-26T11:48:47Z",
+      "material_data": {
+        "title": "Старые знакомые",
+        "title_en": "",
+        "year": 1956,
+        "description": "Второй фильм спортивной серии о деревянных и мягких игрушках.\n\rДеревянные игрушки-футболисты, снискавшие печальную славу своей грубой игрой, решают вновь померяться силами с командой СМИ (секция мягких игрушек). Лишённые за плохую игру права выступать на футбольном поле, деревянные игрушки перекрашиваются в другие цвета и под видом новой команды ватерполистов принимают участие в матче с командой ватерполистов СМИ...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/470392.jpg",
+        "duration": 20,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм",
+          "спорт"
+        ],
+        "kinopoisk_rating": 7.3,
+        "kinopoisk_votes": 985,
+        "imdb_rating": 6.6,
+        "imdb_votes": 42,
+        "premiere_world": "1956-11-15",
+        "minimal_age": 0,
+        "actors": [
+          "Виктория Иванова",
+          "Юрий Хржановский",
+          "Юлия Юльская",
+          "Борис Андреев"
+        ],
+        "directors": [
+          "Мстислав Пащенко",
+          "Борис Дежкин"
+        ],
+        "writers": [
+          "Мстислав Пащенко",
+          "Борис Дежкин"
+        ],
+        "composers": [
+          "Карэн Хачатурян"
+        ],
+        "designers": [
+          "Борис Дежкин",
+          "Валентина Василенко"
+        ],
+        "operators": [
+          "Михаил Друян"
+        ]
+      }
+    },
+    {
+      "id": "movie-62240",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Заячий хвостик",
+      "title_orig": "Заячий хвостик",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1984,
+      "kinopoisk_id": "630570",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-26T11:45:49Z",
+      "updated_at": "2020-10-26T11:45:49Z",
+      "material_data": {
+        "title": "Заячий хвостик",
+        "title_en": "",
+        "year": 1984,
+        "description": "О маленьких непослушных зайчатах, которые долго не могли найти себе занятие по душе и, наконец, поступили в музыкальную школу.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/630570.jpg",
+        "duration": 9,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 5.5,
+        "kinopoisk_votes": 140,
+        "minimal_age": 0,
+        "actors": [
+          "Сергей Юрский"
+        ],
+        "directors": [
+          "Вадим Курчевский"
+        ],
+        "writers": [
+          "Людмила Петрушевская"
+        ],
+        "composers": [
+          "Виктор Бабушкин"
+        ],
+        "editors": [
+          "Надежда Трещёва"
+        ],
+        "designers": [
+          "Марина Курчевская"
+        ],
+        "operators": [
+          "Александр Виханский"
+        ]
+      }
+    },
+    {
+      "id": "movie-62241",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Илья Муромец и Соловей Разбойник",
+      "title_orig": "Ilya Muromets i Solovey-Razboynik",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1978,
+      "kinopoisk_id": "420061",
+      "imdb_id": "tt2390078",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-26T11:44:55Z",
+      "updated_at": "2020-10-26T11:44:55Z",
+      "material_data": {
+        "title": "Илья Муромец и Соловей Разбойник",
+        "title_en": "",
+        "year": 1978,
+        "description": "О богатыре Илье Муромце и Соловье-разбойнике - злостном нарушителе спокойствия жителей Киева.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/420061.jpg",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 25807,
+        "imdb_rating": 7.6,
+        "imdb_votes": 53,
+        "minimal_age": 6,
+        "actors": [
+          "Петр Вишняков",
+          "Юрий Волынцев",
+          "Михаил Львов",
+          "Алексей Консовский"
+        ],
+        "directors": [
+          "Иван Аксенчук"
+        ],
+        "writers": [
+          "Михаил Вольпин"
+        ],
+        "composers": [
+          "Владимир Комаров"
+        ],
+        "editors": [
+          "Любовь Георгиева"
+        ],
+        "designers": [
+          "Александр Винокуров",
+          "Мария Рудаченко"
+        ],
+        "operators": [
+          "Борис Котов"
+        ]
+      }
+    },
+    {
       "id": "movie-62242",
       "type": "russian-movie",
       "link": "",
@@ -2786,7 +3306,7 @@
         "imdb_rating": 8,
         "imdb_votes": 3631,
         "shikimori_rating": 8.28,
-        "shikimori_votes": 41084,
+        "shikimori_votes": 41719,
         "premiere_world": "2008-01-08",
         "aired_at": "2008-01-09",
         "released_at": "2008-03-26",
@@ -8232,671 +8752,6 @@
             "3": "//kodik.cc/seria/726886/6c27f28854f15fe3e925bcfb4f1ad69f/720p"
           }
         }
-      }
-    },
-    {
-      "id": "movie-62071",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "История пионового фонаря — невеста из ада",
-      "title_orig": "Botan-dorô",
-      "translation": {
-        "id": 857,
-        "title": "Воротилин",
-        "type": "voice"
-      },
-      "year": 1968,
-      "kinopoisk_id": "362632",
-      "imdb_id": "tt0163985",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-10-22T09:50:48Z",
-      "updated_at": "2020-10-22T09:50:48Z",
-      "material_data": {
-        "title": "История пионового фонаря – невеста из ада",
-        "title_en": "Botan-dorô",
-        "year": 1968,
-        "description": "Синдзабуро - отпрыск богатой и влиятельной семьи. Вместо того, чтобы делать карьеру самурая, он предпочитает учить грамоте бедных детей. Однажды он знакомится с симпатичной Оцую. Она рассказала грустную и туманную историю, как была продана в проститутки за долги отца...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/362632.jpg",
-        "duration": 89,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "ужасы"
-        ],
-        "imdb_rating": 7.1,
-        "imdb_votes": 139,
-        "premiere_world": "1968-06-15",
-        "actors": [
-          "Миёко Акадза",
-          "Кодзиро Хонго",
-          "Хадзимэ Косикава",
-          "Ко Нисимура",
-          "Маюми Огава",
-          "Такаси Симура",
-          "Ацуми Юда",
-          "Митико Оцука"
-        ],
-        "directors": [
-          "Сацуо Ямамото"
-        ],
-        "producers": [
-          "Токуко Мияко",
-          "Масаити Нагата"
-        ],
-        "writers": [
-          "Энтё Санъюутэй",
-          "Ёсиката Ёда"
-        ],
-        "composers": [
-          "Сэй Икэно"
-        ],
-        "designers": [
-          "Ёсинобу Нисиока"
-        ],
-        "operators": [
-          "Тикаси Макиура"
-        ]
-      }
-    },
-    {
-      "id": "movie-62073",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Смерть в старом особняке",
-      "title_orig": "Honjin satsujin jiken",
-      "translation": {
-        "id": 857,
-        "title": "Воротилин",
-        "type": "voice"
-      },
-      "year": 1976,
-      "kinopoisk_id": "99777",
-      "imdb_id": "tt0170011",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-10-22T09:48:16Z",
-      "updated_at": "2020-10-22T09:48:16Z",
-      "material_data": {
-        "title": "Смерть в старом особняке",
-        "title_en": "Honjin satsujin jiken",
-        "year": 1976,
-        "description": "Косукэ Киндаити распутывает дело об убийстве супругов, которых неизвестный трёхпалый мужчина зарубил в свадебную ночь.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/99777.jpg",
-        "duration": 109,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "детектив",
-          "криминал"
-        ],
-        "imdb_rating": 6.1,
-        "imdb_votes": 42,
-        "actors": [
-          "Акира Накао",
-          "Дзюнко Такадзава",
-          "Такахиро Тамура",
-          "Фудзио Токита",
-          "Юки Мидзухара",
-          "Эйко Мурамацу"
-        ],
-        "directors": [
-          "Ёити Такабаяси"
-        ],
-        "writers": [
-          "Ёити Такабаяси",
-          "Сэиси Ёкомидзо"
-        ],
-        "composers": [
-          "Нобухико Обаяси"
-        ]
-      }
-    },
-    {
-      "id": "serial-28832",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Двадцать-двадцать",
-      "title_orig": "Teuwenti teuwenti",
-      "other_title": "Двадцать двадцать / Twenty Twenty",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 20,
-      "episodes_count": 20,
-      "kinopoisk_id": "1357353",
-      "mdl_id": "57791-twenty-twenty",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-20T08:32:04Z",
-      "updated_at": "2020-10-22T09:37:40Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/707853/fa2fae5995d7ff23777fc1c271e37b3f/720p",
-            "2": "//kodik.cc/seria/707854/84447d61852fbb075a81362c91177996/720p",
-            "3": "//kodik.cc/seria/709436/021b5d0932e304f58e88b436c8601083/720p",
-            "4": "//kodik.cc/seria/712736/5eb4707929ead88adf9b864a76592400/720p",
-            "5": "//kodik.cc/seria/716343/5d4a7c0dda2cea920a9b8881c112fc4e/720p",
-            "6": "//kodik.cc/seria/717363/92c0f659fffd62f9ae30980d4bdff415/720p",
-            "7": "//kodik.cc/seria/717818/ac4c52e7e8e7a6371a08cd41ec6305bf/720p",
-            "8": "//kodik.cc/seria/718272/dbbd72bc6bd9d74ca4dc358ed29754ca/720p",
-            "9": "//kodik.cc/seria/719794/67067b856f84afe27cce00ed4264a567/720p",
-            "10": "//kodik.cc/seria/719795/ac6344fbe66a03e8823b4fba7b98c5b3/720p",
-            "11": "//kodik.cc/seria/722663/aa32819ac46b57cfbdf6f98e4a26d665/720p",
-            "12": "//kodik.cc/seria/722664/9f2856fb1de2dda9ce8f00b869fea00e/720p",
-            "13": "//kodik.cc/seria/723277/b1d316588c2589bd945ac602cac4c5b0/720p",
-            "14": "//kodik.cc/seria/723278/0a9f64ab6cca31a701f5136530122d47/720p",
-            "15": "//kodik.cc/seria/725699/77b0884af9bed864178198e542ed5b6b/720p",
-            "16": "//kodik.cc/seria/725703/7374fecf57f1ca19416de414233e78ab/720p",
-            "17": "//kodik.cc/seria/726865/59f614f0d08ab709ed36ed6bf6c95a83/720p",
-            "18": "//kodik.cc/seria/726866/5111547ba3e03408c434642b39588d2e/720p",
-            "19": "//kodik.cc/seria/726867/32ecf65baba6f4bfef26b75cffd90a62/720p",
-            "20": "//kodik.cc/seria/726868/572c6a5cf10991a036c7be69d64e6062/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Двадцать-двадцать",
-        "title_en": "Teuwenti teuwenti",
-        "year": 2020,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1357353.jpg",
-        "duration": 23,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "imdb_rating": 7.7,
-        "imdb_votes": 19,
-        "premiere_world": "2020-08-15",
-        "actors": [
-          "Хан Сон-мин",
-          "Ким У-сок",
-          "Чин Хо-ын",
-          "Пэ Хэ-сон",
-          "Ли Сын-иль"
-        ],
-        "directors": [
-          "Хан Су-джи"
-        ]
-      }
-    },
-    {
-      "id": "serial-29384",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Любовь раздражает, но я ненавижу одиночество",
-      "title_orig": "Yeonaeneun gwichanjiman oeroun geon sireo!",
-      "other_title": "Love is Annoying, but I Hate Being Lonely / Yeonaeneun Gywichanjiman Werowoon Gun Sileo! / Lonely Enough to Love",
-      "translation": {
-        "id": 1477,
-        "title": "FSG Shadows.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "kinopoisk_id": "1382024",
-      "imdb_id": "tt12952658",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-09-26T10:11:27Z",
-      "updated_at": "2020-10-22T09:34:37Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/721387/536afa7f80f9127ba4358718ebdea34b/720p",
-            "2": "//kodik.cc/seria/721388/03740d6e7d6fc8cef0ddfdb150dff874/720p",
-            "3": "//kodik.cc/seria/721389/48c2b0907ef7550ab9fabd7e496de9f2/720p",
-            "4": "//kodik.cc/seria/721390/f1347c8da659a6164229096581fd66e0/720p",
-            "5": "//kodik.cc/seria/721391/fdddedb79ac0afa1cff661f8bb3186a7/720p",
-            "6": "//kodik.cc/seria/721392/bd7d8385655dd7b03802b33e044f5cde/720p",
-            "7": "//kodik.cc/seria/723885/8d63aaee06c5206b0c0a56cc24c3a33c/720p",
-            "8": "//kodik.cc/seria/725297/1c458748d69d6104536af9e682819216/720p",
-            "9": "//kodik.cc/seria/726856/e5dda85fa1e9212a15df913c3cd1019a/720p",
-            "10": "//kodik.cc/seria/726859/a566fe620bec189959c19832b48a9328/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Любовь раздражает, но я ненавижу одиночество",
-        "title_en": "Yeonaeneun gwichanjiman oeroun geon sireo!",
-        "year": 2020,
-        "description": "История молодых людей, которые живут в коливинге. Им хочется ходить на свидания, но не хочется завязывать серьёзные отношения, они предпочитают свободу, но при этом не любят одиночество.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1382024.jpg",
-        "duration": 60,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "комедия",
-          "мелодрама"
-        ],
-        "imdb_rating": 6.6,
-        "imdb_votes": 49,
-        "premiere_world": "2020-08-11",
-        "actors": [
-          "Чи Хён-у",
-          "Ким Со-ын",
-          "Пак Кон-иль",
-          "Но Джи-хун",
-          "Ким Сан-хо",
-          "Хан Джи-ван",
-          "Сон Джи-хён",
-          "Кончхан",
-          "Ха Ён",
-          "Чха Су-ён"
-        ],
-        "directors": [
-          "Ли Хён-джу"
-        ],
-        "writers": [
-          "Чо Джин-гук"
-        ]
-      }
-    },
-    {
-      "id": "serial-2047",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Эзель",
-      "title_orig": "Ezel",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2009,
-      "last_season": 2,
-      "last_episode": 38,
-      "episodes_count": 38,
-      "kinopoisk_id": "497667",
-      "imdb_id": "tt1534360",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-01-06T15:56:08Z",
-      "updated_at": "2020-10-22T05:42:31Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/45277/a9ab12eee00dacc916024350fd65d6a5/720p",
-            "2": "//kodik.cc/seria/45278/152ef1b960e1a1a76a40f3d395c18144/720p",
-            "3": "//kodik.cc/seria/45279/6a3d74f9684e9de0646be69104562590/720p",
-            "4": "//kodik.cc/seria/45280/97902f6cd4fe3b3039872361b5ad50a9/720p",
-            "5": "//kodik.cc/seria/45281/a6812e90f3834e158989244c7916ef1c/720p",
-            "6": "//kodik.cc/seria/45282/b9b1f5559c54c4df7997b01687ef38e5/720p",
-            "7": "//kodik.cc/seria/45283/01fd1d58f92fa875e9ce648a976a72a1/720p",
-            "8": "//kodik.cc/seria/45284/719417ef790234d73971ab5e095bcd78/720p",
-            "9": "//kodik.cc/seria/45285/e08397444e99c80479e1a5664e88b0f9/720p",
-            "10": "//kodik.cc/seria/45286/ea95315dcb9f3bcb92df82d30f926a61/720p",
-            "11": "//kodik.cc/seria/45287/db5e4b272240161a379026e92e0b8829/720p",
-            "12": "//kodik.cc/seria/45288/bf4ccc69de98cb2fff001773c22df48e/720p",
-            "13": "//kodik.cc/seria/45289/f4519db526cee3310c43642ec676c8a5/720p",
-            "14": "//kodik.cc/seria/45290/fc3493aed3f073e04c547813940f1fde/720p",
-            "15": "//kodik.cc/seria/45291/0f7a6f74220682f1f885f56427f0c4ae/720p",
-            "16": "//kodik.cc/seria/45292/9951007fbfec32fd15783f7443770ca5/720p",
-            "17": "//kodik.cc/seria/45293/c869df377a8ad4d29ba1ad2b59c8bfa3/720p",
-            "18": "//kodik.cc/seria/45294/8343013abb5ea6f29fef5ac44fb3fa8e/720p",
-            "19": "//kodik.cc/seria/45295/c4f2aa99bf95d347c6a2078eeeddc004/720p",
-            "20": "//kodik.cc/seria/45296/ab33498c211d3507defc681b9eeac487/720p",
-            "21": "//kodik.cc/seria/45297/0976947266b53240924172ce7807fdf8/720p",
-            "22": "//kodik.cc/seria/45298/0c0a383c54f1377bbd9f9fb7cd91a970/720p",
-            "23": "//kodik.cc/seria/45299/326b7bbfd27ba96607989776116c9a67/720p",
-            "24": "//kodik.cc/seria/45300/621502ea67f1f587b5b16621dbe69433/720p",
-            "25": "//kodik.cc/seria/45301/df7815d28a41e3c0570857e98648cbe4/720p",
-            "26": "//kodik.cc/seria/45302/e99289d62051628f57f269f33e6f7cd0/720p",
-            "27": "//kodik.cc/seria/45303/45f3fa2cf47b237b7836aa6743b706b2/720p",
-            "28": "//kodik.cc/seria/45304/7a549ba9712549080852baa96654b35d/720p",
-            "29": "//kodik.cc/seria/45305/c04d5382e9f26dd2f3364c3cef4a0132/720p",
-            "30": "//kodik.cc/seria/45306/67ea17249691fbeaca6b926e4d07051e/720p",
-            "31": "//kodik.cc/seria/45307/225fbb9ff98c02e1ac8749cc0d6e301c/720p",
-            "32": "//kodik.cc/seria/45308/c8ccbcd921960f5ec4eea631c77c0d95/720p",
-            "33": "//kodik.cc/seria/45309/05437853df3a0c1f028cd35dcdddb3a7/720p",
-            "34": "//kodik.cc/seria/45310/1ede44140d123eca464f29e1536cb60e/720p",
-            "35": "//kodik.cc/seria/45311/f312062471be3a1ddfe982c760976b6a/720p",
-            "36": "//kodik.cc/seria/45312/b87cd0a8d4769c6c7b33e12888d79df3/720p",
-            "37": "//kodik.cc/seria/45313/7ad31aef84cb04b1a1ed2637af222117/720p",
-            "38": "//kodik.cc/seria/45314/c00a57a6e7e44cf85661fe39979ce3f0/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Эзель",
-        "title_en": "Ezel",
-        "year": 2009,
-        "tagline": "Revenge. That will bring them together.",
-        "description": "Сначала был Омер. Вместе с семьей у него была своя простая жизнь. Он был счастлив. Потом он полюбил девушку. Он собирался жениться на ней, вернувшись из армии. Все было в порядке, так, как и должно быть. Но внезапно Омер оказался в тюрьме за убийство. Привычная жизнь, знакомые люди – все исчезло в мгновение ока. На их место пришел один-единственный вопрос – почему? Он жег его мозг, словно раскаленное клеймо. Его предали, подставили, с ним сыграли страшную игру. \n\rЛюбимая девушка Эйшан, лучший друг Дженгиз и Али, который был ему старшим братом, – все они были как-то замешаны в этом. Омер не мог найти ответы на мучавшие его вопросы, он потерял надежду… До тех пор, пока не познакомился в тюрьме с человеком, изменившим его жизнь. Омер умер в тюрьме, но родился Эзель, человек с другим лицом и другим именем. Он готов отомстить людям, отнявшим у него все, но сначала ему нужно убить внутри себя эту бесконечную, бессмертную, не отпускающую его любовь…",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/497667.jpg",
-        "duration": 90,
-        "countries": [
-          "Турция"
-        ],
-        "genres": [
-          "драма",
-          "криминал",
-          "триллер"
-        ],
-        "kinopoisk_rating": 8.3,
-        "kinopoisk_votes": 833,
-        "imdb_rating": 8.6,
-        "imdb_votes": 26434,
-        "premiere_world": "2009-09-28",
-        "actors": [
-          "Кенан Имирзалыоглу",
-          "Джансу Дере",
-          "Бадэ Ишчил",
-          "Йигит Озшенер",
-          "Барыш Фалай",
-          "Сарп Аккая",
-          "Нархан Озенен",
-          "Тунджел Куртиз",
-          "Бурчин Терзиоглу",
-          "Салих Кэлион"
-        ],
-        "directors": [
-          "Улуч Байрактар"
-        ],
-        "producers": [
-          "Керем Чатай"
-        ],
-        "writers": [
-          "Пынар Булут",
-          "Керем Дерен"
-        ],
-        "composers": [
-          "Тойгар Ышыклы"
-        ],
-        "editors": [
-          "Сердар Чакулар"
-        ],
-        "designers": [
-          "Сельда Чичек",
-          "Айнур Топалак"
-        ],
-        "operators": [
-          "Вейсель Текшахин"
-        ]
-      }
-    },
-    {
-      "id": "serial-21408",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Рамо",
-      "title_orig": "Ramo",
-      "translation": {
-        "id": 611,
-        "title": "ColdFilm",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 11,
-      "episodes_count": 11,
-      "kinopoisk_id": "1309513",
-      "imdb_id": "tt11051886",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [
-        "RU"
-      ],
-      "blocked_seasons": "all",
-      "created_at": "2020-01-17T08:44:58Z",
-      "updated_at": "2020-10-22T05:38:51Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/562526/e74f69daad8fe280adee5936fdfb3cb4/720p",
-            "2": "//kodik.cc/seria/567411/805f3c76d63a75d9110f0e326aca7fb3/720p",
-            "3": "//kodik.cc/seria/572521/3da682a6ce2f9ad12c3667d6b3756b3c/720p",
-            "4": "//kodik.cc/seria/580803/b6c0218de6bafc6c2596b1bdb4f8a005/720p",
-            "5": "//kodik.cc/seria/587251/fd50aaba764fcef422764e0578dd97ee/720p",
-            "6": "//kodik.cc/seria/591919/c821fedcc51c048df7118c4b8dc89afa/720p",
-            "7": "//kodik.cc/seria/598073/e66f18d66f2d095ba4102254f805b528/720p",
-            "8": "//kodik.cc/seria/602644/09abb5f80a1c482e5aa51607b1c26087/720p",
-            "9": "//kodik.cc/seria/606943/cc0b98530d3d7267c5e7ca5b82e72119/720p",
-            "10": "//kodik.cc/seria/614007/f35f69dc7a8c4359b6f28c0ea40d62ac/720p",
-            "11": "//kodik.cc/seria/618407/5abf64a5365b65e086530dd007a8848c/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Рамо",
-        "title_en": "Ramo",
-        "year": 2020,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1309513.jpg",
-        "duration": 120,
-        "countries": [
-          "Турция"
-        ],
-        "genres": [
-          "боевик",
-          "драма"
-        ],
-        "imdb_rating": 6.4,
-        "imdb_votes": 968,
-        "premiere_world": "2020-01-14",
-        "actors": [
-          "Мурат Йылдырым",
-          "Эсра Билгич",
-          "Mehmet Sait Ergenç",
-          "Bulut Genç",
-          "Бурак Тамдоган",
-          "Görkem Sevindik",
-          "Cemre Baysel",
-          "Burcu Cavrar",
-          "Саджиде Ташанер",
-          "Ilhan Sen"
-        ],
-        "directors": [
-          "Мустафа Шевки Доган"
-        ],
-        "producers": [
-          "Неджати Акпынар"
-        ],
-        "writers": [
-          "Yilmaz Sahin"
-        ],
-        "editors": [
-          "Огуз Селик"
-        ]
-      }
-    },
-    {
-      "id": "serial-21409",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Рамо",
-      "title_orig": "Ramo",
-      "translation": {
-        "id": 920,
-        "title": "Octopus",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 11,
-      "episodes_count": 11,
-      "kinopoisk_id": "1309513",
-      "imdb_id": "tt11051886",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [
-        "RU"
-      ],
-      "blocked_seasons": "all",
-      "created_at": "2020-01-17T08:44:58Z",
-      "updated_at": "2020-10-22T05:38:43Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/562528/7b79bd54d909fd160180fba47f99fcc6/720p",
-            "2": "//kodik.cc/seria/567563/a2e18fcf9a041d045d0b08823f5218d9/720p",
-            "3": "//kodik.cc/seria/574649/69a857605569efe883f6831f992bca07/720p",
-            "4": "//kodik.cc/seria/581691/5c5c5c9a49452311e5e52033d873209e/720p",
-            "5": "//kodik.cc/seria/587570/e0a5b7264ca1d95087a5e657964fca7c/720p",
-            "6": "//kodik.cc/seria/592324/b542e7c52f5bcb989af6520995063a5c/720p",
-            "7": "//kodik.cc/seria/603002/b4235e4a47223939094de9e68da19654/720p",
-            "8": "//kodik.cc/seria/603003/0bafb0582cc444cbdf1713a80f1070a4/720p",
-            "9": "//kodik.cc/seria/607608/8181ab9a8cd5901309a2d3a3dad330d3/720p",
-            "10": "//kodik.cc/seria/613656/009e23d2adde3712337674e49a14fe25/720p",
-            "11": "//kodik.cc/seria/618722/d412eb04b8191ffd5ccdf24f9486db86/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Рамо",
-        "title_en": "Ramo",
-        "year": 2020,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1309513.jpg",
-        "duration": 120,
-        "countries": [
-          "Турция"
-        ],
-        "genres": [
-          "боевик",
-          "драма"
-        ],
-        "imdb_rating": 6.4,
-        "imdb_votes": 968,
-        "premiere_world": "2020-01-14",
-        "actors": [
-          "Мурат Йылдырым",
-          "Эсра Билгич",
-          "Mehmet Sait Ergenç",
-          "Bulut Genç",
-          "Бурак Тамдоган",
-          "Görkem Sevindik",
-          "Cemre Baysel",
-          "Burcu Cavrar",
-          "Саджиде Ташанер",
-          "Ilhan Sen"
-        ],
-        "directors": [
-          "Мустафа Шевки Доган"
-        ],
-        "producers": [
-          "Неджати Акпынар"
-        ],
-        "writers": [
-          "Yilmaz Sahin"
-        ],
-        "editors": [
-          "Огуз Селик"
-        ]
-      }
-    },
-    {
-      "id": "serial-29857",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Ми-ми-ми-мишка",
-      "title_orig": "Kuma Kuma Kuma Bear",
-      "other_title": "Ми ми ми мишка",
-      "translation": {
-        "id": 1273,
-        "title": "Wakanim.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 3,
-      "episodes_count": 3,
-      "kinopoisk_id": "1390600",
-      "imdb_id": "tt12415504",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10359",
-      "shikimori_id": "40974",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-10-22T05:31:52Z",
-      "updated_at": "2020-10-22T05:31:52Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/726831/aa082e765e180d3c7dc6a7cfeb6ecef0/720p",
-            "2": "//aniqit.com/seria/726832/0638aa57ca96ca0050421fd38643c910/720p",
-            "3": "//aniqit.com/seria/726833/3b6a989a904caee44c5d350e1ae4149e/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Ми-ми-ми-мишка",
-        "title_en": "Kuma Kuma Kuma Bear",
-        "other_titles": [
-          "Кума, кума, кума — медведь",
-          "The Bears Bear a Bare Kuma"
-        ],
-        "other_titles_jp": [
-          "くま クマ 熊 ベアー"
-        ],
-        "anime_license_name": "Ми-ми-ми-мишка",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2020,
-        "description": "Девочка по имени Юна уже три года ведёт образ жизни хиккикомори — сознательно изолирует себя от социума. Интернет и онлайн-игры за это время стали для неё смыслом жизни, поэтому неудивительно, что с недавних пор она начала увлекаться очередной RPG — Fantasy World Online. \r\nБез труда достигнув в FWO высоких результатов, однажды в рамках нового глобального обновления девочка по акции получает уникальный костюм мишки, а вместе с ним предложение поучаствовать в опросе... как вдруг оказывается посреди глухого леса!\r\nЧуть позже становится ясно: Юна была перенесена в мир любимой игры, а её новый костюмчик — штука не только милая, но и чрезвычайно мощная вопреки всем ограничениям игрового баланса!\r\nТак начинаются её захватывающие и опасные приключения!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1390600.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/3517e2541c443afd077636e63b7cb5f9e6332fc7.jpg",
-          "https://shikimori.one/system/screenshots/original/75ce0616e22cec0a03d47f2db01b56b388db6e6e.jpg"
-        ],
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Приключения",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "EMT Squared"
-        ],
-        "imdb_rating": 6.5,
-        "imdb_votes": 119,
-        "shikimori_rating": 7.14,
-        "shikimori_votes": 2205,
-        "premiere_world": "2020-10-07",
-        "aired_at": "2020-10-07",
-        "released_at": "2020-12-23",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Маки Кавасэ",
-          "Адзуми Ваки"
-        ],
-        "directors": [
-          "Юу Нобута"
-        ]
       }
     }
   ]

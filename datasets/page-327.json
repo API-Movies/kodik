@@ -1,6 +1,589 @@
 {
   "results": [
     {
+      "id": "serial-2028",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Великое путешествие",
+      "title_orig": "Fune o Amu",
+      "other_title": "Мы создаем корабль / Мы свяжем лодку / The Great Passage",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 11,
+      "episodes_count": 11,
+      "kinopoisk_id": "1009632",
+      "imdb_id": "tt6142628",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8701",
+      "shikimori_id": "32948",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-01-05T13:44:29Z",
+      "updated_at": "2017-01-05T13:44:29Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/44362/6761df0d8d301226a2436323b312ff3c/720p",
+            "2": "//aniqit.com/seria/44363/e0375e25bcd619999b9ebd84bc7085c0/720p",
+            "3": "//aniqit.com/seria/44364/c296806ccc375838d790a25001df95cb/720p",
+            "4": "//aniqit.com/seria/44365/b4086904d86d087a0c079f0eb83af0e8/720p",
+            "5": "//aniqit.com/seria/44366/8f48400d60e4a4e9989f22a74fc40236/720p",
+            "6": "//aniqit.com/seria/44367/b23a50bb39ad8bcdf1213c6717bd70f4/720p",
+            "7": "//aniqit.com/seria/44368/5d533e28c0902c102531ad8f5172024e/720p",
+            "8": "//aniqit.com/seria/44369/362417c5fdb3952a3a64082a0dcd72cf/720p",
+            "9": "//aniqit.com/seria/44370/51a5607f3571ff8342683249bb5ab719/720p",
+            "10": "//aniqit.com/seria/44371/24f8dc6eaec5357fa22cbfe89e663df0/720p",
+            "11": "//aniqit.com/seria/44372/e3070ededefb7e514764cc5cdc7bf305/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Великое путешествие",
+        "title_en": "Fune wo amu",
+        "other_titles": [
+          "Мы создаём корабль",
+          "Великое путешествие"
+        ],
+        "other_titles_en": [
+          "The Great Passage"
+        ],
+        "other_titles_jp": [
+          "舟を編む"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2016,
+        "description": "Полным ходом идёт работа по созданию современного словаря японского языка Дайтокай, но на его подготовку потребуется ещё много времени. Кохэй Араки, опытный редактор убыточного отдела словарей, привлекает в проект сотрудника отдела продаж, Мицую Мадзимэ, так как сам он вскоре должен уйти на пенсию. Благодаря своей преданности делу и любви к словам Мицуя становится выдающимся редактором.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1009632.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/d7d8e4884bce8ed666db2f1bde9a5cff76b5e387.jpg",
+          "https://shikimori.one/system/screenshots/original/8424e72d84eaa0626b5b0d7bb64dcd773526334f.jpg"
+        ],
+        "duration": 22,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "драма",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Повседневность",
+          "Романтика"
+        ],
+        "anime_studios": [
+          "Zexcs"
+        ],
+        "kinopoisk_rating": 7,
+        "kinopoisk_votes": 117,
+        "imdb_rating": 7.4,
+        "imdb_votes": 305,
+        "shikimori_rating": 7.64,
+        "shikimori_votes": 0,
+        "premiere_world": "2016-10-13",
+        "aired_at": "2016-10-14",
+        "released_at": "2016-12-23",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 11,
+        "episodes_aired": 11,
+        "actors": [
+          "Ёко Хикаса",
+          "Хироси Камия",
+          "Тэцуо Канао",
+          "Мугихито",
+          "Саито Тива",
+          "Ёсико Сакакибара",
+          "Маая Сакамото",
+          "Такахиро Сакурай"
+        ],
+        "directors": [
+          "Тосимаса Куроянаги"
+        ],
+        "writers": [
+          "Сион Миура"
+        ],
+        "composers": [
+          "Ёсихиро Икэ"
+        ]
+      }
+    },
+    {
+      "id": "movie-11884",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Пятеро с неба",
+      "title_orig": "Пятеро с неба",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1969,
+      "kinopoisk_id": "43377",
+      "imdb_id": "tt0314549",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-02-07T21:38:23Z",
+      "updated_at": "2017-01-05T13:39:50Z",
+      "material_data": {
+        "title": "Пятеро с неба",
+        "title_en": "",
+        "year": 1969,
+        "description": "Советское командование располагает тревожными сведениями о новом изобретении врага. По данным разведки на один из участков Восточного фронта гитлеровцы доставили партию новых химических снарядов, начиненных газом огромной разрушительной силы. Фашисты хотят испытать их в боевых условиях, а затем применить в широких масштабах.\n\rВ Ставке решают: необходимо предотвратить катастрофу, добыть снаряд и представить союзникам доказательства преступной затеи нацистов. С этой целью в тыл врага заброшена группа парашютистов-десантников из пяти человек. Операций руководит опытный командир - капитан Минаев. С ним - сержант Круминь, отлично знающий немецкий язык, и рядовые Тарич, Наседкин и Супрунов.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/43377.jpg",
+        "duration": 87,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "приключения"
+        ],
+        "kinopoisk_rating": 6.3,
+        "kinopoisk_votes": 485,
+        "imdb_rating": 6.6,
+        "imdb_votes": 12,
+        "premiere_world": "1969-07-21",
+        "minimal_age": 12,
+        "actors": [
+          "Глеб Селянин",
+          "Герман Юшко",
+          "Роман Громадский",
+          "Александр Чирков",
+          "Виктор Семёновский",
+          "Григорий Аронов",
+          "Лариса Буркова",
+          "Владимир Карпенко",
+          "Юрий Мальцев",
+          "Александр Соколов"
+        ],
+        "directors": [
+          "Владимир Шредель"
+        ],
+        "writers": [
+          "Леонид Браславский"
+        ],
+        "composers": [
+          "Борис Клюзнер"
+        ],
+        "designers": [
+          "Андрей Вагин",
+          "Александр Компанеец"
+        ],
+        "operators": [
+          "Олег Куховаренко"
+        ]
+      }
+    },
+    {
+      "id": "movie-22357",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Храм Шаолинь 2: Дети Шаолиня",
+      "title_orig": "Shao Lin xiao zi",
+      "translation": {
+        "id": 590,
+        "title": "Кузнецов",
+        "type": "voice"
+      },
+      "year": 1984,
+      "kinopoisk_id": "23611",
+      "imdb_id": "tt0086301",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-01-05T09:11:22Z",
+      "updated_at": "2017-01-05T09:11:22Z",
+      "material_data": {
+        "title": "Храм Шаолинь 2: Дети Шаолиня",
+        "title_en": "Shao Lin xiao zi",
+        "year": 1984,
+        "description": "Две семьи живут по разным сторонам реки, храня дружественные отношения. Одна семья - девушки практикующие стиль Меч Ву Танга, а другая - из юношей воспитанных в традициях Шаолиня. Когда отцу семейства Ву Тангов угрожает смертельная опасность, бойцы из Шаолиня приходят на помощь...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/23611.jpg",
+        "duration": 103,
+        "countries": [
+          "Гонконг"
+        ],
+        "genres": [
+          "боевик",
+          "комедия"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 772,
+        "imdb_rating": 6.3,
+        "imdb_votes": 1485,
+        "premiere_world": "1984-01-26",
+        "actors": [
+          "Джет Ли",
+          "Динг Лан",
+          "Чау-Инь Вон",
+          "Цзи Чуньхуа",
+          "Пань Цинфу",
+          "Сунь Цзянькуй",
+          "Юй Чэнхуэй",
+          "Юй Хай",
+          "Ху Цзяньцан"
+        ],
+        "directors": [
+          "Чжан Синьянь"
+        ],
+        "writers": [
+          "Шу-Хуа Хо",
+          "Люн-Кюн Люн"
+        ],
+        "editors": [
+          "Ку Чи Вэй",
+          "Ю-Хуай Ли"
+        ],
+        "operators": [
+          "Чау Пак Линг"
+        ]
+      }
+    },
+    {
+      "id": "serial-1110",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Золушка и четверо рыцарей",
+      "title_orig": "Cinderellawa ne myungui gisa",
+      "other_title": "4 принца для Золушки / Золушка и четыре рыцаря / Золушка и четыре принца / Четыре принца для золушки / Cinderella and Four Knights / sin-de-lel-la-wa ne myeong-eui gi-sa",
+      "translation": {
+        "id": 639,
+        "title": "SoftBox",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "986680",
+      "imdb_id": "tt5764414",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2016-10-06T15:44:47Z",
+      "updated_at": "2017-01-05T08:11:25Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/20913/2a8fa6924b99864bb0a31a641e680c03/720p",
+            "2": "//kodik.cc/seria/20914/1a2f656c909bbb17c1a3522b14e5c9ad/720p",
+            "3": "//kodik.cc/seria/20915/e932356ca55388b1e61edffec18eb853/720p",
+            "4": "//kodik.cc/seria/20916/1130e4f579a5ba4bd3ff72cbba1c91de/720p",
+            "5": "//kodik.cc/seria/20917/2ca0b2f8fd898260d64fc8402761c56b/720p",
+            "6": "//kodik.cc/seria/20918/77d73a02fa28dd2865d62ef36cac74df/720p",
+            "7": "//kodik.cc/seria/20919/0f385aec66f51743a076faf1d7ca56f3/720p",
+            "8": "//kodik.cc/seria/20920/d67bebc44e976443401407e2f070e748/720p",
+            "9": "//kodik.cc/seria/20921/3101379b8ff1966896079e7b587f8f33/720p",
+            "10": "//kodik.cc/seria/20922/492d156b04f3b44cf1aceafd745bf43d/720p",
+            "11": "//kodik.cc/seria/20923/79bdea97c4a2d4fac13ab7f97ffd1be5/720p",
+            "12": "//kodik.cc/seria/20924/09bc42cefa583d222772e59541c25cb1/720p",
+            "13": "//kodik.cc/seria/20925/536a0d37eef087ad903c2ef3195692e5/720p",
+            "14": "//kodik.cc/seria/20926/c83c83eea14aa9fbebdc98964a4395a3/720p",
+            "15": "//kodik.cc/seria/20927/17fdd9dd2885c935aae3ffb9bc07012a/720p",
+            "16": "//kodik.cc/seria/20928/9ac684203f4d47045563091dcf878686/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Золушка и четверо рыцарей",
+        "title_en": "Cinderellawa ne myungui gisa",
+        "year": 2016,
+        "description": "Весёлая и жизнерадостная девушка Ын Ха-вон заканчивает школу и мечтает стать учительницей. Она живёт с отцом, мачехой и сводной сестрой, но близкими отношения не особо ладятся, поэтому Ха-вон иногда чувствует себя одиноко. Однажды она помогает загадочному пожилому мужчине, и тот в благодарность предлагает ей пожить в большом особняке.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/986680.jpg",
+        "duration": 70,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "kinopoisk_rating": 7.8,
+        "kinopoisk_votes": 5545,
+        "imdb_rating": 7.3,
+        "imdb_votes": 2345,
+        "premiere_world": "2016-08-12",
+        "actors": [
+          "Чон Ир-у",
+          "Ан Джэ-хён",
+          "Пак Со-дам",
+          "Ким Ён-гон",
+          "Чхве Мин",
+          "Ли Джон-щин",
+          "Сон На-ын",
+          "Ко Бо-гёль",
+          "Ким Ган-хён",
+          "Чо Хе-джон"
+        ],
+        "directors": [
+          "Квон Хёк-чхан"
+        ],
+        "writers": [
+          "Мин Джи-ын",
+          "Вон Ён-щиль"
+        ]
+      }
+    },
+    {
+      "id": "serial-1400",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Лунный свет, нарисованный облаками",
+      "title_orig": "Gooreumi geurin dalbit",
+      "other_title": "Лунный свет, влекомый облаками / Свет луны, очерченный облаком / Любовь в лунном свете / Love in the Moonlight / Moonlight Drawn By Clouds",
+      "translation": {
+        "id": 639,
+        "title": "SoftBox",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 18,
+      "episodes_count": 18,
+      "kinopoisk_id": "981103",
+      "imdb_id": "tt5575678",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2016-10-13T12:22:59Z",
+      "updated_at": "2017-01-05T05:58:29Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/27732/f0d4c84ea3bce73a03a22ab94c1f1857/720p",
+            "2": "//kodik.cc/seria/27733/aa532e5ccbd4e6e2fbbfdadbfb19e14f/720p",
+            "3": "//kodik.cc/seria/27734/7249a3aa3476eb1c98f7562a0556412b/720p",
+            "4": "//kodik.cc/seria/27735/414bbf691328c6340b769b184a896764/720p",
+            "5": "//kodik.cc/seria/27736/68e2785fb252a0f721c2728517c51383/720p",
+            "6": "//kodik.cc/seria/27737/b781b882a7a70ccc07f7ab94272346ce/720p",
+            "7": "//kodik.cc/seria/27738/ff7f84f64159262b7564a22453b8cff5/720p",
+            "8": "//kodik.cc/seria/27739/e7a553f4b7f1bfda36d3d38df0f2fa12/720p",
+            "9": "//kodik.cc/seria/27740/d0e8978d8813bbf3e2d3719c1e374b91/720p",
+            "10": "//kodik.cc/seria/27741/19e718dc3e941c9a8ef77211e5dd137e/720p",
+            "11": "//kodik.cc/seria/27742/9ef45b7b764842516713def32b226ae5/720p",
+            "12": "//kodik.cc/seria/27743/4cc4a088e7eac3f070723ecc93596761/720p",
+            "13": "//kodik.cc/seria/27744/6153e2930a494da79a04ff447edc56cd/720p",
+            "14": "//kodik.cc/seria/27745/fbf6524dbcf258bf962c0b110f080353/720p",
+            "15": "//kodik.cc/seria/27746/71d9dea595b0a8baee077f931bdcccbf/720p",
+            "16": "//kodik.cc/seria/27747/b1b48ea9e1dc5cbaf9c2339c4adc7ad0/720p",
+            "17": "//kodik.cc/seria/29731/356143ff151607b464bca7a3c395da53/720p",
+            "18": "//kodik.cc/seria/29732/ea1d06de8c8082472c9be9fdee7e81a6/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Лунный свет, нарисованный облаками",
+        "title_en": "Gureumi geurin dalbit",
+        "year": 2016,
+        "description": "Эпоха Чосон. Хон Ра-он под видом мужчины даёт советы другим мужчинам, как вести себя на свиданиях. Однажды судьба сводит её с наследным принцем Хёмёном.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/981103.jpg",
+        "duration": 70,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "kinopoisk_rating": 7.8,
+        "kinopoisk_votes": 3124,
+        "imdb_rating": 7.9,
+        "imdb_votes": 1860,
+        "premiere_world": "2016-08-22",
+        "actors": [
+          "Пак По-гом",
+          "Ким Ю-джон",
+          "Чхэ Су-бин",
+          "Чин Ён",
+          "Квак Тон-ён",
+          "Чхон Хо-джин",
+          "Чан Гван",
+          "Чон Ми-сон",
+          "Чо Хи-бон",
+          "Чон Хе-сон"
+        ],
+        "directors": [
+          "Ким Сон-юн",
+          "Пэк Сан-хун"
+        ],
+        "writers": [
+          "Ким Мин-джон",
+          "Лим Е-джин",
+          "Юн И-су"
+        ]
+      }
+    },
+    {
+      "id": "movie-22342",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "3 счастливых поросенка",
+      "title_orig": "Les 3 p'tits cochons 2",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "940725",
+      "imdb_id": "tt5097398",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-01-05T05:39:49Z",
+      "updated_at": "2017-01-05T05:39:49Z",
+      "material_data": {
+        "title": "3 счастливых поросенка",
+        "title_en": "Les 3 p'tits cochons 2",
+        "year": 2016,
+        "description": "Реми, Матьё и Кристиан  - братья, чья  гиперактивность  доставляет массу неприятностей им самим, их ревнивым женам и подружкам. Всё только усложняется, когда Доминик, жена Реми, выставляет мужа за дверь и не прочь завести интрижку с его братом...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/940725.jpg",
+        "duration": 102,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "kinopoisk_rating": 5.7,
+        "kinopoisk_votes": 510,
+        "imdb_rating": 6.4,
+        "imdb_votes": 304,
+        "premiere_ru": "2016-12-29",
+        "premiere_world": "2016-07-01",
+        "minimal_age": 18,
+        "actors": [
+          "Пол Дусе",
+          "Гийом Леме-Тивьерж",
+          "Патрис Робитейлл",
+          "Софи Прегент",
+          "Изабель Рише",
+          "Максим Лепаж",
+          "Сяо Сунь",
+          "Océane Bergeron",
+          "Франсуа Бернье",
+          "Катрин Бойли"
+        ],
+        "directors": [
+          "Жан-Франсуа Пуле"
+        ],
+        "producers": [
+          "Пьер Гендрон",
+          "Кристиан Лярош"
+        ],
+        "writers": [
+          "Клод Лалонд",
+          "Пьер Ламот"
+        ],
+        "composers": [
+          "Мартин Леон"
+        ],
+        "editors": [
+          "Жан-Франсуа Бержерон"
+        ],
+        "designers": [
+          "Марио Хервё",
+          "Франческа Шамберлан"
+        ],
+        "operators": [
+          "Джонатан Декосте"
+        ]
+      }
+    },
+    {
+      "id": "movie-11238",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Красный залив",
+      "title_orig": "Red Billabong",
+      "translation": {
+        "id": 652,
+        "title": "@MUZOBOZ@",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "851682",
+      "imdb_id": "tt4011010",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-01-03T22:11:24Z",
+      "updated_at": "2017-01-05T05:37:57Z",
+      "material_data": {
+        "title": "Red Billabong",
+        "title_en": "",
+        "year": 2016,
+        "tagline": "Blood is Thicker Than Water",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/851682.jpg",
+        "duration": 113,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "боевик",
+          "триллер",
+          "ужасы"
+        ],
+        "imdb_rating": 4,
+        "imdb_votes": 672,
+        "premiere_world": "2016-08-25",
+        "actors": [
+          "Дэниэл Юинг",
+          "Тим Пакок",
+          "Джессика Грин",
+          "Sophie Don",
+          "Бен Чишолм",
+          "Alex Becconsall",
+          "Дэмиен Брайсон",
+          "Philippe Deseck",
+          "Кол Эллиотт",
+          "Грегори Дж. Фрайер"
+        ],
+        "directors": [
+          "Люк Спарк"
+        ],
+        "producers": [
+          "Карли Имри",
+          "Мелани Имри",
+          "Люк Спарк",
+          "Йен Спарк",
+          "Джеймс Майкл Вернон"
+        ],
+        "writers": [
+          "Люк Спарк"
+        ],
+        "composers": [
+          "Джейсон Фернандез"
+        ],
+        "editors": [
+          "Майкл Гилберт"
+        ],
+        "designers": [
+          "Адам Хэд",
+          "Йен Спарк",
+          "Lisa Michell"
+        ],
+        "operators": [
+          "Эндрю Кондер"
+        ]
+      }
+    },
+    {
       "id": "serial-2024",
       "type": "anime-serial",
       "link": "",
@@ -7860,576 +8443,6 @@
         ],
         "operators": [
           "Мирсад Херовидж"
-        ]
-      }
-    },
-    {
-      "id": "movie-5748",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Жажда",
-      "title_orig": "Kawaki",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "788407",
-      "imdb_id": "tt3108158",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-04-06T18:02:50Z",
-      "updated_at": "2016-12-20T06:06:01Z",
-      "material_data": {
-        "title": "Жажда",
-        "title_en": "Kawaki",
-        "year": 2014,
-        "tagline": "Shock Therapy Entertainment.",
-        "description": "Красавица и умница Канако внезапно исчезает без следа. Отец девочки, бывший детектив Фудзисима Акихиро, чтобы найти свою дочь, начинает тщательное расследование ее жизни. Фудзисима - одинокий человек, собственные действия которого привели к распаду семьи, но, когда он продолжает свое расследование, то сталкивается с серией шокирующих откровений. Оказывается, Канако - далеко не ангел, которого все видели в ней...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/788407.jpg",
-        "duration": 118,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "детектив",
-          "драма",
-          "триллер"
-        ],
-        "kinopoisk_rating": 6.1,
-        "kinopoisk_votes": 325,
-        "imdb_rating": 6.6,
-        "imdb_votes": 4413,
-        "premiere_world": "2014-06-27",
-        "actors": [
-          "Кодзи Якусё",
-          "Нана Комацу",
-          "Сатоси Цумабуки",
-          "Хироя Симидзу",
-          "Фуми Никайдо",
-          "Аи Хасимото",
-          "Дзюн Кунимура",
-          "Дзё Одагири",
-          "Мики Накатани",
-          "Аои Морикава"
-        ],
-        "directors": [
-          "Тэцуя Накасима"
-        ],
-        "producers": [
-          "Сатоми Одакэ",
-          "Кэндзи Като",
-          "Naohito Miyamoto",
-          "Eiji Murano",
-          "Кадзуо Наканиси",
-          "Ютака Судзуки",
-          "Том Ёда"
-        ],
-        "writers": [
-          "Akio Fukamachi",
-          "Тэцуя Накасима",
-          "Миако Тадано",
-          "Нобухиро Монма"
-        ],
-        "editors": [
-          "Ёсиюки Коикэ"
-        ],
-        "designers": [
-          "Тосихару Накамаэ",
-          "Хироми Синтани",
-          "Тина Хаяси"
-        ],
-        "operators": [
-          "Сёити Ато"
-        ]
-      }
-    },
-    {
-      "id": "movie-12102",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Джунгли",
-      "title_orig": "The Jungle",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "713299",
-      "imdb_id": "tt2444092",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-07T21:39:33Z",
-      "updated_at": "2016-12-19T08:36:25Z",
-      "material_data": {
-        "title": "Джунгли",
-        "title_en": "The Jungle",
-        "year": 2013,
-        "tagline": "Новый хищник выходит на охоту",
-        "description": "Исследовательская экспедиция отправляется в индонезийские джунгли, чтобы снять на видео редкий вид пятнистых леопардов, занесенных в Красную книгу. Идя по их следам, путешественники забираются глубоко в джунгли, где еще никто не бывал. Там они встречают новый вид хищника, неизвестный до этого человечеству...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/713299.jpg",
-        "duration": 84,
-        "countries": [
-          "Австралия"
-        ],
-        "genres": [
-          "триллер",
-          "ужасы"
-        ],
-        "kinopoisk_rating": 2.9,
-        "kinopoisk_votes": 479,
-        "imdb_rating": 3.8,
-        "imdb_votes": 842,
-        "premiere_ru": "2013-06-27",
-        "premiere_world": "2013-06-27",
-        "rating_mpaa": "R",
-        "actors": [
-          "Игусти Будиантхика",
-          "Руперт Рейд",
-          "Агос Виджайя Соджарво"
-        ],
-        "directors": [
-          "Эндрю Трауки"
-        ],
-        "producers": [
-          "Эннмари Белл",
-          "Эндрю Трауки",
-          "Dustin DellaVecchia",
-          "Ричард С. Гардиан",
-          "Сьюзи Марковски",
-          "Люк Натли",
-          "Джулиан Робертс",
-          "Фабио Солдани",
-          "Бретт Торнквест",
-          "Дин Туви"
-        ],
-        "writers": [
-          "Эндрю Трауки"
-        ],
-        "editors": [
-          "Кристофер Милл",
-          "Мэттью Уолкер"
-        ],
-        "designers": [
-          "Звика Алони"
-        ]
-      }
-    },
-    {
-      "id": "movie-12108",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Кулак легенды",
-      "title_orig": "Jing wu ying xiong",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1994,
-      "kinopoisk_id": "23597",
-      "imdb_id": "tt0110200",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-07T21:39:34Z",
-      "updated_at": "2016-12-19T08:28:09Z",
-      "material_data": {
-        "title": "Кулак легенды",
-        "title_en": "Jing wu ying xiong",
-        "year": 1994,
-        "tagline": "To avenge his masters death, He'll fight like never before!",
-        "description": "В начале XX века во время японской оккупации Китая самураи, кичившиеся своим непобедимым каратэ, жестоко убили миролюбивого учителя кунг-фу Хо. Деморализованный народ даже не помышлял о сопротивлении. Устрашились все, кроме Жень Чена, самого одаренного ученика погибшего мастера.\n\rУзнав о случившемся, герой клянется во что бы то ни стало отомстить убийцам. И когда приходит час возмездия, стонущий под пятой захватчиков Шанхай превращается в поле грандиозной битвы между дерзким одиночкой и самым опаснейшим врагом.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/23597.jpg",
-        "duration": 103,
-        "countries": [
-          "Гонконг"
-        ],
-        "genres": [
-          "боевик",
-          "драма"
-        ],
-        "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 4861,
-        "imdb_rating": 7.5,
-        "imdb_votes": 22053,
-        "premiere_world": "1994-12-22",
-        "rating_mpaa": "R",
-        "minimal_age": 16,
-        "actors": [
-          "Джет Ли",
-          "Синобу Накаяма",
-          "Чинь Сиу-Хо",
-          "Билли Чоу",
-          "Ясуаки Курата",
-          "Пол Чунь",
-          "Ада Чой",
-          "Юэнь Чун-Янь",
-          "Тосимити Такахаси",
-          "Сук-Муи Там"
-        ],
-        "directors": [
-          "Гордон Чан"
-        ],
-        "producers": [
-          "Чуй Йин Лам",
-          "Джет Ли"
-        ],
-        "writers": [
-          "Гордон Чан",
-          "Квонг Ким Йип"
-        ],
-        "composers": [
-          "Стивен Эдвардс",
-          "Джозеф Ку"
-        ],
-        "editors": [
-          "Чан Ки-Хоп",
-          "Чак-Ман Чэн"
-        ],
-        "designers": [
-          "Хорас Ма",
-          "Ширли Чан"
-        ],
-        "operators": [
-          "Дерек Ван"
-        ]
-      }
-    },
-    {
-      "id": "movie-12110",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Кулак легенды: Возвращение Чен Жена",
-      "title_orig": "Jing wu feng yun: Chen Zhen",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2010,
-      "kinopoisk_id": "468952",
-      "imdb_id": "tt1456661",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-07T21:39:34Z",
-      "updated_at": "2016-12-19T08:22:59Z",
-      "material_data": {
-        "title": "Кулак легенды: Возвращение Чэнь Чжэня",
-        "title_en": "Jing wu feng yun: Chen Zhen",
-        "year": 2010,
-        "description": "Спустя семь лет после смерти Чэнь Чжэня, который, как выяснилось был убит во время войны, в Шанхай из-за границы приезжает таинственный незнакомец и оказывает поддержку местному боссу мафии. Этот человек и есть замаскированный Чэнь Чжэнь, который намеревается проникнуть в круги власти, и нанести удар, если Шанхай заключит союз с японцами.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/468952.jpg",
-        "duration": 106,
-        "countries": [
-          "Гонконг",
-          "Китай"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "история"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 1838,
-        "imdb_rating": 6.3,
-        "imdb_votes": 9665,
-        "premiere_world": "2010-09-01",
-        "rating_mpaa": "R",
-        "actors": [
-          "Донни Йен",
-          "Шу Ци",
-          "Энтони Вон",
-          "Хуан Бо",
-          "Рю Кохата",
-          "Хо Сыянь",
-          "Чжоу Ян",
-          "Шон Юе",
-          "Ясуаки Курата",
-          "Акира"
-        ],
-        "directors": [
-          "Эндрю Лау"
-        ],
-        "producers": [
-          "Гордон Чан",
-          "Эллен Чанг",
-          "Пол Чэн",
-          "Сиу Киу Чунг",
-          "Чинь Мань-Кэй",
-          "Джон Чон",
-          "Лоррэйн Хо",
-          "Питер Лам",
-          "Эндрю Лау",
-          "Жэнь Чжунлунь"
-        ],
-        "writers": [
-          "Гордон Чан",
-          "Чун Чи-Син",
-          "Лю Кун-Нам",
-          "Фрэнки Там"
-        ],
-        "composers": [
-          "Комфорт Чан"
-        ],
-        "editors": [
-          "Азраэль Чун"
-        ],
-        "designers": [
-          "Це Фун Ли",
-          "Че Киу Лам",
-          "Дора Нг"
-        ],
-        "operators": [
-          "Эндрю Лау",
-          "Нг Ман-Чин"
-        ]
-      }
-    },
-    {
-      "id": "movie-10225",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Одержимость",
-      "title_orig": "Junooniyat",
-      "other_title": "Во власти любви",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "878664",
-      "imdb_id": "tt3840534",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-09-20T13:44:38Z",
-      "updated_at": "2016-12-19T08:01:55Z",
-      "material_data": {
-        "title": "Одержимость",
-        "title_en": "Junooniyat",
-        "year": 2016,
-        "description": "Капитан Джахан Бакши, военный по призванию, знакомится с пенджабской девушкой Сухани. Между ними вспыхивает чувство. Но отец Сухани, потерявший на войне сына и двух братьев, категорически против того, чтобы избранник его единственной дочери служил в армии.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/878664.jpg",
-        "duration": 155,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "imdb_rating": 4.2,
-        "imdb_votes": 658,
-        "premiere_world": "2016-06-24",
-        "minimal_age": 16,
-        "actors": [
-          "Пулкит Самрат",
-          "Ями Гаутам",
-          "Гульшан Девайя",
-          "Ришита Бхатт",
-          "S. Poonam Kaur",
-          "Аниша Джоши",
-          "Херри Тангди",
-          "Кхушбу Упадхиай",
-          "Sanjay Mehandiratta",
-          "Чару Рахатхи"
-        ],
-        "directors": [
-          "Вивек Агнихотри"
-        ],
-        "producers": [
-          "Бхушан Кумар",
-          "Вивек Бхатнагар",
-          "Ханиф Чунавала",
-          "Минакши Панде",
-          "Йогирадж Шетти"
-        ],
-        "writers": [
-          "Вивек Агнихотри",
-          "Priti Singh"
-        ],
-        "composers": [
-          "Bobby-Imran",
-          "Meet Bros",
-          "Jeet Ganguly",
-          "Ankit Tiwari"
-        ],
-        "editors": [
-          "Антара Лахири"
-        ],
-        "designers": [
-          "Saini S. Johray",
-          "Кхушбу Чаухан",
-          "Srinivas Konda",
-          "Amit Sharma",
-          "Sefalina"
-        ],
-        "operators": [
-          "Аттар Сингх Саини"
-        ]
-      }
-    },
-    {
-      "id": "movie-11084",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Ярость 3",
-      "title_orig": "Rampage: President Down",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "844013",
-      "imdb_id": "tt4146622",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-12-15T14:09:41Z",
-      "updated_at": "2016-12-19T07:56:29Z",
-      "material_data": {
-        "title": "Ярость 3",
-        "title_en": "Rampage: President Down",
-        "year": 2016,
-        "tagline": "This will not be vetoed.",
-        "description": "Продолжение кровавой истории идейного убийцы Билла Уильямсона. Вдохновившись новостными репортажами, неуловимый каратель начинает новую расправу над обществом, которое изжило себя и нуждается в адовой встряске.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/844013.jpg",
-        "duration": 99,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "боевик",
-          "криминал",
-          "триллер"
-        ],
-        "kinopoisk_rating": 5.8,
-        "kinopoisk_votes": 1376,
-        "imdb_rating": 4.8,
-        "imdb_votes": 2759,
-        "premiere_world": "2016-08-26",
-        "actors": [
-          "Брендан Флетчер",
-          "Брюс Блэйн",
-          "Лоретта Уолш",
-          "Зайн Магхджи",
-          "Стив Бэран",
-          "Райан МакДонелл",
-          "Скотт Пате",
-          "Кристал Лоу",
-          "Энтони Роджерс",
-          "Дэн Ши"
-        ],
-        "directors": [
-          "Уве Болл"
-        ],
-        "producers": [
-          "Наталия Тудж",
-          "Уве Болл",
-          "Брендан Флетчер",
-          "Гари Отто",
-          "Michael Pohorly"
-        ],
-        "writers": [
-          "Уве Болл",
-          "Брендан Флетчер"
-        ],
-        "composers": [
-          "Джессика Де Руйи",
-          "Пале Кристиан Томас"
-        ],
-        "editors": [
-          "K.T. Skaha"
-        ],
-        "designers": [
-          "Вава Рената",
-          "Келси Дэвидсон"
-        ],
-        "operators": [
-          "Матиас Нойманн"
-        ]
-      }
-    },
-    {
-      "id": "movie-12081",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Все о Е",
-      "title_orig": "All About E",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "854447",
-      "imdb_id": "tt3532686",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-07T21:39:28Z",
-      "updated_at": "2016-12-19T07:51:25Z",
-      "material_data": {
-        "title": "Все о Е",
-        "title_en": "All About E",
-        "year": 2015,
-        "description": "Красивая девушка-диджей пускается в бега после того, как случайно находит мешок с деньгами. Удастся ли ей побороть своих демонов, оставить себе деньги, и заполучить желанную девушку?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/854447.jpg",
-        "duration": 96,
-        "countries": [
-          "Австралия"
-        ],
-        "genres": [
-          "драма",
-          "комедия",
-          "мелодрама"
-        ],
-        "imdb_rating": 4.8,
-        "imdb_votes": 907,
-        "premiere_world": "2015-06-22",
-        "minimal_age": 18,
-        "actors": [
-          "Mandahla Rose",
-          "Бретт Роджерс",
-          "Джулия Билингтон",
-          "Simon Bolton",
-          "Ким Антониос",
-          "Лекс Маринос",
-          "Карли Рэй Гроган",
-          "Paige Barrand",
-          "Maxine Austin",
-          "Elka Kerkhofs"
-        ],
-        "directors": [
-          "Louise Wadley"
-        ],
-        "producers": [
-          "Jay Rutovitz",
-          "Шон Миллер"
-        ],
-        "writers": [
-          "Louise Wadley"
-        ],
-        "composers": [
-          "Бейзил Хогиос"
-        ],
-        "editors": [
-          "Rowena Crowe"
-        ],
-        "designers": [
-          "Андреа Олива",
-          "Габриэлла Де Кандия"
-        ],
-        "operators": [
-          "Джастин Керриган"
         ]
       }
     }
