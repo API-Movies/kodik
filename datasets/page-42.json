@@ -1,6 +1,797 @@
 {
   "results": [
     {
+      "id": "movie-2860",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Самурай-шпион",
+      "title_orig": "Ibun Sarutobi Sasuke",
+      "translation": {
+        "id": 590,
+        "title": "Кузнецов",
+        "type": "voice"
+      },
+      "year": 1965,
+      "kinopoisk_id": "267971",
+      "imdb_id": "tt0059303",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-18T11:34:05Z",
+      "updated_at": "2020-11-18T07:35:51Z",
+      "material_data": {
+        "title": "Самурай-шпион",
+        "title_en": "Ibun Sarutobi Sasuke",
+        "year": 1965,
+        "description": "Сасуке — самурай, участвовавший в войне между двумя кланами. Прошло 14 лет, и самурай не хочет войны, он занял позицию стороннего наблюдателя. Но старый друг случайно вовлекает его в погоню за таинственным перебежчиком Татеваки Корияма, который хранит документ, с помощью которого можно управлять шпионами по всей Японии.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/267971.jpg",
+        "duration": 100,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "боевик",
+          "драма"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 106,
+        "imdb_rating": 7,
+        "imdb_votes": 1499,
+        "premiere_world": "1965-07-10",
+        "actors": [
+          "Кодзи Такахаси",
+          "Дзицуко Ёсимура",
+          "Мисако Ватанабэ",
+          "Кэи Сато",
+          "Эйдзи Окада",
+          "Эитаро Одзава",
+          "Сэидзи Миягути",
+          "Рокко Тора",
+          "Ясунори Ирикава",
+          "Минору Ходака"
+        ],
+        "directors": [
+          "Масахиро Синода"
+        ],
+        "producers": [
+          "Сидзуо Яманоти"
+        ],
+        "writers": [
+          "Ёсиюки Фукуда",
+          "Кодзи Накада"
+        ],
+        "composers": [
+          "Тору Такэмицу"
+        ],
+        "editors": [
+          "Ёси Сугихара"
+        ],
+        "designers": [
+          "Дзюнъити Осуми"
+        ],
+        "operators": [
+          "Масао Косуги"
+        ]
+      }
+    },
+    {
+      "id": "movie-63433",
+      "type": "anime",
+      "link": "",
+      "title": "Приключения дигимонов (фильм первый)",
+      "title_orig": "Dejimon adobenchâ",
+      "other_title": "Digimon: Digital Monsters - The Movie",
+      "translation": {
+        "id": 1644,
+        "title": "Evolution Studio",
+        "type": "voice"
+      },
+      "year": 1999,
+      "kinopoisk_id": "624762",
+      "imdb_id": "tt2049430",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4039",
+      "shikimori_id": "2961",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-18T01:56:12Z",
+      "updated_at": "2020-11-18T01:56:12Z",
+      "material_data": {
+        "title": "Dejimon adobenchâ",
+        "title_en": "",
+        "other_titles": [
+          "Digimon Adventure Movie"
+        ],
+        "other_titles_en": [
+          "Digimon: The Movie"
+        ],
+        "other_titles_jp": [
+          "デジモンアドベンチャー 劇場版"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 1999,
+        "description": "Будучи маленькими, Таити и Хикари, брат и сестра, стали свидетелями того, как из их компьютера вылезло некое яйцо. Находясь с ним всё больше и больше, они привязались к нему и поняли, что цифровой мир не так прост, как казался с самого начала...",
+        "poster_url": "https://shikimori.one/system/animes/original/2961.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/1195118c7dfb0b1572e8113ee468628c532158f9.jpg",
+          "https://shikimori.one/system/screenshots/original/2872e140065d2debfd869787912215d85fcaa55f.jpg"
+        ],
+        "duration": 20,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Детское",
+          "Фантастика",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Toei Animation"
+        ],
+        "imdb_rating": 7.8,
+        "imdb_votes": 655,
+        "shikimori_rating": 7.57,
+        "shikimori_votes": 309,
+        "premiere_world": "1999-03-06",
+        "aired_at": "1999-03-06",
+        "rating_mpaa": "PG",
+        "episodes_total": 1,
+        "episodes_aired": 1,
+        "actors": [
+          "Тосико Фудзита",
+          "Каэ Араки",
+          "Тика Сакамото",
+          "Хироя Исимару",
+          "Ёсико Сакакибара",
+          "Юми Тома",
+          "Сидзука Окохира",
+          "Сёко Кикути",
+          "Ю Сугимото",
+          "Аи Нагано"
+        ],
+        "directors": [
+          "Мамору Хосода"
+        ],
+        "producers": [
+          "Сэки Хироми",
+          "Michiyo Arihara",
+          "Тан Такаива",
+          "Тэруо Тамамура",
+          "Цутому Томари"
+        ],
+        "writers": [
+          "Акиёси Хонго",
+          "Рэйко Ёсида"
+        ],
+        "composers": [
+          "Таканори Арисава"
+        ],
+        "editors": [
+          "Ясухиро Ёсикава"
+        ],
+        "operators": [
+          "Шигеру Андо"
+        ]
+      }
+    },
+    {
+      "id": "serial-30128",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Шевалье Д'Эон",
+      "title_orig": "Le Chevalier D'Eon",
+      "other_title": "Eru kazado",
+      "translation": {
+        "id": 757,
+        "title": "MC Entertainment",
+        "type": "voice"
+      },
+      "year": 2006,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 24,
+      "kinopoisk_id": "295342",
+      "imdb_id": "tt0965567",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5824",
+      "shikimori_id": "1013",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-11-18T01:55:09Z",
+      "updated_at": "2020-11-18T01:55:09Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/733934/678f50db7254ce1661f4add27039c9e5/720p",
+            "2": "//aniqit.com/seria/733935/cc4a321ed42582686f3fff1e02f9264e/720p",
+            "3": "//aniqit.com/seria/733936/254a8960557853d27bf5d5c2f15e5582/720p",
+            "4": "//aniqit.com/seria/733937/7c2c97b1fbb4c0218b2a3e271fa69096/720p",
+            "5": "//aniqit.com/seria/733938/1c8f1da7b41df32daf7b6d791cb1e49e/720p",
+            "6": "//aniqit.com/seria/733939/5a1fbdf2776010d08caa231fc1e2909c/720p",
+            "7": "//aniqit.com/seria/733940/de683b99dafe70a66cf2244969355b04/720p",
+            "8": "//aniqit.com/seria/733941/fc6e954513612302ca36509a1277f278/720p",
+            "9": "//aniqit.com/seria/733942/9972d01dcac5e48d9468e6f0e9c97969/720p",
+            "10": "//aniqit.com/seria/733943/495dee61e32c25bc0431fde17b2dd422/720p",
+            "11": "//aniqit.com/seria/733944/86a313389b59ba2a8224521b97798779/720p",
+            "12": "//aniqit.com/seria/733945/b66f8f10864af5d5e1f3905880681c8a/720p",
+            "13": "//aniqit.com/seria/733946/fed4378727fcb676289214876cab5605/720p",
+            "14": "//aniqit.com/seria/733947/7d791d23a4836c90eb4f330f12a6d1c3/720p",
+            "15": "//aniqit.com/seria/733948/dc0b0ab5f3a7ea571549fe8d4a2e50cd/720p",
+            "16": "//aniqit.com/seria/733949/5b098048e897dbf626c6de2980d37121/720p",
+            "17": "//aniqit.com/seria/733950/ba6b961841166a2d932cb9347b7819a2/720p",
+            "18": "//aniqit.com/seria/733951/d31312efdbc56d554ac70be64a5065b0/720p",
+            "19": "//aniqit.com/seria/733952/33f10407791e2d4718ae3bdc0fc424be/720p",
+            "20": "//aniqit.com/seria/733953/87f98fa0fc8c48c8e7b931efe95ff6cb/720p",
+            "21": "//aniqit.com/seria/733954/cfbfa46560229de6cc611d7e3801f463/720p",
+            "22": "//aniqit.com/seria/733955/7b490c6cb94720650c77b91a3d4a8b0c/720p",
+            "23": "//aniqit.com/seria/733956/33b74322f616c3f4eea2163bc10e5fab/720p",
+            "24": "//aniqit.com/seria/733957/6d582be345e288fbf321a4fda1d58c41/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Шевалье Д'Эон",
+        "title_en": "Eru kazado",
+        "other_titles_jp": [
+          "シュヴァリエ Le Chevalier D'Eon"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2006,
+        "tagline": "Their Meeting Marked The Beginning Of The End.",
+        "description": "Во Франции царит разруха, народ голодает, но погрязшая в безудержном разврате аристократия процветает. На улицах городов - хаос. Маньяки и убийцы плюют на закон, делая свои грязные дела, не таясь, а по утрам  полиция находит изувеченные трупы. Но настоящий  страх поселился в сердцах парижан в день, когда рыбаки выловили из реки гроб с телом женщины.\n\rЕю оказалась Лия Д`Эон - сестра блестящего аристократа и интеллектуала Шевалье Д`Эона, правой руки короля. Безутешный брат начинает собственное расследование, чтобы найти убийцу сестры. Но для этого ему нужно расшифровать тайные знаки, оставленные на теле девушки.\n\rРасследование втягивает отважного Шевалье в страшную мистическую схватку с тайным орденом служителей Зла, в которой на помощь брату приходит жаждущий расплаты дух сестры...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/295342.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/0e14b19da7f30ddfdaf42ba2f93b93c373ab657a.jpg",
+          "https://shikimori.one/system/screenshots/original/e2c873630cd625f7e07bc935a7e99ef5526f6ca4.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "ужасы"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Исторический",
+          "Магия",
+          "Сверхъестественное",
+          "Сейнен"
+        ],
+        "anime_studios": [
+          "Production I.G"
+        ],
+        "kinopoisk_rating": 6.4,
+        "kinopoisk_votes": 209,
+        "imdb_rating": 7.2,
+        "imdb_votes": 327,
+        "shikimori_rating": 7.23,
+        "shikimori_votes": 722,
+        "premiere_world": "2006-08-19",
+        "aired_at": "2006-07-02",
+        "released_at": "2007-02-23",
+        "rating_mpaa": "R",
+        "minimal_age": 12,
+        "episodes_total": 24,
+        "episodes_aired": 0,
+        "actors": [
+          "Блейк МакМахон",
+          "Тейлор Ханна",
+          "Брэндон Хирнсбергер",
+          "Эрни Манус",
+          "Кэндзи Хамада",
+          "Джей Хикман",
+          "Тэцу Инада",
+          "Акихико Исидзуми",
+          "Бриттни Карбовски",
+          "Эри Китамура"
+        ],
+        "directors": [
+          "Кадзухиро Фурухаси"
+        ],
+        "producers": [
+          "Джон Лэдфорд",
+          "Джои Гобео",
+          "Хисао Иидзука",
+          "Даизуке Катагири",
+          "Кацудзи Морисита",
+          "Тэцуя Накатакэ",
+          "Марико Сэто",
+          "Дзёдзи Вада"
+        ],
+        "writers": [
+          "То Убуката"
+        ],
+        "composers": [
+          "Митиру Осима"
+        ]
+      }
+    },
+    {
+      "id": "movie-63432",
+      "type": "anime",
+      "link": "",
+      "title": "Ван-Пис 14: Паническое бегство",
+      "title_orig": "One Piece 14: Stampede",
+      "other_title": "Ван-Пис: Фильм четырнадцатый / Ван-Пис 14: Паническое бегство / One Piece Movie 14: Stampede / One Piece 14: Stampede",
+      "translation": {
+        "id": 827,
+        "title": "Persona99",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1219157",
+      "imdb_id": "tt9430698",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9910",
+      "shikimori_id": "38234",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-18T01:53:04Z",
+      "updated_at": "2020-11-18T01:53:04Z",
+      "material_data": {
+        "title": "Ван-Пис 14: Паническое бегство",
+        "title_en": "One Piece 14: Stampede",
+        "other_titles": [
+          "Ван-Пис: Паническое бегство "
+        ],
+        "other_titles_jp": [
+          "劇場版『ONE PIECE STAMPEDE』（スタンピード）"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "Великая Эра Пиратов — время, когда люди собирают команды и бороздят Гранд Лайн и Новый мир в поисках несметных сокровищ и, конечно же, того самого Ван-Писа, завещанного легендарным Королём Пиратов Гол Д. Роджером.\r\nРаз в несколько лет проходит «Фестиваль пиратов» — величайшее событие в мире, организованное пиратами и для пиратов, где собираются и устраивают дебош самые известные, самые ужасные, самые популярные пиратские команды.\r\nКоманда «Соломенной Шляпы», конечно же, получает приглашение, и капитан уже отдал приказ вести корабль на место сходки. Все в радостном предвкушении необычного события. Но кто знает, кого они встретят и что их там поджидает? \r\nКакой мотив был у Буэны Фесты, когда он организовывал этот фестиваль, на котором, как оказалось, для Луффи припасена особая роль?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1219157.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/c022604108989f69312b69bb1516209f778581d1.png",
+          "https://shikimori.one/system/screenshots/original/675454d7b0d85fd59bde25b6c50e23c1294be9d9.png"
+        ],
+        "duration": 101,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Комедия",
+          "Приключения",
+          "Супер сила",
+          "Сёнен",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Toei Animation"
+        ],
+        "kinopoisk_rating": 6.8,
+        "kinopoisk_votes": 696,
+        "imdb_rating": 7.6,
+        "imdb_votes": 3996,
+        "shikimori_rating": 8.18,
+        "shikimori_votes": 1435,
+        "premiere_world": "2019-08-09",
+        "aired_at": "2019-08-09",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Маюми Танака",
+          "Тё",
+          "Хирата Хироаки",
+          "Кацухиса Хоки",
+          "Ито Канаэ",
+          "Кадзуя Накаи",
+          "Акэми Окамура",
+          "Каппэи Ямагути",
+          "Юкико Ямагути",
+          "Яо Кадзуки"
+        ],
+        "directors": [
+          "Такаси Оцука"
+        ],
+        "producers": [
+          "Хироки Кояма",
+          "Эйитиро Ода"
+        ],
+        "writers": [
+          "Эйитиро Ода",
+          "Такаси Оцука",
+          "Ацухиро Томиока"
+        ],
+        "designers": [
+          "Хотака Окамото",
+          "Нобухито Сью"
+        ],
+        "operators": [
+          "Наоюки Вада"
+        ]
+      }
+    },
+    {
+      "id": "movie-63431",
+      "type": "anime",
+      "link": "",
+      "title": "Гостиница Окко",
+      "title_orig": "Waka okami wa shôgakusei!",
+      "other_title": "Хозяйка гостиницы из младшей школы (фильм) / Gekijouban Wakaokami wa Shougakusei!",
+      "translation": {
+        "id": 818,
+        "title": "Reanimedia",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1176141",
+      "imdb_id": "tt8328740",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9668",
+      "shikimori_id": "37682",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-18T00:11:43Z",
+      "updated_at": "2020-11-18T00:11:43Z",
+      "material_data": {
+        "title": "Гостиница Окко",
+        "title_en": "Wakaokami wa Shougakusei!",
+        "other_titles": [
+          "Ученица младших классов — хозяйка гостиницы",
+          "Хозяйка гостиницы из начальной школы",
+          "Хозяйка гостиницы из младшей школы",
+          "Отель Окко",
+          "Окко-отель"
+        ],
+        "other_titles_en": [
+          "Okko's Inn"
+        ],
+        "other_titles_jp": [
+          "映画 若おかみは小学生！"
+        ],
+        "anime_license_name": "Гостиница Окко",
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2018,
+        "description": "Орико Сэки по прозвищу Окко переезжает к бабушке, чтобы помогать в небольшой семейной гостинице. Там она обнаруживает призрака — бойкого мальчика Ури-Бо, одного из многих магических постояльцев отеля. Окко предстоит раскрыть и другие секреты, которые скрывает гостиница, а еще разобраться — всегда ли нужно слушать старших и что значит быть настоящим другом.\n\r",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1176141.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/0511e260481adf3f3c871f8a9cf840ddfc19f754.jpg",
+          "https://shikimori.one/system/screenshots/original/f5cacd2fd44f403c5cbb225751c4855bb1af214e.jpg"
+        ],
+        "duration": 94,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Повседневность",
+          "Сверхъестественное"
+        ],
+        "anime_studios": [
+          "Madhouse",
+          "DLE"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 365,
+        "imdb_rating": 7,
+        "imdb_votes": 1391,
+        "shikimori_rating": 7.54,
+        "shikimori_votes": 160,
+        "premiere_ru": "2020-10-01",
+        "premiere_world": "2018-06-11",
+        "aired_at": "2018-09-21",
+        "rating_mpaa": "PG",
+        "minimal_age": 6,
+        "episodes_total": 1,
+        "episodes_aired": 1,
+        "actors": [
+          "Сэиран Кобаяси",
+          "Рина Эндо",
+          "Нана Мидзуки",
+          "Эцуко Кодзакура",
+          "Сацуми Мацуда",
+          "Осаму Ситара",
+          "Микако Комацу",
+          "Коити Ямадэра",
+          "Фумико Орикаса",
+          "Масато Танака"
+        ],
+        "directors": [
+          "Китаро Косака"
+        ],
+        "producers": [
+          "Кадзухиро Асо",
+          "Такаюки Хиробэ",
+          "Кодзи Хякутакэ",
+          "Сюхэй Араи"
+        ],
+        "writers": [
+          "Хироко Рэидзё",
+          "Рэйко Ёсида",
+          "Асами"
+        ],
+        "composers": [
+          "Кэйити Судзуки"
+        ],
+        "editors": [
+          "Такэси Сэяма",
+          "Касико Кимура"
+        ],
+        "designers": [
+          "Ёити Ватанабэ"
+        ],
+        "operators": [
+          "Мития Като"
+        ]
+      }
+    },
+    {
+      "id": "serial-30127",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Сомали и Дух леса",
+      "title_orig": "Somali to Mori no Kamisama",
+      "other_title": "Сомали и хранитель леса / Сомалийский и Лесной Дух / Сомали и лесной дух / Somali and the Forest Spirit",
+      "translation": {
+        "id": 1068,
+        "title": "Crunchyroll",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1262900",
+      "imdb_id": "tt11428586",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10052",
+      "shikimori_id": "39575",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-11-17T23:59:32Z",
+      "updated_at": "2020-11-17T23:59:32Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/733922/a23837b86c24cc7c8cc1f9220f1e5432/720p",
+            "2": "//aniqit.com/seria/733923/0411cca326f22efd899e0c61abca2120/720p",
+            "3": "//aniqit.com/seria/733924/804d491aef41d33d2ae56e23769fce8a/720p",
+            "4": "//aniqit.com/seria/733925/a11413fdfa8b0d2d8a7653ebd89d94a3/720p",
+            "5": "//aniqit.com/seria/733926/5452124cca6eab6e78fc93e65265c2a6/720p",
+            "6": "//aniqit.com/seria/733927/84eb5f461ecc72f91249c3b11d4d3b76/720p",
+            "7": "//aniqit.com/seria/733928/c538610e5a2fa2ba5c5120a735e96e76/720p",
+            "8": "//aniqit.com/seria/733929/6ec99d904d103ac9ac81e51a7be4b42c/720p",
+            "9": "//aniqit.com/seria/733930/653a0e5dd93ac516d298b16f3cf46a2d/720p",
+            "10": "//aniqit.com/seria/733931/4178324411bff2b85cc8b770fccd1d70/720p",
+            "11": "//aniqit.com/seria/733932/6e6492bdf64317d451b59fa5f2f865f9/720p",
+            "12": "//aniqit.com/seria/733933/ca0084b194e2fdc9844dddb162087285/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Сомали и лесной дух",
+        "title_en": "Somali to Mori no Kamisama",
+        "other_titles": [
+          "Сомали и лесной дух",
+          "Сомали и Хранитель леса"
+        ],
+        "other_titles_en": [
+          "Somali and the Forest Spirit"
+        ],
+        "other_titles_jp": [
+          "ソマリと森の神様"
+        ],
+        "anime_license_name": "Сомали и Дух леса",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2020,
+        "description": "История совместного путешествия голема и человеческой девочки в мире, где правят духи, гоблины и всевозможные странные существа, истребляющие людей.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1262900.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/b956be9958ae42c82d0352500c7611fcd932e345.jpg",
+          "https://shikimori.one/system/screenshots/original/4bc6806cc65c2219a7bf84b9205f466e54003cf3.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Демоны",
+          "Драма",
+          "Повседневность",
+          "Приключения",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Satelight"
+        ],
+        "kinopoisk_rating": 7.3,
+        "kinopoisk_votes": 605,
+        "imdb_rating": 7.6,
+        "imdb_votes": 544,
+        "shikimori_rating": 7.82,
+        "shikimori_votes": 4632,
+        "premiere_world": "2020-01-10",
+        "aired_at": "2020-01-10",
+        "released_at": "2020-03-27",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Инори Минасэ",
+          "Даисукэ Оно",
+          "Хироки Нанами",
+          "Тацухиса Судзуки",
+          "Ю Кобаяси",
+          "Саори Хаями",
+          "Сё Хаями",
+          "Юки Оно",
+          "Риэ Сибата",
+          "Кристина Валенсуэла"
+        ],
+        "directors": [
+          "Кэндзи Ясуда",
+          "Mayo Nozaki",
+          "Ёсихико Ивата",
+          "Satoshi Miura",
+          "Nao Miyoshi",
+          "Мунэнори Нава",
+          "Ёсинори Одака",
+          "Томо Окубо",
+          "Хидэкадзу Сато",
+          "Наомити Ямато"
+        ],
+        "producers": [
+          "Nikki Fish"
+        ],
+        "writers": [
+          "Yako Gureishi",
+          "Марико Мотидзуки",
+          "Синго Нагаи"
+        ],
+        "composers": [
+          "Рё Ёсимата"
+        ],
+        "editors": [
+          "Ryôko Kaneshige"
+        ],
+        "designers": [
+          "Vincent Nghiem"
+        ],
+        "operators": [
+          "Hiroki Tsubouchi"
+        ]
+      }
+    },
+    {
+      "id": "serial-30116",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Лицо короля",
+      "title_orig": "Wangui eolgool",
+      "other_title": "Королевское лицо / The King's Face / Wang-ui Eolgool",
+      "translation": {
+        "id": 1546,
+        "title": "FSG Bears.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 23,
+      "episodes_count": 23,
+      "kinopoisk_id": "888134",
+      "imdb_id": "tt4275654",
+      "mdl_id": "8282-the-kings-face",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-11-16T14:34:20Z",
+      "updated_at": "2020-11-17T23:39:13Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/733882/2770285b0b688c8088e6be83184a0b10/720p",
+            "2": "//kodik.cc/seria/733883/878ef1029ea0ee1120cfc4b7b3305e98/720p",
+            "3": "//kodik.cc/seria/733884/b113587635e8a6a47db3b472359142a3/720p",
+            "4": "//kodik.cc/seria/733885/523b1207923e35e6cbe84a3f38f5f1d8/720p",
+            "5": "//kodik.cc/seria/733886/fab31a2b6c78feac543657005dcf4b5a/720p",
+            "6": "//kodik.cc/seria/733887/d712314f41982338a31e90ae29172365/720p",
+            "7": "//kodik.cc/seria/733888/b01226726f16addec9bb3f394019610e/720p",
+            "8": "//kodik.cc/seria/733889/2e99382deabcf9b302bc708d173e2867/720p",
+            "9": "//kodik.cc/seria/733890/ac481487ee231934246b3348cb2de3d6/720p",
+            "10": "//kodik.cc/seria/733891/3b97640c14d4441f6fe44957c3165999/720p",
+            "11": "//kodik.cc/seria/733892/a8de7555353fb9d2914747f9dcf42035/720p",
+            "12": "//kodik.cc/seria/733893/f203937329a1bf80a2dd6659d2dd5e47/720p",
+            "13": "//kodik.cc/seria/733894/3ad001b52a8086c488b593418e5172d8/720p",
+            "14": "//kodik.cc/seria/733895/31e85140ef22b18fc24f9deb4d5473f8/720p",
+            "15": "//kodik.cc/seria/733896/1022d737b38ca77d30c24de17bc1eaad/720p",
+            "16": "//kodik.cc/seria/733650/3149f4b123ffc8f0a63a6f8fc3134653/720p",
+            "17": "//kodik.cc/seria/733686/c7904e1fdaa660cec0f58e7f71d45481/720p",
+            "18": "//kodik.cc/seria/733687/3b0278c07568ed25eb8ea290c3a40e9d/720p",
+            "19": "//kodik.cc/seria/733703/50d87503376afc99838a22d6ce3ba9fe/720p",
+            "20": "//kodik.cc/seria/733688/1ce9af52e37fba1d4744a1a2ff4a5794/720p",
+            "21": "//kodik.cc/seria/733689/82dfcd1eb18546a639df9ed9918391e8/720p",
+            "22": "//kodik.cc/seria/733702/84ac8be5f586f8e5ff2f186abef8d0fc/720p",
+            "23": "//kodik.cc/seria/733700/f4d6739301c5cb80e474ee793f497e51/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Лицо короля",
+        "title_en": "Wangui eolgul",
+        "year": 2014,
+        "description": "Несмотря на то, что Кван Хэ-гун был сыном любовницы короля, он становится наследным принцем Чосона. В течение 16 лет незаконнорожденному принцу предстоит пережить множество событий: от дворцовых заговоров до покушений на его жизнь. Сложные отношения с отцом Королём Сонджо приводят к тому, что они становятся соперниками не только в политике, но и в любви. Принц использует физиогномику (искусство гадания по лицу) для захвата власти.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/888134.jpg",
+        "duration": 75,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "боевик",
+          "драма",
+          "триллер"
+        ],
+        "kinopoisk_rating": 7.3,
+        "kinopoisk_votes": 197,
+        "imdb_rating": 7.3,
+        "imdb_votes": 75,
+        "premiere_world": "2014-11-19",
+        "actors": [
+          "Со Ин-гук",
+          "Чо Юн-хи",
+          "Ли Сон-джэ",
+          "Щин Сон-нок",
+          "Ким Гю-ри",
+          "Лим Джи-ын",
+          "Пак Чу-хён",
+          "Юн Бон-гиль",
+          "Чо Вон-хи",
+          "Ан Сок-хван"
+        ],
+        "directors": [
+          "Чха Ён-хун",
+          "Юн Сон-щик"
+        ],
+        "producers": [
+          "Хван Ин-хёк",
+          "Чон Хэ-рён",
+          "Пак У-рам"
+        ],
+        "writers": [
+          "Юн Су-джон",
+          "Ли Хян-хи"
+        ]
+      }
+    },
+    {
       "id": "serial-29098",
       "type": "foreign-serial",
       "link": "",
@@ -4215,7 +5006,7 @@
           "криминал"
         ],
         "imdb_rating": 7.1,
-        "imdb_votes": 147,
+        "imdb_votes": 153,
         "premiere_world": "2017-09-22",
         "actors": [
           "Джордан Чан",
@@ -4559,7 +5350,7 @@
           "триллер"
         ],
         "imdb_rating": 7.3,
-        "imdb_votes": 222,
+        "imdb_votes": 234,
         "premiere_world": "2020-10-17",
         "actors": [
           "Чан Дон-юн",
@@ -5615,7 +6406,7 @@
         "imdb_rating": 7.5,
         "imdb_votes": 771,
         "shikimori_rating": 7.59,
-        "shikimori_votes": 9570,
+        "shikimori_votes": 9680,
         "premiere_world": "2020-01-08",
         "aired_at": "2020-01-08",
         "released_at": "2020-03-25",
@@ -5724,7 +6515,7 @@
         "imdb_rating": 7.5,
         "imdb_votes": 771,
         "shikimori_rating": 7.59,
-        "shikimori_votes": 9570,
+        "shikimori_votes": 9680,
         "premiere_world": "2020-01-08",
         "aired_at": "2020-01-08",
         "released_at": "2020-03-25",
@@ -6326,7 +7117,7 @@
         "imdb_rating": 8.3,
         "imdb_votes": 52,
         "shikimori_rating": 7.34,
-        "shikimori_votes": 1572,
+        "shikimori_votes": 1593,
         "premiere_world": "2016-09-01",
         "aired_at": "2020-05-27",
         "released_at": "2020-06-24",
@@ -6394,7 +7185,7 @@
           "триллер"
         ],
         "imdb_rating": 7.3,
-        "imdb_votes": 222,
+        "imdb_votes": 234,
         "premiere_world": "2020-10-17",
         "actors": [
           "Чан Дон-юн",
@@ -7040,7 +7831,7 @@
         "imdb_rating": 7.1,
         "imdb_votes": 42,
         "shikimori_rating": 7.45,
-        "shikimori_votes": 717,
+        "shikimori_votes": 720,
         "premiere_world": "2020-01-10",
         "aired_at": "2020-01-10",
         "released_at": "2020-03-27",
@@ -7178,7 +7969,7 @@
         "imdb_rating": 7.1,
         "imdb_votes": 42,
         "shikimori_rating": 7.45,
-        "shikimori_votes": 717,
+        "shikimori_votes": 720,
         "premiere_world": "2020-01-10",
         "aired_at": "2020-01-10",
         "released_at": "2020-03-27",
@@ -7294,10 +8085,10 @@
         "anime_studios": [
           "Studio Colorido"
         ],
-        "kinopoisk_rating": 6.5,
-        "kinopoisk_votes": 138,
+        "kinopoisk_rating": 6.6,
+        "kinopoisk_votes": 145,
         "imdb_rating": 6.8,
-        "imdb_votes": 459,
+        "imdb_votes": 480,
         "shikimori_rating": 7.18,
         "shikimori_votes": 3139,
         "premiere_world": "2020-10-01",
@@ -7317,666 +8108,6 @@
         ],
         "composers": [
           "Кэидзи Инаи"
-        ]
-      }
-    },
-    {
-      "id": "serial-21040",
-      "type": "anime-serial",
-      "link": "",
-      "title": "22/7",
-      "title_orig": "Nanabun no Nijuuni",
-      "other_title": "ナナブンノニジュウニ",
-      "translation": {
-        "id": 1009,
-        "title": "Anistar Многоголосый",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 13,
-      "kinopoisk_id": "1423821",
-      "imdb_id": "tt12024510",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10168",
-      "shikimori_id": "40148",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-01-11T19:05:11Z",
-      "updated_at": "2020-11-15T15:42:10Z",
-      "seasons": {
-        "0": {
-          "title": "Спешл",
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/733475/d859ef35324cb28b2ad2925b7ca2deaa/720p"
-          }
-        },
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/556103/d859ef35324cb28b2ad2925b7ca2deaa/720p",
-            "2": "//aniqit.com/seria/568083/9b54a4c9b263489bcb911ec353499ed1/720p",
-            "3": "//aniqit.com/seria/568084/3f68a1d1d398d5a5043f8c0731989110/720p",
-            "4": "//aniqit.com/seria/576178/3dc609ab615c3ac6634a0f162dd09089/720p",
-            "5": "//aniqit.com/seria/583135/9a30a1ebd062fd853bf0881e3401ca60/720p",
-            "6": "//aniqit.com/seria/588513/dc88057c0d8a02d66593703b12dbe084/720p",
-            "7": "//aniqit.com/seria/733468/491e180483bb2a8c2fce707a1658b825/720p",
-            "8": "//aniqit.com/seria/733469/91f653a4305582318bf04ecc492bc3d1/720p",
-            "9": "//aniqit.com/seria/733470/d8f8abc277c06e2445683a1f1078129c/720p",
-            "10": "//aniqit.com/seria/733471/0ef281c26dc17f27e1b6e5d622d343c1/720p",
-            "11": "//aniqit.com/seria/733472/7b02d1f0a19704e37c4474fbf946431e/720p",
-            "12": "//aniqit.com/seria/733473/eba4aa51ca282bb20f306764b9b24cad/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "22/7",
-        "title_en": "",
-        "other_titles": [
-          "22 на 7",
-          "Nanabun no Nijyuuni",
-          "Nanabun no Nijuuni"
-        ],
-        "other_titles_en": [
-          "22/7"
-        ],
-        "other_titles_jp": [
-          "22/7"
-        ],
-        "anime_license_name": "22/7",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2020,
-        "description": "Однажды Миу Такигава получает письмо, в котором говорится, что она была выбрана для участия в новом проекте продюсерского агенства. Миу с недоверием отнеслась к письму, но всё же решила прийти. На месте она познакомилась ещё с семью девушками, приехавшими на кастинг. Как оказалось, все они были выбраны загадочной «Стеной» для создания айдолов нового типа и совсем скоро должны дебютировать при участии мейджор-лейбла. Девочки будут вместе учиться петь и танцевать, а также выполнять всё, что прикажет им «Стена».",
-        "poster_url": "https://shikimori.one/system/animes/original/40148.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/35f4373a2f901d83294e4b62f917eed6cb6ef6b1.jpg",
-          "https://shikimori.one/system/screenshots/original/9cefc072259cc9b414183d7fb3d7eac4ef3bcd45.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "драма",
-          "музыка",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Музыка"
-        ],
-        "anime_studios": [
-          "A-1 Pictures"
-        ],
-        "imdb_rating": 6.3,
-        "imdb_votes": 23,
-        "shikimori_rating": 6.81,
-        "shikimori_votes": 783,
-        "premiere_world": "2020-01-11",
-        "aired_at": "2020-01-11",
-        "released_at": "2020-03-28",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 11,
-        "actors": [
-          "Салли Амаки"
-        ],
-        "directors": [
-          "Син Вакабаяси"
-        ],
-        "producers": [
-          "Ясуси Акимото"
-        ],
-        "composers": [
-          "Akiko Fujita"
-        ]
-      }
-    },
-    {
-      "id": "serial-20922",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Тама: Откуда же он взялся?",
-      "title_orig": "Uchi Tama?! Uchi no Tama Shirimasenka?",
-      "other_title": "Котик Тама? Откуда ты взялся? / Вы не видели нашего Таму? / Uchitama?! Have You Seen My Tama?",
-      "translation": {
-        "id": 910,
-        "title": "AniStar",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 11,
-      "episodes_count": 11,
-      "kinopoisk_id": "1343688",
-      "imdb_id": "tt10675070",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10112",
-      "shikimori_id": "39942",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-01-09T18:43:09Z",
-      "updated_at": "2020-11-15T15:36:42Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/554715/58c619d486b7b637291016a6a8472d57/720p",
-            "2": "//aniqit.com/seria/561421/27f2f30e6d4e23ca414128914019ebf6/720p",
-            "3": "//aniqit.com/seria/567317/5db6f6e18ff6902e37fc34b4b1b18d74/720p",
-            "4": "//aniqit.com/seria/573202/8ad3f9b5cc4a84d6720c76480810e2ae/720p",
-            "5": "//aniqit.com/seria/581099/281a1ffdd2a0f28260e51991186f7bea/720p",
-            "6": "//aniqit.com/seria/587518/9a5f73d2f88afde4d20c7a74971dc40d/720p",
-            "7": "//aniqit.com/seria/733460/2db4378c0983f45805cfb9dcb40cf38d/720p",
-            "8": "//aniqit.com/seria/733461/a9e46bba5976c3d44e21863cf8cc8c76/720p",
-            "9": "//aniqit.com/seria/733462/1ec6b2bfb9747abc32c557ffc30557e9/720p",
-            "10": "//aniqit.com/seria/733463/4e20e8b4e149c858b3befff3015079b6/720p",
-            "11": "//aniqit.com/seria/733464/c84645814d51ea08e55acf93f000c84f/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Тама: Откуда же он взялся?",
-        "title_en": "Uchi Tama?! Uchi no Tama Shirimasen ka?",
-        "other_titles_en": [
-          "Uchitama?! Have you seen my Tama?"
-        ],
-        "other_titles_jp": [
-          "うちタマ?!~うちのタマ知りませんか?~"
-        ],
-        "anime_license_name": "Uchitama?! Вы не видели моего Таму?!",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2020,
-        "description": "Истории обитателей Третьей улицы – кошек и собак, которые приняли человеческий облик.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1343688.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/91202ec5a4e900a54392ae545793314568adbfa0.jpg",
-          "https://shikimori.one/system/screenshots/original/1cff4b4d43d6b3302035b5619edd609e39762db1.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Повседневность"
-        ],
-        "anime_studios": [
-          "MAPPA",
-          "Lapin Track"
-        ],
-        "imdb_rating": 6,
-        "imdb_votes": 24,
-        "shikimori_rating": 6.9,
-        "shikimori_votes": 300,
-        "premiere_world": "2020-01-10",
-        "aired_at": "2020-01-10",
-        "released_at": "2020-03-20",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 11,
-        "episodes_aired": 11,
-        "actors": [
-          "Сома Саито",
-          "Юки Кадзи",
-          "Юма Утида",
-          "Кэнсё Оно",
-          "Кана Ханадзава",
-          "Томоё Куросава",
-          "Томоаки Маэно",
-          "Аянэ Сакура",
-          "Юитиро Умэхара"
-        ],
-        "directors": [
-          "Киёси Мацуда"
-        ]
-      }
-    },
-    {
-      "id": "serial-23605",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Кошачий рай [ТВ]",
-      "title_orig": "Nekopara (2020)",
-      "other_title": "ネコぱら (2020)",
-      "translation": {
-        "id": 923,
-        "title": "AnimeVost",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1332628",
-      "imdb_id": "tt11405370",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10132",
-      "shikimori_id": "38924",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-03-12T23:25:05Z",
-      "updated_at": "2020-11-15T14:59:49Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/607409/09326fa6db33d57185b609f8ce7c5fef/720p",
-            "2": "//aniqit.com/seria/607410/34998ef1bfbc5147d2a36e184f663660/720p",
-            "3": "//aniqit.com/seria/607411/fcb16285c0c2beaee6a998007a4fb8ba/720p",
-            "4": "//aniqit.com/seria/607412/b410b773aaec45e2d2cc7a8c13ab6a55/720p",
-            "5": "//aniqit.com/seria/607413/57d7b5befd88c17cfd813c9d796282b3/720p",
-            "6": "//aniqit.com/seria/607414/e359979cab0324190c709eba67066d07/720p",
-            "7": "//aniqit.com/seria/607415/8f04f7274f79080f07609323ff3000ec/720p",
-            "8": "//aniqit.com/seria/607416/db504be355054357dea046f010f68696/720p",
-            "9": "//aniqit.com/seria/607417/3839833a5d3e8a9cc7eb6df00af2f876/720p",
-            "10": "//aniqit.com/seria/607418/9a274701b19da6a285cdc79cc02ff8db/720p",
-            "11": "//aniqit.com/seria/618735/92b3a8fe37f502fefa5454f0c9625c66/720p",
-            "12": "//aniqit.com/seria/618736/7317f92cd5579dc66ad69106a1212da0/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Кошачий рай",
-        "title_en": "Nekopara",
-        "other_titles": [
-          "Neko Para"
-        ],
-        "other_titles_en": [
-          "NekoparA"
-        ],
-        "other_titles_jp": [
-          "ネコぱら"
-        ],
-        "anime_license_name": "NekoparA",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2020,
-        "description": "Мечта наследника известной семьи кондитеров Минадзуки наконец-то сбылась — парень открыл собственную кондитерскую. Распаковывая только что привезённые вещи, Касё обнаружил две дрожащие коробки, открыв которые, он увидел двух кошечек — Чоколу и Ваниллу . Касё стойко пытается отправить их обратно, но девочки убеждают его позволить им остаться и помогать в его только что открывшемся заведении «Patisserie La Soleil». Кроме Чоколы и Ваниллы в магазинчике работают гордая Мейпл и тихоня Синнамон , которые также не против помочь молодому кондитеру в его начинаниях. Вместе с вечно ссорящимися Адзуки и Коконат и сестрой Касё Сигурэ , они все вместе проживают сладкую жизнь в удивительном месте — кондитерской «Patisserie La Soleil»!\r\n\r\nПосле работы, когда Мейпл и Синнамон собираются уходить, они говорят Касё, что оставили немного тунца для него и его кошечек. Безумно обрадовавшись такому подарку, Чокола решает купить пондзу, чтобы сделать вкус тунца более насыщенным, но по пути в магазин встречает пугливого котёнка. После возвращения в кондитерскую, Чокола обнаружила, что котёнок следовал за ней аж до самого заведения...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1332628.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/f95b37cd0c0e616509959acf2cd6d13daaad41f1.jpg",
-          "https://shikimori.one/system/screenshots/original/d12d120c789b83443b9a3952afd3c3d74fc18e9d.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность"
-        ],
-        "anime_studios": [
-          "Felix Film"
-        ],
-        "imdb_rating": 6.1,
-        "imdb_votes": 175,
-        "shikimori_rating": 6.76,
-        "shikimori_votes": 3106,
-        "premiere_world": "2020-01-09",
-        "aired_at": "2020-01-09",
-        "released_at": "2020-03-26",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Юки Яги",
-          "Синносукэ Татибана",
-          "Иори Саэки",
-          "Сиори Идзава",
-          "Юка Морисима",
-          "Юри Ногути",
-          "Марин Мидзутани",
-          "Мику Ито",
-          "Мао Итимити"
-        ],
-        "directors": [
-          "Ясутака Ямамото"
-        ],
-        "composers": [
-          "Акиюки Татэяма"
-        ]
-      }
-    },
-    {
-      "id": "serial-29296",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Первая любовь",
-      "title_orig": "Chu Lian Le Na Me Duo Nian",
-      "other_title": "Первый роман / First Romance / First Love After So Many Years",
-      "translation": {
-        "id": 918,
-        "title": "Дораманутая / W³: voices",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 24,
-      "episodes_count": 24,
-      "kinopoisk_id": "1417038",
-      "imdb_id": "tt12374142",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-09-17T10:32:44Z",
-      "updated_at": "2020-11-15T14:43:01Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/719734/270080d0bce514387025ee3a0985c717/720p",
-            "2": "//kodik.cc/seria/720261/170fe38b48f532ef81cbdc73fba69b49/720p",
-            "3": "//kodik.cc/seria/720751/3badcb847b27a5e0b14d6b4a85f3586c/720p",
-            "4": "//kodik.cc/seria/721164/9a66ee8affdaef53b6073efcf53bafeb/720p",
-            "5": "//kodik.cc/seria/721670/8f47a05d58f6baf4655e6d05119c42c8/720p",
-            "6": "//kodik.cc/seria/721669/f4c0ca45f25fe4f9b48fa5454f34a6b3/720p",
-            "7": "//kodik.cc/seria/722177/f8dc1c1aa6194755bd05d3020b8d6f1b/720p",
-            "8": "//kodik.cc/seria/722372/89a01d1c79dfe6dd4e682791f07a5716/720p",
-            "9": "//kodik.cc/seria/722940/b2637399aedf54ed98f2920e88c9184d/720p",
-            "10": "//kodik.cc/seria/723412/a2c4ed4cad72a0898043e6a956aeb836/720p",
-            "11": "//kodik.cc/seria/723538/7827e3616f76cbdc948c3cfbdb30e717/720p",
-            "12": "//kodik.cc/seria/723892/9f728b483bbc1e3a17b7a13357e2a31c/720p",
-            "13": "//kodik.cc/seria/724452/1d7412c67863330e26489417d0c46521/720p",
-            "14": "//kodik.cc/seria/726075/e1dbbed83b5fb9e29a2164145cc14c93/720p",
-            "15": "//kodik.cc/seria/726592/8e0d09f1fca1fe713164318d31702c5a/720p",
-            "16": "//kodik.cc/seria/727021/ce1804abade3fdad8f3d171d79285a25/720p",
-            "17": "//kodik.cc/seria/727405/a9425932a882642128992ff9b1b8376c/720p",
-            "18": "//kodik.cc/seria/729183/ac81e3887f2fc8115a299842c9514614/720p",
-            "19": "//kodik.cc/seria/729343/d00e2045e31557b2cf0e0dd7fc120e28/720p",
-            "20": "//kodik.cc/seria/729344/e0745077a8551025e6013e88f93c1c57/720p",
-            "21": "//kodik.cc/seria/730840/7a5f54153fe973a3808c960610ea04dd/720p",
-            "22": "//kodik.cc/seria/731030/21afa65ea5f11059b7de9f6ba2757607/720p",
-            "23": "//kodik.cc/seria/732087/bca386c318a6c50b6aba778cc2dd0a1a/720p",
-            "24": "//kodik.cc/seria/733456/a25b6d8f750f3393dd1b2b838a349821/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Первая любовь",
-        "title_en": "Chu lian le na me duo nian",
-        "year": 2020,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1417038.jpg",
-        "duration": 36,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "комедия",
-          "мелодрама"
-        ],
-        "imdb_rating": 7.7,
-        "imdb_votes": 28,
-        "premiere_world": "2020-09-14",
-        "actors": [
-          "Чан Чэн",
-          "Cheng Chang",
-          "Liya Cui",
-          "Цзин Фан",
-          "Lesley Lin",
-          "Hanna Lu",
-          "Вань Пэн",
-          "Райли Ван",
-          "Ken Wu",
-          "Shuhuan Zheng"
-        ],
-        "directors": [
-          "Pei Ding"
-        ]
-      }
-    },
-    {
-      "id": "movie-40926",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Курорт для ныряльщиков на Красном море",
-      "title_orig": "The Red Sea Diving Resort",
-      "other_title": "Operation Brothers",
-      "translation": {
-        "id": 794,
-        "title": "HDrezka Studio",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1045387",
-      "imdb_id": "tt4995776",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-10T23:49:39Z",
-      "updated_at": "2020-11-15T13:39:34Z",
-      "material_data": {
-        "title": "Курорт для ныряльщиков на Красном море",
-        "title_en": "The Red Sea Diving Resort",
-        "year": 2019,
-        "tagline": "Inspired by real events",
-        "description": "История о миссии израильской разведывательной службы «Моссад», которая в 1980-х годах перевезла в Израиль несколько тысяч угнетённых евреев из Эфиопии. Молодой спецагент Ари Кидрона вместе со своей командой основывает тайный порт на побережье Красного моря. Наладив воздушные и морские мосты, он организует массовую переправку беженцев.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1045387.jpg",
-        "duration": 129,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "драма",
-          "история",
-          "триллер"
-        ],
-        "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 1489,
-        "imdb_rating": 6.6,
-        "imdb_votes": 23539,
-        "premiere_world": "2019-07-28",
-        "actors": [
-          "Крис Эванс",
-          "Хейли Беннетт",
-          "Майкл Кеннет Уильямс",
-          "Михиль Хаусман",
-          "Бен Кингсли",
-          "Алессандро Нивола",
-          "Мбуэло Грутбум",
-          "Сизо Малангу",
-          "Матаса Мбангени",
-          "Setlhabi Jacob Taunyane"
-        ],
-        "directors": [
-          "Гидеон Рафф"
-        ],
-        "producers": [
-          "Аарон Л. Гилберт",
-          "Александра Милчэн",
-          "Гидеон Рафф",
-          "Марк Бакунас",
-          "Edward Carpezzi",
-          "Джейсон Клот",
-          "Крис Коновер",
-          "Tim Dattels",
-          "Адам Дэвидс",
-          "Гаррик Дион"
-        ],
-        "writers": [
-          "Гидеон Рафф"
-        ],
-        "composers": [
-          "Майкл Дэнна"
-        ],
-        "editors": [
-          "Тим Скуайрес"
-        ],
-        "designers": [
-          "Джефф Манн",
-          "Шэйн Банс",
-          "Нил МакКлин",
-          "Рут Майерс",
-          "Мишель Барфут",
-          "Ivan Fraser"
-        ],
-        "operators": [
-          "Роберто Шэфер"
-        ]
-      }
-    },
-    {
-      "id": "movie-15008",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Саботаж",
-      "title_orig": "Sabotage",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 1996,
-      "kinopoisk_id": "3763",
-      "imdb_id": "tt0117533",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-09T12:56:47Z",
-      "updated_at": "2020-11-15T13:22:28Z",
-      "material_data": {
-        "title": "Саботаж",
-        "title_en": "Sabotage",
-        "year": 1996,
-        "tagline": "The Dark Heart Of The Black Ops Beats To A Secret Agenda",
-        "description": "Бывший морской пехотинец Майк Бишоп участвует в провальной операции по спасению заложников. Получив 7 ранений от руки профессионального убийцы, Бишоп чудом остается жив...\n\rНесколько лет спустя семья, в которой Бишоп работает телохранителем, становится жертвой того же убийцы. Объединившись со спецагентом ФБР, Бишоп вступает в смертельную схватку с суперкиллером, и ничьей в этой борьбе быть не может...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/3763.jpg",
-        "duration": 99,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "триллер"
-        ],
-        "kinopoisk_rating": 6.2,
-        "kinopoisk_votes": 2240,
-        "imdb_rating": 5.9,
-        "imdb_votes": 1366,
-        "premiere_world": "1996-03-07",
-        "rating_mpaa": "R",
-        "minimal_age": 16,
-        "actors": [
-          "Марк Дакаскос",
-          "Кэрри-Энн Мосс",
-          "Тони Тодд",
-          "Грэм Грин",
-          "Джон Невилл",
-          "Джеймс Пёрселл",
-          "Сара Розен Фруитман",
-          "Ричард Култер",
-          "Хайди фон Паллеске",
-          "Джон Пол Янг"
-        ],
-        "directors": [
-          "Тибор Такач"
-        ],
-        "producers": [
-          "Энди Эмилио",
-          "Майкл Фрэнкс",
-          "Эш Р. Шах",
-          "Пол Винн",
-          "Брайан Ирвинг"
-        ],
-        "writers": [
-          "Рик Филон",
-          "Майкл Стоукс"
-        ],
-        "composers": [
-          "Гай Зерафа"
-        ],
-        "editors": [
-          "Крэйг Нискер"
-        ],
-        "designers": [
-          "Йен Холл",
-          "Эдвард Бонутто",
-          "Нэнси МакХью"
-        ],
-        "operators": [
-          "Куртис Петерсен"
-        ]
-      }
-    },
-    {
-      "id": "movie-26814",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Большой кошачий побег",
-      "title_orig": "Cats & Peachtopia",
-      "other_title": "Mao yu tao hua yuan",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1112115",
-      "imdb_id": "tt7886614",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-09-18T06:46:57Z",
-      "updated_at": "2020-11-15T13:18:12Z",
-      "material_data": {
-        "title": "Большой кошачий побег",
-        "title_en": "Cats & Peachtopia",
-        "year": 2018,
-        "description": "Большинство домашних котов, как наш герой Пухляш, привыкли довольствоваться жизнью в теплой и уютной квартире. Но его сын, рыжий котенок Шустрик, не из таких. Ему вечно не сидится на месте, и он очень хочет путешествовать. Мечтая однажды отправиться в удивительную Долину Розовых Снов, он сооружает летательный аппарат и улетает на нем через окно. Ленивому и неповоротливому Пухляшу только и остается, что отправиться на его поиски вместе с другом волнистым попугаем, ведь жизнь большого города таит немало опасностей для маленького котенка. Всех троих впереди ждет немало приключений и важных открытий!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1112115.jpg",
-        "duration": 85,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "детский",
-          "комедия",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 22800,
-        "imdb_rating": 4.8,
-        "imdb_votes": 871,
-        "premiere_ru": "2018-09-13",
-        "premiere_world": "2018-04-05",
-        "rating_mpaa": "PG",
-        "minimal_age": 6,
-        "actors": [
-          "Ян Яньдо",
-          "Эмиль Чау",
-          "Чэнь Линьшэн"
-        ],
-        "directors": [
-          "Гэри Ван"
-        ],
-        "producers": [
-          "Юй Чжоу",
-          "Юань Е"
-        ],
-        "writers": [
-          "Гэри Ван"
-        ],
-        "composers": [
-          "Го Хаовэй"
-        ],
-        "editors": [
-          "Чжао Цзи"
         ]
       }
     }

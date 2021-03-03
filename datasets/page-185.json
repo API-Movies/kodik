@@ -1,6 +1,718 @@
 {
   "results": [
     {
+      "id": "movie-46872",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Омут",
+      "title_orig": "Iggi",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2010,
+      "kinopoisk_id": "541052",
+      "imdb_id": "tt1694019",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-12-30T18:52:46Z",
+      "updated_at": "2019-12-30T18:52:46Z",
+      "material_data": {
+        "title": "Омут",
+        "title_en": "Ikki",
+        "year": 2009,
+        "description": "Рю Хэ-гук приезжает в глухую деревню на похороны отца, с которым не виделся практически с детских лет. Его радушно встречает местный Голова, бывший полицейский детектив Чхон Ён-док, и несколько местных жителей из его окружения. Хэ-гук всегда был дотошным парнем, за что попадал в неприятности с полицией, а прокурору Пак Мин-уку он даже умудрился испортить карьеру. И вот, сидя за столом на поминках, он понимает, что все вокруг что-то от него скрывают, и всеми возможными способами пытаются побыстрее спровадить обратно в Сеул.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/541052.jpg",
+        "duration": 163,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "детектив",
+          "криминал",
+          "триллер"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 462,
+        "imdb_rating": 6.8,
+        "imdb_votes": 2130,
+        "premiere_world": "2010-07-14",
+        "actors": [
+          "Пак Хэ-иль",
+          "Чон Джэ-ён",
+          "Ю Джун-сан",
+          "Ю Сон",
+          "Ю Хэ-джин",
+          "Ким Сан-хо",
+          "Ким Тхэ-хан",
+          "Хо Джун-хо",
+          "Кан Щин-иль",
+          "Лим Сын-дэ"
+        ],
+        "directors": [
+          "Кан У-сок"
+        ],
+        "producers": [
+          "Чон Сон-ён",
+          "Кэтрин Ким"
+        ],
+        "writers": [
+          "Чон Джи-у",
+          "Юн Тхэ-хо"
+        ],
+        "composers": [
+          "Чо Ён-ук"
+        ],
+        "editors": [
+          "Ко Им-пхё"
+        ],
+        "designers": [
+          "Чо Сон-вон",
+          "Ли Тхэ-хун",
+          "Чо Сан-гён"
+        ],
+        "operators": [
+          "Ким Сон-бок",
+          "Ким Ён-хын"
+        ]
+      }
+    },
+    {
+      "id": "serial-19574",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Мастера меча онлайн: Алисизация - Война в Подмирье [ТВ-1]",
+      "title_orig": "Sword Art Online: Alicization - War of Underworld",
+      "other_title": "Мастера меча онлайн: Алисизация — Война Андерворлда",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 4,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "691223",
+      "imdb_id": "tt2250192",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10069",
+      "shikimori_id": "39597",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-11-04T12:01:47Z",
+      "updated_at": "2019-12-30T18:23:02Z",
+      "seasons": {
+        "4": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/520669/e0ccb00cb56942fd3cc02c8f1c31df22/720p",
+            "2": "//aniqit.com/seria/520670/3932a16970c173509ce72b6932dd6073/720p",
+            "3": "//aniqit.com/seria/520671/6201fc19b8be9253ee2ac8a8882a49ed/720p",
+            "4": "//aniqit.com/seria/521343/5e1b298e89b39fbb4066d6b916e95a56/720p",
+            "5": "//aniqit.com/seria/525832/2ca1da6505000e59e5c06ba350740283/720p",
+            "6": "//aniqit.com/seria/527165/73195e43d8278c9a814148909393037e/720p",
+            "7": "//aniqit.com/seria/529153/ceccc4d005f3c0af502d63ed2b522898/720p",
+            "8": "//aniqit.com/seria/537272/db076b555e63c458878b9fe3cf36f973/720p",
+            "9": "//aniqit.com/seria/538518/130e4120f93b354008b4c51812e11edd/720p",
+            "10": "//aniqit.com/seria/541891/8dd0fa53317de11dd2dac8df24509c57/720p",
+            "11": "//aniqit.com/seria/544714/ad3951695f5029627410b91fe8dab284/720p",
+            "12": "//aniqit.com/seria/548358/83495aea33ae3922a6fbcf91722cff0c/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Мастера меча онлайн",
+        "title_en": "Sword Art Online",
+        "other_titles": [
+          "Искусство Меча Онлайн: Алисизация — Война Андерворлда",
+          "Sword Art Online: Alicization 2nd Season",
+          "Sword Art Online III 2nd Season",
+          "SAO Alicization 2nd Season",
+          "Sword Art Online 3 2nd Season",
+          "SAO 3 2nd Season"
+        ],
+        "other_titles_en": [
+          "Sword Art Online Alicization War of Underworld"
+        ],
+        "other_titles_jp": [
+          "ソードアート・オンライン アリシゼーション War of Underworld"
+        ],
+        "anime_license_name": "Sword Art Online — Алисизация: Война Андерворлда",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2012,
+        "description": "Опытному геймеру Кирито повезло поучаствовать в бета-тестировании самой ожидаемой компьютерной игры нового поколения - Sword Art Online. Когда наконец на прилавках появились диски с финальной версией, тысячи геймеров устремились в совершенный виртуальный мир MMORPG. Там их ждал неприятный сюрприз - гейм-мастер объявил, что выйти из игры по собственной воле невозможно. Единственный шанс это сделать - пройти все сто уровней до конца. А смерть в игре означает смерть и в реальной жизни.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/691223.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/16d89a0b9143523d56999cac12dbdbd4ec1ba776.jpg",
+          "https://shikimori.one/system/screenshots/original/f8876e3dfc2abb174b95d768d05c5d0d5addbe8f.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Игры",
+          "Приключения",
+          "Романтика",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "A-1 Pictures"
+        ],
+        "kinopoisk_rating": 8,
+        "kinopoisk_votes": 38417,
+        "imdb_rating": 7.6,
+        "imdb_votes": 36053,
+        "shikimori_rating": 7.63,
+        "shikimori_votes": 16010,
+        "premiere_world": "2012-07-07",
+        "aired_at": "2019-10-13",
+        "released_at": "2019-12-29",
+        "rating_mpaa": "R",
+        "minimal_age": 16,
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Ёсицугу Мацуока",
+          "Харука Томацу",
+          "Ито Канаэ",
+          "Аяна Такэтацу",
+          "Миюки Савасиро",
+          "Аяхи Такагаки",
+          "Рина Хидака",
+          "Синъя Такахаси",
+          "Хироки Ясумото",
+          "Соитиро Хоси"
+        ],
+        "directors": [
+          "Томохико Ито",
+          "Манабу Оно",
+          "Сигэки Каваи",
+          "Сюнсукэ Исикава",
+          "Митиру Итабисаси",
+          "Ясуюки Фусэ",
+          "Макото Хосино",
+          "Пён Ган-хо",
+          "Хироси Кимура",
+          "Ёсиюки Фудзивара"
+        ],
+        "producers": [
+          "Хидэки Гото",
+          "Атасухиро Иваками",
+          "Кадзума Мики",
+          "Нобухиро Осава",
+          "Хироэ Цукамото",
+          "Ёсукэ Футами",
+          "Синъитиро Касивада",
+          "Дзюн Като",
+          "Рютаро Саки",
+          "Томоюки Цутия"
+        ],
+        "writers": [
+          "Рэки Кавахара",
+          "Юкито Кидзава",
+          "Мунэмаса Накамото",
+          "Юки Сугавара",
+          "Мунэо Накамото",
+          "Ёсикадзу Мукаи",
+          "Ко Нэкота",
+          "Сюдзи Ирияма",
+          "Наоки Сёдзи",
+          "Томохико Ито"
+        ],
+        "composers": [
+          "Юки Кадзиура"
+        ],
+        "editors": [
+          "Сигэру Нисияма",
+          "Юдзи Кондо"
+        ],
+        "designers": [
+          "Такаюки Нагасима",
+          "Юсукэ Такэда",
+          "Юкако Огава",
+          "Кэйто Ватанабэ"
+        ],
+        "operators": [
+          "Такэси Хироока",
+          "Мицуми Усуда",
+          "Кэнта Хаяси",
+          "Кэнтаро Ваки"
+        ]
+      }
+    },
+    {
+      "id": "serial-20512",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Ох, уж этот экстрасенс Сайки Кусуо!: Начало",
+      "title_orig": "Saiki Kusuo no Psi Nan: Shidou-hen",
+      "other_title": "Ох уж этот экстрасенс Сайки Кусуо! / Ох уж этот экстрасенс Сайки Кусуо! Начало",
+      "translation": {
+        "id": 910,
+        "title": "AniStar",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 6,
+      "episodes_count": 6,
+      "kinopoisk_id": "1314727",
+      "imdb_id": "tt11163352",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10252",
+      "shikimori_id": "40542",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-12-30T12:52:01Z",
+      "updated_at": "2019-12-30T16:47:27Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/548224/5335bebef0bc78ce9b6056eaa92d5d25/720p",
+            "2": "//aniqit.com/seria/548225/a4348f4a0868a5394778b1b500a86d9f/720p",
+            "3": "//aniqit.com/seria/548233/fce891ef3fee49fac343525996c0523a/720p",
+            "4": "//aniqit.com/seria/548240/9473477deeec3826a7ce6d3515226bce/720p",
+            "5": "//aniqit.com/seria/548333/92878453f562682060531ed15b33c4b4/720p",
+            "6": "//aniqit.com/seria/548352/4adabcf82fcf6e586a993c9f761b893c/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Ох, уж этот экстрасенс Сайки Кусуо!: Начало",
+        "title_en": "Saiki Kusuo no Psi Nan: Shidou-hen",
+        "other_titles": [
+          "The Disastrous Life of Saiki K. Restart Arc",
+          "The Disastrous Life of Saiki K.: Reawakened"
+        ],
+        "other_titles_en": [
+          "The Disastrous Life of Saiki K.: Reawakened"
+        ],
+        "other_titles_jp": [
+          "斉木楠雄のΨ難 Ψ始動編"
+        ],
+        "anime_license_name": "Ох уж этот экстрасенс Сайки Кусуо! Возрождение",
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "Экранизация упущенных событий из манги, которые не попали во второй сезон аниме-сериала «Ох уж этот экстрасенс ] ]!». Сюжет снова расскажет о необычном школьнике Кусуо Сайки, стремящемся к обычной, не связанной с паранормальными явлениями, жизни. Нас ждут новые персонажи, новые комедийные ситуации, старые проблемы главного героя и то, как он будет их решать.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1314727.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/35c34ed8acd106f98fe040950a46c7817a638aa5.jpg",
+          "https://shikimori.one/system/screenshots/original/dee17b3b194a2132f71658905f5201792db87afc.jpg"
+        ],
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Повседневность",
+          "Сверхъестественное",
+          "Сёнен",
+          "Школа"
+        ],
+        "anime_studios": [
+          "J.C.Staff",
+          "Egg Firm"
+        ],
+        "imdb_rating": 7.9,
+        "imdb_votes": 749,
+        "shikimori_rating": 8.15,
+        "shikimori_votes": 3526,
+        "premiere_world": "2019-12-30",
+        "aired_at": "2019-12-30",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 6,
+        "episodes_aired": 0,
+        "directors": [
+          "Хироаки Сакурай"
+        ],
+        "writers": [
+          "Сюити Асо"
+        ]
+      }
+    },
+    {
+      "id": "movie-46868",
+      "type": "anime",
+      "link": "",
+      "title": "Королевский Космический Корпус: Крылья Хоннеамиз",
+      "title_orig": "Ôritsu uchûgun Oneamisu no tsubasa",
+      "other_title": "Королевские космические силы - Крылья Хоннеамиз / Ouritsu Uchuugun: Honneamise no Tsubasa",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "47863",
+      "imdb_id": "tt0093207",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=180",
+      "shikimori_id": "1034",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-12-30T14:11:54Z",
+      "updated_at": "2019-12-30T14:53:22Z",
+      "material_data": {
+        "title": "Королевский космический корпус: Крылья Хоннеамиз",
+        "title_en": "Ôritsu uchûgun Oneamisu no tsubasa",
+        "other_titles": [
+          "Королевский десант",
+          "Wing of Royal Space Troop Honneamise",
+          "Star Quest"
+        ],
+        "other_titles_en": [
+          "Royal Space Force: The Wings of Honneamise"
+        ],
+        "other_titles_jp": [
+          "王立宇宙軍 オネアミスの翼"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 1987,
+        "description": "Сиро стремился в военно-воздушные силы, но без образования смог попасть только в Королевские космические силы. К несчастью, этот корпус - всего лишь трюк правительства, ещё никто ничего не смог сделать в космосе. Тем не менее, после того как Сиро встретил и влюбился в молодую миссионерку-идеалистку Рикинни, он решает сделать что-нибудь стоящее из хохмы под названием Королевские космические силы.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/47863.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/d38329fee462ac1f0336af0ad65f4913c4df0585.jpg",
+          "https://shikimori.one/system/screenshots/original/acff4ce1572f04c9fbb0bf6c445a7829f901ebe7.jpg"
+        ],
+        "duration": 121,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Военное",
+          "Драма",
+          "Космос",
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Gainax"
+        ],
+        "kinopoisk_rating": 7.4,
+        "kinopoisk_votes": 812,
+        "imdb_rating": 7.3,
+        "imdb_votes": 4745,
+        "shikimori_rating": 7.54,
+        "shikimori_votes": 884,
+        "premiere_world": "1987-02-03",
+        "aired_at": "1987-03-14",
+        "rating_mpaa": "R+",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Рэо Моримото",
+          "Мицуки Яёи",
+          "Согабэ Кадзуюки",
+          "Тикао Оцука",
+          "Ёсито Ясухара",
+          "Сёдзо Идзука",
+          "Хиротака Судзуоки",
+          "Масахиро Андзаи",
+          "Кодзи Тотани",
+          "Горо Ная"
+        ],
+        "directors": [
+          "Хироюки Ямага"
+        ],
+        "producers": [
+          "Хироаки Иноуэ",
+          "Тосио Окада",
+          "Хирохико Суэкити",
+          "Сигэру Ватанабэ",
+          "Макото Ямасина"
+        ],
+        "writers": [
+          "Хироюки Ямага",
+          "Хироси Оноги"
+        ],
+        "composers": [
+          "Харуо Кубота",
+          "Юдзи Номи",
+          "Рюити Сакамото",
+          "Кодзи Уэно"
+        ],
+        "editors": [
+          "Харутоси Огата"
+        ],
+        "designers": [
+          "Таками Акаи",
+          "Хидэаки Анно",
+          "Камуи Фудзивара",
+          "Фумио Иида",
+          "Харутоси Инаба",
+          "Дзиро Канаи",
+          "Махиро Маэда",
+          "Горо Мурата",
+          "Ёсиюки Садамото",
+          "Кэнити Сонода"
+        ],
+        "operators": [
+          "Хироси Исагава"
+        ]
+      }
+    },
+    {
+      "id": "serial-7077",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Адская девочка (четвёртый сезон)",
+      "title_orig": "Jigoku Shoujo: Yoi no Togi",
+      "other_title": "Адская девочка: Разговоры в сумерках / Адская девочка - Разговоры в сумерках / Hell Girl: Fourth Twilight",
+      "translation": {
+        "id": 1075,
+        "title": "NewComers",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 4,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1289096",
+      "imdb_id": "tt7197316",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9153",
+      "shikimori_id": "34966",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-12-07T22:59:43Z",
+      "updated_at": "2019-12-30T13:49:10Z",
+      "seasons": {
+        "4": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/186662/1852b7b4189937741eebfe25a7f32e1e/720p",
+            "2": "//aniqit.com/seria/186663/c74e2b76d9141a063a081bf3c320d218/720p",
+            "3": "//aniqit.com/seria/186664/37f7ea40c4de347e7eb7e8ed0650fa2b/720p",
+            "4": "//aniqit.com/seria/186665/7402ec4402e95148e76efaf29e631832/720p",
+            "5": "//aniqit.com/seria/186666/2658298172d770deb295a63f7833623a/720p",
+            "6": "//aniqit.com/seria/186667/56f49e564ec855c63c4d5cb67a6fac0f/720p",
+            "7": "//aniqit.com/seria/186668/24a3028e7f5aa6fb643539f21dcedb57/720p",
+            "8": "//aniqit.com/seria/186669/af6682afd138b9e62477087163aee6f8/720p",
+            "9": "//aniqit.com/seria/186670/733ff8e1c11598fecbabe7240308738f/720p",
+            "10": "//aniqit.com/seria/186671/cbef429607117999a31840f3b1bfbe2a/720p",
+            "11": "//aniqit.com/seria/186672/96d7a4314e715e2cc76d1b9915e504a9/720p",
+            "12": "//aniqit.com/seria/192509/3b3fd3a1551f7d875af0d269c13d050a/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Адская девочка: Разговоры в сумерках",
+        "title_en": "Jigoku Shoujo: Yoi no Togi",
+        "other_titles": [
+          "Hell Girl 4",
+          "Jigoku Shoujo 4"
+        ],
+        "other_titles_en": [
+          "Hell Girl: Fourth Twilight"
+        ],
+        "other_titles_jp": [
+          "地獄少女 宵伽"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2017,
+        "description": "Есть сайт, доступ к которому открывается только в полночь. Так называемая «Адская переписка». Говорят, что если оставить в адресной строке имя ненавистного вам человека, за ним придёт Адская девочка и отправит его в ад. И имя ей Ай Энма. Однако ничего не бывает бесплатно.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1289096.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/9698efe1669bcc03072f4e39a2b4d4fff55032ed.jpg",
+          "https://shikimori.one/system/screenshots/original/da1b14b4f2c9ca6357701bba7258a1077f269d30.jpg"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Психологическое",
+          "Сверхъестественное",
+          "Ужасы"
+        ],
+        "anime_studios": [
+          "Studio Deen"
+        ],
+        "imdb_rating": 6.1,
+        "imdb_votes": 62,
+        "shikimori_rating": 6.54,
+        "shikimori_votes": 1949,
+        "premiere_world": "2017-07-14",
+        "aired_at": "2017-07-15",
+        "released_at": "2017-08-19",
+        "rating_mpaa": "R",
+        "episodes_total": 6,
+        "episodes_aired": 12,
+        "actors": [
+          "Такако Хонда",
+          "Масая Мацукадзэ",
+          "Мамико Ното",
+          "Такаюки Суго"
+        ],
+        "directors": [
+          "Такахиро Омори"
+        ]
+      }
+    },
+    {
+      "id": "movie-46867",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Тондэ Сайтама",
+      "title_orig": "Tonde Saitama",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1182549",
+      "imdb_id": "tt8860946",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-12-30T13:47:14Z",
+      "updated_at": "2019-12-30T13:47:14Z",
+      "material_data": {
+        "title": "Тондэ Сайтама",
+        "title_en": "Tonde Saitama",
+        "year": 2019,
+        "tagline": "«We apologize for the people of Saitama Prefecture for making this film.»",
+        "description": "Родители везут на машине дочь из префектуры Сайтама на помолвку - девушка очень хочет жить в Токио и совсем не хочет в родных местах. По дороге семейство слушает по радио историю о тех жестоких временах, когда в Японии царил территориальный фашизм, а жители Сайтамы презирались всеми остальными с особой тщательностью. Тогда ходила легенда об освободителе сайтамцев - человеке, который отменит визы внутри страны и приведёт Сайтаму к процветанию.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1182549.jpg",
+        "duration": 107,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама",
+          "фантастика"
+        ],
+        "imdb_rating": 6.4,
+        "imdb_votes": 618,
+        "premiere_world": "2019-02-22",
+        "actors": [
+          "Фуми Никайдо",
+          "Гакт",
+          "Юсукэ Исэя",
+          "Масаки Кёмото",
+          "Сётаро Мамия",
+          "Рё Като",
+          "Цубаса Масукава",
+          "Кумико Такэда",
+          "Акадзи Маро",
+          "Наото Такэнака"
+        ],
+        "directors": [
+          "Хидэки Такэути"
+        ],
+        "writers": [
+          "Минэо Мая",
+          "Томокадзу Токунага"
+        ],
+        "editors": [
+          "Синдзи Кавамура"
+        ],
+        "designers": [
+          "Ёдзи Абэки",
+          "Исао Цугэ"
+        ],
+        "operators": [
+          "Сохэй Таникава"
+        ]
+      }
+    },
+    {
+      "id": "movie-46869",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Чёртов качок в аду",
+      "title_orig": "Jigoku no chimidoro muscle builder",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "1046558",
+      "imdb_id": "tt6403680",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-12-30T13:36:06Z",
+      "updated_at": "2019-12-30T13:36:06Z",
+      "material_data": {
+        "title": "Чёртов качок в аду",
+        "title_en": "Jigoku no chimidoro muscle builder",
+        "year": 2012,
+        "description": "Запертый в доме с привидениями бодибилдер вынужден спасаться от одержимого местью призрака.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1046558.jpg",
+        "duration": 62,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "комедия",
+          "ужасы"
+        ],
+        "imdb_rating": 6.3,
+        "imdb_votes": 160,
+        "premiere_world": "2014-03-28",
+        "actors": [
+          "Синъити Фукадзава",
+          "Масааки Каи",
+          "Масахиро Каи",
+          "Аки Тама Маи",
+          "Асако Носака"
+        ],
+        "directors": [
+          "Синъити Фукадзава"
+        ],
+        "producers": [
+          "Синъити Фукадзава"
+        ],
+        "writers": [
+          "Синъити Фукадзава"
+        ],
+        "composers": [
+          "Notzan Act"
+        ],
+        "editors": [
+          "Синъити Фукадзава"
+        ]
+      }
+    },
+    {
       "id": "movie-46870",
       "type": "foreign-movie",
       "link": "",
@@ -6175,8 +6887,8 @@
         "kinopoisk_votes": 5886,
         "imdb_rating": 8.2,
         "imdb_votes": 6647,
-        "shikimori_rating": 7.77,
-        "shikimori_votes": 9874,
+        "shikimori_rating": 7.76,
+        "shikimori_votes": 10059,
         "premiere_world": "2015-04-03",
         "aired_at": "2019-10-12",
         "released_at": "2019-12-28",
@@ -6646,8 +7358,8 @@
         "kinopoisk_votes": 5886,
         "imdb_rating": 8.2,
         "imdb_votes": 6647,
-        "shikimori_rating": 7.77,
-        "shikimori_votes": 9874,
+        "shikimori_rating": 7.76,
+        "shikimori_votes": 10059,
         "premiere_world": "2015-04-03",
         "aired_at": "2019-10-12",
         "released_at": "2019-12-28",
@@ -9565,675 +10277,6 @@
         "operators": [
           "Аканэ Фукухара"
         ]
-      }
-    },
-    {
-      "id": "serial-20479",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Глядя на полумесяц",
-      "title_orig": "Hanbun no Tsuki ga Noboru Sora",
-      "other_title": "Looking up at the Half-Moon",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2006,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "494197",
-      "imdb_id": "tt1281341",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5539",
-      "shikimori_id": "587",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-12-29T12:57:29Z",
-      "updated_at": "2019-12-29T12:57:29Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/547552/07ed462757e87f6bda68c43a18829a53/720p",
-            "2": "//aniqit.com/seria/547553/9374e318e8cd0863b2430d11354b04a6/720p",
-            "3": "//aniqit.com/seria/547554/3a31461b350f607e301e6b84f458859d/720p",
-            "4": "//aniqit.com/seria/547555/8854302c6347050cbbe70fe89f671849/720p",
-            "5": "//aniqit.com/seria/547556/aff1f1e7befd178d2bd0f094e4b3751d/720p",
-            "6": "//aniqit.com/seria/547557/46fe25c386c9635a477b83b2b0d52727/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Глядя на полумесяц",
-        "title_en": "Hanbun no tsuki ga noboru sora",
-        "other_titles": [
-          "Hantsuki"
-        ],
-        "other_titles_en": [
-          "Looking Up At The Half-Moon"
-        ],
-        "other_titles_jp": [
-          "半分の月がのぼる空"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2006,
-        "description": "Семнадцатилетний подросток, больной гепатитом, замечает в больнице симпатичную девушку его возраста. От скуки и по совету медсестры он знакомится с ней, но даже не подозревает к чему это приведет...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/494197.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/d0d3f8f4ef79b14b0be7f57851ce84d4abc6328c.jpg",
-          "https://shikimori.one/system/screenshots/original/0e9115ecfb23669c635a10f174cc71f15e0b526e.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Комедия",
-          "Романтика"
-        ],
-        "anime_studios": [
-          "Group TAC"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 402,
-        "imdb_rating": 6.8,
-        "imdb_votes": 136,
-        "shikimori_rating": 7.53,
-        "shikimori_votes": 3362,
-        "premiere_world": "2006-01-12",
-        "aired_at": "2006-01-13",
-        "released_at": "2006-02-24",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 6,
-        "episodes_aired": 0,
-        "actors": [
-          "Коки Окада",
-          "Кэнъити Судзумура",
-          "Микако Такахаси"
-        ],
-        "directors": [
-          "Юкихиро Мацусита"
-        ],
-        "producers": [
-          "Хироюки Китаура"
-        ],
-        "writers": [
-          "Tsumugu Hashimoto",
-          "Мицуру Охара"
-        ],
-        "composers": [
-          "Синкити Мицумунэ"
-        ]
-      }
-    },
-    {
-      "id": "serial-3755",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Дневник Хинако",
-      "title_orig": "Hinako Note",
-      "other_title": "Тетрадь Хинако",
-      "translation": {
-        "id": 610,
-        "title": "AniLibria.TV",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1046249",
-      "imdb_id": "tt6844136",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8908",
-      "shikimori_id": "33948",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-04-24T17:51:27Z",
-      "updated_at": "2019-12-29T12:53:07Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/105940/556300c3aad02b81533b4012b08ca76f/720p",
-            "2": "//aniqit.com/seria/105941/7e6141b3a6e2229fcc39d42d249d88cf/720p",
-            "3": "//aniqit.com/seria/106953/4d8de995a5092709bf1e8f0f5920f251/720p",
-            "4": "//aniqit.com/seria/108006/05488a2607e91095c9e1bdf1e2466d5c/720p",
-            "5": "//aniqit.com/seria/109386/de326b934a0a19445001dfaa02cb8c20/720p",
-            "6": "//aniqit.com/seria/110743/4dab42f92e3ac038500f00b1029490c8/720p",
-            "7": "//aniqit.com/seria/110744/8b64579fdbb441c24c7c4c56f808daf7/720p",
-            "8": "//aniqit.com/seria/113066/16fd560a9592a3d61621666f6a4e16a6/720p",
-            "9": "//aniqit.com/seria/113067/fc358806be305032381872f121054837/720p",
-            "10": "//aniqit.com/seria/115704/bac711d1183421806af3d7b0f9642b07/720p",
-            "11": "//aniqit.com/seria/115705/690fa05783adff9b09a0c236c695a067/720p",
-            "12": "//aniqit.com/seria/115724/b0fcf1644d6ba346c131667b508dceb5/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Дневник Хинако",
-        "title_en": "Hinako Note",
-        "other_titles_en": [
-          "Hinako Note"
-        ],
-        "other_titles_jp": [
-          "ひなこのーと"
-        ],
-        "anime_license_name": "Дневник Хинако",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2017,
-        "description": "Главная героиня Хинако Сакураги живет в сельской местности, и ей довольно плохо дается общение с людьми. И дабы улучшить свои навыки общения, она решает, что со старшей школы будет учиться в Токио, и там же хочет поступить в театральный клуб. Вот только выясняется, что жить Хинако будет в старом книжном магазине, вместе с девочкой по имени Куина Нацукава. Но эта девушка справится с любыми неудобствами! И конечно же, в течение своего долгого пути к мечте, она повстречает немало друзей.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1046249.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/01db176833f4d9bd19915d29a78c58be2b9f5cb3.jpg",
-          "https://shikimori.one/system/screenshots/original/a82aab57896fa121cf528a119d25e8f2397958c4.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность"
-        ],
-        "anime_studios": [
-          "Passione"
-        ],
-        "imdb_rating": 7,
-        "imdb_votes": 73,
-        "shikimori_rating": 6.76,
-        "shikimori_votes": 1220,
-        "premiere_world": "2017-04-07",
-        "aired_at": "2017-04-07",
-        "released_at": "2017-06-23",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Мао Итимити",
-          "Мию Томита",
-          "Юи Огура",
-          "Хисако Тодзё",
-          "Марика Коно",
-          "Юри Ёсида"
-        ],
-        "directors": [
-          "Такэо Такахаси",
-          "Тору Китахата"
-        ],
-        "writers": [
-          "Мицуки",
-          "Тацухико Урахата"
-        ],
-        "composers": [
-          "Юкари Хасимото"
-        ],
-        "editors": [
-          "Аяко Тан"
-        ],
-        "operators": [
-          "Риэко Коикэ"
-        ]
-      }
-    },
-    {
-      "id": "serial-20070",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "V.I.P.",
-      "title_orig": "V.I.P.",
-      "other_title": "ВИП / Ви-Ай-Пи / Особо важная персона",
-      "translation": {
-        "id": 622,
-        "title": "HighHopes",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1271140",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-12-05T18:54:16Z",
-      "updated_at": "2019-12-29T11:31:48Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/536769/17f98b42fd9b502064421a71de5e27c2/720p",
-            "2": "//kodik.cc/seria/537140/dce57ccd2e9ebd9f0df5b42a47acf629/720p",
-            "3": "//kodik.cc/seria/537673/ae5984012ab30f0aa3b2c28085681771/720p",
-            "4": "//kodik.cc/seria/539743/d471a20db992a055c1b8df5f898128dd/720p",
-            "5": "//kodik.cc/seria/540320/ebb8355eb1c00db9cdc80813c4473053/720p",
-            "6": "//kodik.cc/seria/541626/4e5835bea33303f43d7d10fb86c7ce79/720p",
-            "7": "//kodik.cc/seria/541627/e3f2a5adb22c026fef8520a3fe5244a3/720p",
-            "8": "//kodik.cc/seria/542171/59602346b5d776e306ef4eb84a8e2696/720p",
-            "9": "//kodik.cc/seria/543160/e61195368523ecb437f78719d9656c8c/720p",
-            "10": "//kodik.cc/seria/543441/32a3417c53e8339b17af5377cb6660e8/720p",
-            "11": "//kodik.cc/seria/543777/269df6fa75ec9b43a7b258e4581e3f71/720p",
-            "12": "//kodik.cc/seria/544057/2cc6ef8d12ad67b78d16134cb1d1d691/720p",
-            "13": "//kodik.cc/seria/544730/5863bc70334faac2a13cf4570f81d659/720p",
-            "14": "//kodik.cc/seria/545015/eafa989d414659471d7d07d5f1a16894/720p",
-            "15": "//kodik.cc/seria/546736/4215eccea021fdd537e3bf934dcc72aa/720p",
-            "16": "//kodik.cc/seria/547518/73d4887586faf0c53ff97f7c8c723d81/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "V.I.P.",
-        "title_en": "",
-        "year": 2019,
-        "description": "История женатой пары, которая работает в торговом центре и имеет дело с вип-клиентами.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1271140.jpg",
-        "duration": 35,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 7.8,
-        "imdb_votes": 195,
-        "premiere_world": "2019-10-28",
-        "actors": [
-          "Чан На-ра",
-          "Ли Сан-юн",
-          "Ли Чхон-а",
-          "Квак Сон-ён",
-          "Пхё Е-джин",
-          "Ли Джэ-вон",
-          "Чон Джун-вон",
-          "Щин Джэ-ха",
-          "Пак Сон-гын",
-          "Чан Хёк-чин"
-        ],
-        "directors": [
-          "Ли Джон-ним"
-        ]
-      }
-    },
-    {
-      "id": "serial-20474",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Небесный метод",
-      "title_orig": "Sora No Method",
-      "other_title": "Метод небес",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 14,
-      "kinopoisk_id": "1199820",
-      "imdb_id": "tt3895144",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2292",
-      "shikimori_id": "23209",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-12-29T06:55:12Z",
-      "updated_at": "2019-12-29T06:55:12Z",
-      "seasons": {
-        "0": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/547479/aa6a80935600d95e0b0ad1edc728ad2c/720p"
-          }
-        },
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/547480/aa6a80935600d95e0b0ad1edc728ad2c/720p",
-            "2": "//aniqit.com/seria/547481/4382f0487f79c0a71947417c617e1a44/720p",
-            "3": "//aniqit.com/seria/547482/a682948fcb3c317f0288c2faed32b006/720p",
-            "4": "//aniqit.com/seria/547483/9759990f604c42ba37a42b713e1fea9c/720p",
-            "5": "//aniqit.com/seria/547484/abb0d80fc5f40904ee615a0ecb073898/720p",
-            "6": "//aniqit.com/seria/547485/f72cd1831c5acc108df411b4a6302588/720p",
-            "7": "//aniqit.com/seria/547486/18c935fa13116ba612b0b90092fc7922/720p",
-            "8": "//aniqit.com/seria/547487/e44e3e265c5ae216f17f03700611f22d/720p",
-            "9": "//aniqit.com/seria/547488/c426983e76a513b4d9224a0aca367a0c/720p",
-            "10": "//aniqit.com/seria/547489/69f283345dfdead1cd1d0463b0f75c48/720p",
-            "11": "//aniqit.com/seria/547490/1dfc5bdb05f21c979ee5bb1194c0506e/720p",
-            "12": "//aniqit.com/seria/547491/4ccfc4e4fae331d624c39aebc9828c36/720p",
-            "13": "//aniqit.com/seria/547492/ac4e6ae8fe0d15f45fd0e39a4bab457f/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Небесный метод",
-        "title_en": "Sora No Method",
-        "other_titles": [
-          "Небесный метод"
-        ],
-        "other_titles_en": [
-          "Celestial Method"
-        ],
-        "other_titles_jp": [
-          "天体のメソッド"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2014,
-        "description": "Уже семь лет прошло с момента, когда над местным озером появился таинственный объект, напоминающий НЛО. Всколыхнувшаяся волна паники спала, не произошло ровным счётом ничего. Ощущение опасности сменилось любопытством, что сделало озеро местной достопримечательностью, позднее и вовсе стало обыденным для всех явлением.\r\nТеперь жившая когда-то в этих местах Нонока Комия возвращается в свой маленький городок после семи долгих лет жизни в Токио. Смутные воспоминания прошлого оживают с появлением загадочной девушки Ноэль...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1199820.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/4843411f2bf3217ba39f9200e9241d5cd67fd90c.jpg",
-          "https://shikimori.one/system/screenshots/original/8eaff0cf30c03a757261184399cd93cba87ef66d.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Повседневность",
-          "Фэнтези",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Studio 3Hz"
-        ],
-        "imdb_rating": 6.4,
-        "imdb_votes": 52,
-        "shikimori_rating": 6.77,
-        "shikimori_votes": 1129,
-        "premiere_world": "2014-09-01",
-        "aired_at": "2014-10-05",
-        "released_at": "2014-12-28",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 13,
-        "episodes_aired": 13,
-        "actors": [
-          "Каито Исикава",
-          "Инори Минасэ",
-          "Сиина Нацукава"
-        ],
-        "directors": [
-          "Масаюки Сакои"
-        ],
-        "writers": [
-          "Наоки Хисая"
-        ]
-      }
-    },
-    {
-      "id": "serial-20472",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Сердце Аккани",
-      "title_orig": "Duang Jai Akkanee",
-      "other_title": "Akkanee's Heart / 4 Huajai Haeng Koon Kao",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2010,
-      "last_season": 1,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "kinopoisk_id": "1227516",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-12-29T05:32:17Z",
-      "updated_at": "2019-12-29T05:32:17Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/547466/0976947266b53240924172ce7807fdf8/720p",
-            "2": "//kodik.cc/seria/547467/0c0a383c54f1377bbd9f9fb7cd91a970/720p",
-            "3": "//kodik.cc/seria/547468/326b7bbfd27ba96607989776116c9a67/720p",
-            "4": "//kodik.cc/seria/547469/621502ea67f1f587b5b16621dbe69433/720p",
-            "5": "//kodik.cc/seria/547470/df7815d28a41e3c0570857e98648cbe4/720p",
-            "6": "//kodik.cc/seria/547471/e99289d62051628f57f269f33e6f7cd0/720p",
-            "7": "//kodik.cc/seria/547472/45f3fa2cf47b237b7836aa6743b706b2/720p",
-            "8": "//kodik.cc/seria/547473/7a549ba9712549080852baa96654b35d/720p",
-            "9": "//kodik.cc/seria/547474/c04d5382e9f26dd2f3364c3cef4a0132/720p",
-            "10": "//kodik.cc/seria/547475/fe5c4d53aabaa101a9d8001932436d1a/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Сердце Аккани",
-        "title_en": "Duang Jai Akkanee",
-        "year": 2010,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1227516.jpg",
-        "duration": 100,
-        "countries": [
-          "Таиланд"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "premiere_world": "2010-11-05",
-        "actors": [
-          "Надич Кугимия",
-          "Урассая Спербунд",
-          "Прин Супарат"
-        ]
-      }
-    },
-    {
-      "id": "serial-19038",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Валькирия и любовь",
-      "title_orig": "Val x Love",
-      "other_title": "Любовь Валькирий",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1306556",
-      "imdb_id": "tt10974256",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10092",
-      "shikimori_id": "39799",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-10-11T06:42:08Z",
-      "updated_at": "2019-12-29T01:09:58Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/496209/4970153e2275532dc926dd2f29ce429e/720p",
-            "2": "//aniqit.com/seria/499561/98d05245432b22e5de6fb671e4c08131/720p",
-            "3": "//aniqit.com/seria/509262/fd89a82aa6326e6a1bd3e4ddc6035c4a/720p",
-            "4": "//aniqit.com/seria/520046/e6efdb3bc5eb17ee3accdff6c742f9fe/720p",
-            "5": "//aniqit.com/seria/522692/f42cd1cd51ecde87a7723dd3eb109344/720p",
-            "6": "//aniqit.com/seria/525962/ab57173a88b5bc8c03cfea555a65dd88/720p",
-            "7": "//aniqit.com/seria/528274/a6c24ed7e5fc24e54b25aa9ba9b315d0/720p",
-            "8": "//aniqit.com/seria/536849/065fcaaffd6497c38a21d0ce4912ef40/720p",
-            "9": "//aniqit.com/seria/536850/688d89576b6abbf20ad73bd05afc061c/720p",
-            "10": "//aniqit.com/seria/547384/4426ba124e11b3f857d849f2f4873368/720p",
-            "11": "//aniqit.com/seria/547385/bb39b84f71a866fc488e5c6a77089c31/720p",
-            "12": "//aniqit.com/seria/547386/f298817582778cb49e63c58f2b62ae90/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Валькирия и любовь",
-        "title_en": "Val x Love",
-        "other_titles": [
-          "Любовь валькирии",
-          "Vallove",
-          "Ikusa x Koi"
-        ],
-        "other_titles_jp": [
-          "戦×恋（ヴァルラヴ）"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2019,
-        "description": "Старшеклассник Такума привык к своей одинокой школьной жизни и с головой ушёл в учёбу. Но когда Бог Один просит парня спасти мир вместе с девятью Валькириями, чья сила подпитывается близостью, ему придётся попрощаться со своим одиноким существованием. Теперь уж точно скучно не будет.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1306556.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/8374308797aa7d311ee1bcedfa808dff3a4f1346.png",
-          "https://shikimori.one/system/screenshots/original/ad3cc253903ad890cb453e7332cd5b5d8222fcef.png"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Комедия",
-          "Романтика",
-          "Сверхъестественное",
-          "Сёнен",
-          "Школа",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Hoods Entertainment"
-        ],
-        "imdb_rating": 5.7,
-        "imdb_votes": 63,
-        "shikimori_rating": 5.89,
-        "shikimori_votes": 1658,
-        "premiere_world": "2019-10-05",
-        "aired_at": "2019-10-05",
-        "released_at": "2019-12-21",
-        "rating_mpaa": "R+",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Юя Хиросэ",
-          "Каэдэ Хондо",
-          "Рина Хидака",
-          "Аи Какума"
-        ],
-        "directors": [
-          "Такаси Наоя"
-        ],
-        "writers": [
-          "Тацуя Такахаси"
-        ]
-      }
-    },
-    {
-      "id": "serial-19351",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Сумасшедшие ребята",
-      "title_orig": "Outburst Dreamer Boys",
-      "other_title": "Chuubyou Gekihatsu Boy",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 11,
-      "episodes_count": 11,
-      "imdb_id": "tt11033998",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10034",
-      "shikimori_id": "38390",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-10-24T07:55:03Z",
-      "updated_at": "2019-12-29T01:09:03Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/502876/63361ff69b181018ee698237dc5e5a0f/720p",
-            "2": "//aniqit.com/seria/502877/3e13e537b358dd592ec514df103df53c/720p",
-            "3": "//aniqit.com/seria/502878/03c9a0d520a50cad7968ba15639438b9/720p",
-            "4": "//aniqit.com/seria/520111/fa1cd40ffcf1a48a8f3a9e6fb36494a8/720p",
-            "5": "//aniqit.com/seria/522862/590b1d86347a11235ac06e270a67fcbc/720p",
-            "6": "//aniqit.com/seria/525954/f67f7fc8a9f4b040584fd4db6baf4fb2/720p",
-            "7": "//aniqit.com/seria/528537/4158a4c3100217d6ac7d5b9666645f0c/720p",
-            "8": "//aniqit.com/seria/537352/77c7ee632b392d2f5c5a356f91340661/720p",
-            "9": "//aniqit.com/seria/541413/bd8993b68e2501814ea8d98de32f6dec/720p",
-            "10": "//aniqit.com/seria/543486/01df2e139202654eae0d13b4e32db8ed/720p",
-            "11": "//aniqit.com/seria/547382/0470080fb20f0557eb61ba1f38934ff9/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Сумасшедшие ребята",
-        "title_en": "Chuubyou Gekihatsu Boy",
-        "other_titles": [
-          "Juubyou Gekikatsu Boy",
-          "Young Disease Outburst Boy"
-        ],
-        "other_titles_en": [
-          "Outburst Dreamer Boys"
-        ],
-        "other_titles_jp": [
-          "厨病激発ボーイ"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "description": "Мидзуки Хидзири — самая обычная школьница без каких-либо примечательных талантов или недостатков, поэтому, когда в середине учебного года возникает необходимость сменить школу, ей хочется лишь мирно влиться в коллектив, завести друзей и проводить школьные деньки как все. В общем, заурядная школьная жизнь девушку полностью устроила бы. Но такое простое желание Мидзуки гибнет в зародыше уже на этапе представления классу, когда её ошибочно признал за «свою» соученик Ямато Нода с «синдромом восьмиклассника», отчего другие ребята в классе предпочли отстраниться от новенькой.\r\nВ попытке исправить положение Мидзуки принимает предложение старосты класса Нанако Ватасэ обратиться за помощью к клубу героев. Однако оказавшись в клубной комнате, она, помимо подпортившего её планы на нормальную спокойную школьную жизнь Ямато, встречает ещё троих чудиков с «синдромом восьмиклассника», которые, взявшись выполнить её желание, в итоге активно вовлекают девушку в свой необычный мир.\r\nНеспокойные школьные деньки Мидзуки Хидзири начинаются!",
-        "poster_url": "https://shikimori.one/system/animes/original/38390.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/8defe552b2e51a6c2b069be05aaee4fcbbfdcb01.jpg",
-          "https://shikimori.one/system/screenshots/original/eaf8b24c33524b7bd6936412854de1649ba96403.jpg"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Studio Deen"
-        ],
-        "shikimori_rating": 6.78,
-        "shikimori_votes": 692,
-        "aired_at": "2019-10-04",
-        "released_at": "2019-12-13",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 11,
-        "episodes_aired": 11
       }
     }
   ]

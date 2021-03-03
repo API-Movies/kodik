@@ -1,6 +1,320 @@
 {
   "results": [
     {
+      "id": "movie-32225",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Любит... Не любит",
+      "title_orig": "Love You... Love You Not",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2015,
+      "imdb_id": "tt7277350",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-11T17:21:22Z",
+      "updated_at": "2019-02-11T17:21:22Z"
+    },
+    {
+      "id": "serial-15153",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Гордая любовь",
+      "title_orig": "Bie na me jiao ao",
+      "other_title": "Гордиться любовью / Горд любовью / Proud of Love / Don't Be So Proud",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 20,
+      "episodes_count": 20,
+      "kinopoisk_id": "1043721",
+      "imdb_id": "tt6352806",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-02-11T00:27:44Z",
+      "updated_at": "2019-02-11T17:18:03Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/398483/7e5f274ac64893970be5be5fa62c858e/720p",
+            "2": "//kodik.cc/seria/399010/98b9fa68d503000641894b177aa941b5/720p",
+            "3": "//kodik.cc/seria/399011/d48b498027f292109a5e2c24f5197b28/720p",
+            "4": "//kodik.cc/seria/399012/52f23483ab3aabedd0290f12f3443037/720p",
+            "5": "//kodik.cc/seria/399013/603bf136d7631ccac2c1ea1ef733ce9d/720p",
+            "6": "//kodik.cc/seria/399014/7a2341916a8a57daa2c8d861d386e08e/720p",
+            "7": "//kodik.cc/seria/399015/03ea6006a4657e4f11c63947a5a80b36/720p",
+            "8": "//kodik.cc/seria/399016/e1ca414d572df9c33250dc6502f7e8d5/720p",
+            "9": "//kodik.cc/seria/399017/8ae96b40063d89f0b26b14b4033fd28c/720p",
+            "10": "//kodik.cc/seria/399018/b511cf42724faa9985541f5f25808508/720p",
+            "11": "//kodik.cc/seria/399019/e15786ef6c4ef431a4a78a6fdf64a790/720p",
+            "12": "//kodik.cc/seria/399020/0f24ae560608335bdc78dcb61266189f/720p",
+            "13": "//kodik.cc/seria/399021/516bcde7fec510f011e74f6e0c855652/720p",
+            "14": "//kodik.cc/seria/399229/bf5483c1abed472a181a6ae25291d8cb/720p",
+            "15": "//kodik.cc/seria/399230/c865ec6494ead789b0bdfd2f3cd419d5/720p",
+            "16": "//kodik.cc/seria/399231/76decec22e6b3bae661e6f5fd4c9ec30/720p",
+            "17": "//kodik.cc/seria/399232/87dbff8118e3bd1037cb34803e4ed78d/720p",
+            "18": "//kodik.cc/seria/399233/6c5fecce91d907320494fa9de7a9cce2/720p",
+            "19": "//kodik.cc/seria/399234/e5deb0e94e5d0c896bf68e8cc1fec159/720p",
+            "20": "//kodik.cc/seria/399235/3026ae57b649ebb4cf41b2c3e762a37a/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Гордая любовь",
+        "title_en": "Bie na me jiao ao",
+        "year": 2016,
+        "description": "Студентка факультета искусств Шэнь Си увлекается танцами, а студент Чжи Чжоу - будущий инженер. Каждый из них едет на каникулы с компанией друзей и, оказывается, что в одно и то же место. А там происходит совсем невероятное - наши герои вдруг меняются телами. Девушка сначала было запаниковала и расстроилась, но потом выяснила, что теперь «она» живёт в одной комнате с парнем, который ей безумно нравится.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1043721.jpg",
+        "duration": 25,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "мелодрама"
+        ],
+        "imdb_rating": 8.2,
+        "imdb_votes": 25,
+        "premiere_world": "2016-09-19",
+        "actors": [
+          "Вивиан Сун",
+          "Тун Мэнши",
+          "Даррен Чэнь",
+          "Ли Синьжань",
+          "Янь Цзинцзе",
+          "Лю Цяньюй",
+          "Янь Шэнъюй",
+          "Ван Чанчан"
+        ],
+        "directors": [
+          "Шэнь Циньюань"
+        ],
+        "producers": [
+          "Энджи Чай",
+          "Аарон Лю"
+        ]
+      }
+    },
+    {
+      "id": "movie-32224",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Не видишь я тебя люблю",
+      "title_orig": "Can't See Me Love You",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2018,
+      "imdb_id": "tt10252064",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-11T17:16:05Z",
+      "updated_at": "2019-02-11T17:16:05Z"
+    },
+    {
+      "id": "movie-32223",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Здравствуй жизнь",
+      "title_orig": "Hello Life",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2018,
+      "imdb_id": "tt10449140",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-11T17:15:14Z",
+      "updated_at": "2019-02-11T17:15:14Z"
+    },
+    {
+      "id": "movie-32218",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Ученицы ведьм\t",
+      "title_orig": "Apprentice Witches",
+      "other_title": "Witch School",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2017,
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-11T17:10:39Z",
+      "updated_at": "2019-02-11T17:10:39Z"
+    },
+    {
+      "id": "movie-32227",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "В ритме танца",
+      "title_orig": "Fast Forward",
+      "translation": {
+        "id": 907,
+        "title": "Banyan Studio",
+        "type": "voice"
+      },
+      "year": 2009,
+      "kinopoisk_id": "471371",
+      "imdb_id": "tt1442570",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-02-11T12:08:45Z",
+      "updated_at": "2019-02-11T12:08:45Z",
+      "material_data": {
+        "title": "В ритме танца",
+        "title_en": "Fast Forward",
+        "year": 2009,
+        "tagline": "Жизнь на грани",
+        "description": "Это история о том, как приходится изо всех сил не дать угаснуть страсти, когда все обстоятельства против тебя. Ведь страсть может многое рассказать о твоём характере. Страсть это одно из средств твоего самовыражения. Это  история людей, у которых страсть это - ТАНЕЦ. Это невероятно эмоциональный и драматичный коктейль из совершенно несовместимых ингредиентов: любви и предательства, дружбы и жертвенности, мучений и мечтаний. Это взрыв адреналина, приправленный пикантными специями: невероятно мощной энергией и взрывчатыми танцами.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/471371.jpg",
+        "duration": 140,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "боевик",
+          "драма",
+          "мюзикл"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 107,
+        "imdb_rating": 5.5,
+        "imdb_votes": 45,
+        "premiere_world": "2009-09-25",
+        "actors": [
+          "Винод Кханна",
+          "Акшай Капур",
+          "Рехан Кхан",
+          "Бхавна Пани",
+          "Сиддхант Карник",
+          "Сабина Шима",
+          "Пракаш Радж",
+          "Тишай",
+          "Химаншу Гадани",
+          "Джей Кумар Нэйр"
+        ],
+        "directors": [
+          "Зайхам Али Сайед"
+        ],
+        "producers": [
+          "Анджум Ризви",
+          "Нарен Кумар"
+        ],
+        "writers": [
+          "Ромео Д’Коста",
+          "Рахил Кази",
+          "Паван Сони",
+          "Зайхам Али Сайед"
+        ],
+        "composers": [
+          "Акбар Сами",
+          "Раджу Сингх"
+        ],
+        "editors": [
+          "Сендип Френсис"
+        ],
+        "operators": [
+          "Абдул Вахаб"
+        ]
+      }
+    },
+    {
+      "id": "movie-8037",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Человек ниоткуда",
+      "title_orig": "Человек ниоткуда",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1961,
+      "kinopoisk_id": "45459",
+      "imdb_id": "tt0054739",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-12-04T19:37:34Z",
+      "updated_at": "2019-02-11T12:03:37Z",
+      "material_data": {
+        "title": "Человек ниоткуда",
+        "title_en": "",
+        "year": 1961,
+        "description": "Комедия приключений дикаря из фантастического племени тапи, начавшаяся с неожиданного провала в пропасть молодого геолога антропологической экспедиции Владимира Поражаева. Впрочем Владимир давно подозревал о существовании этого племени, что и было главной причиной его раздора с начальником экспедиции Крохалевым. Используя свое интеллектуальное превосходство, геолог освобождается от дикарей и с Чудаком возвращается в Москву...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/45459.jpg",
+        "duration": 81,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "комедия",
+          "фантастика"
+        ],
+        "kinopoisk_rating": 7,
+        "kinopoisk_votes": 3236,
+        "imdb_rating": 6.5,
+        "imdb_votes": 291,
+        "premiere_world": "1961-05-18",
+        "minimal_age": 12,
+        "actors": [
+          "Сергей Юрский",
+          "Юрий Яковлев",
+          "Анатолий Папанов",
+          "Людмила Гурченко",
+          "Анатолий Адоскин",
+          "Владимир Муравьев",
+          "Юрий Белов",
+          "Антоний Ходурский",
+          "Петр Савин",
+          "Нинель Мышкова"
+        ],
+        "directors": [
+          "Эльдар Рязанов"
+        ],
+        "writers": [
+          "Леонид Зорин"
+        ],
+        "composers": [
+          "Анатолий Лепин"
+        ],
+        "editors": [
+          "Екатерина Овсянникова"
+        ],
+        "designers": [
+          "Александр Кузнецов",
+          "Лев Мильчин",
+          "Джимми Сакуяма",
+          "М. Жукова"
+        ],
+        "operators": [
+          "Леонид Крайненков",
+          "Анатолий Петрицкий"
+        ]
+      }
+    },
+    {
       "id": "movie-27166",
       "type": "foreign-movie",
       "link": "",
@@ -7647,605 +7961,6 @@
         ],
         "operators": [
           "Линь Чжибэн"
-        ]
-      }
-    },
-    {
-      "id": "movie-31917",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Ночь",
-      "title_orig": "La noche",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "1023509",
-      "imdb_id": "tt5643398",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-04T07:29:18Z",
-      "updated_at": "2019-02-04T07:29:18Z",
-      "material_data": {
-        "title": "Ночь",
-        "title_en": "La noche",
-        "year": 2016,
-        "description": "Мартину за сорок, он очень одинок, поэтому каждую ночь ищет мгновенное удовольствие в кокаине, алкоголе и оргиях.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1023509.jpg",
-        "duration": 135,
-        "countries": [
-          "Аргентина"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 4,
-        "imdb_votes": 225,
-        "premiere_world": "2016-04-18",
-        "minimal_age": 18,
-        "actors": [
-          "Edgardo Castro",
-          "Federico Figari",
-          "Паула Итуриса",
-          "Luis Leiva",
-          "Dolores Guadalupe Olivares",
-          "Уильям Просюк"
-        ],
-        "directors": [
-          "Edgardo Castro"
-        ],
-        "producers": [
-          "Eduardo Castro",
-          "Florencia de Mugica",
-          "Аугусто Торре"
-        ],
-        "writers": [
-          "Eduardo Castro"
-        ],
-        "editors": [
-          "Miguel de Zuviría"
-        ],
-        "operators": [
-          "Соледад Родригез"
-        ]
-      }
-    },
-    {
-      "id": "serial-25582",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Ещё четыре шота, пожалуйста",
-      "title_orig": "Four More Shots Please",
-      "translation": {
-        "id": 920,
-        "title": "Octopus",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 2,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "kinopoisk_id": "1144278",
-      "imdb_id": "tt8242548",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-02-04T01:41:07Z",
-      "updated_at": "2019-02-04T01:41:07Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/645278/ffb10cf17d0d2fb64431683f7b87e34f/720p",
-            "2": "//kodik.cc/seria/645279/d8a60489c83b8d6ea15594c0f8dbaced/720p",
-            "3": "//kodik.cc/seria/645280/523b751d0e4a1a1baecc465240a182ac/720p",
-            "4": "//kodik.cc/seria/645281/84995604fce7b1e5f217a779458aae75/720p",
-            "5": "//kodik.cc/seria/645282/4d2987c22bed1bcdf34c8771d2c3d72a/720p",
-            "6": "//kodik.cc/seria/645283/af59807ef49f5b3062035c69250b5111/720p",
-            "7": "//kodik.cc/seria/645284/ac53fe24ec38aa4d1efa49820d1dcfda/720p",
-            "8": "//kodik.cc/seria/645285/412e8b28c13a93602d7aa59d9032ed5b/720p",
-            "9": "//kodik.cc/seria/645286/e6f4d391fb2c6d113415b4ce53b578ba/720p",
-            "10": "//kodik.cc/seria/645287/eeb673ad74b365f26192ac59f81b13e2/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Ещё четыре шота, пожалуйста",
-        "title_en": "Four More Shots Please!",
-        "year": 2019,
-        "description": "Романтический сериал о четырех подругах с разными жизненными путями, амбициями, развлечениями, работой и отношениями в современной Индии.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1144278.jpg",
-        "duration": 60,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "комедия",
-          "мелодрама"
-        ],
-        "imdb_rating": 6.6,
-        "imdb_votes": 17312,
-        "premiere_world": "2019-01-25",
-        "actors": [
-          "Саяни Гупта",
-          "Maanvi Gagroo",
-          "Кирти Кулхари",
-          "Гурбани",
-          "Пратик Баббар",
-          "Лиза Рэй",
-          "Милинд Соман",
-          "Нил Бхупалам",
-          "Jiya Lakhiani",
-          "Амрита Пури"
-        ],
-        "directors": [
-          "Ану Менон",
-          "Напур Астхана"
-        ],
-        "producers": [
-          "Pallab Bhattacharya",
-          "Anoop Ram Kumar",
-          "Ishita Pritish Nandy",
-          "Притиш Нанди",
-          "Рангита Притиш Нанди",
-          "Satish Shelke",
-          "Uluc Yemen Aslan",
-          "Шантану Тунгаре"
-        ],
-        "writers": [
-          "Девика Бхагат",
-          "Ишита Мохира",
-          "Рангита Притиш Нанди"
-        ],
-        "editors": [
-          "Антара Лахири",
-          "Джабин Мерчант"
-        ],
-        "designers": [
-          "Parichit Paralkar",
-          "Parichit Paralkar",
-          "Shashank Khanvilkar",
-          "Hemant Khatri",
-          "Mayur Shedge",
-          "Daksha Thakkar",
-          "Sitaram Mistri",
-          "Abhay Bhedasgaonkar",
-          "Aastha Sharma",
-          "Шираз Сиддик"
-        ],
-        "operators": [
-          "Neha Parti Matiyani"
-        ]
-      }
-    },
-    {
-      "id": "serial-13882",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Молодость",
-      "title_orig": "Youth",
-      "other_title": "Твоё имя – юность / Yi Ni Wei Ming De Qing Chun",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 24,
-      "episodes_count": 24,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-01-02T15:02:09Z",
-      "updated_at": "2019-02-03T19:31:52Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/368122/715eb3c5bb69ce265ab259261a459101/720p",
-            "2": "//kodik.cc/seria/368123/486cc5ac208e138c1c2e8d73884ee652/720p",
-            "3": "//kodik.cc/seria/368124/1e712524df448178e8f2aa0afa642a63/720p",
-            "4": "//kodik.cc/seria/368125/2365124a8ba6be5606fbfaa63a3a86e1/720p",
-            "5": "//kodik.cc/seria/368126/fd96b070b661bee573666411f2fb9758/720p",
-            "6": "//kodik.cc/seria/368127/16f151acc610b57d0aa9d80803a946e2/720p",
-            "7": "//kodik.cc/seria/368128/63e14f39fc26abdd8c47e8f659df7fcb/720p",
-            "8": "//kodik.cc/seria/368129/71c8bb6e19bb07ccb2f2c1a05f21971f/720p",
-            "9": "//kodik.cc/seria/368130/3e957b09cd62871b13c52d404ccdcf96/720p",
-            "10": "//kodik.cc/seria/368131/2c199115b6535f762e208cb6b5d2c983/720p",
-            "11": "//kodik.cc/seria/368132/c85b24f42fbe65a8fc83dc00a1e13adf/720p",
-            "12": "//kodik.cc/seria/368133/5ba31933d33e12e19e4b54ff44d5cf69/720p",
-            "13": "//kodik.cc/seria/368134/fd4a54f63925156273be7a16d3ab3914/720p",
-            "14": "//kodik.cc/seria/368135/d80a7425bdbd2521073e9fb8f949d153/720p",
-            "15": "//kodik.cc/seria/368136/e1155d8beac1c5ed6b96009fa9fbfa5d/720p",
-            "16": "//kodik.cc/seria/368137/34dd3e7eb965102f179726f446923466/720p",
-            "17": "//kodik.cc/seria/368138/4c390120348979beea68d8602c1aa038/720p",
-            "18": "//kodik.cc/seria/368139/2cc6b776ee06460bd025199a0d9c586c/720p",
-            "19": "//kodik.cc/seria/368140/b959d471765062941132b90087d32e2a/720p",
-            "20": "//kodik.cc/seria/388940/8ad5112b9ddbe7590d0337f531f62aeb/720p",
-            "21": "//kodik.cc/seria/388941/3470c7bc39f143df573c48d43482ca19/720p",
-            "22": "//kodik.cc/seria/388942/d11e05f295f63ae386e4ab783f32b06e/720p",
-            "23": "//kodik.cc/seria/388943/ff7dbb039246576623ff3506e5a6656a/720p",
-            "24": "//kodik.cc/seria/388944/e2111c9a0e2b279bfe8a4990c47da8c1/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-14825",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Супер-чурка",
-      "title_orig": "Superwog",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "1200068",
-      "imdb_id": "tt7786486",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-02-03T08:51:30Z",
-      "updated_at": "2019-02-03T08:51:30Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/389574/69ea15bb894dd401b67863c80b24276f/720p",
-            "2": "//kodik.cc/seria/389575/d68c0557547459cb70702cba181d5468/720p",
-            "3": "//kodik.cc/seria/389576/f65982000ae6b9e860d08eac9f9cb9ba/720p",
-            "4": "//kodik.cc/seria/389577/e56e44a49acb1c442b4a0614d003c694/720p",
-            "5": "//kodik.cc/seria/389578/7aeaaf631931884f7d147a8347cd8833/720p",
-            "6": "//kodik.cc/seria/389579/d7c6646095a78492b00c37f10a4e65fe/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Superwog",
-        "title_en": "",
-        "year": 2017,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1200068.jpg",
-        "duration": 30,
-        "countries": [
-          "Австралия"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "imdb_rating": 6.9,
-        "imdb_votes": 268,
-        "premiere_world": "2018-10-09",
-        "actors": [
-          "Theodore Saidden",
-          "Nathan Saidden",
-          "Diamond Lust",
-          "Sasha Sutton",
-          "Kristy Kelly",
-          "Marcus Barber",
-          "Sandra Miller",
-          "Jasmine Rees",
-          "Sarah Golding",
-          "Chloe Walton"
-        ],
-        "directors": [
-          "Theodore Saidden",
-          "Nathan Saidden"
-        ],
-        "producers": [
-          "Nathan Saidden",
-          "Theodore Saidden",
-          "Lauren Merolli"
-        ],
-        "writers": [
-          "Nathan Saidden",
-          "Theodore Saidden",
-          "Акмаль Сале"
-        ],
-        "editors": [
-          "Tim Parrington"
-        ]
-      }
-    },
-    {
-      "id": "serial-14718",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Один и еще один",
-      "title_orig": "One and Another Him",
-      "other_title": "Их двое",
-      "translation": {
-        "id": 641,
-        "title": "STEPonee",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 1,
-      "episodes_count": 1,
-      "mdl_id": "25125-one-and-another-him",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-02-02T12:10:08Z",
-      "updated_at": "2019-02-02T12:10:08Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/386986/66fd77bbbbfaa4412285dcff21781e08/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-14708",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Моя сестренка последнее время сама не своя",
-      "title_orig": "Saikin, imouto no yousu ga chotto okashiindaga",
-      "other_title": "Сейчас моя сестра малость сама не своя",
-      "translation": {
-        "id": 610,
-        "title": "AniLibria.TV",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "838854",
-      "imdb_id": "tt3341584",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1280",
-      "shikimori_id": "17777",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-02-02T08:30:07Z",
-      "updated_at": "2019-02-02T08:30:07Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/386874/cda93be1cfbe74e58216107159fdbea0/720p",
-            "2": "//aniqit.com/seria/386875/a70ccdbd6519a22ea2e415736aa477d0/720p",
-            "3": "//aniqit.com/seria/386876/30ebf362846332a25221e6e2adb2132d/720p",
-            "4": "//aniqit.com/seria/386877/9ac0b2a682458fcc0def4c231085dd03/720p",
-            "5": "//aniqit.com/seria/386878/0fce36d092c429f2a41f5ec1d34098de/720p",
-            "6": "//aniqit.com/seria/386879/2a9c3d2ccffe26f0406a5de574b9bf29/720p",
-            "7": "//aniqit.com/seria/386880/8132fb9e3aea6d075edd2ec0db4e3eb3/720p",
-            "8": "//aniqit.com/seria/386881/85819fedbec303ced770f61ca6324a40/720p",
-            "9": "//aniqit.com/seria/386882/33f8eb9abeeb5d34a970d70ef161bd9f/720p",
-            "10": "//aniqit.com/seria/386883/e4ad7ea855e4a84322b68c530fffe6ba/720p",
-            "11": "//aniqit.com/seria/386884/7783b85e6d494758aa0ee85680c66fea/720p",
-            "12": "//aniqit.com/seria/386885/43b53d6241cfc84057fa2256ef3b4703/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Моя сестренка последнее время сама не своя",
-        "title_en": "Saikin, imouto no yousu ga chotto okashiindaga",
-        "other_titles": [
-          "Моя сестрёнка последнее время сама не своя",
-          "Кажется, моя сестрёнка немного изменилась",
-          "Recently, My Little Sister is Unusual",
-          "ImoCho",
-          "ImoCyo"
-        ],
-        "other_titles_en": [
-          "Recently, my sister is unusual."
-        ],
-        "other_titles_jp": [
-          "最近、妹のようすがちょっとおかしいんだが。"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2014,
-        "description": "Родители Юи и Мицуки женятся, теперь они сводные брат и сестра. В Мицуки вселяется призрак девушки, который насильно заставляет Мицуки помочь ей попасть в рай. А для этого она должна достать некую энергию, которую можно получить сближаясь со сводным братом.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/838854.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/13b1f5bd93cc1fca5bf9cc312f56bd0719a81afe.jpg",
-          "https://shikimori.one/system/screenshots/original/bc901e93392469eb2e245b29374ef9494ddf0ab9.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Романтика",
-          "Сверхъестественное",
-          "Сёнен",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Project No.9"
-        ],
-        "kinopoisk_rating": 6,
-        "kinopoisk_votes": 355,
-        "imdb_rating": 5.9,
-        "imdb_votes": 115,
-        "shikimori_rating": 6.29,
-        "shikimori_votes": 0,
-        "premiere_world": "2014-01-04",
-        "aired_at": "2014-01-04",
-        "released_at": "2014-03-23",
-        "rating_mpaa": "R+",
-        "minimal_age": 18,
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Тинами Хасимото",
-          "Хисако Канэмото",
-          "Дзюндзи Мадзима",
-          "Юи Огура"
-        ],
-        "directors": [
-          "Хироюки Хата"
-        ],
-        "producers": [
-          "Кодзи Хякутакэ",
-          "Юки Ивасита",
-          "Хироси Мацумото",
-          "Макото Накамура",
-          "Сёдзи Охара",
-          "Такэси Оикава",
-          "Сигэру Саито",
-          "Тэцуро Сатоми",
-          "Синсаку Танака",
-          "Хисато Усуи"
-        ],
-        "writers": [
-          "Мари Мацудзава"
-        ],
-        "composers": [
-          "Рёсукэ Наканиси"
-        ],
-        "editors": [
-          "Кэнтаро Цубонэ"
-        ],
-        "designers": [
-          "Хироко Танабэ"
-        ],
-        "operators": [
-          "Такэси Хироока"
-        ]
-      }
-    },
-    {
-      "id": "serial-13597",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Песнь тетивы: Секция стрельбы из лука",
-      "title_orig": "Tsurune: Kazemai Koukou Kyuudou Bu",
-      "other_title": "Цурунэ: Клуб стрельбы из лука школы Кадзэмай",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "1227493",
-      "imdb_id": "tt8994044",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9448",
-      "shikimori_id": "36653",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-12-09T10:43:03Z",
-      "updated_at": "2019-02-02T08:24:56Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/360304/b1431fd5e9a213559e860307153a3b94/720p",
-            "2": "//aniqit.com/seria/360305/f5b34032f72a250c0f4d687aeb410208/720p",
-            "3": "//aniqit.com/seria/360306/5cc8d68ee064096607b9eec79fd13a91/720p",
-            "4": "//aniqit.com/seria/360307/3df5acc288f3aea95a6fcb56c250d41d/720p",
-            "5": "//aniqit.com/seria/360308/5e960b44f89b9ac67310bdb6e1270e65/720p",
-            "6": "//aniqit.com/seria/360309/87962322cfc4d748b4ee344e71f357cb/720p",
-            "7": "//aniqit.com/seria/364267/1d19417a8b344ad81bf13ab136ba11ed/720p",
-            "8": "//aniqit.com/seria/364269/b30ad16db93b2a4a8a4bed8461a4f3a1/720p",
-            "9": "//aniqit.com/seria/366868/3221b7b107935ceeb1e0b051b3b31e2d/720p",
-            "10": "//aniqit.com/seria/368183/71030f97b20357fd744fbde9e83e0fed/720p",
-            "11": "//aniqit.com/seria/377800/b43d537c3d31147d84d8bd2543e2603d/720p",
-            "12": "//aniqit.com/seria/386872/1be4ae2d6955ab34d712ed5418618b5a/720p",
-            "13": "//aniqit.com/seria/386873/988ec0a307d00e517d098dc592ba980f/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Клуб стрельбы из лука",
-        "title_en": "Tsurune: Kazemai koukou kyuudoubu",
-        "other_titles": [
-          "Песнь тетивы: Секция стрельбы из лука старшей школы Кадзэмай",
-          "Цуруне: Клуб Кьюдо старшей школы Каземай"
-        ],
-        "other_titles_jp": [
-          "ツルネ ―風舞高校弓道部―"
-        ],
-        "anime_license_name": "Песнь тетивы: Секция кюдо старшей школы Кадзэмай",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2018,
-        "description": "Минато в средней школе состоял в клубе стрельбы из лука, но после одного происшествия ему пришлось оставить любимое увлечение. Поступив в старшую школу и встретив новых друзей, Минато решает вернуться к стрельбе и одержать победу на соревнованиях префектуры.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1227493.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/7817f640ed14cf6c42d23c0dc88a608a4fa6657b.png",
-          "https://shikimori.one/system/screenshots/original/5e0b3416d4579c03011ccd0fbe11136b6e33fe5a.png"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Спорт",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Kyoto Animation"
-        ],
-        "kinopoisk_rating": 7.1,
-        "kinopoisk_votes": 228,
-        "imdb_rating": 7.2,
-        "imdb_votes": 225,
-        "shikimori_rating": 7.58,
-        "shikimori_votes": 3321,
-        "premiere_world": "2018-10-22",
-        "aired_at": "2018-10-22",
-        "released_at": "2019-01-21",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 13,
-        "episodes_aired": 13,
-        "actors": [
-          "Сёго Яно",
-          "Юто Уэмура",
-          "Каито Исикава",
-          "Аои Итикава",
-          "Рёта Судзуки",
-          "Кэнсё Оно",
-          "Такума Тэрасима",
-          "Аяка Нанасэ",
-          "Кохэй Амасаки",
-          "Макото Ясумура"
-        ],
-        "directors": [
-          "Такуя Ямамура"
-        ],
-        "writers": [
-          "Митико Ёкотэ"
-        ],
-        "composers": [
-          "Харуми Фуки"
         ]
       }
     }

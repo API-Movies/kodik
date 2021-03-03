@@ -1,6 +1,768 @@
 {
   "results": [
     {
+      "id": "serial-20230",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Гора Знаков",
+      "title_orig": "Marks no Yama",
+      "translation": {
+        "id": 646,
+        "title": "XDUB Dorama",
+        "type": "voice"
+      },
+      "year": 2010,
+      "last_season": 1,
+      "last_episode": 5,
+      "episodes_count": 5,
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-12-14T17:28:33Z",
+      "updated_at": "2019-12-14T18:27:19Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/540522/28c5aefc4121e226fae60cd800e6e914/720p",
+            "2": "//kodik.cc/seria/540523/c8801556f5e0acb1c5cd0cd48a645578/720p",
+            "3": "//kodik.cc/seria/540524/fee8b2c11c535d4af2897b496817f2d8/720p",
+            "4": "//kodik.cc/seria/540593/b10b89dc71e6f9170c7559c97d062dbb/720p",
+            "5": "//kodik.cc/seria/540594/5fd3a90a51654ee2cc9ab43db531b4c4/720p"
+          }
+        }
+      }
+    },
+    {
+      "id": "serial-6323",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Хроники Пуфика",
+      "title_orig": "Poyopoyo Kansatsu Nikki",
+      "other_title": "Кот по имени Пойо",
+      "translation": {
+        "id": 767,
+        "title": "SHIZA Project",
+        "type": "voice"
+      },
+      "year": 2012,
+      "last_season": 1,
+      "last_episode": 52,
+      "episodes_count": 52,
+      "kinopoisk_id": "803377",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1979",
+      "shikimori_id": "12021",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-11-20T00:54:07Z",
+      "updated_at": "2019-12-14T18:19:23Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/169301/458b154911834d7c2e25cf3c008b8f19/720p",
+            "2": "//aniqit.com/seria/169302/853551f542d1634f48d8974cb77c3a6a/720p",
+            "3": "//aniqit.com/seria/169303/e046aa6b90e33bce84155fa01473b9a8/720p",
+            "4": "//aniqit.com/seria/169304/9fb4657d3e27e74f461e4eccdf68a904/720p",
+            "5": "//aniqit.com/seria/169305/3d6d0da283e8375fdab57df7fc378211/720p",
+            "6": "//aniqit.com/seria/169306/cae9fe1e50579689a24358c369d2eb82/720p",
+            "7": "//aniqit.com/seria/169307/93ffff0f545148222459cac67d0f8440/720p",
+            "8": "//aniqit.com/seria/169308/96df496863ab1ceee4973d042e4219fe/720p",
+            "9": "//aniqit.com/seria/169309/22ff3abf97ed8146b4b258f1f5c9f3fa/720p",
+            "10": "//aniqit.com/seria/169310/16f4b253fa26d3adbda5e3479e39ee90/720p",
+            "11": "//aniqit.com/seria/169311/4300a920a10ce508f7b6f51b8b52c091/720p",
+            "12": "//aniqit.com/seria/169312/1a15367de52f41660e61852d5d5378af/720p",
+            "13": "//aniqit.com/seria/169313/8b50554705b147ebc10edfb55820cc82/720p",
+            "14": "//aniqit.com/seria/169314/23f077c11f2b9cbfedb8d6a4adc2e55a/720p",
+            "15": "//aniqit.com/seria/169315/fe0f1e77bb4e20e832aca58d8ce78cb5/720p",
+            "16": "//aniqit.com/seria/169316/74195fa179511d541f7e751e47548193/720p",
+            "17": "//aniqit.com/seria/169317/57b4257f3ed80df3fa52771408694730/720p",
+            "18": "//aniqit.com/seria/169318/0d49fd1832d4e36a37f1e5035821fc7e/720p",
+            "19": "//aniqit.com/seria/169319/3d48789fbe4f3f0f58cef1c8e8dcf106/720p",
+            "20": "//aniqit.com/seria/169320/3b6901ff5b1fb0a0ee68907729277c44/720p",
+            "21": "//aniqit.com/seria/169321/84c98bc5f38c04b8bf21ebfce3c85978/720p",
+            "22": "//aniqit.com/seria/169322/e0e71e58bde69755b3b3dbb12a27218a/720p",
+            "23": "//aniqit.com/seria/169323/d6c102b71185b75846815215b71bd247/720p",
+            "24": "//aniqit.com/seria/169324/2b0342acd9112ecf81efd10db42b4f61/720p",
+            "25": "//aniqit.com/seria/169325/4e14febabdf492f49af9a6a607ef5e21/720p",
+            "26": "//aniqit.com/seria/169326/f3b293cbf3a052aa3df5137c3c179aeb/720p",
+            "27": "//aniqit.com/seria/169327/bd2c41c55864c80c13543145e33695ac/720p",
+            "28": "//aniqit.com/seria/169328/396302f73263366d46bed970863e9616/720p",
+            "29": "//aniqit.com/seria/169329/35efa2ea0c489fa02e03842cfacee8e5/720p",
+            "30": "//aniqit.com/seria/169330/b3aec8c2b3bbc31570219b3272dc6c7c/720p",
+            "31": "//aniqit.com/seria/169331/fa5afde9e2c8d8493ac60b5fddcbc12c/720p",
+            "32": "//aniqit.com/seria/169332/3fad32a65abc2ac77e2ffdd4ce742548/720p",
+            "33": "//aniqit.com/seria/169333/cd17f6fb71bbb274f485970966505e79/720p",
+            "34": "//aniqit.com/seria/169334/8e98d43ce9c96508ac09c30a91fd9a5d/720p",
+            "35": "//aniqit.com/seria/169335/16c9cc2141f97d53313a1dee71f23a46/720p",
+            "36": "//aniqit.com/seria/169336/5dca86a917a66a891f7e241b8424b756/720p",
+            "37": "//aniqit.com/seria/169337/30c5d123139762091388ff97c170e01d/720p",
+            "38": "//aniqit.com/seria/169338/e6274efc1cf26b819276a4db133a1068/720p",
+            "39": "//aniqit.com/seria/169339/2a671335b2a9cd5589f983318d549a98/720p",
+            "40": "//aniqit.com/seria/169340/7d1ccf287bdf8cdb4710d9d78f33bd72/720p",
+            "41": "//aniqit.com/seria/169341/4be63e9b0236c6ecc8519a9d77833ca3/720p",
+            "42": "//aniqit.com/seria/169342/c1a4c67c91261bae19c2850355c8861b/720p",
+            "43": "//aniqit.com/seria/169343/a3ec6a1fb6ebcddf5116c59bba5c3ee6/720p",
+            "44": "//aniqit.com/seria/169344/2d952f714b8983dae162c0468e5fa645/720p",
+            "45": "//aniqit.com/seria/169345/ae2505080996873db5d36b23466c5519/720p",
+            "46": "//aniqit.com/seria/169346/ce19aefaecbe7f2b9899dedea32200d2/720p",
+            "47": "//aniqit.com/seria/169347/d7f38e2214c49fbb8e32a409bee9d4b8/720p",
+            "48": "//aniqit.com/seria/169348/ab60eb0a16c654a71780f5f4bac0e71b/720p",
+            "49": "//aniqit.com/seria/169349/d172b4fe3733d46bc278bbe4b70e0243/720p",
+            "50": "//aniqit.com/seria/169350/def3eaecf4aa9e91150c405f45434b13/720p",
+            "51": "//aniqit.com/seria/169351/22cb2b871226c4daa33be65abab82be0/720p",
+            "52": "//aniqit.com/seria/169352/998bfbfb492144d88cc6711fd6c069d4/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Кот по имени Пойо",
+        "title_en": "Poyopoyo Kansatsu Nikki",
+        "other_titles_en": [
+          "Poyopoyo"
+        ],
+        "other_titles_jp": [
+          "ポヨポヨ観察日記"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2012,
+        "description": "Моэ Сато возвращалась домой с корпоративной гулянки и споткнулась о совершенно круглого кота, которого с пьяных глаз приняла за пуфик. Проснувшись утром, она поняла свою ошибку – но была очарована своей находкой с новой силой.\n\rКот оказался невероятно обаятелен, приветлив и мистически толст. Моэ притащила это сокровище домой, где Пуфик немедленно пленил папу и вызвал негодование у младшего брата. Двое (трое, считая с Пуфиком) против одного – так кот обрел новый дом, став полноправным членом семьи Сато.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/803377.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/dc283e7f6754b383030710e8655ad379e063d51b.jpg",
+          "https://shikimori.one/system/screenshots/original/6e5a28959a2ca10cb225d99953dd4a8fc6b8d85c.jpg"
+        ],
+        "duration": 3,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Повседневность",
+          "Сейнен"
+        ],
+        "anime_studios": [
+          "Studio Deen"
+        ],
+        "kinopoisk_rating": 7.6,
+        "kinopoisk_votes": 153,
+        "shikimori_rating": 7.69,
+        "shikimori_votes": 830,
+        "premiere_world": "2012-01-08",
+        "aired_at": "2012-01-08",
+        "released_at": "2012-12-30",
+        "rating_mpaa": "PG",
+        "episodes_total": 52,
+        "episodes_aired": 52,
+        "directors": [
+          "Акитаро Дайти"
+        ]
+      }
+    },
+    {
+      "id": "serial-20226",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Обезьяний разворот [ТВ-1]",
+      "title_orig": "Monkey Turn",
+      "other_title": "Обезьяний разворот ТВ-1 / Monkey Turn",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2004,
+      "last_season": 1,
+      "last_episode": 25,
+      "episodes_count": 25,
+      "imdb_id": "tt5009268",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4083",
+      "shikimori_id": "2740",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-12-14T15:23:59Z",
+      "updated_at": "2019-12-14T17:34:44Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/540447/864db515a765dc8923f03c9eec7cc77d/720p",
+            "2": "//aniqit.com/seria/540448/d9b0ed7e40f498c65d0841f6ebfbce8f/720p",
+            "3": "//aniqit.com/seria/540449/dbd6abfc876400068e96440f3460b89c/720p",
+            "4": "//aniqit.com/seria/540450/e46f8b8595a2a57bf18a4eaaea164976/720p",
+            "5": "//aniqit.com/seria/540451/9ebbb2a262cd671620ad27856e71c921/720p",
+            "6": "//aniqit.com/seria/540452/044068255ba184b4e9c21a18ea20650d/720p",
+            "7": "//aniqit.com/seria/540453/918b9a01cd92fbede6900ee6ed62a091/720p",
+            "8": "//aniqit.com/seria/540454/6a13087dc3a13f91c7d5066d9918024d/720p",
+            "9": "//aniqit.com/seria/540455/316af8d93e492b8b1b249e92914ac819/720p",
+            "10": "//aniqit.com/seria/540483/b50cfc4f72c9538de75dabc279770872/720p",
+            "11": "//aniqit.com/seria/540484/637e9314e099581cb0dccbaa6e473132/720p",
+            "12": "//aniqit.com/seria/540496/3005400d1d03fa393d04d012e1d2880e/720p",
+            "13": "//aniqit.com/seria/540497/49f823582cc8874f4bc6ff0fde243b65/720p",
+            "14": "//aniqit.com/seria/540498/a4eb1a16960490d6e56b351bbb0cdab3/720p",
+            "15": "//aniqit.com/seria/540499/2f4d28b77dda72ad14b46c5063a4a515/720p",
+            "16": "//aniqit.com/seria/540500/7afb06a5c1a6768fa3789a2701c7e9fe/720p",
+            "17": "//aniqit.com/seria/540501/a1aeeeb9f5e4bf1981be9d0edd0d610e/720p",
+            "18": "//aniqit.com/seria/540502/7178492d3687dcc99753e06229909786/720p",
+            "19": "//aniqit.com/seria/540503/adface4ddf7362a39fc72a90acc23e12/720p",
+            "20": "//aniqit.com/seria/540504/59456f160fd20dee81078682bbdbdd27/720p",
+            "21": "//aniqit.com/seria/540505/ccb857f49182617378632438c205935f/720p",
+            "22": "//aniqit.com/seria/540506/3e98d8b59777f9788a0ae7046af0a029/720p",
+            "23": "//aniqit.com/seria/540534/504bd3067d0e3e7c6199f105474b3e71/720p",
+            "24": "//aniqit.com/seria/540535/97d01cd341585553d54abb86990f1cfb/720p",
+            "25": "//aniqit.com/seria/540536/31bf52ba69b7bf090ef6f9a6fe2f2c6b/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Выворот",
+        "title_en": "Monkey Turn",
+        "other_titles": [
+          "Обезьяний разворот",
+          "I'll Be Number 1!"
+        ],
+        "other_titles_jp": [
+          "モンキーターン"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "description": "Главный герой аниме, Кэндзи Хатано, слишком мал для того, чтобы осуществить свою мечту стать профессиональным игроком в бейсбол, но его тренер по бейсболу рекомендует ему заняться греблей. Однажды Кэндзи неожиданно встречает свою давнюю подругу, и они дают друг другу обещания: она будет верна ему, а он станет лучшим гонщиком Японии в течение трёх лет.",
+        "poster_url": "https://shikimori.one/system/animes/original/2740.jpg",
+        "anime_genres": [
+          "Драма",
+          "Спорт",
+          "Сёнен",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "OLM"
+        ],
+        "shikimori_rating": 6.32,
+        "shikimori_votes": 25,
+        "aired_at": "2004-01-11",
+        "released_at": "2004-06-27",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 25,
+        "episodes_aired": 0
+      }
+    },
+    {
+      "id": "serial-17390",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Доктор Стоун [ТВ-1]",
+      "title_orig": "Dr. Stone",
+      "other_title": "Dokutaa Sutoon",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 24,
+      "kinopoisk_id": "1249511",
+      "imdb_id": "tt9679542",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9879",
+      "shikimori_id": "38691",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-07-06T17:11:04Z",
+      "updated_at": "2019-12-14T17:00:41Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/454607/0e87203b5aaf074040e4d93482ec1e63/720p",
+            "2": "//aniqit.com/seria/457523/3956d623be26fcb2f7005a6b1ab032b3/720p",
+            "3": "//aniqit.com/seria/460428/366bfe5e79e958dafecca2dd8d3bec76/720p",
+            "4": "//aniqit.com/seria/463909/a74fb732280c8ca0db87d1b5baa4fc32/720p",
+            "5": "//aniqit.com/seria/467238/b239f7a679e0cae9a9ce8e870b9762ca/720p",
+            "6": "//aniqit.com/seria/470357/57bfd2a59a7aa2fa6e0a37c279b17bd4/720p",
+            "7": "//aniqit.com/seria/473048/fbcbce5e956b88ad00bb6ca9f26ed15c/720p",
+            "8": "//aniqit.com/seria/476303/9dd1080660c7f72ea9485efd5b214e77/720p",
+            "9": "//aniqit.com/seria/479577/b1d608174109ec7a94416acd570df5ee/720p",
+            "10": "//aniqit.com/seria/481422/e3dfb21b2c32ac0ede4ed8b15ea7ee32/720p",
+            "11": "//aniqit.com/seria/484826/88ac9f7cb5796c06f9f8bbca5a81d6d5/720p",
+            "12": "//aniqit.com/seria/487434/2757b553d9f19dacee0dd30f4b3f9d9b/720p",
+            "13": "//aniqit.com/seria/490522/0f581ea2007d5f185ebe2367eb03c54e/720p",
+            "14": "//aniqit.com/seria/494632/c39bc99b60650cfdd3beaf01e20911ce/720p",
+            "15": "//aniqit.com/seria/502986/e79d222981e0f201c2799cffda4b6500/720p",
+            "16": "//aniqit.com/seria/502987/3f2a252a332e6877e7e8046a5c4ecc66/720p",
+            "17": "//aniqit.com/seria/516014/b8e2f1c100d27aa90580207abfd3f150/720p",
+            "18": "//aniqit.com/seria/519798/a76b08b201f96241e0c8236b49c54770/720p",
+            "19": "//aniqit.com/seria/523059/5d69b35def9897707f75b2c47a66c23b/720p",
+            "20": "//aniqit.com/seria/525911/2228ffcb2dbe43dabb363df490897fea/720p",
+            "21": "//aniqit.com/seria/528562/7ece59ff388adb2b53601cedd45ac014/720p",
+            "22": "//aniqit.com/seria/533137/b8d5222f1f8b8b250c276ad0c6492073/720p",
+            "23": "//aniqit.com/seria/537641/4b36b326e8f51842d15ba41f26218b19/720p",
+            "24": "//aniqit.com/seria/540521/b1dc6f1340c966f0d4027647d21b6c84/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Доктор Стоун",
+        "title_en": "Dr. Stone",
+        "other_titles_en": [
+          "Dr. Stone"
+        ],
+        "other_titles_jp": [
+          "ドクターストーン"
+        ],
+        "anime_license_name": "Доктор Стоун",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "В один роковой день всё человечество превратилось в камень. Много тысячелетий спустя старшеклассник Тайдзю освобождается от окаменения и оказывается в окружении статуй. Однако он не одинок: его другу Сэнку также удалось сбросить каменную оболочку, и теперь, используя научные знания, они начинают восстанавливать былую цивилизацию.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1249511.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/117fae36204e3fb2f123bf12444d232775c0efbd.jpg",
+          "https://shikimori.one/system/screenshots/original/0e5ad952aefbfa206de583af120da8e1275daf39.jpg"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Приключения",
+          "Сёнен",
+          "Фантастика"
+        ],
+        "anime_studios": [
+          "TMS Entertainment"
+        ],
+        "kinopoisk_rating": 8,
+        "kinopoisk_votes": 11235,
+        "imdb_rating": 8.2,
+        "imdb_votes": 9678,
+        "shikimori_rating": 8.34,
+        "shikimori_votes": 31998,
+        "premiere_world": "2019-07-05",
+        "aired_at": "2019-07-05",
+        "released_at": "2019-12-13",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 16,
+        "episodes_total": 24,
+        "episodes_aired": 24,
+        "actors": [
+          "Юсукэ Кобаяси",
+          "Кана Итиносэ",
+          "Юити Накамура",
+          "Макото Фурукава"
+        ],
+        "directors": [
+          "Синъя Иино"
+        ],
+        "writers": [
+          "Юитиро Кидо",
+          "Риитиро Инагаки"
+        ],
+        "composers": [
+          "Тацуя Като"
+        ],
+        "editors": [
+          "Кумико Сакамото"
+        ]
+      }
+    },
+    {
+      "id": "serial-20229",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Театр тьмы [ТВ-7]",
+      "title_orig": "Yami shibai",
+      "other_title": "Театр тьмы 7 / Yamishibai: Japanese Ghost Stories 7",
+      "translation": {
+        "id": 767,
+        "title": "SHIZA Project",
+        "type": "voice"
+      },
+      "year": 2013,
+      "last_season": 7,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "803225",
+      "imdb_id": "tt3111906",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10099",
+      "shikimori_id": "39836",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-12-14T16:59:12Z",
+      "updated_at": "2019-12-14T16:59:50Z",
+      "seasons": {
+        "7": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/540507/2e2d9e51c2c4239afd2e1d2629fe7d18/720p",
+            "2": "//aniqit.com/seria/540508/5f42bd1ae66c1795fbd0b66687240848/720p",
+            "3": "//aniqit.com/seria/540509/79a6bdb88e736b639416f10275154c3b/720p",
+            "4": "//aniqit.com/seria/540510/b113144748e0d690c57344f5ed1a07ea/720p",
+            "5": "//aniqit.com/seria/540511/e22adf0f4cf93063f10bf3a77a58615f/720p",
+            "6": "//aniqit.com/seria/540512/59e250315c962ca6346236d6a84f1538/720p",
+            "7": "//aniqit.com/seria/540513/c4694bd6a9741269ef9c050611bf362c/720p",
+            "8": "//aniqit.com/seria/540514/a6a321f2612fbfae66f3d28d2b8da073/720p",
+            "9": "//aniqit.com/seria/540515/e89b2d6f75cc5ba2c9729ba8ba6fb1fc/720p",
+            "10": "//aniqit.com/seria/540516/e3db297d1ee6268b73eb7d332f98aef9/720p",
+            "11": "//aniqit.com/seria/540517/39b4cea5274af4bf85381ebb192ebf6f/720p",
+            "12": "//aniqit.com/seria/540518/46ca20c4a92cd2e768e4bf5cd4ee3047/720p",
+            "13": "//aniqit.com/seria/540519/800318dced63167947ac1fcdb81dbc5c/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Театр тьмы",
+        "title_en": "Yami shibai",
+        "other_titles": [
+          "Yamishibai: Japanese Ghost Stories Seventh Season",
+          "Theater of Darkness 7th Season"
+        ],
+        "other_titles_en": [
+          "Yamishibai: Japanese Ghost Stories 7"
+        ],
+        "other_titles_jp": [
+          "闇芝居 7期"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2013,
+        "description": "Театр тьмы - это собрание коротких японских ужастиков, основанных на слухах и городских легендах жителей Японии.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/803225.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/3bd559c00649eaa64bafb4499ea683fe2de7a010.png",
+          "https://shikimori.one/system/screenshots/original/8874500a148c4cb904c8d4808853f331eec2dd51.png"
+        ],
+        "duration": 5,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "ужасы"
+        ],
+        "anime_genres": [
+          "Безумие",
+          "Сверхъестественное",
+          "Ужасы"
+        ],
+        "anime_studios": [
+          "ILCA"
+        ],
+        "kinopoisk_rating": 7.1,
+        "kinopoisk_votes": 1346,
+        "imdb_rating": 7.1,
+        "imdb_votes": 545,
+        "shikimori_rating": 5.93,
+        "shikimori_votes": 602,
+        "premiere_world": "2013-07-15",
+        "aired_at": "2019-07-08",
+        "released_at": "2019-09-30",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 13,
+        "episodes_aired": 13,
+        "actors": [
+          "Кандзи Цуда",
+          "Sara",
+          "Сёитиро Масумото",
+          "Рёта Мураи",
+          "Саваки Акимото",
+          "Кэисукэ Уэда",
+          "Рё Хирано",
+          "Аяка Ониси",
+          "Риса Аидзава",
+          "Тосихико Танака"
+        ],
+        "directors": [
+          "Томоя Такасима"
+        ],
+        "producers": [
+          "Toshio Akashi",
+          "Нобуюки Хосоя",
+          "Такуя Ивасаки",
+          "Такахиса Кубота",
+          "Shôko Kunisada",
+          "Aiko Okamoto",
+          "Токухеи Янагава"
+        ],
+        "writers": [
+          "Хиротакэ Кумамото"
+        ]
+      }
+    },
+    {
+      "id": "serial-17704",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Театр тьмы [ТВ-7]",
+      "title_orig": "Yami Shibai 7",
+      "other_title": "Театр тьмы 7 / Yamishibai: Japanese Ghost Stories 7",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 7,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "803225",
+      "imdb_id": "tt3111906",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10099",
+      "shikimori_id": "39836",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-07-22T13:53:23Z",
+      "updated_at": "2019-12-14T16:59:45Z",
+      "seasons": {
+        "7": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/461102/c53cc10ab7d7b87dce6ea00c44b30c0e/720p",
+            "2": "//aniqit.com/seria/464060/ffa329c3598e15eebf675bf17b3ebadd/720p",
+            "3": "//aniqit.com/seria/466154/7c951b69a6526426fce79e4b9213e94a/720p",
+            "4": "//aniqit.com/seria/466155/2722cec3556fbd66a570d99b82e3fd47/720p",
+            "5": "//aniqit.com/seria/468629/697846500458dcbe41ab990f7c1495c0/720p",
+            "6": "//aniqit.com/seria/471676/ba94be20ca66604442ac4ff242a092be/720p",
+            "7": "//aniqit.com/seria/478887/01348e960598bfeeee2a91826e6d9152/720p",
+            "8": "//aniqit.com/seria/478888/77fc49d75c6d004cedc6ca8572279980/720p",
+            "9": "//aniqit.com/seria/485622/ed39d822a494cdaa4547032bcefe6861/720p",
+            "10": "//aniqit.com/seria/485623/0d593ad252d44a72509ea55191e0c76f/720p",
+            "11": "//aniqit.com/seria/490167/42c0a24230a12cf2e95e329acafe6580/720p",
+            "12": "//aniqit.com/seria/490168/2746fc8a1aec83c6189ca160efbfb4c8/720p",
+            "13": "//aniqit.com/seria/492991/8f4e6550208261bebfd4ed96060061b8/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Театр тьмы",
+        "title_en": "Yami shibai",
+        "other_titles": [
+          "Yamishibai: Japanese Ghost Stories Seventh Season",
+          "Theater of Darkness 7th Season"
+        ],
+        "other_titles_en": [
+          "Yamishibai: Japanese Ghost Stories 7"
+        ],
+        "other_titles_jp": [
+          "闇芝居 7期"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2013,
+        "description": "Театр тьмы - это собрание коротких японских ужастиков, основанных на слухах и городских легендах жителей Японии.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/803225.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/3bd559c00649eaa64bafb4499ea683fe2de7a010.png",
+          "https://shikimori.one/system/screenshots/original/8874500a148c4cb904c8d4808853f331eec2dd51.png"
+        ],
+        "duration": 5,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "ужасы"
+        ],
+        "anime_genres": [
+          "Безумие",
+          "Сверхъестественное",
+          "Ужасы"
+        ],
+        "anime_studios": [
+          "ILCA"
+        ],
+        "kinopoisk_rating": 7.1,
+        "kinopoisk_votes": 1346,
+        "imdb_rating": 7.1,
+        "imdb_votes": 545,
+        "shikimori_rating": 5.93,
+        "shikimori_votes": 602,
+        "premiere_world": "2013-07-15",
+        "aired_at": "2019-07-08",
+        "released_at": "2019-09-30",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 13,
+        "episodes_aired": 13,
+        "actors": [
+          "Кандзи Цуда",
+          "Sara",
+          "Сёитиро Масумото",
+          "Рёта Мураи",
+          "Саваки Акимото",
+          "Кэисукэ Уэда",
+          "Рё Хирано",
+          "Аяка Ониси",
+          "Риса Аидзава",
+          "Тосихико Танака"
+        ],
+        "directors": [
+          "Томоя Такасима"
+        ],
+        "producers": [
+          "Toshio Akashi",
+          "Нобуюки Хосоя",
+          "Такуя Ивасаки",
+          "Такахиса Кубота",
+          "Shôko Kunisada",
+          "Aiko Okamoto",
+          "Токухеи Янагава"
+        ],
+        "writers": [
+          "Хиротакэ Кумамото"
+        ]
+      }
+    },
+    {
+      "id": "serial-17703",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Театр тьмы [ТВ-6]",
+      "title_orig": "Yami Shibai 6",
+      "other_title": "Театр тьмы 6 / Yamishibai: Japanese Ghost Stories 6",
+      "translation": {
+        "id": 767,
+        "title": "SHIZA Project",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 6,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "803225",
+      "imdb_id": "tt3111906",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9697",
+      "shikimori_id": "37893",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-07-22T13:53:22Z",
+      "updated_at": "2019-12-14T16:53:53Z",
+      "seasons": {
+        "6": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/461089/f82a797d6e2d818260901b6926dd1d91/720p",
+            "2": "//aniqit.com/seria/461090/a55120af889d5636c4be14a94c3bcd88/720p",
+            "3": "//aniqit.com/seria/461091/a680d34ad0cec13b1869949a0e45242c/720p",
+            "4": "//aniqit.com/seria/461092/d8266e8e07bd11dc85df162b4c2dd77c/720p",
+            "5": "//aniqit.com/seria/461093/1b5328e7fa5669af0ddca07c2fcf70b0/720p",
+            "6": "//aniqit.com/seria/461094/cd679cdead6f2e980ce9325c6c92efe9/720p",
+            "7": "//aniqit.com/seria/461095/935dec8578355c2fa90f7946d2edee78/720p",
+            "8": "//aniqit.com/seria/461096/1ed3ac9c55fec76b52e9c398fc9b14a7/720p",
+            "9": "//aniqit.com/seria/461097/a78caf801da96236576417c3755d72b8/720p",
+            "10": "//aniqit.com/seria/461098/c90ba643602c162ea6a0656fd5a20c9a/720p",
+            "11": "//aniqit.com/seria/461099/06f16b589e1efc4083afa816cdf9a5e5/720p",
+            "12": "//aniqit.com/seria/461100/186ffb29e0574b30ad106db7c2b4ff30/720p",
+            "13": "//aniqit.com/seria/461101/e095795d8e5a9cb3953b0a27f53f61b4/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Театр тьмы",
+        "title_en": "Yami shibai",
+        "other_titles": [
+          "Yamishibai: Japanese Ghost Stories Sixth Season",
+          "Theater of Darkness 6th Season"
+        ],
+        "other_titles_en": [
+          "Yamishibai: Japanese Ghost Stories 6"
+        ],
+        "other_titles_jp": [
+          "闇芝居 6期"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2013,
+        "description": "Театр тьмы - это собрание коротких японских ужастиков, основанных на слухах и городских легендах жителей Японии.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/803225.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/b66140296c8b21f78d94107f5571f3432e2fc77d.png",
+          "https://shikimori.one/system/screenshots/original/d224ed5320ef8ce312e2b9b48744496bf380564e.png"
+        ],
+        "duration": 5,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "ужасы"
+        ],
+        "anime_genres": [
+          "Безумие",
+          "Сверхъестественное",
+          "Ужасы"
+        ],
+        "anime_studios": [
+          "ILCA"
+        ],
+        "kinopoisk_rating": 7.1,
+        "kinopoisk_votes": 1346,
+        "imdb_rating": 7.1,
+        "imdb_votes": 545,
+        "shikimori_rating": 6.15,
+        "shikimori_votes": 887,
+        "premiere_world": "2013-07-15",
+        "aired_at": "2018-07-07",
+        "released_at": "2018-09-29",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 13,
+        "episodes_aired": 13,
+        "actors": [
+          "Кандзи Цуда",
+          "Sara",
+          "Сёитиро Масумото",
+          "Рёта Мураи",
+          "Саваки Акимото",
+          "Кэисукэ Уэда",
+          "Рё Хирано",
+          "Аяка Ониси",
+          "Риса Аидзава",
+          "Тосихико Танака"
+        ],
+        "directors": [
+          "Томоя Такасима"
+        ],
+        "producers": [
+          "Toshio Akashi",
+          "Нобуюки Хосоя",
+          "Такуя Ивасаки",
+          "Такахиса Кубота",
+          "Shôko Kunisada",
+          "Aiko Okamoto",
+          "Токухеи Янагава"
+        ],
+        "writers": [
+          "Хиротакэ Кумамото"
+        ]
+      }
+    },
+    {
       "id": "serial-17702",
       "type": "anime-serial",
       "link": "",
@@ -7540,11 +8302,11 @@
         "imdb_rating": 5.4,
         "imdb_votes": 57,
         "shikimori_rating": 5.58,
-        "shikimori_votes": 1720,
+        "shikimori_votes": 1759,
         "premiere_world": "2018-04-04",
         "aired_at": "2018-04-04",
         "released_at": "2018-06-20",
-        "rating_mpaa": "R+",
+        "rating_mpaa": "PG-13",
         "minimal_age": 18,
         "episodes_total": 12,
         "episodes_aired": 12,
@@ -11136,666 +11898,6 @@
         ],
         "operators": [
           "Рин Ямамото"
-        ]
-      }
-    },
-    {
-      "id": "movie-7612",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Похищение",
-      "title_orig": "Bou ying",
-      "translation": {
-        "id": 598,
-        "title": "Сербин",
-        "type": "voice"
-      },
-      "year": 2011,
-      "kinopoisk_id": "503608",
-      "imdb_id": "tt1604670",
-      "quality": "BDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-10-05T18:33:47Z",
-      "updated_at": "2019-12-13T22:12:36Z",
-      "material_data": {
-        "title": "Похищение",
-        "title_en": "Bou ying",
-        "year": 2011,
-        "tagline": "First the ransom. Then the payback.",
-        "description": "Вонг Хо-чиу благополучен и богат до тех пор, пока не наступает время решать конфликт с дочерью Дейзи. Она претендует на самостоятельную жизнь, где присутствуют пьянки, наркотики и другие развлечения «золотой» молодежи. Дейзи похищают. И ситуация резко меняется. Что может сделать отец, чтобы вернуть дочь живой?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/503608.jpg",
-        "duration": 94,
-        "countries": [
-          "Гонконг"
-        ],
-        "genres": [
-          "криминал",
-          "триллер"
-        ],
-        "kinopoisk_rating": 6.5,
-        "kinopoisk_votes": 180,
-        "imdb_rating": 5.9,
-        "imdb_votes": 694,
-        "premiere_world": "2011-04-04",
-        "actors": [
-          "Энтони Вон",
-          "Ричи Рен",
-          "Дженис Мань",
-          "Мэгги Чхён",
-          "Кэнди Ло",
-          "Lei Lam",
-          "Джун Кхун",
-          "Чарли Чо",
-          "Алан Чун",
-          "Елена Кон"
-        ],
-        "directors": [
-          "Лау Вин-Чун"
-        ],
-        "producers": [
-          "Джонни То",
-          "Джон Чон",
-          "Илэйн Чу",
-          "Ширли Лау"
-        ],
-        "writers": [
-          "Эндрю Фун",
-          "Фан Лам"
-        ],
-        "composers": [
-          "Дэйв Клотц",
-          "Гай Зерафа"
-        ],
-        "editors": [
-          "Курран Пан",
-          "Дэвид М. Ричардсон"
-        ],
-        "designers": [
-          "Рэймонд Чан",
-          "Стивен Цан"
-        ],
-        "operators": [
-          "Ко Чиу-Лам"
-        ]
-      }
-    },
-    {
-      "id": "serial-11405",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Врата Штейна: Великая мудрость когнитивного компьютера",
-      "title_orig": "Steins;Gate: Soumei Eichi no Cognitive Computing ONA",
-      "other_title": "Steins;Gate 聡明叡智のコグニティブコンピューティング",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 4,
-      "episodes_count": 4,
-      "kinopoisk_id": "880691",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5285",
-      "shikimori_id": "27957",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-07-09T20:24:30Z",
-      "updated_at": "2019-12-13T22:09:22Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/306667/f4fbe3cfa24ea860511b195adc846f44/720p",
-            "2": "//aniqit.com/seria/306668/d60e0001839e38e6d6f607b5c131fe80/720p",
-            "3": "//aniqit.com/seria/306669/0f030e67e019b25216dde396f1a7326f/720p",
-            "4": "//aniqit.com/seria/306670/18f64430bf16212a3c83db98868ba333/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Врата Штейна: Великая мудрость когнитивного компьютера",
-        "title_en": "Steins;Gate: Soumei Eichi no Cognitive Computing",
-        "other_titles": [
-          "Steins;Gate - The Sagacious Wisdom of Cognitive Computing"
-        ],
-        "other_titles_jp": [
-          "Steins;Gate 聡明叡智のコグニティブ・コンピューティング"
-        ],
-        "anime_kind": "ona",
-        "anime_status": "released",
-        "year": 2014,
-        "description": "ONA, созданные при сотрудничестве с IBM.\r\n\r\nЭпизод 1. Кулинария\r\nЭпизод 2. Навигация\r\nЭпизод 3. Мода\r\nЭпизод 4. Собрание",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/880691.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/d7e23e67d46d86d0ecff5bb08c521cb044598be0.png",
-          "https://shikimori.one/system/screenshots/original/2ae9126821a4b2746a527eedee734d98c85bbdb1.png"
-        ],
-        "duration": 4,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность"
-        ],
-        "anime_studios": [
-          "White Fox"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 610,
-        "imdb_rating": 7.1,
-        "imdb_votes": 267,
-        "shikimori_rating": 7.42,
-        "shikimori_votes": 7580,
-        "premiere_world": "2014-10-14",
-        "aired_at": "2014-10-15",
-        "released_at": "2014-11-12",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 4,
-        "episodes_aired": 3,
-        "actors": [
-          "Кана Ханадзава",
-          "Асами Имаи",
-          "Мамору Мияно",
-          "Томокадзу Сэки",
-          "Аяно Ямамото"
-        ],
-        "directors": [
-          "Кэнъитиро Муракава"
-        ],
-        "writers": [
-          "Наотака Хаяси"
-        ]
-      }
-    },
-    {
-      "id": "movie-46255",
-      "type": "anime",
-      "link": "",
-      "title": "Упавшая с небес: Ангелоид времени",
-      "title_orig": "Gekijouban Sora no otoshimono: Tokei jikake no enjeroido",
-      "other_title": "Утраченное небесами (фильм первый) / Падшая С Небес Ангел Прихоти: Ангелоид Времени",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2011,
-      "kinopoisk_id": "612858",
-      "imdb_id": "tt1974262",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=791",
-      "shikimori_id": "9790",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-12-13T22:07:21Z",
-      "updated_at": "2019-12-13T22:07:36Z",
-      "material_data": {
-        "title": "Упавшая с небес: Ангелоид времени",
-        "title_en": "Gekijouban Sora no otoshimono: Tokei jikake no enjeroido",
-        "other_titles": [
-          "Gekijouban Sora no Otoshimono: Tokeijikake no Angeloid",
-          "Sora no Otoshimono: The Movie",
-          "Lost Property of the Sky Movie",
-          "Misplaced by Heaven"
-        ],
-        "other_titles_en": [
-          "Heaven's Lost Property the Movie: The Angeloid of Clockwork"
-        ],
-        "other_titles_jp": [
-          "劇場版 そらのおとしもの 時計じかけの哀女神（エンジェロイド）"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2011,
-        "description": "Сакурай Томоки отправляется в путешествие на горячие источники, где продолжает предаваться своим извращённым забавам. Вдобавок, ему предстоит получить его первое признание в любви. Однако желанию Томоки прожить жизнь мирно и обыденно угрожает появление очередного ангелоида. В сравнении с прошлыми экземплярами, этот новый ангелоид типа Зета не в пример сильнее.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/612858.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/280c5a82542996a4cf52d44468677a7a29fed314.jpg",
-          "https://shikimori.one/system/screenshots/original/bc5bc4d929e1bea9a6b93487968b0ca57cfc51e1.jpg"
-        ],
-        "duration": 97,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Драма",
-          "Комедия",
-          "Романтика",
-          "Сверхъестественное",
-          "Сёнен",
-          "Фантастика",
-          "Этти"
-        ],
-        "anime_studios": [
-          "AIC ASTA"
-        ],
-        "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 347,
-        "imdb_rating": 7.1,
-        "imdb_votes": 468,
-        "shikimori_rating": 7.63,
-        "shikimori_votes": 4851,
-        "premiere_world": "2011-06-25",
-        "aired_at": "2011-06-25",
-        "rating_mpaa": "R",
-        "minimal_age": 18,
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Саори Хаями",
-          "Соитиро Хоси",
-          "Мина",
-          "Трина Нисимура",
-          "Грег Эирс",
-          "Кара Эдвардс",
-          "Бриттни Карбовски",
-          "Джейми Марчи",
-          "Моника Риал",
-          "Эрик Вейл"
-        ],
-        "directors": [
-          "Тэцуя Янагисава"
-        ],
-        "writers": [
-          "Юко Какихара"
-        ],
-        "composers": [
-          "Мотёси Ивасаки"
-        ],
-        "editors": [
-          "Такаси Сакураи"
-        ],
-        "designers": [
-          "Хироси Гороку",
-          "Хиромаса Огура"
-        ],
-        "operators": [
-          "Нанаэ Хирабаяси",
-          "Хидэки Имаидзуми"
-        ]
-      }
-    },
-    {
-      "id": "serial-8037",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Голубая мечта Грана [ТВ-1]",
-      "title_orig": "Granblue Fantasy The Animation",
-      "other_title": "Повесть о Небесных островах / Фантазия Гранблю",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "1145794",
-      "imdb_id": "tt6138612",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8486",
-      "shikimori_id": "31629",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-31T04:44:04Z",
-      "updated_at": "2019-12-13T22:06:22Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/209521/c0a45d215d265f6cde73a83cbc4863d5/720p",
-            "2": "//aniqit.com/seria/209522/268f1b135341cb688d5d601352cecf0e/720p",
-            "3": "//aniqit.com/seria/209523/3b042aed48a15e9fa1fd7c5f463c99fa/720p",
-            "4": "//aniqit.com/seria/209524/0b19b2c8eeb77a002942f3047f0e6427/720p",
-            "5": "//aniqit.com/seria/209525/90e9b10e9847c3442fac5d8d81743ca4/720p",
-            "6": "//aniqit.com/seria/209526/af24ec5ba45c054cfd528967d054d967/720p",
-            "7": "//aniqit.com/seria/209527/28d313befb53a9062120a2169f0d485b/720p",
-            "8": "//aniqit.com/seria/209528/a8a6f24a3053806876fdaf7b12087f28/720p",
-            "9": "//aniqit.com/seria/209529/abb2edeefdf4e77010216a11f9adc57e/720p",
-            "10": "//aniqit.com/seria/209530/4c726f5804702453bbd3d6894598d967/720p",
-            "11": "//aniqit.com/seria/209531/c6449c5b0861364fc601b6f329966bd1/720p",
-            "12": "//aniqit.com/seria/209532/6e069fdeb3a0aecabb68768f14638049/720p",
-            "13": "//aniqit.com/seria/209533/afcf8a753b9188ee5eb16224a2902e0e/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Фантазия Гранблю",
-        "title_en": "Granblue Fantasy: The Animation",
-        "other_titles": [
-          "Повесть о небесных островах"
-        ],
-        "other_titles_jp": [
-          "GRANBLUE FANTASY The Animation"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2017,
-        "description": "В мире, где в небе дрейфуют острова, живут юный Гран и говорящая крылатая ящерица Вирн. Однажды они встречают Лирию, сбежавшую от военного правительства. Чтобы спастись от преследования, Гран и Лирия отправляются в бескрайнее небо на поиски отца Грана, обещавшего ждать сына на острове звезд Эсталусии.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1145794.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/2130b544904f8e1ecb5a6619b54c59b645032f11.jpg",
-          "https://shikimori.one/system/screenshots/original/2235d3b00f6e38a217e1d4febdc89895b2e2d472.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Приключения",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "A-1 Pictures"
-        ],
-        "imdb_rating": 6.4,
-        "imdb_votes": 274,
-        "shikimori_rating": 6.71,
-        "shikimori_votes": 3969,
-        "premiere_world": "2017-04-02",
-        "aired_at": "2017-04-02",
-        "released_at": "2017-06-25",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 13,
-        "episodes_aired": 13,
-        "actors": [
-          "Миюки Савасиро",
-          "Юкари Тамура",
-          "Юки Оно",
-          "Нао Тояма",
-          "Хирата Хироаки",
-          "Риэ Кугимия"
-        ],
-        "directors": [
-          "Юки Ито"
-        ],
-        "writers": [
-          "Майкл МакКоннохи"
-        ],
-        "operators": [
-          "Ёсихиро Сэкия"
-        ]
-      }
-    },
-    {
-      "id": "serial-7952",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Демон-дворецкий OVA",
-      "title_orig": "Kuroshitsuji: Book of Murder",
-      "other_title": "Тёмный дворецкий: Глава об убийстве / Темный дворецкий: Книга убийства",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2294",
-      "shikimori_id": "23317",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-29T12:41:52Z",
-      "updated_at": "2019-12-13T22:03:58Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/207847/6d0a03e93013b5ee34cbdc8cd6f1c4f7/720p",
-            "2": "//aniqit.com/seria/207848/5aee3d18e69f669595b32d601ea2735c/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Тёмный дворецкий: Глава об убийстве",
-        "title_en": "Kuroshitsuji: Book of Murder",
-        "other_titles": [
-          "Тёмный дворецкий: Книга убийства"
-        ],
-        "other_titles_en": [
-          "Black Butler: Book of Murder"
-        ],
-        "other_titles_jp": [
-          "黒執事 Book of Murder"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "description": "В начале весны 1889 года, в честь Королевского мандата, известный граф Сиэль Фантомхайв принимает роскошный банкет с участием нескольких непревзойденных членов высшего общества, а также изо всех сил добивающегося признания писателя, сэра Артура Конан Дойла . Однако в самый разгар званого обеда происходит ужасающее убийство, в котором подозревают никого иного, как самого Графа ! Непреодолимая буря продолжает бушевать вне усадьбы. Счет убитых увеличивается. Становится очевидно, что спастись просто так не получится. Слуги Фантомхайва и именитые гости должны вместе стремиться разрешить тайну, прежде чем их также настигнет погибель. К сожалению, даже неуязвимый дворецкий Себастьян Михаэлис не застрахован от смертельной участи.",
-        "poster_url": "https://shikimori.one/system/animes/original/23317.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/f872ba9e0233d98af2e240142609ad54e35a1b68.jpg",
-          "https://shikimori.one/system/screenshots/original/92cbe8ab8db03702faa2ca68bd8cbb32e8e2b48b.jpg"
-        ],
-        "anime_genres": [
-          "Демоны",
-          "Детектив",
-          "Исторический",
-          "Комедия",
-          "Сверхъестественное",
-          "Сёнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "A-1 Pictures"
-        ],
-        "shikimori_rating": 8.14,
-        "shikimori_votes": 10346,
-        "aired_at": "2015-01-28",
-        "released_at": "2015-02-25",
-        "rating_mpaa": "R",
-        "episodes_total": 2,
-        "episodes_aired": 0
-      }
-    },
-    {
-      "id": "serial-18884",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Королева Эмеральда",
-      "title_orig": "Queen Emeraldas",
-      "other_title": "クイーンエメラルダス OVA",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 1998,
-      "last_season": 1,
-      "last_episode": 4,
-      "episodes_count": 4,
-      "kinopoisk_id": "335185",
-      "imdb_id": "tt0184844",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=252",
-      "shikimori_id": "1553",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-10-05T12:44:15Z",
-      "updated_at": "2019-12-13T22:02:48Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/493833/a492a9d0465d34d7f89810098a470f91/720p",
-            "2": "//aniqit.com/seria/493834/2647146d2189aa3951dabe71a73bcf17/720p",
-            "3": "//aniqit.com/seria/493835/8fd44ae75f4da5907835c5309ea361fe/720p",
-            "4": "//aniqit.com/seria/493836/0deceabfc17062383e12c50f67531c6a/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Королева Эмеральда",
-        "title_en": "Queen Emeraldas",
-        "other_titles_jp": [
-          "クィーン・エメラルダス"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 1998,
-        "description": "Действие происходит в далёком будущем, когда человечество расселилось по всем уголкам Вселенной и межгалактические перелёты стали реальностью. Хироси Умино — молодой парень, мечтающий обзавестись своим собственным кораблём и отправиться бороздить просторы космоса.\r\nЦелеустремлённый Хироси отправляется на планету Дайбаран, так как слышал, что его кумир Тотиро Ояма когда-то построил из находящихся там энергетических кристаллов настоящий линкор. На Дайбаране Хироси встречает Эмеральду , известную во Вселенной женщину-пирата, по неизвестным причинам в одиночестве странствующую на огромном корабле под названием «Королева ]», которая спасает его от группы воинственных афрессианцев, оказавшихся на планете как раз в поисках Эмеральды .\r\nВ конце концов Хироси строит свой долгожданный корабль и отправляется в путь, время от времени снова сталкиваясь в своих приключениях с Эмеральдой . Но что же на самом деле связывает их вместе? И откуда Эмеральда знает Тотиро?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/335185.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/967f9be295550c7204a68ac4434a1cacadf713d1.jpg",
-          "https://shikimori.one/system/screenshots/original/7508d814f80c9b68923ab4ae5ac125f4d68a156e.jpg"
-        ],
-        "duration": 36,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фантастика"
-        ],
-        "anime_genres": [
-          "Космос",
-          "Приключения",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "OLM"
-        ],
-        "imdb_rating": 7,
-        "imdb_votes": 165,
-        "shikimori_rating": 6.88,
-        "shikimori_votes": 142,
-        "premiere_world": "1998-06-05",
-        "aired_at": "1998-06-05",
-        "released_at": "1999-12-18",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 4,
-        "episodes_aired": 0,
-        "actors": [
-          "Рэико Тадзима",
-          "Мэгуми Хаясибара",
-          "Кэнъити Огата",
-          "Ёко Асагами",
-          "Макио Иноэ",
-          "Киёси Кобаяси",
-          "Дзюрота Косуги",
-          "Юко Миямура",
-          "Хидэкацу Сибата",
-          "Каори Симидзу"
-        ],
-        "directors": [
-          "Юдзи Асада"
-        ],
-        "writers": [
-          "Муги Камио",
-          "Рэйдзи Мацумото"
-        ],
-        "composers": [
-          "Митиру Осима"
-        ],
-        "editors": [
-          "Тосио Хэнми"
-        ]
-      }
-    },
-    {
-      "id": "serial-6317",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Космические приключения Кобры OVA-2",
-      "title_orig": "Cobra The Animation: Time Drive",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 2009,
-      "last_season": 2,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "kinopoisk_id": "679847",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7198",
-      "shikimori_id": "5031",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-20T00:45:26Z",
-      "updated_at": "2019-12-13T22:01:31Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/540242/9399d744599a48b82327cfb536d25d08/720p",
-            "2": "//aniqit.com/seria/540243/0a5d299ca4a3761b0df5a8d09f7b41e4/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Космические приключения Кобры",
-        "title_en": "Cobra The Animation: Time Drive",
-        "other_titles_jp": [
-          "COBRA THE ANIMATION タイム・ドライブ"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 2009,
-        "description": "Мини-сериал был выпущен с целью заполнить некоторую сюжетную недосказанность оригинального сериала 1982 года. В частности, рассказывает о том, как Леди стала киборгом-армадроидом, почему Кобра и его напарница так нежно относятся друг к другу и освещает нестандартный взгляд на теорию временного потока и его воздействия на все сущее.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/679847.jpg",
-        "duration": 30,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фантастика"
-        ],
-        "anime_genres": [
-          "Космос",
-          "Приключения",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Magic Bus"
-        ],
-        "shikimori_rating": 6.93,
-        "shikimori_votes": 121,
-        "premiere_world": "2009-04-24",
-        "aired_at": "2009-04-24",
-        "released_at": "2009-06-26",
-        "rating_mpaa": "R+",
-        "episodes_total": 2,
-        "episodes_aired": 0,
-        "directors": [
-          "Кэнити Маэдзима"
-        ],
-        "writers": [
-          "Буити Тэрасава"
         ]
       }
     }

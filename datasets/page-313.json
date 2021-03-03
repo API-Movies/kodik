@@ -1,6 +1,915 @@
 {
   "results": [
     {
+      "id": "movie-19924",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "В поисках Санты",
+      "title_orig": "Finding Santa",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1088788",
+      "imdb_id": "tt7385392",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-12-07T16:37:15Z",
+      "updated_at": "2018-01-04T22:48:31Z",
+      "material_data": {
+        "title": "В поисках Санты",
+        "title_en": "Finding Santa",
+        "year": 2017,
+        "description": "Грейс, владелица тематического магазина в городке Гринривер, занимается организацией важнейшего городского события – рождественского парада. И когда её друг, который должен был играть роль Санта Клауса, случайно ломает руку, ей приходится приложить все усилия, чтобы срочно найти ему замену.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1088788.jpg",
+        "duration": 90,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "мелодрама"
+        ],
+        "imdb_rating": 6.4,
+        "imdb_votes": 1431,
+        "premiere_world": "2017-11-24",
+        "actors": [
+          "Джоди Суитин",
+          "Эрик Винтер",
+          "Джей Бразо",
+          "Ава Телек",
+          "Лора Митчелл",
+          "Карен Холнесс",
+          "Карен Крупер",
+          "Долорес Дрэйк",
+          "Бренден Сандерлэнд",
+          "Кэти Хоффман"
+        ],
+        "directors": [
+          "Дэвид Уиннинг"
+        ],
+        "producers": [
+          "Грег Малкольм",
+          "Вики Сотеран",
+          "Джойс Сава"
+        ],
+        "writers": [
+          "Джули Шерман Вульф"
+        ],
+        "editors": [
+          "Mark Adams"
+        ],
+        "designers": [
+          "Ryszard Kurkoski",
+          "Барбара Грегусова",
+          "Tania Rahimikhoshavaz"
+        ],
+        "operators": [
+          "Энтони С. Метчи"
+        ]
+      }
+    },
+    {
+      "id": "serial-5069",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Судный день",
+      "title_orig": "Dies Irae",
+      "other_title": "День гнева",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 11,
+      "episodes_count": 11,
+      "kinopoisk_id": "1048816",
+      "imdb_id": "tt6931266",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8978",
+      "shikimori_id": "32271",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-10-23T16:54:40Z",
+      "updated_at": "2018-01-04T15:27:41Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/136050/c53628442fff13b69661e7d46e3f6d6d/720p",
+            "2": "//aniqit.com/seria/140997/2fd5a948ff7d3cb7c0e14506dab19eec/720p",
+            "3": "//aniqit.com/seria/154034/2f411b88f7dfbe72dfc39bfb6e1cd38d/720p",
+            "4": "//aniqit.com/seria/154035/273c9b9f1181080a0ce7be65a5fc65cc/720p",
+            "5": "//aniqit.com/seria/171229/b12e4f13dd80e828851bcd24ea6574ec/720p",
+            "6": "//aniqit.com/seria/171230/da683d4458a71a0718bfe8f721fae947/720p",
+            "7": "//aniqit.com/seria/183388/8660687bef32fba9f6836f93b7aad396/720p",
+            "8": "//aniqit.com/seria/190721/f0b04d59abaa4db9f2516faa4a6e1754/720p",
+            "9": "//aniqit.com/seria/194351/5adc51b920c2d2e4c63093935d2f6733/720p",
+            "10": "//aniqit.com/seria/194352/e5746bcfd097aa0048a29b5c3e9c23ed/720p",
+            "11": "//aniqit.com/seria/215772/023fc49aaddf4fcfea6d13824c676fd3/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Судный день",
+        "title_en": "Dies Irae",
+        "other_titles": [
+          "Судный день",
+          "Day of Wrath"
+        ],
+        "other_titles_en": [
+          "Dies irae"
+        ],
+        "other_titles_jp": [
+          "Dies irae"
+        ],
+        "anime_license_name": "День гнева",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2017,
+        "description": "В мае 1945 года, когда советские войска штурмовали Рейхстаг, нацисты из ордена Лонгина провели над тонущим в крови городом дьявольский ритуал, призванный приблизить конец света. Испытать силу этого ритуала предстоит много лет спустя простым японским школьникам, вовлечённым в бой за будущее человечества.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1048816.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/40810a82776514ede2563aa9dd5af072fe77dfdb.png",
+          "https://shikimori.one/system/screenshots/original/57077d494b02201a0235babf81b50d0b128f8574.png"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Военное",
+          "Магия",
+          "Супер сила",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "A.C.G.T."
+        ],
+        "imdb_rating": 4.7,
+        "imdb_votes": 114,
+        "shikimori_rating": 5.39,
+        "shikimori_votes": 2345,
+        "premiere_world": "2017-10-14",
+        "aired_at": "2017-10-14",
+        "released_at": "2017-12-23",
+        "rating_mpaa": "R",
+        "episodes_total": 11,
+        "episodes_aired": 11,
+        "actors": [
+          "Брэндон МакИннис",
+          "Джад Сэкстон",
+          "Мадлен Моррис",
+          "Эмбер Ли Коннорс",
+          "Косукэ Ториуми",
+          "Аяка Фукухара",
+          "Risato Habuki",
+          "Коки Харасава",
+          "Юка Иногути",
+          "Такэси Маэда"
+        ],
+        "directors": [
+          "Сусуму Кудо"
+        ]
+      }
+    },
+    {
+      "id": "movie-20273",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Признание убийцы",
+      "title_orig": "22-nenme no kokuhaku: watashi ga satsujinhan desu",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "992366",
+      "imdb_id": "tt5882982",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-12-29T21:54:33Z",
+      "updated_at": "2018-01-04T13:33:42Z",
+      "material_data": {
+        "title": "Признание убийцы",
+        "title_en": "22-nenme no kokuhaku: watashi ga satsujinhan desu",
+        "year": 2017,
+        "description": "В 1995 году молодой следователь Ко Макимура пытался схватить серийного убийцу, на счету которого было три жертвы, но потерпел фиаско. Маньяк убил его наставника, после чего сбежал, затаился и преступлений больше не совершал. 22 года спустя после этих событий, когда истёк срок давности, и привлечь преступника за содеянное уже было нельзя, человек по имени Масато Сонэдзаки публикует книгу мемуаров под названием «Я - убийца», где признается во всех совершенных преступлениях. Книга становится национальным бестселлером, писатель — звездой и любимчиком прессы, но следователь Макимура не сдаётся.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/992366.jpg",
+        "duration": 118,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "детектив",
+          "драма",
+          "криминал"
+        ],
+        "kinopoisk_rating": 6.6,
+        "kinopoisk_votes": 213,
+        "imdb_rating": 6.8,
+        "imdb_votes": 1701,
+        "premiere_world": "2017-04-13",
+        "actors": [
+          "Тацуя Фудзивара",
+          "Хидэаки Ито",
+          "Кахо",
+          "Сюхэй Номура",
+          "Анна Исибаси",
+          "Рё Рюсэй",
+          "Таити Саотомэ",
+          "Мицуру Хирата",
+          "Рё Ивамацу",
+          "Паоло Андреа Ди Пьетро"
+        ],
+        "directors": [
+          "Ю Ириэ"
+        ],
+        "producers": [
+          "Чан Вон-сок",
+          "Такааки Кабуто",
+          "Ю Джон-хун"
+        ],
+        "writers": [
+          "Чон Бён-гиль",
+          "Кэнъя Хирата",
+          "Ю Ириэ"
+        ],
+        "designers": [
+          "Синсукэ Кодзима"
+        ]
+      }
+    },
+    {
+      "id": "movie-20285",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Тихое Рождество",
+      "title_orig": "A Very Country Christmas",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1085057",
+      "imdb_id": "tt7001906",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-12-31T15:54:15Z",
+      "updated_at": "2018-01-04T11:37:32Z",
+      "material_data": {
+        "title": "Тихое Рождество",
+        "title_en": "A Very Country Christmas",
+        "year": 2017,
+        "description": "Жанетт Уильямс - одинокая мать, которая всеми силами старается добиться хорошего будущего для своей дочери. Так как она невероятно занята, у неё нет времени на то, чтобы следить за новостями или читать жёлтую прессу. Поэтому она и понятия не имеет, что суперзвезда Зейн Гантер решил вернуться в свой родной город. Их случайная встреча становится началом удивительного приключения, которое принесёт в их жизни любовь и сказку.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1085057.jpg",
+        "duration": 82,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "мелодрама",
+          "семейный"
+        ],
+        "imdb_rating": 6.1,
+        "imdb_votes": 1174,
+        "premiere_world": "2017-11-12",
+        "rating_mpaa": "PG",
+        "actors": [
+          "Грейстон Холт",
+          "Би Сантос",
+          "Грег Вон",
+          "Дианна Картер",
+          "Мишель Морган",
+          "Эллисон Хоссак",
+          "Сома Бхатия",
+          "Рэйвен Стюарт",
+          "Kelsey Lamb",
+          "Сьюзи МакЛин"
+        ],
+        "directors": [
+          "Джастин Дж. Дик"
+        ],
+        "producers": [
+          "Патрик МакБрити",
+          "Stan Hum",
+          "Бет Стивенсон"
+        ],
+        "writers": [
+          "Кит Купер",
+          "Патрик МакБрити"
+        ],
+        "composers": [
+          "Пьюр Уэст"
+        ],
+        "editors": [
+          "Elizabeth Stadtlander"
+        ],
+        "designers": [
+          "Элли Томпсон",
+          "Ashley Corley",
+          "Кенда Хогган"
+        ],
+        "operators": [
+          "Джошуа Фрэйман"
+        ]
+      }
+    },
+    {
+      "id": "movie-17848",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Смертоносная земля",
+      "title_orig": "Killing Ground",
+      "translation": {
+        "id": 660,
+        "title": "GreenРай Studio",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "914098",
+      "imdb_id": "tt4728386",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-08-03T17:24:19Z",
+      "updated_at": "2018-01-04T10:32:32Z",
+      "material_data": {
+        "title": "Смертоносная земля",
+        "title_en": "Killing Ground",
+        "year": 2016,
+        "description": "Сэм и Йен решили провести выходные в палатке у озера в лесу. Природа, тишина - красота! На месте парочка обнаруживает другую палатку и никого рядом. На следующий день тишина становится подозрительной, а когда посреди леса вдруг обнаруживается чумазый годовалый ребёнок, это уже повод для серьёзного беспокойства.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/914098.jpg",
+        "duration": 88,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "триллер",
+          "ужасы"
+        ],
+        "kinopoisk_rating": 5.5,
+        "kinopoisk_votes": 1036,
+        "imdb_rating": 5.8,
+        "imdb_votes": 7324,
+        "premiere_world": "2016-08-04",
+        "actors": [
+          "Харриет Дайер",
+          "Йен Медоуз",
+          "Аарон Педерсен",
+          "Аарон Гленнэйн",
+          "Мая Стенж",
+          "Джулиан Гарнер",
+          "Тиэрни Коуплэнд",
+          "Liam Parkes",
+          "Riley Parkes",
+          "Стивен Хантер"
+        ],
+        "directors": [
+          "Дэмиен Пауэр"
+        ],
+        "producers": [
+          "Майкл Гудински",
+          "Джон Моллой",
+          "Лиза Шонесси",
+          "Джо Уэзерстоун"
+        ],
+        "writers": [
+          "Дэмиен Пауэр"
+        ],
+        "composers": [
+          "Леа Кертис"
+        ],
+        "editors": [
+          "Кэти Флаксман"
+        ],
+        "designers": [
+          "Клер Гранивиль"
+        ],
+        "operators": [
+          "Саймон Чэпман"
+        ]
+      }
+    },
+    {
+      "id": "serial-8321",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Видение Эскафлона [ТВ]",
+      "title_orig": "Tenkuu no Escaflowne",
+      "other_title": "Tenkû no Esukafurône",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 1996,
+      "last_season": 1,
+      "last_episode": 26,
+      "episodes_count": 26,
+      "kinopoisk_id": "229737",
+      "imdb_id": "tt0138919",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=98",
+      "shikimori_id": "182",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-01-04T05:41:13Z",
+      "updated_at": "2018-01-04T05:41:13Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/215400/30ee96ff917dbfdb35cbf2c66bda6c9e/720p",
+            "2": "//aniqit.com/seria/215401/ab5158386856f7fbd368a780c6dfd807/720p",
+            "3": "//aniqit.com/seria/215402/6e3c3afa423e22a1cea3a0d2bc570b20/720p",
+            "4": "//aniqit.com/seria/215403/73a3dbfa68bc5db9a198a8b9a451d1e6/720p",
+            "5": "//aniqit.com/seria/215404/e6ead7bc297f0600a609902df494dcb0/720p",
+            "6": "//aniqit.com/seria/215405/1abfe73b177902fddfff3b8fc3d23c37/720p",
+            "7": "//aniqit.com/seria/215406/ed6c100caee8de9495d9ba53c163f60d/720p",
+            "8": "//aniqit.com/seria/215407/fdcd8598eac257b2ed340a02cab96040/720p",
+            "9": "//aniqit.com/seria/215408/2618c7b0a3e311aa8f5f936c03514db2/720p",
+            "10": "//aniqit.com/seria/215409/16d096fa15514896f9cb03fa6a7de49d/720p",
+            "11": "//aniqit.com/seria/215410/7e3949558e77232fe4d5cfbd6954d12f/720p",
+            "12": "//aniqit.com/seria/215411/01fef2ea734fcab727f51f443b0415f1/720p",
+            "13": "//aniqit.com/seria/215412/c65b95466b8552187dfcdf5c5e1a471f/720p",
+            "14": "//aniqit.com/seria/215413/2211a7f38e992671db314b47f0179d3a/720p",
+            "15": "//aniqit.com/seria/215414/8a5731df2273eb19a25690f881b22cb4/720p",
+            "16": "//aniqit.com/seria/215415/ecfe9d2c64d835963a995baa3d6934f6/720p",
+            "17": "//aniqit.com/seria/215416/8981aa154934603d35f5b5580a98ad22/720p",
+            "18": "//aniqit.com/seria/215417/adc3092f0365d545b2835b27090b95c5/720p",
+            "19": "//aniqit.com/seria/215418/106fb4aae8d19bbec34b65fd07ad3257/720p",
+            "20": "//aniqit.com/seria/215419/12e7738c372bb15471d6efe2acdf68a5/720p",
+            "21": "//aniqit.com/seria/215420/f8967754d7bfd517ff74c9e1a4640cfb/720p",
+            "22": "//aniqit.com/seria/215421/cfe1d6351e9add355856f957783fe0bf/720p",
+            "23": "//aniqit.com/seria/215422/959df2ea9757412539194a62db74b6ff/720p",
+            "24": "//aniqit.com/seria/215423/c9c48ccf266f143d7d5150b075accbc3/720p",
+            "25": "//aniqit.com/seria/215424/c0c1f70d77834a3ee4b22e3e2cee8a27/720p",
+            "26": "//aniqit.com/seria/215425/910d359439cb110527890d2f06416018/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Видение Эскафлона",
+        "title_en": "Tenkû no Esukafurône",
+        "other_titles": [
+          "Tenkuu no Escaflowne"
+        ],
+        "other_titles_en": [
+          "The Vision of Escaflowne"
+        ],
+        "other_titles_jp": [
+          "天空のエスカフローネ"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 1996,
+        "description": "Девочка Хитоми попадает в иной мир. В нем война, жестокость, смерть, романтика героев-рыцарей, взрослое отношение к ней и восприятие в качестве женщины. А девочке - немного лет, в ином мире остались мама, лучшая подруга, любимый человек. Но новый мир так манит неизведанным!",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/229737.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/c7657b3fbfd794b1d939adb75dfe294bf1a3d4de.jpg",
+          "https://shikimori.one/system/screenshots/original/e57c164e664fa1316f20502412b3cb4e246e0b74.jpg"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "драма",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Меха",
+          "Приключения",
+          "Психологическое",
+          "Романтика",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Sunrise"
+        ],
+        "kinopoisk_rating": 7,
+        "kinopoisk_votes": 412,
+        "imdb_rating": 7.8,
+        "imdb_votes": 3828,
+        "shikimori_rating": 7.7,
+        "shikimori_votes": 998,
+        "premiere_world": "1996-04-02",
+        "aired_at": "1996-04-02",
+        "released_at": "1996-09-24",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 26,
+        "episodes_aired": 0,
+        "actors": [
+          "Кирби Морроу",
+          "Келли Шеридан",
+          "Брайан Драммонд",
+          "Жослин Ловен",
+          "Пол Добсон",
+          "Майкл Добсон",
+          "Венус Терцо",
+          "Аарон Дисмьюк",
+          "Кэйтлин Гласс",
+          "Даррен Плевин"
+        ],
+        "directors": [
+          "Ёсиюки Такэи",
+          "Цуёси Ёсимото",
+          "Сёго Кавамото",
+          "Икуро Сато",
+          "Синъитиро Ватанабэ",
+          "Кадзуки Аканэ",
+          "Сёдзи Кавамори"
+        ],
+        "producers": [
+          "Кэн Иядоми",
+          "Харуё Канэсаку",
+          "Ютака Масэба",
+          "Кими Мацуки",
+          "Масахико Минами",
+          "Ясуо Миякава",
+          "Юми Мурасэ",
+          "Марлон Шульман",
+          "Минору Таканаси",
+          "Кацудзи Умезава"
+        ],
+        "writers": [
+          "Акихико Инари",
+          "Рёта Ямагути",
+          "Хироаки Китаяма",
+          "Сёдзи Кавамори",
+          "Хадзимэ Ятатэ"
+        ],
+        "composers": [
+          "Ёко Канно",
+          "Хадзимэ Мидзогути",
+          "Инон Цур"
+        ],
+        "editors": [
+          "Томоаки Цурубути"
+        ],
+        "designers": [
+          "Дзюнъити Хигаси"
+        ],
+        "operators": [
+          "Кадзунобу Окэда"
+        ]
+      }
+    },
+    {
+      "id": "serial-5385",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Путь аса [ТВ-1]",
+      "title_orig": "Dia no Ace",
+      "other_title": "Величайший бейсболист",
+      "translation": {
+        "id": 608,
+        "title": "Ancord",
+        "type": "voice"
+      },
+      "year": 2013,
+      "last_season": 1,
+      "last_episode": 75,
+      "episodes_count": 75,
+      "kinopoisk_id": "840074",
+      "imdb_id": "tt3105422",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1675",
+      "shikimori_id": "18689",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-10-31T19:11:34Z",
+      "updated_at": "2018-01-04T05:35:55Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/143871/ae2fe5ed2d3b62d50cfa9dd66c6591c3/720p",
+            "2": "//aniqit.com/seria/143872/b331152f2911cae7574326b7a95f6fbe/720p",
+            "3": "//aniqit.com/seria/143873/0a6873befc8ac371ba00f2b544824ed3/720p",
+            "4": "//aniqit.com/seria/143874/9be656aa0e96746ce7064872e74f596e/720p",
+            "5": "//aniqit.com/seria/143875/206f04c4d8614f8e5cb629ad4938951b/720p",
+            "6": "//aniqit.com/seria/143876/33fa4e09dd08e98f9a3a3b65f00d1403/720p",
+            "7": "//aniqit.com/seria/143877/9a01b0ade660c9fa8941773d816d3415/720p",
+            "8": "//aniqit.com/seria/143878/ae8fe52373e96d11a157c17e08d61be5/720p",
+            "9": "//aniqit.com/seria/143879/00b03712054bd0a04ffef65509290b01/720p",
+            "10": "//aniqit.com/seria/143880/ad5a1ee9a4144ba7a162d6e6f9c7d5ca/720p",
+            "11": "//aniqit.com/seria/143881/aefe28f6241629048305639a6b533e75/720p",
+            "12": "//aniqit.com/seria/143882/ddfdc6e064fd940c2daccfe649c463f7/720p",
+            "13": "//aniqit.com/seria/143883/493b09c47fd020343f99f39d54f27697/720p",
+            "14": "//aniqit.com/seria/143884/4d2578fa26743e0fe621a6cda419566c/720p",
+            "15": "//aniqit.com/seria/143885/4e3191949c7846e17f42586320a9507e/720p",
+            "16": "//aniqit.com/seria/143886/e3bec1549794f65c5e1d3f74f6e89c47/720p",
+            "17": "//aniqit.com/seria/143887/57629b0312d766211347dc76671851f8/720p",
+            "18": "//aniqit.com/seria/143888/53a8ca804678f4fc1844d698c994ec3f/720p",
+            "19": "//aniqit.com/seria/143889/622687346c455c4a1ee61c57a4e4886b/720p",
+            "20": "//aniqit.com/seria/143890/695fab5d557c199cb68f5e4a3bf7c8a5/720p",
+            "21": "//aniqit.com/seria/143891/e202704f8bf6207a5865fba7557ca3bf/720p",
+            "22": "//aniqit.com/seria/143892/d8f83151ce15a7edb8d37e8a92e5d928/720p",
+            "23": "//aniqit.com/seria/143893/75099fd5428d6b1467bd558cf6d519a0/720p",
+            "24": "//aniqit.com/seria/143894/834e2293b5806acfefda3346860b0d45/720p",
+            "25": "//aniqit.com/seria/143895/4a5f68dfcca8d44472325b8b037624d9/720p",
+            "26": "//aniqit.com/seria/143896/7fa8273ede4fa35e967282a077031c8f/720p",
+            "27": "//aniqit.com/seria/143897/95ecf3ed5fd749513b50a3edc1e5d16e/720p",
+            "28": "//aniqit.com/seria/143898/f1b83c59968c2282694279739f4f8900/720p",
+            "29": "//aniqit.com/seria/143899/e605688ad5cbd40cf3ec4fc5490fba3a/720p",
+            "30": "//aniqit.com/seria/143900/e403c4cda801afe491d5e62fde6889df/720p",
+            "31": "//aniqit.com/seria/143901/0486e8c09cb8de71efc1bd7abc00a515/720p",
+            "32": "//aniqit.com/seria/143902/363645433e08f56719b3ae346e4aa134/720p",
+            "33": "//aniqit.com/seria/143903/a39a3df6b7fb35e56d671ef6a7003b48/720p",
+            "34": "//aniqit.com/seria/143904/7b157da32a57301952a0a4b06a2ea280/720p",
+            "35": "//aniqit.com/seria/143905/c9a3372957cbaf86a3b983c8458d6e2d/720p",
+            "36": "//aniqit.com/seria/143906/e711f02f78043695b033ab0afaf5abec/720p",
+            "37": "//aniqit.com/seria/143907/3d078f3a7a2585b9dca1935360358eba/720p",
+            "38": "//aniqit.com/seria/143908/3fcd6e415ef6d07d892c4928240cc09b/720p",
+            "39": "//aniqit.com/seria/143909/91b18f17a32763ef80a7e8663867e28b/720p",
+            "40": "//aniqit.com/seria/143910/b21afe09528e8454a51dee3f958da4c1/720p",
+            "41": "//aniqit.com/seria/143911/5ad39cd23c1a270f8312c6749e127df9/720p",
+            "42": "//aniqit.com/seria/143912/ac81f6236aed575b80b7469756e67a97/720p",
+            "43": "//aniqit.com/seria/143913/d9ab1a0d8c51ee2f05af095cd33b4fbd/720p",
+            "44": "//aniqit.com/seria/143914/ee74afb4482a620f27c43e7421a53977/720p",
+            "45": "//aniqit.com/seria/143915/9e7b2949f4d17c7221bc0b7ab27cf6f0/720p",
+            "46": "//aniqit.com/seria/143916/724cf1f8d48b8b39f09fbb3d1d6f6221/720p",
+            "47": "//aniqit.com/seria/143917/f98bb1d870c97a494aa7411af05e645b/720p",
+            "48": "//aniqit.com/seria/143918/afedf51bf82310dd4162a7cbda6e1d4b/720p",
+            "49": "//aniqit.com/seria/143919/b71d4975ae755e4e919984cd436905f0/720p",
+            "50": "//aniqit.com/seria/143920/a4da2691f122e9792de1639757c9c26c/720p",
+            "51": "//aniqit.com/seria/143921/f1c87fadac68c6e9209303faab22a72d/720p",
+            "52": "//aniqit.com/seria/143922/69c658edb9f508ac40990a7058c1df6c/720p",
+            "53": "//aniqit.com/seria/143923/e17dfd453decb847b17a207b93ff0a61/720p",
+            "54": "//aniqit.com/seria/143924/b71e31998f81141bf12bb5220a1a6a61/720p",
+            "55": "//aniqit.com/seria/143925/eaa071dcb13c415938ca59d0a8af6639/720p",
+            "56": "//aniqit.com/seria/143926/a1c22126b3855896cee5700146a4c2a9/720p",
+            "57": "//aniqit.com/seria/143927/ab99b9d5a9e0e9d92058e6a373c2dd16/720p",
+            "58": "//aniqit.com/seria/143928/688a2cfdd3c73cbefa3fc3b7d15e1127/720p",
+            "59": "//aniqit.com/seria/143929/3a2b0a677c76bac0099a5b10e3886ceb/720p",
+            "60": "//aniqit.com/seria/143930/ebeb637e83914d024868b0e493bdb456/720p",
+            "61": "//aniqit.com/seria/143931/5b8a74a8bb054481ff51ce4c12affad4/720p",
+            "62": "//aniqit.com/seria/143932/22e8b454a71f93af97c26fa909e48ecb/720p",
+            "63": "//aniqit.com/seria/143933/0f0aaff014fcf2fc20db403ec32ef973/720p",
+            "64": "//aniqit.com/seria/143934/b2fbe42292067dd41bbe841c841f9676/720p",
+            "65": "//aniqit.com/seria/143935/91d12a096e2131d2e86fd1b64ae78207/720p",
+            "66": "//aniqit.com/seria/143936/f4e57d2f4869bad7fd80e2827f55589d/720p",
+            "67": "//aniqit.com/seria/143937/e80d2dbab6a4c97c41c0bf957a74a871/720p",
+            "68": "//aniqit.com/seria/143938/552ef5fd68034f53cf280286d7eede77/720p",
+            "69": "//aniqit.com/seria/143939/48fae916a4767bab1762973f8d457e1e/720p",
+            "70": "//aniqit.com/seria/143940/d79cf1cabb7961bf08de7df01530b93c/720p",
+            "71": "//aniqit.com/seria/143941/428e874db0cfdaa9476dc12ce964e652/720p",
+            "72": "//aniqit.com/seria/143942/86f6dfc4adafe9000569bcdd96303d6d/720p",
+            "73": "//aniqit.com/seria/143943/87116641bfe50dfc51ee855253370934/720p",
+            "74": "//aniqit.com/seria/143944/92cc7fd7daf63b663b28f996bb5a86e4/720p",
+            "75": "//aniqit.com/seria/143945/db2c340bc8dd32c1261658d383a7f187/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Величайший бейсболист",
+        "title_en": "Diamond No Ace",
+        "other_titles": [
+          "Daiya no Ace",
+          "Ace of the Diamond",
+          "Dia no A"
+        ],
+        "other_titles_en": [
+          "Ace of Diamond"
+        ],
+        "other_titles_jp": [
+          "ダイヤのA[エース]"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2013,
+        "description": "Питчер Эйдзюн Савамура, честный и простодушный парень с обострённым чувством справедливости, которого друзья ласково называют Эй-тян, живёт в провинциальном городке. Он собрал в школе бейсбольную команду и устремился к Косиену. Однако мечтам молодых людей не суждено было сбыться, и в последнем классе средней школы они проиграли, так и не попав на национальный чемпионат. Однажды в доме парня появляется странная женщина, которая называет себя помощником тренера, и предлагает Эйдзюну продолжить путь к мечте в одной из лучших бейсбольных школ Токио.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/840074.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/91c2798fab739852817bdabccceb6bed0bf08f4c.jpg",
+          "https://shikimori.one/system/screenshots/original/de3ae4b6016d7fb000a53615f2efa22995450fff.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "спорт"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Спорт",
+          "Сёнен",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Production I.G",
+          "Madhouse"
+        ],
+        "kinopoisk_rating": 7.2,
+        "kinopoisk_votes": 433,
+        "imdb_rating": 8.2,
+        "imdb_votes": 908,
+        "shikimori_rating": 8.13,
+        "shikimori_votes": 3436,
+        "premiere_world": "2013-10-06",
+        "aired_at": "2013-10-06",
+        "released_at": "2015-03-29",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 75,
+        "episodes_aired": 75,
+        "actors": [
+          "Рёта Осака",
+          "Такахиро Сакурай",
+          "Даисукэ Намикава"
+        ],
+        "directors": [
+          "Мицуюки Масухара"
+        ]
+      }
+    },
+    {
+      "id": "serial-8239",
+      "type": "anime-serial",
+      "link": "",
+      "title": "7 самураев",
+      "title_orig": "Samurai 7",
+      "other_title": "Akira Kurosawa's Samurai 7",
+      "translation": {
+        "id": 757,
+        "title": "MC Entertainment",
+        "type": "voice"
+      },
+      "year": 2004,
+      "last_season": 1,
+      "last_episode": 26,
+      "episodes_count": 26,
+      "kinopoisk_id": "230696",
+      "imdb_id": "tt0482424",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1830",
+      "shikimori_id": "166",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-01-02T21:46:24Z",
+      "updated_at": "2018-01-02T21:46:24Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/213075/8512bad91968eed24c358c685bbc2e94/720p",
+            "2": "//aniqit.com/seria/213076/5fa35b0e350af54839b48ed4f4f8ca0b/720p",
+            "3": "//aniqit.com/seria/213077/6c91c173174955f454aff9009d578003/720p",
+            "4": "//aniqit.com/seria/213078/0eb02664560bc8a0caa6f30a923437fd/720p",
+            "5": "//aniqit.com/seria/213079/544d44efceec7c769009ba0da0ebb484/720p",
+            "6": "//aniqit.com/seria/213080/04466d1a11e89ec164da4344367f45ea/720p",
+            "7": "//aniqit.com/seria/213081/bdcd327de29eb53fbf768e2a2e637606/720p",
+            "8": "//aniqit.com/seria/213082/3e58874d3eb9dea2d97857f5621a8665/720p",
+            "9": "//aniqit.com/seria/213083/f2f0126bdd200bb9ce259123512abb48/720p",
+            "10": "//aniqit.com/seria/213084/c6664a5a377004a01bb276d77fab1492/720p",
+            "11": "//aniqit.com/seria/213085/7a96ad3af5158db1808d8192cf45227a/720p",
+            "12": "//aniqit.com/seria/213086/62810763f28c8cc2a52710b8166cec75/720p",
+            "13": "//aniqit.com/seria/213087/8ccb95f1748909f10e042626920a70ea/720p",
+            "14": "//aniqit.com/seria/213088/361ecd61353b41817ea5b65aa2319119/720p",
+            "15": "//aniqit.com/seria/213089/80cbbb02c3831037f73e3da5f02e4bda/720p",
+            "16": "//aniqit.com/seria/213090/4a1da102a81650acde089624e5d4539d/720p",
+            "17": "//aniqit.com/seria/213091/24dea86bc472c747b96fb36bba680ccd/720p",
+            "18": "//aniqit.com/seria/213092/97ce8f20820179f3d51b35b13ab2c297/720p",
+            "19": "//aniqit.com/seria/213093/d94ae6de23fbac2710c79ddcf98be2af/720p",
+            "20": "//aniqit.com/seria/213094/4a89bacf568f9d55a30956f7dfe186cf/720p",
+            "21": "//aniqit.com/seria/213095/33c24ee972ef90c9c346d120818e9b39/720p",
+            "22": "//aniqit.com/seria/213096/2dbac80b2df6779f5fb9e3eaf1d0d344/720p",
+            "23": "//aniqit.com/seria/213097/bebd8c5b95a569458bedc1330d1e024b/720p",
+            "24": "//aniqit.com/seria/213098/9a5f5e1e43eccc824c0cc7284aba9dde/720p",
+            "25": "//aniqit.com/seria/213099/a5fe166bd6d76964e6295565bcb598ae/720p",
+            "26": "//aniqit.com/seria/213100/3020e081f736ac849bda8518d3240a7b/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "7 самураев",
+        "title_en": "Samurai 7",
+        "other_titles": [
+          "Samurai Seven"
+        ],
+        "other_titles_en": [
+          "Samurai 7"
+        ],
+        "other_titles_jp": [
+          "サムライセブン"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2004,
+        "tagline": "Честь превыше всего!",
+        "description": "Отдалённое будущее, похожая на Землю планета. Разбойники обложили деревеньку непосильным оброком. Оказавшись на грани голодной смерти, жители снаряжают небольшой отряд и отправляют его на поиски самураев, которые могли бы противостоять разбойникам и защитить деревню.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/230696.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/533072373132ba3e62dfccc71a08d8c056510eed.jpg",
+          "https://shikimori.one/system/screenshots/original/f57e853d8827142a7e4c1067e4bd752b92fe75d3.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Исторический",
+          "Меха",
+          "Самураи",
+          "Фантастика"
+        ],
+        "anime_studios": [
+          "Gonzo"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 2323,
+        "imdb_rating": 7.7,
+        "imdb_votes": 3704,
+        "shikimori_rating": 7.49,
+        "shikimori_votes": 3039,
+        "premiere_world": "2004-06-12",
+        "aired_at": "2004-06-12",
+        "released_at": "2004-12-25",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 16,
+        "episodes_total": 26,
+        "episodes_aired": 0,
+        "actors": [
+          "Масаки Тэрасома",
+          "Роми Пак",
+          "Тэцу Инада",
+          "Тору Кусано",
+          "Инукай Дзюндзи",
+          "Конг Кувата",
+          "Фумико Орикаса",
+          "Саито Тива",
+          "Ю Асакава"
+        ],
+        "directors": [
+          "Тосифуми Такидзава",
+          "Тору Ёсида",
+          "Футоси Хигасидэ",
+          "Хироюки Окуно",
+          "Дзиро Фудзимото",
+          "Ясухиро Курода",
+          "Макото Сокудза",
+          "Кахору Игуса",
+          "Инуо Инукава",
+          "Мицуо Кусакабэ"
+        ],
+        "producers": [
+          "Кадзухико Иномата",
+          "Синъитиро Исикава",
+          "Даисукэ Ито",
+          "Такао Кобаяси",
+          "Сёдзи Мурахама",
+          "Хироюки Такадзава"
+        ],
+        "writers": [
+          "Сюити Кояма",
+          "Акира Куросава",
+          "Хисая Такабаяси",
+          "Нацуко Такахаси",
+          "Ацухиро Томиока"
+        ],
+        "composers": [
+          "Эитэцу Хаяси",
+          "Каору Вада"
+        ],
+        "editors": [
+          "Ая Хида"
+        ],
+        "designers": [
+          "Хиромаса Огура"
+        ],
+        "operators": [
+          "Хиро Ёсиока"
+        ]
+      }
+    },
+    {
       "id": "serial-8206",
       "type": "anime-serial",
       "link": "",
@@ -9496,731 +10405,6 @@
         ],
         "operators": [
           "Массимо Зери"
-        ]
-      }
-    },
-    {
-      "id": "movie-19966",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Волшебное Рождество",
-      "title_orig": "Enchanted Christmas",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1049489",
-      "imdb_id": "tt7030416",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-12-11T06:58:15Z",
-      "updated_at": "2017-12-11T06:58:15Z",
-      "material_data": {
-        "title": "Волшебное Рождество",
-        "title_en": "Enchanted Christmas",
-        "year": 2017,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1049489.jpg",
-        "duration": 84,
-        "genres": [
-          "мелодрама"
-        ],
-        "imdb_rating": 5.9,
-        "imdb_votes": 1038,
-        "premiere_world": "2017-11-12",
-        "actors": [
-          "Алекса ПенаВега",
-          "Карлос ПенаВега",
-          "Рене Ривера",
-          "Джейни-Линн Кинчен",
-          "Стив Бонд",
-          "Рэнди Уэйн",
-          "Мелани Нельсон",
-          "К. Данор Джералд",
-          "Madison Hall",
-          "Lilly Mae Stover"
-        ],
-        "directors": [
-          "Терри Каннингэм"
-        ],
-        "producers": [
-          "Джаррод Филлипс",
-          "Джеймс Уилбергер",
-          "Синди Бонд",
-          "Дилан Бонд",
-          "Джин Дэвис",
-          "Ashley Grifka",
-          "Kelly Kloster"
-        ],
-        "writers": [
-          "Catherine Fridey",
-          "Рик Гарман"
-        ],
-        "composers": [
-          "Джэми Кристоферсон"
-        ],
-        "editors": [
-          "Ричард Халсли"
-        ],
-        "designers": [
-          "Адам Хендерсон",
-          "Кент Эверетт",
-          "Камилла Шредер",
-          "Bronte Campbell"
-        ],
-        "operators": [
-          "Рикардо Жак Гэйл"
-        ]
-      }
-    },
-    {
-      "id": "movie-19965",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Красавица",
-      "title_orig": "Haeuhhwa",
-      "other_title": "Любовь и ложь",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "974101",
-      "imdb_id": "tt5486170",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-12-10T19:56:37Z",
-      "updated_at": "2017-12-11T06:45:12Z",
-      "material_data": {
-        "title": "Красавица",
-        "title_en": "Haeeohwa",
-        "year": 2016,
-        "description": "1944 год, японская оккупация в Корее. Со-юль и Ён-хи - лучшие подруги. Они вместе выросли в школе кисэн, где обучались традиционному корейскому пению. Но обе девушки в глубине души всегда мечтали петь современные песни и выступать на сцене. У Со-юль есть жених Юн-у, который, как выясняется, пишет популярные песни для одной известной певицы. Мечта Со-юль, как ей кажется, близка к воплощению.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/974101.jpg",
-        "duration": 120,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.3,
-        "kinopoisk_votes": 226,
-        "imdb_rating": 6.5,
-        "imdb_votes": 566,
-        "premiere_world": "2016-04-13",
-        "actors": [
-          "Хан Хё-джу",
-          "Ю Ён-сок",
-          "Чхон У-хи",
-          "Пак Сон-ун",
-          "Ли Гю-джон",
-          "Ким Су-ан",
-          "Сон Сон-чхан",
-          "Чха Джи-ён",
-          "Хиромицу Такэда",
-          "Рю Хе-ён"
-        ],
-        "directors": [
-          "Пак Хын-щик"
-        ],
-        "producers": [
-          "Пак Сон-джин",
-          "Пак Ын-гён"
-        ],
-        "writers": [
-          "Чон Юн-су"
-        ],
-        "composers": [
-          "Ли Бён-хун"
-        ],
-        "editors": [
-          "Ким Сан-бом",
-          "Ким Джэ-бом"
-        ],
-        "designers": [
-          "Ким Юн-сок",
-          "Хан А-рым",
-          "Чо Сан-гён"
-        ],
-        "operators": [
-          "Чо Ын-су"
-        ]
-      }
-    },
-    {
-      "id": "movie-19939",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Подменные войска",
-      "title_orig": "Daeribgun",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1001688",
-      "imdb_id": "tt6010020",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-12-08T20:15:21Z",
-      "updated_at": "2017-12-11T06:23:49Z",
-      "material_data": {
-        "title": "Подменные войска",
-        "title_en": "Daeripgun",
-        "year": 2017,
-        "description": "1592 год. Японские войска вторгаются в Чосон. Крепости Пусан и Тоннэгу сожжены, правительственная армия побеждена и рассеяна. Король Сонджо бросает столицу и бежит на север просить подкрепления у китайского императора, оставив престол на попечение 16-летнего принца Кванхэгуна. По приказу отца новоявленный правитель должен добраться до города Канге и встретиться там с генералом, чтобы собрать остатки армии и набрать рекрутов из гражданского населения. Сопровождать Кванхэгуна в опасном путешествии будет отряд из подменных войск - простых крестьян, отбывающих воинскую повинность вместо своих господ, богатых наследников из дворянских семей.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1001688.jpg",
-        "duration": 130,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "боевик",
-          "военный",
-          "драма"
-        ],
-        "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 158,
-        "imdb_rating": 5.6,
-        "imdb_votes": 303,
-        "premiere_world": "2017-05-31",
-        "actors": [
-          "Ли Джон-джэ",
-          "Ё Джин-гу",
-          "Ким Му-ёль",
-          "Ким Мён-гон",
-          "Пак Вон-сан",
-          "О Гван-нок",
-          "Пэ Су-бин",
-          "Исом",
-          "Чо Дон-ин",
-          "Хан Джэ-ён"
-        ],
-        "directors": [
-          "Чон Юн-чхоль"
-        ],
-        "producers": [
-          "Ким Хо-сон",
-          "Вон Дон-ён",
-          "Чон Мун-гу"
-        ],
-        "writers": [
-          "Щин До-ён"
-        ],
-        "composers": [
-          "Моуг"
-        ],
-        "editors": [
-          "Хам Сон-вон"
-        ],
-        "designers": [
-          "Ким Бён-хан",
-          "Квон Ю-джин",
-          "Лим Сын-хи"
-        ],
-        "operators": [
-          "Пён Бон-сон"
-        ]
-      }
-    },
-    {
-      "id": "movie-19944",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Женский балкон",
-      "title_orig": "Ismach Hatani",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "1000215",
-      "imdb_id": "tt5974460",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-12-09T15:30:30Z",
-      "updated_at": "2017-12-11T06:14:41Z",
-      "material_data": {
-        "title": "Женский балкон",
-        "title_en": "Ismach Hatani",
-        "year": 2016,
-        "description": "Пожилая пара Этти и Цион живёт счастливой мирной жизнью в маленькой иерусалимской сефардской общине. Они сохранили прочную любовь и пользуются уважением детей. Их ежедневный распорядок включает посещение синагоги, где можно не только молиться, но и встретиться с друзьями. Однажды во время бар-мицвы, праздника религиозного совершеннолетия их внука, происходит драма. В древнем здании обваливается балкон, на котором, по традиции, находятся женщины, тяжело ранена жена раввина. Синагогу закрывают, и осиротевшие прихожане вдруг понимают, что идти им больше некуда.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1000215.jpg",
-        "duration": 96,
-        "countries": [
-          "Израиль"
-        ],
-        "genres": [
-          "драма",
-          "комедия"
-        ],
-        "imdb_rating": 6.5,
-        "imdb_votes": 679,
-        "premiere_world": "2016-09-10",
-        "actors": [
-          "Эвелин Хагоэль",
-          "Игал Наор",
-          "Орна Банай",
-          "Einat Saruf",
-          "Авраам Авив Алуш",
-          "Ицик Коэн",
-          "Yafit Asulin",
-          "Шэрон Элимелеч",
-          "Херцл Тоби",
-          "Хаим Занати"
-        ],
-        "directors": [
-          "Emil Ben-Shimon"
-        ],
-        "producers": [
-          "Моше Эдери",
-          "Оснат Хандельсман-Керен",
-          "Талия Клейнхендлер",
-          "Леон Эдери"
-        ],
-        "writers": [
-          "Shlomit Nehama"
-        ],
-        "editors": [
-          "Эйнат Глэйзер-Зархин"
-        ],
-        "designers": [
-          "Рона Дорон"
-        ],
-        "operators": [
-          "Зив Беркович"
-        ]
-      }
-    },
-    {
-      "id": "serial-7084",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Парад смерти",
-      "title_orig": "Death Parade",
-      "other_title": "Шествие смерти",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "879160",
-      "imdb_id": "tt4279012",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8167",
-      "shikimori_id": "28223",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-07T23:25:19Z",
-      "updated_at": "2017-12-07T23:25:19Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/186786/05f38fe9098dde732fea7fcff2cd07f9/720p",
-            "2": "//aniqit.com/seria/186787/e099088678eab9c661e735d0510ad949/720p",
-            "3": "//aniqit.com/seria/186788/cfcce00f024ff60d2d0187fcc56a6e7e/720p",
-            "4": "//aniqit.com/seria/186789/69e403d4a24d5cb2a1af619d9fb48bab/720p",
-            "5": "//aniqit.com/seria/186790/dd0a9d77d8bd6cb68ab1a1e9587b2892/720p",
-            "6": "//aniqit.com/seria/186791/a140383977c42e932549cbaec2cf384b/720p",
-            "7": "//aniqit.com/seria/186792/1d646c8cf2de9c140695b10c3afaf066/720p",
-            "8": "//aniqit.com/seria/186793/fb6852af5cb3416fb88e22e145067c7a/720p",
-            "9": "//aniqit.com/seria/186794/960e4520df50df67ed7d802e94e45d7d/720p",
-            "10": "//aniqit.com/seria/186795/82e1b00a7d9b4770a06030ee9fa18d77/720p",
-            "11": "//aniqit.com/seria/186796/518695bc6c4bad4d44cf0ced20a744ab/720p",
-            "12": "//aniqit.com/seria/186797/ede1f1a9bfd96bae2dee130947b94c0c/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Парад смерти",
-        "title_en": "Death Parade",
-        "other_titles": [
-          "Парад смерти",
-          "Шествие смерти"
-        ],
-        "other_titles_en": [
-          "Death Parade"
-        ],
-        "other_titles_jp": [
-          "デス・パレード"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2015,
-        "tagline": "The game begins when your life ends.",
-        "description": "После смерти люди отправляются либо в ад, либо в рай. Но есть те, кто в момент их смерти попадают в  «Quindecim» , где работает барменом таинственный беловолосый Деким. Он предлагает гостям Смертельную Игру, в которой раскроется истинное лицо участников, а ставкой послужат их жизни. Деким сам выбирает, кто победил, а кто проиграл, кому жить, а кому суждено умереть.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/879160.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/980a5910cecfa065f1d11346cd2dd35c1bc8d61d.jpg",
-          "https://shikimori.one/system/screenshots/original/92e78f50023540e4d0cd855af24b74a877eb994a.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Драма",
-          "Игры",
-          "Психологическое",
-          "Триллер"
-        ],
-        "anime_studios": [
-          "Madhouse"
-        ],
-        "kinopoisk_rating": 8,
-        "kinopoisk_votes": 11296,
-        "imdb_rating": 7.9,
-        "imdb_votes": 10535,
-        "shikimori_rating": 8.21,
-        "shikimori_votes": 54733,
-        "premiere_world": "2015-01-10",
-        "aired_at": "2015-01-10",
-        "released_at": "2015-03-28",
-        "rating_mpaa": "R",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Томоаки Маэно",
-          "Асами Сэто",
-          "Руми Окубо",
-          "Коки Утияма",
-          "Тэссё Гэнда",
-          "Ёсимаса Хосоя",
-          "Рёко Сираиси",
-          "Ацуми Танэдзаки",
-          "Кэидзи Фудзивара",
-          "Мики Ито"
-        ],
-        "directors": [
-          "Юдзуру Татикава"
-        ],
-        "producers": [
-          "Такуя Цуноки"
-        ]
-      }
-    },
-    {
-      "id": "serial-7058",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Мэри убивает людей",
-      "title_orig": "Mary Kills People",
-      "translation": {
-        "id": 636,
-        "title": "Shadow Dub Project",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "1008782",
-      "imdb_id": "tt6236572",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-02-26T07:09:43Z",
-      "updated_at": "2017-12-07T13:05:18Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/186195/cdbb3954926f593c5f79a94b43576da1/720p",
-            "2": "//kodik.cc/seria/186196/7dfdb262145e99cfa61d830e9cc6f940/720p",
-            "3": "//kodik.cc/seria/186198/09c8844008fe28a53799fed20949fa3d/720p",
-            "4": "//kodik.cc/seria/186199/d0a6a5d7f8544d51df84ab3f7112d251/720p",
-            "5": "//kodik.cc/seria/186197/587243ac3a3d1e116de1bb8070921fc3/720p",
-            "6": "//kodik.cc/seria/186200/ab215bbe5c01ed53c158e018df1f23eb/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Мэри убивает людей",
-        "title_en": "Mary Kills People",
-        "year": 2017,
-        "description": "Доктор Мэри Харрис, мать-одиночка и врач скорой помощи, в свободное от работы время подрабатывает ангелом смерти - помогает неизлечимо больным пациентам, которые хотят умереть по собственному желанию и на своих условиях. Когда возникают подозрения, что она замешана в смертях пациентов, девушке приходится выбирать: либо бросить все либо начать борьбу грязными методами, чтобы остаться в игре.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1008782.jpg",
-        "duration": 44,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "kinopoisk_rating": 7,
-        "kinopoisk_votes": 570,
-        "imdb_rating": 7.5,
-        "imdb_votes": 3481,
-        "premiere_ru": "2019-12-09",
-        "premiere_world": "2017-01-25",
-        "actors": [
-          "Кэрелин Деверне",
-          "Джей Райан",
-          "Ричард Шорт",
-          "Кэти Дуглас",
-          "Эбигейл Уинтер",
-          "Грэйс Линн Кунг",
-          "Лола Флэнери",
-          "Шарлотта Салливан",
-          "Себастьен Робертс",
-          "Скотт Квальейру"
-        ],
-        "directors": [
-          "Холли Дэйл",
-          "Норма Бэйли",
-          "Келли Макин",
-          "Дэвид Уэллингтон",
-          "Пол Фокс",
-          "Джеймс Дженн"
-        ],
-        "producers": [
-          "Эми Камерон",
-          "Тэсси Камерон",
-          "Сара Дэвис",
-          "Марша Грин",
-          "Жослин Хэмилтон",
-          "Текка Кросби",
-          "Холли Дэйл",
-          "Норман Денвер",
-          "Кэрелин Деверне",
-          "Тара Армстронг"
-        ],
-        "writers": [
-          "Тара Армстронг",
-          "Майкл Голдбах",
-          "Марша Грин",
-          "Тэсси Камерон",
-          "Лара Аццопарди",
-          "Морвин Бребнер",
-          "Шерри Уайт",
-          "Мэтт Хютер",
-          "Джейн Маггс",
-          "Karen Moore"
-        ],
-        "composers": [
-          "Джон Роули"
-        ],
-        "editors": [
-          "Рослин Каллу",
-          "Лиза Грутенбоер",
-          "Дункан Кристи",
-          "Жан Коломб",
-          "Стефен Рок"
-        ],
-        "designers": [
-          "Ингрид Юрек",
-          "Тим Бидер",
-          "Андреа Кристоф",
-          "Ким МакКуистон",
-          "Брэд Гривз",
-          "Сара Миллман",
-          "Фрайдэй Майерс",
-          "Брюс Мэйлинг",
-          "Джо Сьюзин"
-        ],
-        "operators": [
-          "Стивен Рейзерс",
-          "Гэвин Смит",
-          "Майкл Маршалл"
-        ]
-      }
-    },
-    {
-      "id": "movie-19920",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Смерть на сцене",
-      "title_orig": "Death on Scenic Drive",
-      "translation": {
-        "id": 599,
-        "title": "Хихикающий доктор",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1044886",
-      "imdb_id": "tt6704170",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-12-07T06:30:30Z",
-      "updated_at": "2017-12-07T06:30:30Z",
-      "material_data": {
-        "title": "Смерть на сцене",
-        "title_en": "Death on Scenic Drive",
-        "year": 2017,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1044886.jpg",
-        "duration": 82,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "ужасы"
-        ],
-        "imdb_rating": 2.7,
-        "imdb_votes": 100,
-        "premiere_world": "2017-09-30",
-        "actors": [
-          "Stephanie Ash",
-          "Райан Баррет",
-          "Джессика Вано",
-          "Keena",
-          "Jeff Ash",
-          "Amanda Lamarre",
-          "Brianna Lamarre",
-          "Faith Singleton",
-          "Мэтью Нинабер",
-          "Кристиан Бёрджесс"
-        ],
-        "directors": [
-          "Bruce Hammerdale"
-        ],
-        "producers": [
-          "Stephanie Ash",
-          "Габриэль Каррер",
-          "Скотт МакИнтайр"
-        ],
-        "writers": [
-          "Габриэль Каррер"
-        ],
-        "composers": [
-          "Starsky Partridge"
-        ],
-        "editors": [
-          "Габриэль Каррер"
-        ],
-        "operators": [
-          "Скотт МакИнтайр"
-        ]
-      }
-    },
-    {
-      "id": "serial-7044",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Она и её кот: Всё течёт",
-      "title_orig": "Kanojo to Kanojo no Neko: Everything Flows",
-      "other_title": "Она и ее кот: Все меняется / She and Her Cat: Everything Flows",
-      "translation": {
-        "id": 610,
-        "title": "AniLibria.TV",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 4,
-      "episodes_count": 4,
-      "kinopoisk_id": "970868",
-      "imdb_id": "tt5321682",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8635",
-      "shikimori_id": "32491",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-06T19:47:25Z",
-      "updated_at": "2017-12-06T19:47:25Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/185702/ebb76c781091220cf9603ef142d5d823/720p",
-            "2": "//aniqit.com/seria/185703/c87c88e8692d5f6702ea870e7d49bb4c/720p",
-            "3": "//aniqit.com/seria/185704/7447ae36399fe63647df38dd86b19931/720p",
-            "4": "//aniqit.com/seria/185705/da8406722ce8722ab9f8079df7700a3f/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Она и её кот: Всё течёт",
-        "title_en": "Kanojo to Kanojo no Neko: Everything Flows",
-        "other_titles": [
-          "Она и её кот: Всё течёт",
-          "She and Her Cat: Everything Flows"
-        ],
-        "other_titles_jp": [
-          "彼女と彼女の猫 -Everything Flows-"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2016,
-        "description": "Обычная студентка, которая параллельно с учёбой ищет работу и своего чёрного кота.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/970868.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/59b464252ef6757c8805b69d14011c593856e5ef.jpg",
-          "https://shikimori.one/system/screenshots/original/53cd516cd117518e59db734c1608427da7bc6386.jpg"
-        ],
-        "duration": 8,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Повседневность",
-          "Психологическое",
-          "Романтика"
-        ],
-        "anime_studios": [
-          "LIDENFILMS"
-        ],
-        "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 1172,
-        "imdb_rating": 7.7,
-        "imdb_votes": 906,
-        "shikimori_rating": 7.71,
-        "shikimori_votes": 8903,
-        "premiere_world": "2016-03-04",
-        "aired_at": "2016-03-04",
-        "released_at": "2016-03-25",
-        "rating_mpaa": "G",
-        "episodes_total": 4,
-        "episodes_aired": 4,
-        "actors": [
-          "Синтаро Асанума",
-          "Кана Ханадзава",
-          "Саюри Яаги"
-        ],
-        "directors": [
-          "Кадзуя Сакамото"
-        ],
-        "writers": [
-          "Макото Синкай",
-          "Наруки Нагакава"
-        ],
-        "composers": [
-          "Ёхэй Мацуи",
-          "Мито",
-          "Хикару Нанасэ",
-          "То Мас"
-        ],
-        "designers": [
-          "Таканори Танака"
         ]
       }
     }

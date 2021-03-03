@@ -1,6 +1,581 @@
 {
   "results": [
     {
+      "id": "movie-43851",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Операция «Batla House»",
+      "title_orig": "Batla House",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1182455",
+      "imdb_id": "tt8869978",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-16T04:14:57Z",
+      "updated_at": "2019-10-16T04:14:57Z",
+      "material_data": {
+        "title": "Операция «Batla House»",
+        "title_en": "Batla House",
+        "year": 2019,
+        "tagline": "The Story of India's Most Decorated / Controversial Cop",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1182455.jpg",
+        "duration": 146,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "боевик",
+          "драма",
+          "триллер"
+        ],
+        "imdb_rating": 7.2,
+        "imdb_votes": 9527,
+        "premiere_world": "2019-08-15",
+        "actors": [
+          "Джон Абрахам",
+          "Нора Фатехи",
+          "Раджеш Шарма",
+          "Мрунал Тхакур",
+          "Рави Кишан",
+          "Sonam Arora",
+          "Мэниш Чаудхари",
+          "Kranti Prakash Jha",
+          "Gaurav Sharma",
+          "Sidharth Bhardwaj"
+        ],
+        "directors": [
+          "Никхил Адвани"
+        ],
+        "producers": [
+          "Джон Абрахам",
+          "Мониша Адвани",
+          "Мадху Бходжавни",
+          "Бхушан Кумар",
+          "Кришан Кумар",
+          "Сандип Лейзелл",
+          "Kunal Advani",
+          "Винод Бханушали",
+          "Minnakshi Das",
+          "Hemraj Dogra"
+        ],
+        "writers": [
+          "Ритеш Шах"
+        ],
+        "composers": [
+          "Tanishk Bagchi",
+          "Вишал Дадлани",
+          "Анкит Тивари"
+        ],
+        "editors": [
+          "Маахир Завери"
+        ],
+        "designers": [
+          "Прия Сухас",
+          "Vijay Ghodke",
+          "Шитал Шарма"
+        ],
+        "operators": [
+          "Soumik Mukherjee"
+        ]
+      }
+    },
+    {
+      "id": "serial-19185",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Мой сосед-адвокат Чо Дыль-хо",
+      "title_orig": "Dongnebyunhosa Jo Deul-ho",
+      "other_title": "Соседский адвокат Чо Дыль Хо / Местный адвокат Чо Дыль Хо / Мой адвокат, господин Чо / Neighborhood Lawyer Jo Deul Ho / My Lawyer, Mr. Jo",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2016,
+      "last_season": 2,
+      "last_episode": 7,
+      "episodes_count": 7,
+      "kinopoisk_id": "990773",
+      "imdb_id": "tt5616430",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-10-15T12:49:11Z",
+      "updated_at": "2019-10-15T12:49:11Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/499105/7d8908bf2840b0f8509e860ef806683a/720p",
+            "2": "//kodik.cc/seria/499106/7fa5a5180c2543314d6984febbd201eb/720p",
+            "3": "//kodik.cc/seria/499107/087b7e5de2a95cb6e42459ad07aaac35/720p",
+            "4": "//kodik.cc/seria/499108/4e3afbc9e5e45d38343efeb0b423586b/720p",
+            "5": "//kodik.cc/seria/499109/0663174580ae48cb574d043199a551ac/720p",
+            "6": "//kodik.cc/seria/499110/d07ff11470ce72d37939d105499fad57/720p",
+            "7": "//kodik.cc/seria/499111/52f08822b39313be59482f82f9fc29e5/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Мой сосед-адвокат Чо Дыль-хо",
+        "title_en": "Dongnebyunhosa Jo Deul-ho",
+        "year": 2016,
+        "description": "Жизнь успешного прокурора Чо Дыль-хо в корне меняется, когда он решает засудить влиятельного бизнесмена.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/990773.jpg",
+        "duration": 60,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 7.1,
+        "imdb_votes": 60,
+        "premiere_world": "2016-03-28",
+        "actors": [
+          "Пак Щин-ян",
+          "Кан Со-ра",
+          "Ко Хён-джон",
+          "Рю Су-ён",
+          "Пак Соль-ми",
+          "Ким Гап-су",
+          "Кан Щин-иль",
+          "Чон Вон-джун",
+          "Пак Вон-сан",
+          "Ким Дон-джун"
+        ],
+        "directors": [
+          "Ли Джон-соп",
+          "Хан Сан-у"
+        ],
+        "writers": [
+          "Ли Хян-хи",
+          "Чхве Ван-гю",
+          "Ю Ён-сон"
+        ]
+      }
+    },
+    {
+      "id": "serial-13519",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Судьба и ярость",
+      "title_orig": "Unmyeonggwa bunno",
+      "other_title": "Woonmyunggwa Boonno / Fates and Furies / Fate and Wrath / Fate and Fury",
+      "translation": {
+        "id": 639,
+        "title": "SoftBox",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 20,
+      "episodes_count": 20,
+      "kinopoisk_id": "1112291",
+      "imdb_id": "tt9145930",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-12-03T21:33:06Z",
+      "updated_at": "2019-10-15T12:36:53Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/358713/04abdabd6a15f42f335885d437123266/720p",
+            "2": "//kodik.cc/seria/358769/0ae5f8c2cb4dec121f37044cba613842/720p",
+            "3": "//kodik.cc/seria/361126/1f488e823ca4b696a189315e5d52a20c/720p",
+            "4": "//kodik.cc/seria/361127/85ccd0fd7796e5310edc7743594ad022/720p",
+            "5": "//kodik.cc/seria/365480/9abe97845fe5cb5fe943f63f3e20fc56/720p",
+            "6": "//kodik.cc/seria/365780/c69276b0573d8160df8c00b7291fb4c3/720p",
+            "7": "//kodik.cc/seria/368078/4b706041a2604cae0fca1fd72d850b2d/720p",
+            "8": "//kodik.cc/seria/368079/77de03bff02d556c13a317e282b80f0a/720p",
+            "9": "//kodik.cc/seria/368842/318053d3f4b4e40c3e597a4674037f7b/720p",
+            "10": "//kodik.cc/seria/369478/e6428ad3e36e78ef093142de57c36d52/720p",
+            "11": "//kodik.cc/seria/371286/1aba9b2984de82b8ee5a77817015839c/720p",
+            "12": "//kodik.cc/seria/372353/e8c57d81f8c2e5109b398e90e87ee0bd/720p",
+            "13": "//kodik.cc/seria/377160/c2fd6f10c741d3e1234b6ea0e1a345ef/720p",
+            "14": "//kodik.cc/seria/377161/1f339c236b5f33cca06693825e99f545/720p",
+            "15": "//kodik.cc/seria/381729/83b8a97afd5b243c3f107fd76fdad56c/720p",
+            "16": "//kodik.cc/seria/381756/462fe6d6d158a042c2fe1282a7e32651/720p",
+            "17": "//kodik.cc/seria/388950/b7f045f0ff3df02b3c974b57c8a0acc5/720p",
+            "18": "//kodik.cc/seria/388951/08e402a4437dc85a1a226c7cae618205/720p",
+            "19": "//kodik.cc/seria/397538/f1cf2333c8f15f334484ef3e394d44e0/720p",
+            "20": "//kodik.cc/seria/398517/f879b5a3e9c3b21bf9240a83e08dca83/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Судьба и ярость",
+        "title_en": "Unmyeonggwa bunno",
+        "year": 2018,
+        "description": "Девушка в трудной жизненной ситуации обращается за помощью к богатому молодому человеку, который в неё влюбляется.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1112291.jpg",
+        "duration": 35,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "драма",
+          "мелодрама"
+        ],
+        "imdb_rating": 6.8,
+        "imdb_votes": 58,
+        "premiere_world": "2018-12-01",
+        "actors": [
+          "Ли Мин-джон",
+          "Чу Сан-ук",
+          "Со И-хён",
+          "Ли Ги-у",
+          "Юн Хак",
+          "Пак Су-а",
+          "Чон Су-ён",
+          "Щим И-ён",
+          "Чха Су-ён",
+          "Чон Гю-су"
+        ],
+        "directors": [
+          "Чон Дон-юн",
+          "Чо Ён-мин"
+        ],
+        "writers": [
+          "Хон Ён-хи",
+          "Кан Чхор-ун"
+        ]
+      }
+    },
+    {
+      "id": "serial-19184",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Судьба и ярость",
+      "title_orig": "Unmyeonggwa bunno",
+      "other_title": "Woonmyunggwa Boonno / Fates and Furies / Fate and Wrath / Fate and Fury",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 20,
+      "episodes_count": 20,
+      "kinopoisk_id": "1112291",
+      "imdb_id": "tt9145930",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-10-15T12:36:31Z",
+      "updated_at": "2019-10-15T12:36:31Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/499085/a982315f7f6792a33dd4cae33466e302/720p",
+            "2": "//kodik.cc/seria/499086/9f2c0ea8ca626386ffe73bbeeb3e3b97/720p",
+            "3": "//kodik.cc/seria/499087/cc88d413d17fc5fe9c7546b4808958b6/720p",
+            "4": "//kodik.cc/seria/499088/cbeb2a2760afbb0f249eefe6b34f3296/720p",
+            "5": "//kodik.cc/seria/499089/64f740cea6abb9f5c9e153d72cf76a81/720p",
+            "6": "//kodik.cc/seria/499090/9d2cfdcd257a14f6501d09de2a2f344b/720p",
+            "7": "//kodik.cc/seria/499091/b7b7d478d6a25f3c6f72b2919187acba/720p",
+            "8": "//kodik.cc/seria/499092/f754f2a7e0368ccf4e896aa01f93e904/720p",
+            "9": "//kodik.cc/seria/499093/8da2a388f6b7c68436433e90ae8bd66b/720p",
+            "10": "//kodik.cc/seria/499094/8c2edf0343fa47c565e92df552268b11/720p",
+            "11": "//kodik.cc/seria/499095/1a0baf8b20d8f19ee90ecf4a57a75ede/720p",
+            "12": "//kodik.cc/seria/499096/be063d96f39e38fe7957a34e52a968d1/720p",
+            "13": "//kodik.cc/seria/499097/3aa3acee3f2a41d02dfeb501eac15fb2/720p",
+            "14": "//kodik.cc/seria/499098/690b8bb3a4ea1e23f09ec009f8c4eebe/720p",
+            "15": "//kodik.cc/seria/499099/76a218d3f36ed275e670dd8d967f2d44/720p",
+            "16": "//kodik.cc/seria/499100/63617210669ccef71d6ad08ec2d1eb3d/720p",
+            "17": "//kodik.cc/seria/499101/f7957244415b71691a2ce5919ac74cd8/720p",
+            "18": "//kodik.cc/seria/499102/f0f6412f43f11cd1d96237ec090eb22e/720p",
+            "19": "//kodik.cc/seria/499103/52d560a27371b509501e66e53e8631a8/720p",
+            "20": "//kodik.cc/seria/499104/492453ace869bdb4a9f35d0d5e336c3d/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Судьба и ярость",
+        "title_en": "Unmyeonggwa bunno",
+        "year": 2018,
+        "description": "Девушка в трудной жизненной ситуации обращается за помощью к богатому молодому человеку, который в неё влюбляется.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1112291.jpg",
+        "duration": 35,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "драма",
+          "мелодрама"
+        ],
+        "imdb_rating": 6.8,
+        "imdb_votes": 58,
+        "premiere_world": "2018-12-01",
+        "actors": [
+          "Ли Мин-джон",
+          "Чу Сан-ук",
+          "Со И-хён",
+          "Ли Ги-у",
+          "Юн Хак",
+          "Пак Су-а",
+          "Чон Су-ён",
+          "Щим И-ён",
+          "Чха Су-ён",
+          "Чон Гю-су"
+        ],
+        "directors": [
+          "Чон Дон-юн",
+          "Чо Ён-мин"
+        ],
+        "writers": [
+          "Хон Ён-хи",
+          "Кан Чхор-ун"
+        ]
+      }
+    },
+    {
+      "id": "movie-43838",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Правитель Джадди",
+      "title_orig": "Jaddi Sardar",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1249896",
+      "imdb_id": "tt10064270",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-15T10:42:02Z",
+      "updated_at": "2019-10-15T10:42:02Z",
+      "material_data": {
+        "title": "Jaddi Sardar",
+        "title_en": "",
+        "year": 2019,
+        "duration": 150,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "боевик",
+          "драма",
+          "мелодрама"
+        ],
+        "imdb_rating": 6,
+        "imdb_votes": 45,
+        "premiere_world": "2019-09-06",
+        "actors": [
+          "Гугу Гилл",
+          "Sippy Gill",
+          "Dilpreet Dhillon",
+          "Саван Ропували",
+          "Gurpreet Bhangu",
+          "Satwant Kaur",
+          "Гурмит Саджан",
+          "Сварадж Сандху",
+          "Хобби Дхаливал",
+          "Арджуна Бхалла"
+        ],
+        "directors": [
+          "Manbhavan Singh"
+        ],
+        "producers": [
+          "Baljit Singh Johal",
+          "Dilpreet Singh Johal",
+          "Yaadwinder Singh Johal",
+          "Joe Jose"
+        ],
+        "writers": [
+          "Dheeraj Kumar",
+          "Каран Сандху"
+        ],
+        "editors": [
+          "Kamal Singh",
+          "Sanju Yadav"
+        ],
+        "designers": [
+          "Noor Arora"
+        ],
+        "operators": [
+          "K. Sunil"
+        ]
+      }
+    },
+    {
+      "id": "movie-43832",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Решающая схватка",
+      "title_orig": "Hyultu",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2011,
+      "kinopoisk_id": "617043",
+      "imdb_id": "tt2041374",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-15T10:28:00Z",
+      "updated_at": "2019-10-15T10:28:00Z",
+      "material_data": {
+        "title": "Решающая схватка",
+        "title_en": "Hyeoltu",
+        "year": 2011,
+        "description": "Китайская Маньчжурия, 1619 год. Шел 11-й год правления короля Чосона Кванхэ-гуна. После жестокого сражения, которое больше походило на кровавую бойню, трое военных - генерал армии Чосона, командир подразделения и рядовой - покинули поле битвы до конца боя, чтобы остаться в живых. По дороге домой всех трёх застает жестокая пурга. И единственным спасением для них оказался постоялый двор, в котором останавливались купцы, торговавшие между Чосоном и Минь.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/617043.jpg",
+        "duration": 111,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "драма",
+          "история",
+          "триллер"
+        ],
+        "kinopoisk_rating": 6.3,
+        "kinopoisk_votes": 164,
+        "imdb_rating": 5.8,
+        "imdb_votes": 257,
+        "premiere_world": "2011-02-24",
+        "actors": [
+          "Пак Хи-сун",
+          "Чин Гу",
+          "Ко Чхан-сок",
+          "Ким Гап-су",
+          "Чон Гук-хван",
+          "Чхве Иль-хва",
+          "Чан Хи-джин",
+          "Ли Джон-су",
+          "Ким Хён-джон",
+          "Чан Ин-хо"
+        ],
+        "directors": [
+          "Пак Хун-джон"
+        ],
+        "producers": [
+          "Ким Су-джин",
+          "Ли Гын-ук",
+          "Юн Ин-бом"
+        ],
+        "writers": [
+          "Пак Хун-джон"
+        ],
+        "composers": [
+          "Вон Иль"
+        ],
+        "editors": [
+          "Щин Мин-гён"
+        ],
+        "designers": [
+          "Ким Ин-ян",
+          "Чон Гён-хи",
+          "Юн Иль-лан"
+        ],
+        "operators": [
+          "Ким Ён-хо"
+        ]
+      }
+    },
+    {
+      "id": "movie-43833",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Закадычные друзья",
+      "title_orig": "Can Dostlar",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1227432",
+      "imdb_id": "tt9533342",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-15T10:27:10Z",
+      "updated_at": "2019-10-15T10:27:10Z",
+      "material_data": {
+        "title": "Закадычные друзья",
+        "title_en": "Can Dostlar",
+        "year": 2019,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1227432.jpg",
+        "duration": 103,
+        "countries": [
+          "Турция"
+        ],
+        "genres": [
+          "комедия",
+          "семейный"
+        ],
+        "imdb_rating": 5.6,
+        "imdb_votes": 275,
+        "premiere_world": "2019-01-18",
+        "actors": [
+          "Селим Байрактар",
+          "Берат Эфэ Парлар",
+          "Esat Polat Güler",
+          "Eda Doger",
+          "Dora Dalgic",
+          "Таха Сёнмезисик",
+          "Zeynep Çelik",
+          "Arda Tasarcan",
+          "Alperen Efe Esmer",
+          "Ilknur Külahlioglu"
+        ],
+        "directors": [
+          "Tugçe Soysop"
+        ],
+        "producers": [
+          "Неджати Акпынар",
+          "Zumrut Arol Bekce",
+          "Cansu Akbel",
+          "Burcu Duru",
+          "Джерри Ко",
+          "Ki-yun Lee"
+        ],
+        "writers": [
+          "Öner Ates",
+          "Nagihan Cemcir",
+          "Cihan Deniz",
+          "Batuhan Ersimsek",
+          "Угур Гюверджин",
+          "Динар Кахведжи",
+          "Мурат Кепез",
+          "Pelin Serin",
+          "Onur Ümit"
+        ],
+        "composers": [
+          "Jingle Jungle"
+        ],
+        "editors": [
+          "Emrullah Hekim"
+        ],
+        "designers": [
+          "Özüdogru Cici"
+        ],
+        "operators": [
+          "Толга Кутлар"
+        ]
+      }
+    },
+    {
       "id": "movie-43834",
       "type": "foreign-movie",
       "link": "",
@@ -7791,499 +8366,6 @@
         ],
         "operators": [
           "Майкл Маршалл"
-        ]
-      }
-    },
-    {
-      "id": "movie-43616",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Наложенный платёж",
-      "title_orig": "Cash on Delivery",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1046744",
-      "imdb_id": "tt6779396",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-11T12:09:49Z",
-      "updated_at": "2019-10-11T12:09:49Z",
-      "material_data": {
-        "title": "Наложенный платёж",
-        "title_en": "Cash on Delivery",
-        "year": 2017,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1046744.jpg",
-        "duration": 137,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "триллер"
-        ],
-        "imdb_rating": 6,
-        "imdb_votes": 135,
-        "premiere_world": "2017-07-14",
-        "actors": [
-          "Vyoma Nandi",
-          "Abhishek Shah",
-          "Malhar Thakar"
-        ],
-        "directors": [
-          "Нирадж Джоши"
-        ],
-        "producers": [
-          "Rashesh Parikh",
-          "Jaimin Patel",
-          "Ramku Patgir",
-          "Ashish Shah",
-          "Saumil Shah",
-          "Rajesh Patel",
-          "Rajesh Vasanwala"
-        ],
-        "writers": [
-          "Нирадж Джоши"
-        ],
-        "editors": [
-          "Pramod Kunder",
-          "Дармеш Патель"
-        ]
-      }
-    },
-    {
-      "id": "movie-43619",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Э.М.И. 333 дня",
-      "title_orig": "E.M.P. 333 Days",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1275206",
-      "imdb_id": "tt8521500",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-11T12:05:39Z",
-      "updated_at": "2019-10-11T12:05:39Z",
-      "material_data": {
-        "title": "E.M.P. 333 Days",
-        "title_en": "",
-        "year": 2018,
-        "description": "После воздействия электромагнитного импульса Северная Америка становится средневековым государством, в котором не работает электроника и царит полная анархия. Одиннадцатилетней девочке предстоит серьезная борьба с собой и внешним миром, пока она пытается найти отца.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1275206.jpg",
-        "duration": 83,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "драма",
-          "приключения",
-          "триллер"
-        ],
-        "imdb_rating": 4.9,
-        "imdb_votes": 356,
-        "premiere_world": "2018-06-28",
-        "actors": [
-          "Derek A. Bell",
-          "Liam Davidson",
-          "Cheryl Jan Ellis",
-          "Rosa Ferreri",
-          "Martin Saunders",
-          "Daniel Smith"
-        ],
-        "directors": [
-          "Adriano Ferreri"
-        ],
-        "producers": [
-          "Adriano Ferreri",
-          "Michelle Ferreri"
-        ],
-        "writers": [
-          "Adriano Ferreri",
-          "Adriano Ferreri"
-        ],
-        "composers": [
-          "Martin Saunders"
-        ],
-        "editors": [
-          "Adriano Ferreri",
-          "Adriano Ferreri"
-        ],
-        "operators": [
-          "Adriano Ferreri"
-        ]
-      }
-    },
-    {
-      "id": "movie-43620",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Глядя вверх",
-      "title_orig": "Yin he bu xi ban",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1226458",
-      "imdb_id": "tt10195210",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-11T12:03:37Z",
-      "updated_at": "2019-10-11T12:03:37Z",
-      "material_data": {
-        "title": "Глядя вверх",
-        "title_en": "Yin he bu xi ban",
-        "year": 2019,
-        "description": "Космонавт, потерявший связь с Землей, вспоминает своего отца и то, чему он его учил.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1226458.jpg",
-        "duration": 147,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 6,
-        "imdb_votes": 362,
-        "premiere_world": "2019-07-07",
-        "actors": [
-          "Ден Чао",
-          "Бай Юй",
-          "Жэнь Суси",
-          "Xi Wang",
-          "Сунь Силунь",
-          "Ли Цзяньи",
-          "Лян Чао",
-          "Шао Бин",
-          "Ван Гэ",
-          "У Яхэн"
-        ],
-        "directors": [
-          "Ден Чао",
-          "Юй Баймэй"
-        ],
-        "producers": [
-          "Leng Yi",
-          "Чжао Жэньпэн"
-        ],
-        "writers": [
-          "Юй Баймэй"
-        ],
-        "composers": [
-          "Стеффен Тум"
-        ],
-        "editors": [
-          "Баллу Салуджа"
-        ],
-        "designers": [
-          "Хао И",
-          "Shiqi Ma"
-        ],
-        "operators": [
-          "Макс Ван"
-        ]
-      }
-    },
-    {
-      "id": "movie-43621",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Преображение",
-      "title_orig": "Byeonsin",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1219939",
-      "imdb_id": "tt10800758",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-11T12:02:43Z",
-      "updated_at": "2019-10-11T12:02:43Z",
-      "material_data": {
-        "title": "Преображение",
-        "title_en": "Byeonsin",
-        "year": 2019,
-        "description": "Во время обряда экзорцизма демон обещает погубить семью священника Пака и, убив свою жертву, сбегает. Из-за слухов о произошедшем семейство Паков с тремя детьми вынужденно переезжает в другой дом, и его глава больше не стремится общаться с родным братом. На новом месте обнаруживается недружелюбный сосед, который шумит по ночам, а вскоре и все члены семьи по очереди начинают очень странно себя вести, наводя ужас на остальных домочадцев.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1219939.jpg",
-        "duration": 113,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "ужасы"
-        ],
-        "kinopoisk_rating": 5.8,
-        "kinopoisk_votes": 184,
-        "imdb_rating": 5.8,
-        "imdb_votes": 811,
-        "premiere_world": "2019-08-21",
-        "rating_mpaa": "R",
-        "actors": [
-          "Пэ Сон-у",
-          "Сон Дон-иль",
-          "Чан Ён-нам",
-          "Ким Хе-джун",
-          "Чо И-хён",
-          "Ким Ган-хун",
-          "Пэк Юн-щик",
-          "О Дэ-хван",
-          "Сон Джон-хак",
-          "Ким Гви-сон"
-        ],
-        "directors": [
-          "Ким Хон-сон"
-        ],
-        "producers": [
-          "Ку Сон-мок",
-          "Хван Сан-гиль",
-          "Ким Ён-хун"
-        ],
-        "writers": [
-          "Ким Хян-джи"
-        ],
-        "composers": [
-          "Ким Джун-сон"
-        ],
-        "editors": [
-          "Щин Мин-гён"
-        ],
-        "designers": [
-          "Ли Ын-гён"
-        ],
-        "operators": [
-          "Юн Джу-хван"
-        ]
-      }
-    },
-    {
-      "id": "movie-43626",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Он А",
-      "title_orig": "Nu ta",
-      "other_title": "Туфелька",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1270771",
-      "imdb_id": "tt8856172",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-11T11:56:24Z",
-      "updated_at": "2019-10-11T11:56:24Z",
-      "material_data": {
-        "title": "Он А",
-        "title_en": "Nu ta",
-        "year": 2018,
-        "description": "В безжалостном авторитарном мире управляемом ботинками, мать-туфля рожает и выращивает дочь-туфельку, замаскировавшись под один из ботинков.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1270771.jpg",
-        "duration": 95,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "мультфильм"
-        ],
-        "imdb_rating": 6.8,
-        "imdb_votes": 52,
-        "premiere_world": "2018-06-20",
-        "actors": [
-          "Лу Фуян",
-          "Чжоу Шэнвэй"
-        ],
-        "directors": [
-          "Чжоу Шэнвэй"
-        ],
-        "producers": [
-          "Ли Юйцзянь",
-          "Чжоу Шэнвэй",
-          "Huiyan Jin"
-        ],
-        "writers": [
-          "Чжоу Шэнвэй"
-        ],
-        "composers": [
-          "Юань Сыхань"
-        ],
-        "editors": [
-          "Чжоу Шэнвэй"
-        ],
-        "operators": [
-          "Чжоу Шэнвэй"
-        ]
-      }
-    },
-    {
-      "id": "movie-43605",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Бешеный бык",
-      "title_orig": "Seongnan hwangso",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1112152",
-      "imdb_id": "tt9225192",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-11T11:04:39Z",
-      "updated_at": "2019-10-11T11:04:39Z",
-      "material_data": {
-        "title": "Бешеный бык",
-        "title_en": "Seongnan hwangso",
-        "year": 2018,
-        "tagline": "Don't Mess With Me",
-        "description": "Кан Дон-чхоль когда-то был бандитом, но остепенился: теперь он счастливо женат и работает грузчиком на рыбном рынке. Пытаясь улучшить семейное финансовое положение, мужчина вкладывается в рискованный бизнес, из-за чего жена на него злится. В тот же вечер Дон-чхоль возвращается домой и обнаруживает, что дом в полном разгроме, а любимая пропала. Пытаясь разобраться законными методами, он получает звонок от неизвестного - тот в обмен на крупную сумму советует отказаться от поисков супруги. Придется бывшему бандиту достать старую кожанку и напомнить местной организованной преступности, кого бояться надо.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1112152.jpg",
-        "duration": 116,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "боевик",
-          "криминал"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 942,
-        "imdb_rating": 6.6,
-        "imdb_votes": 2004,
-        "premiere_world": "2018-11-22",
-        "actors": [
-          "Ма Дон-сок",
-          "Сон Джи-хё",
-          "Ким Сон-о",
-          "Ким Мин-джэ",
-          "Пак Чи-хван",
-          "Ли Сон-у",
-          "Пэ Ну-ри",
-          "Пак Чи-хун",
-          "Чон Ин-ги",
-          "Лим Хён-джун"
-        ],
-        "directors": [
-          "Ким Мин-хо"
-        ],
-        "producers": [
-          "Чан Джэ-хо",
-          "Чан Вон-сок",
-          "Пак Чун-щик",
-          "Хван Сун-иль"
-        ],
-        "writers": [
-          "Ким Мин-хо"
-        ],
-        "composers": [
-          "Моуг"
-        ],
-        "editors": [
-          "Ким Сон-мин"
-        ],
-        "designers": [
-          "Ким Хи-джин",
-          "Нам Джи-су"
-        ],
-        "operators": [
-          "Ли Сон-джэ"
-        ]
-      }
-    },
-    {
-      "id": "movie-43607",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Делиха 2",
-      "title_orig": "Deliha 2",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1133367",
-      "imdb_id": "tt7871636",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-10-11T11:02:14Z",
-      "updated_at": "2019-10-11T11:02:14Z",
-      "material_data": {
-        "title": "Делиха 2",
-        "title_en": "Deliha 2",
-        "year": 2018,
-        "description": "Безумная и открытая Делиха постоянно вляпывается в новые неприятности. Теперь она ищет путь, как сделать карьеру. Мечтая стать шеф-поваром, она начинает работать в ресторане. Сможет ли Делиха достигнуть желаемого, или реальный мир разобьёт её мечты и сердце?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1133367.jpg",
-        "duration": 106,
-        "countries": [
-          "Турция"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "imdb_rating": 4.5,
-        "imdb_votes": 2295,
-        "premiere_world": "2018-01-12",
-        "actors": [
-          "Гупсе Озай",
-          "Эда Эдже",
-          "Аксель Бонфиль",
-          "Дерия Алабора",
-          "Эсин Иден",
-          "Хюлья Дуяр",
-          "Али Челик",
-          "Мерт Онер",
-          "Fatih Özkan",
-          "Özlem Akinözü"
-        ],
-        "directors": [
-          "Гупсе Озай"
-        ],
-        "producers": [
-          "Неджати Акпынар",
-          "Zumrut Arol Bekce",
-          "Mahir Altundag",
-          "Майк Им",
-          "Пелин Экинджи Кая"
-        ],
-        "writers": [
-          "Гупсе Озай"
-        ],
-        "composers": [
-          "Джем Йылдыз"
-        ],
-        "editors": [
-          "Akin Denizli",
-          "Sercan Güdücü",
-          "Чагри Тюрккан"
-        ],
-        "designers": [
-          "Nilgün Nalçaci",
-          "Тугба Атач"
-        ],
-        "operators": [
-          "Жан-Поль Сересин"
         ]
       }
     }

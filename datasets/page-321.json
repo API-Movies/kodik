@@ -1,6 +1,632 @@
 {
   "results": [
     {
+      "id": "movie-10325",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Волшебная лампа Аладдина",
+      "title_orig": "Волшебная лампа Аладдина",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1967,
+      "kinopoisk_id": "45833",
+      "imdb_id": "tt0167482",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-09-30T16:24:42Z",
+      "updated_at": "2017-05-16T06:30:44Z",
+      "material_data": {
+        "title": "Волшебная лампа Аладдина",
+        "title_en": "",
+        "year": 1967,
+        "tagline": "В чудесный мир сказки, приключений 1001 ночи, перенесёт вас фильм, полный волшебства, чарующих красок, интересных событий",
+        "description": "Злой колдун-магрибинец взывает к звездам, чтобы те поведали ему имя человека, что найдет волшебную лампу, способную творить чудеса. Звезды ответили: «Это Аладдин». В Багдаде живет дочь султана, красавица Будур. Всякий, кто посмеет взглянуть на нее, будет казнен. \r\n\r\nНо своевольная и капризная принцесса заставляет Аладдина   взглянуть на нее. Юноша как увидел принцессу, так сразу в нее и влюбился. А волшебная лампа со всемогущим джином, готовым выполнить любой приказ повелителя, помогла Аладдину сохранить свою любовь и справиться с Магрибинцем.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/45833.jpg",
+        "duration": 84,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "мелодрама",
+          "приключения",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 7.8,
+        "kinopoisk_votes": 8353,
+        "imdb_rating": 6.8,
+        "imdb_votes": 512,
+        "premiere_world": "1967-12-30",
+        "rating_mpaa": "PG",
+        "minimal_age": 12,
+        "actors": [
+          "Борис Быстров",
+          "Додо Чоговадзе",
+          "Андрей Файт",
+          "Отар Коберидзе",
+          "Екатерина Верулашвили",
+          "Георгий Милляр",
+          "Гусейн Садыхов",
+          "Валентин Брылеев",
+          "Юрий Чекулаев",
+          "Отар Биланишвили"
+        ],
+        "directors": [
+          "Борис Рыцарев"
+        ],
+        "writers": [
+          "Виктор Виткович",
+          "Григорий Ягдфельд"
+        ],
+        "composers": [
+          "Алексей Муравлёв"
+        ],
+        "designers": [
+          "Анатолий Анфилов",
+          "Константин Загорский",
+          "Е. Горбачёва",
+          "Элла Маклакова"
+        ],
+        "operators": [
+          "Василий Дульцев",
+          "Лев Рогозин"
+        ]
+      }
+    },
+    {
+      "id": "serial-3499",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Дон И",
+      "title_orig": "Dong Yi",
+      "other_title": "Dawn / Dong-i",
+      "translation": {
+        "id": 641,
+        "title": "STEPonee",
+        "type": "voice"
+      },
+      "year": 2010,
+      "last_season": 1,
+      "last_episode": 60,
+      "episodes_count": 60,
+      "kinopoisk_id": "574835",
+      "imdb_id": "tt1666209",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-03-30T18:55:26Z",
+      "updated_at": "2017-05-15T17:40:00Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/101100/d289ccc4c74bb974b2ce05a078022b67/720p",
+            "2": "//kodik.cc/seria/101101/935579854bbf84fb5ee11b6d04508327/720p",
+            "3": "//kodik.cc/seria/101102/5d8c8ffc9453c12365e8dd7ae6474605/720p",
+            "4": "//kodik.cc/seria/101103/15d04d745b5ae2d67700b0181e429d13/720p",
+            "5": "//kodik.cc/seria/101104/e8902b1e437b45144608873b247b8004/720p",
+            "6": "//kodik.cc/seria/101105/e2a7f27d15f0637370c88eb30dc92e4d/720p",
+            "7": "//kodik.cc/seria/101106/c88eb9702d7cf2da7315d34c2599dd63/720p",
+            "8": "//kodik.cc/seria/101107/8138dee8a0589bec37ab218ee25893fe/720p",
+            "9": "//kodik.cc/seria/101108/5a644ae5f979dd510b0acc3a6826eaa6/720p",
+            "10": "//kodik.cc/seria/101109/54a05a7e74fd686c8821826fb9092055/720p",
+            "11": "//kodik.cc/seria/101110/33ff82e686b0d6ff9da3d628d7e60ef2/720p",
+            "12": "//kodik.cc/seria/101111/7388a061c741163fc55aaccbac993ef7/720p",
+            "13": "//kodik.cc/seria/101112/961db18fa3a3cf8193f23e3e4cab68be/720p",
+            "14": "//kodik.cc/seria/101113/62cf3a388453f71538f82abf7ee71005/720p",
+            "15": "//kodik.cc/seria/101114/e66fe03d005c8bf7b52922448185ef9e/720p",
+            "16": "//kodik.cc/seria/101115/ed0bfa0c4deee788c2b48ead52dda9ef/720p",
+            "17": "//kodik.cc/seria/101116/526480b243bc3dc6584b21b42a79726c/720p",
+            "18": "//kodik.cc/seria/101117/8e3a32244881771a06b200fcd24991e2/720p",
+            "19": "//kodik.cc/seria/101118/e6b13b87f64a836e2e1efb8652f675c4/720p",
+            "20": "//kodik.cc/seria/101119/3f16f2610288af8308403d8d7d71faec/720p",
+            "21": "//kodik.cc/seria/101120/ae7a49760586fcb50cc8b7aff927e0a1/720p",
+            "22": "//kodik.cc/seria/101121/af1afedbfe93ccf73cc83e2c4e3b2ad0/720p",
+            "23": "//kodik.cc/seria/101122/1beaa22c85b557dac0ca67b208fd1307/720p",
+            "24": "//kodik.cc/seria/101123/9fc4eeb3769883a692fcfe3b6d63acad/720p",
+            "25": "//kodik.cc/seria/101124/d136e0eb7a6de538b5148a29517297f2/720p",
+            "26": "//kodik.cc/seria/101125/d6ada7cb1e424aaf54077f7d82e1de98/720p",
+            "27": "//kodik.cc/seria/101126/c6014d0d607d4fc3dbff219db0b4856c/720p",
+            "28": "//kodik.cc/seria/101127/0dee85cfd6f64e4870f36189539b2102/720p",
+            "29": "//kodik.cc/seria/101128/a39af266b681db1be189b405a1210285/720p",
+            "30": "//kodik.cc/seria/101129/986613076328c1ba6174e603da48fe07/720p",
+            "31": "//kodik.cc/seria/101130/262c5f0c13407d818d79dcd49e236c1e/720p",
+            "32": "//kodik.cc/seria/101131/c10472ee3c9b9dff5c1a27de5a7a3469/720p",
+            "33": "//kodik.cc/seria/101738/5d3ab8842add3391d09ab7e37a2c3973/720p",
+            "34": "//kodik.cc/seria/101739/0943fcdbf646c0f804ee786fd84fb327/720p",
+            "35": "//kodik.cc/seria/105324/91be28219e2385c7bb18a9f236db05ce/720p",
+            "36": "//kodik.cc/seria/107611/4a02c7df087e9f44e49df63f835f0c96/720p",
+            "37": "//kodik.cc/seria/109054/8b602834cf111d44371269acc60e33a4/720p",
+            "38": "//kodik.cc/seria/267924/ff6667f115cdcb3a26d95a4e32f24763/720p",
+            "39": "//kodik.cc/seria/267925/568f4bac3144a04f6474990a11b83a3e/720p",
+            "40": "//kodik.cc/seria/267926/cea6371e7be93c9b44682e651ef5bc17/720p",
+            "41": "//kodik.cc/seria/267927/3a33099d8f177109bb3c04ce8af75b3f/720p",
+            "42": "//kodik.cc/seria/267928/c0d026ac7eb6a7c2ae2f184b8862769b/720p",
+            "43": "//kodik.cc/seria/267929/6c2692dc76f104c18c02449d0ceac5b1/720p",
+            "44": "//kodik.cc/seria/267930/7ad9be83a111242178d9e5c5229e9016/720p",
+            "45": "//kodik.cc/seria/267931/0a7740377762333a076653c202ce1c4d/720p",
+            "46": "//kodik.cc/seria/267932/7503f1ee6abd5ae6490aaac006ad10be/720p",
+            "47": "//kodik.cc/seria/267933/d2422d41def1947db2a275f341a7de3a/720p",
+            "48": "//kodik.cc/seria/267934/c15fbb55a73232e862ad95a778f34eff/720p",
+            "49": "//kodik.cc/seria/267935/185d43a5be0ecc7dedd7940316e9a931/720p",
+            "50": "//kodik.cc/seria/267936/db3d088a4e3c6a7ba8a092850db38127/720p",
+            "51": "//kodik.cc/seria/267937/13cfa7ee6ccc8dee69683c9feacd6017/720p",
+            "52": "//kodik.cc/seria/267938/04cacb76555c46b40160ab57aeeaedaa/720p",
+            "53": "//kodik.cc/seria/267939/9f89aa9dc66c971b2adcf23a0db3d348/720p",
+            "54": "//kodik.cc/seria/267940/27e5158f9577a125e3734f16fcc1abbb/720p",
+            "55": "//kodik.cc/seria/267983/e190ab423f748d145b55a3ac43ceb7d0/720p",
+            "56": "//kodik.cc/seria/267984/3f7d0ec79b985204e00dacaa99d64b03/720p",
+            "57": "//kodik.cc/seria/267985/74cdd9dd15ccb499ee7f93baadf03f08/720p",
+            "58": "//kodik.cc/seria/267986/bf45cba49eed7ed4bd502f0b63f2d742/720p",
+            "59": "//kodik.cc/seria/267987/3062010db5eb385b5ed8af3e33ab3b29/720p",
+            "60": "//kodik.cc/seria/267988/2bb456a61419e866460f7860383bc16c/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Дон И",
+        "title_en": "Dong Yi",
+        "year": 2010,
+        "description": "Действие происходит в период правления короля Сукчона династии Чосон. Дон И работает прачкой во дворце. Она получила расположение королевы Инхён, а позже и любовь короля Сукчона. Он услышал, как она молится в своей комнате о здоровье королевы, и её доброта тронула его сердце. Позже она становится наложницей короля Сук-пин и матерью 21-го короля Ёнджо и принцессы Ёнсу.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/574835.jpg",
+        "duration": 60,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "драма",
+          "история"
+        ],
+        "kinopoisk_rating": 7.7,
+        "kinopoisk_votes": 208,
+        "imdb_rating": 8,
+        "imdb_votes": 1115,
+        "premiere_world": "2010-03-22",
+        "actors": [
+          "Хан Хё-джу",
+          "Чи Джин-хи",
+          "Пэ Су-бин",
+          "Чхве Ран",
+          "Хан Да-мин",
+          "Чон Ын-пхё",
+          "Чон Ю-ми",
+          "Ким Хе Джин",
+          "Ким Ю-джон",
+          "Ли Гван-су"
+        ],
+        "directors": [
+          "Ким Сан-хёп",
+          "Ли Бён-хун"
+        ],
+        "writers": [
+          "Ким И-ён"
+        ]
+      }
+    },
+    {
+      "id": "movie-16736",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Атакуй заправки!",
+      "title_orig": "Juyuso seubgyuksageun",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 1999,
+      "kinopoisk_id": "64382",
+      "imdb_id": "tt0262246",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-05-15T06:02:37Z",
+      "updated_at": "2017-05-15T06:02:37Z",
+      "material_data": {
+        "title": "Атакуй заправки!",
+        "title_en": "Juyuso seubgyuksageun",
+        "year": 1999,
+        "tagline": "Just when you wanted to laugh, here they come.",
+        "description": "Однажды вечером четыре гопника решают ограбить местную бензоколонку. Удачно завершив свою миссию, друзья приходят к выводу, что грабёж заправок является весьма прибыльным и интересным бизнесом. А так как других заправочных станций поблизости не наблюдается, парни решают нанести визит на уже обчищенную ими бензоколонку. Однако за время, прошедшее с их последнего посещения, денег на станции не прибавилось. Поэтому новоявленная бригада захватывает здание станции и берет её сотрудников в заложники. И тут друзей осеняет гениальная мысль: если денег нет на самой заправке, то их можно взять у клиентов. Они-то, по плану бензиновой бригады, и станут их следующими жертвами.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/64382.jpg",
+        "duration": 113,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "боевик",
+          "комедия",
+          "криминал"
+        ],
+        "kinopoisk_rating": 7.1,
+        "kinopoisk_votes": 483,
+        "imdb_rating": 7,
+        "imdb_votes": 4100,
+        "premiere_world": "1999-10-02",
+        "rating_mpaa": "R",
+        "minimal_age": 16,
+        "actors": [
+          "Ли Сон-джэ",
+          "Ю О-сон",
+          "Кан Сон-джин",
+          "Ю Джи-тхэ",
+          "Пак Ён-гю",
+          "Чон Джун",
+          "Ли Ё-вон",
+          "Ли Джон-хёк",
+          "Ким Су-ро",
+          "Ли Вон-джон"
+        ],
+        "directors": [
+          "Ким Сан-джин"
+        ],
+        "producers": [
+          "Ли Гван-су",
+          "Ли Джун-тхэк",
+          "Ким Ми-хи"
+        ],
+        "writers": [
+          "Пак Чон-у"
+        ],
+        "composers": [
+          "Сон Му-хён"
+        ],
+        "editors": [
+          "Ко Им-пхё"
+        ],
+        "designers": [
+          "О Сан-ман",
+          "Ким Ын-сук"
+        ],
+        "operators": [
+          "Чхве Джон-у"
+        ]
+      }
+    },
+    {
+      "id": "movie-16593",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Монстр в шкафу",
+      "title_orig": "Closet Monster",
+      "translation": {
+        "id": 660,
+        "title": "GreenРай Studio",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "844156",
+      "imdb_id": "tt3638396",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-05-05T18:31:49Z",
+      "updated_at": "2017-05-15T05:02:19Z",
+      "material_data": {
+        "title": "Монстр в шкафу",
+        "title_en": "Closet Monster",
+        "year": 2015,
+        "description": "Старшеклассник из Канады Оскар Мэдли мечтает учиться в Нью-Йорке на специалиста по гриму для кино. В детстве парень стал свидетелем жестокого убийства гея, и страх открыть миру свою гомосексуальность прочно засел в его сознании, как чудовище в шкафу. Разведённые родители так же не делают жизнь Оскара проще, только пара друзей да хомяк, с которым наш герой привык разговаривать с детства, помогают подростку идентифицироваться в этом мире.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/844156.jpg",
+        "duration": 90,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "детектив",
+          "драма",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 733,
+        "imdb_rating": 7,
+        "imdb_votes": 7586,
+        "premiere_world": "2015-09-13",
+        "actors": [
+          "Аарон Абрамс",
+          "Джек Фултон",
+          "Джоэнн Келли",
+          "Изабелла Росселлини",
+          "Jinji Dawson",
+          "Meghan Cullen",
+          "Bradley Nippard",
+          "Megan Kennedy",
+          "Коннор Джессап",
+          "София Банжаф"
+        ],
+        "directors": [
+          "Стивен Данн"
+        ],
+        "producers": [
+          "Фрайзер Эш",
+          "Кевин Крикст",
+          "Эдвард Дж. Мартин",
+          "Нив Фичман",
+          "Крис Хэтчер",
+          "Эд Мартин"
+        ],
+        "writers": [
+          "Стивен Данн"
+        ],
+        "composers": [
+          "Тодор Кобаков",
+          "Maya Postepski"
+        ],
+        "editors": [
+          "Брайан Эткинсон"
+        ],
+        "designers": [
+          "Лиза Сопер",
+          "Мелани Оутс"
+        ],
+        "operators": [
+          "Бобби Шор"
+        ]
+      }
+    },
+    {
+      "id": "movie-16724",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Ангелы и демоны существуют",
+      "title_orig": "Angels and Demons Are Real",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "imdb_id": "tt6736290",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-05-13T23:11:38Z",
+      "updated_at": "2017-05-13T23:11:38Z"
+    },
+    {
+      "id": "serial-3452",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Она очень любит ложь",
+      "title_orig": "Geunyeoneun geojitmaleul neomoo saranghae",
+      "other_title": "Лжец и его возлюбленная / Она влюблена в ложь / The Liar and His Lover",
+      "translation": {
+        "id": 639,
+        "title": "SoftBox",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "1008784",
+      "imdb_id": "tt6422226",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-03-25T00:20:26Z",
+      "updated_at": "2017-05-12T08:58:45Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/99944/8ab3236192000fb501e3d65df9178938/720p",
+            "2": "//kodik.cc/seria/99945/56204f3f1618737dd628d5714e49ff3a/720p",
+            "3": "//kodik.cc/seria/100903/06185d7f01bb7a3812ad3b70d02772a4/720p",
+            "4": "//kodik.cc/seria/100904/d38dd2a8c5f316c8cf633b9522954341/720p",
+            "5": "//kodik.cc/seria/102256/6fa7d559efc7dc7e0793e4c775ea9d22/720p",
+            "6": "//kodik.cc/seria/102257/c7902af1ebe353601c3b25d66ffec579/720p",
+            "7": "//kodik.cc/seria/104072/299ab649e202743389c3a7aaed057733/720p",
+            "8": "//kodik.cc/seria/104073/c210d6faae72e720f7f8b7e6800e4859/720p",
+            "9": "//kodik.cc/seria/105340/dc54cfbf9a1fc005d5484e1a4f2bf55b/720p",
+            "10": "//kodik.cc/seria/105341/116353039b399794576514d993e4b33e/720p",
+            "11": "//kodik.cc/seria/106520/d79d9eac1ec1d5ce0ff269c40b277d1c/720p",
+            "12": "//kodik.cc/seria/106521/7573e19d58e356f574deb7d55c438dd5/720p",
+            "13": "//kodik.cc/seria/107341/213f33d2a02f12cd0206222ed4db59d9/720p",
+            "14": "//kodik.cc/seria/107342/8dfafe88fb6b63f5c1d2e8fdefd91da7/720p",
+            "15": "//kodik.cc/seria/108508/56483b7e55a75b6cad35f8704620d164/720p",
+            "16": "//kodik.cc/seria/108509/7bdd78e117a840b3a1cbb9052f884c6c/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Лжец и его возлюбленная",
+        "title_en": "Geunyeoneun geojitmareul neomu saranghae",
+        "year": 2017,
+        "description": "Кан Хан-гёль - популярный композитор. Он получает вдохновение, слушая голоса и пение других людей, но при этом он очень скрытный человек. Однажды Хан-гёль встречает старшеклассницу Со-рим, которая, ну надо же, тоже хочет стать певицей, и конечно же, в него влюбляется.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1008784.jpg",
+        "duration": 70,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "мелодрама",
+          "музыка"
+        ],
+        "kinopoisk_rating": 6.8,
+        "kinopoisk_votes": 1905,
+        "imdb_rating": 6.9,
+        "imdb_votes": 610,
+        "premiere_world": "2017-03-20",
+        "actors": [
+          "Ли Хён-у",
+          "Джой",
+          "Чхве Мин-су",
+          "Ли Джон-джин",
+          "Лим Е-джин",
+          "Ким Ин-гвон",
+          "Ли Со-вон",
+          "Сон Джу",
+          "Щин Джэ-мин",
+          "Чан Ги-ён"
+        ],
+        "directors": [
+          "Ким Джин-мин"
+        ],
+        "writers": [
+          "Котоми Аоки"
+        ]
+      }
+    },
+    {
+      "id": "movie-16637",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Молчание неба",
+      "title_orig": "O Silêncio do Céu",
+      "translation": {
+        "id": 599,
+        "title": "Хихикающий доктор",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "944237",
+      "imdb_id": "tt5125930",
+      "quality": "HDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-05-08T19:24:29Z",
+      "updated_at": "2017-05-12T06:26:33Z",
+      "material_data": {
+        "title": "Молчание неба",
+        "title_en": "O Silêncio do Céu",
+        "year": 2016,
+        "tagline": "Arriving home, Mario witnesses his wife Diana being violated by two men. Overwhelmed, he freezes and fails to take action. Diana, unaware that he saw the crime, chooses to keep it secret. The silence that grows between the couple in the days that follow becomes its own kind of violence.",
+        "description": "На Диану в собственном доме напали двое мужчин и изнасиловали. Но она решает не обращаться в полицию и не рассказывать о случившемся мужу, просто прибирается дома и делает вид, как будто ничего не произошло. А её муж Марио немного необычный человек - он обладает целым набором фобий.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/944237.jpg",
+        "duration": 102,
+        "countries": [
+          "Бразилия"
+        ],
+        "genres": [
+          "драма",
+          "триллер"
+        ],
+        "imdb_rating": 6.5,
+        "imdb_votes": 1763,
+        "premiere_world": "2016-08-28",
+        "actors": [
+          "Леонардо Сбаралья",
+          "Каролина Дикманн",
+          "Чино Дарин",
+          "Alvaro Armand Ugon",
+          "Мирелла Паскуаль",
+          "Роберто Суарес",
+          "Паула Коэн",
+          "Dylan Cortes",
+          "Priscila Bellora",
+          "Габриэла Фрайр"
+        ],
+        "directors": [
+          "Марко Дутра"
+        ],
+        "producers": [
+          "Родриго Тейшейра",
+          "Santiago López Rodríguez",
+          "Рафаэль Мескита",
+          "Диего Робино"
+        ],
+        "writers": [
+          "Серхио Биссио",
+          "Каэтано Готардо",
+          "Лусия Пуэнсо"
+        ],
+        "composers": [
+          "Гильерми Гарбату",
+          "Гуштаву Гарбату"
+        ],
+        "editors": [
+          "Eduardo Aquino"
+        ],
+        "designers": [
+          "Mariana Urriza",
+          "Николь Даврё"
+        ],
+        "operators": [
+          "Педро Луке"
+        ]
+      }
+    },
+    {
+      "id": "movie-16689",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Горько-сладкий",
+      "title_orig": "Nigakute amai",
+      "other_title": "Горькое и сладкое / Bitter & Sweet",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "939227",
+      "imdb_id": "tt5099660",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-05-10T19:02:06Z",
+      "updated_at": "2017-05-12T06:04:35Z",
+      "material_data": {
+        "title": "Горько-сладкий",
+        "title_en": "Nigakute amai",
+        "year": 2016,
+        "description": "Молодая сотрудница рекламного агентства Маки не умеет толком готовить и общаться с мужчинами. Однажды в её жизни появляется сильный и напористый парень по имени Нагиса. Он — учитель рисования и прекрасный повар. Маки и Нагиса начинают жить вместе и девушка понимает, что впервые в жизни влюблена. Но вот досада: её новый сосед по квартире — веган и гей.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/939227.jpg",
+        "duration": 96,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 6.1,
+        "imdb_votes": 193,
+        "premiere_world": "2016-09-10",
+        "actors": [
+          "Харуна Кавагути",
+          "Кэнто Хаяси",
+          "Ясуси Футиками",
+          "Хиёри Сакурада",
+          "Мако Исино",
+          "Макэню Арата",
+          "Хидэо Накано",
+          "Су"
+        ],
+        "directors": [
+          "Сёго Кусано"
+        ],
+        "producers": [
+          "Ацуси Морияма",
+          "Юити Сибахара",
+          "Ясуси Удагава",
+          "Ёсихиса Ямасита",
+          "Акио Мотодзима",
+          "Масахико Сибуя"
+        ],
+        "writers": [
+          "Юмио Кобаяси",
+          "Томохиро Отоси",
+          "Макото Уэда"
+        ],
+        "editors": [
+          "Наоитиро Сагара"
+        ],
+        "designers": [
+          "Сюдзи Ямасита"
+        ],
+        "operators": [
+          "Такаси Комацу"
+        ]
+      }
+    },
+    {
       "id": "movie-16618",
       "type": "foreign-movie",
       "link": "",
@@ -7272,617 +7898,6 @@
         ],
         "operators": [
           "Эрик Кайла"
-        ]
-      }
-    },
-    {
-      "id": "movie-3997",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Инглиш-винглиш",
-      "title_orig": "English Vinglish",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2012,
-      "kinopoisk_id": "663076",
-      "imdb_id": "tt2181931",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2014-12-23T01:46:39Z",
-      "updated_at": "2017-04-14T05:20:55Z",
-      "material_data": {
-        "title": "Инглиш-винглиш",
-        "title_en": "English Vinglish",
-        "year": 2012,
-        "description": "Деньги, известность и знание английского языка - в Индии эти три фактора играют огромную роль в том, какое положение в обществе займет индивидуум. Это история женщины, которая не знает английский язык, но которая хочет добиться в жизни поставленных целей.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/663076.jpg",
-        "duration": 134,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "комедия",
-          "семейный"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 3428,
-        "imdb_rating": 7.8,
-        "imdb_votes": 33367,
-        "premiere_world": "2012-09-14",
-        "actors": [
-          "Шридеви",
-          "Адиль Хуссэйн",
-          "Мехди Неббу",
-          "Прия Ананд",
-          "Сулабха Дешпанде",
-          "Michael Patrick Hoban",
-          "Сухата Кумар",
-          "Навика Котия",
-          "Шиванш Котия",
-          "Кори Хиббс"
-        ],
-        "directors": [
-          "Гаури Шинде"
-        ],
-        "producers": [
-          "Р. Балки",
-          "Р. Дамани",
-          "Ракеш Джунджхунвала",
-          "Сунил Лула",
-          "Анита Ананд",
-          "Илана Россейн"
-        ],
-        "writers": [
-          "Гаури Шинде"
-        ],
-        "composers": [
-          "Амит Триведи"
-        ],
-        "editors": [
-          "Хеманти Саркар"
-        ],
-        "designers": [
-          "Мустафа Статионвала",
-          "Shaibya Rakesh",
-          "Мэгги Рудер",
-          "Вера Чоу",
-          "Nikita Raheja",
-          "Кэти Киндл"
-        ],
-        "operators": [
-          "Лаксман Утекар"
-        ]
-      }
-    },
-    {
-      "id": "movie-2827",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Головокружение",
-      "title_orig": "Mi Hun",
-      "translation": {
-        "id": 613,
-        "title": "DeadSno & den904",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "818167",
-      "imdb_id": "tt6419426",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2014-10-31T19:37:24Z",
-      "updated_at": "2017-04-14T04:41:07Z",
-      "material_data": {
-        "title": "Головокружение",
-        "title_en": "Mi Hun",
-        "year": 2013,
-        "description": "Сан Вэнь просыпается на каталке с головокружением и в сумбуре. Осмотревшись по сторонам и не найдя знакомого пейзажа, пациент предполагает наихудшее. В комнате, оборудованной под врачебный кабинет нет выхода. В чертогах памяти вспышками и смутными догадками проявляется некое просветление. Сан Веню помнится трапеза после которой спазм охватил тело азиата и санитары неотложки на каталке отправили в реанимацию приболевшего пациента. Звучащий в ушах Сана голос объясняет ситуацию и ставит в тупик Вэня. Громогласный мужской баритон сообщает узнику о западне...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/818167.jpg",
-        "duration": 90,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "триллер"
-        ],
-        "premiere_world": "2013-12-28",
-        "actors": [
-          "Вэй Ли",
-          "Лени Лань"
-        ]
-      }
-    },
-    {
-      "id": "movie-2658",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Мы – дворяне",
-      "title_orig": "Nosotros los Nobles",
-      "translation": {
-        "id": 728,
-        "title": "НТВ",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "689722",
-      "imdb_id": "tt2222394",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2014-10-25T19:28:50Z",
-      "updated_at": "2017-04-14T04:34:30Z",
-      "material_data": {
-        "title": "Благородное семейство",
-        "title_en": "Nosotros los Nobles",
-        "year": 2013,
-        "description": "Богатый папаша решил проучить своих отпрысков-бездельников и сказал им, что обанкротился. Чтобы обеспечить себя, великовозрастным детишкам пришлось пойти работать.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/689722.jpg",
-        "duration": 108,
-        "countries": [
-          "Мексика"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "kinopoisk_rating": 6.5,
-        "kinopoisk_votes": 612,
-        "imdb_rating": 7.3,
-        "imdb_votes": 8954,
-        "premiere_world": "2013-03-28",
-        "rating_mpaa": "PG-13",
-        "minimal_age": 16,
-        "actors": [
-          "Гонсало Вега",
-          "Луис Херардо Мендес",
-          "Карла Соуса",
-          "Хуан Пабло Хиль",
-          "Янис Герреро",
-          "Карлос Гаскон",
-          "Mario Haddad",
-          "Мари Пас Мата",
-          "Альберто Дзени",
-          "Марсела Гирадо"
-        ],
-        "directors": [
-          "Гари Алазраки"
-        ],
-        "producers": [
-          "Леонардо Симброн",
-          "Карлос Алазраки Гроссман",
-          "Гари Алазраки",
-          "Марк Алазраки",
-          "Sergio Berger",
-          "Саймон Бросс",
-          "Мойзес Чивер",
-          "Раймундо Диас-Гонсалес",
-          "Ignacio Famanía",
-          "Руис Де Веласко Гонсало"
-        ],
-        "writers": [
-          "Гари Алазраки",
-          "Адриан Сурита",
-          "Патрисио Саис",
-          "Адольфо Торрадо",
-          "Марк Алазраки",
-          "Vivian Sadovitch"
-        ],
-        "composers": [
-          "Benjamin Shwartz"
-        ],
-        "editors": [
-          "Хорхе Гарсия"
-        ],
-        "designers": [
-          "Рубен Бросс",
-          "Alejandro Martinez Sanchez",
-          "Габриэла Родригес Фара",
-          "Габриела Фернандес",
-          "Лупита Пекинпа",
-          "Claudia Vergara"
-        ],
-        "operators": [
-          "Хосе Касильяс"
-        ]
-      }
-    },
-    {
-      "id": "movie-16218",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Шпион на полставки",
-      "title_orig": "Bijeongkyujik teuksuyowon",
-      "translation": {
-        "id": 639,
-        "title": "SoftBox",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1009308",
-      "imdb_id": "tt6646998",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-04-14T04:27:53Z",
-      "updated_at": "2017-04-14T04:27:53Z",
-      "material_data": {
-        "title": "Шпион на полставки",
-        "title_en": "Bijeonggyujik teuksuyowon",
-        "year": 2017,
-        "description": "Последние 15 лет Ён-щиль никак не может устроиться на нормальную работу, поэтому перебивается разными подработками. Чон-ан же, наоборот, - вполне реализовалась как полицейский детектив, только разговаривать без мата и задержать подозреваемого, предварительно хорошенько его не отпинав, для неё большая проблема. Вернее - для окружающих. И вот Ён-щиль наконец-то получает временную должность в Национальном агентстве безопасности, но по истечении срока начальник её увольняет. И сразу же после этого его разводят на крупную сумму финансовые мошенники. В обмен на постоянное место работы Ён-щиль обещает поймать преступников, находит эту мошенническую фирму и устраивается туда на работу. И тут же сталкивается с агентом под прикрытием Чон-ан.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1009308.jpg",
-        "duration": 117,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "детектив",
-          "комедия",
-          "криминал"
-        ],
-        "kinopoisk_rating": 5.9,
-        "kinopoisk_votes": 237,
-        "imdb_rating": 5.4,
-        "imdb_votes": 314,
-        "premiere_world": "2017-03-16",
-        "actors": [
-          "Кан Е-вон",
-          "Хан Чхэ-а",
-          "Чо Джэ-юн",
-          "Ким Мин-гё",
-          "Нам Сон-джин",
-          "Намгун Мин",
-          "Рю Сон-хён",
-          "Щин Сэ-хви",
-          "Хён Бон-щик",
-          "Тон Хён-бэ"
-        ],
-        "directors": [
-          "Ким Док-су"
-        ],
-        "writers": [
-          "Ким Док-су"
-        ],
-        "operators": [
-          "Ли Джон-ёль"
-        ]
-      }
-    },
-    {
-      "id": "movie-6811",
-      "type": "anime",
-      "link": "",
-      "title": "Изгнанные из Рая",
-      "title_orig": "Rakuen Tsuiho: Expelled from Paradise",
-      "other_title": "楽園追放 -Expelled from Paradise-",
-      "translation": {
-        "id": 826,
-        "title": "Cactus Team",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "760080",
-      "imdb_id": "tt2859246",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1573",
-      "shikimori_id": "13391",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-06-11T17:29:47Z",
-      "updated_at": "2017-04-14T04:25:27Z",
-      "material_data": {
-        "title": "Изгнанные из Рая",
-        "title_en": "Rakuen Tsuiho: Expelled from Paradise",
-        "other_titles_en": [
-          "Expelled from Paradise"
-        ],
-        "other_titles_jp": [
-          "楽園追放 -Expelled from Paradise-"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2014,
-        "description": "Далекое будущее. Человечество, пережившее «наночуму», в большинстве своём, отринув свои бренные тела, переселилось в виртуальный мир под названием «Дива». На первый взгляд может показаться, что человечество наконец обрело настоящий рай. Но на поверку выходит всё не так радужно. Объём памяти Дивы, который делится на всех живущих в ней, ограничен. Всех паразитов общества и нарушителей спокойствия сажают в архив, виртуальную тюрьму, а их память освобождают. Потому все жители только и занимаются тем, что стараются доказать свою полезность всеми возможными способами. Ведь, чем больше ты полезен для общества, тем больше памяти тебе выделяют и тем бо́льшую свободу ты обретаешь.\n\rИ вот одна из таких «работяг», Анжела Бальзак из Службы Безопасности, получает своё очередное задание — выследить в реальном мире некого Первопроходца, хакера, который уже множество раз подвергал Диву взлому. А в качестве поддержки Анжела получает меху последней модели и Зарика Кадживару, напарника-проводника из числа людей, оставшихся жить в реальном мире.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/760080.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/8ac74999b740cf4fed01cf33a05d85ac83458d09.jpg",
-          "https://shikimori.one/system/screenshots/original/391c0907be6a0911a40c799159041f7ae6d8fee2.jpg"
-        ],
-        "duration": 104,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Меха",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Graphinica"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 1179,
-        "imdb_rating": 6.7,
-        "imdb_votes": 1506,
-        "shikimori_rating": 7.39,
-        "shikimori_votes": 4496,
-        "premiere_world": "2014-11-15",
-        "aired_at": "2014-11-15",
-        "rating_mpaa": "R+",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Риэ Кугимия",
-          "Уэнди Ли",
-          "Стивен Блум",
-          "Синъитиро Мики",
-          "Джонни Йонг Бош",
-          "Хироси Камия",
-          "Мэгуми Хаясибара",
-          "Брина Паленсиа",
-          "Меган Холлингсхед",
-          "Минами Такаяма"
-        ],
-        "directors": [
-          "Сэйдзи Мидзусима"
-        ],
-        "producers": [
-          "Коити Ногути",
-          "Наоя Киносита",
-          "Hiromi Kitazaki",
-          "Морисита Кодзо",
-          "Atsushi Suzuki",
-          "Кацухиро Такаги"
-        ],
-        "writers": [
-          "Кларк Чэн",
-          "Гэн Уробути"
-        ],
-        "composers": [
-          "Нарасаки"
-        ],
-        "editors": [
-          "Масато Ёситакэ"
-        ],
-        "designers": [
-          "Масанобу Номура"
-        ],
-        "operators": [
-          "Кодзиро Хаяси"
-        ]
-      }
-    },
-    {
-      "id": "movie-1666",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Замбезия",
-      "title_orig": "Zambezia",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 2012,
-      "kinopoisk_id": "470993",
-      "imdb_id": "tt1488181",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2014-09-05T22:02:09Z",
-      "updated_at": "2017-04-14T04:24:02Z",
-      "material_data": {
-        "title": "Замбезия",
-        "title_en": "Zambezia",
-        "year": 2012,
-        "tagline": "Это где-то между Мадагаскаром и Рио",
-        "description": "В мультфильме рассказывается история жизни юного соколёнка по имени Кай, его приключения, характер, комичные ситуации в которые он попадает на пути к своей главной цели, на пути к заветному птичьему городку Замбезия, в котором он от всей души желает отыскать новых друзей, которые бы скрасили его одиночество и не оставили в беде. Однако для начала ему необходимо преодолеть путь, который полон опасностей и неожиданных поворотов.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/470993.jpg",
-        "duration": 82,
-        "countries": [
-          "ЮАР"
-        ],
-        "genres": [
-          "комедия",
-          "мультфильм",
-          "приключения"
-        ],
-        "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 10504,
-        "imdb_rating": 5.8,
-        "imdb_votes": 6662,
-        "premiere_ru": "2012-08-23",
-        "premiere_world": "2012-06-05",
-        "rating_mpaa": "G",
-        "minimal_age": 0,
-        "actors": [
-          "Леонард Нимой",
-          "Джереми Суарес",
-          "Эбигейл Бреслин",
-          "Джефф Голдблюм",
-          "Сэмюэл Л. Джексон",
-          "Дженифер Льюис",
-          "Джим Каммингс",
-          "Джамал Миксон",
-          "Ричард Э. Грант",
-          "Дэвид Шонесси"
-        ],
-        "directors": [
-          "Уэйн Тонли"
-        ],
-        "producers": [
-          "Майк Баклэнд",
-          "Стюарт Форрест",
-          "Джеймс Миддлтон",
-          "Энтони Силверстон",
-          "Кофи Ампарбенг",
-          "Клер Бекер",
-          "Грег Бекер",
-          "Бейзил Форд",
-          "Питер М. Грэхэм II",
-          "Стефен Хэйс"
-        ],
-        "writers": [
-          "Раффаелла Делле Донне",
-          "Энтони Силверстон",
-          "Уэйн Тонли",
-          "Эндрю Кук",
-          "Том Кенни",
-          "Брент Палмер",
-          "Ник Рабиновиц",
-          "Линдсэй ван Блерк"
-        ],
-        "composers": [
-          "Брюс Ретиф"
-        ],
-        "designers": [
-          "Аллан Камерон"
-        ]
-      }
-    },
-    {
-      "id": "movie-9805",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Паранормальное явление: Ночь в Токио",
-      "title_orig": "Paranômaru akutibiti: Dai-2-shô - Tokyo Night",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 2010,
-      "kinopoisk_id": "569977",
-      "imdb_id": "tt1728179",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-08-27T13:46:09Z",
-      "updated_at": "2017-04-13T11:45:50Z",
-      "material_data": {
-        "title": "Паранормальное явление: Ночь в Токио",
-        "title_en": "Paranômaru akutibiti: Dai-2-shô - Tokyo Night",
-        "year": 2010,
-        "description": "Харука только что вернулась в Японию из путешествия по Америке. Отдых оказался омрачен автокатастрофой, в которую Харука угодила в Сан-Диего, когда ей перебежала дорогу девушка, находящаяся в розыске по обвинению в убийстве своего бойфренда. Это была та самая Кэти, в которую вселялся странный демон в первой части «Паранормального явления».\n\rВ Токио брат девушки замечает, что с его сестрой, вынужденной после аварии передвигаться на инвалидной коляске, начинают происходить очень странные вещи. Похоже, паранормальное явление, уже замеченное в Сан-Диего, теперь повторяется в Токио. Парень устанавливает камеру в комнате сестры и с ужасом узнает о леденящих кровь событиях...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/569977.jpg",
-        "duration": 90,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "детектив",
-          "триллер",
-          "ужасы"
-        ],
-        "kinopoisk_rating": 5.6,
-        "kinopoisk_votes": 10882,
-        "imdb_rating": 5.1,
-        "imdb_votes": 4462,
-        "premiere_ru": "2011-02-24",
-        "premiere_world": "2010-11-20",
-        "minimal_age": 16,
-        "actors": [
-          "Аой Накамура",
-          "Норико Аояма",
-          "Косукэ Кудзираи",
-          "Аяко Ёситани"
-        ],
-        "directors": [
-          "Тосикадзу Нагаэ"
-        ],
-        "producers": [
-          "Ясутака Ханада"
-        ],
-        "writers": [
-          "Тосикадзу Нагаэ",
-          "Орен Пели"
-        ]
-      }
-    },
-    {
-      "id": "movie-16205",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Глубокая вера",
-      "title_orig": "Faith Like Potatoes",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2006,
-      "kinopoisk_id": "322903",
-      "imdb_id": "tt0850667",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-04-13T11:42:52Z",
-      "updated_at": "2017-04-13T11:42:52Z",
-      "material_data": {
-        "title": "Глубокая вера",
-        "title_en": "Faith Like Potatoes",
-        "year": 2006,
-        "tagline": "Where there's love. There's hope",
-        "description": "История из жизни фермера Энгеса Бахена, вынужденного в поисках лучшей жизни переехать со своей семьёй из Замбии в КваЗулу-Натал. Однако он быстро замечает, что жизнь в новой стране не очень отличается от жизни в Замбии. Тут господствует такое же противостояние черных и белых. Незнание языка усугубляет его положение. Встречая все новые трудности, Энгес погружается в пучину страха и депрессии. \n\rКогда силы Энгеса иссякли, - он доверяет свою жизнь Иисусу Христу. Различные удары судьбы испытывают его веру на стойкость, укрепляют его упование на Бога. Во время сильнейшей и продолжительной засухи Энгес сеет семя веры - картофель. Если картофель не вырастет, - он лишится фермы. Она отдана под залог банку... Вознаградит ли Бог его доверие Ему?..",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/322903.jpg",
-        "duration": 97,
-        "countries": [
-          "ЮАР"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 142,
-        "imdb_rating": 6.7,
-        "imdb_votes": 2844,
-        "premiere_world": "2006-10-27",
-        "rating_mpaa": "PG",
-        "actors": [
-          "Фрэнк Ротенбаш",
-          "Жанна Вильгельм",
-          "Хэмилтон Дламини",
-          "Кэндис Д’Арси",
-          "Шон Майкл",
-          "Регхардт ван дер Берг",
-          "Антон Тройрних",
-          "Морн Теуниссен",
-          "Рошелль Бачан",
-          "Каспер Баденхорст"
-        ],
-        "directors": [
-          "Регхардт ван дер Берг"
-        ],
-        "producers": [
-          "Франс Кронже",
-          "Kirstin Barwise"
-        ],
-        "writers": [
-          "Энгус Бачан",
-          "Регхардт ван дер Берг"
-        ],
-        "composers": [
-          "Грант МакЛахлан"
-        ],
-        "editors": [
-          "Ронелле Луц"
-        ],
-        "designers": [
-          "Клаудия Литтлфилд",
-          "Саймон Джойнер"
-        ],
-        "operators": [
-          "Dave Aenmey"
         ]
       }
     }

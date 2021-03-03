@@ -1,6 +1,853 @@
 {
   "results": [
     {
+      "id": "movie-56031",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Массив любви",
+      "title_orig": "Bikdeiteo yeonae",
+      "translation": {
+        "id": 1100,
+        "title": "RIOK FILMS",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1325501",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-29T14:26:16Z",
+      "updated_at": "2020-05-29T14:26:16Z",
+      "material_data": {
+        "title": "Массив любви",
+        "title_en": "Bikdeiteo yeonae",
+        "year": 2019,
+        "description": "Разработчик мобильных приложений, который верит только цифрам, внезапно влюбляется.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1325501.jpg",
+        "duration": 70,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "premiere_world": "2019-12-25",
+        "actors": [
+          "Сон Джэ-рим",
+          "Чон Со-мин",
+          "Ли Сун-вон"
+        ]
+      }
+    },
+    {
+      "id": "serial-26334",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Без пульса (спэшл)",
+      "title_orig": "Beatless: Final Stage",
+      "other_title": "Слабый удар: Последняя сцена / Механическое сердце",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 4,
+      "episodes_count": 4,
+      "kinopoisk_id": "1114840",
+      "imdb_id": "tt7900936",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9767",
+      "shikimori_id": "38020",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-29T14:24:23Z",
+      "updated_at": "2020-05-29T14:24:23Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/659589/e25cff9e8b0242609fd5bfa982b2285d/720p",
+            "2": "//aniqit.com/seria/659590/3206466e2051069bf849ad622ecbc447/720p",
+            "3": "//aniqit.com/seria/659591/811bc59d1549d2020e589232d9388d12/720p",
+            "4": "//aniqit.com/seria/659592/4cabda25cd63af2a072afeacf77b43ea/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Слабый удар",
+        "title_en": "Beatless",
+        "other_titles_jp": [
+          "BEATLESS Final Stage"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2018,
+        "description": "В 2105 году стали популярны гуманоидные андроиды. Обществом они воспринимаются как личные игрушки, которые можно использовать как угодно. Арато Эндо в отличие от своих друзей думает, что андроиды достойны большего. Как-то ночью парень становится свидетелем необъяснимого: техника начинает сходить с ума, а андроиды уничтожаются. Во время этого хаоса Арато находит удивительным образом уцелевшего андроида по имени Лация.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1114840.jpg",
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Романтика",
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Diomedéa"
+        ],
+        "imdb_rating": 5.7,
+        "imdb_votes": 170,
+        "shikimori_rating": 6.81,
+        "shikimori_votes": 1403,
+        "premiere_world": "2018-01-13",
+        "aired_at": "2018-09-26",
+        "released_at": "2018-09-28",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 4,
+        "episodes_aired": 4,
+        "actors": [
+          "Такуто Ёсинага",
+          "Нао Тояма",
+          "Саки Оно",
+          "Уки Сатакэ",
+          "Мисако Томиока",
+          "Сино Симодзи",
+          "Сора Амамия",
+          "Хироми Игараси",
+          "Эмири Суяма",
+          "Юки Вакаи"
+        ],
+        "directors": [
+          "Сэйдзи Мидзусима"
+        ],
+        "producers": [
+          "Хироо Маруяма"
+        ],
+        "writers": [
+          "Сатоси Хасэ"
+        ]
+      }
+    },
+    {
+      "id": "serial-26333",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Безумные байки девичьей общаги",
+      "title_orig": "Gokujo.",
+      "other_title": "Безумные байки девичьей общаги! / Истории из общаги старшей школы для девочек / Gokujo. Gokurakuin Joshikou Ryou Monogatari",
+      "translation": {
+        "id": 1062,
+        "title": "LE-Production",
+        "type": "voice"
+      },
+      "year": 2012,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "764809",
+      "imdb_id": "tt6559968",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1996",
+      "shikimori_id": "11769",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-29T14:22:50Z",
+      "updated_at": "2020-05-29T14:22:50Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/659577/ea4b06cfaccbd036422f73dd7ac6e39e/720p",
+            "2": "//aniqit.com/seria/659578/5eca458845a32a7d24331477bbe73a37/720p",
+            "3": "//aniqit.com/seria/659579/4be9836aac1b3b7408b0c4645755401f/720p",
+            "4": "//aniqit.com/seria/659580/6a5bb0ab0d2ed3f20327f1672b97aa3f/720p",
+            "5": "//aniqit.com/seria/659581/13e8447dc3dbc6c98b19541b27cbeeee/720p",
+            "6": "//aniqit.com/seria/659582/a5e2af51cf16166ceb929d0428fd1715/720p",
+            "7": "//aniqit.com/seria/659583/6f915b0a843639850de751fa6ae114bf/720p",
+            "8": "//aniqit.com/seria/659584/2258827e163ea064fef0268bf2934d93/720p",
+            "9": "//aniqit.com/seria/659585/3872ad8da9aa19c1bd044a1f49243ab4/720p",
+            "10": "//aniqit.com/seria/659586/0a875a8c6dcc14f7e38b1a85850f75a3/720p",
+            "11": "//aniqit.com/seria/659587/ebe5fc68c2d24cef030b36c5dbf1138b/720p",
+            "12": "//aniqit.com/seria/659588/ae1f45f5e6c9c8d4541fd6578e76cce3/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Безумные байки девичьей общаги!",
+        "title_en": "Gokujo. Gokurakuin Joshikou Ryou Monogatari",
+        "other_titles": [
+          "Общажные байки девичьей школы",
+          "Безумные байки девичьей общаги!",
+          "Gokujyo"
+        ],
+        "other_titles_jp": [
+          "ゴクジョッ。~極楽院女子高寮物語~"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2012,
+        "description": "Мастерство хентайных мангак не пропьешь!.. и даже когда они рисуют этти, всё равно выходит почти хентай.\n\rАя Акабанэ учится в женской школе и живет в общежитии Гокураку. Она – раскованная, стильная, уверенная в себе и очень сексапильная девушка... ну, по крайней мере, Ая-тян на этом настаивает! Вместе с ней учатся инфантильная Конацу Торо («мисс детские трусики»), озабоченная Мадока Овада («сисястое чудовище»), тихоня Ай Наносато и высокомерная извращенка Уцуномия-сан.\n\rЖизнь разбитных старшеклассниц, которые развлекаются, соперничают, флиртуют и самоутверждаются кто во что горазд – это смешное, захватывающе и совершенно непристойное зрелище! Одной пропажей панцу дело не ограничится: французские поцелуи, японские школьные купальники, международный вуайеризм и не имеющая национальности техника введения шариков от пинг-понга...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/764809.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/3e8a8567e269ec363a8d2d9b3a15714c217479c7.jpg",
+          "https://shikimori.one/system/screenshots/original/ed1114cc9456983a68ae085dc26843c05449c41e.jpg"
+        ],
+        "duration": 6,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Сейнен",
+          "Сёдзё-ай",
+          "Школа",
+          "Этти"
+        ],
+        "anime_studios": [
+          "LMD"
+        ],
+        "kinopoisk_rating": 6,
+        "kinopoisk_votes": 247,
+        "shikimori_rating": 6.2,
+        "shikimori_votes": 1758,
+        "premiere_world": "2012-01-24",
+        "aired_at": "2012-01-24",
+        "released_at": "2012-03-27",
+        "rating_mpaa": "R+",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "directors": [
+          "Футоси Хигасидэ"
+        ]
+      }
+    },
+    {
+      "id": "serial-26332",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Ёрмунганд [ТВ-2]",
+      "title_orig": "Jormungand: Perfect Order",
+      "other_title": "Ёрмунганд: Тотальный Контроль [ТВ-2]",
+      "translation": {
+        "id": 1062,
+        "title": "LE-Production",
+        "type": "voice"
+      },
+      "year": 2012,
+      "last_season": 2,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "675203",
+      "imdb_id": "tt2259737",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=865",
+      "shikimori_id": "13331",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-29T14:20:46Z",
+      "updated_at": "2020-05-29T14:20:46Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/659565/3e545d4d986a9c8cf45a66af87a9dd94/720p",
+            "2": "//aniqit.com/seria/659566/58e671ac4efebee4d23dba4fbecd98e0/720p",
+            "3": "//aniqit.com/seria/659567/e58b5fa9412927079ca01f71350a3fb8/720p",
+            "4": "//aniqit.com/seria/659568/a66efe0d7656ed0ec8a53649bf8324df/720p",
+            "5": "//aniqit.com/seria/659569/023c588303fd20f113aa74ecb0d8cbc1/720p",
+            "6": "//aniqit.com/seria/659570/1afc574bfd0f6ed34fb33f28317bf227/720p",
+            "7": "//aniqit.com/seria/659571/914a457f1e0ad9667fe3e46cb5e66481/720p",
+            "8": "//aniqit.com/seria/659572/a0da3454de0a1c0059bacc123a977c5f/720p",
+            "9": "//aniqit.com/seria/659573/68500bfdfe38a50f966f344378eecf53/720p",
+            "10": "//aniqit.com/seria/659574/3232bad8b6acb5cc65132ecf0d14ebd9/720p",
+            "11": "//aniqit.com/seria/659575/2458224160b8450f1d1fffc58a691b68/720p",
+            "12": "//aniqit.com/seria/659576/9d6d4d9cc9dcaad77dfce2bec828b017/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Ёрмунганд",
+        "title_en": "Jormungand",
+        "other_titles": [
+          "Ёрмунганд: Тотальный контроль"
+        ],
+        "other_titles_en": [
+          "Jormungand Season 2: Perfect Order"
+        ],
+        "other_titles_jp": [
+          "ヨルムンガンド PERFECT ORDER"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2012,
+        "description": "История крутится вокруг Коко Хекматяр, молодой торговки оружием. Она нелегально снабжает оружием многие страны, избегая при этом местные власти и правоохранительные органы. Путешествует Коко не одна, а с группой телохранителей, которая состоит в основном из ветеранов войн. Последним в группу вступил неэмоциональный ребенок-солдат Йона, который по иронии ненавидит торговцев оружием. Нанялся он к Коко для того, чтобы найти тех, по чьей вине погибла вся его семья.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/675203.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/306f841abe0c4be873e46c3785a5850458d17119.jpg",
+          "https://shikimori.one/system/screenshots/original/52073f0772e3b7b8eb6befec7a29e16e28281173.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Приключения",
+          "Сейнен",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "White Fox"
+        ],
+        "kinopoisk_rating": 7.4,
+        "kinopoisk_votes": 2218,
+        "imdb_rating": 7.5,
+        "imdb_votes": 973,
+        "shikimori_rating": 7.94,
+        "shikimori_votes": 11825,
+        "premiere_world": "2012-04-11",
+        "aired_at": "2012-10-10",
+        "released_at": "2012-12-26",
+        "rating_mpaa": "R+",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Сидзука Ито",
+          "Муцуми Тамура",
+          "Хатано Ватару",
+          "Хитоси Янаи",
+          "Грег Эирс",
+          "Анастасия Муноз",
+          "Мика Солусод",
+          "Саяка Охара",
+          "Кристофер Бевинс",
+          "Карли Мосье"
+        ],
+        "directors": [
+          "Кэйтаро Мотонага",
+          "Хироюки Цутия",
+          "Кодзи Кобаяси",
+          "Кадзухиро Одзава",
+          "Кандзи Вакабаяси",
+          "Такахиро Кавакоси",
+          "Ёсими Цуда"
+        ],
+        "producers": [
+          "Гаку Иваса",
+          "Мицутоси Огура",
+          "Дзюнъя Окамото",
+          "Цунаки Ёсикава",
+          "Кристофер Бевинс",
+          "З. Чарльз Болтон",
+          "Джастин Кук",
+          "Гэн Фукунага",
+          "Майкл Харкорт",
+          "Карли Хантер"
+        ],
+        "writers": [
+          "Ёсукэ Курода",
+          "Keitarô Takahashi",
+          "Джаред Хеджес",
+          "Джон Бургмейер",
+          "Бонни Клинкенберд",
+          "Джоэль Берген"
+        ],
+        "composers": [
+          "Таку Ивасаки"
+        ],
+        "editors": [
+          "Масахиро Гото"
+        ],
+        "designers": [
+          "Ёсито Такаминэ"
+        ],
+        "operators": [
+          "Кадзумаса Сомэя"
+        ]
+      }
+    },
+    {
+      "id": "serial-26331",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Ёрмунганд [ТВ-1]",
+      "title_orig": "Jormungand",
+      "other_title": "Ёрмунганд ТВ-1",
+      "translation": {
+        "id": 1062,
+        "title": "LE-Production",
+        "type": "voice"
+      },
+      "year": 2012,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "675203",
+      "imdb_id": "tt2259737",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=988",
+      "shikimori_id": "12413",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-29T14:17:38Z",
+      "updated_at": "2020-05-29T14:17:38Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/659553/22ab810d77703ce4ba35d4439e9aaa77/720p",
+            "2": "//aniqit.com/seria/659554/f4aa2a4900bb7a1f8a9702ded7ca0c50/720p",
+            "3": "//aniqit.com/seria/659555/f00b7e308cbd484ffa7803cdb3b15e42/720p",
+            "4": "//aniqit.com/seria/659556/d98ca47550eaa6bc2d1a012a6b1f1402/720p",
+            "5": "//aniqit.com/seria/659557/60ce7c0f6d16af5b2cad0ca96c6d071c/720p",
+            "6": "//aniqit.com/seria/659558/7fdfdd973d434e923b180e17bf9b6512/720p",
+            "7": "//aniqit.com/seria/659559/c8a1c93bbcde836660cb9cdac7420eff/720p",
+            "8": "//aniqit.com/seria/659560/449e3c721749ae9b4789a6e483ed436f/720p",
+            "9": "//aniqit.com/seria/659561/ce116e97e5eb8108bd1818e3088b97c8/720p",
+            "10": "//aniqit.com/seria/659562/de045c5aa63f1f39f9f9923c74bd2a2a/720p",
+            "11": "//aniqit.com/seria/659563/3f19615374e94c511588cacb756491c7/720p",
+            "12": "//aniqit.com/seria/659564/06bf243116b4c554a07c6426a50356fd/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Ёрмунганд",
+        "title_en": "Jormungand",
+        "other_titles_en": [
+          "Jormungand"
+        ],
+        "other_titles_jp": [
+          "ヨルムンガンド"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2012,
+        "description": "История крутится вокруг Коко Хекматяр, молодой торговки оружием. Она нелегально снабжает оружием многие страны, избегая при этом местные власти и правоохранительные органы. Путешествует Коко не одна, а с группой телохранителей, которая состоит в основном из ветеранов войн. Последним в группу вступил неэмоциональный ребенок-солдат Йона, который по иронии ненавидит торговцев оружием. Нанялся он к Коко для того, чтобы найти тех, по чьей вине погибла вся его семья.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/675203.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/259992cc8ae6b3e3463a179cc28f7021ba14f69f.jpg",
+          "https://shikimori.one/system/screenshots/original/4f656dc9c00f6a5136af1318c2bc782c52fe6ff3.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Приключения",
+          "Сейнен",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "White Fox"
+        ],
+        "kinopoisk_rating": 7.4,
+        "kinopoisk_votes": 2218,
+        "imdb_rating": 7.5,
+        "imdb_votes": 973,
+        "shikimori_rating": 7.85,
+        "shikimori_votes": 16587,
+        "premiere_world": "2012-04-11",
+        "aired_at": "2012-04-11",
+        "released_at": "2012-06-27",
+        "rating_mpaa": "R+",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Сидзука Ито",
+          "Муцуми Тамура",
+          "Хатано Ватару",
+          "Хитоси Янаи",
+          "Грег Эирс",
+          "Анастасия Муноз",
+          "Мика Солусод",
+          "Саяка Охара",
+          "Кристофер Бевинс",
+          "Карли Мосье"
+        ],
+        "directors": [
+          "Кэйтаро Мотонага",
+          "Хироюки Цутия",
+          "Кодзи Кобаяси",
+          "Кадзухиро Одзава",
+          "Кандзи Вакабаяси",
+          "Такахиро Кавакоси",
+          "Ёсими Цуда"
+        ],
+        "producers": [
+          "Гаку Иваса",
+          "Мицутоси Огура",
+          "Дзюнъя Окамото",
+          "Цунаки Ёсикава",
+          "Кристофер Бевинс",
+          "З. Чарльз Болтон",
+          "Джастин Кук",
+          "Гэн Фукунага",
+          "Майкл Харкорт",
+          "Карли Хантер"
+        ],
+        "writers": [
+          "Ёсукэ Курода",
+          "Keitarô Takahashi",
+          "Джаред Хеджес",
+          "Джон Бургмейер",
+          "Бонни Клинкенберд",
+          "Джоэль Берген"
+        ],
+        "composers": [
+          "Таку Ивасаки"
+        ],
+        "editors": [
+          "Масахиро Гото"
+        ],
+        "designers": [
+          "Ёсито Такаминэ"
+        ],
+        "operators": [
+          "Кадзумаса Сомэя"
+        ]
+      }
+    },
+    {
+      "id": "serial-26328",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Санка Рэа OVA",
+      "title_orig": "Sankarea OVA",
+      "other_title": "さんかれあ OVA",
+      "translation": {
+        "id": 1062,
+        "title": "LE-Production",
+        "type": "voice"
+      },
+      "year": 2012,
+      "last_season": 1,
+      "last_episode": 2,
+      "episodes_count": 2,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1887",
+      "shikimori_id": "13055",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-29T12:39:07Z",
+      "updated_at": "2020-05-29T12:39:07Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/659534/e1d61ebcbd7da8c4189be2ed500c7442/720p",
+            "2": "//aniqit.com/seria/659535/c6309af52932366578870e9dedca7e48/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Санка Рэа OVA",
+        "title_en": "Sankarea OVA",
+        "other_titles": [
+          "Sankarea Episodes 00 & 14"
+        ],
+        "other_titles_jp": [
+          "さんかれあ"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "description": "Два OVA-эпизода, вышедших в дополнение к 6 и 7 томам манги.\r\n\r\nOVA 1:\r\nПриквел. Рассказ об истории, происходившей ещё до начала повествования сюжета манги — о первой встрече наших главных героев в общественной бане на открытом воздухе.\r\nOVA 2:\r\nОтветвление от основной истории. Однажды около дома, где живут Рэа и Чихиро , появляется странная девочка. Она не говорит, а на все попытки отвести её в больницу и выведать у неё что-нибудь, начинает громко кричать. Не зная, что с ней делать, отец Фуруи оставляет девочку при храме. Но почему-то эта девочка очень невзлюбила Рэа. Или ей так просто кажется?",
+        "poster_url": "https://shikimori.one/system/animes/original/13055.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/90e80806d158a14670c780b1e349363d02327916.png",
+          "https://shikimori.one/system/screenshots/original/744abff577c4fbf6b1da1ca16db71a9642414e1d.png"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Романтика",
+          "Сверхъестественное",
+          "Сёнен",
+          "Ужасы",
+          "Этти"
+        ],
+        "anime_studios": [
+          "Studio Deen"
+        ],
+        "shikimori_rating": 7.26,
+        "shikimori_votes": 4289,
+        "aired_at": "2012-06-08",
+        "released_at": "2012-11-09",
+        "rating_mpaa": "R+",
+        "episodes_total": 2,
+        "episodes_aired": 0
+      }
+    },
+    {
+      "id": "movie-56030",
+      "type": "anime",
+      "link": "",
+      "title": "Священная любовь",
+      "title_orig": "Koisento",
+      "other_title": "Coicent",
+      "translation": {
+        "id": 1062,
+        "title": "LE-Production",
+        "type": "voice"
+      },
+      "year": 2011,
+      "kinopoisk_id": "636139",
+      "imdb_id": "tt2087838",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7901",
+      "shikimori_id": "9333",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-29T12:38:12Z",
+      "updated_at": "2020-05-29T12:38:12Z",
+      "material_data": {
+        "title": "Священная любовь",
+        "title_en": "Koisento",
+        "other_titles": [
+          "Koi☆Cent",
+          "Koisento"
+        ],
+        "other_titles_en": [
+          "Coicent"
+        ],
+        "other_titles_jp": [
+          "コイ☆セント"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "year": 2011,
+        "description": "Действие происходит в 2710 в городе Нара, куда была перенесена столица государства. Для сохранения исторических памятников и туризма культурные сокровища страны — включая все архитектурные строения — были перемещены и собраны в огромном здании. Ученик второго класса высшей школы по имени Шиничи приезжает на экскурсию в этот самый город. Его удивляет одно - куда бы он ни взглянул, повсюду видит оленей. Вскоре Шиничи одолевает скука, и тут один из оленей хватает чемодан парня, что ведёт к безумной погоне. Во всём этом хаосе Шиничи помогает загадочная, красивая девушка по имени Тото, за которой гоняться неизвестные преследователи. Из-за этих странных обстоятельств двое побывали на всех достопримечательностях Нары за один экскурсионный день.",
+        "poster_url": "https://shikimori.one/system/animes/original/9333.jpg",
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Романтика"
+        ],
+        "anime_studios": [
+          "Sunrise"
+        ],
+        "imdb_rating": 6.3,
+        "imdb_votes": 37,
+        "shikimori_rating": 6.42,
+        "shikimori_votes": 172,
+        "premiere_world": "2011-10-08",
+        "aired_at": "2010-11-27",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Кэнсё Оно",
+          "Минако Котобуки",
+          "Каппэи Ямагути",
+          "Тэцу Инада",
+          "Масако Исобэ",
+          "Такэхито Коясу"
+        ],
+        "directors": [
+          "Сюхэй Морита"
+        ],
+        "producers": [
+          "Мотоки Мукаити",
+          "Ясумаса Цутия",
+          "Хисато Усуи",
+          "Дэвид Дель Рио",
+          "Джон Лэдфорд",
+          "Эиити Такахаси"
+        ],
+        "writers": [
+          "Сюхэй Морита"
+        ],
+        "composers": [
+          "Реидзи Китадзато"
+        ],
+        "editors": [
+          "Хироми Сасаки",
+          "Такэси Сэяма",
+          "Кэйко Цунокава"
+        ],
+        "designers": [
+          "Дзюнъити Танигути"
+        ],
+        "operators": [
+          "Юси Тонэ"
+        ]
+      }
+    },
+    {
+      "id": "serial-26327",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Санка Рэа [ТВ]",
+      "title_orig": "Sankarea",
+      "other_title": "Санка Рэа",
+      "translation": {
+        "id": 1062,
+        "title": "LE-Production",
+        "type": "voice"
+      },
+      "year": 2012,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 13,
+      "kinopoisk_id": "676946",
+      "imdb_id": "tt2341379",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1060",
+      "shikimori_id": "11499",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-29T12:37:29Z",
+      "updated_at": "2020-05-29T12:37:29Z",
+      "seasons": {
+        "0": {
+          "title": "Спешл",
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/659521/ca17f45281a1331d2ce4ea2943c55377/720p"
+          }
+        },
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/659522/ca17f45281a1331d2ce4ea2943c55377/720p",
+            "2": "//aniqit.com/seria/659523/b3c2ad2dcc7812bae0660da272861301/720p",
+            "3": "//aniqit.com/seria/659524/94b5ace800a5fa8ceb744431b9b8ee60/720p",
+            "4": "//aniqit.com/seria/659525/78f1cb346efb12786962e36963b70ddb/720p",
+            "5": "//aniqit.com/seria/659526/5ad2254dd76c46bc1149369c623157bd/720p",
+            "6": "//aniqit.com/seria/659527/d410013c28200a991ac8993f673d43a1/720p",
+            "7": "//aniqit.com/seria/659528/8a9780e7b1826f8baa1ee8bf8d83e1ca/720p",
+            "8": "//aniqit.com/seria/659529/3e5ac3d6bd223118b86cbe5fac3936da/720p",
+            "9": "//aniqit.com/seria/659530/ffbf76dce1c18d1fdbfe495068b21a0b/720p",
+            "10": "//aniqit.com/seria/659531/c5fe652a81053a87a891de6bb2a95131/720p",
+            "11": "//aniqit.com/seria/659532/6024b546533dcf3db037828472161c12/720p",
+            "12": "//aniqit.com/seria/659533/282c3333ef24862acf7f290b45381711/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Санка Рэа",
+        "title_en": "Sankarea",
+        "other_titles_en": [
+          "Sankarea: Undying Love"
+        ],
+        "other_titles_jp": [
+          "さんかれあ"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2012,
+        "description": "Фуруя, сын священника, одержим зомби. Он коллекционирует статуэтки, фильмы, видеоигры на зомби-тематику и мечтает о подружке нежити. Когда его любимого кота сбивает грузовик, Фуруя пытается оживить питомца с помощью оккультного ритуала в заброшенном доме. Там он и встречает Рею, красивую, но несчастную девушку из богатой семьи, которая желает умереть и переродиться  другим человеком.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/676946.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/1e55a2784b512531f85985233be93b15ea62b42d.jpg",
+          "https://shikimori.one/system/screenshots/original/4d119dbf1d412574d59e55d62e5ea0c0fd32b661.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Романтика",
+          "Сверхъестественное",
+          "Сёнен",
+          "Ужасы",
+          "Этти"
+        ],
+        "anime_studios": [
+          "Studio Deen"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 1905,
+        "imdb_rating": 6.9,
+        "imdb_votes": 860,
+        "shikimori_rating": 7.37,
+        "shikimori_votes": 21413,
+        "premiere_world": "2012-04-06",
+        "aired_at": "2012-04-06",
+        "released_at": "2012-06-29",
+        "rating_mpaa": "R+",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Тиа Линн Баллард",
+          "Аарон Дисмьюк",
+          "Фелесиа Анджелл",
+          "Джейми Марчи",
+          "Сиро Саито",
+          "Моника Риал",
+          "Майк МакФарланд",
+          "Райан Рейнольдс",
+          "Дэйв Троско",
+          "Крис Кент"
+        ],
+        "directors": [
+          "Мамору Хатакэяма",
+          "Хироаки Нисимура",
+          "Сюндзи Ёсида",
+          "Таро Кубо",
+          "Масаюки Мацумото",
+          "Хироаки Акаги",
+          "Хидэки Такаяма"
+        ],
+        "writers": [
+          "Мицуру Хаттори",
+          "Кэндзи Сугихара",
+          "Нобору Такаги",
+          "Kosuke Takeda"
+        ],
+        "composers": [
+          "Юкари Хасимото"
+        ],
+        "editors": [
+          "Риэ Мацухара"
+        ],
+        "designers": [
+          "Хироцуги Какои"
+        ]
+      }
+    },
+    {
       "id": "serial-26326",
       "type": "anime-serial",
       "link": "",
@@ -4893,8 +5740,8 @@
         "genres": [
           "мелодрама"
         ],
-        "imdb_rating": 6.2,
-        "imdb_votes": 78,
+        "imdb_rating": 6.1,
+        "imdb_votes": 81,
         "premiere_world": "2019-09-05",
         "actors": [
           "Abhinav",
@@ -5673,7 +6520,7 @@
         "imdb_rating": 6.7,
         "imdb_votes": 597,
         "shikimori_rating": 6.11,
-        "shikimori_votes": 87,
+        "shikimori_votes": 91,
         "premiere_world": "1984-07-07",
         "aired_at": "1984-07-07",
         "rating_mpaa": "PG-13",
@@ -6349,8 +7196,8 @@
         "kinopoisk_votes": 533,
         "imdb_rating": 5.7,
         "imdb_votes": 347,
-        "shikimori_rating": 5.94,
-        "shikimori_votes": 6682,
+        "shikimori_rating": 5.93,
+        "shikimori_votes": 6803,
         "premiere_world": "2019-10-10",
         "aired_at": "2019-10-10",
         "released_at": "2019-12-26",
@@ -9043,1049 +9890,6 @@
             "21": "//kodik.cc/seria/658158/1aa7b394804eed32cd516bdcc902b072/720p"
           }
         }
-      }
-    },
-    {
-      "id": "serial-26256",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Флейта да ранец [ТВ-2]",
-      "title_orig": "Recorder to Randsell Re",
-      "other_title": "Флейта и ранец Рэ / Флейта и Ранец 2",
-      "translation": {
-        "id": 654,
-        "title": "AniFilm",
-        "type": "voice"
-      },
-      "year": 2012,
-      "last_season": 2,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "678503",
-      "imdb_id": "tt6163360",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=377",
-      "shikimori_id": "13377",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-28T02:49:13Z",
-      "updated_at": "2020-05-28T02:49:13Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/658125/190b94969af2e3d071c76c52f12db3f5/720p",
-            "2": "//aniqit.com/seria/658126/81fe039a358b421a245d34470a5be165/720p",
-            "3": "//aniqit.com/seria/658127/e91f664f218ac175df86efb384994791/720p",
-            "4": "//aniqit.com/seria/658128/a23666282b921c18df129a4274515ced/720p",
-            "5": "//aniqit.com/seria/658129/69164e185468ce6a33c68bdbb6bbc565/720p",
-            "6": "//aniqit.com/seria/658130/b2fbdbc1e5b13547bdb2adb15c9c4661/720p",
-            "7": "//aniqit.com/seria/658131/c1084f3fb16e7dcf39a2e2463c6aa58d/720p",
-            "8": "//aniqit.com/seria/658132/b69bb7ecdc0ce29cf3cc11bd5ff8df92/720p",
-            "9": "//aniqit.com/seria/658133/eca30ab381d1f2d17f2ebe43bf6e16d5/720p",
-            "10": "//aniqit.com/seria/658134/e06c3b465ffd49df8d9a1fb743768b84/720p",
-            "11": "//aniqit.com/seria/658135/2b96af0733ea1f9d0a31bcfad65d27fb/720p",
-            "12": "//aniqit.com/seria/658136/481de012d9fe01f518c8fd6fb851191f/720p",
-            "13": "//aniqit.com/seria/658137/cbad74f01086f73ba55beca29fdb9e0c/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Флейта да ранец",
-        "title_en": "Recorder to Randoseru",
-        "other_titles": [
-          "Recorder and Backpack Re",
-          "Recorder and Satchel Re",
-          "Recorder and Randsell Re",
-          "Recorder and Ransel Re",
-          "Recorder to Randsell Re",
-          "Recorder to Ransel Re"
-        ],
-        "other_titles_en": [
-          "Recorder and Randsell Re"
-        ],
-        "other_titles_jp": [
-          "リコーダーとランドセル レ♪"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2012,
-        "description": "Ацуси Миягава и его сестра Ацуми выглядят довольно странно для своего возраста. Ацуси — около 180 сантиметров роста, смахивает на взрослого, хотя на самом деле учится в начальной школе. Его сестрёнка выглядит малышкой, зато она ученица старших классов.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/678503.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/2d21c58a411dcb21ccae0de14d0c98e2499c832c.jpg",
-          "https://shikimori.one/system/screenshots/original/a8a1df6e3a2794bd7e61ecd7fcd0364a6734ad6f.jpg"
-        ],
-        "duration": 3,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность",
-          "Сейнен",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Seven"
-        ],
-        "kinopoisk_rating": 6.4,
-        "kinopoisk_votes": 106,
-        "shikimori_rating": 6.88,
-        "shikimori_votes": 725,
-        "premiere_world": "2012-01-05",
-        "aired_at": "2012-04-04",
-        "released_at": "2012-06-27",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 13,
-        "episodes_aired": 23,
-        "actors": [
-          "Риэ Кугимия",
-          "Рётаро Окиаю",
-          "Ая Года",
-          "Томохиса Хасидзумэ",
-          "Ая Хирано",
-          "Хидэюки Каная",
-          "Нанами Касияма",
-          "Ёсино Нандзё",
-          "Каори Садохара",
-          "Фуко Саито"
-        ],
-        "directors": [
-          "Хироси Кимура",
-          "Ицуки Имадзаки"
-        ],
-        "writers": [
-          "Мэмэ Хигасия",
-          "Рёу Карасума"
-        ],
-        "composers": [
-          "Такааки Андзаи"
-        ]
-      }
-    },
-    {
-      "id": "serial-26255",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Флейта в рюкзаке OVA",
-      "title_orig": "Recorder to Randsell OVA",
-      "other_title": "Флейта и ранец / Флейта да ранец / Флейта и Ранец ОВА",
-      "translation": {
-        "id": 654,
-        "title": "AniFilm",
-        "type": "voice"
-      },
-      "year": 2012,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "kinopoisk_id": "714218",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1586",
-      "shikimori_id": "14627",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-28T02:47:28Z",
-      "updated_at": "2020-05-28T02:47:28Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/658123/72f5efa848c2bb7a286f4c8b6d2aa0fa/720p",
-            "2": "//aniqit.com/seria/658124/28ecbf40fc99d71e130df394f9f9db3e/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Флейта да ранец",
-        "title_en": "Recorder to Randsell",
-        "other_titles": [
-          "Recorder and Randsell",
-          "Recorder and Backpack",
-          "Recorder and Satchel",
-          "Recorder to Ransel"
-        ],
-        "other_titles_jp": [
-          "リコーダーとランドセル"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 2012,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/714218.jpg",
-        "duration": 3,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность",
-          "Сейнен",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Seven"
-        ],
-        "shikimori_rating": 6.81,
-        "shikimori_votes": 392,
-        "premiere_world": "2012-07-17",
-        "aired_at": "2012-07-17",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 2,
-        "episodes_aired": 0,
-        "actors": [
-          "Риэ Кугимия",
-          "Рётаро Окиаю",
-          "Ая Утида",
-          "Сатоми Акэсака",
-          "Томоэ Тамиясу",
-          "Ая Хирано",
-          "Ая Года",
-          "Такахиро Сакурай"
-        ]
-      }
-    },
-    {
-      "id": "serial-26254",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Фи Брейн: Божественная головоломка [ТВ-1]",
-      "title_orig": "Phi Brain: Kami no Puzzle",
-      "other_title": "Фи Брейн - Божественная головоломка / Фи Брейн: Божественная головоломка / Phi-Brain: Puzzle of God",
-      "translation": {
-        "id": 654,
-        "title": "AniFilm",
-        "type": "voice"
-      },
-      "year": 2011,
-      "last_season": 1,
-      "last_episode": 25,
-      "episodes_count": 25,
-      "kinopoisk_id": "683269",
-      "imdb_id": "tt2263799",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8111",
-      "shikimori_id": "9981",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-28T02:45:37Z",
-      "updated_at": "2020-05-28T02:45:37Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/658098/5cf532a27d0c711294d0104fa77fbdfc/720p",
-            "2": "//aniqit.com/seria/658099/fd10de7a774d4fd2db1ae9e9bfe01e66/720p",
-            "3": "//aniqit.com/seria/658100/378b8ac2363822df5d8ee797cb53a4a9/720p",
-            "4": "//aniqit.com/seria/658101/749fdbafe5ba0e5ac6fed054eb99a746/720p",
-            "5": "//aniqit.com/seria/658102/9c8cf8046b9dd2b39773221882f9d906/720p",
-            "6": "//aniqit.com/seria/658103/c20de5e7d402ecb11499e7af4472650c/720p",
-            "7": "//aniqit.com/seria/658104/be9da47dc7368c4f2c8eb6f05600ce2f/720p",
-            "8": "//aniqit.com/seria/658105/b2592375e38467d4b9a48182cea01a44/720p",
-            "9": "//aniqit.com/seria/658106/5fd8e12004ad898349d32c500fca7890/720p",
-            "10": "//aniqit.com/seria/658107/8c8488fbb42dfb8c6ddb89ee87c377ad/720p",
-            "11": "//aniqit.com/seria/658108/5bfd9ca0ebb2dfd80fbc9f44ba992020/720p",
-            "12": "//aniqit.com/seria/658109/ec74dfe6a6defb3201c6f945a4cb986f/720p",
-            "13": "//aniqit.com/seria/658110/74a14a96e30f7061c73ab8360c33095f/720p",
-            "14": "//aniqit.com/seria/658111/fbdc845b74727013e0f35d3e61033110/720p",
-            "15": "//aniqit.com/seria/658112/ea84a51aaacee3f909fd3f972a10d749/720p",
-            "16": "//aniqit.com/seria/658113/b39ec0c34d91c75d85b2cb36622bb2a5/720p",
-            "17": "//aniqit.com/seria/658114/a59fc5b716b678ab07765f494beeafaf/720p",
-            "18": "//aniqit.com/seria/658115/82ac69253b94791ee84a80b61ab8ed21/720p",
-            "19": "//aniqit.com/seria/658116/a75ff82f79bdb72ac64266d57b5809e5/720p",
-            "20": "//aniqit.com/seria/658117/f874396c29878dfcd30794323984eae2/720p",
-            "21": "//aniqit.com/seria/658118/c2aed55e1bff5820765ceb4d63b54fed/720p",
-            "22": "//aniqit.com/seria/658119/2133e9b3b9d0a1fcc15ccd96228f70e6/720p",
-            "23": "//aniqit.com/seria/658120/124d7c24ce1d13271272e689def1f68e/720p",
-            "24": "//aniqit.com/seria/658121/4925580e4658134f4045ed7704db2522/720p",
-            "25": "//aniqit.com/seria/658122/aac20b946c5163e1611bb5c4fac535b6/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Фи Брейн: Божественная головоломка",
-        "title_en": "Phi Brain: Puzzle of God",
-        "other_titles": [
-          "Phi Φ Brain: Kami no Puzzle"
-        ],
-        "other_titles_en": [
-          "Phi-Brain ~ Puzzle of God"
-        ],
-        "other_titles_jp": [
-          "ファイ・ブレイン 神のパズル"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2011,
-        "description": "Десятиклассник Кайто Даймон – типичный хулиганистый гений, в жизни его интересуют не академические успехи, а лишь решение загадок и головоломок. Кайто вовсе бы не ходил в школу, да мешает подруга детства Ноноха Ито – спортивная и энергичная девчонка, взвалившая на себя всю тяжесть забот о «непутевом». Впрочем, академия «Квадратный корень» сама по себе странная – в ней полно любителей паззлов, а Содзи Дзикукава, президент школьного Совета и клуба головоломок, сумел озадачить самого Даймона. Взяв парня «на слабо», коварный Содзи отправил его в смертельный лабиринт, пройдя который с помощью Нонохи, Кайто получил «контракт Орфея» - устройство, позволяющее на полную мощь использовать возможности мозга под названием «фи брэйн».\n\rТеперь Кайто – один из Решателей, немногих избранных, способных справиться с кознями всемирной тайной организации, изобретающей все новые неразрешимые загадки. Под боевым псевдонимом Эйнштейн и в компании с верной Нонохой (куда от нее денешься?) главный герой начинает жизнь в среде, где не признают громких слов и дутых авторитетов. Положение в иерархии Решателей надо завоевывать и доказывать делом, щелкая, как орешки, все новые задачки и приближаясь к «мистерии Бога». А зачем все это нужно директору школы и зловещей мировой закулисе – пожалуй, самая главная загадка сериала!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/683269.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/ef839e8d132384b6fefd45d6159cc96d8fdc2657.jpg",
-          "https://shikimori.one/system/screenshots/original/3ae6f0071a51039952443ddab1dd50a9d8e91178.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Игры",
-          "Сёнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Sunrise"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 328,
-        "imdb_rating": 6.9,
-        "imdb_votes": 95,
-        "shikimori_rating": 7.21,
-        "shikimori_votes": 2941,
-        "premiere_world": "2011-10-02",
-        "aired_at": "2011-10-02",
-        "released_at": "2012-04-01",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 25,
-        "episodes_aired": 25,
-        "actors": [
-          "Синтаро Асанума",
-          "Дзюн Фукуяма",
-          "Акира Исида",
-          "Саито Тива"
-        ],
-        "directors": [
-          "Дзюнъити Сато",
-          "Эндо Хиротака"
-        ]
-      }
-    },
-    {
-      "id": "serial-26253",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Уж не зомби ли это? [ТВ-2]",
-      "title_orig": "Kore wa Zombie Desuka? Of the Dead",
-      "other_title": "Это зомби 2? / Уж не зомби ли это? (второй сезон) /  Kore wa zonbi desu ka?",
-      "translation": {
-        "id": 654,
-        "title": "AniFilm",
-        "type": "voice"
-      },
-      "year": 2011,
-      "last_season": 2,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "kinopoisk_id": "574563",
-      "imdb_id": "tt1780262",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1103",
-      "shikimori_id": "10790",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-28T02:42:06Z",
-      "updated_at": "2020-05-28T02:42:06Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/658088/f790fce2b2f00c28deb18adbc7c83273/720p",
-            "2": "//aniqit.com/seria/658089/de7d3e17e41c877c92b0636e771ad127/720p",
-            "3": "//aniqit.com/seria/658090/db651a7acd2a20a5b87886d8066ded69/720p",
-            "4": "//aniqit.com/seria/658091/979e8a69f8c5a460b5e5b9d57d587f4a/720p",
-            "5": "//aniqit.com/seria/658092/9f0cdd7989cc1aa8ade6ca7859ed13e7/720p",
-            "6": "//aniqit.com/seria/658093/ea8bc1a1da249279f15b3e4c0af73a26/720p",
-            "7": "//aniqit.com/seria/658094/e992937f51cdd6b81da145e1678de2a1/720p",
-            "8": "//aniqit.com/seria/658095/afa3362c15e2181665656fa85a80aa40/720p",
-            "9": "//aniqit.com/seria/658096/3aeb0718dd4c7c89513d62fdc47da4b4/720p",
-            "10": "//aniqit.com/seria/658097/037e13321b3cb16144fc7630e0528212/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Это зомби?",
-        "title_en": "Kore wa Zombie desu ka?",
-        "other_titles": [
-          "Kore wa Zombie Desu ka? 2",
-          "Koreha Zombie Desu ka? Jigokuhen",
-          "Kore ha Zombie Desu ka? Jigokuhen",
-          "Kore wa Zombie Desu ka? Jigokuhen",
-          "Kore wa Zombie Desuka? of the Dead"
-        ],
-        "other_titles_en": [
-          "Is this A Zombie? of the Dead"
-        ],
-        "other_titles_jp": [
-          "これはゾンビですか? OF THE DEAD"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2011,
-        "description": "Аюми Аикавой - очень ленивый японский студент, с которым произошла удивительная история. В его городе происходят серийные убийства, он становиться жертвой и погибает. Но прохлаждаться в сырой могиле долго ему не пришлось, милая девочка-некромант по имени Ю воскресила парня в качестве зомби. Теперь у него другая судьба, он должен сопровождать волшебницу Харуну.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/574563.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/6886c9450104518ba03448d6baeefc6bfe82ba12.jpg",
-          "https://shikimori.one/system/screenshots/original/776481e96681d96dc2b46ceaa4accf6b5430e114.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Комедия",
-          "Магия",
-          "Сверхъестественное",
-          "Экшен",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Studio Deen"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 1077,
-        "imdb_rating": 7.1,
-        "imdb_votes": 1468,
-        "shikimori_rating": 7.57,
-        "shikimori_votes": 9524,
-        "premiere_world": "2011-01-11",
-        "aired_at": "2012-04-05",
-        "released_at": "2012-06-07",
-        "rating_mpaa": "R",
-        "episodes_total": 10,
-        "episodes_aired": 10,
-        "actors": [
-          "Ёко Хикаса",
-          "Дзюндзи Мадзима",
-          "Риэ Ямагути"
-        ],
-        "directors": [
-          "Такаоми Канасаки",
-          "Сюндзи Ёсида",
-          "Ацуси Накаяма",
-          "Сатоси Сага",
-          "Ютака Хирата",
-          "Такатоси Судзуки",
-          "Ёсикадзу Уи"
-        ],
-        "producers": [
-          "Хироясу Асами",
-          "Сатоси Фудзита",
-          "Сэити Хатия",
-          "Кодзи Иидзима",
-          "Акио Идзумикава",
-          "Сэйити Кавасима",
-          "Ёсикадзу Кумагаи",
-          "Кадзунори Ногути",
-          "Томоми Нумата",
-          "Цунэо Такэти"
-        ],
-        "writers": [
-          "Синъити Кимура",
-          "Токо Матида",
-          "Сигэру Морита",
-          "Макото Уэдзу"
-        ],
-        "composers": [
-          "Синдзи Какисима"
-        ],
-        "editors": [
-          "Масахиро Мацумура"
-        ],
-        "designers": [
-          "Кэй Итикура"
-        ],
-        "operators": [
-          "Масаюки Кавагути"
-        ]
-      }
-    },
-    {
-      "id": "serial-8193",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Уж не зомби ли это? [ТВ-2]",
-      "title_orig": "Kore wa Zombie Desuka? Of the Dead",
-      "other_title": "Это зомби 2? / Уж не зомби ли это? (второй сезон) /  Kore wa zonbi desu ka?",
-      "translation": {
-        "id": 610,
-        "title": "AniLibria.TV",
-        "type": "voice"
-      },
-      "year": 2011,
-      "last_season": 2,
-      "last_episode": 10,
-      "episodes_count": 11,
-      "kinopoisk_id": "574563",
-      "imdb_id": "tt1780262",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1103",
-      "shikimori_id": "10790",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-01-02T04:32:59Z",
-      "updated_at": "2020-05-28T02:40:31Z",
-      "seasons": {
-        "0": {
-          "title": "Спешл",
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/658087/dbd20d7f8bf08636b94938aa754a8bc4/720p"
-          }
-        },
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/212365/dbd20d7f8bf08636b94938aa754a8bc4/720p",
-            "2": "//aniqit.com/seria/212366/2326a6ff8b63d59ed057fa1569891e14/720p",
-            "3": "//aniqit.com/seria/212367/d2ca423b43e8768cd5a4c47df37ef4f7/720p",
-            "4": "//aniqit.com/seria/212368/6866b62ac40411110bb85d9023f15bc9/720p",
-            "5": "//aniqit.com/seria/212369/171501459dc3f222f06187b9cb863541/720p",
-            "6": "//aniqit.com/seria/212370/5870358cb616d48df5a1bca7b32b77f3/720p",
-            "7": "//aniqit.com/seria/212371/e659fa26915957c935780d11db7b8da0/720p",
-            "8": "//aniqit.com/seria/212372/b6de2880253a66f03e93833b9846f44b/720p",
-            "9": "//aniqit.com/seria/212373/dc5f4c7013fa877567c7c31ec3c0b143/720p",
-            "10": "//aniqit.com/seria/212374/1efdc948668d22647889d9dc874b083a/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Это зомби?",
-        "title_en": "Kore wa Zombie desu ka?",
-        "other_titles": [
-          "Kore wa Zombie Desu ka? 2",
-          "Koreha Zombie Desu ka? Jigokuhen",
-          "Kore ha Zombie Desu ka? Jigokuhen",
-          "Kore wa Zombie Desu ka? Jigokuhen",
-          "Kore wa Zombie Desuka? of the Dead"
-        ],
-        "other_titles_en": [
-          "Is this A Zombie? of the Dead"
-        ],
-        "other_titles_jp": [
-          "これはゾンビですか? OF THE DEAD"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2011,
-        "description": "Аюми Аикавой - очень ленивый японский студент, с которым произошла удивительная история. В его городе происходят серийные убийства, он становиться жертвой и погибает. Но прохлаждаться в сырой могиле долго ему не пришлось, милая девочка-некромант по имени Ю воскресила парня в качестве зомби. Теперь у него другая судьба, он должен сопровождать волшебницу Харуну.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/574563.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/6886c9450104518ba03448d6baeefc6bfe82ba12.jpg",
-          "https://shikimori.one/system/screenshots/original/776481e96681d96dc2b46ceaa4accf6b5430e114.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Комедия",
-          "Магия",
-          "Сверхъестественное",
-          "Экшен",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Studio Deen"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 1077,
-        "imdb_rating": 7.1,
-        "imdb_votes": 1468,
-        "shikimori_rating": 7.57,
-        "shikimori_votes": 9524,
-        "premiere_world": "2011-01-11",
-        "aired_at": "2012-04-05",
-        "released_at": "2012-06-07",
-        "rating_mpaa": "R",
-        "episodes_total": 10,
-        "episodes_aired": 10,
-        "actors": [
-          "Ёко Хикаса",
-          "Дзюндзи Мадзима",
-          "Риэ Ямагути"
-        ],
-        "directors": [
-          "Такаоми Канасаки",
-          "Сюндзи Ёсида",
-          "Ацуси Накаяма",
-          "Сатоси Сага",
-          "Ютака Хирата",
-          "Такатоси Судзуки",
-          "Ёсикадзу Уи"
-        ],
-        "producers": [
-          "Хироясу Асами",
-          "Сатоси Фудзита",
-          "Сэити Хатия",
-          "Кодзи Иидзима",
-          "Акио Идзумикава",
-          "Сэйити Кавасима",
-          "Ёсикадзу Кумагаи",
-          "Кадзунори Ногути",
-          "Томоми Нумата",
-          "Цунэо Такэти"
-        ],
-        "writers": [
-          "Синъити Кимура",
-          "Токо Матида",
-          "Сигэру Морита",
-          "Макото Уэдзу"
-        ],
-        "composers": [
-          "Синдзи Какисима"
-        ],
-        "editors": [
-          "Масахиро Мацумура"
-        ],
-        "designers": [
-          "Кэй Итикура"
-        ],
-        "operators": [
-          "Масаюки Кавагути"
-        ]
-      }
-    },
-    {
-      "id": "serial-8195",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Уж не зомби ли это? [ТВ-2]",
-      "title_orig": "Kore wa Zombie Desuka? Of the Dead",
-      "other_title": "Это зомби 2? / Уж не зомби ли это? (второй сезон) /  Kore wa zonbi desu ka?",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2011,
-      "last_season": 2,
-      "last_episode": 10,
-      "episodes_count": 11,
-      "kinopoisk_id": "574563",
-      "imdb_id": "tt1780262",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1103",
-      "shikimori_id": "10790",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-01-02T04:35:32Z",
-      "updated_at": "2020-05-28T02:40:12Z",
-      "seasons": {
-        "0": {
-          "title": "Спешл",
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/658086/2f2a664ff276ac86f5d3983976ac4d7f/720p"
-          }
-        },
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/212388/2f2a664ff276ac86f5d3983976ac4d7f/720p",
-            "2": "//aniqit.com/seria/212389/6b94966a7d432419845ae6c3246e38a1/720p",
-            "3": "//aniqit.com/seria/212390/075ac3373bf63273931d126f6a4c3bce/720p",
-            "4": "//aniqit.com/seria/212391/0c58f4e9fd67cb782abd6a254bfe28d1/720p",
-            "5": "//aniqit.com/seria/212392/bd0b3974080f4b0721b0f69a90643435/720p",
-            "6": "//aniqit.com/seria/212393/6b015a349af917c48d0721ece764613b/720p",
-            "7": "//aniqit.com/seria/212394/fbfe633c2870a8709d103d5057315385/720p",
-            "8": "//aniqit.com/seria/212395/0c5b71d6a312b6d5ee0101d139b9a90f/720p",
-            "9": "//aniqit.com/seria/212396/7360b052cfa3ca842ea2dfeee2190a84/720p",
-            "10": "//aniqit.com/seria/212397/b04de3c03f2441c5a1898655c2e7e061/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Это зомби?",
-        "title_en": "Kore wa Zombie desu ka?",
-        "other_titles": [
-          "Kore wa Zombie Desu ka? 2",
-          "Koreha Zombie Desu ka? Jigokuhen",
-          "Kore ha Zombie Desu ka? Jigokuhen",
-          "Kore wa Zombie Desu ka? Jigokuhen",
-          "Kore wa Zombie Desuka? of the Dead"
-        ],
-        "other_titles_en": [
-          "Is this A Zombie? of the Dead"
-        ],
-        "other_titles_jp": [
-          "これはゾンビですか? OF THE DEAD"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2011,
-        "description": "Аюми Аикавой - очень ленивый японский студент, с которым произошла удивительная история. В его городе происходят серийные убийства, он становиться жертвой и погибает. Но прохлаждаться в сырой могиле долго ему не пришлось, милая девочка-некромант по имени Ю воскресила парня в качестве зомби. Теперь у него другая судьба, он должен сопровождать волшебницу Харуну.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/574563.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/6886c9450104518ba03448d6baeefc6bfe82ba12.jpg",
-          "https://shikimori.one/system/screenshots/original/776481e96681d96dc2b46ceaa4accf6b5430e114.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Комедия",
-          "Магия",
-          "Сверхъестественное",
-          "Экшен",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Studio Deen"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 1077,
-        "imdb_rating": 7.1,
-        "imdb_votes": 1468,
-        "shikimori_rating": 7.57,
-        "shikimori_votes": 9524,
-        "premiere_world": "2011-01-11",
-        "aired_at": "2012-04-05",
-        "released_at": "2012-06-07",
-        "rating_mpaa": "R",
-        "episodes_total": 10,
-        "episodes_aired": 10,
-        "actors": [
-          "Ёко Хикаса",
-          "Дзюндзи Мадзима",
-          "Риэ Ямагути"
-        ],
-        "directors": [
-          "Такаоми Канасаки",
-          "Сюндзи Ёсида",
-          "Ацуси Накаяма",
-          "Сатоси Сага",
-          "Ютака Хирата",
-          "Такатоси Судзуки",
-          "Ёсикадзу Уи"
-        ],
-        "producers": [
-          "Хироясу Асами",
-          "Сатоси Фудзита",
-          "Сэити Хатия",
-          "Кодзи Иидзима",
-          "Акио Идзумикава",
-          "Сэйити Кавасима",
-          "Ёсикадзу Кумагаи",
-          "Кадзунори Ногути",
-          "Томоми Нумата",
-          "Цунэо Такэти"
-        ],
-        "writers": [
-          "Синъити Кимура",
-          "Токо Матида",
-          "Сигэру Морита",
-          "Макото Уэдзу"
-        ],
-        "composers": [
-          "Синдзи Какисима"
-        ],
-        "editors": [
-          "Масахиро Мацумура"
-        ],
-        "designers": [
-          "Кэй Итикура"
-        ],
-        "operators": [
-          "Масаюки Кавагути"
-        ]
-      }
-    },
-    {
-      "id": "serial-26252",
-      "type": "anime-serial",
-      "link": "",
-      "title": "У меня мало друзей [ТВ-2]",
-      "title_orig": "Boku wa Tomodachi ga Sukunai Next",
-      "other_title": "У меня мало друзей ТВ2 / У меня мало друзей: Далее",
-      "translation": {
-        "id": 654,
-        "title": "AniFilm",
-        "type": "voice"
-      },
-      "year": 2013,
-      "last_season": 2,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "714215",
-      "imdb_id": "tt2645500",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1113",
-      "shikimori_id": "14967",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-28T02:38:39Z",
-      "updated_at": "2020-05-28T02:38:39Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/658074/962d11b74b8443bef539563d7ff4b41d/720p",
-            "2": "//aniqit.com/seria/658075/65b02a22d21649ec17bbb6dee56abe46/720p",
-            "3": "//aniqit.com/seria/658076/7208cc3b506e4a0daaa7acf300461413/720p",
-            "4": "//aniqit.com/seria/658077/ee02251c2b8067e8ac02685d3fd86587/720p",
-            "5": "//aniqit.com/seria/658078/9b31cd2c772ef79ded8bc04cb2e2a539/720p",
-            "6": "//aniqit.com/seria/658079/080c1dd06d6c8af9a291662f37eca08b/720p",
-            "7": "//aniqit.com/seria/658080/99bf33ce87832f78348be5cd98fcfb66/720p",
-            "8": "//aniqit.com/seria/658081/35f5db450bbce3c7ad63ba17622b1e40/720p",
-            "9": "//aniqit.com/seria/658082/5b6b3aff5a6cadc8e44e240f6efcb47e/720p",
-            "10": "//aniqit.com/seria/658083/46d950d9ab41f4ec08a15ff70ed588a3/720p",
-            "11": "//aniqit.com/seria/658084/23ec960ee98569ddd2d1ae7cdfc29c06/720p",
-            "12": "//aniqit.com/seria/658085/941209971f5e0edb6f5d4535ba48e76b/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "У меня мало друзей: Далее",
-        "title_en": "Boku wa Tomodachi ga Sukunai Next",
-        "other_titles": [
-          "Boku wa Tomodachi ga Sukunai 2nd Season"
-        ],
-        "other_titles_en": [
-          "Haganai: I don't have many friends NEXT"
-        ],
-        "other_titles_jp": [
-          "僕は友達が少ない NEXT"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2013,
-        "description": "Клуб друзей был основан с целью найти как можно больше друзей. В нём одинокие девушки и парни постигают основы нормального общения. И хотя некоторые из них, например, Ёдзора, столкнулись с трудностями в конце лета, повседневная жизнь клуба идет своим чередом. Члены клуба собираются в парк развлечений, вместе отмечают дни рождения и участвуют на школьном фестивале. Вскоре отношения между ними меняются...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/714215.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/33ad85917a092b98ce1f5b343019f23e37809014.jpg",
-          "https://shikimori.one/system/screenshots/original/4d58ec1e067570473cc5c5dc4f956850082a9137.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Комедия",
-          "Повседневность",
-          "Романтика",
-          "Школа"
-        ],
-        "anime_studios": [
-          "AIC Build"
-        ],
-        "kinopoisk_rating": 7.5,
-        "kinopoisk_votes": 955,
-        "shikimori_rating": 7.41,
-        "shikimori_votes": 19650,
-        "aired_at": "2013-01-11",
-        "released_at": "2013-03-29",
-        "rating_mpaa": "R+",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Ито Канаэ",
-          "Марина Иноуэ",
-          "Рёхэй Кимура",
-          "Кана Ханадзава",
-          "Мисато Фукуэн",
-          "Ямамото Нодзоми",
-          "Юка Игути"
-        ],
-        "directors": [
-          "Тору Китахата"
-        ],
-        "writers": [
-          "Курасуми Сунаяма",
-          "Тацухико Урахата"
-        ]
-      }
-    },
-    {
-      "id": "serial-26251",
-      "type": "anime-serial",
-      "link": "",
-      "title": "У меня мало друзей [ТВ-1]",
-      "title_orig": "Boku wa Tomodachi ga Sukunai",
-      "other_title": "I Don't Have Many Friends",
-      "translation": {
-        "id": 654,
-        "title": "AniFilm",
-        "type": "voice"
-      },
-      "year": 2011,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "652742",
-      "imdb_id": "tt2645500",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6785",
-      "shikimori_id": "10719",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-28T02:35:58Z",
-      "updated_at": "2020-05-28T02:35:58Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/658062/ebb2addbd024530cadec1a4adabedeae/720p",
-            "2": "//aniqit.com/seria/658063/cb9205956763a9b44ab6b0f5ab960a42/720p",
-            "3": "//aniqit.com/seria/658064/2c2fb0f09c15e4fe05b2d52ed850c1d4/720p",
-            "4": "//aniqit.com/seria/658065/988b3095e0e3c75a22d6e899b8a9f944/720p",
-            "5": "//aniqit.com/seria/658066/eba3b853dc9095e6c99d7f1dbdec032d/720p",
-            "6": "//aniqit.com/seria/658067/4639da9fe300b2ed5899345bac2d9020/720p",
-            "7": "//aniqit.com/seria/658068/c33a2d5a8006f30860b9b787a0fa64b2/720p",
-            "8": "//aniqit.com/seria/658069/350a71bba9b2bda540f55869a664362a/720p",
-            "9": "//aniqit.com/seria/658070/acab59560006d518f60c90c7ef0e6a87/720p",
-            "10": "//aniqit.com/seria/658071/627d6b01d756698bd5c2870c95d29ea8/720p",
-            "11": "//aniqit.com/seria/658072/f3c78a3a261fe680f49cff9e533bf597/720p",
-            "12": "//aniqit.com/seria/658073/a1880fe0d4f491877bd6958ece883c4e/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "У меня мало друзей",
-        "title_en": "Boku wa Tomodachi ga Sukunai",
-        "other_titles": [
-          "I Don't Have Many Friends"
-        ],
-        "other_titles_en": [
-          "Haganai: I don't have many friends"
-        ],
-        "other_titles_jp": [
-          "僕は友達が少ない"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2011,
-        "description": "17-летний Кодака Хасэгава – полуяпонец, полуангличанин, блондин с нестандартной внешностью. Старая история – в каждой школе нормального и хозяйственного парня принимают за хулигана и обходят стороной, вот и академия Св. Хроники не стала исключением. Слоняясь в одиночестве по коридорам, Кодака заглянул в пустующий класс и не поверил глазам: одноклассница Ёдзора Микадзуки, умница, красавица, но такая же угрюмая одиночка, как он сам, весело болтала с подругой… увы, воображаемой. Слово за слово, ребята заговорили о жизни, о дружбе, и поняли, что, несмотря на всю внешнюю крутизну, хотели бы завести друзей, но не знают как. Решение оказалось на поверхности – надо создать новый клуб!\n\rТворить добро легко и приятно, потому герои мобилизовали все свои недюжинные способности. Очень скоро согласно канону жанра в новом «клубе соседей», разместившемся в школьной церкви, начали собираться самые разные личности, притянутые харизмой основателей. Молодая монахиня Мария, не умеющая ладить с людьми. Звезда школы Сэна Касивадзаки, вместо поклонения захотевшая обычной дружбы. Юная сумасшедшая ученая, по совместительству – фанатка сенен-ай. Весьма симпатичный парень, обожающий косплей и кроссдрессинг. Умильная сестренка главного героя… Да, да, все это уже было! Но ведь хорошие вещи можно смотреть бесконечно!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/652742.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/cb6d97e8e999b92f290212bf7729bc00f3669456.jpg",
-          "https://shikimori.one/system/screenshots/original/35966020a1393ca36416867da9e18a8741588731.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Комедия",
-          "Повседневность",
-          "Романтика",
-          "Школа",
-          "Этти"
-        ],
-        "anime_studios": [
-          "AIC Build"
-        ],
-        "kinopoisk_rating": 7.1,
-        "kinopoisk_votes": 1977,
-        "imdb_rating": 7.2,
-        "imdb_votes": 1705,
-        "shikimori_rating": 7.28,
-        "shikimori_votes": 29126,
-        "premiere_world": "2011-10-06",
-        "aired_at": "2011-10-07",
-        "released_at": "2011-12-23",
-        "rating_mpaa": "R+",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Рёхэй Кимура",
-          "Марина Иноуэ",
-          "Ито Канаэ",
-          "Ямамото Нодзоми",
-          "Мисато Фукуэн",
-          "Кана Ханадзава",
-          "Юка Игути",
-          "Итару Ямамото",
-          "Аянэ Сакура",
-          "Норико Обата"
-        ],
-        "directors": [
-          "Хисаси Саито",
-          "Хироюки Сато",
-          "Кота Окуно",
-          "Даисукэ Такасима",
-          "Тору Китахата",
-          "Хисая Такабаяси"
-        ],
-        "producers": [
-          "Кэнтаро Иваса",
-          "Нитта Тацухиро",
-          "Го Танака",
-          "Сатоси Танака",
-          "Ёсукэ Футами",
-          "Shinya Kinbara",
-          "Taizo Ohara",
-          "Кеисуке Футами",
-          "Takenari Kanehara"
-        ],
-        "writers": [
-          "Ёми Хирасака",
-          "Курасуми Сунаяма",
-          "Тацухико Урахата",
-          "Шон Уитли"
-        ],
-        "composers": [
-          "Томохиро Осима"
-        ],
-        "editors": [
-          "Сёта Мигияма"
-        ],
-        "designers": [
-          "Хирама Юка"
-        ]
       }
     }
   ]

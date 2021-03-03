@@ -1,6 +1,694 @@
 {
   "results": [
     {
+      "id": "movie-21193",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мне нравится, но мне страшно",
+      "title_orig": "Me gusta, pero me asusta",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "994035",
+      "imdb_id": "tt5855440",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-02-22T23:47:53Z",
+      "updated_at": "2018-02-26T16:23:44Z",
+      "material_data": {
+        "title": "Мне нравится, но мне страшно",
+        "title_en": "Me gusta, pero me asusta",
+        "year": 2017,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/994035.jpg",
+        "duration": 100,
+        "countries": [
+          "Мексика"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "imdb_rating": 5.7,
+        "imdb_votes": 476,
+        "premiere_world": "2017-09-22",
+        "actors": [
+          "Хоакин Косио",
+          "Камила Сельсер",
+          "Марлене Фавела",
+          "Алехандро Спейцер",
+          "Эктор Котсифакис",
+          "Эрнан Мендоса",
+          "Пальмейра Крус",
+          "Minnie West",
+          "Сильверио Паласиос",
+          "Родриго Овьедо"
+        ],
+        "directors": [
+          "Бето Гомес"
+        ],
+        "producers": [
+          "Аурора Хауреги",
+          "Моника Лосано Серрано",
+          "Бето Гомес",
+          "Николь Мэйнард",
+          "Антонио Мунгия",
+          "Алехандро Спейцер",
+          "Minnie West"
+        ],
+        "writers": [
+          "Бето Гомес",
+          "Аурора Хауреги",
+          "Альфонсо Суарез"
+        ],
+        "composers": [
+          "Марк Мазерсбо"
+        ],
+        "editors": [
+          "Начо Руис Капильяс"
+        ],
+        "designers": [
+          "Карлос Лагунас",
+          "Сандро Вальдес",
+          "Adriana Olivera",
+          "Барбара Хоркаситас"
+        ],
+        "operators": [
+          "Даниэль Хакобс"
+        ]
+      }
+    },
+    {
+      "id": "movie-19470",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Кричи в никуда",
+      "title_orig": "Aozora êru",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "970087",
+      "imdb_id": "tt5261644",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-11-07T07:51:49Z",
+      "updated_at": "2018-02-26T16:21:50Z",
+      "material_data": {
+        "title": "Кричи в никуда",
+        "title_en": "Aozora êru",
+        "year": 2016,
+        "description": "Поступив в старшую школу, Цубаса неожиданно встречает в своём классе мальчика, который произвёл на неё сильное впечатление на чемпионате по бейсболу среди средних школ.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/970087.jpg",
+        "duration": 126,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма",
+          "мелодрама",
+          "семейный"
+        ],
+        "imdb_rating": 6.2,
+        "imdb_votes": 177,
+        "premiere_world": "2016-08-20",
+        "actors": [
+          "Тао Цутия",
+          "Рёма Такэути",
+          "Сёно Хаяма",
+          "Арата Хории",
+          "Фудзико Кодзима",
+          "Аири Мацуи",
+          "Мираи Сида",
+          "Юна Таира",
+          "Дзюри Уэно",
+          "Юки Ямада"
+        ],
+        "directors": [
+          "Такахиро Мики"
+        ],
+        "producers": [
+          "Кэи Харуна",
+          "Юсукэ Исигуро",
+          "Наохиро Кавада",
+          "Хисаси Усуи",
+          "Хироси Аои",
+          "Осаму Аранами",
+          "Макото Хаяси",
+          "Ёситака Хори",
+          "Минами Итикава",
+          "Томокадзу Итимура"
+        ],
+        "writers": [
+          "Кадзунэ Кавахара",
+          "Юкико Мотидзи"
+        ],
+        "composers": [
+          "Юки Хаяси"
+        ],
+        "editors": [
+          "Наоя Бандо"
+        ],
+        "designers": [
+          "Хидэфуми Ханатани"
+        ],
+        "operators": [
+          "Мотонобу Киёку"
+        ]
+      }
+    },
+    {
+      "id": "movie-21228",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Жил-был тигр",
+      "title_orig": "Ek Tha Tiger",
+      "other_title": "Был Один Тигр / Шпионские страсти",
+      "translation": {
+        "id": 651,
+        "title": "Люб. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "606753",
+      "imdb_id": "tt2016894",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-02-26T14:27:27Z",
+      "updated_at": "2018-02-26T14:27:27Z",
+      "material_data": {
+        "title": "Жил-был Тигр",
+        "title_en": "Ek Tha Tiger",
+        "year": 2012,
+        "description": "Индийский спецагент по прозвищу Тигр во время очередной миссии влюбляется в очаровательную танцовщицу Зою - помощницу ученого, который подозревается в продаже секретных технологий пакистанской разведке.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/606753.jpg",
+        "duration": 132,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "боевик",
+          "мелодрама",
+          "триллер"
+        ],
+        "kinopoisk_rating": 7.7,
+        "kinopoisk_votes": 1112,
+        "imdb_rating": 5.5,
+        "imdb_votes": 29026,
+        "premiere_ru": "2017-12-19",
+        "premiere_world": "2012-08-15",
+        "minimal_age": 12,
+        "actors": [
+          "Салман Кхан",
+          "Катрина Каиф",
+          "Гириш Карнад",
+          "Рошан Сет",
+          "Ранвир Шори",
+          "Ашок Авасти",
+          "Авинаш Бадал",
+          "Киран Батра",
+          "Вимал Батра",
+          "Сушма Бэтт"
+        ],
+        "directors": [
+          "Кабир Кхан"
+        ],
+        "producers": [
+          "Адитья Чопра",
+          "Алихан Карагул",
+          "Луис Лаго",
+          "Брендан Маккарти",
+          "Мэри МакКарти",
+          "Джон МакДоннел",
+          "Ёгендра Могре",
+          "Култхеп Нарула",
+          "Ашиш Сингх",
+          "Навмит Сингх"
+        ],
+        "writers": [
+          "Адитья Чопра",
+          "Кабир Кхан",
+          "Нилеш Мисра"
+        ],
+        "composers": [
+          "Саджид-Ваджид",
+          "Сохаил Сен"
+        ],
+        "editors": [
+          "Рамешвар С. Бхагат"
+        ],
+        "designers": [
+          "Мелих Бораган",
+          "Ворапол Дханашоти",
+          "Джон Хэнд",
+          "Сукант Паниграхи",
+          "Карлос Урданивия",
+          "Лесли Окли",
+          "Арун Чаухан",
+          "Алвира Кхан",
+          "Эшли Ребелло",
+          "Анушка Велджи"
+        ],
+        "operators": [
+          "Асим Мишра"
+        ]
+      }
+    },
+    {
+      "id": "movie-21250",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Несколько минут после полуночи",
+      "title_orig": "Minutes Past Midnight",
+      "translation": {
+        "id": 660,
+        "title": "GreenРай Studio",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "991373",
+      "imdb_id": "tt5861630",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-02-26T19:56:23Z",
+      "updated_at": "2018-02-24T08:02:37Z",
+      "material_data": {
+        "title": "Несколько минут после полуночи",
+        "title_en": "Minutes Past Midnight",
+        "year": 2016,
+        "description": "После полуночи на земле воцаряется ужас в самых разных своих проявлениях. Демоны, каннибалы, убийцы, призраки и монстры заполоняют мир... В картине представлено девять мини-историй.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/991373.jpg",
+        "duration": 98,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "триллер",
+          "ужасы"
+        ],
+        "kinopoisk_rating": 5,
+        "kinopoisk_votes": 261,
+        "imdb_rating": 4.9,
+        "imdb_votes": 910,
+        "premiere_world": "2016-10-18",
+        "actors": [
+          "Джейсон Флеминг",
+          "Барбара Стил",
+          "Мика Бурем",
+          "Оуэн МакДоннелл",
+          "Стив Уолл",
+          "Sam Ashurst",
+          "Мэттью Бро",
+          "Zach Canfield",
+          "David Carranza",
+          "John Carvalho"
+        ],
+        "directors": [
+          "Robert Boocheck",
+          "Ли Кронин",
+          "Francisco Sonic Kim",
+          "Ryan Lightbourn",
+          "Марк Мартинес",
+          "Кевин МакТурк",
+          "Джеймс Моран",
+          "Кристиан Риверс",
+          "Sid Zanforlin"
+        ],
+        "producers": [
+          "Saeed Al Darmaki",
+          "Dave Alexander",
+          "Chris Bavota",
+          "Джей Кларк",
+          "Mhairead Connor",
+          "Brian Ellis",
+          "Джон Коуди Фазано",
+          "Эви Федергрин",
+          "Патриция Гомез",
+          "Родриго Гудиньо"
+        ],
+        "writers": [
+          "Chris Bavota",
+          "Robert Boocheck",
+          "Ли Кронин",
+          "Collin George",
+          "Ryan Lightbourn",
+          "Марк Мартинес",
+          "Guy McDouall",
+          "Джеймс Моран",
+          "Райан Мерфи",
+          "Sid Zanforlin"
+        ],
+        "composers": [
+          "Sean Motley"
+        ],
+        "editors": [
+          "Колин Кэмпбелл",
+          "Расселл Личтер",
+          "Ryan Lightbourn"
+        ],
+        "operators": [
+          "Ryan Lightbourn"
+        ]
+      }
+    },
+    {
+      "id": "movie-21165",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Горы",
+      "title_orig": "Mountain",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1030023",
+      "imdb_id": "tt6203570",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-02-22T10:05:22Z",
+      "updated_at": "2018-02-24T07:59:47Z",
+      "material_data": {
+        "title": "Горы",
+        "title_en": "Mountain",
+        "year": 2017,
+        "tagline": "A cinematic & musical odyssey.",
+        "description": "Горы – самое неприступное и коварное творение природы. Их склоны влекут к себе человечество испокон веков. Этот поединок длится столетиями, но что в нем заслуживает большего восхищения: сами горы или дерзость одиночек, что стремятся подняться «выше неба»?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1030023.jpg",
+        "duration": 74,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "документальный"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 3168,
+        "imdb_rating": 7.2,
+        "imdb_votes": 3757,
+        "premiere_ru": "2018-06-21",
+        "premiere_world": "2017-06-12",
+        "rating_mpaa": "PG",
+        "minimal_age": 6,
+        "actors": [
+          "Уиллем Дефо"
+        ],
+        "directors": [
+          "Дженнифер Пидом"
+        ],
+        "producers": [
+          "Джо-Энн Макгоун",
+          "Дженнифер Пидом",
+          "Стивен Бойл",
+          "Эрик Кросленд",
+          "Энсон Фогель",
+          "Дэвид Гросс",
+          "Тим Кемпл",
+          "Тим Мэддокс",
+          "Стиви Майер",
+          "Мартин Маер"
+        ],
+        "writers": [
+          "Роберт Макфарлейн",
+          "Дженнифер Пидом"
+        ],
+        "composers": [
+          "Ричард Тоньетти"
+        ],
+        "editors": [
+          "Кристиан Газаль",
+          "Скотт Грэй"
+        ],
+        "operators": [
+          "Ренан Озтурк"
+        ]
+      }
+    },
+    {
+      "id": "movie-21082",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Тигр жив",
+      "title_orig": "Tiger Zinda Hai",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "997495",
+      "imdb_id": "tt5956100",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-02-16T11:08:22Z",
+      "updated_at": "2018-02-24T07:53:58Z",
+      "material_data": {
+        "title": "Тигр жив",
+        "title_en": "Tiger Zinda Hai",
+        "year": 2017,
+        "tagline": "Скоро наступит мир",
+        "description": "В Ираке во время вооруженного конфликта между иракской армией и террористами ранен лидер террористов Абу Усман. Его доставляют в местный госпиталь и берут в заложники индийских и пакистанских медсестер. Кроме того, со дня на день должны казнить группу американских журналистов.\n\rКогда ушедший на покой секретный агент индийской спецслужбы Тигр где-то в швейцарских Альпах голыми руками расправляется со стаей волков, родине снова нужна его помощь. Американцы согласились совершить авиаудар через неделю, поэтому у Тигра и его команды есть только 7 дней, чтобы вызволить заложников. Да и Зоя не может остаться в стороне - теперь индийские и пакистанские спецслужбы будут работать вместе.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/997495.jpg",
+        "duration": 161,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "боевик"
+        ],
+        "kinopoisk_rating": 6,
+        "kinopoisk_votes": 945,
+        "imdb_rating": 5.9,
+        "imdb_votes": 21731,
+        "premiere_ru": "2018-02-15",
+        "premiere_world": "2017-12-21",
+        "minimal_age": 16,
+        "actors": [
+          "Салман Кхан",
+          "Катрина Каиф",
+          "Анупурия Гоенка",
+          "Наваб Шах",
+          "Энгэд Беди",
+          "Пареш Раваль",
+          "Кумуд Мишра",
+          "Садджад Делафруз",
+          "Гириш Карнад",
+          "Vibhoutee Sharma"
+        ],
+        "directors": [
+          "Али Аббас Зафар"
+        ],
+        "producers": [
+          "Адитья Чопра",
+          "Jamal Araissi",
+          "Судханшу Кумар",
+          "Ishvinder Maddh",
+          "Hind Nabulsi",
+          "Андреас Пайер",
+          "Бхарат Равайл",
+          "Ашиш Сингх",
+          "Навмит Сингх"
+        ],
+        "writers": [
+          "Нилеш Мисра",
+          "Али Аббас Зафар",
+          "Адитья Чопра"
+        ],
+        "composers": [
+          "Вишал Дадлани",
+          "Джулиус Пакьям",
+          "Шехар Равджиани"
+        ],
+        "editors": [
+          "Рамешвар С. Бхагат"
+        ],
+        "designers": [
+          "Сантош Коткар",
+          "Tanvi Patil",
+          "Алвира Кхан",
+          "Еллавади Липакши",
+          "Эшли Ребелло"
+        ],
+        "operators": [
+          "Marcin Laskawiec",
+          "Аркадиуш Томяк",
+          "Пётр Узнанский"
+        ]
+      }
+    },
+    {
+      "id": "movie-20311",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Сердце из стали",
+      "title_orig": "Ji qi zhi xue",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "988953",
+      "imdb_id": "tt5813366",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [
+        "RU"
+      ],
+      "created_at": "2018-01-04T17:31:24Z",
+      "updated_at": "2018-02-23T13:33:57Z",
+      "material_data": {
+        "title": "Сердце из стали",
+        "title_en": "Ji qi zhi xue",
+        "year": 2017,
+        "tagline": "One man must unravel the past to save the future.",
+        "description": "Крутой агент спецназа пытается защитить молодую женщину от криминальной группировки. И в то же время он чувствует с ней странную связь, как будто они встречались в другой жизни.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/988953.jpg",
+        "duration": 110,
+        "countries": [
+          "Гонконг",
+          "Китай"
+        ],
+        "genres": [
+          "боевик",
+          "триллер",
+          "фантастика"
+        ],
+        "kinopoisk_rating": 5.4,
+        "kinopoisk_votes": 34242,
+        "imdb_rating": 5.2,
+        "imdb_votes": 8650,
+        "premiere_world": "2017-12-22",
+        "rating_mpaa": "R",
+        "minimal_age": 16,
+        "actors": [
+          "Джеки Чан",
+          "Шоу Ло",
+          "Нана Оуян",
+          "Эрика Сяхоу",
+          "Каллэн Мулвей",
+          "Тесс Хобрич",
+          "Ким Джинджелл",
+          "Дэмиен Гарви",
+          "Боуи Лам",
+          "Цай Хуэйцюань"
+        ],
+        "directors": [
+          "Чжан Лицзя"
+        ],
+        "producers": [
+          "Пол Карри",
+          "Эйлин Ли",
+          "Бай Яли",
+          "Сунь Бинь",
+          "Цао Янь",
+          "Аллан Чан",
+          "Джеки Чан",
+          "Джейси Чан",
+          "Кевин Чань",
+          "Райан Чэнь"
+        ],
+        "writers": [
+          "Эрика Сяхоу",
+          "Цуй Сывэй",
+          "Чжан Лицзя"
+        ],
+        "composers": [
+          "Пэн Фэй"
+        ],
+        "editors": [
+          "Эрик Квон",
+          "Чжан Лицзя"
+        ],
+        "designers": [
+          "Макс Хуан",
+          "Саймон Доббин",
+          "Жан Эдвардс",
+          "Кэлвин Ван",
+          "Сюй Ливэнь"
+        ],
+        "operators": [
+          "Тони Чун",
+          "Джек Цзянь"
+        ]
+      }
+    },
+    {
+      "id": "movie-20516",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Прятки в одиночку",
+      "title_orig": "Honsoom",
+      "translation": {
+        "id": 791,
+        "title": "RealFake",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "1008353",
+      "imdb_id": "tt6280802",
+      "quality": "HDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-01-19T15:38:43Z",
+      "updated_at": "2018-02-22T22:46:52Z",
+      "material_data": {
+        "title": "Прятки в одиночку",
+        "title_en": "Honsum",
+        "year": 2016,
+        "description": "Ведущий и продюсер с AfreecaTV снимают еженедельную программу про сверхъестественное в быту. Однажды они получают от зрителей видео, в котором школьница проводит оккультный ритуал.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1008353.jpg",
+        "duration": 88,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "комедия",
+          "ужасы"
+        ],
+        "imdb_rating": 4.8,
+        "imdb_votes": 109,
+        "premiere_world": "2016-10-26",
+        "actors": [
+          "Рю Док-хван",
+          "Чо Бон-нэ",
+          "Хон Е-ын",
+          "Ли Су-бин",
+          "Чон Сун-вон",
+          "Нам Тхэ-бу",
+          "Чон Сон-иль",
+          "Ким Вон-щик",
+          "Чо Хе-вон",
+          "Ким Ган-иль"
+        ],
+        "directors": [
+          "Ли Ду-хван"
+        ],
+        "producers": [
+          "Чон Джи-хун"
+        ],
+        "composers": [
+          "Ким Джон-гын"
+        ],
+        "editors": [
+          "Хо Сон-ми"
+        ],
+        "designers": [
+          "Чхве И-ён"
+        ]
+      }
+    },
+    {
       "id": "movie-21171",
       "type": "foreign-movie",
       "link": "",
@@ -8746,825 +9434,6 @@
         ],
         "operators": [
           "Чжан Ин"
-        ]
-      }
-    },
-    {
-      "id": "movie-20783",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Никогда не говори о смерти",
-      "title_orig": "Xiu xiu de tie quan",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1047957",
-      "imdb_id": "tt7431894",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-01-30T05:33:44Z",
-      "updated_at": "2018-01-30T05:33:44Z",
-      "material_data": {
-        "title": "Никогда не сдавайся",
-        "title_en": "Xiu xiu de tie quan",
-        "year": 2017,
-        "description": "Боец ММА Эдисон ставит во главу угла не победу, а деньги, поэтому с готовностью сливает бои, если ему за это платят. Об очередной такой схеме узнаёт въедливая журналистка Ма Сяо. Пытаясь догнать её и отнять диктофон с записью, Эдисон случайно падает вместе с ней в бассейн, куда ударяет молния. В результате этого стечения обстоятельств герои меняются телами, но не перестают враждовать – Эдисон делает всё, чтобы Ма Сяо уволили, а Ма Сяо проигрывает один важный бой за другим.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1047957.jpg",
-        "duration": 100,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "комедия",
-          "спорт",
-          "фэнтези"
-        ],
-        "imdb_rating": 6.2,
-        "imdb_votes": 1221,
-        "premiere_world": "2017-09-29",
-        "actors": [
-          "Ай Лунь",
-          "Чан Юань",
-          "Ма Ли",
-          "Шэнь Тэн",
-          "Сун Ян",
-          "Тянь Юй",
-          "Ван Чэнсы",
-          "Ван Чжи",
-          "Сюэ Хаовэнь",
-          "Инь Чжэн"
-        ],
-        "directors": [
-          "Сун Ян",
-          "Чжан Чиюй"
-        ],
-        "producers": [
-          "Тянь Тянь"
-        ],
-        "writers": [
-          "Сун Ян",
-          "Чжан Чиюй"
-        ]
-      }
-    },
-    {
-      "id": "movie-20779",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Беги ко мне",
-      "title_orig": "Run to Me",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "959994",
-      "imdb_id": "tt5292240",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-01-30T05:20:45Z",
-      "updated_at": "2018-01-30T05:20:45Z",
-      "material_data": {
-        "title": "Беги ко мне",
-        "title_en": "Run to Me",
-        "year": 2016,
-        "description": "Алисон Винн - спортсменка и триатлонистка-любительница убеждает тренера высоких достижений доктора Лаура Стивенс, чьи методы кажутся многим экстримальными и противоречивыми, взять ее в качестве клиента. Вместе они приступают к изнуряющей программе тренировок, сочетающей передовую физическую подготовку с экспериментальной гипнотерапией, чтобы сделать Элисон более конкурентоспособной на соревнованиях. Оказываясь всё ближе к пределам психологической и физической выносливости, к девушке начинают возвращаться болезненные подавленные воспоминания о самоубийстве своей матери. Тоталитарный режим Лауры помогает Элисон преодолеть свой стеклянный потолок, но какой ценой? Её работа и семейная жизнь страдают, а девушке уже начинает казаться, что никакая жертва не кажется слишком великой, чтобы удовлетворить растущие требования Лауры.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/959994.jpg",
-        "duration": 100,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "драма",
-          "спорт",
-          "триллер"
-        ],
-        "imdb_rating": 5.1,
-        "imdb_votes": 486,
-        "premiere_world": "2016-05-29",
-        "minimal_age": 18,
-        "actors": [
-          "Клэр Форлани",
-          "Мишель Нолден",
-          "Майк Шара",
-          "Аманда Джейн Тилсон",
-          "Арнольд Пиннок",
-          "Джордж Чертов",
-          "Эллисон Бреннан",
-          "Morgan Dipietrantonio",
-          "Мишель ЛеБланк",
-          "Майкл Бродерик"
-        ],
-        "directors": [
-          "Филипп Ганьон"
-        ],
-        "producers": [
-          "Йен Уайтхед",
-          "Жан Бьюро",
-          "Кейли Кэвэна"
-        ],
-        "writers": [
-          "Даг Барбер",
-          "Джеймс Тейлор Филлипс"
-        ],
-        "composers": [
-          "Марк Уеллетт",
-          "Люк Ст. Пьер"
-        ],
-        "editors": [
-          "Бенжамин Даффилд"
-        ],
-        "designers": [
-          "Жан Бекотт",
-          "Anie Fisette",
-          "Лина Шенье"
-        ],
-        "operators": [
-          "Дэниэл Вильнёв"
-        ]
-      }
-    },
-    {
-      "id": "movie-20750",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "На следующий день",
-      "title_orig": "Geu hu",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1009088",
-      "imdb_id": "tt6462506",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-01-27T17:37:44Z",
-      "updated_at": "2018-01-30T05:11:58Z",
-      "material_data": {
-        "title": "На следующий день",
-        "title_en": "Geu hu",
-        "year": 2017,
-        "description": "Молодая девушка А-рым устраивается на работу в небольшое издательство, заняв место бывшей возлюбленной босса. Пока он вспоминает о своем прерванном романе, его жена находит у него любовную переписку. Обманутая ревнивица врывается в издательство и по ошибке обрушивает обвинения на А-рым.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1009088.jpg",
-        "duration": 92,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 358,
-        "imdb_rating": 6.9,
-        "imdb_votes": 1913,
-        "premiere_world": "2017-05-22",
-        "actors": [
-          "Квон Хэ-хё",
-          "Ким Мин-хи",
-          "Ким Сэ-бёк",
-          "Чо Юн-хи",
-          "Ки Джу-бон",
-          "Кан Тхэ-у"
-        ],
-        "directors": [
-          "Хон Сан-су"
-        ],
-        "producers": [
-          "Кан Тхэ-у"
-        ],
-        "writers": [
-          "Хон Сан-су"
-        ],
-        "editors": [
-          "Хам Сон-вон",
-          "Сон Ён-джи"
-        ],
-        "operators": [
-          "Ким Хён-гу"
-        ]
-      }
-    },
-    {
-      "id": "serial-9812",
-      "type": "anime-serial",
-      "link": "",
-      "title": "В песках поющие китята",
-      "title_orig": "Kujira no Kora wa Sajou ni Utau",
-      "other_title": "Дети кита, поющие среди песков / Дети Китов",
-      "translation": {
-        "id": 654,
-        "title": "AniFilm",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1111902",
-      "imdb_id": "tt7484994",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9102",
-      "shikimori_id": "34712",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-01-29T15:50:39Z",
-      "updated_at": "2018-01-29T15:50:39Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/263003/d60721da4b24dc470920956bb743a9b2/720p",
-            "2": "//aniqit.com/seria/263004/614a73477e7c6c72d567d1ef8fae31fe/720p",
-            "3": "//aniqit.com/seria/263005/c814760f7c247d5e19003cf47bf80145/720p",
-            "4": "//aniqit.com/seria/263006/cebd7b541eb894b1b65f93dfaf973d49/720p",
-            "5": "//aniqit.com/seria/263007/3d32bde07f62ffc53b92ad709de5d0c9/720p",
-            "6": "//aniqit.com/seria/263008/3613b6e28b5b2ff27352a39c3bd9da53/720p",
-            "7": "//aniqit.com/seria/263009/d73d98396e9cccb90a23dd50cac15fd4/720p",
-            "8": "//aniqit.com/seria/263010/a945308a53412fda326cb9450c177fc6/720p",
-            "9": "//aniqit.com/seria/263011/c93aaf920cee57be24ef00401c602519/720p",
-            "10": "//aniqit.com/seria/263012/94fe1de86445355084c56f5c6a6019c5/720p",
-            "11": "//aniqit.com/seria/263013/f8918248abecb6b789bd37ed46be4ba5/720p",
-            "12": "//aniqit.com/seria/263014/94c0761a2f4af4bed6485acf6e91e6fa/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "В песках поющие китята",
-        "title_en": "Kujira no kora wa sajo ni utau",
-        "other_titles": [
-          "Whale Calves Sing on the Sand",
-          "Tales of the Wales Calves"
-        ],
-        "other_titles_en": [
-          "Children of the Whales"
-        ],
-        "other_titles_jp": [
-          "クジラの子らは砂上に歌う"
-        ],
-        "anime_license_name": "Children of the Whales",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2017,
-        "description": "Тякуро 14 лет, и он - архивариус в Грязном Ките. Это остров, который дрейфует по поверхности бесконечного океана песка. Девяти из десяти жителей Грязного Кита дарованы особые силы, но этот дар является одновременно и проклятием, потому что обрекает на смерть в расцвете лет. Тякуро и его друзья иногда встречают другие острова, однако ни на одном из них нет человека, который не принадлежал бы их роду. И вот однажды Тякуро попадает на остров такой же большой, как и Грязный Кит, и встречает девушку, которая в корне изменит его судьбу.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1111902.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/5eda4c05a972698722853179ce41b44476f397e3.jpg",
-          "https://shikimori.one/system/screenshots/original/ad8265f2ea976358ede86eb7cb6f6229b9b98b88.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "мультфильм",
-          "фантастика",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Драма",
-          "Супер сила",
-          "Сёдзё",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "J.C.Staff"
-        ],
-        "kinopoisk_rating": 7.1,
-        "kinopoisk_votes": 243,
-        "imdb_rating": 7.1,
-        "imdb_votes": 1267,
-        "shikimori_rating": 7.2,
-        "shikimori_votes": 4001,
-        "premiere_world": "2017-10-08",
-        "aired_at": "2017-10-08",
-        "released_at": "2017-12-24",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Тони Аццолино",
-          "Брайан Бикок",
-          "Джонни Йонг Бош",
-          "Реба Бур",
-          "Гриффин Барнс",
-          "Douglas Cavum",
-          "Керстин Дитрих",
-          "Даг Эрхольц",
-          "Мелисса Чарльз",
-          "Тодд Хаберкорн"
-        ],
-        "directors": [
-          "Кёхэи Исигуро",
-          "Кацуси Сакураби",
-          "Тосикадзу Хасимото",
-          "Ёсихиро Мори",
-          "Такаси Кобаяси",
-          "Наоки Мурата"
-        ],
-        "writers": [
-          "Меган Бухольц",
-          "Аби Умэда",
-          "Митико Ёкотэ",
-          "Кёхэи Исигуро"
-        ],
-        "composers": [
-          "Хироаки Цуцуми"
-        ],
-        "designers": [
-          "Тосихару Мидзутани"
-        ]
-      }
-    },
-    {
-      "id": "serial-9803",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Книга магии для начинающих с нуля",
-      "title_orig": "Zero kara Hajimeru Mahou no Sho",
-      "other_title": "Grimoire of Zero",
-      "translation": {
-        "id": 654,
-        "title": "AniFilm",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1046572",
-      "imdb_id": "tt6477270",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8968",
-      "shikimori_id": "34176",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-01-29T15:47:07Z",
-      "updated_at": "2018-01-29T15:47:07Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/260453/db98cbfd6a0059008833962342a879ab/720p",
-            "2": "//aniqit.com/seria/260454/a89440ef0b940ae60e26c0c69a62365a/720p",
-            "3": "//aniqit.com/seria/260455/04e34d3af5874f4267ef27d1f118ced6/720p",
-            "4": "//aniqit.com/seria/260456/4cb4a4b72010ac3887980d81e83b202e/720p",
-            "5": "//aniqit.com/seria/260457/515dda7fae33fc3549c9c574d08bb9fe/720p",
-            "6": "//aniqit.com/seria/260458/659e5aa5888742c4b3446966011a9d28/720p",
-            "7": "//aniqit.com/seria/260459/8b6a9866793614fa4db2911ec1bd3ffe/720p",
-            "8": "//aniqit.com/seria/260460/a33624d7d9236725d2af54d025fe65b4/720p",
-            "9": "//aniqit.com/seria/260461/283f79fc8e50aec91cfbd397166349bf/720p",
-            "10": "//aniqit.com/seria/260462/f4f6b2c1529c15f68e9c1ab683c07525/720p",
-            "11": "//aniqit.com/seria/260463/95ffbdc4c2eef77e5cfc2eaff2c4254c/720p",
-            "12": "//aniqit.com/seria/260464/cd8ececc9d2f5473e7dd02c5a0963cbc/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Книга магии для начинающих с нуля",
-        "title_en": "Zero kara hajimeru mahou no sho",
-        "other_titles": [
-          "Grimoire of Zero"
-        ],
-        "other_titles_jp": [
-          "ゼロから始める魔法の書"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2017,
-        "description": "История расскажет о мире, где существуют ведьмы, способные призывать различных бесов и заручаться их помощью. Несмотря на то, что некоторые ведьмы мирно уживаются с людьми, местная церковь ведёт на них безжалостную охоту. Еще в этом мире есть зверолюди. На них тоже нередко ведётся охота, так как головы зверолюдей очень высоко ценятся на рынке ведьм.\n\rОднажды один зверочеловек встречает ведьму по имени Зеро. Колдунья использует новый тип магии, позволяющий обходиться без призыва бесов в наш мир. По словам Зеро, любой человек, у которого есть хоть немного таланта к магии, может освоить этот тип заклинаний. Однако единственная в мире книга, где написано, как обучиться подобным техникам, была украдена. И теперь Зеро предстоит вернуть её. Она предлагает зверочеловеку стать её телохранителем, а взамен обещает превратить его в полноценного человека.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1046572.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/dbcaa834ffa8af42be39c11c7e8f44ea52174484.png",
-          "https://shikimori.one/system/screenshots/original/312c5a7b35d1e292bd2569f0b26a0deb9cf6fa7a.png"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Магия",
-          "Приключения",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "White Fox"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 1519,
-        "imdb_rating": 7,
-        "imdb_votes": 467,
-        "shikimori_rating": 7.1,
-        "shikimori_votes": 14231,
-        "premiere_world": "2017-04-10",
-        "aired_at": "2017-04-10",
-        "released_at": "2017-06-26",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Юмири Ханамори",
-          "Такэси Кояма",
-          "Ё Таити",
-          "Такэхито Коясу",
-          "Масаюки Като",
-          "Ёсико Сакакибара"
-        ],
-        "directors": [
-          "Ёсихито Микамо",
-          "Такаси Окавара",
-          "Наоко Такэити",
-          "Хироюки Цутия",
-          "Баито Акаи",
-          "Тэцуо Хиракава",
-          "Кэнъити Кавамура",
-          "Сюхэй Мацусита",
-          "Дайсукэ Токудо"
-        ],
-        "producers": [
-          "Цунаки Ёсикава"
-        ],
-        "writers": [
-          "Тэцуо Хиракава",
-          "Эйдзи Умэхара",
-          "Тацуя Такахаси",
-          "Какэру Кобаяси",
-          "Ёсинори Сидзума"
-        ],
-        "composers": [
-          "Акито Мацуда"
-        ],
-        "editors": [
-          "Хитоми Судо"
-        ],
-        "designers": [
-          "Ёсито Такаминэ"
-        ],
-        "operators": [
-          "Нодзоми Ситара"
-        ]
-      }
-    },
-    {
-      "id": "serial-9811",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Город, в котором меня нет",
-      "title_orig": "Boku dake ga Inai Machi",
-      "other_title": "Город, в котором нет лишь меня / Erased",
-      "translation": {
-        "id": 559,
-        "title": "Kansai",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "957840",
-      "imdb_id": "tt5249462",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8362",
-      "shikimori_id": "31043",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-01-29T14:54:08Z",
-      "updated_at": "2018-01-29T14:54:08Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/262991/6915e6a94eb02ffd7b2388715280d421/720p",
-            "2": "//aniqit.com/seria/262992/1e5d131241ab03f5a8c926600668cbc8/720p",
-            "3": "//aniqit.com/seria/262993/3bb70829671f63bd73e6a55013c6414c/720p",
-            "4": "//aniqit.com/seria/262994/c71d218979f56a276562b54bb3a001ab/720p",
-            "5": "//aniqit.com/seria/262995/57e0ddb76ff0c24d7afff6908a3f1ae9/720p",
-            "6": "//aniqit.com/seria/262996/de33f5003e2b56feff296559a178907e/720p",
-            "7": "//aniqit.com/seria/262997/3f1d85d5c8a29bdb9ce07096becf9d9d/720p",
-            "8": "//aniqit.com/seria/262998/f122ccdc53b62553ab16697d06ad0c61/720p",
-            "9": "//aniqit.com/seria/262999/3f2e15a13a6db34e1ba4a856368b1fc5/720p",
-            "10": "//aniqit.com/seria/263000/440b626e0ee6913bec011509603cdbe7/720p",
-            "11": "//aniqit.com/seria/263001/4606c5da8e109d98e5055a658c89e349/720p",
-            "12": "//aniqit.com/seria/263002/66ea3fc2ee0082f17461298426d1ff42/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Город, в котором меня нет",
-        "title_en": "Boku dake ga inai machi",
-        "other_titles": [
-          "Город, в котором пропал лишь я",
-          "The Town Where Only I am Missing",
-          "BokuMachi"
-        ],
-        "other_titles_en": [
-          "ERASED"
-        ],
-        "other_titles_jp": [
-          "僕だけがいない街"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2016,
-        "description": "Жизнь мангаки нелегка. Тяжелый и кропотливый труд по достоинству вознаграждается в редких случаях. Авторские работы, в которые были вложены душа и нравоучительный посыл, не всегда достигают сердец читателей. Однажды понять, что ты пустой и скучный человек, не способный на большее — самый большой страх в жизни мангаки.\n\rСатору Фудзинума - тоже автор. В свои 28 он трудится не покладая рук, однако не все авторы гении, и далеко не у каждого получается выразить себя в своих работах. Множеством вопросов ежедневно задается Сатору, и боится однажды увидеть себя пустым и скучным. Но разве пустые и скучные люди могут так же ловко подмечать в своем окружении разные мелочи? Сатору может. Но признавать это в себе, то, что делает его далеко не посредственным, он не хочет. Впрочем, как и называть свой дар сверхъестественным.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/957840.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/9da0acca5fe99a3afe098e7649f5fc87405b6adf.png",
-          "https://shikimori.one/system/screenshots/original/e2c9d8c1720b5e592f9ba2c62079dd1306241d26.png"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Психологическое",
-          "Сверхъестественное",
-          "Сейнен"
-        ],
-        "anime_studios": [
-          "A-1 Pictures"
-        ],
-        "kinopoisk_rating": 8.7,
-        "kinopoisk_votes": 19097,
-        "imdb_rating": 8.5,
-        "imdb_votes": 26862,
-        "shikimori_rating": 8.39,
-        "shikimori_votes": 72400,
-        "premiere_world": "2016-01-08",
-        "aired_at": "2016-01-08",
-        "released_at": "2016-03-25",
-        "rating_mpaa": "R",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Синносукэ Мицусима",
-          "Минами Такаяма",
-          "Тао Цутия",
-          "Мицуру Миямото",
-          "Аяка Нанасэ",
-          "Аои Юки",
-          "Юкитоси Кикути",
-          "Акари Кито",
-          "Ё Таити",
-          "Хина Кино"
-        ],
-        "directors": [
-          "Томохико Ито",
-          "Макото Хосино",
-          "Тосимаса Исии",
-          "Косая",
-          "Даики Мори",
-          "Такахиро Сикама",
-          "Синъя Ватада"
-        ],
-        "producers": [
-          "Масаюки Аояги",
-          "Хидэки Гото",
-          "Даидзи Хориути",
-          "Ютака Исикава",
-          "Атасухиро Иваками",
-          "Наруми Кабэ",
-          "Таку Мацуо",
-          "Киёко Мацудзаки",
-          "Мио Мороэ",
-          "Юти Накао"
-        ],
-        "writers": [
-          "Таку Кисимото",
-          "Кэй Санбэ",
-          "Алекс Фон Дэвид",
-          "Ютака Ясунага"
-        ],
-        "composers": [
-          "Юки Кадзиура"
-        ],
-        "editors": [
-          "Сигэру Нисияма"
-        ],
-        "designers": [
-          "Масару Сато",
-          "Хироюки Хасэгава"
-        ],
-        "operators": [
-          "Тосиаки Аосима"
-        ]
-      }
-    },
-    {
-      "id": "serial-9810",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Механическая планета",
-      "title_orig": "Clockwork Planet",
-      "other_title": "クロックワーク・プラネット",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1111802",
-      "imdb_id": "tt7120888",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9081",
-      "shikimori_id": "32407",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-01-29T14:45:26Z",
-      "updated_at": "2018-01-29T14:45:26Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/262979/3b2300cc0289628e63575cafd0af41bb/720p",
-            "2": "//aniqit.com/seria/262980/6fe95d98d472ca5e7e249786e85c0b85/720p",
-            "3": "//aniqit.com/seria/262981/c6476db9d0ba484173b3524c0e11add1/720p",
-            "4": "//aniqit.com/seria/262982/514036d376986bde7260d477660adb5c/720p",
-            "5": "//aniqit.com/seria/262983/daa7ffd495de140389b22f24d8624409/720p",
-            "6": "//aniqit.com/seria/262984/97a0e574917d2852c938b88677c23867/720p",
-            "7": "//aniqit.com/seria/262985/a000910d4d4e66500416d0e473a831be/720p",
-            "8": "//aniqit.com/seria/262986/a53235f2aae7a8531856981dad82e0db/720p",
-            "9": "//aniqit.com/seria/262987/92052a0946bc2e8de3b280882d645aa0/720p",
-            "10": "//aniqit.com/seria/262988/6b23093f9c1bae613b75bb3b4e60eaf4/720p",
-            "11": "//aniqit.com/seria/262989/28c8878b6c71999d711a41b5ad0b1681/720p",
-            "12": "//aniqit.com/seria/262990/cd163c9cacd65a4b92c350fe83ded08e/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Механическая планета",
-        "title_en": "Clockwork Planet",
-        "other_titles": [
-          "Заводная планета"
-        ],
-        "other_titles_en": [
-          "Clockwork Planet"
-        ],
-        "other_titles_jp": [
-          "クロックワーク・プラネット"
-        ],
-        "anime_license_name": "Механическая планета",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2017,
-        "description": "Действие разворачивается в мире, который был уничтожен, но затем полностью воссоздан в виде заводного механизма. В один прекрасный день на дом ученика старшей школы Наото Миуры падает чёрный ящик, внутри которого оказывается девушка-робот.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1111802.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/505516c314bf64680c64189882c9e76c13f9c0fb.jpg",
-          "https://shikimori.one/system/screenshots/original/b755c19c2c64f45454c8b25d277159e40fc3f115.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фантастика"
-        ],
-        "anime_genres": [
-          "Фантастика",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Xebec"
-        ],
-        "kinopoisk_rating": 6.4,
-        "kinopoisk_votes": 752,
-        "imdb_rating": 5.5,
-        "imdb_votes": 120,
-        "shikimori_rating": 6.48,
-        "shikimori_votes": 4656,
-        "premiere_world": "2017-04-06",
-        "aired_at": "2017-04-07",
-        "released_at": "2017-06-23",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Саяка Сэнбонги",
-          "Саори Оониси",
-          "Кэнъитиро Мацуда",
-          "Ёсино Нандзё",
-          "Аи Какума",
-          "Такамаса Моги",
-          "Такаюки Суго",
-          "Маая Утида",
-          "Унсё Исидзука",
-          "Таку Ясиро"
-        ],
-        "directors": [
-          "Цуёси Нагасава"
-        ],
-        "writers": [
-          "Такаси Аосима",
-          "Такамицу Коно",
-          "Кэндзи Сугихара"
-        ]
-      }
-    },
-    {
-      "id": "movie-20767",
-      "type": "foreign-cartoon",
-      "link": "",
-      "title": "Тодд и книга чистого зла: Конец конца",
-      "title_orig": "Todd and the Book of Pure Evil: The End of the End",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "968567",
-      "imdb_id": "tt5545254",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-01-29T10:17:25Z",
-      "updated_at": "2018-01-29T10:17:25Z",
-      "material_data": {
-        "title": "Тодд и Книга Чистого Зла: Конец конца",
-        "title_en": "Todd and the Book of Pure Evil: The End of the End",
-        "year": 2017,
-        "tagline": "Save Todd so he can save us!",
-        "description": "Тодд пытается вернуть дружбу с Кёртисом после того, как убил его девушку Ханну. Аттикус вырывается из плена книги, а в школе появляется новый Пророк Чистого Зла.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/968567.jpg",
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "комедия",
-          "мультфильм",
-          "ужасы"
-        ],
-        "imdb_rating": 7,
-        "imdb_votes": 314,
-        "premiere_world": "2017-09-03",
-        "actors": [
-          "Алекс Хаус",
-          "Мэгги Кастл",
-          "Билли Тернбулл",
-          "Мелани Лишман",
-          "Крис Ливинс",
-          "Дэн Петрониевич",
-          "Норман Енг",
-          "Стив Арбакль",
-          "Броди Сэндерсон",
-          "Аарон Дуглас"
-        ],
-        "directors": [
-          "Richard Duhaney",
-          "Крэйг Дэвид Уоллес"
-        ],
-        "producers": [
-          "Йонас Даймонд",
-          "Эндрю Розен",
-          "Сара Тимминс",
-          "Джэми Браун",
-          "Джеймс Флер",
-          "Эндрю Томас Хант",
-          "Энтони Лео",
-          "Майкл Пасцт",
-          "Колин Питтс",
-          "Крэйг Дэвид Уоллес"
-        ],
-        "writers": [
-          "Чарльз Пикко",
-          "Крэйг Дэвид Уоллес"
-        ],
-        "composers": [
-          "Шон Пирс"
-        ],
-        "editors": [
-          "Sam Thomson"
         ]
       }
     }

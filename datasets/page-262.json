@@ -1,6 +1,599 @@
 {
   "results": [
     {
+      "id": "movie-37732",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мрак",
+      "title_orig": "Darken",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1035584",
+      "imdb_id": "tt6472742",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-28T21:10:39Z",
+      "updated_at": "2019-05-29T05:25:52Z",
+      "material_data": {
+        "title": "Мрак",
+        "title_en": "Darken",
+        "year": 2017,
+        "tagline": "Darken provides.",
+        "description": "Молодой девушке Ив по случайности открывается портал во Мрак — потусторонний жестокий мир, состоящий из множества лабиринтов, которым нет конца и из которых невозможно выбраться. Там Ив придётся обрести союзников, чтобы выжить и положить конец царящему в Мраке деспотизму, требующему поклонения всесильной богине - Матери Мрака.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1035584.jpg",
+        "duration": 82,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "ужасы",
+          "фантастика",
+          "фэнтези"
+        ],
+        "imdb_rating": 4.1,
+        "imdb_votes": 164,
+        "premiere_world": "2017-10-14",
+        "actors": [
+          "Би Сантос",
+          "Олунике Аделийи",
+          "Эри Миллен",
+          "Кристин Хорн",
+          "Дмитрий Чеповецкий",
+          "Джон МакЛарен",
+          "Зои Белкин",
+          "Пол Амос",
+          "Роб Арчер",
+          "Крэйг Генри"
+        ],
+        "directors": [
+          "Одри Каммингс"
+        ],
+        "producers": [
+          "Джей Беннетт",
+          "Эрин Берри",
+          "Скотт Гарви",
+          "Кристина Дженнингс",
+          "Пол Ленарт",
+          "James Luscombe",
+          "Свет Русков"
+        ],
+        "writers": [
+          "АрДжей Лэки"
+        ],
+        "composers": [
+          "Джим МакГрат"
+        ],
+        "editors": [
+          "Памела Бэйн"
+        ],
+        "designers": [
+          "Сиара Вернон",
+          "Mackenzie Hartridge",
+          "Марисса Шварц",
+          "Stefan Harhay"
+        ],
+        "operators": [
+          "Джеймс Гриффит"
+        ]
+      }
+    },
+    {
+      "id": "serial-16885",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Всегда ведьма",
+      "title_orig": "Siempre Bruja",
+      "translation": {
+        "id": 868,
+        "title": "KosharaSerials",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "1168519",
+      "imdb_id": "tt8001250",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-02-19T13:05:12Z",
+      "updated_at": "2019-05-28T21:47:14Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/441307/9b3d360dc619d5f5eac1b88198c6acdd/720p",
+            "2": "//kodik.cc/seria/441308/d81eb3deaba3386d82eb3de9cc3d73ea/720p",
+            "3": "//kodik.cc/seria/441309/9edaf921197b8b2f0e01c02d664681b7/720p",
+            "4": "//kodik.cc/seria/441310/dddbe1c30afc3c976588fd8a8a9470c5/720p",
+            "5": "//kodik.cc/seria/441311/ae707021db17bb837e27ae6208cc8864/720p",
+            "6": "//kodik.cc/seria/441312/e03dc61e708d72b2f5b087133b7395bf/720p",
+            "7": "//kodik.cc/seria/441313/f02a9ec7c2982942a123a3b24aaec830/720p",
+            "8": "//kodik.cc/seria/441342/a8c5f5fbc2621626737321e397e26a2c/720p",
+            "9": "//kodik.cc/seria/441343/c50542c9c006eebc029d36395a4bef7c/720p",
+            "10": "//kodik.cc/seria/441700/91363f6a15591a131e8d562e5c72727d/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Всегда ведьма",
+        "title_en": "Siempre Bruja",
+        "year": 2019,
+        "description": "Молодая ведьма Кармен, чудом избежав смерти на костре, неожиданно из 17 века перемещается в современную Картахену. В прошлом остался ее возлюбленный, и Кармен должна его спасти, но сначала ей предстоит освоиться в незнакомом мире гаджетов, автомобилей, телевизоров и стеклянных высоток. Сориентироваться в современном пространстве и научиться управлять своими способностями ведьме помогают эксцентричные новые друзья и коллеги по ремеслу.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1168519.jpg",
+        "duration": 40,
+        "countries": [
+          "Колумбия"
+        ],
+        "genres": [
+          "драма",
+          "мелодрама",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 6.3,
+        "kinopoisk_votes": 393,
+        "imdb_rating": 6.2,
+        "imdb_votes": 2032,
+        "premiere_world": "2019-02-01",
+        "actors": [
+          "Анхели Гавирия",
+          "Sofía Araújo",
+          "Dylan Fuentes",
+          "Dubán Andrés Prado",
+          "Себастьян Эслава",
+          "Valeria Emiliani",
+          "Carlos Quintero",
+          "Lenard Vanderaa",
+          "Луис Фернандо Ойос",
+          "Вероника Ороско"
+        ],
+        "directors": [
+          "Матео Стиуэльбер",
+          "Хуан Фелипе Кано",
+          "Лилиана Боканегра"
+        ],
+        "producers": [
+          "Перла Мартинез",
+          "Мария Сервера",
+          "Артуро Диаз Рамос",
+          "Джулиана Баррера",
+          "Даго Гарсия"
+        ],
+        "writers": [
+          "Isidora Chacon",
+          "Ана Мария Парра"
+        ],
+        "composers": [
+          "Daniel Velasco",
+          "Felipe Linares"
+        ],
+        "designers": [
+          "Карлос Осорио",
+          "Daniela Rivano"
+        ],
+        "operators": [
+          "Диего Хименес"
+        ]
+      }
+    },
+    {
+      "id": "movie-37724",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Фурия",
+      "title_orig": "Hai Phuong",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1223869",
+      "imdb_id": "tt9412268",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-28T19:11:12Z",
+      "updated_at": "2019-05-28T19:11:12Z",
+      "material_data": {
+        "title": "Фурия",
+        "title_en": "Hai Phuong",
+        "year": 2019,
+        "tagline": "She will never stop",
+        "description": "10 лет назад бывшая глава преступной группировки залегла на дно в сельской местности, родила девочку и наслаждается простым женским счастьем. Поскольку делать женщина ничего полезного не умеет, то занимается сбором долгов. Дочка Май из-за этого переживает и мечтает, что когда-нибудь они откроют рыбную ферму, и маме больше не нужно будет выполнять эту постыдную работу. Внезапно Май похищает международная организация торговцев людьми, и женщина превращается в смертоносную фурию - она пойдёт до конца, чтобы спасти дочь, а негодяям придётся пожалеть о своем поступке.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1223869.jpg",
+        "duration": 98,
+        "countries": [
+          "Вьетнам"
+        ],
+        "genres": [
+          "боевик",
+          "криминал"
+        ],
+        "kinopoisk_rating": 5.8,
+        "kinopoisk_votes": 729,
+        "imdb_rating": 6.3,
+        "imdb_votes": 3882,
+        "premiere_world": "2019-02-14",
+        "actors": [
+          "Вероника Нго",
+          "Mai Cát Vi",
+          "Тхань Ньен Фан",
+          "Pham Anh Khoa",
+          "Ким Лонг Тач",
+          "Khanh Ngoc Mai",
+          "Hoa Thanh",
+          "Pompatama",
+          "Trang Le",
+          "Хиен Транг"
+        ],
+        "directors": [
+          "Ле-Ван Киэт"
+        ],
+        "producers": [
+          "Джейсон Гарретт",
+          "Гари Хэмилтон",
+          "Райан Хэмилтон",
+          "Бей Логан",
+          "Дэвид Роджерс",
+          "Буу Лок Чан",
+          "Dong Nghi Xa",
+          "Ин Е"
+        ],
+        "writers": [
+          "Kay Nguyen"
+        ],
+        "editors": [
+          "Ngo Quyen"
+        ],
+        "operators": [
+          "Морган Шмидт"
+        ]
+      }
+    },
+    {
+      "id": "movie-37725",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Синее лето",
+      "title_orig": "Ao natsu: kimi ni koi shita 30 nichi",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1164487",
+      "imdb_id": "tt8571578",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-28T19:09:42Z",
+      "updated_at": "2019-05-28T19:09:42Z",
+      "material_data": {
+        "title": "Синее лето",
+        "title_en": "Ao natsu: kimi ni koi shita 30 nichi",
+        "year": 2018,
+        "description": "Старшеклассница приезжает на летние каникулы в деревню и влюбляется в местного парня.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1164487.jpg",
+        "duration": 113,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 5.8,
+        "imdb_votes": 79,
+        "premiere_world": "2018-08-01",
+        "actors": [
+          "Вакана Аои",
+          "Хаято Сано",
+          "Сэйка Фурухата",
+          "Такуми Кидзу",
+          "Ринка Кумада",
+          "Атому Мидзуиси",
+          "Сиори Акита",
+          "Рэо Симура",
+          "Аими Тэракава"
+        ],
+        "directors": [
+          "Такэси Фурусава"
+        ],
+        "writers": [
+          "Юкико Мотидзи",
+          "Ацуко Намба"
+        ]
+      }
+    },
+    {
+      "id": "serial-16886",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Ультрамен",
+      "title_orig": "Ultraman",
+      "translation": {
+        "id": 794,
+        "title": "HDrezka Studio",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "1177503",
+      "imdb_id": "tt8699270",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9487",
+      "shikimori_id": "36871",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-04-06T09:31:29Z",
+      "updated_at": "2019-05-28T18:57:14Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/441314/dfae559b2f34179db7c958996993d8e1/720p",
+            "2": "//kodik.cc/seria/441315/a6be1a1d8bc66ebbab89d0f1c25ae056/720p",
+            "3": "//kodik.cc/seria/441316/32cb8a2a03d98a8b857b6ce860e32f63/720p",
+            "4": "//kodik.cc/seria/441317/c1a75ec94115f5029cc57eaab77e262d/720p",
+            "5": "//kodik.cc/seria/441318/e0f21615173f6fd7a4727176a648a0d3/720p",
+            "6": "//kodik.cc/seria/441319/c22b03496166ef99ce2a8260367c67df/720p",
+            "7": "//kodik.cc/seria/441320/374e7023278909a6a86723160d44c344/720p",
+            "8": "//kodik.cc/seria/441321/23f4b7e8ed2f80cb96e218b8d3e110b1/720p",
+            "9": "//kodik.cc/seria/441322/8a21ec30221092e3d4c907041456c273/720p",
+            "10": "//kodik.cc/seria/441323/45a92b7a2b57997014822854bf7bbbb2/720p",
+            "11": "//kodik.cc/seria/441324/b263b0406ad955070a42ad2ecbf66899/720p",
+            "12": "//kodik.cc/seria/441325/527057432363c9870aba834c9b487e3e/720p",
+            "13": "//kodik.cc/seria/441326/59185ca033b8b1e1b4ba7331b1fe4e65/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Ультрамен",
+        "title_en": "Ultraman",
+        "other_titles_en": [
+          "Ultraman"
+        ],
+        "other_titles_jp": [
+          "ULTRAMAN"
+        ],
+        "anime_license_name": "Ультрамен: Новый герой",
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "Синдзиро Хаята - сын Сина Хаяты, который был первым Ультраменом - наделён особенной силой. Однако узнаёт он об этом лишь когда подвергается нападению неизвестных. Ультрамен спасает Синдзиру и рассказывает о том, что он - его отец. Синдзиро надевает костюм Ультрамена, предоставленный мистером Идом, бывшим членом Специального научного поискового отряда, и решает отныне во всём помогать отцу. Впереди их ждёт большая битва.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1177503.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/4e3b6e380d413fd03d23f8f0d80422177b1aa28a.png",
+          "https://shikimori.one/system/screenshots/original/48624d1964d8d487613098496364934f4a4d1fd6.png"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Сейнен",
+          "Супер сила",
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Production I.G",
+          "Sola Digital Arts"
+        ],
+        "imdb_rating": 6.9,
+        "imdb_votes": 1565,
+        "shikimori_rating": 6.75,
+        "shikimori_votes": 387,
+        "premiere_world": "2019-04-01",
+        "aired_at": "2019-04-01",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 12,
+        "episodes_total": 13,
+        "episodes_aired": 13,
+        "actors": [
+          "Рёхэй Кимура",
+          "Хидэюки Танака",
+          "Такуя Эгути",
+          "Мэгуми Хан",
+          "Эйдзи Ханава",
+          "Сумирэ Морохоси",
+          "Хирокадзу Сэкидо",
+          "Минору Сираиси",
+          "Кайдзи Содзэ",
+          "Рёта Такэути"
+        ],
+        "directors": [
+          "Синдзи Арамаки",
+          "Кэндзи Камияма"
+        ],
+        "writers": [
+          "Эити Симидзу",
+          "Томохиро Симогути",
+          "Эйдзи Цубурая"
+        ],
+        "composers": [
+          "Кадзума Дзинноти",
+          "Нобуко Тода"
+        ]
+      }
+    },
+    {
+      "id": "serial-16854",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "S.C.I. Коллекция загадочных дел",
+      "title_orig": "S.C.I. Mi an ji",
+      "other_title": "Отдел криминальных расследований: Загадка / S.C.I. Mystery / Special Crime Investigation: Mystery",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 24,
+      "kinopoisk_id": "1287552",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-05-25T20:45:14Z",
+      "updated_at": "2019-05-28T16:28:49Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/440536/5729ccc3102ad8ca03089f14ec34f5f1/720p",
+            "2": "//kodik.cc/seria/440537/197f910dfadbd05d6a58a06e53e18006/720p",
+            "3": "//kodik.cc/seria/440538/5d9044fa8f454303d663f4d3e27466ae/720p",
+            "4": "//kodik.cc/seria/440539/93ceddb42eb0ab83a273b58caae78fea/720p",
+            "5": "//kodik.cc/seria/440540/475e6bb4cced623bafdf89321efd58f2/720p",
+            "6": "//kodik.cc/seria/440541/86e68fa051bf7cc420a3639c363d15d3/720p",
+            "7": "//kodik.cc/seria/440542/e97912eefd64b493136c9988d98f5aa2/720p",
+            "8": "//kodik.cc/seria/440543/7431b39f8878b04119e19256c893c5ed/720p",
+            "9": "//kodik.cc/seria/440544/20a79485db1656a31fe8ff6a9df689f3/720p",
+            "10": "//kodik.cc/seria/440545/363e3bbc5baa20f54cdc6970a5b82025/720p",
+            "11": "//kodik.cc/seria/440546/215cba12f5754d0d8ed255e9bdc0572f/720p",
+            "12": "//kodik.cc/seria/440547/fef6ef738d911ca04e39adefbb11600e/720p",
+            "13": "//kodik.cc/seria/440548/195cf79e5050aa3a582404ff058f3bbe/720p",
+            "14": "//kodik.cc/seria/440549/4a1617ba1ff384304d0ca350e23a77bd/720p",
+            "15": "//kodik.cc/seria/440550/5506b47c83f3cc72382cfdf812880a26/720p",
+            "16": "//kodik.cc/seria/440551/2674bfd44944aa72d4b477113c69c327/720p",
+            "17": "//kodik.cc/seria/440552/00b28703d48ac9db81d598ce7751acf7/720p",
+            "18": "//kodik.cc/seria/440553/0fea61e5eb0b73775c35e58b7128bbc4/720p",
+            "19": "//kodik.cc/seria/440554/f8860b56c857b4b025c5d35fcbd2c84e/720p",
+            "20": "//kodik.cc/seria/440555/5f9399a5b2ba0124b83797cdb1a4578e/720p",
+            "21": "//kodik.cc/seria/440556/d0d43c9481fd1742002dbbd7ca2a0bfc/720p",
+            "22": "//kodik.cc/seria/440557/42fc49dd1ad4d7e2f7b55187cf54536a/720p",
+            "23": "//kodik.cc/seria/440558/c244cbb9b49d9233e792034f220b6065/720p",
+            "24": "//kodik.cc/seria/440559/7f9fad33b2ee1869e35e2f47ceeca143/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "S.C.I. Коллекция загадочных дел",
+        "title_en": "S.C.I. Mi an ji",
+        "year": 2018,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1287552.jpg",
+        "duration": 38,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "боевик",
+          "детектив",
+          "криминал"
+        ],
+        "premiere_world": "2018-06-26",
+        "actors": [
+          "Гао Ханьюй",
+          "Цзи Сяобин"
+        ]
+      }
+    },
+    {
+      "id": "serial-16894",
+      "type": "russian-serial",
+      "link": "",
+      "title": "Фронт в тылу врага",
+      "title_orig": "Front v tylu vraga",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1982,
+      "last_season": 1,
+      "last_episode": 2,
+      "episodes_count": 2,
+      "kinopoisk_id": "44439",
+      "imdb_id": "tt0082421",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-05-28T15:04:09Z",
+      "updated_at": "2019-05-28T15:04:09Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//hdlizor.com/seria/441387/8b9b579285c608a08913dc045b589b7d/720p",
+            "2": "//hdlizor.com/seria/441388/4ed789623cc0055bdb2c8e9c66d72ffe/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Фронт в тылу врага",
+        "title_en": "",
+        "year": 1981,
+        "description": "Отряд Млынского получает задание идти на помощь интернациональному соединению поляков, чехов и словаков и вместе с ними захватить полигон, где нацисты испытывают новое секретное оружие - ФАУ.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/44439.jpg",
+        "duration": 155,
+        "countries": [
+          "СССР",
+          "Чехословакия"
+        ],
+        "genres": [
+          "военный",
+          "драма"
+        ],
+        "kinopoisk_rating": 7.1,
+        "kinopoisk_votes": 922,
+        "imdb_rating": 6,
+        "imdb_votes": 54,
+        "premiere_world": "1982-04-28",
+        "minimal_age": 12,
+        "actors": [
+          "Вячеслав Тихонов",
+          "Валерия Заклунная",
+          "Евгений Матвеев",
+          "Иван Лапиков",
+          "Александр Михайлов",
+          "Вайва Майнелите",
+          "Тофик Мирзоев",
+          "Виктор Шульгин",
+          "Лев Поляков",
+          "Леонид Дьячков"
+        ],
+        "directors": [
+          "Игорь Гостев"
+        ],
+        "writers": [
+          "Семен Цвигун"
+        ],
+        "composers": [
+          "Вениамин Баснер"
+        ],
+        "designers": [
+          "Хайнц Рёске",
+          "Алес Волеман",
+          "Стален Волков"
+        ],
+        "operators": [
+          "Александр Харитонов"
+        ]
+      }
+    },
+    {
       "id": "movie-32849",
       "type": "soviet-cartoon",
       "link": "",
@@ -6728,464 +7321,6 @@
         ],
         "operators": [
           "Эктор Ортега"
-        ]
-      }
-    },
-    {
-      "id": "movie-37513",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Большая дорога",
-      "title_orig": "Bolshaya doroga",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1963,
-      "kinopoisk_id": "46171",
-      "imdb_id": "tt0056881",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-24T07:23:54Z",
-      "updated_at": "2019-05-24T07:23:54Z",
-      "material_data": {
-        "title": "Большая дорога",
-        "title_en": "",
-        "year": 1963,
-        "description": "О великом чешском писателе-сатирике Ярославе Гашеке, попавшем во время Первой мировой войны в плен к русским. Не желая сражаться за интересы австро-венгерской монархии, Гашек вступает в Красную Армию и как комиссар интернациональной бригады проходит боевой путь от Самары до Иркутска.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/46171.jpg",
-        "duration": 100,
-        "countries": [
-          "СССР",
-          "Чехословакия"
-        ],
-        "genres": [
-          "военный",
-          "драма",
-          "комедия"
-        ],
-        "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 243,
-        "imdb_rating": 6.8,
-        "imdb_votes": 34,
-        "premiere_world": "1963-04-27",
-        "actors": [
-          "Йозеф Абргам",
-          "Рудольф Грушинский",
-          "Инна Гулая",
-          "Ярослав Марван",
-          "Юрий Яковлев",
-          "Александр Кутепов",
-          "Николай Гринько",
-          "Олег Борисов",
-          "Сергей Филиппов",
-          "Йозеф Кемр"
-        ],
-        "directors": [
-          "Юрий Озеров"
-        ],
-        "writers": [
-          "Георгий Мдивани"
-        ],
-        "composers": [
-          "Карэн Хачатурян"
-        ],
-        "designers": [
-          "Александр Мягков"
-        ],
-        "operators": [
-          "Игорь Черных"
-        ]
-      }
-    },
-    {
-      "id": "movie-37514",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Часы капитана Энрико",
-      "title_orig": "Kapteina Enriko pulkstenis",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1968,
-      "kinopoisk_id": "45444",
-      "imdb_id": "tt0346732",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-24T07:23:24Z",
-      "updated_at": "2019-05-24T07:23:24Z",
-      "material_data": {
-        "title": "Часы капитана Энрико",
-        "title_en": "",
-        "year": 1967,
-        "description": "Школьник Томиньш находит золотые часы с надписью по-испански, из которой следует, что они принадлежат капитану Энрико. Ребята идут в порт, поиски капитана заканчиваются безуспешно. Знакомый Томиньша Джек и его дружок Фридис вначале предлагают ему продать часы, а затем — с помощью переодеваний и грима — лихо обманывают Томиньша и овладевают часами. Между тем в школу приходит настоящий капитан...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/45444.jpg",
-        "duration": 80,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "семейный"
-        ],
-        "imdb_rating": 6.8,
-        "imdb_votes": 104,
-        "premiere_world": "1968-12-30",
-        "actors": [
-          "Агуя Инфантыева",
-          "Эгонс Маисакс",
-          "Гунар Цилинский",
-          "Айварс Галвиньш",
-          "Агния Инфантыева",
-          "Нинуца Каупуза",
-          "Леонс Криванс",
-          "Эгон Майсакс",
-          "Улдис Пуцитис",
-          "Велта Скурстене"
-        ],
-        "directors": [
-          "Эрикс Лацис",
-          "Янис Стрейч"
-        ],
-        "writers": [
-          "Дзидра Ринкуле-Земзаре"
-        ],
-        "composers": [
-          "Рингольдс Оре"
-        ],
-        "designers": [
-          "Лаймдонис Грасманис"
-        ],
-        "operators": [
-          "Зигурд Витолс"
-        ]
-      }
-    },
-    {
-      "id": "movie-37515",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Человек, которого я люблю",
-      "title_orig": "Chelovek, kotorogo ya lyublyu",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1967,
-      "kinopoisk_id": "45472",
-      "imdb_id": "tt0131337",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-24T07:22:16Z",
-      "updated_at": "2019-05-24T07:22:16Z",
-      "material_data": {
-        "title": "Человек, которого я люблю",
-        "title_en": "",
-        "year": 1967,
-        "description": "Живут вместе в далеком городе Благовещенске трое мужчин - отец и два сына. Младшему - Родьке - 15 лет. Костя после окончания института работает хирургом и задыхается от «серости» окружающих.\n\rРодька страдает от невозможности помочь людям. В доме появляется молодая женщина, которую приводит Костя. Когда он уедет в Москву, отец и Родька станут ее лучшими друзьями.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/45472.jpg",
-        "duration": 94,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 8,
-        "kinopoisk_votes": 675,
-        "imdb_rating": 7.9,
-        "imdb_votes": 33,
-        "premiere_world": "1967-03-13",
-        "actors": [
-          "Георгий Жжёнов",
-          "Евгений Герасимов",
-          "Николай Мерзликин",
-          "Тамара Сёмина",
-          "Алла Витрук",
-          "Сергей Ваняшкин"
-        ],
-        "directors": [
-          "Юлий Карасик"
-        ],
-        "writers": [
-          "Юлий Карасик",
-          "Леонид Завальнюк"
-        ],
-        "composers": [
-          "Юрий Левитин"
-        ],
-        "editors": [
-          "Л. Кузнецова"
-        ],
-        "designers": [
-          "Александр Мягков",
-          "В. Киселева"
-        ],
-        "operators": [
-          "Эра Савельева"
-        ]
-      }
-    },
-    {
-      "id": "movie-37518",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Хлеб и розы",
-      "title_orig": "Khleb i rozy",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1960,
-      "kinopoisk_id": "44642",
-      "imdb_id": "tt0233877",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-24T07:18:37Z",
-      "updated_at": "2019-05-24T07:18:37Z",
-      "material_data": {
-        "title": "Хлеб и розы",
-        "title_en": "",
-        "year": 1960,
-        "description": "Молодой рабочий Гавриил Ивушкин отправился со своими товарищами в алтайскую степь строить коммуну. Холод и голод, борьба с контрреволюцией - все выдержал Гавриил Ивушкин. Но скрыть своего чувства к красавице Любаше, дочери местного «кулака», не смог...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/44642.jpg",
-        "duration": 96,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "kinopoisk_rating": 6.1,
-        "kinopoisk_votes": 84,
-        "imdb_rating": 7.1,
-        "imdb_votes": 16,
-        "premiere_world": "1960-11-02",
-        "actors": [
-          "Павел Кадочников",
-          "Людмила Касаткина",
-          "Александра Завьялова",
-          "Сергей Калинин",
-          "Анатолий Соловьев",
-          "Юрий Дубровин",
-          "Глеб Глебов",
-          "Леонид Пархоменко",
-          "Инна Федорова",
-          "Анатолий Кубацкий"
-        ],
-        "directors": [
-          "Фёдор Филиппов"
-        ],
-        "writers": [
-          "Афанасий Салынский"
-        ],
-        "composers": [
-          "Николай Крюков"
-        ],
-        "designers": [
-          "Феликс Ясюкевич",
-          "Борис Чеботарев"
-        ],
-        "operators": [
-          "Игорь Черных",
-          "Петр Емельянов"
-        ]
-      }
-    },
-    {
-      "id": "movie-37519",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Конь, ружьё и вольный ветер",
-      "title_orig": "Конь, ружьё и вольный ветер",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1975,
-      "kinopoisk_id": "481198",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-24T07:16:41Z",
-      "updated_at": "2019-05-24T07:16:41Z",
-      "material_data": {
-        "title": "Конь, ружьё и вольный ветер",
-        "title_en": "",
-        "year": 1975,
-        "description": "Великолепная семерка гайдуков борется с турецкими захватчиками.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/481198.jpg",
-        "duration": 64,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "история"
-        ],
-        "actors": [
-          "Владимир Ломизов",
-          "Людмила Гарница",
-          "Петр Баракчи",
-          "Ион Унгуряну",
-          "Василе Брескану",
-          "Виктор Чутак",
-          "Думитру Карачобану",
-          "Константин Константинов",
-          "Леонхард Мерзин",
-          "Василий Симчич"
-        ],
-        "directors": [
-          "Влад Иовицэ"
-        ],
-        "writers": [
-          "Влад Иовицэ",
-          "Николай Есиненку"
-        ]
-      }
-    },
-    {
-      "id": "movie-37520",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Месяц май",
-      "title_orig": "Mesyats may",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1965,
-      "kinopoisk_id": "467947",
-      "imdb_id": "tt5038382",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-24T07:14:26Z",
-      "updated_at": "2019-05-24T07:14:26Z",
-      "material_data": {
-        "title": "Месяц май",
-        "title_en": "",
-        "year": 1965,
-        "description": "Студенты - Галя и Сергей - подают заявление в загс. Им дают предусмотренный законом месяц. Молодые ругаются, мирятся и вновь ругаются. В последний день испытательного срока герои приходят в загс, чтобы забрать свои заявления, а покидают его в обществе довольных друзей и возмущенных родителей, став мужем и женой.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/467947.jpg",
-        "duration": 78,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "premiere_world": "1966-05-01",
-        "minimal_age": 16,
-        "actors": [
-          "Алла Чернова",
-          "Валерий Бабятинский",
-          "Геннадий Ялович",
-          "Галина Соколова",
-          "Борис Савченко",
-          "Виктор Грачёв",
-          "Виталий Дорошенко",
-          "Гия Кобахидзе",
-          "Всеволод Абдулов",
-          "Нонна Копержинская"
-        ],
-        "directors": [
-          "Григорий Липшиц"
-        ],
-        "writers": [
-          "Феликс Миронер"
-        ],
-        "composers": [
-          "Оскар Сандлер"
-        ],
-        "designers": [
-          "Георгий Прокопец",
-          "Н. Тумина"
-        ],
-        "operators": [
-          "Александр Пищиков"
-        ]
-      }
-    },
-    {
-      "id": "movie-37521",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Предчувствие любви",
-      "title_orig": "Predchuvstviye lyubvi",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1982,
-      "kinopoisk_id": "43227",
-      "imdb_id": "tt0196007",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-24T07:13:32Z",
-      "updated_at": "2019-05-24T07:13:32Z",
-      "material_data": {
-        "title": "Предчувствие любви",
-        "title_en": "",
-        "year": 1982,
-        "description": "Сергей, молодой изобретатель, мечтает найти единственную, самую красивую и неповторимую женщину. Приходит время, и он начинает понимать, что та, которую он ищет, существует сама по себе и независимо от его желаний. И тогда скромная, далеко не красавица, но обаятельная Леночка становится объектом его внимания и любви...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/43227.jpg",
-        "duration": 68,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "комедия",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 524,
-        "imdb_rating": 6.6,
-        "imdb_votes": 34,
-        "premiere_world": "1982-12-11",
-        "minimal_age": 0,
-        "actors": [
-          "Александр Абдулов",
-          "Ирина Алферова",
-          "Лидия Смирнова",
-          "Михаил Глузский",
-          "Владимир Басов",
-          "Семен Фарада",
-          "Роман Меркулов",
-          "Татьяна Кравченко",
-          "Игорь Ясулович",
-          "Михаил Светин"
-        ],
-        "directors": [
-          "Тофик Шахвердиев"
-        ],
-        "writers": [
-          "Тофик Шахвердиев",
-          "Валерий Зеленский"
-        ],
-        "composers": [
-          "Микаэл Таривердиев"
-        ],
-        "editors": [
-          "Надежда Веселовская"
-        ],
-        "designers": [
-          "Владимир Коровин",
-          "Наталья Мешкова"
-        ],
-        "operators": [
-          "Григорий Беленький"
         ]
       }
     }

@@ -1,6 +1,408 @@
 {
   "results": [
     {
+      "id": "movie-39480",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Приглашение",
+      "title_orig": "The Invited",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1077172",
+      "imdb_id": "tt7270506",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-08T11:02:16Z",
+      "updated_at": "2019-07-08T11:02:16Z",
+      "material_data": {
+        "title": "The Invited",
+        "title_en": "",
+        "year": 2017,
+        "duration": 51,
+        "genres": [
+          "боевик",
+          "ужасы",
+          "фэнтези"
+        ],
+        "imdb_rating": 4,
+        "imdb_votes": 51,
+        "actors": [
+          "Yonel Cohen",
+          "Бриттани Дуган",
+          "Alissa Gamberg",
+          "Tal Shlafman",
+          "Noelle Sundrene"
+        ],
+        "producers": [
+          "Brendan Rudnicki"
+        ],
+        "writers": [
+          "Shaun McKee",
+          "Brendan Rudnicki",
+          "Kellan Rudnicki"
+        ]
+      }
+    },
+    {
+      "id": "movie-39376",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "После моей смерти",
+      "title_orig": "Joe manheun sonyeo",
+      "other_title": "After My Death",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1049668",
+      "imdb_id": "tt7390044",
+      "quality": "HDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-05T23:05:09Z",
+      "updated_at": "2019-07-08T10:59:02Z",
+      "material_data": {
+        "title": "После моей смерти",
+        "title_en": "Joe manheun sonyeo",
+        "year": 2017,
+        "description": "Исчезнувшая старшеклассница подозревается в совершении самоубийства. Выясняется, что школьная тихоня Ён-хи последней видела пропавшую, что вносит в её жизнь дополнительные сложности.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1049668.jpg",
+        "duration": 113,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "детектив",
+          "драма"
+        ],
+        "imdb_rating": 6.3,
+        "imdb_votes": 222,
+        "premiere_world": "2017-10-15",
+        "actors": [
+          "Чон Ё-бин",
+          "Со Ён-хва",
+          "Ко Вон-хи",
+          "Ли Бом",
+          "Ю Джэ-мён",
+          "Со Хён-у",
+          "Хо Дон-вон",
+          "Чон Ин-ги",
+          "Пэк Сын-чхоль",
+          "Ли Тхэ-гён"
+        ],
+        "directors": [
+          "Ким И-сок"
+        ],
+        "writers": [
+          "Ким И-сок"
+        ]
+      }
+    },
+    {
+      "id": "movie-39481",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Рваные башмаки",
+      "title_orig": "Rvanye bashmaki",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1933,
+      "kinopoisk_id": "42154",
+      "imdb_id": "tt0025738",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-08T10:47:18Z",
+      "updated_at": "2019-07-08T10:47:18Z",
+      "material_data": {
+        "title": "Рваные башмаки",
+        "title_en": "",
+        "year": 1933,
+        "description": "О жизни детей немецких рабочих в годы, предшествующие фашизму.",
+        "duration": 85,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "детектив",
+          "драма",
+          "комедия"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 143,
+        "imdb_rating": 6.3,
+        "imdb_votes": 39,
+        "premiere_world": "1933-12-17",
+        "minimal_age": 0,
+        "actors": [
+          "Михаил Климов",
+          "Клавдия Половикова",
+          "Вера Алехина",
+          "Наталья Садовская",
+          "Иван Новосельцев",
+          "Владимир Михайлов",
+          "Владимир Уральский",
+          "Анна Чекулаева"
+        ],
+        "directors": [
+          "Маргарита Барская"
+        ],
+        "writers": [
+          "Маргарита Барская"
+        ],
+        "composers": [
+          "Давид Блок",
+          "Виссарион Шебалин"
+        ],
+        "designers": [
+          "Владимир Егоров"
+        ],
+        "operators": [
+          "Георгий Бобров",
+          "Саркис Геворкян"
+        ]
+      }
+    },
+    {
+      "id": "movie-39482",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Соблазн",
+      "title_orig": "Soblazn",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "43894",
+      "imdb_id": "tt0094001",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-08T10:34:12Z",
+      "updated_at": "2019-07-08T10:34:12Z",
+      "material_data": {
+        "title": "Соблазн",
+        "title_en": "",
+        "year": 1987,
+        "description": "Старшекласснице Жене Родимцевой трудно устоять перед соблазном и искушением оказаться в элите класса. Ей, как и многим ее одноклассникам, хочется ездить на машине, быть в центре внимания, но приходится дорого платить за поруганную любовь, за необходимость выдавать себя за другую и за то, что предала мать...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/43894.jpg",
+        "duration": 106,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 698,
+        "imdb_rating": 6.2,
+        "imdb_votes": 38,
+        "premiere_world": "1988-07-18",
+        "minimal_age": 16,
+        "actors": [
+          "Алиса Зыкина",
+          "Юрий Давыдов",
+          "Наталья Сорокина",
+          "Сергей Лучников",
+          "Елена Руфанова",
+          "Ольга Богданова",
+          "Татьяна Григорьева",
+          "Александр Ткаченок",
+          "Ирина Селезнева",
+          "Татьяна Шаркова"
+        ],
+        "directors": [
+          "Вячеслав Сорокин"
+        ],
+        "writers": [
+          "Юрий Клепиков"
+        ],
+        "designers": [
+          "Михаил Журавлев"
+        ],
+        "operators": [
+          "Юрий Воронцов"
+        ]
+      }
+    },
+    {
+      "id": "movie-39469",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Канатоходец",
+      "title_orig": "Канатоходец",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1972,
+      "kinopoisk_id": "1007809",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-08T10:24:59Z",
+      "updated_at": "2019-07-08T10:24:59Z",
+      "material_data": {
+        "title": "Канатоходец",
+        "title_en": "",
+        "year": 1972,
+        "description": "О древнем искусстве хождения по канату в дагестанских аулах.",
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          ""
+        ],
+        "actors": [
+          "А. Магомедалиев",
+          "И. Абдурахманова",
+          "Ахьяд Гайтукаев",
+          "З. Агкацева",
+          "Барият Мурадова",
+          "Патимат Хизроева",
+          "Асхаб Абакаров"
+        ],
+        "directors": [
+          "Владимир Голованов"
+        ],
+        "writers": [
+          "Нуратдин Юсупов"
+        ],
+        "composers": [
+          "Ширвани Чалаев"
+        ],
+        "designers": [
+          "Юрий Фоменко",
+          "Виктор Петров"
+        ],
+        "operators": [
+          "Александр Филатов",
+          "Анатолий Заболоцкий"
+        ]
+      }
+    },
+    {
+      "id": "movie-39470",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Опасные повороты",
+      "title_orig": "Ohtlikud kurvid",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1961,
+      "kinopoisk_id": "118671",
+      "imdb_id": "tt0452354",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-08T10:23:39Z",
+      "updated_at": "2019-07-08T10:23:39Z",
+      "material_data": {
+        "title": "Опасные повороты",
+        "title_en": "",
+        "year": 1961,
+        "description": "Всё началась с того самого дня, когда девушка Марика - студентка и мотогонщица - спасла от гибели собачонку Антонио, выхватив её буквально из-под колес мотоцикла гонщика Рауля Тамре, неоднократного чемпиона Эстонии, покорителя множества мототрасс и представительниц слабого пола. Бравый гонщик приглянулся и Марике. Хотя у Рауля уже есть девушка Эви, тоже известная мотогонщица, тем не менее самоуверенный чемпион решил покорить сердце Марики. Но у него на пути имеется соперник - гонщик Пеэтер Лаас, скромный парень, рабочий морского порта, который давно дружит с Марикой и к тому же тайно в неё влюблён",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/118671.jpg",
+        "duration": 119,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "комедия",
+          "спорт"
+        ],
+        "imdb_rating": 7.4,
+        "imdb_votes": 39,
+        "premiere_world": "1961-07-21",
+        "actors": [
+          "Терье  Луик",
+          "Рейн Арен",
+          "Петер Кард",
+          "Ээве Киви",
+          "Харий Лиепиньш",
+          "Рудольф Нууде",
+          "Яанус Оргулас"
+        ],
+        "directors": [
+          "Кальё Кийск",
+          "Юлий Кун"
+        ],
+        "writers": [
+          "Дагмар Нормет",
+          "С. Штерн"
+        ],
+        "composers": [
+          "Геннадий Подельский"
+        ],
+        "editors": [
+          "Вера Парвель"
+        ],
+        "designers": [
+          "Пеэтер Линцбах"
+        ],
+        "operators": [
+          "Эдгар Штырцкобер"
+        ]
+      }
+    },
+    {
+      "id": "movie-39471",
+      "type": "russian-movie",
+      "link": "",
+      "title": "От трех до двенадцати",
+      "title_orig": "От трех до двенадцати",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1965,
+      "kinopoisk_id": "741666",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-08T10:20:34Z",
+      "updated_at": "2019-07-08T10:20:34Z",
+      "material_data": {
+        "title": "От трех до двенадцати",
+        "title_en": "",
+        "year": 1965,
+        "description": "Фильм о вечернем свидании Сигрид и Яана, парочке молодых жителей эстонской столицы. Их романтические прогулки по улочкам, скверам и паркам Таллина под великолепные мотивы фри-джаза.",
+        "duration": 29,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мелодрама"
+        ],
+        "actors": [
+          "Сигред Аамисепп",
+          "Яан Килп"
+        ],
+        "directors": [
+          "Астрид Лепа",
+          "Вирве Аруоя"
+        ]
+      }
+    },
+    {
       "id": "movie-39472",
       "type": "russian-movie",
       "link": "",
@@ -6579,663 +6981,6 @@
         ],
         "operators": [
           "Александр Чиров"
-        ]
-      }
-    },
-    {
-      "id": "movie-39358",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Каждый день – хороший",
-      "title_orig": "Nichinichi Kore Kojitsu",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1072945",
-      "imdb_id": "tt7575778",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-05T06:34:55Z",
-      "updated_at": "2019-07-05T06:34:55Z",
-      "material_data": {
-        "title": "Каждый день – хороший",
-        "title_en": "Nichinichi Kore Kojitsu",
-        "year": 2018,
-        "description": "По совету матери студентка Норико начинает посещать уроки японской чайной церемонии вместе с двоюродной сестрой Митико. В моменты радости или грусти Норико под руководством учителя Такэды постигает искусство чайной церемонии, не замечая, как постепенно меняется её жизнь.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1072945.jpg",
-        "duration": 100,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "imdb_rating": 7.1,
-        "imdb_votes": 821,
-        "premiere_world": "2018-10-13",
-        "actors": [
-          "Хару Куроки",
-          "Микако Табэ",
-          "Кирин Кики",
-          "Маю Харада",
-          "Сая Кавамура",
-          "Фуюка Коорияма",
-          "Тихиро Окамото",
-          "Megumi Takizawa",
-          "Синго Цуруми",
-          "Маю Цурута"
-        ],
-        "directors": [
-          "Тацуси Омори"
-        ],
-        "writers": [
-          "Норико Морисита",
-          "Тацуси Омори"
-        ],
-        "composers": [
-          "Хироко Сэбу"
-        ],
-        "editors": [
-          "Рё Хаяно"
-        ],
-        "designers": [
-          "Мицуо Харада",
-          "Гэнки Хоримэ",
-          "Масаэ Миямото"
-        ],
-        "operators": [
-          "Кэндзи Маки"
-        ]
-      }
-    },
-    {
-      "id": "movie-39328",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Шторм P",
-      "title_orig": "P Storm",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1243995",
-      "imdb_id": "tt10017680",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-05T06:30:47Z",
-      "updated_at": "2019-07-05T06:30:47Z",
-      "material_data": {
-        "title": "Шторм P",
-        "title_en": "P Storm",
-        "year": 2019,
-        "description": "Полицейский отправляется в исправительное учреждение в качестве заключенного, чтобы провести внутреннее расследование для выявления фактов коррупции и криминала среди сотрудников тюрьмы.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1243995.jpg",
-        "duration": 100,
-        "countries": [
-          "Гонконг",
-          "Китай"
-        ],
-        "genres": [
-          "боевик",
-          "детектив",
-          "криминал"
-        ],
-        "imdb_rating": 5.8,
-        "imdb_votes": 518,
-        "premiere_world": "2019-04-04",
-        "actors": [
-          "Луис Ку",
-          "Кевин Чэн",
-          "Рэймонд Лам",
-          "Гордон Лам",
-          "Крисси Чау",
-          "Джулиан Чун",
-          "Патрик Там",
-          "Лиу Кай-Чи",
-          "Менг Ло",
-          "Ло Хой-Пан"
-        ],
-        "directors": [
-          "Дэвид Лам"
-        ],
-        "producers": [
-          "Рэймонд Вон",
-          "Чжао Жэньпэн"
-        ],
-        "writers": [
-          "Хо Мань-Лун",
-          "Вон Хо-Ва"
-        ],
-        "composers": [
-          "Энтони Чу"
-        ],
-        "editors": [
-          "Пун Хун"
-        ],
-        "operators": [
-          "Чан Квон-Хан"
-        ]
-      }
-    },
-    {
-      "id": "movie-39330",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Богини в пламени войны",
-      "title_orig": "na xie nv ren",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1224551",
-      "imdb_id": "tt9496886",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-05T06:02:24Z",
-      "updated_at": "2019-07-05T06:02:24Z",
-      "material_data": {
-        "title": "Богини в пламени войны",
-        "title_en": "Na xie nv ren",
-        "year": 2018,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1224551.jpg",
-        "duration": 114,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "военный",
-          "драма",
-          "история"
-        ],
-        "imdb_rating": 4.1,
-        "imdb_votes": 13,
-        "premiere_world": "2018-06-19",
-        "actors": [
-          "Хэ Цайфэй",
-          "Ху Кэ",
-          "Инь Тао",
-          "Бай Бин",
-          "Чэнь Лун",
-          "Хоу Юн",
-          "Ма Или",
-          "Ню Бэнь",
-          "Цинь И",
-          "Жуй Пин"
-        ],
-        "directors": [
-          "Цзян Пин",
-          "Ли Цзонань",
-          "У Игун"
-        ]
-      }
-    },
-    {
-      "id": "movie-39334",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Меняющий жизнь",
-      "title_orig": "Lifechanger",
-      "translation": {
-        "id": 794,
-        "title": "HDrezka Studio",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1057881",
-      "imdb_id": "tt7188978",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-05T05:50:31Z",
-      "updated_at": "2019-07-05T05:50:31Z",
-      "material_data": {
-        "title": "Меняющий жизнь",
-        "title_en": "Lifechanger",
-        "year": 2018,
-        "tagline": "It Becomes You",
-        "description": "Уже много лет Дрю живёт под разными личностями. Он не знает, что он за существо, но для поддержания собственного существования ему нужно высасывать жизненную силу из людей, а вместе с этим он обретает внешность и воспоминания своих жертв. Избавление от трупов уже вошло у Дрю в привычку, и последние годы его неумолимо тянет к женщине по имени Джулия. Каждый раз, сменив облик, он ищет её общества.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1057881.jpg",
-        "duration": 84,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "мелодрама",
-          "ужасы",
-          "фантастика"
-        ],
-        "kinopoisk_rating": 5.3,
-        "kinopoisk_votes": 353,
-        "imdb_rating": 5.4,
-        "imdb_votes": 2020,
-        "premiere_world": "2018-07-20",
-        "actors": [
-          "Лора Бурк",
-          "Джек Фоли",
-          "Элица Бако",
-          "Сэм Уайт",
-          "Rachel VanDuzer",
-          "Стив Касан",
-          "Mark Rainmaker",
-          "Адам Буллер",
-          "Питер Хиггинсон",
-          "Дэниэл Фаральдо"
-        ],
-        "directors": [
-          "Джастин МакКоннелл"
-        ],
-        "producers": [
-          "Эви Федергрин",
-          "Джастин МакКоннелл",
-          "Джеймс Флер",
-          "Эндрю Томас Хант",
-          "Кит Лэпард",
-          "Адам Мэйсон",
-          "Джордж Михалка",
-          "Майкл Пасцт",
-          "Павел Патрики",
-          "Lauren Saarimaki"
-        ],
-        "writers": [
-          "Джастин МакКоннелл"
-        ],
-        "composers": [
-          "Sean Motley"
-        ],
-        "editors": [
-          "Джастин МакКоннелл"
-        ],
-        "designers": [
-          "Christine Urquhart",
-          "Alexandra Pozdeeva",
-          "Melissa Bessey"
-        ],
-        "operators": [
-          "Саша Морич"
-        ]
-      }
-    },
-    {
-      "id": "serial-17356",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Психометрик",
-      "title_orig": "Saikometeuri Geunyeoseok",
-      "other_title": "Этот психометрический парень / He is Psychometric / That Psychometric Guy / That Psychometry Boy",
-      "translation": {
-        "id": 620,
-        "title": "GREEN TEA",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1216942",
-      "imdb_id": "tt9696162",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-07-04T22:30:47Z",
-      "updated_at": "2019-07-04T22:30:47Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/453309/8467c1e91494d2468dcba8c2f16e8c3e/720p",
-            "2": "//kodik.cc/seria/453310/e50e517531944180ef3a4c6f9f89f0df/720p",
-            "3": "//kodik.cc/seria/453311/bc117c9e775680f4985dded7ed5fdadc/720p",
-            "4": "//kodik.cc/seria/453312/609cc47f8d6053598cb98a781eefcadd/720p",
-            "5": "//kodik.cc/seria/453313/5737b71a787f850a5396869bc04eaedb/720p",
-            "6": "//kodik.cc/seria/453314/d06a3e10afd9100c08d604b353ba473a/720p",
-            "7": "//kodik.cc/seria/453315/06dc19f07c1a7887859bff754a2ff877/720p",
-            "8": "//kodik.cc/seria/453316/ab1ff953dce6c9a2fc1e46c82eb212ae/720p",
-            "9": "//kodik.cc/seria/453317/e2688fca116396de89b84ece6d43d6a4/720p",
-            "10": "//kodik.cc/seria/453318/fd3d1de8146e951839c441b1cb221f9d/720p",
-            "11": "//kodik.cc/seria/453319/f005e59772087f5f28f9f9c786893c97/720p",
-            "12": "//kodik.cc/seria/453320/c4e0268618eebde7b3e34bae994f7bf5/720p",
-            "13": "//kodik.cc/seria/453321/0d6daece77b0dc1cac2b0d38c9883ab8/720p",
-            "14": "//kodik.cc/seria/453322/36b598557facc8930fada943b3a79b0d/720p",
-            "15": "//kodik.cc/seria/453323/d6ef72bdc8fc392e03c4f78300e54a6f/720p",
-            "16": "//kodik.cc/seria/453324/82e1f65f92e431df5d5ba316e15361d2/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Психометрик",
-        "title_en": "Saikometeuri geunyeoseok",
-        "year": 2019,
-        "description": "Ли Ан обладает даром психометрии - коснувшись кого-нибудь, парень может прочитать память этого человека. Используя свою необычную способность, Ли Ан хочет избавить мир от плохих людей.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1216942.jpg",
-        "duration": 90,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "мелодрама",
-          "триллер",
-          "фэнтези"
-        ],
-        "kinopoisk_rating": 7.4,
-        "kinopoisk_votes": 1297,
-        "imdb_rating": 7.8,
-        "imdb_votes": 967,
-        "premiere_world": "2019-03-11",
-        "actors": [
-          "Чинён",
-          "Щин Е-ын",
-          "Ким Гвон",
-          "Дасом",
-          "Но Джон-хён",
-          "Чан И-су",
-          "Ко Юн-джон",
-          "Пак Чхоль-мин",
-          "Ом Хё-соп",
-          "Чон Сог-ён"
-        ],
-        "directors": [
-          "Ким Бён-су"
-        ],
-        "writers": [
-          "Ян Джин-а"
-        ]
-      }
-    },
-    {
-      "id": "movie-39324",
-      "type": "anime",
-      "link": "",
-      "title": "Хочу съесть твою поджелудочную железу",
-      "title_orig": "Kimi no suizo wo tabetai",
-      "other_title": "Я хочу съесть твою поджелудочную / I Want to Eat Your Pancreas",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1048908",
-      "imdb_id": "tt7236034",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9366",
-      "shikimori_id": "36098",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-04T21:21:44Z",
-      "updated_at": "2019-07-04T21:21:44Z",
-      "material_data": {
-        "title": "Хочу съесть твою поджелудочную железу",
-        "title_en": "Kimi no suizo wo tabetai",
-        "other_titles": [
-          "Хочу съесть твою поджелудочную железу"
-        ],
-        "other_titles_en": [
-          "I want to eat your pancreas"
-        ],
-        "other_titles_jp": [
-          "君の膵臓をたべたい"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2018,
-        "description": "Ученик старших классов  узнает, что у его одноклассницы серьезное заболевание поджелудочной железы. Он старается проводить с девушкой больше времени, и ребята становятся очень близки.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1048908.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/34f81fa79e6cf3e896d126437a6d6ef52c244d0d.jpg",
-          "https://shikimori.one/system/screenshots/original/1b423807789f9b806d260e6c024871f60bf9e34e.jpg"
-        ],
-        "duration": 109,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма"
-        ],
-        "anime_studios": [
-          "Studio VOLN"
-        ],
-        "kinopoisk_rating": 7.8,
-        "kinopoisk_votes": 6886,
-        "imdb_rating": 7.9,
-        "imdb_votes": 7454,
-        "shikimori_rating": 8.59,
-        "shikimori_votes": 24453,
-        "premiere_world": "2018-08-23",
-        "aired_at": "2018-09-01",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Махиро Такасуги",
-          "Ринн",
-          "Юкиё Фудзии",
-          "Юма Утида",
-          "Дзюн Фукусима",
-          "Ацуко Танака",
-          "Тан Каидзи",
-          "Эми Вакуи"
-        ],
-        "directors": [
-          "Синъитиро Усидзима"
-        ],
-        "producers": [
-          "Кэйдзи Мита"
-        ],
-        "writers": [
-          "Ёру Сумино",
-          "Синъитиро Усидзима"
-        ],
-        "composers": [
-          "Хироко Сэбу"
-        ],
-        "operators": [
-          "Маюко Койкэ"
-        ]
-      }
-    },
-    {
-      "id": "serial-17404",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Доктор Блейк",
-      "title_orig": "The Doctor Blake Mysteries",
-      "translation": {
-        "id": 956,
-        "title": "Back Board Cinema",
-        "type": "voice"
-      },
-      "year": 2013,
-      "last_season": 5,
-      "last_episode": 8,
-      "episodes_count": 44,
-      "kinopoisk_id": "734714",
-      "imdb_id": "tt2375720",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-07-03T11:40:30Z",
-      "updated_at": "2019-07-04T18:01:21Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/454856/6a09e75f01a0bc61cbd3961e225b9e47/720p",
-            "2": "//kodik.cc/seria/454857/8beea991aff47071b91cafb0020ff708/720p",
-            "3": "//kodik.cc/seria/454858/292377c7530918b1b3fa75d3d491919f/720p",
-            "4": "//kodik.cc/seria/454859/bd6d89431e4fe4f55411e96e29308dbe/720p",
-            "5": "//kodik.cc/seria/454860/4c965ae03074c7f10f2c517dc6646aef/720p",
-            "6": "//kodik.cc/seria/454861/2e3d1da3d1afb2751e858920f81f6515/720p",
-            "7": "//kodik.cc/seria/454862/b1aee6b90fe65edd25389a389847ee65/720p",
-            "8": "//kodik.cc/seria/454863/ef89b8ace0d3f46dcf5277dbcd075f95/720p",
-            "9": "//kodik.cc/seria/454864/368d19f69cbf8fc9b3bc6321da84f5b0/720p",
-            "10": "//kodik.cc/seria/454865/a70e188820b51d2029aede4c59d7ae10/720p"
-          }
-        },
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/454846/e5f7f7a5da19f9ecdf11e8fbb2b0ee25/720p",
-            "2": "//kodik.cc/seria/454847/5c4f886bb5baf80032f2235e3b1cdeb2/720p",
-            "3": "//kodik.cc/seria/454848/c8ad39f5b4853cbb3a4d1a1d2ab93c7c/720p",
-            "4": "//kodik.cc/seria/454849/061ab2d3c01fca8f031b5928af39fd4a/720p",
-            "5": "//kodik.cc/seria/454850/b17210785d0094be1a4da700c8a837b8/720p",
-            "6": "//kodik.cc/seria/454851/55e0e39a48365da5d5498bc187d24ffe/720p",
-            "7": "//kodik.cc/seria/454852/6b996f96582a39f0cd383900377cef5c/720p",
-            "8": "//kodik.cc/seria/454853/46632ad83fd51825ac0091ef60184b71/720p",
-            "9": "//kodik.cc/seria/454854/33c6d28fe0659070107685ca919b7fc1/720p",
-            "10": "//kodik.cc/seria/454855/c73fb60417d6012f9bbb582d5dfe5b36/720p"
-          }
-        },
-        "3": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/454838/b36e90b5764bca504223504567e21d18/720p",
-            "2": "//kodik.cc/seria/454839/44ff0696b78676babab5c12b788a47bb/720p",
-            "3": "//kodik.cc/seria/454840/b8886d02c7d0ee6d9ae4e7c6bdef3f0a/720p",
-            "4": "//kodik.cc/seria/454841/86e503c401d1936d0179c50fc4febb45/720p",
-            "5": "//kodik.cc/seria/454842/ec87b1c54beb60686fbda5c3c0b63ec5/720p",
-            "6": "//kodik.cc/seria/454843/e47c5544d70b4c819a039af30bd2a525/720p",
-            "7": "//kodik.cc/seria/454844/1c218e2d6c53e7db070ab5836c1a0b3c/720p",
-            "8": "//kodik.cc/seria/454845/5847c6cf0de3ebe9e6ab849a3942edce/720p"
-          }
-        },
-        "4": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/454830/d5178616986c114297b705ac4cc50b9b/720p",
-            "2": "//kodik.cc/seria/454831/8e45f9ede40a89af90bc91f9da1897f1/720p",
-            "3": "//kodik.cc/seria/454832/73a834d5157ea3d751c540169425bfb8/720p",
-            "4": "//kodik.cc/seria/454833/6456894de6386dd09c9ceb37c4d48d40/720p",
-            "5": "//kodik.cc/seria/454834/e98fc607fd2d66425f1d291688560f4c/720p",
-            "6": "//kodik.cc/seria/454835/abf63d80c0ee34916a136bf3ebc9ca35/720p",
-            "7": "//kodik.cc/seria/454836/3fe60650b14516c97f8ad3485ffffc5d/720p",
-            "8": "//kodik.cc/seria/454837/0c8cf4cacfe19bfde20972592871aa0b/720p"
-          }
-        },
-        "5": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/454822/426a935c901cc748f801db69225212f9/720p",
-            "2": "//kodik.cc/seria/454823/5b9eb8a85af372603e5d9951a9ee7529/720p",
-            "3": "//kodik.cc/seria/454824/d82302e3bff02c642a993dfa53ed0735/720p",
-            "4": "//kodik.cc/seria/454825/fbf24321d66418b88a68a6474fa8563a/720p",
-            "5": "//kodik.cc/seria/454826/42a913fec6c9344d4676a10b01d8d52d/720p",
-            "6": "//kodik.cc/seria/454827/f6c0c81e4c5e73ec03e4930004341997/720p",
-            "7": "//kodik.cc/seria/454828/eb3f07941677bb6244914bae6e0f10de/720p",
-            "8": "//kodik.cc/seria/454829/e4ec488ee8e34ca007a42d5d689457c9/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Доктор Блейк",
-        "title_en": "The Doctor Blake Mysteries",
-        "year": 2013,
-        "tagline": "A keeper of secrets, a solver of mysteries...",
-        "description": "Доктор Люсьен Блейк покинул родной городок Балларат ещё молодым. Сейчас он возвращается в него, чтобы унаследовать медицинскую практику своего упокоившегося отца с вызовами на места преступления.  В 1959-ом году богатств времён золотой лихорадки, которой он обязан своей роскошной архитектурой, в городе давно нет, но тайны, убийства и обман, остались ещё со времён его былой славы.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/734714.jpg",
-        "duration": 57,
-        "countries": [
-          "Австралия"
-        ],
-        "genres": [
-          "детектив",
-          "драма",
-          "криминал"
-        ],
-        "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 568,
-        "imdb_rating": 8.1,
-        "imdb_votes": 3689,
-        "premiere_ru": "2019-04-15",
-        "premiere_world": "2013-02-01",
-        "minimal_age": 12,
-        "actors": [
-          "Крейг МакЛоклен",
-          "Надин Гарнер",
-          "Чарли Казинс",
-          "Джоэль Тобек",
-          "Белинда МакКлори",
-          "Кейт Вульф",
-          "Джон Вуд",
-          "Дэвид Уайтели",
-          "Timothy Quabba",
-          "Анна МакГахэн"
-        ],
-        "directors": [
-          "Йен Бэрри",
-          "Деклан Имис",
-          "Фиона Бэнкс",
-          "Эндрю Проуз",
-          "Пино Амента",
-          "Ли Роджерс",
-          "Карл Цвики",
-          "Джон Хартли",
-          "Алистер Грирсон",
-          "Даина Рейд"
-        ],
-        "producers": [
-          "Джордж Адамс",
-          "Тони Райт",
-          "Кристофер Гист",
-          "Carole Sklan",
-          "Росс Олсоп",
-          "Крейг МакЛоклен",
-          "Стюарт Пейдж",
-          "Элиза Ардженцио",
-          "Келли Лефевр",
-          "Alastair McKinnon"
-        ],
-        "writers": [
-          "Джордж Адамс",
-          "Тони Райт",
-          "Стюарт Пейдж",
-          "Paul Jenner",
-          "Челси Кассио",
-          "Пит МакТиг",
-          "Марсия Гарднер",
-          "Пол Оливер",
-          "Джейн Аллен",
-          "Крис Корбетт"
-        ],
-        "composers": [
-          "Дэйл Корнелиус"
-        ],
-        "editors": [
-          "Уэйн Хайет",
-          "Нэйтан Вайлд",
-          "Стивен Эванс",
-          "Питер Кэрродэс",
-          "Филип Уоттс"
-        ],
-        "designers": [
-          "Кэрри Кеннеди",
-          "Аделе Флер",
-          "Бен Мориесон",
-          "Луиз МакКарти",
-          "Кейт Расселл",
-          "Robert Molnar"
-        ],
-        "operators": [
-          "Крэйг Барден",
-          "Луис Ирвинг"
         ]
       }
     }

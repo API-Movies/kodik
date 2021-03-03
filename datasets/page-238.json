@@ -1,6 +1,506 @@
 {
   "results": [
     {
+      "id": "movie-43122",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мой спутник 2",
+      "title_orig": "Yol Arkadasim 2",
+      "translation": {
+        "id": 819,
+        "title": "AlphaProject",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1181638",
+      "imdb_id": "tt8748256",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-10-01T05:38:43Z",
+      "updated_at": "2019-10-01T05:38:43Z",
+      "material_data": {
+        "title": "Yol Arkadasim 2",
+        "title_en": "",
+        "year": 2018,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1181638.jpg",
+        "duration": 116,
+        "countries": [
+          "Турция"
+        ],
+        "genres": [
+          "комедия",
+          "приключения"
+        ],
+        "imdb_rating": 5.9,
+        "imdb_votes": 2694,
+        "premiere_world": "2018-10-12",
+        "actors": [
+          "Ibrahim Büyükak",
+          "Огузхан Коч",
+          "Эзги Эюбоглу",
+          "Олгун Токер",
+          "Kadir Polatçi",
+          "Bahar Sahin",
+          "Aycan Koptur",
+          "Кыванч Баран Арслан",
+          "Дилбер Ай",
+          "Тамер Левент"
+        ],
+        "directors": [
+          "Bedran Güzel"
+        ],
+        "producers": [
+          "Неджати Акпынар",
+          "Zumrut Arol Bekce",
+          "Пелин Экинджи Кая",
+          "Джерри Ко",
+          "Kijun Lee",
+          "Сердар Шен"
+        ],
+        "writers": [
+          "Ibrahim Büyükak"
+        ],
+        "composers": [
+          "Jingle Jungle"
+        ],
+        "editors": [
+          "Эркан Эрдем"
+        ],
+        "designers": [
+          "Озкан Джименли"
+        ],
+        "operators": [
+          "Олджай Огуз"
+        ]
+      }
+    },
+    {
+      "id": "serial-17530",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Некий научный Акселератор",
+      "title_orig": "Toaru Kagaku no Accelerator",
+      "other_title": "とある科学の一方通行",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1274281",
+      "imdb_id": "tt10256918",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9846",
+      "shikimori_id": "38480",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-07-13T18:11:59Z",
+      "updated_at": "2019-10-01T01:39:51Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/457569/743aaf96aa439ff36690379867929b74/720p",
+            "2": "//aniqit.com/seria/460447/ac94afbc3327c7dfff42c2883bf2ca3e/720p",
+            "3": "//aniqit.com/seria/463944/5f87ad6773479edcb1183fb85d4f0e21/720p",
+            "4": "//aniqit.com/seria/467260/1c119a1b8c77a4c89456b4e4afcb691d/720p",
+            "5": "//aniqit.com/seria/470353/8f2d5cb7a0ef093be365b704f7edbc5b/720p",
+            "6": "//aniqit.com/seria/475551/03f645afc8ef6e39d33e30319699aa33/720p",
+            "7": "//aniqit.com/seria/477425/232250694feaaf616227ecf0ff61385b/720p",
+            "8": "//aniqit.com/seria/479581/0e7a1b2c24b35b5dffdd927b83041151/720p",
+            "9": "//aniqit.com/seria/481495/9d964a5f0e1314eb217ed2266b0e80d7/720p",
+            "10": "//aniqit.com/seria/484865/ced0b93ba931ca03a229e4f22b4785ba/720p",
+            "11": "//aniqit.com/seria/488293/ca0bcbb04183648bae74c04092f8371f/720p",
+            "12": "//aniqit.com/seria/491678/83c1e9bab20256356a818bae146083fa/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Некий научный акселератор",
+        "title_en": "Toaru Kagaku no Akuserareta",
+        "other_titles": [
+          "To Aru Majutsu no Index Gaiden",
+          "Toaru Kagaku no Ippou Tsuukou"
+        ],
+        "other_titles_en": [
+          "A Certain Scientific Accelerator"
+        ],
+        "other_titles_jp": [
+          "とある科学の一方通行〈アクセラレータ〉"
+        ],
+        "anime_license_name": "Некий научный Акселератор",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "История фокусируется вокруг сильнейшего эспера, защитившего ценой большей части своих сил Последний Заказ. Выздоравливая в больнице, Акселератор вёл относительно спокойную жизнь, пока не спас Эстель Розенталь, загадочную девушку с фотографией Последнего Заказа.\r\nС этих пор Акселератор оказывается втянут в новый конфликт, форма которого — зловещая организация под названием «Disciplinary Action», планирующая использовать Заказ для выполнения опасной миссии. Теперь, когда они приступили к выполнению своего плана и преследуют молодую девушку, защита Заказа и Академия-Сити зависит от самого могущественного в мире эспера и его новоиспечённого спутника.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1274281.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/0ca8cc8f58b8e6bf9f178105724d93db6cb483df.png",
+          "https://shikimori.one/system/screenshots/original/0ad55e348a243e360bec05544d7f55e170070f0f.png"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Сверхъестественное",
+          "Супер сила",
+          "Фэнтези",
+          "Школа"
+        ],
+        "anime_studios": [
+          "J.C.Staff",
+          "A.C.G.T."
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 525,
+        "imdb_rating": 7.1,
+        "imdb_votes": 242,
+        "shikimori_rating": 7.18,
+        "shikimori_votes": 4210,
+        "premiere_world": "2019-07-12",
+        "aired_at": "2019-07-12",
+        "released_at": "2019-09-27",
+        "rating_mpaa": "R",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Эмбер Ли Коннорс",
+          "Аканэ Фудзита",
+          "Бриттни Карбовски",
+          "Аои Кога",
+          "Юрика Кубо",
+          "Нодзоми Нисида",
+          "Остин Тиндл",
+          "Эмили Невез",
+          "Адам Гиббс",
+          "Марта Хармс"
+        ],
+        "directors": [
+          "Нобухару Каманака"
+        ],
+        "writers": [
+          "Clayton Browning",
+          "Бонни Клинкенберд",
+          "Кадзума Камати"
+        ],
+        "composers": [
+          "Маико Иути"
+        ]
+      }
+    },
+    {
+      "id": "serial-18742",
+      "type": "russian-serial",
+      "link": "",
+      "title": "Петля",
+      "title_orig": "Петля",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1983,
+      "last_season": 1,
+      "last_episode": 3,
+      "episodes_count": 3,
+      "kinopoisk_id": "309420",
+      "imdb_id": "tt4625096",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-09-30T20:45:26Z",
+      "updated_at": "2019-09-30T20:45:26Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//hdlizor.com/seria/491509/88d40d867e3f419771ca8f812c1632c2/720p",
+            "2": "//hdlizor.com/seria/491510/fac484543d8750e6c7f943ae83085d69/720p",
+            "3": "//hdlizor.com/seria/491511/49e74fdc71ec8945a51aee0c756a15d6/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Петля",
+        "title_en": "",
+        "year": 1983,
+        "description": "По мотивам одноименного романа Аркадия Адамова. В строительном карьере найден труп молодой девушки. Погибшая - секретарь начальника главка Меншутина Вера Топилина. Инспекторы Московского Уголовного розыска Васильев и Лосев расследуют причины гибели девушки. В итоге следствие выводит оперативников на крупных дельцов теневой экономики.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/309420.jpg",
+        "duration": 190,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "детектив"
+        ],
+        "kinopoisk_rating": 6.4,
+        "kinopoisk_votes": 332,
+        "premiere_world": "1984-03-11",
+        "minimal_age": 16,
+        "actors": [
+          "Леонид Филатов",
+          "Олег Табаков",
+          "Игорь Владимиров",
+          "Марина Яковлева",
+          "Андрей Ростоцкий",
+          "Жанна Прохоренко",
+          "Майя Булгакова",
+          "Юрий Шлыков",
+          "Борис Токарев",
+          "Юрий Мысенков"
+        ],
+        "directors": [
+          "Олег Гойда"
+        ],
+        "writers": [
+          "Аркадий Адамов"
+        ],
+        "composers": [
+          "Владимир Дашкевич"
+        ],
+        "designers": [
+          "Евгений Стрилецкий"
+        ],
+        "operators": [
+          "Юрий Гармаш"
+        ]
+      }
+    },
+    {
+      "id": "serial-17858",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Атакуя твоё сердце",
+      "title_orig": "Gank Your Heart",
+      "other_title": "Сопровождая тебя к вершине мира / Добить твоё сердце / Pei Ni Dao Shijie Zhi Dian / Accompany you to the top of the world",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 35,
+      "episodes_count": 35,
+      "kinopoisk_id": "1283608",
+      "imdb_id": "tt10610838",
+      "mdl_id": "30561-gank-your-heart",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-07-31T15:59:32Z",
+      "updated_at": "2019-09-30T20:43:48Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/466036/ffee03b74ab2d49091a5887741bdcb40/720p",
+            "2": "//kodik.cc/seria/466037/7fe19cb9c4f5fdc3a77012f745667999/720p",
+            "3": "//kodik.cc/seria/466038/30265cafc3b27f5986795a3204f00490/720p",
+            "4": "//kodik.cc/seria/466039/4c1102011ba48a311db3745fd95a8af9/720p",
+            "5": "//kodik.cc/seria/467190/ea53e7f6ebcd69ee541b1aba51c4bacb/720p",
+            "6": "//kodik.cc/seria/473946/b3991d1effd754af86cec5a05a2b68dc/720p",
+            "7": "//kodik.cc/seria/474257/3762cb594f8b267b2a6c3641b57397f8/720p",
+            "8": "//kodik.cc/seria/477357/b364ee863dd102e1a9a4abad6727a969/720p",
+            "9": "//kodik.cc/seria/479608/57b7ea007595faa5f4863661d8c1c6b7/720p",
+            "10": "//kodik.cc/seria/479835/057911299f281eba930d8ecd2275383c/720p",
+            "11": "//kodik.cc/seria/480063/6a45fa572df648fff884461a96efd77e/720p",
+            "12": "//kodik.cc/seria/480458/2f27bfccc018db08d8851c931d820960/720p",
+            "13": "//kodik.cc/seria/480908/2ffdc4331583bc35d91de0a291b9bb34/720p",
+            "14": "//kodik.cc/seria/481435/35cef5fed2c96b8d25a815911581ab01/720p",
+            "15": "//kodik.cc/seria/481509/13d6a91a208d982e937406a0fb48a1e5/720p",
+            "16": "//kodik.cc/seria/482356/5f936de3380581a947ce883eca89fefb/720p",
+            "17": "//kodik.cc/seria/483016/cbe35d3b497bfa9a978ee316546ee84b/720p",
+            "18": "//kodik.cc/seria/483685/f440c55c09188c397f355cb59fb73c43/720p",
+            "19": "//kodik.cc/seria/484908/7c49314c805f7f7d407ab49f7aa74e08/720p",
+            "20": "//kodik.cc/seria/484909/8505e5961ad3d95ab5b8edceb0d7268d/720p",
+            "21": "//kodik.cc/seria/484968/893db148b69e86af05f27dd854fa10ba/720p",
+            "22": "//kodik.cc/seria/485059/c50cbd21e3fa989206cc3b9f396bf662/720p",
+            "23": "//kodik.cc/seria/486066/fcc5fc3a4ace866537b7533ac9f6cfc7/720p",
+            "24": "//kodik.cc/seria/486676/b85cc7b36ff15dec2b5a3b66d97e7404/720p",
+            "25": "//kodik.cc/seria/486970/00fbdeb2cde7e08d438ee2edf4ad9dfc/720p",
+            "26": "//kodik.cc/seria/487449/8e2efa46bafac26c467b1a8b45f68876/720p",
+            "27": "//kodik.cc/seria/487532/f1abbcbbd61138fc473858235b189273/720p",
+            "28": "//kodik.cc/seria/487732/ff8d4b9f509ef8f2ec8403431aec9d12/720p",
+            "29": "//kodik.cc/seria/487974/e71410e691c711ae3588ca86680b0432/720p",
+            "30": "//kodik.cc/seria/489000/dce33ea76da9d592d602bb4f6cc90168/720p",
+            "31": "//kodik.cc/seria/489931/6e236dc9182ae75b7906784a7c88b663/720p",
+            "32": "//kodik.cc/seria/490443/27f731aeac81bb409d2fe671acad0dfa/720p",
+            "33": "//kodik.cc/seria/490728/124e1d4983c5cabdc751e87b10e6ca1f/720p",
+            "34": "//kodik.cc/seria/490959/8496b63fc8351bfb14b025b6c8660513/720p",
+            "35": "//kodik.cc/seria/491505/1dd7b00a304d39e74f9f2b0846fba006/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Атакуя твоё сердце",
+        "title_en": "Pei ni dao shi jie zhi dian",
+        "year": 2019,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1283608.jpg",
+        "duration": 45,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "мелодрама",
+          "спорт"
+        ],
+        "imdb_rating": 7.2,
+        "imdb_votes": 292,
+        "premiere_world": "2019-06-09",
+        "actors": [
+          "Ван Ибо",
+          "Ван Цзысюань",
+          "Джерри Янь",
+          "Дин Гуаньсэнь",
+          "Лу Сяоюй",
+          "Янь Сюйцзя",
+          "Ху Юньхао",
+          "Ван Цзыюнь",
+          "Гао Тайюй"
+        ],
+        "directors": [
+          "Ша Вэйци"
+        ],
+        "producers": [
+          "Dan Zhou",
+          "Fan Tang"
+        ],
+        "designers": [
+          "Zheng Tang"
+        ],
+        "operators": [
+          "Xinchao Su"
+        ]
+      }
+    },
+    {
+      "id": "movie-43108",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Гардения в цвету",
+      "title_orig": "Forever Young",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2015,
+      "imdb_id": "tt4819470",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-30T20:41:29Z",
+      "updated_at": "2019-09-30T20:41:29Z"
+    },
+    {
+      "id": "movie-43107",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Самая обыкновенная пара",
+      "title_orig": "Yeonaeui wondo",
+      "other_title": "Степень любви",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2013,
+      "kinopoisk_id": "738472",
+      "imdb_id": "tt3004788",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-30T20:39:53Z",
+      "updated_at": "2019-09-30T20:39:53Z",
+      "material_data": {
+        "title": "Самая обыкновенная пара",
+        "title_en": "Yeonaeui wondo",
+        "year": 2013,
+        "description": "Парень и девушка работают в одном банке. Они встречаются уже три года, но скрывают это от начальства и коллег. И вроде бы всё идёт неплохо, но они решают расстаться. И расстаются со скандалом, что не остаётся незамеченным на работе.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/738472.jpg",
+        "duration": 112,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 285,
+        "imdb_rating": 6.3,
+        "imdb_votes": 480,
+        "premiere_world": "2013-03-21",
+        "rating_mpaa": "PG-13",
+        "actors": [
+          "Ким Мин-хи",
+          "Ли Мин-ги",
+          "Чхве Му-сон",
+          "Ра Ми-ран",
+          "Квон Ю-джин",
+          "Чхве Гви-хва",
+          "Ким Ган-хён",
+          "Тхэ Ин-хо",
+          "Мун Чхан-гиль",
+          "Пак Пён-ын"
+        ],
+        "directors": [
+          "Но Док"
+        ],
+        "producers": [
+          "Хон Джи-ён",
+          "Хан Джэ-рим"
+        ],
+        "writers": [
+          "Но Док"
+        ],
+        "composers": [
+          "Ким Джун-сон"
+        ],
+        "editors": [
+          "Чон Джин-хи"
+        ],
+        "designers": [
+          "Ли Ин-ок"
+        ],
+        "operators": [
+          "Пак Чон-чхоль"
+        ]
+      }
+    },
+    {
+      "id": "movie-43105",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Все мы плачем по-разному",
+      "title_orig": "Drama Special - Different Cries",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2014,
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-30T20:27:07Z",
+      "updated_at": "2019-09-30T20:27:07Z"
+    },
+    {
       "id": "movie-43104",
       "type": "foreign-movie",
       "link": "",
@@ -422,7 +922,7 @@
           "музыка"
         ],
         "imdb_rating": 7.2,
-        "imdb_votes": 1812,
+        "imdb_votes": 1858,
         "premiere_world": "2019-02-14",
         "actors": [
           "Напхат Сиангсомбун",
@@ -1557,7 +2057,7 @@
           "музыка"
         ],
         "imdb_rating": 7.2,
-        "imdb_votes": 1812,
+        "imdb_votes": 1858,
         "premiere_world": "2019-02-14",
         "actors": [
           "Напхат Сиангсомбун",
@@ -8622,8 +9122,8 @@
           "комедия",
           "фантастика"
         ],
-        "imdb_rating": 7.6,
-        "imdb_votes": 82,
+        "imdb_rating": 7.5,
+        "imdb_votes": 86,
         "premiere_world": "2019-08-05",
         "actors": [
           "Рэйн",
@@ -8727,685 +9227,6 @@
         ],
         "writers": [
           "Ким Мин-джу"
-        ]
-      }
-    },
-    {
-      "id": "serial-17964",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Спой мне",
-      "title_orig": "Neoui noraereul deulryeojwo",
-      "other_title": "Позволь послушать твою песню / Позволь мне услышать твою песню / Let Me Hear Your Song / Sing for Me / Tell Your Song / I Wanna Hear Your Song",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1253994",
-      "imdb_id": "tt10449370",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-08-07T11:20:58Z",
-      "updated_at": "2019-09-25T15:55:45Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/468662/643b524b0f3acbc974535733c6348cd2/720p",
-            "2": "//kodik.cc/seria/468663/a950c164834218185e7e3e324d837248/720p",
-            "3": "//kodik.cc/seria/471915/7932ed4496abb921402b1b4f13ff78b9/720p",
-            "4": "//kodik.cc/seria/471916/75cd9e47f0131e3e89a7d36d74755e4b/720p",
-            "5": "//kodik.cc/seria/474200/422d35ebc4e0a2c3d7300d15679afd63/720p",
-            "6": "//kodik.cc/seria/474201/7bd46b1b150ea2a78a26dba41bbc7e46/720p",
-            "7": "//kodik.cc/seria/477491/d69297bcf17e5c02576a83c13ecdad89/720p",
-            "8": "//kodik.cc/seria/478127/773b6765ebdebf8a3c710052eb99ff3e/720p",
-            "9": "//kodik.cc/seria/479938/581ccdb029237aca327130c47cd33b01/720p",
-            "10": "//kodik.cc/seria/480378/acc8b176ae5cfc05e31eb053bb7ad1f5/720p",
-            "11": "//kodik.cc/seria/482391/68d0e3f58adddd40b88c8e1391bf94ac/720p",
-            "12": "//kodik.cc/seria/483015/d4cb15b5c740f0da6b4258278f93cb1f/720p",
-            "13": "//kodik.cc/seria/485869/8ad0ab48ebbc4b871158d507eaf77454/720p",
-            "14": "//kodik.cc/seria/486688/40b5ab65b8d6fa6ca79626f32c453cb7/720p",
-            "15": "//kodik.cc/seria/488600/61cd6bcacbc3d1fda6642d7cf5b01903/720p",
-            "16": "//kodik.cc/seria/489001/3401cc10d9ac457b2e1ce635ddf94b92/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Спой мне",
-        "title_en": "Neoui noraereul deulryeojwo",
-        "year": 2019,
-        "description": "Из-за несчастного случая литавристка теряет память и заполучает бессонницу. Устроившись в оркестр, девушка знакомится с молодым пианистом, который звонит ей по ночам, чтобы помочь заснуть.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1253994.jpg",
-        "duration": 35,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "детектив",
-          "комедия",
-          "мелодрама"
-        ],
-        "imdb_rating": 7.2,
-        "imdb_votes": 74,
-        "premiere_world": "2019-08-05",
-        "actors": [
-          "Ён У-джин",
-          "Ким Сэ-джон",
-          "Сон Джэ-рим",
-          "Пак Чи-ён",
-          "Ли Щи-вон",
-          "Ким Сан-гюн",
-          "Ю Гон",
-          "Пак Чхан-хван",
-          "Юн Бог-ин",
-          "Чо Ми-рён"
-        ],
-        "directors": [
-          "Ли Джон-ми"
-        ],
-        "writers": [
-          "Ким Мин-джу"
-        ]
-      }
-    },
-    {
-      "id": "movie-42880",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Последний рецепт",
-      "title_orig": "Rasuto reshipi: kirin no shita no kioku",
-      "other_title": "The Last Recipe: Kirin no shita no kioku",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "993574",
-      "imdb_id": "tt5894876",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-25T14:44:19Z",
-      "updated_at": "2019-09-25T14:44:19Z",
-      "material_data": {
-        "title": "Последний рецепт",
-        "title_en": "Rasuto reshipi: kirin no shita no kioku",
-        "year": 2017,
-        "description": "Мицуру Сасаки считается отличным поваром, но он потерял всякий интерес к кулинарии. Мицуру обладает уникальной способностью, называемой «язык жирафа» - он может воспроизвести блюдо, отведав его только раз. Однажды он получает заказ на приготовление предсмертного ужина. Но чтобы сделать блюдо, необходимо найти легендарный рецепт шеф-повара Наотаро Ямагаты, который отправился в Маньчжурию в 1930-е годы.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/993574.jpg",
-        "duration": 126,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "драма",
-          "история"
-        ],
-        "imdb_rating": 7.1,
-        "imdb_votes": 664,
-        "premiere_world": "2017-11-03",
-        "actors": [
-          "Кадзунари Ниномия",
-          "Хидэтоси Нисидзима",
-          "Аои Миядзаки",
-          "Го Аяно",
-          "Даиго Нисихата",
-          "Ютака Такэноути",
-          "Ёси Оида",
-          "Того Игава",
-          "Сергей Куваев",
-          "Акира Онодэра"
-        ],
-        "directors": [
-          "Йодзиро Такита"
-        ],
-        "producers": [
-          "Сэидзи Яги",
-          "Wakabayashi Yusuke"
-        ],
-        "writers": [
-          "Кэйити Танака",
-          "Тамио Хаяси"
-        ],
-        "operators": [
-          "Ёсинори Осима"
-        ]
-      }
-    },
-    {
-      "id": "serial-17461",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Влюбишься ли ты в извращенку, если она милая?",
-      "title_orig": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
-      "other_title": "Полюбишь ли ты извращенку, если она милая?",
-      "translation": {
-        "id": 610,
-        "title": "AniLibria.TV",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1273362",
-      "imdb_id": "tt10470356",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9992",
-      "shikimori_id": "39326",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-07-09T14:51:25Z",
-      "updated_at": "2019-09-25T14:23:59Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/456024/b0988b53b1b18a7eafb43671b20c741d/720p",
-            "2": "//aniqit.com/seria/458502/05d48853f027f9bab6dfe0cb9794dd93/720p",
-            "3": "//aniqit.com/seria/461595/dc4324c6eb5cd2499d03d90c3f519ca9/720p",
-            "4": "//aniqit.com/seria/465453/b2cd070b9b4644cc5892200451946de9/720p",
-            "5": "//aniqit.com/seria/468417/36c5ca24ad6a5e17dfd80fbd51e1eeee/720p",
-            "6": "//aniqit.com/seria/471163/ce346bb71b0f4dbea670e16d8bbd8e60/720p",
-            "7": "//aniqit.com/seria/473916/7be495837b641324f03ac1cc5efd981d/720p",
-            "8": "//aniqit.com/seria/477404/68c78117c87512a2ec3bc9629ada6717/720p",
-            "9": "//aniqit.com/seria/480393/7e5055feae991cd83dc9d60dd936a30f/720p",
-            "10": "//aniqit.com/seria/483068/6073b2fd532af14c9b17e1a72496d6b4/720p",
-            "11": "//aniqit.com/seria/485748/9a5f7856acf3d46991930b67b7cb7f4f/720p",
-            "12": "//aniqit.com/seria/488888/bce90e305721ad5ad176b30cc134ee91/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Полюбишь ли ты извращенку, если она милая?",
-        "title_en": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
-        "other_titles": [
-          "Влюбишься ли ты в извращенку, если она милая?",
-          "Готов ли ты влюбиться в извращенку до тех пор, пока она милая?",
-          "Will you please like hentai if it's cute?"
-        ],
-        "other_titles_en": [
-          "Hensuki: Are you willing to fall in love with a pervert, as long as she's a cutie?"
-        ],
-        "other_titles_jp": [
-          "可愛ければ変態でも好きになってくれますか？"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2019,
-        "description": "Тихую и беззаботную школьную жизнь Кэйки Кирю разрушает неожиданное любовное письмо. Парень был на седьмом небе от счастья, ведь впервые за всю его жизнь у него появится девушка. Но с письмом не всё так гладко: имени отправителя нет, зато Кэйки обнаруживает белое женское белье рядом с конвертом. В ходе поисков «Золушки, которая оставила после себя трусики» парень понимает, что каждая из возможных кандидаток имеет извращённые наклонности и желания, в которых действующим лицом является не кто иной, как сам Кэйки.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1273362.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/b96535f0ad291422e4a5b1e3fc2ddf97a9c34053.jpg",
-          "https://shikimori.one/system/screenshots/original/6ff527b63489245250506ee3aab45fb667b63cd8.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Комедия",
-          "Романтика",
-          "Школа",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Seven",
-          "GEEK TOYS"
-        ],
-        "kinopoisk_rating": 5.9,
-        "kinopoisk_votes": 173,
-        "imdb_rating": 6.1,
-        "imdb_votes": 331,
-        "shikimori_rating": 6.6,
-        "shikimori_votes": 5324,
-        "premiere_world": "2019-07-08",
-        "aired_at": "2019-07-08",
-        "released_at": "2019-09-23",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Кэисукэ Комото",
-          "Хиро Симоно",
-          "Каэдэ Хондо",
-          "Рина Хидака",
-          "Иори Номидзу",
-          "Андзу Харуно",
-          "Аяка Охаси",
-          "Аяна Такэтацу"
-        ],
-        "directors": [
-          "Ицуки Имадзаки"
-        ],
-        "writers": [
-          "Кэнъити Ямасита"
-        ]
-      }
-    },
-    {
-      "id": "movie-42877",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Чирлидер под прикрытием",
-      "title_orig": "Undercover Cheerleader",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1255832",
-      "imdb_id": "tt10065726",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-25T13:23:44Z",
-      "updated_at": "2019-09-25T13:23:44Z",
-      "material_data": {
-        "title": "Undercover Cheerleader",
-        "title_en": "",
-        "year": 2019,
-        "duration": 86,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "драма",
-          "криминал"
-        ],
-        "imdb_rating": 4.8,
-        "imdb_votes": 194,
-        "premiere_world": "2019-09-15",
-        "actors": [
-          "Кайла Уоллес",
-          "Мэдди Филлипс",
-          "Кели О’Бирн",
-          "Andre Anthony",
-          "Сара-Джейн Редмонд",
-          "Саманта Шиммер",
-          "Тедра Роджерс",
-          "Mya Lowe",
-          "Райан Грэнтхем",
-          "Брайан Е.Б. Лесли"
-        ],
-        "directors": [
-          "Дэнни Дж. Бойл"
-        ],
-        "producers": [
-          "Жиль ЛаПланте",
-          "Sebastian Battro",
-          "Том Берри",
-          "Амелия Берстин",
-          "Louisa Cadywould",
-          "Барбара Фишер",
-          "Ричард Гринхалг",
-          "Бриэнн Хартли"
-        ],
-        "writers": [
-          "Лорен Бэлсон"
-        ],
-        "editors": [
-          "Джесси Лион"
-        ],
-        "designers": [
-          "Патрик Акуна",
-          "Erica Minisini"
-        ],
-        "operators": [
-          "Дэн Дюмошель",
-          "Райан Пети"
-        ]
-      }
-    },
-    {
-      "id": "movie-42874",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Выход",
-      "title_orig": "Eksiteu",
-      "other_title": "Exit",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1118187",
-      "imdb_id": "tt10648440",
-      "mdl_id": "28794-exit",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-25T11:46:11Z",
-      "updated_at": "2019-09-25T11:46:11Z",
-      "material_data": {
-        "title": "Выход",
-        "title_en": "Eksiteu",
-        "year": 2019,
-        "tagline": "There's no way out!",
-        "description": "30-летний неудачник Ён-нам никак не может устроиться на нормальную работу, а единственное, в чём он преуспел, - это скалолазание. Жизнь бедолаги похожа на катастрофу: приходится жить с родителями, отбиваться от постоянных нападок старшей сестры, и даже малолетний племянник его стыдится. Большой банкет по поводу 70-летия матери Ён-нама «по странному стечению обстоятельств» проходит на одном из верхних этажей здания, где работает И-джу, его безответная любовь ещё с колледжа. Когда праздник уже завершился, неугомонные родственники никак не хотят расходиться, а сам парень готов сгореть от стыда, по городу начинает распространяться ядовитый газ. Единственный способ не отравиться - попасть на крышу, но дверь заперта, и теперь бесполезные, по мнению семейства, навыки Ён-нама могут спасти им всем жизнь.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1118187.jpg",
-        "duration": 103,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "боевик",
-          "комедия"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 849,
-        "imdb_rating": 7,
-        "imdb_votes": 4012,
-        "premiere_world": "2019-07-31",
-        "actors": [
-          "Чо Джон-сок",
-          "Юна",
-          "Ко Ду-щим",
-          "Пак Ин-хван",
-          "Ким Джи-ён",
-          "Кан Ги-ён",
-          "Ким Джон-гу",
-          "Ким Бён-сун",
-          "Хван Хё-ын",
-          "Ли Бон-нён"
-        ],
-        "directors": [
-          "Ли Сан-гын"
-        ],
-        "producers": [
-          "Кан Хе-джон",
-          "Рю Сын-ван",
-          "Пэк Хён-ик"
-        ],
-        "writers": [
-          "Ли Сан-гын"
-        ],
-        "composers": [
-          "Моуг"
-        ],
-        "editors": [
-          "Ли Ган-хи"
-        ],
-        "designers": [
-          "Чхэ Гён-сон",
-          "Чхэ Гён-хва"
-        ],
-        "operators": [
-          "Ким Иль-ён"
-        ]
-      }
-    },
-    {
-      "id": "serial-18588",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Никто кроме тебя",
-      "title_orig": "Tú o nadie",
-      "translation": {
-        "id": 729,
-        "title": "СВ-Дубль",
-        "type": "voice"
-      },
-      "year": 1985,
-      "last_season": 1,
-      "last_episode": 60,
-      "episodes_count": 60,
-      "kinopoisk_id": "161107",
-      "imdb_id": "tt0214377",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-09-23T09:41:55Z",
-      "updated_at": "2019-09-25T08:10:58Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/488586/dabb19b4b70beb7932e94ccae4c1b7f0/720p",
-            "2": "//kodik.cc/seria/488587/a901f9a648a5613168f8fd77253e89d0/720p",
-            "3": "//kodik.cc/seria/488680/0d09bc8f32e2ddaf70fc63dcd2142a85/720p",
-            "4": "//kodik.cc/seria/488681/e597ac6012f9f46746dd31803ada0124/720p",
-            "5": "//kodik.cc/seria/488682/ebe60c8313d7f068cdcc1c91d4b9e190/720p",
-            "6": "//kodik.cc/seria/488683/db702b2e3ac83ba09b7a2366a90b64b4/720p",
-            "7": "//kodik.cc/seria/488684/633a7d7fd9e01a98ca0dbcf3f3f9126a/720p",
-            "8": "//kodik.cc/seria/488685/bd15a71adf0e318847064ce7eb25a453/720p",
-            "9": "//kodik.cc/seria/488686/a0334bca64bdbfe6c3c28aa1e57d1671/720p",
-            "10": "//kodik.cc/seria/488745/a8a4df77e59f189d1a6d11e41145f7d3/720p",
-            "11": "//kodik.cc/seria/488746/eeae7127db63054b0f8972e2073ac08a/720p",
-            "12": "//kodik.cc/seria/488747/f05afe4fa11305f3ca0aec79d614b419/720p",
-            "13": "//kodik.cc/seria/488748/7cc863ef6bb970fbcce37ce168a286ee/720p",
-            "14": "//kodik.cc/seria/488749/4be67b97ace7f5242b30d87a307ad023/720p",
-            "15": "//kodik.cc/seria/488750/8d7225ae47197bb0dcfc51fef70de2a4/720p",
-            "16": "//kodik.cc/seria/488751/b912fae2a922844d6c4777b76ef4482f/720p",
-            "17": "//kodik.cc/seria/488752/4b0d0cc4d98f4e77d14a140d36f21c8f/720p",
-            "18": "//kodik.cc/seria/488753/7e669768f2f47b5e39be1e6454967a3a/720p",
-            "19": "//kodik.cc/seria/488754/e76522c2285ac12e041326ea5ecf16b6/720p",
-            "20": "//kodik.cc/seria/488755/c3b831ec09aeac78b91a70248e435248/720p",
-            "21": "//kodik.cc/seria/488756/b615bc56a2d1ed80939133ae60f48f91/720p",
-            "22": "//kodik.cc/seria/488757/d36c65f1be37f12c61c2d26ee2094a41/720p",
-            "23": "//kodik.cc/seria/488758/76eed9c1d83a31e7a18db04fafd39c1f/720p",
-            "24": "//kodik.cc/seria/488759/0bc55a9fa0160bbf051b02a3c0f61492/720p",
-            "25": "//kodik.cc/seria/488760/6b4edc6778ac3a726d7427853f602054/720p",
-            "26": "//kodik.cc/seria/488761/0ea5be15df71f85c2166ad25dee36794/720p",
-            "27": "//kodik.cc/seria/488762/2cb970e84e2b587abddd0b87856cdca4/720p",
-            "28": "//kodik.cc/seria/488763/41e100c84bd06240c15a091d5e0b3a21/720p",
-            "29": "//kodik.cc/seria/488764/0c600795d45208cbf4c360763eeaf6ca/720p",
-            "30": "//kodik.cc/seria/488765/173422f16813b10ea54f0da7e34b3750/720p",
-            "31": "//kodik.cc/seria/488766/1e56e3a3397e4583ab911690f6c8f8f3/720p",
-            "32": "//kodik.cc/seria/488767/6749fe196dc3e275cff624214c21bcb4/720p",
-            "33": "//kodik.cc/seria/488768/323038fc6cc286c44bbc5676d8f0b9d9/720p",
-            "34": "//kodik.cc/seria/488769/c93fa48b4d02727c10344bbb9a421da3/720p",
-            "35": "//kodik.cc/seria/488770/af45faefbb95ea31ad4d319bc2909ccc/720p",
-            "36": "//kodik.cc/seria/488771/6892b2600c4116f64213b8c2205b0628/720p",
-            "37": "//kodik.cc/seria/488772/dcb58520afe0f6490cb261b82c797e60/720p",
-            "38": "//kodik.cc/seria/488773/0d450a6d00aa723f9a3a2993ba073c05/720p",
-            "39": "//kodik.cc/seria/488774/e9eb435a7c11a09b261f5ffbc57832bb/720p",
-            "40": "//kodik.cc/seria/488775/69dd8a5f5b042332baf163d8adfada14/720p",
-            "41": "//kodik.cc/seria/488776/88179483a0dce933a1173c30fb27c520/720p",
-            "42": "//kodik.cc/seria/488777/c27c2233212c8339652706567a76d4e2/720p",
-            "43": "//kodik.cc/seria/488778/39496c11cf9ceace23966fdf0d198c1a/720p",
-            "44": "//kodik.cc/seria/488779/856c260320366dbe72b7346287909c13/720p",
-            "45": "//kodik.cc/seria/488780/754a0b286f9f5c0dc62481cd28cfece4/720p",
-            "46": "//kodik.cc/seria/488781/a34b530e60c6efc4ff0c624303008e11/720p",
-            "47": "//kodik.cc/seria/488782/c62071d37d306427901d6a7d6f9a8c28/720p",
-            "48": "//kodik.cc/seria/488783/cfcd29feed268be03b10a318fce476dc/720p",
-            "49": "//kodik.cc/seria/488784/c833b4f8ffb75beeba810e4a7af4cb45/720p",
-            "50": "//kodik.cc/seria/488785/f46b2ddcb2f2a214ab37285dca024de4/720p",
-            "51": "//kodik.cc/seria/488786/06ce871550ae9a122b0c404c81a01b01/720p",
-            "52": "//kodik.cc/seria/488787/914c7fa2b7b9f3830ae5d51102d9a4ec/720p",
-            "53": "//kodik.cc/seria/488788/83761140c268976b5a36bc71054123e2/720p",
-            "54": "//kodik.cc/seria/488789/969f17a74136349aac9ddd3a6e19c124/720p",
-            "55": "//kodik.cc/seria/488790/7cee2d89a6c71a55ccad81b9026eb9ce/720p",
-            "56": "//kodik.cc/seria/488791/f28a5f446e984e6472039b7156d2a25b/720p",
-            "57": "//kodik.cc/seria/488792/4c1d5dbed6d44bd10e81212947c2bf0b/720p",
-            "58": "//kodik.cc/seria/488793/e5e477eb3948a914ecbb18210c0e340e/720p",
-            "59": "//kodik.cc/seria/488794/e8a74c369ace881bf3c0c7db501f3c9d/720p",
-            "60": "//kodik.cc/seria/488795/c0469e50045e70e295e9d3c171185501/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Никто кроме тебя",
-        "title_en": "Tú o nadie",
-        "year": 1985,
-        "description": "Ракель, честная и порядочная девушка, выходит замуж за Антонио Ломбардо, но ее муж погибает сразу после свадьбы. Прилетев на его похороны, она обнаруживает, что ее муж очень богат, и что она вышла замуж вовсе не за Антонио, а за его сводного брата Максимиллиано, который воспользовался ее любовью, чтобы она, Ракель, получила все деньги, а потом они разделили бы их между собой. Но Максимиллиано не учел одного - того, что Ракель окажется слишком порядочной и честной, а также того, что Антонио Ломбардо останется жив...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/161107.jpg",
-        "duration": 30,
-        "countries": [
-          "Мексика"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.8,
-        "kinopoisk_votes": 1292,
-        "imdb_rating": 7.2,
-        "imdb_votes": 110,
-        "actors": [
-          "Лусия Мендес",
-          "Андрес Гарсия",
-          "Сальвадор Пинеда",
-          "Урсула Пратс",
-          "Магда Гусман",
-          "Лилиана Абуд",
-          "Лус Мария Херес",
-          "Мигель Мансано",
-          "Гильермо Зарур",
-          "Абрам Мендес"
-        ],
-        "directors": [
-          "Хосе Рендон"
-        ],
-        "producers": [
-          "Эрнесто Алонсо"
-        ],
-        "writers": [
-          "Мария Сараттини"
-        ],
-        "composers": [
-          "Онорио Эрреро"
-        ],
-        "designers": [
-          "Ариэль Бьянко"
-        ]
-      }
-    },
-    {
-      "id": "serial-18590",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Эзель",
-      "title_orig": "Ezel",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2009,
-      "last_season": 1,
-      "last_episode": 33,
-      "episodes_count": 33,
-      "kinopoisk_id": "497667",
-      "imdb_id": "tt1534360",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-09-24T07:08:11Z",
-      "updated_at": "2019-09-25T07:37:46Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/488687/7818e41dc73839ac9c1f9bd24ff28f3e/720p",
-            "2": "//kodik.cc/seria/488688/6ce1bf39555f50f15e9a9047fc304464/720p",
-            "3": "//kodik.cc/seria/488689/39676db0ddb663f4932ea2b11c4ea037/720p",
-            "4": "//kodik.cc/seria/488690/98da3632c1b51cacd9b969ec1c4e0e5b/720p",
-            "5": "//kodik.cc/seria/488691/a726d01cfb7300642a1c5f3c33608135/720p",
-            "6": "//kodik.cc/seria/488692/326571fe67e5e24e0ed28af8bf03b203/720p",
-            "7": "//kodik.cc/seria/488693/c33a502c63ceb5e6c0b02e2d68f5c18b/720p",
-            "8": "//kodik.cc/seria/488694/79aa63ce3cbb004e5b580f4aac214660/720p",
-            "9": "//kodik.cc/seria/488695/eaf29ed1c8230e4cbf61f036414b843a/720p",
-            "10": "//kodik.cc/seria/488696/6e373b280465d6da85649c7b7f23e4b2/720p",
-            "11": "//kodik.cc/seria/488697/9ead388a4f438be763ffa49cc240d865/720p",
-            "12": "//kodik.cc/seria/488698/35959bebff0632e787892d54b45acc69/720p",
-            "13": "//kodik.cc/seria/488699/2b1a8574c06a45966d1cbe5218e0fc69/720p",
-            "14": "//kodik.cc/seria/488700/065080d5527b25220111cb7d878622ab/720p",
-            "15": "//kodik.cc/seria/488701/94834eaab98b50ccb1048b81ee275141/720p",
-            "16": "//kodik.cc/seria/488702/9e31fe62f37aca7a1651eb43b7839878/720p",
-            "17": "//kodik.cc/seria/488703/a7081c81c3c9cbfa4cce0f8cd5046a1f/720p",
-            "18": "//kodik.cc/seria/488704/f9c248104170e4ed4727fb56d98d097a/720p",
-            "19": "//kodik.cc/seria/488705/1b1c97c6767fc802eee8284819655165/720p",
-            "20": "//kodik.cc/seria/488706/182dfce423f42c85d8864e0ac9c8ddd1/720p",
-            "21": "//kodik.cc/seria/488707/d8743de19b99e475e6856727f47d9e17/720p",
-            "22": "//kodik.cc/seria/488708/a6889580dd295c1835555c8c9469bb21/720p",
-            "23": "//kodik.cc/seria/488709/38977feeee924be01d9574deb0d7a324/720p",
-            "24": "//kodik.cc/seria/488710/7807903f9131af99e69745022214306c/720p",
-            "25": "//kodik.cc/seria/488711/990a34cc8d97352525d7ca416c08f8f6/720p",
-            "26": "//kodik.cc/seria/488712/eb2f569869c6ad922c5b8a56eb8dddf9/720p",
-            "27": "//kodik.cc/seria/488713/91882d95f900feaffc66c29b842787c4/720p",
-            "28": "//kodik.cc/seria/488714/215e441d78bb0f6c2c4385f2a4de005f/720p",
-            "29": "//kodik.cc/seria/488715/50d425471f06355a86cbe2e4df0c1b68/720p",
-            "30": "//kodik.cc/seria/488808/9f9069abc63ca234ef9660536be4d5d3/720p",
-            "31": "//kodik.cc/seria/488809/ae616773b2fb603fd85efb4f3f7f6dc6/720p",
-            "32": "//kodik.cc/seria/488810/b4167289a2abeddd2d8cc3da1a86b509/720p",
-            "33": "//kodik.cc/seria/488811/89d2a5fac0318efc5f34d9bf3f32002e/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Эзель",
-        "title_en": "Ezel",
-        "year": 2009,
-        "tagline": "Revenge. That will bring them together.",
-        "description": "Сначала был Омер. Вместе с семьей у него была своя простая жизнь. Он был счастлив. Потом он полюбил девушку. Он собирался жениться на ней, вернувшись из армии. Все было в порядке, так, как и должно быть. Но внезапно Омер оказался в тюрьме за убийство. Привычная жизнь, знакомые люди – все исчезло в мгновение ока. На их место пришел один-единственный вопрос – почему? Он жег его мозг, словно раскаленное клеймо. Его предали, подставили, с ним сыграли страшную игру. \n\rЛюбимая девушка Эйшан, лучший друг Дженгиз и Али, который был ему старшим братом, – все они были как-то замешаны в этом. Омер не мог найти ответы на мучавшие его вопросы, он потерял надежду… До тех пор, пока не познакомился в тюрьме с человеком, изменившим его жизнь. Омер умер в тюрьме, но родился Эзель, человек с другим лицом и другим именем. Он готов отомстить людям, отнявшим у него все, но сначала ему нужно убить внутри себя эту бесконечную, бессмертную, не отпускающую его любовь…",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/497667.jpg",
-        "duration": 90,
-        "countries": [
-          "Турция"
-        ],
-        "genres": [
-          "драма",
-          "криминал",
-          "триллер"
-        ],
-        "kinopoisk_rating": 8.3,
-        "kinopoisk_votes": 833,
-        "imdb_rating": 8.6,
-        "imdb_votes": 26434,
-        "premiere_world": "2009-09-28",
-        "actors": [
-          "Кенан Имирзалыоглу",
-          "Джансу Дере",
-          "Бадэ Ишчил",
-          "Йигит Озшенер",
-          "Барыш Фалай",
-          "Сарп Аккая",
-          "Нархан Озенен",
-          "Тунджел Куртиз",
-          "Бурчин Терзиоглу",
-          "Салих Кэлион"
-        ],
-        "directors": [
-          "Улуч Байрактар"
-        ],
-        "producers": [
-          "Керем Чатай"
-        ],
-        "writers": [
-          "Пынар Булут",
-          "Керем Дерен"
-        ],
-        "composers": [
-          "Тойгар Ышыклы"
-        ],
-        "editors": [
-          "Сердар Чакулар"
-        ],
-        "designers": [
-          "Сельда Чичек",
-          "Айнур Топалак"
-        ],
-        "operators": [
-          "Вейсель Текшахин"
         ]
       }
     }

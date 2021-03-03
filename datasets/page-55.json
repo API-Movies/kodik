@@ -1,6 +1,596 @@
 {
   "results": [
     {
+      "id": "movie-22154",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Телохранитель",
+      "title_orig": "The Bodyguard",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "947599",
+      "imdb_id": "tt4970038",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2016-12-23T07:26:10Z",
+      "updated_at": "2020-10-10T14:41:32Z",
+      "material_data": {
+        "title": "Телохранитель",
+        "title_en": "Chao ji bao biao",
+        "year": 2016,
+        "description": "Улинь встаёт на тёмный путь во имя мести. Он - наследник древнего, некогда могущественного китайского клана «железные ноги». После смерти главы клана Улинь покидает деревню и приезжает в город на поиски брата. Волей случая он становится телохранителем Фэйфэй - девушки из богатой семьи, которую хотят похитить. Улиню приходится применить все свои навыки и продемонстрировать всё свое мастерство, чтобы выйти на того, кто стоит во главе заговора против города.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/947599.jpg",
+        "duration": 93,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "боевик"
+        ],
+        "kinopoisk_rating": 5.8,
+        "kinopoisk_votes": 181,
+        "imdb_rating": 5.6,
+        "imdb_votes": 617,
+        "premiere_world": "2016-04-01",
+        "actors": [
+          "Юэ Сун",
+          "Син Юй",
+          "Майкл Чан",
+          "Колин Чоу",
+          "Цзянь Баочэн",
+          "Chang-Hai Li",
+          "Юйчжэн Ван",
+          "Dongmei Xu",
+          "Ли Юйфэй"
+        ],
+        "directors": [
+          "Юэ Сун"
+        ],
+        "producers": [
+          "Lingchen Kong",
+          "Хэтти Юй"
+        ],
+        "writers": [
+          "Юэ Сун"
+        ]
+      }
+    },
+    {
+      "id": "movie-41614",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Чокнутая",
+      "title_orig": "Re loca",
+      "translation": {
+        "id": 794,
+        "title": "HDrezka Studio",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1092660",
+      "imdb_id": "tt7177720",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-08-29T07:07:44Z",
+      "updated_at": "2020-10-10T14:22:32Z",
+      "material_data": {
+        "title": "Супер крейзи",
+        "title_en": "Re loca",
+        "year": 2018,
+        "tagline": "Пришло время пуститься во все тяжкие",
+        "description": "Устав от привычной жизни, Пилар пускается во все тяжкие: начинает говорить всё, что на самом деле думает, и делать то, о чем давно мечтала. Жизнь вокруг нее встает с ног на голову.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1092660.jpg",
+        "duration": 94,
+        "countries": [
+          "Аргентина"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "kinopoisk_rating": 6.5,
+        "kinopoisk_votes": 4444,
+        "imdb_rating": 6.1,
+        "imdb_votes": 816,
+        "premiere_ru": "2020-09-24",
+        "premiere_world": "2018-07-02",
+        "minimal_age": 16,
+        "actors": [
+          "Наталия Орейро",
+          "Фернан Мирас",
+          "Диего Торрес",
+          "Химена Аккарди",
+          "Пилар Гамбоа",
+          "Уго Арана",
+          "Маго Радагаст",
+          "Малена Санчес",
+          "Валерия Луис",
+          "Диего Перетти"
+        ],
+        "directors": [
+          "Мартино Сайделис"
+        ],
+        "producers": [
+          "Себастьян Алой",
+          "Аксель Кушевацки",
+          "Мигель Асенсио",
+          "Мюриэль Кабеса",
+          "Игнасио Кукукович",
+          "Энди Клейнмен",
+          "Patricio Rabuffetti",
+          "Анхель Сала",
+          "Fernando Stamati",
+          "Матиас Тамборенеа"
+        ],
+        "writers": [
+          "Андрес Алой",
+          "Диего Айала",
+          "Себастьян Де Каро",
+          "Николас Лопес",
+          "Мартино Сайделис"
+        ],
+        "composers": [
+          "Эмилио Каудерер"
+        ],
+        "editors": [
+          "Кристина Карраско",
+          "Мартино Сайделис"
+        ],
+        "operators": [
+          "Лучио Бонелли"
+        ]
+      }
+    },
+    {
+      "id": "serial-12929",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Давайте есть",
+      "title_orig": "Siksyareul habsida",
+      "other_title": "Кушать подано / Давай поужинаем / Время обедать / Let's Eat",
+      "translation": {
+        "id": 639,
+        "title": "SoftBox",
+        "type": "voice"
+      },
+      "year": 2013,
+      "last_season": 3,
+      "last_episode": 14,
+      "episodes_count": 14,
+      "kinopoisk_id": "815207",
+      "imdb_id": "tt3385484",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-07-20T08:47:10Z",
+      "updated_at": "2020-10-10T13:03:28Z",
+      "seasons": {
+        "3": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/342767/4b2d2e70e04cde761d5773dfbd536115/720p",
+            "2": "//kodik.cc/seria/342768/27dfc5f21214ec0c3240cd18a3f2a358/720p",
+            "3": "//kodik.cc/seria/342769/41214b384d402654df91caa55c3c8c4a/720p",
+            "4": "//kodik.cc/seria/342770/ac4cdbdd40f4255c8695122dec5bf90f/720p",
+            "5": "//kodik.cc/seria/342771/02baacd3713296a229eba93c3f5ed724/720p",
+            "6": "//kodik.cc/seria/342772/d523359f0643e8d545044b56cbe619c8/720p",
+            "7": "//kodik.cc/seria/342773/52108299e4a21f4104c8fd87add1e6c0/720p",
+            "8": "//kodik.cc/seria/342774/723ff59bfc6767b1445b59ea100f3cc3/720p",
+            "9": "//kodik.cc/seria/342775/265a5014f6246d4a6719315c22160f0f/720p",
+            "10": "//kodik.cc/seria/342776/4ab396e1dc07e0cd46fae8c090c44363/720p",
+            "11": "//kodik.cc/seria/371290/b9f2e5dba31529c27eabc1b96c95905c/720p",
+            "12": "//kodik.cc/seria/371291/698cd35244d925f2d492d66a7aafe22a/720p",
+            "13": "//kodik.cc/seria/371292/eb2d312c66176aa59db0eef49a23fe36/720p",
+            "14": "//kodik.cc/seria/371293/179e7668113fcf6d505d6e73fced6ca6/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Давайте есть",
+        "title_en": "Siksyareul hapsida",
+        "year": 2013,
+        "description": "История о 33-летней разведенной женщине, которая пытается вести себя достойно во всём, что она делает. Но она мгновенно теряет самообладание, столкнувшись с деликатесами. Женщина встречает шеф-повара, который оказывается её ближайшим соседом.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/815207.jpg",
+        "duration": 60,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "kinopoisk_rating": 7.7,
+        "kinopoisk_votes": 232,
+        "imdb_rating": 7.7,
+        "imdb_votes": 484,
+        "premiere_world": "2013-11-28",
+        "actors": [
+          "Юн Ду-джун",
+          "Ли Су-гён",
+          "Со Хён-джин",
+          "Пэк Чин-хи",
+          "Юн Со-хи",
+          "Щим Хён-тхак",
+          "Чон Су-ён",
+          "Ким Хи-вон",
+          "Квон Юль",
+          "Хван Сок-чон"
+        ],
+        "directors": [
+          "Чхве Гю-щик",
+          "Пак Чун-хва",
+          "Чон Хён-гон"
+        ],
+        "writers": [
+          "Лим Су-ми"
+        ]
+      }
+    },
+    {
+      "id": "serial-23667",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Опасайтесь её",
+      "title_orig": "Danger of Her",
+      "other_title": "Wei xian de ta",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 14,
+      "episodes_count": 14,
+      "imdb_id": "tt12194014",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-03-15T13:24:19Z",
+      "updated_at": "2020-10-10T12:30:11Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/608632/243ab22082a8920231b89fa839f1ca23/720p",
+            "2": "//kodik.cc/seria/608633/0b0d794dc02eac761a0377ef5c8917ab/720p",
+            "3": "//kodik.cc/seria/608634/844138bbf82045654423959de8905da1/720p",
+            "4": "//kodik.cc/seria/608635/66d9daf65f83195ab02c2f4933cea098/720p",
+            "5": "//kodik.cc/seria/609681/82482fcd81b3a5be979e4b18a0d1f1f1/720p",
+            "6": "//kodik.cc/seria/614700/97e96432614ff193477decceed4eb185/720p",
+            "7": "//kodik.cc/seria/622657/ca8e2154c5c0ef5bc1a877e93f441d9e/720p",
+            "8": "//kodik.cc/seria/723560/44ccbfbe7e0cb0bac93a9badee134b8e/720p",
+            "9": "//kodik.cc/seria/723561/13bad1239efc47c6b8b95555191d2854/720p",
+            "10": "//kodik.cc/seria/723562/5067b5362b97a222d61024e83411ff11/720p",
+            "11": "//kodik.cc/seria/723563/6f628fd56ec9548577024ea2ea9a15ab/720p",
+            "12": "//kodik.cc/seria/723564/5e4cfa6d8a141443d647d2699f9f8995/720p",
+            "13": "//kodik.cc/seria/723565/b4fad1d1a4f228b9afc10a5aa3bb11f5/720p",
+            "14": "//kodik.cc/seria/723566/5948c6ace8f13e72de1ba0fc2137b75b/720p"
+          }
+        }
+      }
+    },
+    {
+      "id": "serial-28720",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "НФ8",
+      "title_orig": "SF8",
+      "translation": {
+        "id": 1695,
+        "title": "ФСГ АрхиAsia.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 8,
+      "episodes_count": 8,
+      "kinopoisk_id": "1357356",
+      "imdb_id": "tt12560244",
+      "mdl_id": "58919-sf8-nurse",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-16T16:04:05Z",
+      "updated_at": "2020-10-10T12:27:40Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/705665/73e29509ac3e6c8509adc14300203bb4/720p",
+            "2": "//kodik.cc/seria/709808/5529e066bbd14d9ec98990527df68e18/720p",
+            "3": "//kodik.cc/seria/714504/da90e88f30fff7066d0f898ddaf63493/720p",
+            "4": "//kodik.cc/seria/717548/2af0296255e60e52cc4819ea0ac0a361/720p",
+            "5": "//kodik.cc/seria/718777/9f9155de1aa378aa622f4f7ed4705db0/720p",
+            "6": "//kodik.cc/seria/720847/ba995c6e7d239a3c60830aadda25e2b8/720p",
+            "7": "//kodik.cc/seria/721384/eb249b8390884a2732f7e4280e459f8b/720p",
+            "8": "//kodik.cc/seria/723557/8fb7ad9b7fc2dc401263a1d91838a073/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "НФ8",
+        "title_en": "SF8",
+        "year": 2020,
+        "description": "8 фантастических историй.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1357356.jpg",
+        "duration": 55,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "боевик",
+          "ужасы",
+          "фантастика"
+        ],
+        "imdb_rating": 7.2,
+        "imdb_votes": 70,
+        "premiere_world": "2020-08-14",
+        "actors": [
+          "Ли Ю-ён",
+          "Е Су-джон",
+          "Ём Хе-ран",
+          "Юн Гён-хо",
+          "Чхве Бён-мо",
+          "Мун Сук",
+          "Ли Щи-ён",
+          "Сон Ха-джун",
+          "Ли Джун-хёк",
+          "Ким Бо-ра"
+        ],
+        "directors": [
+          "Ан Гук-чин",
+          "Хан Га-рам",
+          "Чан Чхоль-су",
+          "Ким И-сок",
+          "Ли Юн-джон",
+          "Мин Гю-дон",
+          "О Ги-хван",
+          "Но Док"
+        ],
+        "writers": [
+          "Хан Бун-ве",
+          "Кан Сан",
+          "Кан Сон-джу",
+          "Ким Джи-хи",
+          "Ли Юн-джон",
+          "Мун Джу-хи"
+        ]
+      }
+    },
+    {
+      "id": "serial-29654",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Агрессивная Рэцуко (2019)",
+      "title_orig": "Aggressive Retsuko (2019)",
+      "other_title": "Агрессивная Рэцуко ONA 2",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2019,
+      "last_season": 2,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "1112310",
+      "imdb_id": "tt8019444",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10101",
+      "shikimori_id": "37985",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-10-10T12:26:21Z",
+      "updated_at": "2020-10-10T12:26:21Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/723546/57b76a250e3ea81d2ec6a0c42aa63766/720p",
+            "2": "//aniqit.com/seria/723547/31aeeadbf150079a10ab22b3fe681056/720p",
+            "3": "//aniqit.com/seria/723548/6772f86d7ca4912587f8908cee3fa0b3/720p",
+            "4": "//aniqit.com/seria/723549/83f94e824d1be9ac67ae1cf060e69287/720p",
+            "5": "//aniqit.com/seria/723550/abfc67cbd1a63f050ef045731c0b6a43/720p",
+            "6": "//aniqit.com/seria/723551/983d4133390bef4448aa3d1dd66c34bf/720p",
+            "7": "//aniqit.com/seria/723552/7242870215b2e0effba69877bd1b0f6a/720p",
+            "8": "//aniqit.com/seria/723553/0c5821f473d92b1bce8b708db38b5d5c/720p",
+            "9": "//aniqit.com/seria/723554/bac17311a37507206874159df2eb9398/720p",
+            "10": "//aniqit.com/seria/723555/f3d8c910c6281cf67dd29ee17f579afa/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Агрессивная Рэцуко",
+        "title_en": "Aggretsuko",
+        "other_titles": [
+          "Aggretsuko 2nd Season"
+        ],
+        "other_titles_jp": [
+          "アグレッシブ烈子第2期"
+        ],
+        "anime_license_name": "Агрессивная Рэцуко 2",
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "year": 2018,
+        "description": "Начальник, коллеги — все в офисе пытаются сесть на шею маленькой и скромной красной панде Рэцуко, и тогда ей остается только одна дорога — в караоке. Хорошенько прооравшись под метал, панда находит в себе силы на время смириться с давлением начальства, лицемерием коллег и офисной рутиной.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1112310.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/6183ebc90f009eed69624ef2232d757458aa5adb.jpg",
+          "https://shikimori.one/system/screenshots/original/74263c00e07874e434c49215fdd696438e36c28e.jpg"
+        ],
+        "duration": 15,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Повседневность"
+        ],
+        "anime_studios": [
+          "Fanworks"
+        ],
+        "kinopoisk_rating": 8.1,
+        "kinopoisk_votes": 974,
+        "imdb_rating": 8.1,
+        "imdb_votes": 4860,
+        "shikimori_rating": 7.8,
+        "shikimori_votes": 870,
+        "premiere_world": "2018-04-20",
+        "aired_at": "2019-06-14",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 12,
+        "episodes_total": 10,
+        "episodes_aired": 0,
+        "actors": [
+          "Каорип",
+          "Комэгуми Коивасаки",
+          "Маки Цурута",
+          "Сота Араи",
+          "Синго Като",
+          "Юки Такахаси",
+          "Рарэко",
+          "Рина Иноэ",
+          "Тихару Саса"
+        ],
+        "directors": [
+          "Рарэко"
+        ],
+        "writers": [
+          "Рарэко"
+        ],
+        "composers": [
+          "Мики Сакурай",
+          "Нацуми Табути",
+          "Ханаэ Накамура",
+          "Сатоси Хоно",
+          "Тацухико Саики"
+        ],
+        "editors": [
+          "Ямато Такахаси"
+        ]
+      }
+    },
+    {
+      "id": "movie-61521",
+      "type": "anime",
+      "link": "",
+      "title": "Дворянство: Пробуждение",
+      "title_orig": "Noblesse: Awakening",
+      "other_title": "Архигранд: Пробуждение",
+      "translation": {
+        "id": 873,
+        "title": "AniPLague",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "960401",
+      "imdb_id": "tt5439612",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8656",
+      "shikimori_id": "32668",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-10-10T06:56:47Z",
+      "updated_at": "2020-10-10T06:56:47Z",
+      "material_data": {
+        "title": "Дворянство: Пробуждение",
+        "title_en": "Noblesse: Awakening",
+        "other_titles": [
+          "Noblesse Episode 0"
+        ],
+        "other_titles_jp": [
+          "Noblesse: Awakening"
+        ],
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "year": 2016,
+        "description": "Наши дни. Кадис Этрама Д. Рейзел пробуждается после 820-летнего сна, и в поисках своего верного слуги Франкенштейна оказывается в заведении, называемом школой. Дабы познать новый современный мир он становится её учеником, но мирным будням быстро приходит конец. Неизвестные, называющие себя «Организация» в поисках гроба выходят на школу, и группа учеников, с которыми Рейзел успел наладить отношения, оказывается втянута в сверхъестественные происшествия. Теперь долг обязывает его защитить своих новых друзей от загадочных и опасных врагов.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/960401.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/02aed07491ff777f472c82105596640ae73f4c37.JPG",
+          "https://shikimori.one/system/screenshots/original/70d9285bf94d20d7e0fa4b752ed798235c6bcc78.JPG"
+        ],
+        "duration": 30,
+        "countries": [
+          "Корея Южная",
+          "Япония"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм",
+          "ужасы"
+        ],
+        "anime_genres": [
+          "Вампиры",
+          "Сверхъестественное",
+          "Школа",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Production I.G"
+        ],
+        "kinopoisk_rating": 7.1,
+        "kinopoisk_votes": 756,
+        "imdb_rating": 7.4,
+        "imdb_votes": 331,
+        "shikimori_rating": 7.49,
+        "shikimori_votes": 4585,
+        "premiere_world": "2016-02-04",
+        "aired_at": "2016-02-04",
+        "rating_mpaa": "R",
+        "episodes_total": 1,
+        "episodes_aired": 1,
+        "actors": [
+          "Тасуку Хатанака",
+          "Дайсукэ Хиракава",
+          "Кэнто Ито",
+          "Юити Карасума",
+          "Хитоми Набатамэ",
+          "Такума Нагацука",
+          "Хисахуми Ода",
+          "Тору Окава",
+          "Тарусукэ Сингаки",
+          "Тэруюки Тандзава"
+        ],
+        "directors": [
+          "Кэнъити Мацудзава",
+          "Сюнсукэ Тада"
+        ],
+        "writers": [
+          "Сюн Фукутомэ",
+          "Kwangsu Lee",
+          "Jeho Son"
+        ],
+        "composers": [
+          "Ёсихиро Икэ"
+        ],
+        "editors": [
+          "Дзюнъити Уэмацу"
+        ],
+        "designers": [
+          "Таканори Танака"
+        ],
+        "operators": [
+          "Хисаси Эдзура"
+        ]
+      }
+    },
+    {
       "id": "movie-61520",
       "type": "foreign-movie",
       "link": "",
@@ -2734,10 +3324,10 @@
         "anime_studios": [
           "Studio Colorido"
         ],
-        "kinopoisk_rating": 6.5,
-        "kinopoisk_votes": 138,
+        "kinopoisk_rating": 6.6,
+        "kinopoisk_votes": 145,
         "imdb_rating": 6.8,
-        "imdb_votes": 459,
+        "imdb_votes": 480,
         "shikimori_rating": 7.18,
         "shikimori_votes": 3139,
         "premiere_world": "2020-10-01",
@@ -4913,10 +5503,10 @@
         "anime_studios": [
           "Studio Colorido"
         ],
-        "kinopoisk_rating": 6.5,
-        "kinopoisk_votes": 138,
+        "kinopoisk_rating": 6.6,
+        "kinopoisk_votes": 145,
         "imdb_rating": 6.8,
-        "imdb_votes": 459,
+        "imdb_votes": 480,
         "shikimori_rating": 7.18,
         "shikimori_votes": 3139,
         "premiere_world": "2020-10-01",
@@ -5314,6 +5904,88 @@
         ],
         "operators": [
           "Fábio Faria"
+        ]
+      }
+    },
+    {
+      "id": "serial-32969",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Моя опасная жена",
+      "title_orig": "Naui wiheomhan anae",
+      "translation": {
+        "id": 1494,
+        "title": "Ultradox",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "1392534",
+      "imdb_id": "tt13067258",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-10-06T14:41:39Z",
+      "updated_at": "2020-10-06T14:41:39Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/794436/150ee1b24b9b70e214870e16cfc3e43d/720p",
+            "2": "//kodik.cc/seria/794437/8500252bea6f248330eb16b3f86df2c4/720p",
+            "3": "//kodik.cc/seria/794438/e02ca1dd5669df7070325435c8e2ff1c/720p",
+            "4": "//kodik.cc/seria/794439/cd1a3cb7d9da61594c3e11cca638a05f/720p",
+            "5": "//kodik.cc/seria/794440/023ce09cb7eba056d1f5b182ff6b467c/720p",
+            "6": "//kodik.cc/seria/794441/e577a43fb5d092eea817213e0c396cb9/720p",
+            "7": "//kodik.cc/seria/794442/180ce0e0d0b33b625062955c9d48c141/720p",
+            "8": "//kodik.cc/seria/794443/99d37be588eead9a66f259c15616671d/720p",
+            "9": "//kodik.cc/seria/794444/0000922c33e611390b45a8ad2fb850b4/720p",
+            "10": "//kodik.cc/seria/794445/4cd5ae5c30642441aace67d65953b84d/720p",
+            "11": "//kodik.cc/seria/794446/905460ee0b3e51e25c19bc4141e62aa9/720p",
+            "12": "//kodik.cc/seria/794447/e88584703bb07ca7792ecce393e1ab59/720p",
+            "13": "//kodik.cc/seria/794448/a1703e983138562065d750cc5ed39a39/720p",
+            "14": "//kodik.cc/seria/794449/efe64432cf1687a88ba9be47d9ee487c/720p",
+            "15": "//kodik.cc/seria/794450/11683c01dd59f6671468377396f7ea06/720p",
+            "16": "//kodik.cc/seria/794451/bd576fbd6bd5b9cec592905b28bcc5c0/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Моя опасная жена",
+        "title_en": "Naui wiheomhan anae",
+        "year": 2020,
+        "description": "Обычная домохозяйка Щим Джэ-гён любит мужа и очень счастлива в браке. Её муж, популярный шеф-повар, однако, считает жену скучной и уже устал от этих отношений.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1392534.jpg",
+        "duration": 70,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "драма",
+          "мелодрама",
+          "триллер"
+        ],
+        "premiere_world": "2020-10-05",
+        "actors": [
+          "Ким Джон-ын",
+          "Чхве Вон-ён",
+          "Чхве Ю-хва",
+          "Щим Хе-джин",
+          "Ли Джун-хёк",
+          "Чон Су-ён",
+          "Ан Нэ-сан",
+          "Юн Е-хи",
+          "Юн Джон-сок",
+          "Ким Джа-ён"
+        ],
+        "directors": [
+          "Ли Хён-мин"
+        ],
+        "writers": [
+          "Хван Да-ын"
         ]
       }
     },
@@ -7199,7 +7871,7 @@
         "imdb_rating": 7,
         "imdb_votes": 333,
         "shikimori_rating": 7.57,
-        "shikimori_votes": 4591,
+        "shikimori_votes": 4766,
         "premiere_world": "2020-10-02",
         "aired_at": "2020-10-02",
         "released_at": "2020-12-18",
@@ -8092,686 +8764,6 @@
         ],
         "editors": [
           "Юми Дзингудзи"
-        ]
-      }
-    },
-    {
-      "id": "movie-61331",
-      "type": "anime",
-      "link": "",
-      "title": "Мастера Меча Оффлайн: Порядковый ранг",
-      "title_orig": "Sword Art Online Movie: Ordinal Scale - Sword Art Offline",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2017,
-      "shikimori_id": "36439",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-10-05T05:29:53Z",
-      "updated_at": "2020-10-05T05:31:16Z",
-      "material_data": {
-        "title": "Мастера Меча Оффлайн: Порядковый ранг",
-        "title_en": "Sword Art Online Movie: Ordinal Scale - Sword Art Offline",
-        "other_titles_jp": [
-          "劇場版 ソードアート・オンライン -オーディナル・スケール- おふらいん"
-        ],
-        "anime_kind": "special",
-        "anime_status": "released",
-        "description": "Новый выпуск передачи «Мастера Меча Оффлайн», в которой ведущие Кирито, Асуна и Юи вместе со специальным гостем Юной в комедийной манере обсуждают события фильма «Мастера Меча Онлайн: Порядковый ранг».",
-        "poster_url": "https://shikimori.one/system/animes/original/36439.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/d5556335bc1c31e02d26092f0224c21d1abd03ba.png",
-          "https://shikimori.one/system/screenshots/original/6b466664e1468a705a6cc8ba5bd943c60b3f5dc5.png"
-        ],
-        "anime_genres": [
-          "Комедия"
-        ],
-        "shikimori_rating": 6.89,
-        "shikimori_votes": 2054,
-        "aired_at": "2017-09-27",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 1
-      }
-    },
-    {
-      "id": "serial-28144",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Предназначение любви",
-      "title_orig": "The Destiny of Love",
-      "other_title": "Желание судьбы / Prom Pissawat",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "mdl_id": "34176-prom-pissawat",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-28T17:59:18Z",
-      "updated_at": "2020-10-04T18:09:12Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/694337/a90d63b07a81004b5882ffe439acd668/720p",
-            "2": "//kodik.cc/seria/696717/f7a0568e7cedcd94c9d89be5e80fae97/720p",
-            "3": "//kodik.cc/seria/696718/a99ee10e90bc8c551bb0b2deb308473b/720p",
-            "4": "//kodik.cc/seria/697886/0fdfbc0839bcf7a58b8378af5bffcf39/720p",
-            "5": "//kodik.cc/seria/701067/94a90c99b58bba0b073d0c228ff995fc/720p",
-            "6": "//kodik.cc/seria/703566/99898362a224ffb885ffb5519875bb99/720p",
-            "7": "//kodik.cc/seria/706622/c09dda7857cca596635552f31e58d524/720p",
-            "8": "//kodik.cc/seria/709249/676acc9bb2a5a2fd10edb696f7d3130d/720p",
-            "9": "//kodik.cc/seria/711303/6bd439e3796ecffe1ded3f58b26157c6/720p",
-            "10": "//kodik.cc/seria/715770/3973025753aa622d29ffe66fa02a7b1f/720p",
-            "11": "//kodik.cc/seria/716863/ebcf8ffd5628d76430219de36c64c922/720p",
-            "12": "//kodik.cc/seria/718499/780090184a42f89bfc1e8cea952c3ff4/720p",
-            "13": "//kodik.cc/seria/720604/f74bdfb5716e7479cb694ca7bd0b8ff2/720p",
-            "14": "//kodik.cc/seria/721556/e65e38bf4c1d6f5d58d7ca3ee9519087/720p",
-            "15": "//kodik.cc/seria/721993/877d949e2edb351d1e65fe6f6d256647/720p",
-            "16": "//kodik.cc/seria/722751/658f080513b131412293df0ecf2f87d8/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-27759",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Мистер ошибка",
-      "title_orig": "Bay Yanlıs",
-      "other_title": "Мистер неправильный",
-      "translation": {
-        "id": 850,
-        "title": "AveTurk",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 14,
-      "episodes_count": 14,
-      "kinopoisk_id": "1392666",
-      "imdb_id": "tt12453442",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-13T14:18:30Z",
-      "updated_at": "2020-10-04T17:53:32Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/685408/ddda4a20e28102935684ec32fe0c221c/720p",
-            "2": "//kodik.cc/seria/685409/ebfaf2971f5ca3e5ef6a6121280bc14b/720p",
-            "3": "//kodik.cc/seria/685426/d36e2b83266a99413ee126a369be1efc/720p",
-            "4": "//kodik.cc/seria/689206/4bd314be5b9acc6559a092c6919bcbbf/720p",
-            "5": "//kodik.cc/seria/692745/cd36bf27ebb6ad81830859a5d9bd798e/720p",
-            "6": "//kodik.cc/seria/701840/1fb51f492c655f256fb43b71d2f2e2f2/720p",
-            "7": "//kodik.cc/seria/707245/e0677594f5cfc9d98f2bfb10386d27a3/720p",
-            "8": "//kodik.cc/seria/709240/e2d01272500d4c2a18abf2280c6c15d5/720p",
-            "9": "//kodik.cc/seria/714932/44d9e553ed9098c2d462531246844759/720p",
-            "10": "//kodik.cc/seria/717395/90a8c1d50586e29ed69f3968d2b8a549/720p",
-            "11": "//kodik.cc/seria/718773/2f4cacdefb60ff5bce4a67f062f658b8/720p",
-            "12": "//kodik.cc/seria/720265/9af3bfdf90d6d4499322c98e931ee95c/720p",
-            "13": "//kodik.cc/seria/722745/ffdc9283848dd332ed08f7cb13351439/720p",
-            "14": "//kodik.cc/seria/722746/c2a88ae961206b02cf5968c55cb122a4/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Мистер Ошибка",
-        "title_en": "Bay Yanlış",
-        "year": 2020,
-        "description": "Жизнерадостная Эзги мечтает встретить настоящую любовь, но ей совершенно не везет в отношениях с парнями. Однажды она знакомится с Озгюром -  успешным владельцем бара, который ни к чему не относится серьезно. Узнав о проблемах девушки, он решает помочь ей и становится ее наставником.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1392666.jpg",
-        "countries": [
-          "Турция"
-        ],
-        "genres": [
-          "комедия",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 916,
-        "imdb_rating": 6.7,
-        "imdb_votes": 1905,
-        "premiere_world": "2020-06-26",
-        "actors": [
-          "Джан Яман",
-          "Озге Гюрель",
-          "Гюрген Оз",
-          "Фатма Топташ",
-          "Сарп Джан Кёроглу",
-          "Джемре Гюмели",
-          "Серкай Тютюнджи",
-          "Лале Башар",
-          "Аныл Челик",
-          "Feri Baycu Güler"
-        ],
-        "directors": [
-          "Дениз Иорулмазер"
-        ],
-        "producers": [
-          "Mustafa Haliloglu",
-          "Didem Sakkaf",
-          "Фарук Тургут"
-        ],
-        "writers": [
-          "Бану Зенгин Так",
-          "Аслы Зенгин"
-        ],
-        "composers": [
-          "Cem Öget"
-        ],
-        "editors": [
-          "Догус Онур Карасу",
-          "Ali Kadi",
-          "Selin Eren Sahin",
-          "Седат Карадениз"
-        ],
-        "designers": [
-          "Aylin Rashan Telli",
-          "Aysun Özdemir"
-        ],
-        "operators": [
-          "Тарык Эркан",
-          "Халук Эркан"
-        ]
-      }
-    },
-    {
-      "id": "serial-27520",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Мистер ошибка",
-      "title_orig": "Bay Yanlıs",
-      "other_title": "Мистер неправильный",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 14,
-      "episodes_count": 14,
-      "kinopoisk_id": "1392666",
-      "imdb_id": "tt12453442",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-07T12:31:02Z",
-      "updated_at": "2020-10-04T17:52:56Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/681860/489775c11d5619a642c79229f666edda/720p",
-            "2": "//kodik.cc/seria/685411/e6eed903ad8643fa98df43ecc7512bdc/720p",
-            "3": "//kodik.cc/seria/685429/5d53595c0bea7e73c2a0ce022b712ed7/720p",
-            "4": "//kodik.cc/seria/689984/b66135027216650eb3728c3e44cc5dc0/720p",
-            "5": "//kodik.cc/seria/692619/3bf86d3d0fcf74400afbfaee4b2d046c/720p",
-            "6": "//kodik.cc/seria/701398/bb748e6215cd9879f091f1d8f1d686df/720p",
-            "7": "//kodik.cc/seria/707243/cc716a7817e80770cd7cf7a5f6c5b03e/720p",
-            "8": "//kodik.cc/seria/709252/911fed4cc87442c5d8e9c601c191129f/720p",
-            "9": "//kodik.cc/seria/714933/b6bf3c6a436dc45a4339944574adcf35/720p",
-            "10": "//kodik.cc/seria/717662/a96c9536f5b22f50a332b19563129247/720p",
-            "11": "//kodik.cc/seria/718774/233b940317b81b02b3e86edaab3c65d7/720p",
-            "12": "//kodik.cc/seria/720260/d48e36ce88d2c68c7503d7d118e25a2d/720p",
-            "13": "//kodik.cc/seria/722743/6000de36a656c3e808d7c3728ffd3494/720p",
-            "14": "//kodik.cc/seria/722744/fae0575c7773a6c7740796d37ded15a8/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Мистер Ошибка",
-        "title_en": "Bay Yanlış",
-        "year": 2020,
-        "description": "Жизнерадостная Эзги мечтает встретить настоящую любовь, но ей совершенно не везет в отношениях с парнями. Однажды она знакомится с Озгюром -  успешным владельцем бара, который ни к чему не относится серьезно. Узнав о проблемах девушки, он решает помочь ей и становится ее наставником.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1392666.jpg",
-        "countries": [
-          "Турция"
-        ],
-        "genres": [
-          "комедия",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 916,
-        "imdb_rating": 6.7,
-        "imdb_votes": 1905,
-        "premiere_world": "2020-06-26",
-        "actors": [
-          "Джан Яман",
-          "Озге Гюрель",
-          "Гюрген Оз",
-          "Фатма Топташ",
-          "Сарп Джан Кёроглу",
-          "Джемре Гюмели",
-          "Серкай Тютюнджи",
-          "Лале Башар",
-          "Аныл Челик",
-          "Feri Baycu Güler"
-        ],
-        "directors": [
-          "Дениз Иорулмазер"
-        ],
-        "producers": [
-          "Mustafa Haliloglu",
-          "Didem Sakkaf",
-          "Фарук Тургут"
-        ],
-        "writers": [
-          "Бану Зенгин Так",
-          "Аслы Зенгин"
-        ],
-        "composers": [
-          "Cem Öget"
-        ],
-        "editors": [
-          "Догус Онур Карасу",
-          "Ali Kadi",
-          "Selin Eren Sahin",
-          "Седат Карадениз"
-        ],
-        "designers": [
-          "Aylin Rashan Telli",
-          "Aysun Özdemir"
-        ],
-        "operators": [
-          "Тарык Эркан",
-          "Халук Эркан"
-        ]
-      }
-    },
-    {
-      "id": "serial-27757",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Мистер ошибка",
-      "title_orig": "Bay Yanlıs",
-      "other_title": "Мистер неправильный",
-      "translation": {
-        "id": 589,
-        "title": "Ирина Котова",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 14,
-      "episodes_count": 14,
-      "kinopoisk_id": "1392666",
-      "imdb_id": "tt12453442",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-13T14:16:38Z",
-      "updated_at": "2020-10-04T17:52:16Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/685404/b97d61a6b3a6d4ad4d495897ad28b416/720p",
-            "2": "//kodik.cc/seria/685405/b2e0f9289f06c072e041cdcd3f10dd18/720p",
-            "3": "//kodik.cc/seria/685428/f732e3a4641df16eec3938a58c6c9ecc/720p",
-            "4": "//kodik.cc/seria/690076/780455ba11d7445a9ff5086068aea995/720p",
-            "5": "//kodik.cc/seria/693487/392a07c869acfab4a6151e56855c776e/720p",
-            "6": "//kodik.cc/seria/701931/59ffdbd0f830d57f3694758b6d000d9b/720p",
-            "7": "//kodik.cc/seria/707246/71e03ca99d02fa3233a78455e3b9860a/720p",
-            "8": "//kodik.cc/seria/709262/e0dbaff86f921a2369be86c123dc18c2/720p",
-            "9": "//kodik.cc/seria/714814/75cd92dca6707d92b6fd85d898689d23/720p",
-            "10": "//kodik.cc/seria/717670/994800e80f01002b8a0195af27e352be/720p",
-            "11": "//kodik.cc/seria/719657/b2c9aea49899df9d5b31253c5739f114/720p",
-            "12": "//kodik.cc/seria/722740/9a4a256a53dca5434941830bf109571f/720p",
-            "13": "//kodik.cc/seria/722741/88d15b10470bc9fbf3696e80473c1341/720p",
-            "14": "//kodik.cc/seria/722742/49be7b9b6fe486dad981ea7f03c854f4/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Мистер Ошибка",
-        "title_en": "Bay Yanlış",
-        "year": 2020,
-        "description": "Жизнерадостная Эзги мечтает встретить настоящую любовь, но ей совершенно не везет в отношениях с парнями. Однажды она знакомится с Озгюром -  успешным владельцем бара, который ни к чему не относится серьезно. Узнав о проблемах девушки, он решает помочь ей и становится ее наставником.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1392666.jpg",
-        "countries": [
-          "Турция"
-        ],
-        "genres": [
-          "комедия",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 916,
-        "imdb_rating": 6.7,
-        "imdb_votes": 1905,
-        "premiere_world": "2020-06-26",
-        "actors": [
-          "Джан Яман",
-          "Озге Гюрель",
-          "Гюрген Оз",
-          "Фатма Топташ",
-          "Сарп Джан Кёроглу",
-          "Джемре Гюмели",
-          "Серкай Тютюнджи",
-          "Лале Башар",
-          "Аныл Челик",
-          "Feri Baycu Güler"
-        ],
-        "directors": [
-          "Дениз Иорулмазер"
-        ],
-        "producers": [
-          "Mustafa Haliloglu",
-          "Didem Sakkaf",
-          "Фарук Тургут"
-        ],
-        "writers": [
-          "Бану Зенгин Так",
-          "Аслы Зенгин"
-        ],
-        "composers": [
-          "Cem Öget"
-        ],
-        "editors": [
-          "Догус Онур Карасу",
-          "Ali Kadi",
-          "Selin Eren Sahin",
-          "Седат Карадениз"
-        ],
-        "designers": [
-          "Aylin Rashan Telli",
-          "Aysun Özdemir"
-        ],
-        "operators": [
-          "Тарык Эркан",
-          "Халук Эркан"
-        ]
-      }
-    },
-    {
-      "id": "movie-61324",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Ради лучшей жизни",
-      "title_orig": "Oloture",
-      "translation": {
-        "id": 652,
-        "title": "@MUZOBOZ@",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1239899",
-      "imdb_id": "tt9725830",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-10-04T17:26:45Z",
-      "updated_at": "2020-10-04T17:26:45Z",
-      "material_data": {
-        "title": "Òlòturé",
-        "title_en": "",
-        "year": 2019,
-        "tagline": "Her quest to expose the truth takes her to the verge of no return",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1239899.jpg",
-        "duration": 106,
-        "countries": [
-          "Нигерия"
-        ],
-        "genres": [
-          "драма",
-          "криминал"
-        ],
-        "imdb_rating": 5.4,
-        "imdb_votes": 636,
-        "premiere_world": "2019-10-31",
-        "actors": [
-          "Ada Ameh",
-          "Beverly Osu",
-          "Blossom Chukwujekwu",
-          "Bukola Oladipupo",
-          "Daniel Etim Effiong",
-          "David Jones David",
-          "Emmanuel Ilemobayo",
-          "Eunice Omorogie",
-          "Gregory Ojefua",
-          "Ikechukwu Onunaku"
-        ],
-        "directors": [
-          "Kenneth Gyang"
-        ],
-        "producers": [
-          "Temidayo Abudu",
-          "James Amuta",
-          "Хайди Уйс",
-          "Mo Abudu",
-          "Mary Adeosun",
-          "Омони Оболи",
-          "Nicole Ofoegbu"
-        ],
-        "writers": [
-          "Craig Freimond",
-          "Йинка Огун"
-        ],
-        "composers": [
-          "Kulanen Ikyo"
-        ],
-        "editors": [
-          "Victoria Akujobi"
-        ],
-        "designers": [
-          "Victor Akpan",
-          "Leke Odeyemi Ayomide"
-        ],
-        "operators": [
-          "Idowu Adedapo",
-          "Malcolm McLean"
-        ]
-      }
-    },
-    {
-      "id": "serial-29510",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Медсестра-заклинательница",
-      "title_orig": "Bogeongyosa An Eun-yeong",
-      "other_title": "Школьная медсестра Ан Ын Ён / Инструктор по санитарному просвещению Ан ЫнЁн / Файлы школьной медсестры / Записки школьной медсестры / The School Nurse Files / Bogungyosa Aneunyoung",
-      "translation": {
-        "id": 910,
-        "title": "AniStar",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "1221622",
-      "imdb_id": "tt12879522",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-10-04T15:15:14Z",
-      "updated_at": "2020-10-04T15:15:14Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/722715/95dede74e4ae2104e7e7b93aef91dc7c/720p",
-            "2": "//kodik.cc/seria/722716/55eb4696713d0298435a7be61584e96f/720p",
-            "3": "//kodik.cc/seria/722717/68fca84a3774b42c2f34636f6af77073/720p",
-            "4": "//kodik.cc/seria/722718/d3565d217d40623a2fbac1fca1015139/720p",
-            "5": "//kodik.cc/seria/722719/983e4d2f305b879237e9f2c36c7b2b65/720p",
-            "6": "//kodik.cc/seria/722720/382c8e5747b8178a1da6e42ea5aaa104/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Медсестра-заклинательница",
-        "title_en": "Bogeongyosa An Eun-yeong",
-        "year": 2020,
-        "description": "Ещё с детства Ан Ын-ён имела способность видеть потусторонних существ, призраков и так называемое желе - следы человеческих эмоций и желаний. Уже взрослой женщина работает школьной медсестрой и постоянно чистит коридоры заведения от остатков желе пластиковым светящимся мечом. Однажды Ын-ён замечает, что в школе развелось многовато призрачных медуз. Вместе с обладающим замечательной аурой учителем китайского Хон Ын-пхё, и по совместительству - внуком основателя школы, она спускается в подвал и обнаруживает там засилье потусторонних образований. А чуть дальше - магический камень, закрывающий странную дыру в земле.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1221622.jpg",
-        "duration": 50,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "комедия",
-          "фэнтези"
-        ],
-        "imdb_rating": 6.5,
-        "imdb_votes": 742,
-        "premiere_world": "2020-09-25",
-        "actors": [
-          "Чон Ю-ми",
-          "Нам Джу-хёк",
-          "Мун Со-ри",
-          "Ли Джон-вон",
-          "Ким Джу-рён",
-          "Ли Джу-ён",
-          "Тео Ю",
-          "Ким Дон-хён",
-          "Чхве Джун-ён",
-          "Пак Сэ-джин"
-        ],
-        "directors": [
-          "Ли Гён-ми"
-        ],
-        "writers": [
-          "Чон Сэ-ран"
-        ]
-      }
-    },
-    {
-      "id": "serial-27549",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Формирование извращённой силы",
-      "title_orig": "Dokyuu Hentai HxEros",
-      "other_title": "Супер хирос / Super HxEros",
-      "translation": {
-        "id": 958,
-        "title": "AniRise",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1403501",
-      "imdb_id": "tt12448470",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10272",
-      "shikimori_id": "40623",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-08T08:20:36Z",
-      "updated_at": "2020-10-04T15:07:50Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/682406/b2fe5e0601fd994420de60753120a99d/720p",
-            "2": "//aniqit.com/seria/685910/2be972bcb52340bb27b6e5637aa0ee14/720p",
-            "3": "//aniqit.com/seria/691126/81802cae7469968cc62e385bfdf55928/720p",
-            "4": "//aniqit.com/seria/695292/47ef53966babc89b4ecf612234b08696/720p",
-            "5": "//aniqit.com/seria/702460/62a0b510138cc59f7deea7b71e77b27a/720p",
-            "6": "//aniqit.com/seria/705975/12f91779b0b548e4d5232bc209262043/720p",
-            "7": "//aniqit.com/seria/710272/8a8c50ebcf1c582ac167fc3782866a96/720p",
-            "8": "//aniqit.com/seria/717532/677f73ec868b46d401a0d1725e3725b4/720p",
-            "9": "//aniqit.com/seria/718901/7d2a1bd49afbdbd16119c545a6bc9957/720p",
-            "10": "//aniqit.com/seria/720234/8cb87069d6d40f1110b0c8a6944c021d/720p",
-            "11": "//aniqit.com/seria/721935/a046123575fb3b2c2ec9031a86fa338d/720p",
-            "12": "//aniqit.com/seria/722714/8dee465bbdfc6403cf6dd0273301f4c5/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Dokyuu Hentai HxEros",
-        "title_en": "",
-        "other_titles": [
-          "Супер хирос"
-        ],
-        "other_titles_en": [
-          "SUPER HXEROS"
-        ],
-        "other_titles_jp": [
-          "ド級編隊エグゼロス"
-        ],
-        "anime_license_name": "Горячий отряд HXEROS",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2020,
-        "description": "Человечество медленно, но верно движется к своему концу. И не из-за технологического прогресса, убившего природу, как можно было бы подумать, а из-за монстров, которые поглощают людские эмоции. Однако появляется ключевая фигура — Рэтто Эндзё, ученик старших классов, который обладает силой HxEROS, созданной для борьбы с угрозой.",
-        "poster_url": "https://shikimori.one/system/animes/original/40623.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/248db242d48a4c06140194814c29fe36753c2ec7.jpg",
-          "https://shikimori.one/system/screenshots/original/1ecd129de61790ad175132d6023ea44410c631c9.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "боевик",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Сверхъестественное",
-          "Сёнен",
-          "Школа",
-          "Экшен",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Project No.9"
-        ],
-        "imdb_rating": 5.2,
-        "imdb_votes": 124,
-        "shikimori_rating": 5.74,
-        "shikimori_votes": 1135,
-        "premiere_world": "2020-07-04",
-        "aired_at": "2020-07-04",
-        "released_at": "2020-09-26",
-        "rating_mpaa": "R+",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Аи Какума",
-          "Аи Каяно",
-          "Юуки Кувахара",
-          "Ёсицугу Мацуока",
-          "Саюри Яаги",
-          "Кейт Бристоль",
-          "Эмбер Ли Коннорс",
-          "Стивен Фу",
-          "Meli Grant",
-          "Kyle Igneczi"
-        ],
-        "directors": [
-          "Масато Дзимбо"
-        ],
-        "writers": [
-          "Масато Дзимбо",
-          "Ryoma Kitada"
         ]
       }
     }

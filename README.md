@@ -1,18 +1,18 @@
-# :tv: Movies and TV `33,498` (kodik)
+# :tv: Movies and TV `33,506` (kodik)
 
 <a href="https://API-Movies.github.io"><img src="https://API-Movies.github.io/banner.png?cache"></a>
 
-### :date: 2021-03-02
-- Movies `18,507`
-  - [x] <a href="https://API-Movies.github.io/kodik/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `14,645`
-  - [x] <a href="https://API-Movies.github.io/kodik/movie_imdb_ids.json">IMDb IDs</a> `14,223`
+### :date: 2021-03-03
+- Movies `18,511`
+  - [x] <a href="https://API-Movies.github.io/kodik/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `14,647`
+  - [x] <a href="https://API-Movies.github.io/kodik/movie_imdb_ids.json">IMDb IDs</a> `14,225`
   - [ ] TMDb IDs `0`
   - [x] <a href="https://API-Movies.github.io/kodik/movie_world_art_ids.json">World-Art IDs</a> `1,504`
   - [x] <a href="https://API-Movies.github.io/kodik/movie_shikimori_ids.json">Shikimori IDs</a> `1,151`
   - [x] None IDs `131`
-- TV `14,991`
-  - [x] <a href="https://API-Movies.github.io/kodik/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `5,466`
-  - [x] <a href="https://API-Movies.github.io/kodik/tv_imdb_ids.json">IMDb IDs</a> `5,642`
+- TV `14,995`
+  - [x] <a href="https://API-Movies.github.io/kodik/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `5,467`
+  - [x] <a href="https://API-Movies.github.io/kodik/tv_imdb_ids.json">IMDb IDs</a> `5,643`
   - [ ] TMDb IDs `0`
   - [x] <a href="https://API-Movies.github.io/kodik/tv_world_art_ids.json">World-Art IDs</a> `3,643`
   - [x] <a href="https://API-Movies.github.io/kodik/tv_shikimori_ids.json">Shikimori IDs</a> `2,917`
