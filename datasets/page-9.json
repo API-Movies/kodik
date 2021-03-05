@@ -1,79 +1,1746 @@
 {
   "results": [
     {
-      "id": "serial-32052",
+      "id": "serial-30503",
       "type": "foreign-serial",
       "link": "",
-      "title": "Лунный роман",
-      "title_orig": "Moonlight Romance",
-      "other_title": "Роман под луной / Любовь в лунном свете",
+      "title": "Потерянный в любви",
+      "title_orig": "Gum Hai Kisi Ke Pyaar Mein",
       "translation": {
-        "id": 1656,
-        "title": "ФСГ Алёна Эм.Subtitles",
+        "id": 1566,
+        "title": "FSG STAR PLUS TV.Subtitles",
         "type": "subtitles"
       },
       "year": 2020,
       "last_season": 1,
-      "last_episode": 9,
-      "episodes_count": 9,
-      "kinopoisk_id": "1349509",
-      "imdb_id": "tt11774352",
-      "mdl_id": "54783-moonlight-romance",
+      "last_episode": 111,
+      "episodes_count": 111,
+      "kinopoisk_id": "1445893",
+      "imdb_id": "tt13085534",
       "quality": "HDTVRip 720p",
       "camrip": false,
       "blocked_countries": [],
       "blocked_seasons": {},
-      "created_at": "2021-01-20T18:34:03Z",
-      "updated_at": "2021-02-23T08:48:33Z",
+      "created_at": "2020-12-19T20:00:51Z",
+      "updated_at": "2021-02-23T11:18:46Z",
       "seasons": {
         "1": {
           "link": "",
           "episodes": {
-            "1": "//kodik.cc/seria/772549/cd086ed543da1cb760e134e7bf3fda8d/720p",
-            "2": "//kodik.cc/seria/772550/a7782e411fb94f6b002810e4f6ae5027/720p",
-            "3": "//kodik.cc/seria/772551/65d84e3e760584a13c0bb5eaf76e66a9/720p",
-            "4": "//kodik.cc/seria/773639/cdd514cdd5255e4f74c0011f2120be7f/720p",
-            "5": "//kodik.cc/seria/775244/304ae8023e2993a2ce6584e066587686/720p",
-            "6": "//kodik.cc/seria/777790/4aedbaa078ccbc1fcedd43b6f41b2a28/720p",
-            "7": "//kodik.cc/seria/778881/26f87751b614ede237306250e309dacd/720p",
-            "8": "//kodik.cc/seria/786106/d1112216ab4a6942f65f706b412e30d0/720p",
-            "9": "//kodik.cc/seria/791173/684803f0b6171ca0c6bf2959e613e52b/720p"
+            "1": "//kodik.cc/seria/743511/bf60cf89aaab82bf628dac9525c2b8cc/720p",
+            "2": "//kodik.cc/seria/743512/b24b2bf25188df3d047f3e5fb7956089/720p",
+            "3": "//kodik.cc/seria/743513/17554547c4ad0e9eda513ab061099ff0/720p",
+            "4": "//kodik.cc/seria/743514/2ad78108c78b391ddc49923aad4d3ec0/720p",
+            "5": "//kodik.cc/seria/743515/0ad4d40a1d08319289a7a15445bb629c/720p",
+            "6": "//kodik.cc/seria/743516/0cdd9612feb5bd2c00d34f9922c9903c/720p",
+            "7": "//kodik.cc/seria/743517/2a638b92ccaefcf7c9efbe2a4f8b0870/720p",
+            "8": "//kodik.cc/seria/743518/063fc6721a1364cea099b86712a90b84/720p",
+            "9": "//kodik.cc/seria/743519/de8feec733b665b7961fa840d633f0e8/720p",
+            "10": "//kodik.cc/seria/743520/6b7aa84833610f62068260fb995a4549/720p",
+            "11": "//kodik.cc/seria/743521/0d4736cd5de1e6df3704d2d30e4ef359/720p",
+            "12": "//kodik.cc/seria/743522/b83c923c170a1f29c7206f4ab921be3e/720p",
+            "13": "//kodik.cc/seria/743523/23ee41b73e85ba8f7f27df597317d56f/720p",
+            "14": "//kodik.cc/seria/743524/1014337068bbba3a716f688d89b5106b/720p",
+            "15": "//kodik.cc/seria/743525/b1af68a8cf8ca594000de140438a0ef6/720p",
+            "16": "//kodik.cc/seria/743526/ac51f43654b5771e9430265775994f2d/720p",
+            "17": "//kodik.cc/seria/743527/c931def3bce522c7c4ed43ceb1f8699d/720p",
+            "18": "//kodik.cc/seria/743528/7e2baa3e194d850010fb92fd968a6f24/720p",
+            "19": "//kodik.cc/seria/743529/0beef59187630dca260976c9042d6178/720p",
+            "20": "//kodik.cc/seria/743530/dff2ede1761665531249b4394d84336f/720p",
+            "21": "//kodik.cc/seria/743531/a200f9abd96b6b209ef831ea4b573da9/720p",
+            "22": "//kodik.cc/seria/743532/d2ae80c2a01199dde5cb3ae5acf1eb9c/720p",
+            "23": "//kodik.cc/seria/743533/49994a8191b5931d52b7ee1f1a414689/720p",
+            "24": "//kodik.cc/seria/743534/8fd69383e2313729e77355127e353fbc/720p",
+            "25": "//kodik.cc/seria/743535/181a7fff8bc49df8ec54a7fc7dab0892/720p",
+            "26": "//kodik.cc/seria/743536/af2009f057208ef4bf3d15a997687670/720p",
+            "27": "//kodik.cc/seria/743539/27362dfe7145d1f391da741bc431f047/720p",
+            "28": "//kodik.cc/seria/743540/b763fe1cc500aa9d5a1196928a7bd8ad/720p",
+            "29": "//kodik.cc/seria/743541/9355b38ddb0a0053fc2aba5a3b612b33/720p",
+            "30": "//kodik.cc/seria/743542/c4ad7295fb96b99b1b1dd8fca2f4b252/720p",
+            "31": "//kodik.cc/seria/743543/23087db29ff31caa20fb9149f05c461b/720p",
+            "32": "//kodik.cc/seria/743544/f88d1bd72e0e460ed1221f7f3f28d038/720p",
+            "33": "//kodik.cc/seria/743545/c6074cd292380922cf0a0c8078ee1c49/720p",
+            "34": "//kodik.cc/seria/743546/9c3a4383f832631c32874c75552ef8db/720p",
+            "35": "//kodik.cc/seria/743547/2b350ac14de8cbbc662fdde89659f27b/720p",
+            "36": "//kodik.cc/seria/743548/27321eb4f1501600e4a01e4a97af3e3d/720p",
+            "37": "//kodik.cc/seria/743549/b9c7a598b991c403697dd45127ffc690/720p",
+            "38": "//kodik.cc/seria/743550/f369279bda542e0608b4cd134eef4ed6/720p",
+            "39": "//kodik.cc/seria/743551/5238626c10948a0c44be89ff3200b4b0/720p",
+            "40": "//kodik.cc/seria/743552/bb2245e384bbf1bb189045518b8bcacf/720p",
+            "41": "//kodik.cc/seria/743554/c82730af2f2bcea94705f34d38fc9af0/720p",
+            "42": "//kodik.cc/seria/743556/0d990dc86d9506b4ba70523fb3b2a89a/720p",
+            "43": "//kodik.cc/seria/743557/ebae22dcf5cae7a4c708553bec7d048a/720p",
+            "44": "//kodik.cc/seria/743558/fca4621b1523b6b2831928bb2403bdc0/720p",
+            "45": "//kodik.cc/seria/743559/890d7c2d91ac9bed5e9b71e86ae5911d/720p",
+            "46": "//kodik.cc/seria/743560/ccf86da350bff1e239f5f96a4f7fceb2/720p",
+            "47": "//kodik.cc/seria/743561/09c86ed4d593152e8f4c9a7a92e97fbc/720p",
+            "48": "//kodik.cc/seria/743562/f5bdfc32fea60629e93a38efcce48986/720p",
+            "49": "//kodik.cc/seria/743563/aa8476d1f1e0a4b78f65c19d2e69ce5b/720p",
+            "50": "//kodik.cc/seria/743564/95a4599a2a61de7af431b401a9ac4024/720p",
+            "51": "//kodik.cc/seria/743566/fb8f2579bc23b88105d80a0f34aaf45d/720p",
+            "52": "//kodik.cc/seria/743567/8dde8a1726c7103fe0781f15f6b3153a/720p",
+            "53": "//kodik.cc/seria/743568/4205b0d4c066159acaa3236e558c3bee/720p",
+            "54": "//kodik.cc/seria/743569/e3ccfb9ce45df528a3aa07ca4e2f6226/720p",
+            "55": "//kodik.cc/seria/743570/48c6c8ebe7c145e77b2f56f16d205d74/720p",
+            "56": "//kodik.cc/seria/743571/29c76295adc12d156a4f57aa68dd8804/720p",
+            "57": "//kodik.cc/seria/743658/975666a26ed13431355ebd68f55e8679/720p",
+            "58": "//kodik.cc/seria/756216/4fd061ef2d09644614dabf3e1cb53385/720p",
+            "59": "//kodik.cc/seria/756217/5965c0f5e2236f84336b04c09c47b73d/720p",
+            "60": "//kodik.cc/seria/758070/d4a61b6095c57c6ea19edeba65bdaf6f/720p",
+            "61": "//kodik.cc/seria/758071/a78fa11a4b8ce56a1feb2f3dc98d8cfd/720p",
+            "62": "//kodik.cc/seria/760139/0358184f1486684b2850127d0f55d5b0/720p",
+            "63": "//kodik.cc/seria/760143/ddf43a82f91508eed325cc672a08effb/720p",
+            "64": "//kodik.cc/seria/761278/9eda946108847275aeefa91e3d674d2e/720p",
+            "65": "//kodik.cc/seria/761281/c223f33f0e4fdeb836f6cfb7c044fe0b/720p",
+            "66": "//kodik.cc/seria/761288/4ad35ea31ad841878b4fb1cd1dc35aeb/720p",
+            "67": "//kodik.cc/seria/761289/e02604233d41f818a36dcace6e0bd767/720p",
+            "68": "//kodik.cc/seria/762750/632a8601cc1b75a9ccb0368d13a178b0/720p",
+            "69": "//kodik.cc/seria/762751/8e1db8b9047622380812f2559b3495b3/720p",
+            "70": "//kodik.cc/seria/762769/271d7bbcc84af363ddfb1384691eb870/720p",
+            "71": "//kodik.cc/seria/763185/b17fb5de2a5e75262637c425abbfc8d5/720p",
+            "72": "//kodik.cc/seria/763186/6db189bb79ea3dd32f70328ac75a8060/720p",
+            "73": "//kodik.cc/seria/764244/cd99f2196adbf2552713ec55ca5a9ae7/720p",
+            "74": "//kodik.cc/seria/764245/ed312fd69cd02c4557b0f39bbc6014e5/720p",
+            "75": "//kodik.cc/seria/764246/dcf72e72651e9f06a5f7d4e78d182714/720p",
+            "76": "//kodik.cc/seria/764247/8f9a0048d78314c5c207fcceb40861cb/720p",
+            "77": "//kodik.cc/seria/768619/c6ff239e57d97651e8ec3eb715c36e02/720p",
+            "78": "//kodik.cc/seria/768620/3839afcf6758859125eb0d7f274b4a35/720p",
+            "79": "//kodik.cc/seria/771013/261564075dc8be00e25feb5c78c0c6f8/720p",
+            "80": "//kodik.cc/seria/771014/f5adcddb109d8bf8c6b3752b3796be91/720p",
+            "81": "//kodik.cc/seria/772008/3a6e9c4232226cfd7f510f67a1685e64/720p",
+            "82": "//kodik.cc/seria/773477/9d66556b24c44a926735ca34ff493954/720p",
+            "83": "//kodik.cc/seria/774842/7167372fdb12525908519d9546255506/720p",
+            "84": "//kodik.cc/seria/777328/29394c013332465e261711f559327e40/720p",
+            "85": "//kodik.cc/seria/777329/1f32bc6c33838eca4aa1710295d3d3d4/720p",
+            "86": "//kodik.cc/seria/777331/63d43b68fa17e73f56b91698042a8434/720p",
+            "87": "//kodik.cc/seria/777332/443f27dfae99a720ca618d186cb4e4f5/720p",
+            "88": "//kodik.cc/seria/777333/d3372bf3df6a0d4c6111a74dc60b43e4/720p",
+            "89": "//kodik.cc/seria/779361/cfe2251e03eebd7cb775b7b385e7fbbf/720p",
+            "90": "//kodik.cc/seria/779362/eed002d8d2bc1e6ab22a2734ab623428/720p",
+            "91": "//kodik.cc/seria/779363/0f2de30fbaaf968909db25764da86780/720p",
+            "92": "//kodik.cc/seria/779364/98f5dfe859cacec38e5c6aadc1d516e0/720p",
+            "93": "//kodik.cc/seria/779365/1c086f41d319b0ef76085a159f12a77a/720p",
+            "94": "//kodik.cc/seria/779366/833da323225f5bb459480f8639bfd95c/720p",
+            "95": "//kodik.cc/seria/784447/9692fded7100290f981de77632782273/720p",
+            "96": "//kodik.cc/seria/784448/37ff172af3fcf6e712998035394e7f54/720p",
+            "97": "//kodik.cc/seria/784449/5a968e3dea4b4ae7607f1cd2c029e4e0/720p",
+            "98": "//kodik.cc/seria/784450/2af309ce5e5931a092e824c7562a1611/720p",
+            "99": "//kodik.cc/seria/784451/111c4b982dcfc872168e739bc410c089/720p",
+            "100": "//kodik.cc/seria/784452/53734e1453e8073a8ed72b2d625f16b5/720p",
+            "101": "//kodik.cc/seria/784453/b96a857a953a3f98bb2ab77fb0a0ec82/720p",
+            "102": "//kodik.cc/seria/784454/88c26493997703d46e7d85092b7b8ef7/720p",
+            "103": "//kodik.cc/seria/791232/fc35dd2ccb9c807f653be03ef4310e34/720p",
+            "104": "//kodik.cc/seria/791233/bb647707939f2cb5aadbb183fd7ccc09/720p",
+            "105": "//kodik.cc/seria/791234/12d8fde89ca6a74959468ea98bc92738/720p",
+            "106": "//kodik.cc/seria/791235/a708a3ca71b89e4a7dd8a25dfd717195/720p",
+            "107": "//kodik.cc/seria/791236/2f888e65394395758ab745455b4ce5f8/720p",
+            "108": "//kodik.cc/seria/791237/df293ba31d5b2e82591de1721171adf5/720p",
+            "109": "//kodik.cc/seria/791238/d2664b912a68763731cfdfc6857514c7/720p",
+            "110": "//kodik.cc/seria/791239/9271851e2b20c0222940c549574d9539/720p",
+            "111": "//kodik.cc/seria/791240/a40f46fd601ab6cbf438d39362db50e0/720p"
           }
         }
       },
       "material_data": {
-        "title": "Moonlight Romance",
+        "title": "Gum Hai Kisi Ke Pyaar Mein",
         "title_en": "",
         "year": 2020,
+        "duration": 20,
         "countries": [
-          "Тайвань"
+          "Индия"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "premiere_world": "2020-10-05",
+        "actors": [
+          "Neil Bhatt",
+          "Aishwarya Sharma",
+          "Ayesha Singh",
+          "Siddharth Bodke",
+          "Санджай Нарвекар",
+          "Ёгендра Викрам Сингх",
+          "Шайлеш Датар",
+          "Bharati Patil",
+          "Панкадж Вишну",
+          "Ганеш Ядав"
+        ],
+        "directors": [
+          "Jaydeep Sen"
+        ],
+        "producers": [
+          "Раджеш Рэм Сингх",
+          "Прадип Кумар",
+          "Shaika Parween",
+          "Piya Vajpayee"
+        ],
+        "writers": [
+          "Раджеш Чавла"
+        ]
+      }
+    },
+    {
+      "id": "serial-30529",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Имли",
+      "title_orig": "Imlie",
+      "translation": {
+        "id": 1566,
+        "title": "FSG STAR PLUS TV.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 76,
+      "episodes_count": 76,
+      "imdb_id": "tt13364380",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-12-21T15:20:08Z",
+      "updated_at": "2021-02-23T11:16:13Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/744300/7b2491d04bb7e0b446b4bedb5b00d8f0/720p",
+            "2": "//kodik.cc/seria/744395/0da44a43071b03688d6705e204ff16f0/720p",
+            "3": "//kodik.cc/seria/744396/c1989197d55c8b1948dfd1fcba663cc3/720p",
+            "4": "//kodik.cc/seria/744397/92609d4c7f916b216c891b2e98d69e07/720p",
+            "5": "//kodik.cc/seria/744398/820e44764f4ef44d918e38fc4ac53a2a/720p",
+            "6": "//kodik.cc/seria/744399/46d105352c46117ce12037476c798518/720p",
+            "7": "//kodik.cc/seria/744400/33f6220ae697f02c2ed2385e4b2ea7d8/720p",
+            "8": "//kodik.cc/seria/744401/ca4ae9f7f890946f02ac0e59e19e7d13/720p",
+            "9": "//kodik.cc/seria/744402/9dfe53992b10edef66d8405128ec1360/720p",
+            "10": "//kodik.cc/seria/744403/be7e6f93ac2c99b06adc6073ead0f06b/720p",
+            "11": "//kodik.cc/seria/744404/0ae6ddb1ce1347dd5ba136723a53b3c6/720p",
+            "12": "//kodik.cc/seria/744418/e2962bb7df24dba5a1d12597430301cd/720p",
+            "13": "//kodik.cc/seria/744419/1a8836e3aa7f3f1dae7fee2720ff3c11/720p",
+            "14": "//kodik.cc/seria/744420/33e43632eeaaedbfb19216de00901aee/720p",
+            "15": "//kodik.cc/seria/744421/e0d05c8e8b794e55760d2aa5260fd071/720p",
+            "16": "//kodik.cc/seria/744422/7bece24b58478943d68e0aceb1fc64f7/720p",
+            "17": "//kodik.cc/seria/744423/9d36f72f1299a093b3fcee86815e1a1e/720p",
+            "18": "//kodik.cc/seria/744424/ac21bf9e25f8a745dab47a7db7ecc32c/720p",
+            "19": "//kodik.cc/seria/744425/7047ada70b066c3e7e43a6d85fa78b06/720p",
+            "20": "//kodik.cc/seria/744426/870b6f0267a2ff0646d80c99111ca9e7/720p",
+            "21": "//kodik.cc/seria/744427/a5940cd82c3ce51af978ed512181d3b6/720p",
+            "22": "//kodik.cc/seria/744428/7e6f45518c1f7ed9ca2c0b7060ca0740/720p",
+            "23": "//kodik.cc/seria/744429/1a7f1faa2e17ae48ea2ed4455ce8cc1c/720p",
+            "24": "//kodik.cc/seria/744430/f2ceafaaa4f3ff1ec38ac0e0f3b60d13/720p",
+            "25": "//kodik.cc/seria/744431/73709bb121c4a38688aa8a64ae414dd2/720p",
+            "26": "//kodik.cc/seria/744432/52fe4d2d2faebde90394460788f79713/720p",
+            "27": "//kodik.cc/seria/744433/26c585a2ce4896adffbba40c03d06896/720p",
+            "28": "//kodik.cc/seria/744434/c2f33a6bbd6849a6119c05330ab73c3a/720p",
+            "29": "//kodik.cc/seria/744593/68da3aa6657bc4041ae7989e7bd1c9d8/720p",
+            "30": "//kodik.cc/seria/744662/b0a6d452312a87f507a1f5d9606d4297/720p",
+            "31": "//kodik.cc/seria/753638/f40c7b63a0fddb8963af2d15ab576e56/720p",
+            "32": "//kodik.cc/seria/754126/0f32adb489ba46a14d8ce48f77b94519/720p",
+            "33": "//kodik.cc/seria/754127/584d09a4df87b61312d52bef748fec9b/720p",
+            "34": "//kodik.cc/seria/758206/0d6fae97952f4a1ca6ea54dbdaf31495/720p",
+            "35": "//kodik.cc/seria/759420/a9ca31472907f919b907f13ec8e6b3f6/720p",
+            "36": "//kodik.cc/seria/759421/4e0ffb78f10298f82f7cb46f154aa7fe/720p",
+            "37": "//kodik.cc/seria/759422/7ca0677e8b67636f1fde5e25f60ae7d1/720p",
+            "38": "//kodik.cc/seria/760140/790b9a3ac0265eb0d854dfcbb761c951/720p",
+            "39": "//kodik.cc/seria/760141/9a02364a6003bd9a0d734ac6cc3c5723/720p",
+            "40": "//kodik.cc/seria/760142/2aad0de2642a2fed37ff66c66178dcdc/720p",
+            "41": "//kodik.cc/seria/761354/f15f09d3ab12ba4148777b6d0a007342/720p",
+            "42": "//kodik.cc/seria/761355/46333cd70fb15dcfc1cbf6baa52a0b73/720p",
+            "43": "//kodik.cc/seria/763211/5927271e922a406439d715e1b0a5e7ac/720p",
+            "44": "//kodik.cc/seria/764905/073cfc6eeae985b4ac79e4ce18379df6/720p",
+            "45": "//kodik.cc/seria/765688/d298285182a5b911bad3f3c45ce04e25/720p",
+            "46": "//kodik.cc/seria/768621/15ce23b4d1fe0946abc741e896d8623f/720p",
+            "47": "//kodik.cc/seria/771007/067947d1d9a46a36eb95502ff3e9634e/720p",
+            "48": "//kodik.cc/seria/771008/112904157013dd00622814d97d19f229/720p",
+            "49": "//kodik.cc/seria/771009/5e5fac14d24493498c5484d96ca733bb/720p",
+            "50": "//kodik.cc/seria/771800/75a4cc4afccbe2cb8f77383f0b63cc0f/720p",
+            "51": "//kodik.cc/seria/772985/44887a523fb0cc8f5556140de6b19727/720p",
+            "52": "//kodik.cc/seria/773474/07874c5424ca208413b9ade04e94716b/720p",
+            "53": "//kodik.cc/seria/773475/5498f40413ab45246cd423701ecfd06c/720p",
+            "54": "//kodik.cc/seria/773476/d45627c8b320370f72d80a0a1ed52985/720p",
+            "55": "//kodik.cc/seria/774833/f462f9e985124d71fca0841f7bb22a7d/720p",
+            "56": "//kodik.cc/seria/774834/d4d3adfab887e0f0f4c8cd520e3659ac/720p",
+            "57": "//kodik.cc/seria/774835/00ebb3e1d98aeaa2fa27f82e61e6b45c/720p",
+            "58": "//kodik.cc/seria/775749/abeb12c60897f78c7179735cf4622355/720p",
+            "59": "//kodik.cc/seria/776384/4626388e7122f83b133532ea163afbc5/720p",
+            "60": "//kodik.cc/seria/777305/9552586ca2fa5e81e655aa3e2097fdb4/720p",
+            "61": "//kodik.cc/seria/777314/302277ddfcbb556908ee00f76b0549fa/720p",
+            "62": "//kodik.cc/seria/777927/036a7271c2140c6d6fa270b8af26475d/720p",
+            "63": "//kodik.cc/seria/777928/f55da569b14885f6fc9aa5c84164a43e/720p",
+            "64": "//kodik.cc/seria/778437/630c53db773bd487d12a52a6008099f0/720p",
+            "65": "//kodik.cc/seria/779379/20d839359e5f264a92944b7f86feae65/720p",
+            "66": "//kodik.cc/seria/781845/43ae7cf044f93a92158288b8ee6b525c/720p",
+            "67": "//kodik.cc/seria/781846/a86f63ee411079a14fa102d112f05996/720p",
+            "68": "//kodik.cc/seria/784431/fd4f4cc931d0d366eb3b47894a777181/720p",
+            "69": "//kodik.cc/seria/784432/a00b95e470406fa1f39da2e5a7a02a8f/720p",
+            "70": "//kodik.cc/seria/784433/d336afe945e1296c6a2872e26c035165/720p",
+            "71": "//kodik.cc/seria/784434/6429cb1e144f4a92acf43d85ead08a80/720p",
+            "72": "//kodik.cc/seria/791226/87b6016f118f353b69ffcd8590f795f7/720p",
+            "73": "//kodik.cc/seria/791227/64c33b4fb85826b4002e2fc3e473354c/720p",
+            "74": "//kodik.cc/seria/791228/5a919d0292d6a226a7075f25978588ee/720p",
+            "75": "//kodik.cc/seria/791229/8ffcdd9fe0d1272ffd091b8fcb07fe04/720p",
+            "76": "//kodik.cc/seria/791230/845a56ec227d825be55e49be827dc228/720p"
+          }
+        }
+      }
+    },
+    {
+      "id": "serial-13324",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Привет, меня зовут Саори",
+      "title_orig": "Hi! I'm Saori",
+      "other_title": "Привет, я Саори / Моя гувернантка-робот / My Al Nanny",
+      "translation": {
+        "id": 1332,
+        "title": "FSG Be Mine.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 34,
+      "episodes_count": 34,
+      "kinopoisk_id": "1254915",
+      "imdb_id": "tt9318798",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-11-19T08:40:53Z",
+      "updated_at": "2021-02-23T11:15:47Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/354387/936479551154467a4a9859dabbc9e231/720p",
+            "2": "//kodik.cc/seria/354388/d1cf6c187f2d863b84484ea647bde805/720p",
+            "3": "//kodik.cc/seria/365473/5a9f91abab4ddfaa03dfe86e4374ed25/720p",
+            "4": "//kodik.cc/seria/370103/7fa619fa5c1b09edc3d2c9af92e0a8bb/720p",
+            "5": "//kodik.cc/seria/383515/24f29dfea6594514835c6f9c4bdf5f55/720p",
+            "6": "//kodik.cc/seria/390120/49b79706ee190eb1d9df1d11e9e55d8b/720p",
+            "7": "//kodik.cc/seria/408084/fef9ea97ed4f6142f4dda6a4b796fea1/720p",
+            "8": "//kodik.cc/seria/421737/c5229ea428d0b853d75531936cf27bce/720p",
+            "9": "//kodik.cc/seria/439511/eec7cbc8ad4f48822aa13b5cacb73837/720p",
+            "10": "//kodik.cc/seria/600399/886916685998e8583652fa6b392c905e/720p",
+            "11": "//kodik.cc/seria/623855/f51d3036d60c31b853381abad30b870b/720p",
+            "12": "//kodik.cc/seria/630202/b07debc94dfe196417793dfc23e5e5a0/720p",
+            "13": "//kodik.cc/seria/634783/e5fedb3844d503851f00d380bb581c4d/720p",
+            "14": "//kodik.cc/seria/641313/9823b6afea51602a9b83980101b07d8f/720p",
+            "15": "//kodik.cc/seria/654354/16bae62e66b51555186b93df01dfc843/720p",
+            "16": "//kodik.cc/seria/661890/763579929854f4d205a8ab5f15a5e3f3/720p",
+            "17": "//kodik.cc/seria/670634/f7ee418448a0b69b9e29fef766df9d28/720p",
+            "18": "//kodik.cc/seria/676967/64bcfb12a6d54bbed72b31784784f283/720p",
+            "19": "//kodik.cc/seria/679055/4f560238f46d00908af54e4a7dbe4406/720p",
+            "20": "//kodik.cc/seria/680426/e89dde1dffa372b6ecf7b492b01a3041/720p",
+            "21": "//kodik.cc/seria/685126/9b8f50982c7c896b5ccd6c8709b40a99/720p",
+            "22": "//kodik.cc/seria/692311/9a97f18a4236fa7cb039c6e6a2d11100/720p",
+            "23": "//kodik.cc/seria/698496/8e026753c4af1e0aaf6118dbc7a2e16a/720p",
+            "24": "//kodik.cc/seria/704242/9ef8cc2046d4b04960f93b9954c165e4/720p",
+            "25": "//kodik.cc/seria/718259/07d3e153fcc128c4f7d9f51d18fdc444/720p",
+            "26": "//kodik.cc/seria/725756/caca3aa2dbcd4d3abc0c13caad899ca6/720p",
+            "27": "//kodik.cc/seria/743803/dc9bb4f317b1a0de5ad26cbf169d6a4a/720p",
+            "28": "//kodik.cc/seria/760703/d80344782e2d5aa70bbf8278a72b2f80/720p",
+            "29": "//kodik.cc/seria/760877/c63d1c9727ee3ed42c061c36cf03b777/720p",
+            "30": "//kodik.cc/seria/761309/67655d81c748a4d74216418cb2de7c34/720p",
+            "31": "//kodik.cc/seria/774912/2fb44c8ccc86bf86ac61d509ef378b9a/720p",
+            "32": "//kodik.cc/seria/778170/6d3f94638300bf659340ae31e76936e4/720p",
+            "33": "//kodik.cc/seria/781478/f1d0bd717bd3cea20153cff88e5d579d/720p",
+            "34": "//kodik.cc/seria/791225/afe5482bd3094800971e47fc6a71dafd/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Hi, I'm Saori",
+        "title_en": "",
+        "year": 2018,
+        "countries": [
+          "Китай"
+        ],
+        "premiere_world": "2018-11-12",
+        "actors": [
+          "Чжэн Шуан"
+        ]
+      }
+    },
+    {
+      "id": "serial-32409",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Другая звезда",
+      "title_orig": "Separate Stars",
+      "other_title": "Звёздный круг / Dao Kon La Duang",
+      "translation": {
+        "id": 1557,
+        "title": "FSG Thai Miracle.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2021,
+      "last_season": 1,
+      "last_episode": 3,
+      "episodes_count": 3,
+      "mdl_id": "38611-dao-kon-la-duang",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-02-04T12:28:57Z",
+      "updated_at": "2021-02-23T11:15:03Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/780167/85d86d0f87f19bee93af447db33d82c1/720p",
+            "2": "//kodik.cc/seria/780168/185710e7878d82cc2739148ff4fff268/720p",
+            "3": "//kodik.cc/seria/791222/0f071ec4451379c64cb1e03a7e61c57c/720p"
+          }
+        }
+      }
+    },
+    {
+      "id": "serial-30124",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Мяу, исполняющая мечты",
+      "title_orig": "Mewkledreamy",
+      "other_title": "ミュークルドリーミー",
+      "translation": {
+        "id": 910,
+        "title": "AniStar",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 36,
+      "episodes_count": 36,
+      "imdb_id": "tt12213092",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10198",
+      "shikimori_id": "40327",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-11-17T13:10:22Z",
+      "updated_at": "2021-02-23T09:54:28Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/733808/3773aa51be797dae8724fccd4fe83c9f/720p",
+            "2": "//aniqit.com/seria/733809/2452f76c054e320b2d1da339429d1952/720p",
+            "3": "//aniqit.com/seria/733810/3835f7af2ec023d783cadedb8f781823/720p",
+            "4": "//aniqit.com/seria/733811/f3d12d5cab3a72f7f64359f307d405f0/720p",
+            "5": "//aniqit.com/seria/733812/8338b5499aeaa9cbbb25084f66729e88/720p",
+            "6": "//aniqit.com/seria/733813/e0554a13f29e174fa6f8b9cd6b45f510/720p",
+            "7": "//aniqit.com/seria/733814/f963857f296d8d02ff1ae42899fd6869/720p",
+            "8": "//aniqit.com/seria/733815/6df9f7d4ebb741af556c1c7b0e57ae93/720p",
+            "9": "//aniqit.com/seria/733816/bfc43331ea2e2224741808c6a8858cd0/720p",
+            "10": "//aniqit.com/seria/733817/0917046918a80f11554643e4eebc106d/720p",
+            "11": "//aniqit.com/seria/733818/9e77bea2b82f55515b3dd64161998f4f/720p",
+            "12": "//aniqit.com/seria/733819/f9a684e2b5e65fa60b48072d76e6fded/720p",
+            "13": "//aniqit.com/seria/733820/3337138094b58586c1a88d4130079297/720p",
+            "14": "//aniqit.com/seria/733821/d7c1929cb100b49441655eeda28b9045/720p",
+            "15": "//aniqit.com/seria/733822/24d0d49846a547fa360b240b25f389d5/720p",
+            "16": "//aniqit.com/seria/733823/9ff5ea32b4b7c438e1cda9c5788ddf91/720p",
+            "17": "//aniqit.com/seria/733824/023dd06f239e3c443649096942fb263a/720p",
+            "18": "//aniqit.com/seria/733825/0b19fadeb8aee4a1e32528901a81e14a/720p",
+            "19": "//aniqit.com/seria/733826/1852d8412cffed479ecd81b4e0915e0b/720p",
+            "20": "//aniqit.com/seria/733827/1fd87302cad540474204cdd4a9f0fe42/720p",
+            "21": "//aniqit.com/seria/733828/5e9c1cdfb9cf1eaa27d36fde172fd444/720p",
+            "22": "//aniqit.com/seria/733829/410cb8fd06685aa3a90ede6ae1343d84/720p",
+            "23": "//aniqit.com/seria/733830/a6ef76aab7b7c1432191167095702c21/720p",
+            "24": "//aniqit.com/seria/733831/2532c55a5a1cfd8d28419be7b17a2cba/720p",
+            "25": "//aniqit.com/seria/733832/b7a9a946e256ca6fa5e6adb03ccdcc20/720p",
+            "26": "//aniqit.com/seria/742048/1c0798372503e2416aef11fe5575b14f/720p",
+            "27": "//aniqit.com/seria/742052/f3ce2e82d15b9e9895db305b5ff07089/720p",
+            "28": "//aniqit.com/seria/742059/aabc457dabe093654ad3d869ac810d33/720p",
+            "29": "//aniqit.com/seria/756548/b64cc5d4f0e0b46118f9223c81b71e63/720p",
+            "30": "//aniqit.com/seria/762499/146c5373bc141eb7cb2e14b38414e4c0/720p",
+            "31": "//aniqit.com/seria/771468/f3b206359f3c93a9154e2675056b52dd/720p",
+            "32": "//aniqit.com/seria/771469/707dab7639c611f5137444c6663345b7/720p",
+            "33": "//aniqit.com/seria/777422/53bba25ad661826077342367b9948e49/720p",
+            "34": "//aniqit.com/seria/785760/ad6459917c3db36f736da1540968a71a/720p",
+            "35": "//aniqit.com/seria/785761/131d43075613b322d58b27e3c0e4d62f/720p",
+            "36": "//aniqit.com/seria/791188/89579278e89269763b54527e9276da3c/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Мяу, исполняющая мечты",
+        "title_en": "Mewkledreamy",
+        "other_titles_jp": [
+          "ミュークルドリーミー"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "ongoing",
+        "description": "В один прекрасный день на ученицу старшей школы Юмэ Хинату с неба падает нечто странное. Как оказалось, это был фиолетовый котёнок по имени Мью, который, к тому же, обладает необычной силой. Эта сила позволяет проникать в чужие сны, что в последствии и будут делать герои дабы собрать «Камни снов».",
+        "poster_url": "https://shikimori.one/system/animes/original/40327.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/58bcf2febb6bf91e3c81a310a9ed1558924a5773.jpg",
+          "https://shikimori.one/system/screenshots/original/6b9b71d75e55df3580ab8a9e2471a91797c46a02.jpg"
+        ],
+        "anime_genres": [
+          "Детское",
+          "Приключения",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "J.C.Staff"
+        ],
+        "shikimori_rating": 6.51,
+        "shikimori_votes": 52,
+        "aired_at": "2020-04-05",
+        "rating_mpaa": "G",
+        "episodes_total": 0,
+        "episodes_aired": 43
+      }
+    },
+    {
+      "id": "movie-68383",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Гибель 31-го отдела",
+      "title_orig": "31. osakonna hukk",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 1980,
+      "kinopoisk_id": "279558",
+      "imdb_id": "tt0193191",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-02-23T09:12:36Z",
+      "updated_at": "2021-02-23T09:12:36Z",
+      "material_data": {
+        "title": "Гибель 31-го отдела",
+        "title_en": "",
+        "year": 1980,
+        "description": "Руководство пресс-концерна получает анонимное письмо с угрозой взорвать Дом Прессы. Инспектор Иенсен, расследующий это дело, неожиданно узнает о существовании нигде не упоминаемого, строго засекреченного 31-го отдела концерна...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/279558.jpg",
+        "duration": 134,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "криминал"
+        ],
+        "kinopoisk_rating": 6.1,
+        "kinopoisk_votes": 167,
+        "imdb_rating": 5.8,
+        "imdb_votes": 27,
+        "premiere_world": "1981-06-13",
+        "minimal_age": 16,
+        "actors": [
+          "Лембит Ульфсак",
+          "Иван Краско",
+          "Энн Клоорен",
+          "Омар Волмер",
+          "Хейно Мандри",
+          "Аго Роо",
+          "Маргус Туулинг",
+          "Эйно Баскин",
+          "Ян Руус",
+          "Аарне Юкскюла"
+        ],
+        "directors": [
+          "Пеэтер Урбла"
+        ],
+        "writers": [
+          "Пеэтер Урбла",
+          "Пер Валё"
+        ],
+        "composers": [
+          "Рейн Раннап"
+        ],
+        "editors": [
+          "Марью Юхкум"
+        ],
+        "designers": [
+          "Андо Кесккюла",
+          "Элла Руисо",
+          "Меелис Вулп"
+        ],
+        "operators": [
+          "Валерий Блинов"
+        ]
+      }
+    },
+    {
+      "id": "movie-68384",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Месяц август",
+      "title_orig": "Mesyats avgust",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1972,
+      "kinopoisk_id": "474544",
+      "imdb_id": "tt3238494",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-02-23T09:11:31Z",
+      "updated_at": "2021-02-23T09:11:31Z",
+      "material_data": {
+        "title": "Месяц август",
+        "title_en": "",
+        "year": 1971,
+        "description": "Поездив по стране, Алексей Крашенинников задержался в городе - на работе обещали квартиру. Но пришло письмо о том, что заболели старики. Алексей поехал вместе с семьёй на родину и после похорон отца решил не возвращаться в город...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/474544.jpg",
+        "duration": 68,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 7.3,
+        "imdb_votes": 6,
+        "premiere_world": "1972-05-29",
+        "minimal_age": 12,
+        "actors": [
+          "Ия Саввина",
+          "Сергей Шакуров",
+          "Александр Плотников",
+          "Вера Кузнецова",
+          "Станислав Чуркин",
+          "Любовь Соколова",
+          "Елизавета Никищихина",
+          "Галя Курдюмова",
+          "Алексей Сироткин",
+          "Александр Блинов"
+        ],
+        "directors": [
+          "Вадим Михайлов"
+        ],
+        "writers": [
+          "Альбина Шульгина"
+        ],
+        "composers": [
+          "Валерий Гаврилин"
+        ],
+        "designers": [
+          "Владимир Гасилов"
+        ],
+        "operators": [
+          "Вячеслав Фастович"
+        ]
+      }
+    },
+    {
+      "id": "movie-68385",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Моя ошибка",
+      "title_orig": "Моя ошибка",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1957,
+      "kinopoisk_id": "994084",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-02-23T09:10:50Z",
+      "updated_at": "2021-02-23T09:10:50Z",
+      "material_data": {
+        "title": "Моя ошибка",
+        "title_en": "",
+        "year": 1957,
+        "description": "Красавица Гулиджан и счетовод колхоза Айдар любят друг друга. Но отец девушки хочет видеть зятем Мусу. Девушка заявляет, что выйдет за того, кто первым придет на скачках к финишу...",
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "actors": [
+          "Муратбек Рыскулов",
+          "Мира Далбаева",
+          "Кадыр Жолдошев",
+          "С. Токтобекова",
+          "Садыкбек Джаманов",
+          "Шамши Тюменбаев",
+          "Медел Маниязов"
+        ],
+        "directors": [
+          "Иван Кобозев"
+        ],
+        "writers": [
+          "Аалы Токомбаев",
+          "Михаил Аксаков"
+        ],
+        "composers": [
+          "Александр Зацепин"
+        ],
+        "designers": [
+          "Артем Андриасян"
+        ],
+        "operators": [
+          "Юрий Шведов"
+        ]
+      }
+    },
+    {
+      "id": "serial-29227",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Владыка духовного меча 4",
+      "title_orig": "Ling Jian Zun 4th Season",
+      "other_title": "Spirit Sword Sovereign / Spirit Sword Sovereign 4th Season",
+      "translation": {
+        "id": 1043,
+        "title": "Animy",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 4,
+      "last_episode": 52,
+      "episodes_count": 52,
+      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=90798",
+      "shikimori_id": "41884",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-09-08T19:20:51Z",
+      "updated_at": "2021-02-23T09:08:57Z",
+      "seasons": {
+        "4": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/717985/df70f2c08dda0ef921a1140ceb64cfa7/720p",
+            "2": "//aniqit.com/seria/717987/8ea2f2026b7bbe6303c91bc6cf8d723f/720p",
+            "3": "//aniqit.com/seria/718133/1a1a69c9c2e8c45285cd40098baa7d2d/720p",
+            "4": "//aniqit.com/seria/718134/084a07c36b3914ff4f76b367d8077779/720p",
+            "5": "//aniqit.com/seria/718301/f110f33d38411306a6132e73f10a794d/720p",
+            "6": "//aniqit.com/seria/719320/9343cf800acac454df00031541744a64/720p",
+            "7": "//aniqit.com/seria/719975/667870d0f4724923f5307dff7d09654c/720p",
+            "8": "//aniqit.com/seria/720866/2d29bff53885ebf9000e86a98c63fe89/720p",
+            "9": "//aniqit.com/seria/721439/4b6b19b62cc6b427dc242e8fc13f0382/720p",
+            "10": "//aniqit.com/seria/721897/b7498c8e05247a86ee6fe4eb4e1a9b59/720p",
+            "11": "//aniqit.com/seria/722322/f6ec0837cca19edb20b8723055f4d7dd/720p",
+            "12": "//aniqit.com/seria/723065/7a896616905237822e959c8a32dbfcfc/720p",
+            "13": "//aniqit.com/seria/723495/df9e9bc6106dd5e64fbf0ebcddff03d5/720p",
+            "14": "//aniqit.com/seria/724421/93d4812f4f2b56ef9dbe519deed8d702/720p",
+            "15": "//aniqit.com/seria/725798/0903abdca92f1f2791fcb4da94daa28c/720p",
+            "16": "//aniqit.com/seria/726804/b6250335e0991f57d9a0cbb9c8db0666/720p",
+            "17": "//aniqit.com/seria/728434/913ad81e6c091febdca1870e23dfa2f9/720p",
+            "18": "//aniqit.com/seria/728439/cd5ed4fa949ab98f6122eb1981f93e45/720p",
+            "19": "//aniqit.com/seria/729189/2d306c33fb3805fde77ed2420061080c/720p",
+            "20": "//aniqit.com/seria/730795/8e23fb3c8df685c0c44a4af5166de382/720p",
+            "21": "//aniqit.com/seria/731292/c5e7b8ebd5d454a44ef68e20052c00f0/720p",
+            "22": "//aniqit.com/seria/732147/c99379cc964a25c3c6207c264c777b35/720p",
+            "23": "//aniqit.com/seria/732977/01997d0d4b7de1eb8a9b9239cc039a6e/720p",
+            "24": "//aniqit.com/seria/733857/bace4a4c766e23a124495a23e253f3a6/720p",
+            "25": "//aniqit.com/seria/734911/872b63bf2a1e650f09b51f4241835c10/720p",
+            "26": "//aniqit.com/seria/735478/fc2190b5160635ccc1555fe14bd3834e/720p",
+            "27": "//aniqit.com/seria/737416/bb277e1dadadfea0f2a3c7891ab6b6fe/720p",
+            "28": "//aniqit.com/seria/737858/868eac70e755094ada6fbed2def5f6ad/720p",
+            "29": "//aniqit.com/seria/738542/7316ac8d3e8c8cceaa809506974eeaee/720p",
+            "30": "//aniqit.com/seria/739267/5a0ab0f0086af83da30ab91fa84405b4/720p",
+            "31": "//aniqit.com/seria/741826/bf3e6a9d7869f01438939912f2c2bac5/720p",
+            "32": "//aniqit.com/seria/742073/cfd1f1e9e8fb8d6819c5955bd99fab24/720p",
+            "33": "//aniqit.com/seria/743177/b60b3eb4ebf7acea61b27ca881923a7b/720p",
+            "34": "//aniqit.com/seria/744615/9f37c60156cda98730bb2441388c3985/720p",
+            "35": "//aniqit.com/seria/754392/f145a01485587382c1b7cf21b3b22fcc/720p",
+            "36": "//aniqit.com/seria/758215/dcd3cd84b5f2f01b534822d516899289/720p",
+            "37": "//aniqit.com/seria/760026/1c826305cc85a1dd67134c90bddc6ec5/720p",
+            "38": "//aniqit.com/seria/761300/6bd94297740d6351ab5a7c90006aa0c7/720p",
+            "39": "//aniqit.com/seria/763275/4296e075344f9e895041287ca5f354ef/720p",
+            "40": "//aniqit.com/seria/765507/ae2522d16ed0b4afd20005a357ec00a9/720p",
+            "41": "//aniqit.com/seria/768521/346db77557ae488767a7b53ab8fe0e7d/720p",
+            "42": "//aniqit.com/seria/775817/6ba323222fe9490a29267deadb7eb208/720p",
+            "43": "//aniqit.com/seria/775818/c079fcb285e507d31f84c29268364628/720p",
+            "44": "//aniqit.com/seria/775855/96e57e26aa85e17f30b3c4b93f84efe4/720p",
+            "45": "//aniqit.com/seria/777337/203b3775658d623d58f703c426b15b16/720p",
+            "46": "//aniqit.com/seria/778874/2feef13adadbdec7d5479355a99da39e/720p",
+            "47": "//aniqit.com/seria/780815/87e5fb2186d44226542973c24e95dad4/720p",
+            "48": "//aniqit.com/seria/783438/4446fce2ee60f13833d3ec33f7569fb1/720p",
+            "49": "//aniqit.com/seria/785824/9688d64cb37d936cc5afb805a7319d0d/720p",
+            "50": "//aniqit.com/seria/787760/55d3e1b0426b30386109a439b39bc574/720p",
+            "51": "//aniqit.com/seria/789311/b4993a8383378ec81995660c7430d6d2/720p",
+            "52": "//aniqit.com/seria/791180/ba6e53d32f39de817c306c56645b4e1b/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Владыка духовного меча 4",
+        "title_en": "Ling Jian Zun 4th Season",
+        "other_titles": [
+          "Spirit Sword Sovereign 4th Season"
+        ],
+        "other_titles_jp": [
+          "灵剑尊 第四季"
+        ],
+        "anime_kind": "ona",
+        "anime_status": "ongoing",
+        "poster_url": "https://shikimori.one/system/animes/original/41884.jpg",
+        "anime_genres": [
+          "Романтика",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Soyep"
+        ],
+        "shikimori_rating": 6.88,
+        "shikimori_votes": 52,
+        "aired_at": "2020-09-08",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 0,
+        "episodes_aired": 54
+      }
+    },
+    {
+      "id": "movie-68386",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Юбилейное танго",
+      "title_orig": "Юбилейное танго",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1989,
+      "kinopoisk_id": "478828",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-02-23T09:08:43Z",
+      "updated_at": "2021-02-23T09:08:43Z",
+      "material_data": {
+        "title": "Юбилейное танго",
+        "title_en": "",
+        "year": 1989,
+        "description": "Мужчина отмечает день рождения в ресторане и общается с инженером, врачом и официанткой. Они обсуждают актуальные на 1989 год вопросы: перестройка, гласность, ускорение. Как дальше развивать промышленность, что даст нам свобода слова, куда катится страна – на все эти вопросы пытаются дать ответ герои телеспектакля...",
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "actors": [
+          "Игорь Кваша",
+          "Эммануил Виторган",
+          "Владимир Сальников",
+          "Алла Балтер"
+        ],
+        "directors": [
+          "Никита Тягунов"
+        ],
+        "writers": [
+          "Валентин Азерников"
+        ],
+        "designers": [
+          "Валерия Ямковская"
+        ],
+        "operators": [
+          "Геннадий Алексеев"
+        ]
+      }
+    },
+    {
+      "id": "serial-32841",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Мои братья",
+      "title_orig": "Kardeslerim",
+      "other_title": "Братья и сестры",
+      "translation": {
+        "id": 1363,
+        "title": "SesDizi",
+        "type": "voice"
+      },
+      "year": 2021,
+      "last_season": 1,
+      "last_episode": 1,
+      "episodes_count": 1,
+      "kinopoisk_id": "2001315",
+      "imdb_id": "tt13550498",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-02-23T07:43:43Z",
+      "updated_at": "2021-02-23T09:07:57Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/791143/a35d1932e001bd067ac46012ac12d489/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Kardeslerim",
+        "title_en": "",
+        "year": 2021,
+        "countries": [
+          "Турция"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 7.5,
+        "imdb_votes": 53,
+        "premiere_world": "2021-02-20",
+        "actors": [
+          "Фадик Севин Атасой",
+          "Су Бурсу Джошкун",
+          "Damla Su Ikizoglu",
+          "Yigit Koçak",
+          "Кунейт Мете",
+          "Melis Minkari",
+          "Джелиль Налчакан",
+          "Halit Özgür Sari",
+          "Каан Севи",
+          "Туран Джихан Шимшек"
+        ],
+        "directors": [
+          "Серкан Биринджи"
+        ],
+        "producers": [
+          "Nazli Hepturk"
+        ],
+        "writers": [
+          "Гюль Абус Семерджи"
+        ]
+      }
+    },
+    {
+      "id": "movie-68387",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Отпуск, который не состоялся",
+      "title_orig": "Otpusk, kotoryy ne sostoyalsya",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1977,
+      "kinopoisk_id": "414486",
+      "imdb_id": "tt3344652",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-02-23T09:07:42Z",
+      "updated_at": "2021-02-23T09:07:42Z",
+      "material_data": {
+        "title": "Отпуск, который не состоялся",
+        "title_en": "",
+        "year": 1976,
+        "description": "Дружба требует самоотдачи. Андрей, Юрий и Валера дружили со школьной скамьи и решили провести отпуск вместе. Однако мечте не суждено сбыться - Андрей погибает. И только тогда двое друзей поняли, что они не поддержали товарища, не нашли времени для разговора по душам. Следовательно, они виноваты в той цепи ошибок, которые совершил их друг, и которые привели его к гибели. Могли ли они что-то изменить и в трудную минуту быть рядом?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/414486.jpg",
+        "duration": 74,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 125,
+        "imdb_rating": 6.8,
+        "imdb_votes": 9,
+        "premiere_world": "1977-03-21",
+        "minimal_age": 16,
+        "actors": [
+          "Михаил Жигалов",
+          "Александр Леньков",
+          "Андрей Мягков",
+          "Ирина Акулова",
+          "Галина Дашевская",
+          "Евгений Лебедев",
+          "Сергей Яковлев",
+          "Зинаида Дехтярева",
+          "Юрий Мочалов",
+          "Алена Тубольцева"
+        ],
+        "directors": [
+          "Тимур Золоев"
+        ],
+        "writers": [
+          "Тимур Золоев"
+        ],
+        "composers": [
+          "Мирослав Скорик"
+        ],
+        "designers": [
+          "Владимир Ефимов"
+        ],
+        "operators": [
+          "Николай Луканев",
+          "Евгений Козинский"
+        ]
+      }
+    },
+    {
+      "id": "serial-32758",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "НФ8",
+      "title_orig": "SF8",
+      "translation": {
+        "id": 1558,
+        "title": "ФСГ У ЛУН.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 8,
+      "episodes_count": 8,
+      "kinopoisk_id": "1357356",
+      "imdb_id": "tt12560244",
+      "mdl_id": "58919-sf8-nurse",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-02-19T11:49:24Z",
+      "updated_at": "2021-02-23T09:07:24Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/789310/9d3eed899b272ce92afcbebf05bba988/720p",
+            "2": "//kodik.cc/seria/790508/f6aee0542d4273785cdb0cf860b85fd1/720p",
+            "3": "//kodik.cc/seria/790516/c17c0e9ffc3f0ae2dd130ba9f8c91db1/720p",
+            "4": "//kodik.cc/seria/791127/74d9b046f13aef7625f5a25e213facd2/720p",
+            "5": "//kodik.cc/seria/791128/0753ea774809c7d57a13a22a3aadf23b/720p",
+            "6": "//kodik.cc/seria/791133/e28cdd88e5d8704ae11ce09498fff05b/720p",
+            "7": "//kodik.cc/seria/791144/21ad496db55528d398bada6ae14e9e86/720p",
+            "8": "//kodik.cc/seria/791178/3fb6ec618f70457524563d3a6ade4e30/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "НФ8",
+        "title_en": "SF8",
+        "year": 2020,
+        "description": "8 фантастических историй.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1357356.jpg",
+        "duration": 55,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "боевик",
+          "ужасы",
+          "фантастика"
+        ],
+        "imdb_rating": 7.2,
+        "imdb_votes": 70,
+        "premiere_world": "2020-08-14",
+        "actors": [
+          "Ли Ю-ён",
+          "Е Су-джон",
+          "Ём Хе-ран",
+          "Юн Гён-хо",
+          "Чхве Бён-мо",
+          "Мун Сук",
+          "Ли Щи-ён",
+          "Сон Ха-джун",
+          "Ли Джун-хёк",
+          "Ким Бо-ра"
+        ],
+        "directors": [
+          "Ан Гук-чин",
+          "Хан Га-рам",
+          "Чан Чхоль-су",
+          "Ким И-сок",
+          "Ли Юн-джон",
+          "Мин Гю-дон",
+          "О Ги-хван",
+          "Но Док"
+        ],
+        "writers": [
+          "Хан Бун-ве",
+          "Кан Сан",
+          "Кан Сон-джу",
+          "Ким Джи-хи",
+          "Ли Юн-джон",
+          "Мун Джу-хи"
+        ]
+      }
+    },
+    {
+      "id": "movie-68388",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Песня о счастье",
+      "title_orig": "Pesnya o shchastye",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1934,
+      "kinopoisk_id": "42963",
+      "imdb_id": "tt0025646",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-02-23T09:06:37Z",
+      "updated_at": "2021-02-23T09:06:37Z",
+      "material_data": {
+        "title": "Песня о счастье",
+        "title_en": "",
+        "year": 1934,
+        "description": "Батрак Кавырля волею случая становится преступником и попадает в исправительную колонию. Но внутренняя порядочность и любовь к музыке помогают юноше найти правильный путь в жизни. Начальник воспитательной части колонии помогает ему поступить в консерваторию и приобрести профессию.",
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 6.6,
+        "kinopoisk_votes": 70,
+        "imdb_rating": 6.8,
+        "imdb_votes": 19,
+        "premiere_world": "1934-10-01",
+        "minimal_age": 6,
+        "actors": [
+          "М. Викторов",
+          "Владимир Гардин",
+          "Леонид Кмит",
+          "Николай Мичурин",
+          "Янина Жеймо",
+          "Александр Мельников",
+          "Борис Чирков",
+          "Борис Тенин",
+          "Федор Никитин",
+          "Владимир Москвин"
+        ],
+        "directors": [
+          "Марк Донской",
+          "Владимир Легошин"
+        ],
+        "writers": [
+          "Георгий Холмский"
+        ],
+        "composers": [
+          "Григорий Лобачев"
+        ],
+        "editors": [
+          "Елена Миронова"
+        ],
+        "designers": [
+          "Семен Мейнкин"
+        ],
+        "operators": [
+          "Николай Ушаков"
+        ]
+      }
+    },
+    {
+      "id": "movie-68389",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Я вас дождусь...",
+      "title_orig": "Ya vas dozhdus",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1983,
+      "kinopoisk_id": "42405",
+      "imdb_id": "tt0174785",
+      "quality": "DVBRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-02-23T09:05:04Z",
+      "updated_at": "2021-02-23T09:05:04Z",
+      "material_data": {
+        "title": "Я вас дождусь...",
+        "title_en": "",
+        "year": 1982,
+        "description": "Действие фильма происходит в годы Второй мировой войны. Выйдя из госпиталя, молодой лейтенант на несколько часов попадает в Москву, в свой дом, где прошли его детство и юность.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/42405.jpg",
+        "duration": 67,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "военный",
+          "мелодрама"
+        ],
+        "kinopoisk_rating": 7.4,
+        "kinopoisk_votes": 154,
+        "imdb_rating": 7.1,
+        "imdb_votes": 8,
+        "premiere_world": "1983-02-21",
+        "minimal_age": 6,
+        "actors": [
+          "Артур Богатов",
+          "Екатерина Валюжинич",
+          "Зиновий Гердт",
+          "Лилия Алешникова",
+          "Василий Маслаков",
+          "Е. Кареева"
+        ],
+        "directors": [
+          "Яков Сегель"
+        ],
+        "writers": [
+          "Яков Сегель"
+        ],
+        "composers": [
+          "Евгений Крылатов"
+        ],
+        "designers": [
+          "Александр Дихтяр"
+        ],
+        "operators": [
+          "Вячеслав Звонилкин"
+        ]
+      }
+    },
+    {
+      "id": "movie-68390",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Чудо с косичками",
+      "title_orig": "Chudo s kosichkami",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1976,
+      "kinopoisk_id": "45529",
+      "imdb_id": "tt0128119",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-02-23T09:02:49Z",
+      "updated_at": "2021-02-23T09:02:49Z",
+      "material_data": {
+        "title": "Чудо с косичками",
+        "title_en": "",
+        "year": 1974,
+        "description": "«Чудо с косичками» - так в середине 70-х в спортивном мире называли юную советскую гимнастку Ольгу Корбут. Ее феноменальная одаренность, юный возраст и совсем недетское желание всегда и во всем быть первой поражали всех, кто ее знал. В основе фильма - реальные факты биографии прославленной гимнастки.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/45529.jpg",
+        "duration": 78,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма",
+          "спорт"
+        ],
+        "kinopoisk_rating": 6.6,
+        "kinopoisk_votes": 230,
+        "imdb_rating": 6.4,
+        "imdb_votes": 14,
+        "premiere_world": "1976-05-03",
+        "minimal_age": 12,
+        "actors": [
+          "Ирина Мазуркевич",
+          "Анна Жарова",
+          "Игорь Ясулович",
+          "Александр Калягин",
+          "Наум Дымарский",
+          "Нина Агапова",
+          "Александр Халецкий",
+          "Елена Брацлавская",
+          "Анатолий Крыжанский",
+          "Микаэла Дроздовская"
+        ],
+        "directors": [
+          "Виктор Титов"
+        ],
+        "writers": [
+          "Александр Лапшин"
+        ],
+        "composers": [
+          "Владислав Казенин"
+        ],
+        "designers": [
+          "Ирина Лукашевич",
+          "Светлана Титова"
+        ],
+        "operators": [
+          "Анатолий Николаев",
+          "Владимир Николаев"
+        ]
+      }
+    },
+    {
+      "id": "movie-68391",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Полесская легенда",
+      "title_orig": "Poleskaya legenda",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1957,
+      "kinopoisk_id": "596504",
+      "imdb_id": "tt0189016",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-02-23T09:02:12Z",
+      "updated_at": "2021-02-23T09:02:12Z",
+      "material_data": {
+        "title": "Полесская легенда",
+        "title_en": "",
+        "year": 1957,
+        "description": "В имении пана Ивана служит лесником крепостной Роман – верный его холоп. Роман ловит в панском лесу крестьянина Михася, убившего лису (он с маленьким сыном голодает), и ведет его к пану. У пана гости. Их развлекает Опанас – вольный крестьянин, панский песельник. В награду за прекрасное пение пан обещает выполнить любое его желание. Опанас просит дать вольную его невесте – скотнице Оксане. Красота девушки производит впечатление на пана и его гостей, особенно на пана Антония, который просит отдать ему Оксану в обмен на свору собак. Но у пана Ивана другие планы. Он оправляет Опанаса к гродненскому воеводе петь на пиру, и во время его отсутствия силой овладевает Оксаной, а потом решает отдать ее в жены леснику Роману…",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/596504.jpg",
+        "duration": 77,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "premiere_world": "1957-06-05",
+        "actors": [
+          "Алла Ларионова",
+          "Иван Переверзев",
+          "Леонид Рахленко",
+          "Владимир Владомирский",
+          "Глеб Глебов",
+          "Виктор Кулаков",
+          "Александра Климова",
+          "Виктор Лазарев",
+          "Леонид Кадров",
+          "Витаутас Канцлерис"
+        ],
+        "directors": [
+          "Петр Василевский",
+          "Николай Фигуровский"
+        ],
+        "writers": [
+          "Владимир Короленко"
+        ],
+        "composers": [
+          "Исаак Любан"
+        ],
+        "designers": [
+          "Владимир Белоусов",
+          "Армен Григорьянц"
+        ],
+        "operators": [
+          "Владимир Окулич"
+        ]
+      }
+    },
+    {
+      "id": "movie-68392",
+      "type": "russian-movie",
+      "link": "",
+      "title": "На край света...",
+      "title_orig": "Na kray sveta",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1975,
+      "kinopoisk_id": "46271",
+      "imdb_id": "tt0183557",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-02-23T09:00:55Z",
+      "updated_at": "2021-02-23T09:00:55Z",
+      "material_data": {
+        "title": "На край света...",
+        "title_en": "",
+        "year": 1975,
+        "description": "Устав от родительской опеки и назиданий родственников, Володя решает убежать ото всех «на край света». К нему присоединяется дальняя родственница Симка. Встречи с разными людьми, путешествия, работа на стройке помогли молодым героям познать жизнь и понять, что они любят друг друга.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/46271.jpg",
+        "duration": 92,
+        "countries": [
+          "СССР"
         ],
         "genres": [
           "мелодрама"
         ],
-        "premiere_world": "2020-02-08",
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 283,
+        "imdb_rating": 6.6,
+        "imdb_votes": 7,
+        "premiere_world": "1976-04-06",
+        "minimal_age": 12,
         "actors": [
-          "Эмбер Ань",
-          "Edison Song",
-          "Джеймс Вэнь",
-          "Mo Cheng",
-          "Cheng-Jing Wu",
-          "Judy Chou",
-          "Сюй Муцзи",
-          "Patricia Lin",
-          "Wills Sia",
-          "Ray Fan"
+          "Вера Глаголева",
+          "Вадим Михеенко",
+          "Борис Андреев",
+          "Мария Виноградова",
+          "Светлана Коновалова",
+          "Вера Бурлакова",
+          "Леонид Чубаров",
+          "Махмуд Эсамбаев",
+          "Петр Глебов",
+          "Михаил Голубович"
         ],
         "directors": [
-          "Ван Минтай"
-        ],
-        "producers": [
-          "Mu-Han Chen",
-          "Leo Sullivan"
+          "Родион Нахапетов"
         ],
         "writers": [
-          "Неко Хсю",
-          "Ван Минтай"
+          "Виктор Розов"
+        ],
+        "composers": [
+          "Богдан Троцюк"
+        ],
+        "editors": [
+          "Полина Скачкова"
+        ],
+        "designers": [
+          "Сергей Портной",
+          "Татьяна Вадецкая"
+        ],
+        "operators": [
+          "Владимир Климов",
+          "Константин Супоницкий"
+        ]
+      }
+    },
+    {
+      "id": "movie-68393",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Крестьяне",
+      "title_orig": "Krestyane",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1935,
+      "kinopoisk_id": "44979",
+      "imdb_id": "tt0026583",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-02-23T08:59:13Z",
+      "updated_at": "2021-02-23T08:59:13Z",
+      "material_data": {
+        "title": "Крестьяне",
+        "title_en": "",
+        "year": 1935,
+        "description": "Начало 30-х годов. Животновод колхоза «Лебяжьи горки» Герасим, зная о нехватке кормов, стремится увеличить свиное поголовье и таким образом подорвать колхозную собственность. Его показное рвение к светлому будущему настолько активно и агрессивно, что нечаянно разоблачив себя перед женой, Герасим убивает ее. Далее жертвой его скрытых кулацких расчетов становится начальник политотдела...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/44979.jpg",
+        "duration": 113,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 5.9,
+        "kinopoisk_votes": 255,
+        "imdb_rating": 6.5,
+        "imdb_votes": 40,
+        "premiere_world": "1935-04-07",
+        "minimal_age": 0,
+        "actors": [
+          "Петр Алейников",
+          "Мария Блюменталь-Тамарина",
+          "Николай Боголюбов",
+          "Иван Чувелев",
+          "Владимир Гардин",
+          "Екатерина Корчагина-Александровская",
+          "Владимир Лукин",
+          "Алексей Петров",
+          "Борис Пославский",
+          "Владимир Сладкопевцев"
+        ],
+        "directors": [
+          "Фридрих Эрмлер"
+        ],
+        "writers": [
+          "Фридрих Эрмлер",
+          "Виктор Портнов",
+          "Мануэль Большинцов"
+        ],
+        "composers": [
+          "Венедикт Пушков"
+        ],
+        "designers": [
+          "Николай Суворов"
+        ],
+        "operators": [
+          "Александр Гинцбург"
+        ]
+      }
+    },
+    {
+      "id": "movie-68394",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Дом и хозяин",
+      "title_orig": "Dom i khozyain",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1968,
+      "kinopoisk_id": "44262",
+      "imdb_id": "tt0182995",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-02-23T08:58:17Z",
+      "updated_at": "2021-02-23T08:58:17Z",
+      "material_data": {
+        "title": "Дом и хозяин",
+        "title_en": "",
+        "year": 1968,
+        "description": "Бывший фронтовик Егор Байнев возвращается в родное село к матери, жене и детям. Чтобы купить корову и построить новый дом, он вынужден отправиться на заработки. Постепенно деньги становятся для него важнее, чем связь с родными...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/44262.jpg",
+        "duration": 90,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 7.3,
+        "kinopoisk_votes": 128,
+        "imdb_rating": 7.7,
+        "imdb_votes": 11,
+        "premiere_world": "1968-11-25",
+        "actors": [
+          "Иван Лапиков",
+          "Александра Соловьева",
+          "Стефания Станюта",
+          "Борис Новиков",
+          "Евгений Шутов",
+          "Петр Любешкин",
+          "Валентина Ананьина",
+          "Валентин Брылеев",
+          "Евгений Быкадоров",
+          "Павел Волков"
+        ],
+        "directors": [
+          "Будимир Метальников"
+        ],
+        "writers": [
+          "Будимир Метальников"
+        ],
+        "composers": [
+          "Альфред Шнитке"
+        ],
+        "editors": [
+          "Антонина Зимина"
+        ],
+        "designers": [
+          "Георгий Колганов",
+          "Г. Жекулина"
+        ],
+        "operators": [
+          "Александр Харитонов"
+        ]
+      }
+    },
+    {
+      "id": "movie-68395",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Чудовище, или Кто-то другой",
+      "title_orig": "Chudovishche ili kto-to drugoy",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1988,
+      "kinopoisk_id": "45532",
+      "imdb_id": "tt0306650",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-02-23T08:52:08Z",
+      "updated_at": "2021-02-23T08:52:08Z",
+      "material_data": {
+        "title": "Чудовище, или Кто-то другой",
+        "title_en": "",
+        "year": 1988,
+        "description": "Сорокалетний оперный хорист Пулат Мухамеджанов, застряв в лифте многоэтажного дома, вспоминает родных и близких, наилучшие и наихудшие качества, которые он унаследовал от них и, конечно, надеется на спасение...",
+        "duration": 70,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "actors": [
+          "Сергей Газаров",
+          "Айбек Заиров",
+          "Баходыр Закиров",
+          "Бахтияр Закиров",
+          "Надыр Мирзакасымов",
+          "Шухрат Иргашев",
+          "Дагун Омаев",
+          "Мелис Абзалов",
+          "Мурад Раджабов",
+          "Саидмурад Зияутдинов"
+        ],
+        "directors": [
+          "Алиаскар Фатхулин"
+        ],
+        "writers": [
+          "Ираклий Квирикадзе"
+        ],
+        "composers": [
+          "Феликс Янов-Яновский"
+        ],
+        "designers": [
+          "Вячеслав Ахунов",
+          "Рафаэль Сулейманов"
+        ],
+        "operators": [
+          "Дильшат Фатхулин",
+          "Султан Мирзахмедов"
+        ]
+      }
+    },
+    {
+      "id": "movie-37133",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Проект «Альфа»",
+      "title_orig": "Proekt 'Alfa'",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1991,
+      "kinopoisk_id": "441278",
+      "imdb_id": "tt2947226",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-05-16T06:38:56Z",
+      "updated_at": "2021-02-23T08:51:08Z",
+      "material_data": {
+        "title": "Проект «Альфа»",
+        "title_en": "",
+        "year": 1990,
+        "description": "Пограничный сторожевой корабль под командованием капитана-лейтенанта Чайки, несущий службу в акватории Чёрного моря, обнаруживает в советских территориальных водах установленный западными спецслужбами радиобуй. Экипажу предстоит противодействовать иностранному фрегату и не позволить ему забрать разведывательное устройство.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/441278.jpg",
+        "duration": 85,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "боевик",
+          "военный"
+        ],
+        "kinopoisk_rating": 6.6,
+        "kinopoisk_votes": 263,
+        "imdb_rating": 4.8,
+        "imdb_votes": 8,
+        "minimal_age": 12,
+        "actors": [
+          "Юрий Маляров",
+          "Светлана Дирина",
+          "Софья Горшкова",
+          "Борис Руднев",
+          "Георгий Дворников",
+          "Анатолий Веденкин",
+          "Николай Малашенко",
+          "Али Самедов",
+          "Александр Жуковин",
+          "Анатолий Голик"
+        ],
+        "directors": [
+          "Евгений Шерстобитов"
+        ],
+        "writers": [
+          "Евгений Шерстобитов"
+        ],
+        "composers": [
+          "Игорь Мыленко"
+        ],
+        "designers": [
+          "Петр Слабинский"
+        ],
+        "operators": [
+          "Николай Журавлев"
+        ]
+      }
+    },
+    {
+      "id": "movie-68396",
+      "type": "russian-movie",
+      "link": "",
+      "title": "До свидания, Медео",
+      "title_orig": "Revue na zakázku",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1982,
+      "kinopoisk_id": "42092",
+      "imdb_id": "tt0174164",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2021-02-23T08:48:50Z",
+      "updated_at": "2021-02-23T08:48:50Z",
+      "material_data": {
+        "title": "До свидания, Медео",
+        "title_en": "",
+        "year": 1982,
+        "description": "Режиссер и хореограф из Праги готовят шоу-представление «Восточная сказка» — балет на льду с участием вокально-инструментальных ансамблей и эстрадных певцов. Съемки своей картины они проводят в Казахстане на высокогорном катке Медео.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/42092.jpg",
+        "countries": [
+          "СССР",
+          "Чехословакия"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "imdb_rating": 5.5,
+        "imdb_votes": 10,
+        "premiere_world": "1982-12-01",
+        "actors": [
+          "Карел Чернох",
+          "Ольдржих Кайзер",
+          "Иржи Лабус",
+          "Роза Рымбаева",
+          "Досхан Жолжаксынов",
+          "Ерик Жолжаксынов",
+          "Касым Жакибаев",
+          "Камал Кармысов",
+          "Мухтар Бахтыгереев",
+          "Жумабай Медетбаев"
+        ],
+        "directors": [
+          "Зденек Подскальский"
+        ],
+        "writers": [
+          "Viktor Dusil",
+          "Валерий Карен"
+        ],
+        "composers": [
+          "Витезслав Гадль"
+        ],
+        "operators": [
+          "Иржи Мацак"
         ]
       }
     },
@@ -1254,7 +2921,7 @@
         "imdb_rating": 8.1,
         "imdb_votes": 9913,
         "shikimori_rating": 8.62,
-        "shikimori_votes": 2975,
+        "shikimori_votes": 3014,
         "premiere_ru": "2019-02-20",
         "premiere_world": "2016-04-03",
         "aired_at": "2021-01-06",
@@ -1467,11 +3134,11 @@
           "Asahi Production"
         ],
         "shikimori_rating": 6.78,
-        "shikimori_votes": 260,
+        "shikimori_votes": 262,
         "aired_at": "2021-01-07",
         "rating_mpaa": "PG-13",
         "episodes_total": 12,
-        "episodes_aired": 8
+        "episodes_aired": 9
       }
     },
     {
@@ -1772,13 +3439,13 @@
         "kinopoisk_votes": 2892,
         "imdb_rating": 7.8,
         "imdb_votes": 5811,
-        "shikimori_rating": 8.06,
-        "shikimori_votes": 784,
+        "shikimori_rating": 8.07,
+        "shikimori_votes": 812,
         "premiere_world": "2019-10-10",
         "aired_at": "2021-01-07",
         "rating_mpaa": "R",
         "episodes_total": 12,
-        "episodes_aired": 8,
+        "episodes_aired": 9,
         "actors": [
           "Тикахиро Кобаяси",
           "Юки Оно",
@@ -2149,13 +3816,13 @@
         "kinopoisk_votes": 1268,
         "imdb_rating": 7.3,
         "imdb_votes": 1517,
-        "shikimori_rating": 8.06,
-        "shikimori_votes": 1232,
+        "shikimori_rating": 8.07,
+        "shikimori_votes": 1260,
         "premiere_world": "2019-01-11",
         "aired_at": "2021-01-08",
         "rating_mpaa": "PG-13",
         "episodes_total": 12,
-        "episodes_aired": 8,
+        "episodes_aired": 9,
         "actors": [
           "Кана Ханадзава",
           "Мику Ито",
@@ -2575,7 +4242,7 @@
         "imdb_rating": 6.9,
         "imdb_votes": 118,
         "shikimori_rating": 7.24,
-        "shikimori_votes": 78,
+        "shikimori_votes": 79,
         "premiere_world": "2018-04-02",
         "aired_at": "2021-01-05",
         "rating_mpaa": "PG-13",
@@ -2678,7 +4345,7 @@
         "imdb_rating": 6.9,
         "imdb_votes": 118,
         "shikimori_rating": 7.24,
-        "shikimori_votes": 78,
+        "shikimori_votes": 79,
         "premiere_world": "2018-04-02",
         "aired_at": "2021-01-05",
         "rating_mpaa": "PG-13",
@@ -2853,84 +4520,7 @@
         "aired_at": "2021-02-04",
         "rating_mpaa": "PG-13",
         "episodes_total": 50,
-        "episodes_aired": 10
-      }
-    },
-    {
-      "id": "serial-30145",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Безмолвное расставание",
-      "title_orig": "He yi sheng xiao mo",
-      "other_title": "Ты мой свет / Silent Separation / You Are My Sunshine",
-      "translation": {
-        "id": 918,
-        "title": "Дораманутая / W³: voices",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 1,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "kinopoisk_id": "1239423",
-      "imdb_id": "tt6131630",
-      "mdl_id": "9137-my-sunshine",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-11-19T14:42:50Z",
-      "updated_at": "2021-02-22T18:03:37Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/734409/ff213c8f434ff50671580ec77f2cfe5e/720p",
-            "2": "//kodik.cc/seria/735517/4b6af227a35a5dfb54fb22a825a025e9/720p",
-            "3": "//kodik.cc/seria/739681/d82ea3146ab7d698255e7ab2217d6fc2/720p",
-            "4": "//kodik.cc/seria/744414/afaca9e0441979e9877071092662a27a/720p",
-            "5": "//kodik.cc/seria/758299/02850e1ee78b23407ec95f69ad3c6f81/720p",
-            "6": "//kodik.cc/seria/760706/22c74b08519a06a08a6d1887222e2599/720p",
-            "7": "//kodik.cc/seria/775525/ed49045e65c01ec739d8919336ae8832/720p",
-            "8": "//kodik.cc/seria/779608/2647c9f1265a680c95dd747f16c14735/720p",
-            "9": "//kodik.cc/seria/790370/9eb4ff9bee15f9c1d1c3b3151e04e534/720p",
-            "10": "//kodik.cc/seria/790961/2096ec21341d6eab0a9d11729f563bb9/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Безмолвное расставание",
-        "title_en": "He yi sheng xiao mo",
-        "year": 2015,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1239423.jpg",
-        "duration": 40,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "imdb_rating": 6.6,
-        "imdb_votes": 122,
-        "premiere_world": "2015-01-10",
-        "actors": [
-          "Уоллес Чун",
-          "Тиффани Тан",
-          "Энтони Гавард",
-          "Лео Ло",
-          "Виола Ми",
-          "Жун Жун",
-          "У Цянь",
-          "Ян Лэ",
-          "RenZi Jian",
-          "Yansu Wang"
-        ],
-        "directors": [
-          "Лю Цзуньцзе"
-        ],
-        "writers": [
-          "Гу Мань"
-        ]
+        "episodes_aired": 11
       }
     },
     {
@@ -3130,8 +4720,8 @@
         "anime_studios": [
           "Bones"
         ],
-        "shikimori_rating": 7.98,
-        "shikimori_votes": 996,
+        "shikimori_rating": 7.99,
+        "shikimori_votes": 1033,
         "aired_at": "2021-01-10",
         "rating_mpaa": "PG-13",
         "episodes_total": 12,
@@ -5026,8 +6616,8 @@
         "anime_studios": [
           "Bones"
         ],
-        "shikimori_rating": 7.98,
-        "shikimori_votes": 996,
+        "shikimori_rating": 7.99,
+        "shikimori_votes": 1033,
         "aired_at": "2021-01-10",
         "rating_mpaa": "PG-13",
         "episodes_total": 12,
@@ -5854,8 +7444,8 @@
         "genres": [
           "драма"
         ],
-        "imdb_rating": 7.5,
-        "imdb_votes": 406,
+        "imdb_rating": 7.7,
+        "imdb_votes": 568,
         "premiere_world": "2021-01-01",
         "actors": [
           "Фунда Эрйигит",
@@ -6269,7 +7859,7 @@
           "фантастика"
         ],
         "imdb_rating": 8.9,
-        "imdb_votes": 49,
+        "imdb_votes": 51,
         "premiere_world": "2020-07-20",
         "actors": [
           "Лухан",
@@ -7087,1801 +8677,11 @@
           "Vasoon Animation"
         ],
         "shikimori_rating": 0,
-        "shikimori_votes": 35,
+        "shikimori_votes": 36,
         "aired_at": "2021-01-17",
         "released_at": "2021-02-21",
         "episodes_total": 7,
         "episodes_aired": 6
-      }
-    },
-    {
-      "id": "serial-29924",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Когда плачут цикады (2020)",
-      "title_orig": "Higurashi no Naku Koro ni (2020)",
-      "other_title": "Когда плачут цикады: Карма / Higurashi: When They Cry - New",
-      "translation": {
-        "id": 1079,
-        "title": "Aniraccoon",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 3,
-      "last_episode": 17,
-      "episodes_count": 17,
-      "kinopoisk_id": "1390466",
-      "imdb_id": "tt12367868",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10436",
-      "shikimori_id": "41006",
-      "quality": "TVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-10-27T21:25:58Z",
-      "updated_at": "2021-02-21T08:12:54Z",
-      "seasons": {
-        "3": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/728485/1c898f7b4a3a4a711079c55637000875/720p",
-            "2": "//aniqit.com/seria/733705/a9ef030e565e918ff022124c5491d3c7/720p",
-            "3": "//aniqit.com/seria/742164/9e2194b74c16278ce8dbf4f6612ce0a9/720p",
-            "4": "//aniqit.com/seria/742165/585965e51e43bc194ba4279f25ccfaec/720p",
-            "5": "//aniqit.com/seria/767081/9902969be2b9d28ffbcf1683612df3f0/720p",
-            "6": "//aniqit.com/seria/767082/fd89bb21eb74a409895c66908c33a47c/720p",
-            "7": "//aniqit.com/seria/767083/0bed789c74c44f290bd3e287e9d944b4/720p",
-            "8": "//aniqit.com/seria/767084/c56ef374c9d0a2ef70deedb6b45ddef0/720p",
-            "9": "//aniqit.com/seria/767278/b4dc9916311d2f0ee774050b54cdd100/720p",
-            "10": "//aniqit.com/seria/767279/f410418d44de782e7e9c8dd5cd26a12e/720p",
-            "11": "//aniqit.com/seria/775049/68d795bfc6848b751338996c83389d87/720p",
-            "12": "//aniqit.com/seria/775071/e4e45a963073b6e66a731926eb6e320d/720p",
-            "13": "//aniqit.com/seria/789972/c0462c2f98a4a623a72b1701b9851122/720p",
-            "14": "//aniqit.com/seria/789973/43d1447486b8beb759677840184120c6/720p",
-            "15": "//aniqit.com/seria/789974/c3cc3233c6dd973542d514345aa0cdf3/720p",
-            "16": "//aniqit.com/seria/789975/d7e4fd8ce7a1154643b8261215b2a8f6/720p",
-            "17": "//aniqit.com/seria/789976/8f2e6fb87f46f3396d184a1188fcbf00/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Когда плачут цикады: Карма",
-        "title_en": "Higurashi no Naku Koro ni: Gou",
-        "other_titles": [
-          "When They Cry",
-          "Higurashi: When They Cry - New",
-          "Higurashi no Naku Koro ni (2020)",
-          "When the Cicadas Cry",
-          "The Moment the Cicadas Cry"
-        ],
-        "other_titles_en": [
-          "Higurashi: When They Cry – Gou"
-        ],
-        "other_titles_jp": [
-          "ひぐらしのなく頃に業"
-        ],
-        "anime_license_name": "Higurashi: Когда плачут цикады - Gou",
-        "anime_kind": "tv",
-        "anime_status": "ongoing",
-        "year": 2020,
-        "description": "Переехав с родителями из города в живописную деревушку Хинамидзаву и подружившись в маленькой местной школе с очаровательными одноклассницами, Кэйити даже не подозревал, насколько обманчиво его представление об этом безмятежном крае и его обитателях.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1390466.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/92939bfad1dec9349be9b891c2fbb458a115dffd.jpg",
-          "https://shikimori.one/system/screenshots/original/babcf81625febe2e37dc190ab8e8de9327fea8db.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "детектив",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Безумие",
-          "Детектив",
-          "Психологическое",
-          "Сверхъестественное",
-          "Триллер",
-          "Ужасы"
-        ],
-        "anime_studios": [
-          "Passione"
-        ],
-        "imdb_rating": 6.9,
-        "imdb_votes": 157,
-        "shikimori_rating": 7.03,
-        "shikimori_votes": 1417,
-        "premiere_world": "2020-10-01",
-        "aired_at": "2020-10-01",
-        "rating_mpaa": "R",
-        "episodes_total": 24,
-        "episodes_aired": 21,
-        "actors": [
-          "Соитиро Хоси",
-          "Маи Накахара",
-          "Сацуки Юкино",
-          "Юкари Тамура",
-          "Мика Канаи",
-          "Мики Ито",
-          "Тяфурин",
-          "Тосихико Сэки",
-          "Тору Окава"
-        ],
-        "directors": [
-          "Кэйитиро Кавагути"
-        ],
-        "writers": [
-          "Рюкиси07"
-        ],
-        "composers": [
-          "Кэндзи Каваи"
-        ]
-      }
-    },
-    {
-      "id": "serial-32739",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Бездушные",
-      "title_orig": "Desalma",
-      "translation": {
-        "id": 794,
-        "title": "HDrezka Studio",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "kinopoisk_id": "1302510",
-      "imdb_id": "tt10839738",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-10-23T02:24:39Z",
-      "updated_at": "2021-02-21T08:02:29Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/788890/3cf753c2f8acc75f8ee6a48abbea8b41/720p",
-            "2": "//kodik.cc/seria/788891/c3aadb9ddde1a9f3964f55ca23df5819/720p",
-            "3": "//kodik.cc/seria/788892/698e13e2c5f9542635aeab9608902f70/720p",
-            "4": "//kodik.cc/seria/788893/02b304721a62ad38e121dfc534cdf95f/720p",
-            "5": "//kodik.cc/seria/789985/cc1e3b9b4e5c00ef4e545da8cb363fc5/720p",
-            "6": "//kodik.cc/seria/789047/4e639bbd1cf3050b8614df8c58569f07/720p",
-            "7": "//kodik.cc/seria/789048/fa2a8224bf98e620213074f85195210b/720p",
-            "8": "//kodik.cc/seria/789049/aaaa5d7bf7f61a1f7f7bc04f4bf86dd1/720p",
-            "9": "//kodik.cc/seria/789050/f0a0ead674c0ca9bc0f371e867039525/720p",
-            "10": "//kodik.cc/seria/789051/9c9af6dfe739726a3fe04b5b975b6f18/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Бездушные",
-        "title_en": "Desalma",
-        "year": 2020,
-        "tagline": "Never doubt the supernatural",
-        "description": "После самоубийства мужа женщина с дочерьми переезжает в Бригиду — небольшой город, где собираются вернуть языческие праздники Иваны Купалы, запрещенные 30 лет назад. Последующие ужасающие события вместе с опасным ритуалом переселения душ шокируют население города и раскрывают тайны преступления, которое связывает судьбы трёх семей.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1302510.jpg",
-        "countries": [
-          "Бразилия"
-        ],
-        "genres": [
-          "ужасы"
-        ],
-        "imdb_rating": 7.1,
-        "imdb_votes": 214,
-        "premiere_world": "2020-10-22",
-        "actors": [
-          "Фелипе Канненберг",
-          "Клаудия Абреу",
-          "Кассиа Кисс Магро",
-          "Anna Melo",
-          "Мария Рибейру"
-        ],
-        "directors": [
-          "Жоао Паулу Жабур",
-          "Карлос Манга мл.",
-          "Пабло Мюллер"
-        ],
-        "writers": [
-          "Ana Paula Maia"
-        ],
-        "designers": [
-          "Рафайл Таргат"
-        ]
-      }
-    },
-    {
-      "id": "serial-19530",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Гуляка из приграничного города",
-      "title_orig": "Border Town Prodigal",
-      "other_title": "Расточительный пограничный город / Виртуоз из пограничного города / Блудный сын пограничного города / Xin Bian Cheng Lang Zi",
-      "translation": {
-        "id": 1526,
-        "title": "FSG Yupimix.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 39,
-      "episodes_count": 39,
-      "mdl_id": "15866-border-town-prodigal",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-11-02T10:57:55Z",
-      "updated_at": "2021-02-21T00:48:58Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/519663/bf46909b724791aa7fc840c31a29aab9/720p",
-            "2": "//kodik.cc/seria/519664/f8e23d4576becf6992b9a8c994131c51/720p",
-            "3": "//kodik.cc/seria/519665/31dde87c2b690df6c4c1e352cbbb95a0/720p",
-            "4": "//kodik.cc/seria/519666/9ed90bb683744b8a7400532bd6317a5e/720p",
-            "5": "//kodik.cc/seria/519667/599a238749d15321dde0ebaf25e3024f/720p",
-            "6": "//kodik.cc/seria/519668/c669a707e445c233bc590f3907affd71/720p",
-            "7": "//kodik.cc/seria/519669/cfb4a2c6b3ff5567dc4f3959d115da86/720p",
-            "8": "//kodik.cc/seria/519670/707ce4a6db8fa14aaeb4b91e8fe75846/720p",
-            "9": "//kodik.cc/seria/522527/c7d9b221c693547884aae28456656174/720p",
-            "10": "//kodik.cc/seria/525597/7edd22ac2bfe362bc736fb479fb3900b/720p",
-            "11": "//kodik.cc/seria/528426/7d1e10ae8b15bf34ff571d0664f66519/720p",
-            "12": "//kodik.cc/seria/532491/805e68679ed926cc9f0b33dbabf38946/720p",
-            "13": "//kodik.cc/seria/539864/85ea4585c2fbe752695e6431eb505ce4/720p",
-            "14": "//kodik.cc/seria/539865/5187a4b420f117b9bf5f8db4fc655b78/720p",
-            "15": "//kodik.cc/seria/543167/239e93d2dfccadd1a7e1423c30db0450/720p",
-            "16": "//kodik.cc/seria/546395/e35d0598b37ceeb2b7b05690ac238b27/720p",
-            "17": "//kodik.cc/seria/549647/35601eb41e5824f2340b6176ffbfd5f5/720p",
-            "18": "//kodik.cc/seria/554892/a923864e628bc9335d3c86e894408594/720p",
-            "19": "//kodik.cc/seria/561844/eaa7814efc86d93b6f913c6a3de6c800/720p",
-            "20": "//kodik.cc/seria/574539/6d5b1be208f1eb7a9afa9336ad473ab7/720p",
-            "21": "//kodik.cc/seria/598012/c0b840de11aa6dc825c36c4a6248572c/720p",
-            "22": "//kodik.cc/seria/602557/bc76b0c234eeb5245afb6b93a7ef4318/720p",
-            "23": "//kodik.cc/seria/612939/437e60e533c713a335206d3d83032cdc/720p",
-            "24": "//kodik.cc/seria/618432/26a1dc71a77c08af8afca26e52341fb4/720p",
-            "25": "//kodik.cc/seria/630361/b13cdb8a12e9df63434645f72b8b570f/720p",
-            "26": "//kodik.cc/seria/639488/649e8edc5f40d833a245f882e4349e6c/720p",
-            "27": "//kodik.cc/seria/651909/b3bd1b689ec237aacdbf5f868c9a2455/720p",
-            "28": "//kodik.cc/seria/657825/29558fdd8c23f51450545220f1a5eb75/720p",
-            "29": "//kodik.cc/seria/662343/d59ebea7ba1eb043d1fa374ae1234b66/720p",
-            "30": "//kodik.cc/seria/666424/9deaa03654dabf85d28d61972280ab43/720p",
-            "31": "//kodik.cc/seria/682163/7b9ab828b5a35e5f819a02d88239cdc9/720p",
-            "32": "//kodik.cc/seria/688225/a7d860d250c61513245e58fc47de3d32/720p",
-            "33": "//kodik.cc/seria/692955/129571553d3e57eefdd0ba503ce14d8d/720p",
-            "34": "//kodik.cc/seria/722850/1290d32de2fb69972ee0d7ca72ad888e/720p",
-            "35": "//kodik.cc/seria/737492/41da506e3482e05fa71de69b08998e81/720p",
-            "36": "//kodik.cc/seria/738029/77c96a41757ba8d703753c3e2644d033/720p",
-            "37": "//kodik.cc/seria/740213/108a4808c6caad6df658aadde3e7d6d7/720p",
-            "38": "//kodik.cc/seria/744695/52306a4b2314624a5be8a2a8c68f1ad8/720p",
-            "39": "//kodik.cc/seria/789952/f0f6f56a605a6de5e93fccb03c8053bd/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-24656",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Югио! Новое поколение",
-      "title_orig": "Yuu Gi Ou: Duel Monsters GX",
-      "other_title": "Yu-Gi-Oh! GX",
-      "translation": {
-        "id": 825,
-        "title": "AniMaunt",
-        "type": "voice"
-      },
-      "year": 2004,
-      "last_season": 3,
-      "last_episode": 64,
-      "episodes_count": 64,
-      "kinopoisk_id": "254799",
-      "imdb_id": "tt0493334",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3508",
-      "shikimori_id": "482",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-10T16:18:40Z",
-      "updated_at": "2021-02-20T20:20:25Z",
-      "seasons": {
-        "3": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/627831/5f76ca3648b0efc80802b2c44c0926c8/720p",
-            "2": "//aniqit.com/seria/627832/343ffab99117b760a9998a3f55ad69a5/720p",
-            "3": "//aniqit.com/seria/627833/bd846116f24c022dc9acc867ae809633/720p",
-            "4": "//aniqit.com/seria/627834/c944222ecbb037569c872ed56611972c/720p",
-            "5": "//aniqit.com/seria/627835/d0ae56c7ed847e761911e6eca62953c1/720p",
-            "6": "//aniqit.com/seria/627836/1c911ea371bf92f7cf6856eb8e3f4e18/720p",
-            "7": "//aniqit.com/seria/627837/b719f987972725a8d350a36d88374774/720p",
-            "8": "//aniqit.com/seria/627838/673c15fc293c982280781c61cf47bba8/720p",
-            "9": "//aniqit.com/seria/627839/987cd1809ec2c60a2816d8be6c2608e6/720p",
-            "10": "//aniqit.com/seria/627840/cefec313df78ae8f4ca652663889b719/720p",
-            "11": "//aniqit.com/seria/627841/e84e1d3aed47de4eb9124b9fc95e1d63/720p",
-            "12": "//aniqit.com/seria/627842/4c7f0c45cb63b8b1d18617d4b984fdf6/720p",
-            "13": "//aniqit.com/seria/627843/3bdccc0c6e19f1e4a12ef7c54c6c0070/720p",
-            "14": "//aniqit.com/seria/627844/9da389cc2b36c797fa9b7b2b902cae58/720p",
-            "15": "//aniqit.com/seria/627845/cfa9cf97f1baf88e358b2fba47732175/720p",
-            "16": "//aniqit.com/seria/627846/c6696250ed296ab7f97b431893281e16/720p",
-            "17": "//aniqit.com/seria/627847/117aea3681a0c4a10e96e397c805e3f9/720p",
-            "18": "//aniqit.com/seria/627848/867b0d6791f0a6154bad1c019a6380ae/720p",
-            "19": "//aniqit.com/seria/627849/54b0890a5eba4548e22305172f12f4cd/720p",
-            "20": "//aniqit.com/seria/627850/36c631158a605ef4ea59bdeb2c236698/720p",
-            "21": "//aniqit.com/seria/627851/7cea209c59b1488c7c5617b1950f737e/720p",
-            "22": "//aniqit.com/seria/627852/64ba8226522797bd38f09b9dcc7d86f4/720p",
-            "23": "//aniqit.com/seria/627853/8328a4848d9cf67f9c801ede0c09e1fa/720p",
-            "24": "//aniqit.com/seria/627854/aab3cccc09654722cdfc8ad3aab3703f/720p",
-            "25": "//aniqit.com/seria/627855/7ca720bf9f9bbae4a4ab564ae86cbe5b/720p",
-            "26": "//aniqit.com/seria/627856/5a2eea7988163b97be21888bb120e65b/720p",
-            "27": "//aniqit.com/seria/627857/afb98568209d8be9213b4837542fd25a/720p",
-            "28": "//aniqit.com/seria/627858/69e8c4a6ef9f31a161239f3a1437f2a4/720p",
-            "29": "//aniqit.com/seria/627859/f376d2a052b2cc043bc7abfdb5642f85/720p",
-            "30": "//aniqit.com/seria/627860/c31f22455b3b31106b7bd46ddf63f10e/720p",
-            "31": "//aniqit.com/seria/627861/a2914cba8a5abfe34099952468cdab86/720p",
-            "32": "//aniqit.com/seria/627862/196d361eb7f31a6c3bdbca71fe796baa/720p",
-            "33": "//aniqit.com/seria/627863/d8ce46944408aec22c972950a5288b3c/720p",
-            "34": "//aniqit.com/seria/633474/602844fabb7b5bae7837d02b74d9c784/720p",
-            "35": "//aniqit.com/seria/633475/e75b1e185999438d12965a5e16b70d22/720p",
-            "36": "//aniqit.com/seria/678136/3dd4795eaf153938b0af3baec1c712f5/720p",
-            "37": "//aniqit.com/seria/678137/566fa73bb819ce39c8e0a364a64dc3ab/720p",
-            "38": "//aniqit.com/seria/678138/8a8a8e2845d8306ae44a2fe8731beb24/720p",
-            "39": "//aniqit.com/seria/678139/dd0972a00bc1a8fbfbc6badae767e62a/720p",
-            "40": "//aniqit.com/seria/678140/22cfc554e3ad6cb50d4a5c182eda64cc/720p",
-            "41": "//aniqit.com/seria/678141/83af46333c58deb8f424190912958b37/720p",
-            "42": "//aniqit.com/seria/678142/f7dcacf64f533f1f54dd746bd756cc72/720p",
-            "43": "//aniqit.com/seria/678143/6a3520b6f8e95c83127aa01f69866266/720p",
-            "44": "//aniqit.com/seria/678144/bcfba85092913a03dd2d28f866ea5b8f/720p",
-            "45": "//aniqit.com/seria/678145/5396176f66daea79d54fdf49fb77d9d4/720p",
-            "46": "//aniqit.com/seria/678146/1da4ee48e8f52d5c1bbec691412a0fe6/720p",
-            "47": "//aniqit.com/seria/678147/9dfba58bf6ce86580c23222810efe3c6/720p",
-            "48": "//aniqit.com/seria/678148/2ca12fd38b23588aa174d001d70281d7/720p",
-            "49": "//aniqit.com/seria/687004/eb0e414c69d590a268c0e6e8377f50cb/720p",
-            "50": "//aniqit.com/seria/699834/d282d45c5e03c8bd5efc4ff8925cf4cf/720p",
-            "51": "//aniqit.com/seria/699835/8fbfd65b3d5886b79e6e09fd11135628/720p",
-            "52": "//aniqit.com/seria/699836/9c86d45f131845bf230e9d6ba5b88f08/720p",
-            "53": "//aniqit.com/seria/714159/3a919279e2c41208dad51a9b8b6e2a78/720p",
-            "54": "//aniqit.com/seria/714160/de6c19964ab1fb0c0d420fe56aa40be5/720p",
-            "55": "//aniqit.com/seria/714161/40a2b032775b1d8fa9e04a8edb9ea531/720p",
-            "56": "//aniqit.com/seria/717824/2fa6430dec3b4513f739f4e80a81ef9b/720p",
-            "57": "//aniqit.com/seria/717827/1af4a1f0dfe753db6d2f1ec36bba4c7a/720p",
-            "58": "//aniqit.com/seria/764328/942f6dbd4bbe144df9952d063733fee7/720p",
-            "59": "//aniqit.com/seria/764329/c8312bb56f87bb6689b9a114820ac6e4/720p",
-            "60": "//aniqit.com/seria/764330/edefb1fdc75548a5c418e7ce74cdfa97/720p",
-            "61": "//aniqit.com/seria/775117/5534b1ca1eccc2738a06937fdc3039fc/720p",
-            "62": "//aniqit.com/seria/775118/70d7761249f7e19d0addccddd50917e0/720p",
-            "63": "//aniqit.com/seria/789915/19f478013d0e11c75712751935e0f013/720p",
-            "64": "//aniqit.com/seria/789916/77ef667baddb63a2c682799befc776ec/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Югио!",
-        "title_en": "Yu-Gi-Oh! GX",
-        "other_titles": [
-          "Yu-Gi-Oh! GX",
-          "Yugioh GX",
-          "Yu-Gi-Oh! Genex",
-          "Yugioh Genex",
-          "Yu-Gi-Oh!: Duel Monsters GX",
-          "Yugioh: Duel Monsters GX",
-          "Yu-Gi-Oh!: Duel Monsters Genex",
-          "Yugioh: Duel Monsters Genex",
-          "Game King of Duel Monsters GX"
-        ],
-        "other_titles_en": [
-          "Yu-Gi-Oh! GX"
-        ],
-        "other_titles_jp": [
-          "遊☆戯☆王　デュエルモンスターズ GX"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2004,
-        "tagline": "Get your Game on!",
-        "description": "Карточные баталии на портативных консолях еще не знали такого накала страстей! Yu-Gi-Oh! Duel Monsters GX: Tag Force 3 - самый продвинутый проект серии для PSP на сегодняшний день. Более трех с половиной тысяч карт позволяют выстраивать немыслимые комбинации и одерживать верх над соперниками множеством разнообразных способов.\r\n\r\nСобытия игры разворачиваются во вселенной популярного телесериала Yu-Gi-Oh! GX и основываются на третьем и четвертом сезонах. Вы встретите знакомых героев и сможете вместе с ними поучаствовать в грандиозных магических сражениях и захватывающих, непредсказуемых приключениях. Внушительная колода карт предоставляет богатый выбор ловушек, монстров и заклинаний, так что скучать на этой фантастической войне не придется.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/254799.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/05205099b2150d468d8710f3a271a5b5f55afd1b.jpg",
-          "https://shikimori.one/system/screenshots/original/55bb7ecdfcfa19830501842521028f0b3ad4f4f1.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Игры",
-          "Комедия",
-          "Сёнен",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Gallop"
-        ],
-        "imdb_rating": 6.8,
-        "imdb_votes": 3805,
-        "shikimori_rating": 7.16,
-        "shikimori_votes": 0,
-        "premiere_world": "2004-10-06",
-        "aired_at": "2004-10-06",
-        "released_at": "2008-03-26",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 180,
-        "episodes_aired": 0,
-        "actors": [
-          "Мэттью Лаборто",
-          "Уэйн Грэйсон",
-          "Тони Салерно",
-          "Канако Ириэ",
-          "Кристофер Коллет",
-          "Шон Шеммель",
-          "Эрик Стюарт",
-          "Марк Томпсон",
-          "Мадлен Блауштейн",
-          "Тед Льюис"
-        ],
-        "directors": [
-          "Хацуки Цудзи"
-        ],
-        "producers": [
-          "Майкл Пекориелло",
-          "Мэттью Дрдек"
-        ],
-        "writers": [
-          "Кадзуки Такахаси",
-          "Джон Доминик Дрдек",
-          "Eric Basart",
-          "Мэттью Дрдек",
-          "Хелен Труонг"
-        ],
-        "composers": [
-          "Фредди Шейнфилд",
-          "Элик Альварез",
-          "Liz Lysinger"
-        ]
-      }
-    },
-    {
-      "id": "serial-27456",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Альбом с привидениями",
-      "title_orig": "Obake Zukan",
-      "other_title": "おばけずかん",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 33,
-      "episodes_count": 32,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10411",
-      "shikimori_id": "41383",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-05T09:44:41Z",
-      "updated_at": "2021-02-20T19:17:58Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/680617/9504e63aa499c2ac5b648adc37bfc939/720p",
-            "2": "//aniqit.com/seria/687526/c86c9c72580d24f5b417830565018bc3/720p",
-            "3": "//aniqit.com/seria/687527/64db1de60975cbe08f783dd555d6ae29/720p",
-            "4": "//aniqit.com/seria/692560/8cc38b70447ceff3c7509ca89b945478/720p",
-            "5": "//aniqit.com/seria/695233/1edf1c23e4345e7abf9a6dd78e3fe13f/720p",
-            "7": "//aniqit.com/seria/708022/850006a5f8f613318f299e57e57353d3/720p",
-            "8": "//aniqit.com/seria/708023/30afddfef07876efbd822b04ea02928b/720p",
-            "9": "//aniqit.com/seria/713047/d794e3dc2037017b8ed68fbc267cf20d/720p",
-            "10": "//aniqit.com/seria/716861/44abddb64c5d68e6feb2b48beed965ba/720p",
-            "11": "//aniqit.com/seria/718062/d45ebeda70281af2918836395376379e/720p",
-            "12": "//aniqit.com/seria/720249/e888799965a932d9e777be1ff12bf0b0/720p",
-            "13": "//aniqit.com/seria/721134/77750cb63c602cc0d835a5665218df85/720p",
-            "14": "//aniqit.com/seria/722184/e3da2d0bb8ee06038a75c20e98a4b8cb/720p",
-            "15": "//aniqit.com/seria/723113/934e2547570658747c7172e613af0cfe/720p",
-            "16": "//aniqit.com/seria/724689/fb1cf7d8fb8f5d59ed856c37ba352df1/720p",
-            "17": "//aniqit.com/seria/726877/fdd6010e235afd5c3682af927d18b652/720p",
-            "18": "//aniqit.com/seria/730009/ab0a9021fb663ec0fac52639ff4231f8/720p",
-            "19": "//aniqit.com/seria/731003/f3cb499d6d0ee820161ac4651e3f3819/720p",
-            "20": "//aniqit.com/seria/732748/731a6640aa570c272ebb212f7653407d/720p",
-            "21": "//aniqit.com/seria/734613/685208493743b0965415f05d29747abc/720p",
-            "22": "//aniqit.com/seria/735833/73ce5de55d62622fc9c76989c5fe052c/720p",
-            "23": "//aniqit.com/seria/738526/3a2d2c6f4cc01716bc6fdccdc342827b/720p",
-            "24": "//aniqit.com/seria/740342/1082c487be82060821c891cd050977bd/720p",
-            "25": "//aniqit.com/seria/743051/f4a15b1da09d04f1456712482869505c/720p",
-            "26": "//aniqit.com/seria/754344/910d5dde183b48f24b5af197ce65a913/720p",
-            "27": "//aniqit.com/seria/762773/e3a55094b143ff1ee164d55d8e0f1f2d/720p",
-            "28": "//aniqit.com/seria/767425/f557e0b475f7095796d1d4e0dd0d50cb/720p",
-            "29": "//aniqit.com/seria/772972/817b3a092eafcb41ffe9215c924128e2/720p",
-            "30": "//aniqit.com/seria/777602/5b54c0879c633e8b9e850a41f0294324/720p",
-            "31": "//aniqit.com/seria/780908/5400ccfcf91cc0197e4f412d3feffaac/720p",
-            "32": "//aniqit.com/seria/785783/930eac13afacf497436b955c48b777b2/720p",
-            "33": "//aniqit.com/seria/789883/f46e5514c6b13b654d0ec2f3c3001fd9/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Альбом с привидениями",
-        "title_en": "Obake Zukan",
-        "other_titles_jp": [
-          "おばけずかん"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "ongoing",
-        "poster_url": "https://shikimori.one/system/animes/original/41383.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/683ad30e5ba5d8151f99c77abebca12da64870f4.jpg",
-          "https://shikimori.one/system/screenshots/original/e2bffa7c071180e6e34ff4efd4f1790af9c22e7b.jpg"
-        ],
-        "anime_genres": [
-          "Демоны",
-          "Детское",
-          "Комедия",
-          "Сверхъестественное",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Fanworks"
-        ],
-        "shikimori_rating": 0,
-        "shikimori_votes": 13,
-        "aired_at": "2020-07-01",
-        "episodes_total": 0,
-        "episodes_aired": 1
-      }
-    },
-    {
-      "id": "serial-29653",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "До встречи в следующей жизни",
-      "title_orig": "I Beg You to be Reborn Near Me",
-      "other_title": "Последнее обещание / Kor Kerd Mai Klai Klai Ter",
-      "translation": {
-        "id": 1557,
-        "title": "FSG Thai Miracle.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-10-10T08:51:56Z",
-      "updated_at": "2021-02-20T18:34:22Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/723527/622a7ebe4e1bba259f341fc6040a2e5c/720p",
-            "2": "//kodik.cc/seria/726860/f85097f98b978ba60b7dabdcf6094216/720p",
-            "3": "//kodik.cc/seria/729793/81a2d1e5f4be5deb93d399b527ec9f1c/720p",
-            "4": "//kodik.cc/seria/731655/1c16512ca65d97a345a76a657b89c76c/720p",
-            "5": "//kodik.cc/seria/732612/22d347d022d9f1a80cb1f5b86efe9dff/720p",
-            "6": "//kodik.cc/seria/733718/91cc19e86d828358f62e2cac983793ff/720p",
-            "7": "//kodik.cc/seria/760542/130b6102cf5ca299b5698da742dc771a/720p",
-            "8": "//kodik.cc/seria/774440/14985344370cd790eee157187f65d333/720p",
-            "9": "//kodik.cc/seria/778951/d490a8dce9c455fa6f88b9461db7a216/720p",
-            "10": "//kodik.cc/seria/789867/07c5f516b1791dae3ab9a5dacb43f92a/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-30418",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Первая встреча, последнее прощание",
-      "title_orig": "To Love",
-      "other_title": "Ради любви / Zui Chu De Xiang Yu, Zui Hou De Bie Li / Love and Lost / First Meeting, Last Farewell / The First Encounter, the Last Parting",
-      "translation": {
-        "id": 1706,
-        "title": "FSG K I S S A.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 8,
-      "episodes_count": 8,
-      "mdl_id": "35849-first-meeting-last-farewell",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-12-13T18:08:07Z",
-      "updated_at": "2021-02-20T18:32:30Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/741399/f7858dc8d3dd469b5d4a05ff669dbab5/720p",
-            "2": "//kodik.cc/seria/742429/0f9ac1a8ecdeba04c229cb870215f8d6/720p",
-            "3": "//kodik.cc/seria/743211/4254a8973e34c2164f31cc6a04b60059/720p",
-            "4": "//kodik.cc/seria/776398/3d5e01bf61e4c091e2e17d6b28acd86f/720p",
-            "5": "//kodik.cc/seria/776417/1c3f1e68fb6303c2691cfa11bddd3c3d/720p",
-            "6": "//kodik.cc/seria/789859/54e70a4bd3b4b13bb16e33422acc288f/720p",
-            "7": "//kodik.cc/seria/789860/2e94963db7e6030e32aeda8259a01c6e/720p",
-            "8": "//kodik.cc/seria/789865/98543998891c8f64f859f3af3e1e897e/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-29796",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Истории мечей",
-      "title_orig": "Katanagatari",
-      "other_title": "Катанагатари",
-      "translation": {
-        "id": 610,
-        "title": "AniLibria.TV",
-        "type": "voice"
-      },
-      "year": 2010,
-      "last_season": 1,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "kinopoisk_id": "607020",
-      "imdb_id": "tt1945730",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7310",
-      "shikimori_id": "6594",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-10-17T18:26:01Z",
-      "updated_at": "2021-02-20T17:55:05Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/725782/d160ebf05747efbf8bd7905e94fa3eaf/720p",
-            "2": "//aniqit.com/seria/729433/a504369984f07ae2d08d7ce115cbe11a/720p",
-            "3": "//aniqit.com/seria/733039/26b71acd7c0dfd0714a2e394e9748e7b/720p",
-            "4": "//aniqit.com/seria/737143/9b43bc59fb987cdccb4c2f66eed7b4f6/720p",
-            "5": "//aniqit.com/seria/741098/5970afe2e31e05aa7c029ca1cab97ec1/720p",
-            "6": "//aniqit.com/seria/759994/7281fa656df0af48e7664c899afa9b93/720p",
-            "7": "//aniqit.com/seria/763731/ab82f5f5284c1efa238a12a3bd359528/720p",
-            "8": "//aniqit.com/seria/774506/1ebc1568761f20dc0b6d3a0d5ad43490/720p",
-            "9": "//aniqit.com/seria/781147/48827d0023402b68b5ed8b469549397e/720p",
-            "10": "//aniqit.com/seria/789853/ab50501f14b4df014ba6594d68890f3c/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Истории мечей",
-        "title_en": "Katanagatari",
-        "other_titles": [
-          "Sword Story"
-        ],
-        "other_titles_en": [
-          "Katanagatari"
-        ],
-        "other_titles_jp": [
-          "刀語"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2010,
-        "description": "В альтернативной средневековой Японии подошла к концу эпоха битв, и настала эра Овари – твердой власти сёгуната. Последнее крупное восстание князя Хиды было жестоко подавлено, ведущую роль в этом сыграл Муцуэ Ясури, шестой глава Кёто-рю – уникальной школы рукопашного боя. Сёгун не забыл заслуг мастера и, как положено, вскоре после упрочения своей власти в знак благодарности сослал того вместе с семьей на необитаемый остров. Прошло 20 лет, и в стране наступило спокойствие…",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/607020.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/dcadc0cb487a4d267c9b277deb1273ca0ed938af.jpg",
-          "https://shikimori.one/system/screenshots/original/2862fcda249fa240022d2eee78ddbe0f94c665a0.jpg"
-        ],
-        "duration": 50,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Боевые искусства",
-          "Исторический",
-          "Приключения",
-          "Романтика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "White Fox"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 1061,
-        "imdb_rating": 7.9,
-        "imdb_votes": 1104,
-        "shikimori_rating": 8.37,
-        "shikimori_votes": 11422,
-        "premiere_world": "2010-01-25",
-        "aired_at": "2010-01-26",
-        "released_at": "2010-12-11",
-        "rating_mpaa": "R",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Ёшимаса Хосоя"
-        ],
-        "directors": [
-          "Кэйтаро Мотонага",
-          "Томоки Кобаяси",
-          "Синдзи Сато"
-        ],
-        "producers": [
-          "Наохиро Футоно",
-          "Масаюки Харю",
-          "Сюндзи Иноэ",
-          "Ёсио Ириэ",
-          "Гаку Иваса",
-          "Хидэо Кацумата",
-          "Коитиро Нацумэ",
-          "Норико Одзаки",
-          "Хиронори Тоба",
-          "Томикава Яцухо"
-        ],
-        "writers": [
-          "Макото Уэдзу",
-          "Токо Матида",
-          "Харуко Накацу",
-          "Исин Нисио"
-        ],
-        "composers": [
-          "Таку Ивасаки"
-        ],
-        "editors": [
-          "Дзюн Тагума"
-        ],
-        "designers": [
-          "Тадаси Кудо"
-        ],
-        "operators": [
-          "Кэисукэ Накамура"
-        ]
-      }
-    },
-    {
-      "id": "serial-31893",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Рандеву с жизнью [ТВ-1]",
-      "title_orig": "Date a Live",
-      "other_title": "デート・ア・ライブ",
-      "translation": {
-        "id": 610,
-        "title": "AniLibria.TV",
-        "type": "voice"
-      },
-      "year": 2013,
-      "last_season": 1,
-      "last_episode": 4,
-      "episodes_count": 4,
-      "kinopoisk_id": "762141",
-      "imdb_id": "tt2575684",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1176",
-      "shikimori_id": "15583",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-01-16T12:53:12Z",
-      "updated_at": "2021-02-20T17:04:34Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/769073/0ea7dc4ef18666995447db82e4425049/720p",
-            "2": "//aniqit.com/seria/777933/3e2b7282b969f7cf948ebb6075efbfd2/720p",
-            "3": "//aniqit.com/seria/781186/47bff2df5d4c345c249ef0bc4de3dbf0/720p",
-            "4": "//aniqit.com/seria/789846/e4a958cdf1d6412a16018516051f675a/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Рандеву с жизнью",
-        "title_en": "Date a Live",
-        "other_titles_en": [
-          "Date A Live"
-        ],
-        "other_titles_jp": [
-          "デート・ア・ライブ"
-        ],
-        "anime_license_name": "Рандеву с жизнью",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2013,
-        "description": "16-летний Сидо Ицука в раннем детстве остался без родителей и теперь вместе с младшей сестрой Котори обитает в пригороде Токио. Однажды из-за сестры Ицука оказался прямо в эпицентре катаклизма и узнал, что неведомые Духи являются на Землю.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/762141.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/c87cac3450f1aeed58c081cec0898d498c675099.jpg",
-          "https://shikimori.one/system/screenshots/original/c1fcc64eeefc78fe9b3b1cfd086f655b6d7c19d4.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Комедия",
-          "Меха",
-          "Романтика",
-          "Фантастика",
-          "Школа"
-        ],
-        "anime_studios": [
-          "AIC PLUS+"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 3386,
-        "imdb_rating": 7,
-        "imdb_votes": 2103,
-        "shikimori_rating": 7.24,
-        "shikimori_votes": 25800,
-        "premiere_world": "2013-03-31",
-        "aired_at": "2013-04-06",
-        "released_at": "2013-06-22",
-        "rating_mpaa": "R",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Симадзаки Нобунага",
-          "Марина Иноуэ",
-          "Аяна Такэтацу",
-          "Мисудзу Тогаси",
-          "Ая Эндо",
-          "Такэхито Коясу",
-          "Го Иноэ",
-          "Gorgeous",
-          "Анри Кацу",
-          "Каори Садохара"
-        ],
-        "directors": [
-          "Кэйтаро Мотонага",
-          "Даисукэ Эгути"
-        ],
-        "producers": [
-          "Тиаки Кураканэ",
-          "Такэси Ясуда",
-          "Такафуми Исибаси",
-          "Масахиро Киба",
-          "Такэси Кикути",
-          "Ёсикадзу Кумагаи",
-          "Хирокуни Маэяма",
-          "Тору Миура",
-          "Сатоси Мотонага",
-          "Синобу Муракава"
-        ],
-        "writers": [
-          "Хидэки Сиранэ",
-          "Коси Татибана"
-        ],
-        "composers": [
-          "Го Сакабэ"
-        ],
-        "editors": [
-          "Итиро Тяэн",
-          "Такаси Сакураи",
-          "Сюн Токуда"
-        ],
-        "designers": [
-          "Хироси Ито"
-        ],
-        "operators": [
-          "Таики Окутани",
-          "Кэнто Сасаки",
-          "Нодзоми Ситара"
-        ]
-      }
-    },
-    {
-      "id": "serial-32030",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Закрывшись в одиноком замке",
-      "title_orig": "Gu cheng bi",
-      "other_title": "Песнь мира и процветания / Герой одинокого замка / Серенада мирной радости / Serenade of Peaceful Joyi / Held in the Lonely Castle / Lonely City Closed / Isolated City / Qing Ping Le",
-      "translation": {
-        "id": 948,
-        "title": "CrazyCatStudio",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "1269154",
-      "imdb_id": "tt10380642",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-01-20T11:39:03Z",
-      "updated_at": "2021-02-20T13:55:17Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/772122/8b02d018891cb5c90d26a83ab90bdbe1/720p",
-            "2": "//kodik.cc/seria/775283/38ae4a14482e6c2bdfdaa1cc46272765/720p",
-            "3": "//kodik.cc/seria/779462/5a093b5b7b92514b5629479eef38c523/720p",
-            "4": "//kodik.cc/seria/780694/0e1de3e40576717866de34dd40bbc161/720p",
-            "5": "//kodik.cc/seria/786742/6001e9544e7dc158ff4445a240458a75/720p",
-            "6": "//kodik.cc/seria/789836/d1cae8ddb649ba4cd8a4addb8b4f6c87/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Закрывшись в одиноком замке",
-        "title_en": "Gu cheng bi",
-        "year": 2020,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1269154.jpg",
-        "duration": 45,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "история",
-          "мелодрама"
-        ],
-        "imdb_rating": 7.9,
-        "imdb_votes": 33,
-        "premiere_world": "2020-04-07",
-        "actors": [
-          "Ван Кай",
-          "Цзянь Шуин",
-          "Жэнь Минь",
-          "Ян Лэ",
-          "Юй Эньтай",
-          "У Юэ",
-          "Чжао Да",
-          "Чэ Сяо",
-          "Тань Сихэ",
-          "Feng Chu"
-        ],
-        "directors": [
-          "Чжан Кайчжоу"
-        ],
-        "producers": [
-          "Хоу Хунлян"
-        ],
-        "writers": [
-          "Wei Nie",
-          "Чжу Чжу"
-        ]
-      }
-    },
-    {
-      "id": "serial-27673",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Любовь в реальном времени",
-      "title_orig": "Real:Time:Love",
-      "other_title": "Любовь в режиме реального времени / Реальность:Время:Любовь / Любовь в реальном времени 2 / Любовь в реальном времени 3 / Любовь в реальном времени 4 / Real:Time:Love 2",
-      "translation": {
-        "id": 963,
-        "title": "Amazing Dubbing",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 4,
-      "last_episode": 5,
-      "episodes_count": 36,
-      "mdl_id": "56675-real-time-love",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-11T09:31:23Z",
-      "updated_at": "2021-02-20T13:29:08Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/736243/87cdb250bb18dabd2e8de44e7172161e/720p",
-            "2": "//kodik.cc/seria/736244/d0673d095671bfaeeb70b9cfe19a9c81/720p",
-            "3": "//kodik.cc/seria/736245/4848dba1a3e48207d08eae24f5b16558/720p",
-            "4": "//kodik.cc/seria/736246/7a8654a98e8156a6c64731c9fac67b1f/720p",
-            "5": "//kodik.cc/seria/736247/376e1604c2e4f8281d5455e7af798e02/720p",
-            "6": "//kodik.cc/seria/736248/ea5a6833c3c5f037cfef25f709490ae0/720p",
-            "7": "//kodik.cc/seria/736249/d1d36c54bc87d2a075ab32ea273d821f/720p",
-            "8": "//kodik.cc/seria/736250/484d41e44821eb43914d94c18bcd3b91/720p",
-            "9": "//kodik.cc/seria/736251/f7c225f04ccf2b7ad7465b6bad300ea6/720p",
-            "10": "//kodik.cc/seria/736252/6375ff0e384ac30c121bd3db99b2d569/720p",
-            "11": "//kodik.cc/seria/736253/ec8a54975f76428b13dd5a186dfb6ec3/720p",
-            "12": "//kodik.cc/seria/736254/1660cfdace71a7008cf0313950a49eeb/720p",
-            "13": "//kodik.cc/seria/736255/91c9c939e3fb8f9ca619cc7c29012166/720p",
-            "14": "//kodik.cc/seria/736256/9d3bfac035abec5f17233293953b9cee/720p",
-            "15": "//kodik.cc/seria/736257/7c683b0c76245e7c93af16544688fb4f/720p"
-          }
-        },
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/684323/87cdb250bb18dabd2e8de44e7172161e/720p",
-            "2": "//kodik.cc/seria/684324/d0673d095671bfaeeb70b9cfe19a9c81/720p",
-            "3": "//kodik.cc/seria/684325/4848dba1a3e48207d08eae24f5b16558/720p",
-            "4": "//kodik.cc/seria/684326/7a8654a98e8156a6c64731c9fac67b1f/720p",
-            "5": "//kodik.cc/seria/684327/376e1604c2e4f8281d5455e7af798e02/720p",
-            "6": "//kodik.cc/seria/684328/ea5a6833c3c5f037cfef25f709490ae0/720p",
-            "7": "//kodik.cc/seria/684329/d1d36c54bc87d2a075ab32ea273d821f/720p",
-            "8": "//kodik.cc/seria/684330/484d41e44821eb43914d94c18bcd3b91/720p"
-          }
-        },
-        "3": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/736258/87cdb250bb18dabd2e8de44e7172161e/720p",
-            "2": "//kodik.cc/seria/736259/d0673d095671bfaeeb70b9cfe19a9c81/720p",
-            "3": "//kodik.cc/seria/736260/4848dba1a3e48207d08eae24f5b16558/720p",
-            "4": "//kodik.cc/seria/761005/7a8654a98e8156a6c64731c9fac67b1f/720p",
-            "5": "//kodik.cc/seria/761006/376e1604c2e4f8281d5455e7af798e02/720p",
-            "6": "//kodik.cc/seria/761007/ea5a6833c3c5f037cfef25f709490ae0/720p",
-            "7": "//kodik.cc/seria/761008/d1d36c54bc87d2a075ab32ea273d821f/720p",
-            "8": "//kodik.cc/seria/761009/484d41e44821eb43914d94c18bcd3b91/720p"
-          }
-        },
-        "4": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/768200/87cdb250bb18dabd2e8de44e7172161e/720p",
-            "2": "//kodik.cc/seria/771758/d0673d095671bfaeeb70b9cfe19a9c81/720p",
-            "3": "//kodik.cc/seria/778067/4848dba1a3e48207d08eae24f5b16558/720p",
-            "4": "//kodik.cc/seria/778790/7a8654a98e8156a6c64731c9fac67b1f/720p",
-            "5": "//kodik.cc/seria/789833/376e1604c2e4f8281d5455e7af798e02/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-31130",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Долгое путешествие Порфи",
-      "title_orig": "Porphy no Nagai Tabi",
-      "other_title": "ポルフィの長い旅",
-      "translation": {
-        "id": 963,
-        "title": "Amazing Dubbing",
-        "type": "voice"
-      },
-      "year": 2008,
-      "last_season": 1,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "kinopoisk_id": "436147",
-      "imdb_id": "tt1161683",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6728",
-      "shikimori_id": "3424",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-12-27T18:48:14Z",
-      "updated_at": "2021-02-20T13:28:57Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/757079/392245c5bd084c5cc241bf26551dfe77/720p",
-            "2": "//aniqit.com/seria/757942/236dc7afe42b0e3d11bc9fc2ceec7d8c/720p",
-            "3": "//aniqit.com/seria/765413/cae83e02c3008f753194f5f7570c4c25/720p",
-            "4": "//aniqit.com/seria/767933/aab040d911a6b78aec6e1e23b9618d25/720p",
-            "5": "//aniqit.com/seria/768809/4ccfb73d466222b2cd976323a82d23bc/720p",
-            "6": "//aniqit.com/seria/772797/7773023ab7979eec7da45f7f5bc298df/720p",
-            "7": "//aniqit.com/seria/789829/4cec246f22961ac683ab2d01798f09e1/720p",
-            "8": "//aniqit.com/seria/789830/349bad71b456e31d9caa720ea7481dd0/720p",
-            "9": "//aniqit.com/seria/789831/b06131b20f1d6f994861220a5d2d70e9/720p",
-            "10": "//aniqit.com/seria/789832/fcbe5226fdbc2e5462d79bfa29dce708/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Долгое путешествие Порфи",
-        "title_en": "Porufi no nagai tabi",
-        "other_titles": [
-          "Porufi no Nagai Tabi",
-          "The Long Journey of Porfyi",
-          "Porfy's Long Journey"
-        ],
-        "other_titles_en": [
-          "The Orphans of Simitra"
-        ],
-        "other_titles_jp": [
-          "ポルフィの長い旅"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2008,
-        "description": "Порфирасу «Порфи» Патагосу почти 13 лет, он всегда жил со своими родителями и сестрой Миной в деревне Симитра в нескольких километрах от Янины. От своего отца, он унаследовал страсть к автомобилям и надежду на то, что в один прекрасный день, он сможет работать на заправке в маленьком гараже, который его отец построил недалеко от их дома. Но мечты Порфи были внезапно сметены сильным землетрясением, которое поразило Симитру, и в котором погибли его родители. Порфи и его младшая сестра Мина остаются сиротами. Вскоре после трагедии, Мина исчезает. Порфи в отчаянии, ведь для Мины он единственный близкий человек. Он решает отправиться в путешествие через Италию и Францию на поиски своей сестры. Единственное что может помочь ему в поисках, это фотография Мины и тот факт, что у Мины была любовь к пению, она хотела стать певицей. Во время этого долгого путешествия, которое будет длиться пять месяцев, Порфи придётся пережить трудные времена, захватывающие приключения и познакомиться со множеством людей.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/436147.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/1527a1137396be48ff78f6c4ec093d9e0378b6ab.jpg",
-          "https://shikimori.one/system/screenshots/original/ebb23eeb687e8a8785600803a2cecd83c25e3161.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Детское",
-          "Драма",
-          "Исторический",
-          "Повседневность"
-        ],
-        "anime_studios": [
-          "Nippon Animation"
-        ],
-        "shikimori_rating": 6.98,
-        "shikimori_votes": 45,
-        "premiere_world": "2008-01-06",
-        "aired_at": "2008-01-06",
-        "released_at": "2008-12-28",
-        "rating_mpaa": "PG",
-        "episodes_total": 52,
-        "episodes_aired": 0,
-        "actors": [
-          "Аюми Фудзимура",
-          "Кадзухико Иноуэ",
-          "Юки Каида",
-          "Суми Симамото"
-        ],
-        "directors": [
-          "Томоми Мотидзуки"
-        ],
-        "writers": [
-          "Paul-Jacques Bonzon"
-        ]
-      }
-    },
-    {
-      "id": "serial-32751",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Новый облик змеи",
-      "title_orig": "Kuch Toh Hai: Naagin Ek Naye Rang Mein",
-      "translation": {
-        "id": 1583,
-        "title": "FSG Dream Serials.Subtitles\t",
-        "type": "subtitles"
-      },
-      "year": 2021,
-      "last_season": 1,
-      "last_episode": 3,
-      "episodes_count": 3,
-      "imdb_id": "tt13937900",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-02-19T09:27:23Z",
-      "updated_at": "2021-02-20T10:23:14Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/789181/ad721c05635d5761ffd7025f35ffe8b2/720p",
-            "2": "//kodik.cc/seria/789182/06ede730cf21ca8ed895dcb9eb45df24/720p",
-            "3": "//kodik.cc/seria/789680/a38a186dfac2fda52ed299dbe9dd8af1/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-30363",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Питомец",
-      "title_orig": "Pet",
-      "other_title": "ペット",
-      "translation": {
-        "id": 957,
-        "title": "youmiteru",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "kinopoisk_id": "1338026",
-      "imdb_id": "tt10496580",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9638",
-      "shikimori_id": "37522",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-12-10T13:03:37Z",
-      "updated_at": "2021-02-20T10:22:57Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/740048/b485ef3a0a52a8f116178094001e7f1e/720p",
-            "2": "//aniqit.com/seria/740049/a0d7203d884c3648b7fd5e5069149d61/720p",
-            "3": "//aniqit.com/seria/740050/737bbc4352c9ac46534d4bd8107a35be/720p",
-            "4": "//aniqit.com/seria/764679/3f0c5f6d391c4fca6ea060fa48017405/720p",
-            "5": "//aniqit.com/seria/770647/0dc2666a46ffda1eb27d86d7e472c29a/720p",
-            "6": "//aniqit.com/seria/789679/7e2d00faaa9ba864f79c18eea18ac18a/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Питомец",
-        "title_en": "Pet",
-        "other_titles_en": [
-          "Pet"
-        ],
-        "other_titles_jp": [
-          "ペット"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2020,
-        "description": "Существуют люди, которые умеют проникать в чужой разум и переписывать воспоминания. Их силы используют как криминалисты, так и преступники. Эти люди могут свести с ума, но их способности плохо сказываются на сердце, поэтому, чтобы защитить самые слабые и опасные сердца, на них навешивают цепи. Эта особенность, страх за свою память и вытекающее из него презрение породили прозвище — питомцы.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1338026.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/598f0d52f1ba940a72be48a158027d475a6261bf.jpg",
-          "https://shikimori.one/system/screenshots/original/946414dcdad4bdd4d29d3900e95d3593b316ce19.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "детектив",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Психологическое",
-          "Сверхъестественное",
-          "Сейнен"
-        ],
-        "anime_studios": [
-          "Geno Studio"
-        ],
-        "imdb_rating": 6.3,
-        "imdb_votes": 168,
-        "shikimori_rating": 6.48,
-        "shikimori_votes": 1672,
-        "premiere_world": "2020-01-06",
-        "aired_at": "2020-01-06",
-        "released_at": "2020-03-30",
-        "rating_mpaa": "R",
-        "episodes_total": 13,
-        "episodes_aired": 13,
-        "actors": [
-          "Кисё Танияма",
-          "Кэисукэ Уэда",
-          "Ясуюки Касэ",
-          "Юки Оно"
-        ],
-        "directors": [
-          "Такахиро Омори"
-        ],
-        "writers": [
-          "Садаюки Мураи"
-        ]
-      }
-    },
-    {
-      "id": "serial-32599",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Путешествие сквозь ночь",
-      "title_orig": "Wo zai xiang gang yu jian ta",
-      "other_title": "The Journey Across the Night",
-      "translation": {
-        "id": 948,
-        "title": "CrazyCatStudio",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 5,
-      "episodes_count": 5,
-      "kinopoisk_id": "1428655",
-      "imdb_id": "tt13106758",
-      "mdl_id": "50139-the-journey-across-the-night",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-02-12T09:46:16Z",
-      "updated_at": "2021-02-20T10:20:56Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/785578/44d385ba247484fbf19fb3c12d5e7227/720p",
-            "2": "//kodik.cc/seria/786404/86a59764b7395213f9e8f8f69e5a01e2/720p",
-            "3": "//kodik.cc/seria/788749/dda4795381a0fbd36ca82bdf0ab9014d/720p",
-            "4": "//kodik.cc/seria/788772/91f97eb8b1430b88388f994f4739470d/720p",
-            "5": "//kodik.cc/seria/789678/ec04263ef5df2e285aeec0a50f71dddf/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Путешествие сквозь ночь",
-        "title_en": "Wo zai xiang gang yu jian ta",
-        "year": 2020,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1428655.jpg",
-        "duration": 45,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "детектив",
-          "мелодрама"
-        ],
-        "premiere_world": "2020-09-21",
-        "actors": [
-          "Джозеф Цзэн",
-          "Черри Нган",
-          "Чжоу Чэнгао",
-          "Фэн Цзяньюй",
-          "Гао Сюйюань",
-          "Хэй Цзы",
-          "Хуан Яо",
-          "Цзюй Синмао",
-          "Лолетта Ли",
-          "Лоуренс Нг"
-        ],
-        "directors": [
-          "Цзюй Синмао"
-        ],
-        "writers": [
-          "Цзинь Цзинь",
-          "Жао Хуэй"
-        ]
-      }
-    },
-    {
-      "id": "movie-68251",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Выездка",
-      "title_orig": "Dressage",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1131484",
-      "imdb_id": "tt8037650",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-02-20T06:33:14Z",
-      "updated_at": "2021-02-20T06:33:14Z",
-      "material_data": {
-        "title": "Dressage",
-        "title_en": "",
-        "year": 2018,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1131484.jpg",
-        "duration": 88,
-        "countries": [
-          "Иран"
-        ],
-        "genres": [
-          "драма",
-          "триллер"
-        ],
-        "imdb_rating": 5.6,
-        "imdb_votes": 334,
-        "premiere_world": "2018-02-18",
-        "actors": [
-          "Negar Moghaddam",
-          "Yasna Mirtahmasb",
-          "Али Мосаффа",
-          "Shabnam Moghadami",
-          "Baset Rezaei",
-          "Alireza Aghakhani",
-          "Хушанг Таваколи",
-          "Behafarid Ghafarian",
-          "Shayan Fasihzadeh",
-          "Rambod Motalebi"
-        ],
-        "directors": [
-          "Pooya Badkoobeh"
-        ],
-        "producers": [
-          "Rouhollah Baradari",
-          "Samira Baradari"
-        ],
-        "writers": [
-          "Хамед Раджаби"
-        ],
-        "composers": [
-          "Shahab Paranj"
-        ],
-        "editors": [
-          "Сепиде Абдолвахаб"
-        ],
-        "designers": [
-          "Кейван Мохаддам",
-          "Сара Сами"
-        ],
-        "operators": [
-          "Ashkan Ashkani"
-        ]
-      }
-    },
-    {
-      "id": "serial-29470",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Королевский рейд: Наследники воли",
-      "title_orig": "King's Raid: Ishi o Tsugu Mono-tachi",
-      "other_title": "King's Raid: Ishi wo Tsugumono-tachi",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 22,
-      "episodes_count": 22,
-      "kinopoisk_id": "1422190",
-      "imdb_id": "tt12787170",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10491",
-      "shikimori_id": "41834",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-10-03T15:25:58Z",
-      "updated_at": "2021-02-19T22:14:37Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/722459/59459b780d4067d00c13ebfefe55d849/720p",
-            "2": "//aniqit.com/seria/727218/59ce974c42c0ee3cc3baa9e8d1e1bdbd/720p",
-            "3": "//aniqit.com/seria/727219/a779906c6e41836a7ba63ddad7520b67/720p",
-            "4": "//aniqit.com/seria/727220/ead79fb0a58e695f9d36426ff3ecd0b9/720p",
-            "5": "//aniqit.com/seria/729208/1b84fcc0783da7146bb8d8dd8c252d87/720p",
-            "6": "//aniqit.com/seria/731091/589071dc3a4536985e3099a002dcd79a/720p",
-            "7": "//aniqit.com/seria/733028/aa8d6771b526cd2c3ccb4ca978ecd84b/720p",
-            "8": "//aniqit.com/seria/734788/32a90ffb31dcc7d0b59e03eae3fc3a33/720p",
-            "9": "//aniqit.com/seria/739846/ebad27206cc61c0ade55ca39be585153/720p",
-            "10": "//aniqit.com/seria/739847/19321fdd40cdac185db571f806ada7f7/720p",
-            "11": "//aniqit.com/seria/740711/0ebe47d49abf0feda26d6f9deb3fcd69/720p",
-            "12": "//aniqit.com/seria/743244/6feecf49f2d48f72c3fbe267b7c3b43c/720p",
-            "13": "//aniqit.com/seria/754983/7cf7e637feffdca891ca3e9564fede09/720p",
-            "14": "//aniqit.com/seria/754984/a7728eaaff8ba6413d42390fe7e77df5/720p",
-            "15": "//aniqit.com/seria/770434/c27400335a0eb5be0631094f6dbd2c8b/720p",
-            "16": "//aniqit.com/seria/770435/4e1aaa555ac9c669546b8e6f178f40e6/720p",
-            "17": "//aniqit.com/seria/774088/79e0cf2bac31d313446990de543a57af/720p",
-            "18": "//aniqit.com/seria/784844/b1d2eff9c9973bf92c225c1e8f691d70/720p",
-            "19": "//aniqit.com/seria/784845/4d7a64b42e7829b381bee11b0533fa6f/720p",
-            "20": "//aniqit.com/seria/786182/0aa9cb4db3af7ee38c371e46bd20a90c/720p",
-            "21": "//aniqit.com/seria/789570/a54d4d7edca61e366a9f24ca4a501c3e/720p",
-            "22": "//aniqit.com/seria/793342/c3d0bdf53e45e12de8c14db8a93dd750/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Королевский рейд: Наследники воли",
-        "title_en": "King's Raid: Ishi wo Tsugu Mono-tachi",
-        "other_titles_jp": [
-          "キングスレイド 意志を継ぐものたち"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "ongoing",
-        "year": 2020,
-        "description": "Прошло 100 лет с тех пор, как король Кайл похоронил Анг Мундо, и рыцарь-ученик Касел наслаждается жизнью в мирное время. Однако всё меняется, когда становится известно о появлении наводняющих окрестности демонов. Ведомый мудрецом Касел находит друзей, на которых может положиться, и отправляется на поиски святого меча, способного сразить новообретенных врагов.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1422190.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/7f7f429bf2cae63ff9a541b25b7ca2ffd6620ad1.jpg",
-          "https://shikimori.one/system/screenshots/original/96d5dbb1fdda97f1eac68eef7018885008a320dc.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Магия",
-          "Приключения",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "OLM",
-          " Sunrise Beyond"
-        ],
-        "imdb_rating": 6.9,
-        "imdb_votes": 51,
-        "shikimori_rating": 5.58,
-        "shikimori_votes": 379,
-        "premiere_world": "2020-10-03",
-        "aired_at": "2020-10-03",
-        "episodes_total": 26,
-        "episodes_aired": 21,
-        "actors": [
-          "Каито Исикава",
-          "Кэнго Каваниси",
-          "Аи Какума",
-          "Ари Одзава",
-          "Мика Канда",
-          "Рётаро Окиаю"
-        ],
-        "directors": [
-          "Макото Хосино"
-        ]
-      }
-    },
-    {
-      "id": "serial-32223",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Мое маленькое счастье",
-      "title_orig": "Ni shi wo de xiao que xing",
-      "other_title": "My Little Happiness / Wo de xiao que xing / My Small Indeed Fortunate / My little Luck / You Are Indeed My Little Fortune",
-      "translation": {
-        "id": 1650,
-        "title": "IZFilm21",
-        "type": "voice"
-      },
-      "year": 2021,
-      "last_season": 1,
-      "last_episode": 5,
-      "episodes_count": 5,
-      "kinopoisk_id": "1384412",
-      "imdb_id": "tt12299458",
-      "mdl_id": "54335-my-small-indeed-fortunate",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-01-26T09:34:40Z",
-      "updated_at": "2021-02-19T21:00:52Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/775809/9c6ef97d287e31430a0a3df70bb7a822/720p",
-            "2": "//kodik.cc/seria/775810/79d3e83edab3d65f4bc5ab23c14ed2bf/720p",
-            "3": "//kodik.cc/seria/775811/c15fc697ac6f9f337b168dae7b2e81cd/720p",
-            "4": "//kodik.cc/seria/776896/9b6f7d6c7b1c26ba59fd7b2678c53c2d/720p",
-            "5": "//kodik.cc/seria/789518/9c5d31e5fe8a190d94a2c410b2faf510/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Ni shi wo de xiao que xing",
-        "title_en": "",
-        "year": 2021,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 8.8,
-        "imdb_votes": 13,
-        "premiere_world": "2021-01-13",
-        "actors": [
-          "Син Фэй",
-          "Xin Deng",
-          "Хуан Илинь",
-          "Тан Сяотянь",
-          "Weilun Fu",
-          "Mohan Wang",
-          "Chuan Li"
-        ],
-        "directors": [
-          "Ян Лун"
-        ],
-        "writers": [
-          "Лю Чэньгуан",
-          "Лю Фэй",
-          "Ши Ши"
-        ]
-      }
-    },
-    {
-      "id": "movie-68241",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Ограбление склепа",
-      "title_orig": "Collectors",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2020,
-      "kinopoisk_id": "1263217",
-      "imdb_id": "tt13428686",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-02-19T20:49:06Z",
-      "updated_at": "2021-02-19T20:49:06Z",
-      "material_data": {
-        "title": "Ограбление склепа",
-        "title_en": "Dogul",
-        "year": 2020,
-        "description": "Эксперт по древнему искусству предлагает группе чёрных копателей выгодное дельце.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1263217.jpg",
-        "duration": 114,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "комедия",
-          "криминал"
-        ],
-        "imdb_rating": 6.1,
-        "imdb_votes": 127,
-        "premiere_world": "2020-11-04",
-        "actors": [
-          "Ли Джэ-хун",
-          "Чо У-джин",
-          "Лим Вон-хи",
-          "Щин Хе-сон",
-          "Хо Сон-тхэ",
-          "Чу Джин-мо",
-          "Юн Бён-хи"
-        ],
-        "directors": [
-          "Пак Чон-бэ"
-        ]
-      }
-    },
-    {
-      "id": "movie-68245",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Нас трое",
-      "title_orig": "Somos tr3s",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1171921",
-      "imdb_id": "tt8150768",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-02-19T20:47:07Z",
-      "updated_at": "2021-02-19T20:47:07Z",
-      "material_data": {
-        "title": "Нас трое",
-        "title_en": "Somos tr3s",
-        "year": 2018,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1171921.jpg",
-        "duration": 89,
-        "countries": [
-          "Аргентина"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 5.9,
-        "imdb_votes": 191,
-        "premiere_world": "2018-03-11",
-        "actors": [
-          "Flor Dragonetti"
-        ],
-        "composers": [
-          "Guil Astobiza",
-          "Sato Valiente"
-        ],
-        "operators": [
-          "Irvin Castro Acuña"
-        ]
-      }
-    },
-    {
-      "id": "movie-68249",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Потерянный мальчишка",
-      "title_orig": "Memorias de lo que no fue",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1141082",
-      "imdb_id": "tt8320406",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2021-02-19T20:44:38Z",
-      "updated_at": "2021-02-19T20:44:38Z",
-      "material_data": {
-        "title": "Memorias de lo que no fue",
-        "title_en": "",
-        "year": 2017,
-        "description": "Два парня проводят вместе ночь в доме одного из них после встречи в гей-клубе. Утром выясняется, что гость полностью потерял память и не может вспомнить даже собственного имени. С помощью своего нового знакомого он пытается восстановить память.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1141082.jpg",
-        "duration": 116,
-        "countries": [
-          "Мексика"
-        ],
-        "genres": [
-          "драма",
-          "триллер"
-        ],
-        "imdb_rating": 4.9,
-        "imdb_votes": 188,
-        "premiere_world": "2017-05-31",
-        "minimal_age": 18,
-        "actors": [
-          "Paul Act",
-          "Eduardo Longoria",
-          "",
-          "Ксавьер Лойя",
-          "Luis Fernando Schivy",
-          ""
-        ],
-        "directors": [
-          "Леопольдо Лаборд"
-        ],
-        "producers": [
-          "Леопольдо Лаборд",
-          "Luis Martínez",
-          "Роберто Тружильо"
-        ],
-        "writers": [
-          "Леопольдо Лаборд"
-        ],
-        "composers": [
-          "Леопольдо Лаборд"
-        ],
-        "editors": [
-          "Леопольдо Лаборд"
-        ],
-        "operators": [
-          "Леопольдо Лаборд"
-        ]
       }
     }
   ]
