@@ -1,6 +1,413 @@
 {
   "results": [
     {
+      "id": "serial-18729",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Цитрус",
+      "title_orig": "Citrus",
+      "translation": {
+        "id": 559,
+        "title": "Kansai",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1112565",
+      "imdb_id": "tt7521578",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9207",
+      "shikimori_id": "34382",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-09-30T15:58:44Z",
+      "updated_at": "2019-12-25T18:29:48Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/491213/446332a2ad2db71f0d3b20fb5ea431be/720p",
+            "2": "//aniqit.com/seria/491214/7b0e300f78abf389509f22bbdd97ebef/720p",
+            "3": "//aniqit.com/seria/491215/1fe3281cf1a504fc0a1e5305e2659da5/720p",
+            "4": "//aniqit.com/seria/491216/d5bcd25904dd2071f193fecd4098e544/720p",
+            "5": "//aniqit.com/seria/491217/6f9af783932a14d74a2ce35ad519284e/720p",
+            "6": "//aniqit.com/seria/491218/7965f23d9a12e2365a42d1b0997b4ef5/720p",
+            "7": "//aniqit.com/seria/491219/62297aba7a8f585875d3dc09cd5e5a5b/720p",
+            "8": "//aniqit.com/seria/491220/330fd731c2a7635ac7aee6896339fd5b/720p",
+            "9": "//aniqit.com/seria/491221/01696942891321dacee8601556f61bd3/720p",
+            "10": "//aniqit.com/seria/491222/b7b54f7562e921db0622a6368ff560ae/720p",
+            "11": "//aniqit.com/seria/491223/a81958f80d5dc1dd69050bb24e36efbb/720p",
+            "12": "//aniqit.com/seria/491224/f241f06ca94f229a967818e9341d88b5/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Цитрус",
+        "title_en": "Citrus",
+        "other_titles_en": [
+          "Citrus"
+        ],
+        "other_titles_jp": [
+          "シトラス"
+        ],
+        "anime_license_name": "Цитрус",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2018,
+        "description": "Модница Юдзу идет в новую школу из-за замужества матери и переезда. Юдзу мечтает найти в школе свою первую любовь, но её ждёт жесткое разочарование, когда она понимает, что попала в очень строгую женскую школу. В первый же день девушка ссорится с главой учсовета по имени Мэй. А вскоре выясняется, что Мэй — её новая сводная сестра, и они теперь будут жить под одной крышей. Противоположности притягиваются, и начинается непростой роман между двумя старшеклассницами.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1112565.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/9941c1f643a07a19e5d411351107db138b86ed92.jpg",
+          "https://shikimori.one/system/screenshots/original/d594ce69485db238d6748be8e0de8a987fb31e5b.jpg"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мелодрама",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Романтика",
+          "Сёдзё-ай",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Passione"
+        ],
+        "kinopoisk_rating": 6.4,
+        "kinopoisk_votes": 1613,
+        "imdb_rating": 6.2,
+        "imdb_votes": 1286,
+        "shikimori_rating": 6.52,
+        "shikimori_votes": 13485,
+        "premiere_world": "2018-01-06",
+        "aired_at": "2018-01-06",
+        "released_at": "2018-03-24",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Аяна Такэтацу",
+          "Минами Цуда",
+          "Юкиё Фудзии",
+          "Икуми Хаяма",
+          "Сиори Идзава",
+          "Хисако Канэмото",
+          "Юрика Кубо",
+          "Томоаки Маэно",
+          "Рэи Мацудзаки",
+          "Кана Уэда"
+        ],
+        "directors": [
+          "Такэо Такахаси"
+        ],
+        "producers": [
+          "Такаюки Нагатани"
+        ],
+        "writers": [
+          "Наоки Хаяси",
+          "Сабуроута"
+        ],
+        "composers": [
+          "Рё Такахаси"
+        ]
+      }
+    },
+    {
+      "id": "serial-7570",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Фантом [ТВ]",
+      "title_orig": "Phantom: Requiem for the Phantom",
+      "other_title": "Призрак: Реквием по Призраку",
+      "translation": {
+        "id": 999,
+        "title": "OpenDub",
+        "type": "voice"
+      },
+      "year": 2009,
+      "last_season": 1,
+      "last_episode": 26,
+      "episodes_count": 26,
+      "kinopoisk_id": "455407",
+      "imdb_id": "tt1347975",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7130",
+      "shikimori_id": "5682",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-12-26T02:01:04Z",
+      "updated_at": "2019-12-25T18:26:52Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/199649/e844a8280067f521ec90c609ae058527/720p",
+            "2": "//aniqit.com/seria/199650/f21b5898b81b682b49d5f82b97914b14/720p",
+            "3": "//aniqit.com/seria/199651/37f9824aec4645f4b68198e51d8072ac/720p",
+            "4": "//aniqit.com/seria/199652/34c61f353c2f1b447296c6060bdf07ae/720p",
+            "5": "//aniqit.com/seria/199653/ef5c82a21bb729eaa5b1c8d71982f175/720p",
+            "6": "//aniqit.com/seria/199654/17eb73e301731c3e887c2e2dba58918f/720p",
+            "7": "//aniqit.com/seria/199655/fe3cf2d6c2c4b66a5733e21d9b4a152f/720p",
+            "8": "//aniqit.com/seria/199656/3bb8ce2962e3465a59512a3512b06854/720p",
+            "9": "//aniqit.com/seria/199657/c304c80fa3002e298ce170263bd155d7/720p",
+            "10": "//aniqit.com/seria/199658/5fe9f506ac182de363431d7bc304b64a/720p",
+            "11": "//aniqit.com/seria/199659/58d58e45032e4bfe467929e4d4f44366/720p",
+            "12": "//aniqit.com/seria/199660/9b7234d6dd732f718868c9f1cf95eabe/720p",
+            "13": "//aniqit.com/seria/199661/d1d40d6b4f6aa77ac8e785be356b1310/720p",
+            "14": "//aniqit.com/seria/199662/adafd2454d80066ecef8c2f544794e41/720p",
+            "15": "//aniqit.com/seria/199663/8372dc55e888a73c541cebf88307d584/720p",
+            "16": "//aniqit.com/seria/199664/550ea04f1a6ffbeb10a1480ae520b756/720p",
+            "17": "//aniqit.com/seria/199665/c3a85343eada8a0167dc49f4f3cdf023/720p",
+            "18": "//aniqit.com/seria/199666/264a5b42beb45001bbb7bdb0ef3e2c37/720p",
+            "19": "//aniqit.com/seria/199667/7db4c42238bf0d839939665cf8a435a4/720p",
+            "20": "//aniqit.com/seria/199668/2eb03b797b11522f116c25d82d44fb9a/720p",
+            "21": "//aniqit.com/seria/199669/d0b60ce0241fa912ec8d6cf0eecd537b/720p",
+            "22": "//aniqit.com/seria/199670/dafdecb72088387a58db49fa6c0ea73a/720p",
+            "23": "//aniqit.com/seria/199671/f5ee7ad496c588dae6ea302f54017788/720p",
+            "24": "//aniqit.com/seria/199672/e281b95a609e04d6ba27614fafe63609/720p",
+            "25": "//aniqit.com/seria/199673/47490eb88d900f0cbec5660f69008ead/720p",
+            "26": "//aniqit.com/seria/199674/d2f76685470980f084c748d621d90f14/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Призрак: Реквием по Призраку",
+        "title_en": "Phantom: Requiem for the Phantom",
+        "other_titles_en": [
+          "Phantom: Requiem for the Phantom"
+        ],
+        "other_titles_jp": [
+          "Phantom 〜Requiem for the Phantom〜"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2009,
+        "tagline": "Forced to Kill Fightning to Live",
+        "description": "Зловещая организация «Инферно» расчищает дорогу к власти, одного за другим устраняя боссов американской мафии руками «Фантома» - легендарного киллера, не ведающего неудач. Кроме имени, о призрачном убийце мало что известно, ведь видевшие его «за работой» уже ничего не расскажут. Но то, что неведомо бывалым бандитам и вездесущим спецслужбам, случайно узнает молодой японец Рэйдзи, в одиночку странствующий по Штатам. Быть бы нежелательному свидетелю на небесах, но босс, наблюдавший за операцией, остановил Фантома в последний момент…\n\rБоссам «Инферно» понравилось поведение Рэйдзи перед смертью, и ему дали второй шанс. Промыв парню мозги и стерев память, новые хозяева решили, что быстрые рефлексы и воля к жизни сделают его отличным исполнителем. Так что когда Рэйдзи очнулся, не помня себя, в какой-то дыре, перед ним явилась милая девушка, назвавшаяся Айн («первая») и предложила сыграть в игру на выживание. \n\rЭто и был легендарный Фантом. Но и наш герой оказался не лыком шит, достойно сдав последний экзамен (хотя противница, конечно, поддавалась). Теперь новичок получил кодовое имя Цвай («второй») и был зачислен к Айн в стажеры. Только оба они, хотя и потеряли память, ума не утратили и вскоре поняли, что долго такая жизнь продолжаться не может. Вопрос остался лишь один – ждать или стрелять первым?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/455407.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/7298982ab6641baa95b70a2e0a6cce723758edde.jpg",
+          "https://shikimori.one/system/screenshots/original/ee6ff77115ada15d018a84c400166b0ae7b2a710.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Сейнен",
+          "Триллер",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Bee Train"
+        ],
+        "kinopoisk_rating": 7.8,
+        "kinopoisk_votes": 1452,
+        "imdb_rating": 7.7,
+        "imdb_votes": 1426,
+        "shikimori_rating": 8.02,
+        "shikimori_votes": 8340,
+        "premiere_world": "2009-04-02",
+        "aired_at": "2009-04-03",
+        "released_at": "2009-09-25",
+        "rating_mpaa": "R",
+        "minimal_age": 18,
+        "episodes_total": 26,
+        "episodes_aired": 0,
+        "actors": [
+          "Мию Ирино",
+          "Аяхи Такагаки",
+          "Акэно Ватанабэ",
+          "Иссин Тиба",
+          "Ая Хисакава",
+          "Сусуму Тиба",
+          "Соитиро Хоси",
+          "Миюки Савасиро",
+          "Хидэо Исикава",
+          "Томоюки Симура"
+        ],
+        "directors": [
+          "Коити Масимо",
+          "Томоюки Курокава",
+          "Масая Кавамо",
+          "Хироси Мориока",
+          "Кодзи Саваи",
+          "Цуёси Ёсимото"
+        ],
+        "producers": [
+          "Рёдзи Мару",
+          "Мицухиро Мацуо",
+          "Хидэаки Мураока",
+          "Тихо Нисиока",
+          "Нобухиро Осава",
+          "Мэгуми Судзуки",
+          "Синобу Ёсинума"
+        ],
+        "writers": [
+          "Кадзухо Хёдо",
+          "Нобору Кимура",
+          "Ёсукэ Курода",
+          "Юкихито Нонака",
+          "Хидэки Сиранэ",
+          "Тацуя Такахаси",
+          "Тецуя Такахаси",
+          "Гэн Уробути",
+          "Сёго Ясукава"
+        ],
+        "composers": [
+          "Хикару Нанасэ"
+        ],
+        "editors": [
+          "Масаюки Куросава"
+        ],
+        "designers": [
+          "Ёсими Умино"
+        ],
+        "operators": [
+          "Кэндзи Такэхара"
+        ]
+      }
+    },
+    {
+      "id": "serial-8044",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Фи Брейн: Божественная головоломка [ТВ-3]",
+      "title_orig": "Phi Brain: Kami no Puzzle",
+      "other_title": "Phi Brain: Puzzle of God",
+      "translation": {
+        "id": 767,
+        "title": "SHIZA Project",
+        "type": "voice"
+      },
+      "year": 2013,
+      "last_season": 3,
+      "last_episode": 25,
+      "episodes_count": 25,
+      "kinopoisk_id": "683269",
+      "imdb_id": "tt2263799",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1207",
+      "shikimori_id": "15651",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-12-31T04:57:28Z",
+      "updated_at": "2019-12-25T17:35:14Z",
+      "seasons": {
+        "3": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/209647/7839c4df1de673153eb21ed9ce86ae5d/720p",
+            "2": "//aniqit.com/seria/209648/8c96a7bbee910e615c0f7cd853622d2d/720p",
+            "3": "//aniqit.com/seria/209649/c2e0b54a271da42681b91d0006007113/720p",
+            "4": "//aniqit.com/seria/209650/c63e1f30e16912c519285b17de05a8aa/720p",
+            "5": "//aniqit.com/seria/209651/083b4589ddd548579e30b02613ac68af/720p",
+            "6": "//aniqit.com/seria/209652/23b9a773fb77d78c597f68a2e8de4e51/720p",
+            "7": "//aniqit.com/seria/209653/57b8a8753213589153c58457f3d3f8c1/720p",
+            "8": "//aniqit.com/seria/209654/ab35050b642685e7cd7b36be0b8c8eb7/720p",
+            "9": "//aniqit.com/seria/209655/486ed8c4c070324f828388178c40c52c/720p",
+            "10": "//aniqit.com/seria/209656/622cb836802796198438385e1b1f41e1/720p",
+            "11": "//aniqit.com/seria/209657/a59fa72f7017de2cf9cdf58801f8bc5a/720p",
+            "12": "//aniqit.com/seria/209658/70e901241d7ab0a28e7f2ad5e5242a2d/720p",
+            "13": "//aniqit.com/seria/209659/62e1ebd893a7f279aaa2c52e52e3a03a/720p",
+            "14": "//aniqit.com/seria/209660/41c11b768011d4e1b47d611b60660ad0/720p",
+            "15": "//aniqit.com/seria/209661/b3e5568b5b9ab74d55ff5b58d44e5601/720p",
+            "16": "//aniqit.com/seria/209662/923bb31f4a5da6fa9ee1f0bc0efc54b1/720p",
+            "17": "//aniqit.com/seria/209663/c783c04df6635783b983e3fdbc74cc26/720p",
+            "18": "//aniqit.com/seria/209664/25c304a7504c0213f1c3c050605d2053/720p",
+            "19": "//aniqit.com/seria/209665/0c0b0ca5863bf3a56f99be5ef79a8779/720p",
+            "20": "//aniqit.com/seria/209666/3232122bd19bf58bbd1c060c5214e627/720p",
+            "21": "//aniqit.com/seria/209667/7a0b6dafa3bdac914a587d1206ad7c5c/720p",
+            "22": "//aniqit.com/seria/209668/151040cea00d592063b0b9535a8646bb/720p",
+            "23": "//aniqit.com/seria/209669/ce6b1fdd5906bd62009776088cd096b4/720p",
+            "24": "//aniqit.com/seria/209670/71da03d3ae77587e3e2c2c836142d14e/720p",
+            "25": "//aniqit.com/seria/209671/102564ef32965a4362e590ef7acd541d/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Фи Брейн: Божественная головоломка",
+        "title_en": "Phi Brain: Puzzle of God",
+        "other_titles": [
+          "Phi Brain: Kami no Puzzle Dai 3",
+          "Phi Brain: Kami no Puzzle Third Season",
+          "Phi Brain: Kami no Puzzle 3rd Season",
+          "Phi Brain: Puzzle of God - Nemesis! Raetsel-hen"
+        ],
+        "other_titles_en": [
+          "Phi Brain: Puzzle of God 3"
+        ],
+        "other_titles_jp": [
+          "ファイ・ブレイン 〜神のパズル 宿敵！レイツェル編"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2011,
+        "description": "Десятиклассник Кайто Даймон – типичный хулиганистый гений, в жизни его интересуют не академические успехи, а лишь решение загадок и головоломок. Кайто вовсе бы не ходил в школу, да мешает подруга детства Ноноха Ито – спортивная и энергичная девчонка, взвалившая на себя всю тяжесть забот о «непутевом». Впрочем, академия «Квадратный корень» сама по себе странная – в ней полно любителей паззлов, а Содзи Дзикукава, президент школьного Совета и клуба головоломок, сумел озадачить самого Даймона. Взяв парня «на слабо», коварный Содзи отправил его в смертельный лабиринт, пройдя который с помощью Нонохи, Кайто получил «контракт Орфея» - устройство, позволяющее на полную мощь использовать возможности мозга под названием «фи брэйн».\n\rТеперь Кайто – один из Решателей, немногих избранных, способных справиться с кознями всемирной тайной организации, изобретающей все новые неразрешимые загадки. Под боевым псевдонимом Эйнштейн и в компании с верной Нонохой (куда от нее денешься?) главный герой начинает жизнь в среде, где не признают громких слов и дутых авторитетов. Положение в иерархии Решателей надо завоевывать и доказывать делом, щелкая, как орешки, все новые задачки и приближаясь к «мистерии Бога». А зачем все это нужно директору школы и зловещей мировой закулисе – пожалуй, самая главная загадка сериала!",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/683269.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/24d865129acb0940c9148a916f3dd3ff9004230d.jpg",
+          "https://shikimori.one/system/screenshots/original/c91a618d2e1d674cb745e4074047de2f28193f42.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Игры",
+          "Сёнен",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Sunrise"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 328,
+        "imdb_rating": 6.9,
+        "imdb_votes": 95,
+        "shikimori_rating": 7.29,
+        "shikimori_votes": 1054,
+        "premiere_world": "2011-10-02",
+        "aired_at": "2013-10-06",
+        "released_at": "2014-03-23",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 25,
+        "episodes_aired": 25,
+        "actors": [
+          "Синтаро Асанума",
+          "Дзюн Фукуяма",
+          "Акира Исида",
+          "Саито Тива"
+        ],
+        "directors": [
+          "Дзюнъити Сато",
+          "Эндо Хиротака"
+        ]
+      }
+    },
+    {
       "id": "serial-8240",
       "type": "anime-serial",
       "link": "",
@@ -455,10 +862,10 @@
         "anime_studios": [
           "Project No.9"
         ],
-        "kinopoisk_rating": 6.4,
-        "kinopoisk_votes": 206,
+        "kinopoisk_rating": 6.3,
+        "kinopoisk_votes": 220,
         "imdb_rating": 6.5,
-        "imdb_votes": 278,
+        "imdb_votes": 301,
         "shikimori_rating": 6.85,
         "shikimori_votes": 4982,
         "premiere_world": "2019-10-07",
@@ -3187,7 +3594,7 @@
         "imdb_rating": 6.7,
         "imdb_votes": 95,
         "shikimori_rating": 6.76,
-        "shikimori_votes": 437,
+        "shikimori_votes": 439,
         "premiere_world": "2006-04-04",
         "aired_at": "2006-04-05",
         "released_at": "2006-06-21",
@@ -3773,9 +4180,9 @@
           "Studio Deen"
         ],
         "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 101,
+        "kinopoisk_votes": 103,
         "imdb_rating": 7,
-        "imdb_votes": 256,
+        "imdb_votes": 258,
         "shikimori_rating": 7.27,
         "shikimori_votes": 1848,
         "premiere_world": "2001-10-13",
@@ -11306,383 +11713,6 @@
         ],
         "operators": [
           "Ацуси Окуи"
-        ]
-      }
-    },
-    {
-      "id": "serial-7333",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Любовь, потерянная во времени",
-      "title_orig": "Zui ling long",
-      "other_title": "Любовь потерянная во времени / Хмельной звон / Lost Love in Times / Drunk Ling Long / Drunken Exquisiteness",
-      "translation": {
-        "id": 913,
-        "title": "East Dream",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 2,
-      "last_episode": 12,
-      "episodes_count": 68,
-      "kinopoisk_id": "1291165",
-      "imdb_id": "tt7141540",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-11T07:37:47Z",
-      "updated_at": "2019-12-23T20:00:26Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/194101/842e5c0f5aab1d4dd18cb4a6189353db/720p",
-            "2": "//kodik.cc/seria/194108/38cf2cb80067b4f2126750be26c33e54/720p",
-            "3": "//kodik.cc/seria/194103/922c3dd1ede5a213df1d404fbaa12e5c/720p",
-            "4": "//kodik.cc/seria/194107/549a4d72b54b6faa7d2f097c9554a7ec/720p",
-            "5": "//kodik.cc/seria/194110/9d2128b8478dfe1f52d6c099a0fa6aa8/720p",
-            "6": "//kodik.cc/seria/194105/a7c5d9d5277d3ade051f9a8d37e7afcf/720p",
-            "7": "//kodik.cc/seria/194102/f5937a26031bd8d943c9b94c8048593d/720p",
-            "8": "//kodik.cc/seria/194104/ba0508b60e7d0e7f45ff92ea5c8833b7/720p",
-            "9": "//kodik.cc/seria/194109/65fb8cdd7a562971c918ca9590f0d268/720p",
-            "10": "//kodik.cc/seria/194106/0a6ea08ff1a941ceb7c66fafa6d83c03/720p",
-            "11": "//kodik.cc/seria/194119/73af6dc1ce24b00d65d936948ee1ae5c/720p",
-            "12": "//kodik.cc/seria/194118/65b43fedeeef0e3896f2aa57bc9dfb95/720p",
-            "13": "//kodik.cc/seria/194115/3281236cc7fedc39d74c16b3a77ad3bc/720p",
-            "14": "//kodik.cc/seria/194112/438cc786a79c84182b091e4436dd6817/720p",
-            "15": "//kodik.cc/seria/194117/2d4fe0246b73fe67a4195fb3c77f1328/720p",
-            "16": "//kodik.cc/seria/194116/6d4a0d5b9ab2876797a1563d449f377d/720p",
-            "17": "//kodik.cc/seria/194114/0c0b627bf28762e74e02d1a65f78de84/720p",
-            "18": "//kodik.cc/seria/194111/ec4f27fb0434f1d7b063bcda8320b8ff/720p",
-            "19": "//kodik.cc/seria/194113/113790d1c7289b63ea476ce3a4b00113/720p",
-            "20": "//kodik.cc/seria/194120/7aa317602d5a2a0ec24de0bcba611951/720p",
-            "21": "//kodik.cc/seria/194121/c10962fcbc2bbd23af30593f9a5e7c88/720p",
-            "22": "//kodik.cc/seria/194123/61394c18806254b60c7a50bd460504cb/720p",
-            "23": "//kodik.cc/seria/194127/7be2a7214f85cc60a56eab608bd7e4ff/720p",
-            "24": "//kodik.cc/seria/194129/a4689cb23900fe9e3fc1826592e72142/720p",
-            "25": "//kodik.cc/seria/194126/531afa8b8f25410c074d73fa58502c7c/720p",
-            "26": "//kodik.cc/seria/194124/01f5e1880c1c7d26c75265ed3f82a437/720p",
-            "27": "//kodik.cc/seria/194122/7161761add3f5fedee231077e2c6b230/720p",
-            "28": "//kodik.cc/seria/194128/d4b01ea21376035e7269a7870b89b1a3/720p",
-            "29": "//kodik.cc/seria/194125/5852fa5e3083fbbaf57d2070c0511ea7/720p",
-            "30": "//kodik.cc/seria/194130/32af4e789857cde72e6c1e976d5c4bf4/720p",
-            "31": "//kodik.cc/seria/194131/9916c53322f0f4d1df2522bacbff53c7/720p",
-            "32": "//kodik.cc/seria/194134/476bf3a1d5a27cfe4a5b841972104c1c/720p",
-            "33": "//kodik.cc/seria/194132/16e990f9af6337172ca31dadeece7926/720p",
-            "34": "//kodik.cc/seria/194133/cd9c71394684f5c5cc74d88f4c5f1b8e/720p",
-            "35": "//kodik.cc/seria/194136/4063efbf2a8fb2804bf2229062416522/720p",
-            "36": "//kodik.cc/seria/194135/1fadd0423b0754b0b0738a46cb9f1c2b/720p",
-            "37": "//kodik.cc/seria/194137/8c6f72a24bf728cadcb23a541363e709/720p",
-            "38": "//kodik.cc/seria/194138/50ece03bfd0ea69b5e58bf447550b477/720p",
-            "39": "//kodik.cc/seria/194139/8119697674ea4bf8a8f8cea38cc0bd4a/720p",
-            "40": "//kodik.cc/seria/194143/cd94ebaba7dbfa54d7b4240363d78606/720p",
-            "41": "//kodik.cc/seria/195107/3c414e91d55b5120a78a732cd84cd216/720p",
-            "42": "//kodik.cc/seria/195111/40a2768a20687b4e175d1aaf895967d8/720p",
-            "43": "//kodik.cc/seria/195109/697d5bd2c226d330328387c0287cb00a/720p",
-            "44": "//kodik.cc/seria/195108/4d5166dba68271af339000f844e9f10f/720p",
-            "45": "//kodik.cc/seria/195110/fbb1922fd745456c68cf636daf28b098/720p",
-            "46": "//kodik.cc/seria/195113/8a09f267ce93fe7f3824f78c1f549957/720p",
-            "47": "//kodik.cc/seria/195112/08ad1ed36604e6ca20882e90550cbed2/720p",
-            "48": "//kodik.cc/seria/195116/c6258708d2fc707be82b9d79364e1666/720p",
-            "49": "//kodik.cc/seria/195115/811be76b8f7a6c9242ce3f686ff6c75d/720p",
-            "50": "//kodik.cc/seria/195114/48dbcc7135f22a8ce93ad69990d18d1f/720p",
-            "51": "//kodik.cc/seria/195117/9d5bebaa99199330e8ad2fdb0a46e3bf/720p",
-            "52": "//kodik.cc/seria/195119/8b08189bcdba747177b6252d15ed5547/720p",
-            "53": "//kodik.cc/seria/195118/c301ab68e5b4a50cd0201ec0dd92bdf6/720p",
-            "54": "//kodik.cc/seria/195121/0c2b21ea0e0566d2cb96ffb6eb7441da/720p",
-            "55": "//kodik.cc/seria/195122/bf85a35ce7d787fca9b98737004a8106/720p",
-            "56": "//kodik.cc/seria/195120/a55d0f6d4b3f1f91c743cdc8b8a285a2/720p"
-          }
-        },
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/544533/f5f6b818e980f97b7a518f0b649fb7ed/720p",
-            "2": "//kodik.cc/seria/544534/6ff0ac3080a10a119a0e77c290a0179a/720p",
-            "3": "//kodik.cc/seria/544535/a98389d96be51b8f102553effd4bbab1/720p",
-            "4": "//kodik.cc/seria/544536/8606812bc6fe5c52902789399b7aeab8/720p",
-            "5": "//kodik.cc/seria/544537/71941d10a739b8b8d5b229604d5fe922/720p",
-            "6": "//kodik.cc/seria/544538/240360e8292b3ec24d41c823051fff59/720p",
-            "7": "//kodik.cc/seria/544539/dc113e5138565712108984004b5efe9b/720p",
-            "8": "//kodik.cc/seria/544540/186dda62775d37eab840d131b4b5f9b9/720p",
-            "9": "//kodik.cc/seria/544541/30a33ef1d3f3db597bb23ee9fd6f0408/720p",
-            "10": "//kodik.cc/seria/544542/b45dd0f43ab5d08d1d5b82c112e6b5ff/720p",
-            "11": "//kodik.cc/seria/544543/9d8e8052d4a25e186096c4d0f5ebfee7/720p",
-            "12": "//kodik.cc/seria/544544/244f7d2cec9524e808877372baf4452e/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Любовь, потерянная во времени",
-        "title_en": "Zui ling long",
-        "year": 2017,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1291165.jpg",
-        "duration": 45,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "мелодрама",
-          "фэнтези"
-        ],
-        "imdb_rating": 8,
-        "imdb_votes": 91,
-        "premiere_world": "2017-07-13",
-        "actors": [
-          "Уильям Чань",
-          "Сесилия Лю",
-          "Гун Цзюнь",
-          "Сюй Хайцяо",
-          "Лю Ицзюнь",
-          "Мэгги Хуан",
-          "Чжан Хэ",
-          "Сесилия Хань",
-          "Цзэн Ли",
-          "Ма Чуньжуй"
-        ],
-        "directors": [
-          "Лам Юк-Фань",
-          "Люн Син-Кюнь",
-          "Hoi-To Yam",
-          "Chui-Wah Yu"
-        ],
-        "producers": [
-          "Тан Лицзюнь"
-        ],
-        "writers": [
-          "Wenjuan Chen",
-          "Хань Пэйчжэнь",
-          "14 Nights",
-          "Жао Цзюнь"
-        ],
-        "designers": [
-          "Уильям Чан"
-        ],
-        "operators": [
-          "Chi-Cheng Chiang",
-          "Nongnong Shuai",
-          "Чжиюн Чжэн"
-        ]
-      }
-    },
-    {
-      "id": "serial-18159",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Мастерство копа",
-      "title_orig": "Cop Craft",
-      "other_title": "Ремесло копа / КОП-ЧАРОДЕЙ / Ментовское ремесло",
-      "translation": {
-        "id": 739,
-        "title": "Animedia",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1267206",
-      "imdb_id": "tt10347516",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9935",
-      "shikimori_id": "38940",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-08-24T09:28:54Z",
-      "updated_at": "2019-12-23T19:44:33Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/475527/fa5f5db84465b8e731dfce88a8196c32/720p",
-            "2": "//aniqit.com/seria/475528/81b0c4c9ad38ab256df07c3c67ecc0f6/720p",
-            "3": "//aniqit.com/seria/475529/b1d49583f3a3445aa2e0d58de5438c90/720p",
-            "4": "//aniqit.com/seria/475530/20343aada550e5a7ab8baa4738f29a60/720p",
-            "5": "//aniqit.com/seria/475531/02a9f861d813b7f7fc681bd0814db5b0/720p",
-            "6": "//aniqit.com/seria/475532/5ab066063dc599e05652758280966222/720p",
-            "7": "//aniqit.com/seria/481981/935bcd1ce1926752c3bbfdef367ef395/720p",
-            "8": "//aniqit.com/seria/481982/2b6eaf4b87a45b1e87164c0c61b806ef/720p",
-            "9": "//aniqit.com/seria/481983/dcbdac44de663b294148a6beaaa0fdbf/720p",
-            "10": "//aniqit.com/seria/497131/dcddf2783b2f48e97e7ac6672e3df02f/720p",
-            "11": "//aniqit.com/seria/497132/5f061c546733b81d866c31b7a5558b2b/720p",
-            "12": "//aniqit.com/seria/544531/1dece8ceb499e6988d903f829fce9e62/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Ремесло копа",
-        "title_en": "Cop Craft",
-        "other_titles": [
-          "Коп-чародей",
-          "Искусство быть копом",
-          "Ремесло копа"
-        ],
-        "other_titles_jp": [
-          "COP CRAFT [コップクラフト]"
-        ],
-        "anime_license_name": "Мастерство копа",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2019,
-        "description": "Пятнадцать лет назад случилось немыслимое — над Тихим океаном открылись гиперпространственные врата, ведущие в неведомый мир с названием Лето Семани, где обитают феи и монстры. На границе врат возник город Сан-Тереза, ставший пристанищем для более чем двух миллионов иммигрантов из обоих миров. Как в любом большом городе, здесь есть и богатые, и бедные. А главное, есть надежда — на то, что сможешь разбогатеть, так что Сан-Тереза — новоявленный город мечты, куда стремятся попасть все. В этой приграничной суматохе, как полагается, вовсю процветает преступность: наркотики, проституция и незаконный оборот оружия. А противостоят этому доблестные полицейские Сан-Терезы. Что же случится, когда столкнутся две противоположности: детектив Кэй Матоба и девушка-рыцарь Тиларна Экседилика? Они отличны во всём: начиная с половой принадлежности, месту рождения, и кончая характером и личными убеждениями. Два мира. Две справедливости. Чего тут можно ждать? Разумеется, только отличной, полной экшена истории о двух напарниках!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1267206.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/16109d419a1844f305b593d15d5285d9ce4a7579.png",
-          "https://shikimori.one/system/screenshots/original/291e2b8a6661c2393026bfa5e8254d3487f3c44c.png"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Магия",
-          "Полиция",
-          "Фантастика",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Millepensee"
-        ],
-        "kinopoisk_rating": 6.6,
-        "kinopoisk_votes": 396,
-        "imdb_rating": 6.8,
-        "imdb_votes": 307,
-        "shikimori_rating": 6.74,
-        "shikimori_votes": 4865,
-        "premiere_world": "2019-07-09",
-        "aired_at": "2019-07-09",
-        "released_at": "2019-10-01",
-        "rating_mpaa": "R",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Кэндзиро Цуда",
-          "Маю Ёсиока"
-        ],
-        "directors": [
-          "Син Итагаки"
-        ],
-        "writers": [
-          "Сёдзи Гато"
-        ]
-      }
-    },
-    {
-      "id": "serial-18938",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Старшеклассники позволили себе жизнь в другом мире!",
-      "title_orig": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
-      "other_title": "Сверхстаршеклассники запросто могут выжить в ином мире! / Для гениев не проблема выжить даже в ином мире / Сверходаренным школьникам даже другой мир нипочем! / High School Prodigies Have It Easy Even In Another World!",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1324565",
-      "imdb_id": "tt10671282",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10016",
-      "shikimori_id": "39523",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-10-07T10:50:59Z",
-      "updated_at": "2019-12-23T19:15:43Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/494532/a0268907f665fece11c3f1336bb7fcac/720p",
-            "2": "//aniqit.com/seria/513952/20dc7a212e47b0ab2e08a4e035461566/720p",
-            "3": "//aniqit.com/seria/517863/4340612a79d465aefa871570a0002221/720p",
-            "4": "//aniqit.com/seria/526187/9d5891e0f48ea3de8551fcf861bb8297/720p",
-            "5": "//aniqit.com/seria/526188/5a854b80ce51255efff74a08308af7b8/720p",
-            "6": "//aniqit.com/seria/527906/c116f6bd921733aebf517ba9e80646d7/720p",
-            "7": "//aniqit.com/seria/528711/dd9181495796bb0699882908e045ed4c/720p",
-            "8": "//aniqit.com/seria/533608/6eda52b3a66594643095f6faca046af3/720p",
-            "9": "//aniqit.com/seria/539477/8da0b0dc7936d61feb14a8c3f2c30a60/720p",
-            "10": "//aniqit.com/seria/541395/cc403e45bfa41adc0bed0e9023b1505c/720p",
-            "11": "//aniqit.com/seria/542973/1c5c54ebb3101ee8e7c7d9d55d94ffdc/720p",
-            "12": "//aniqit.com/seria/544438/0682122d762204d2246f9f6ffeb1ec37/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Для гениев не проблема выжить даже в ином мире!",
-        "title_en": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
-        "other_titles": [
-          "Старшеклассники позволили себе жизнь в другом мире!",
-          "Сверхстаршеклассники всё-таки могут выжить в ином мире!",
-          "Сверхстаршеклассники запросто могут выжить в ином мире!",
-          "Super Human High Schoolers Are in Another World",
-          "But Seem to be Living in Comfort!",
-          "High School Prodigies Have It Easy Even in Another World!"
-        ],
-        "other_titles_en": [
-          "CHOYOYU!: High School Prodigies Have It Easy Even in Another World!"
-        ],
-        "other_titles_jp": [
-          "超人高校生たちは異世界でも余裕で生き抜くようです！"
-        ],
-        "anime_license_name": "Сверходарённым школьникам даже другой мир нипочём!",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2019,
-        "description": "Семь старшеклассников пользуются международной известностью благодаря своим выдающимся талантам. Однажды они попадают в авиакатастрофу, а очнувшись, понимают, что находятся в совершенно другом мире — мире магии и зверолюдей. Теперь им предстоит спасти страну от тирании императора и найти путь домой.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1324565.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/f289d984345a95bb76f2008f9a5bae215d0df552.jpg",
-          "https://shikimori.one/system/screenshots/original/c6ea6d65d8fa7687ee1b2eee3fc222492b89e717.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Project No.9"
-        ],
-        "kinopoisk_rating": 5.7,
-        "kinopoisk_votes": 145,
-        "imdb_rating": 6.1,
-        "imdb_votes": 346,
-        "shikimori_rating": 6.34,
-        "shikimori_votes": 5373,
-        "premiere_world": "2019-10-03",
-        "aired_at": "2019-10-03",
-        "released_at": "2019-12-19",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Рина Хидака",
-          "Нацуми Хиока",
-          "Хисако Канэмото",
-          "Юсукэ Кобаяси",
-          "Юуки Кувахара"
-        ],
-        "directors": [
-          "Синсукэ Янаги"
         ]
       }
     }

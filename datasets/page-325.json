@@ -1,6 +1,218 @@
 {
   "results": [
     {
+      "id": "movie-2069",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Я – Куба",
+      "title_orig": "Soy Cuba",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 1964,
+      "kinopoisk_id": "43937",
+      "imdb_id": "tt0058604",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2014-09-22T21:24:15Z",
+      "updated_at": "2017-02-24T07:34:34Z",
+      "material_data": {
+        "title": "Я – Куба",
+        "title_en": "Soy Cuba",
+        "year": 1964,
+        "description": "Фильм посвящён революционным событиям на Кубе.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/43937.jpg",
+        "duration": 141,
+        "countries": [
+          "Куба",
+          "СССР"
+        ],
+        "genres": [
+          "военный",
+          "драма",
+          "история"
+        ],
+        "kinopoisk_rating": 8.1,
+        "kinopoisk_votes": 2568,
+        "imdb_rating": 8.2,
+        "imdb_votes": 8011,
+        "premiere_world": "1964-10-26",
+        "minimal_age": 0,
+        "actors": [
+          "Серхио Коррьери",
+          "Сальвадор Вуд",
+          "Хосе Галлардо",
+          "Рауль Гарсия",
+          "Луз Мария Коллазо",
+          "Жан Буиз",
+          "Альберто Морган",
+          "Селия Родригес",
+          "Фаусто Мирабаль",
+          "Роберто Гарсия Йорк"
+        ],
+        "directors": [
+          "Михаил Калатозов"
+        ],
+        "writers": [
+          "Энрике Пинеда Барнет",
+          "Евгений Евтушенко"
+        ],
+        "composers": [
+          "Карлос Фариньяс"
+        ],
+        "editors": [
+          "Нина Глаголева"
+        ],
+        "designers": [
+          "Евгений Свидетелев",
+          "Рене Портокарреро"
+        ],
+        "operators": [
+          "Сергей Урусевский"
+        ]
+      }
+    },
+    {
+      "id": "movie-2076",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Человек с киноаппаратом",
+      "title_orig": "Человек с киноаппаратом",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1929,
+      "kinopoisk_id": "45465",
+      "imdb_id": "tt0019760",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2014-09-22T21:40:18Z",
+      "updated_at": "2017-02-24T07:07:07Z",
+      "material_data": {
+        "title": "Человек с киноаппаратом",
+        "title_en": "",
+        "year": 1929,
+        "tagline": "The Greatest Documentary Ever Made.",
+        "description": "Человек с киноаппаратом снимает людей, места, объекты. Кинокамера является действующим лицом самого процесса съемки: в воздухе, под землей, в самой гуще событий. Киноглаз, который наблюдает, фиксирует малейшие нюансы, не давая оценки, не следуя сценарию.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/45465.jpg",
+        "duration": 68,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "документальный"
+        ],
+        "kinopoisk_rating": 8.5,
+        "kinopoisk_votes": 11406,
+        "imdb_rating": 8.4,
+        "imdb_votes": 21970,
+        "premiere_world": "1929-01-08",
+        "minimal_age": 0,
+        "actors": [
+          "Михаил Кауфман"
+        ],
+        "directors": [
+          "Дзига Вертов"
+        ],
+        "writers": [
+          "Дзига Вертов"
+        ],
+        "composers": [
+          "Пьер Анри",
+          "Найджел Хамберстоун",
+          "Константин Листов",
+          "Майкл Найман"
+        ],
+        "editors": [
+          "Дзига Вертов"
+        ],
+        "operators": [
+          "Михаил Кауфман",
+          "Глеб Троянский"
+        ]
+      }
+    },
+    {
+      "id": "movie-7507",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Алжир навсегда",
+      "title_orig": "Les portes du soleil: Algérie pour toujours",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "794700",
+      "imdb_id": "tt3130742",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-09-17T23:07:07Z",
+      "updated_at": "2017-02-23T09:56:08Z",
+      "material_data": {
+        "title": "Алжир навсегда",
+        "title_en": "Les portes du soleil: Algérie pour toujours",
+        "year": 2014,
+        "description": "В центре сюжета миссия секретного агента, который должен спасти целую страну от террористической угрозы...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/794700.jpg",
+        "duration": 90,
+        "countries": [
+          "Алжир"
+        ],
+        "genres": [
+          "боевик"
+        ],
+        "kinopoisk_rating": 4.6,
+        "kinopoisk_votes": 95,
+        "imdb_rating": 4.1,
+        "imdb_votes": 256,
+        "premiere_world": "2014-10-27",
+        "actors": [
+          "Zakaria Ramdane",
+          "Смаин",
+          "Лори",
+          "София Нуасер",
+          "Ахмед Бенаисса",
+          "Патрис Квартерон",
+          "Amine Mentseur",
+          "Athman Bendaoud",
+          "Madjid Ben Blal",
+          "Mehdi Tahmi"
+        ],
+        "directors": [
+          "Жан-Марк Минео"
+        ],
+        "producers": [
+          "Zakaria Ramdane"
+        ],
+        "writers": [
+          "Жан-Марк Минео"
+        ],
+        "composers": [
+          "Jean-Jacques Ipino",
+          "Patrick Matteodo"
+        ],
+        "editors": [
+          "Хьюго Пикасо"
+        ],
+        "designers": [
+          "Ноэми Весье",
+          "Wahid El Gouel"
+        ],
+        "operators": [
+          "Льюис-Мартин Суси"
+        ]
+      }
+    },
+    {
       "id": "movie-15587",
       "type": "foreign-movie",
       "link": "",
@@ -7343,234 +7555,6 @@
         ],
         "operators": [
           "Владимир Окулич"
-        ]
-      }
-    },
-    {
-      "id": "movie-14564",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Высший класс",
-      "title_orig": "Высший класс",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1991,
-      "kinopoisk_id": "45978",
-      "imdb_id": "tt0337449",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-08T19:48:27Z",
-      "updated_at": "2017-02-08T07:06:35Z",
-      "material_data": {
-        "title": "Высший класс",
-        "title_en": "",
-        "year": 1991,
-        "description": "Милашка Верочка приезжает в Москву, чтобы когда-нибудь стать звездой. Провалившись на экзаменах, она решает не возвращаться домой. Случай сводит ее с Сергеем Сергеевичем - «нужным» человеком из мафии, поставляющей девочек за границу...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/45978.jpg",
-        "duration": 101,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "драма",
-          "комедия",
-          "криминал"
-        ],
-        "kinopoisk_rating": 4.6,
-        "kinopoisk_votes": 132,
-        "imdb_rating": 5.2,
-        "imdb_votes": 9,
-        "actors": [
-          "Ирина Алферова",
-          "Всеволод Шиловский",
-          "Евгений Герасимов",
-          "Вячеслав Невинный",
-          "Анатолий Ромашин",
-          "Ксения Алферова",
-          "Андрей Морозов",
-          "Наталья Хорохорина",
-          "Ирина Жалыбина",
-          "Алла Плоткина"
-        ],
-        "directors": [
-          "Михаил Мельниченко"
-        ],
-        "writers": [
-          "Сергей Гурзо мл."
-        ],
-        "composers": [
-          "Александр Мельников"
-        ],
-        "operators": [
-          "Артур Крашенниников"
-        ]
-      }
-    },
-    {
-      "id": "movie-14567",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Особо опасен",
-      "title_orig": "Wanted",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2009,
-      "kinopoisk_id": "394761",
-      "imdb_id": "tt1084972",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-08T19:48:32Z",
-      "updated_at": "2017-02-08T07:00:30Z",
-      "material_data": {
-        "title": "Особо опасен",
-        "title_en": "Wanted",
-        "year": 2009,
-        "tagline": "MAFIA WANTS HIM DEAD, POLICE WANTS HIM ALIVE",
-        "description": "История тайного агента, работающего на мафию Дон. Его цель - устранить гангстеров, будучи частью их организации.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/394761.jpg",
-        "duration": 153,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "триллер"
-        ],
-        "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 475,
-        "imdb_rating": 6.6,
-        "imdb_votes": 18422,
-        "premiere_world": "2009-09-18",
-        "minimal_age": 16,
-        "actors": [
-          "Салман Кхан",
-          "Айеша Такиа",
-          "Винод Кханна",
-          "Говинд Намдео",
-          "Пракаш Радж",
-          "Махеш Манджрекар",
-          "Индер Кумар",
-          "Махек Чхал",
-          "Манодж Пахва",
-          "Raju Mavani"
-        ],
-        "directors": [
-          "Прабхудева"
-        ],
-        "producers": [
-          "Бони Капур",
-          "Арджун Капур",
-          "Култхеп Нарула",
-          "Канвалиндер Сингх",
-          "Мэтт Землин"
-        ],
-        "writers": [
-          "Сунил Кумар Агравал",
-          "Шаббир Ахмад",
-          "Шираз Ахмед",
-          "Ваджид Али",
-          "Арун Бхайрав",
-          "Пури Джаганнатх",
-          "Джалес Шервани"
-        ],
-        "composers": [
-          "Саджид Али",
-          "Ваджид Али",
-          "Салим Мерчант",
-          "Сулеман Мерчант"
-        ],
-        "editors": [
-          "Дилип Део"
-        ],
-        "designers": [
-          "Шийам Сундер",
-          "Чинна",
-          "Васик Кхан",
-          "Ашиш Ананд Ранаде"
-        ],
-        "operators": [
-          "Нирав Шах",
-          "Сетху Шрирам"
-        ]
-      }
-    },
-    {
-      "id": "movie-11521",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Спасатель",
-      "title_orig": "Спасатель",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1980,
-      "kinopoisk_id": "43940",
-      "imdb_id": "tt0081544",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-02-07T21:36:24Z",
-      "updated_at": "2017-02-07T17:31:01Z",
-      "material_data": {
-        "title": "Спасатель",
-        "title_en": "",
-        "year": 1980,
-        "description": "В небольшом провинциальном городке снимается документальное кино о маленькой школе, где работает талантливый педагог, учитель литературы Лариков. Вчерашняя десятиклассница Ася Веденеева всегда с благоговением ловила слова любимого учителя и строила свои отношения с миром на основе его уроков. Дальнейшие взаимоотношения Аси и ее бывшего учителя принесут молодой девушке череду жестоких разочарований.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/43940.jpg",
-        "duration": 101,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.3,
-        "kinopoisk_votes": 1097,
-        "imdb_rating": 7.4,
-        "imdb_votes": 84,
-        "premiere_world": "1980-10-27",
-        "minimal_age": 12,
-        "actors": [
-          "Татьяна Друбич",
-          "Василий Мищенко",
-          "Сергей Шакуров",
-          "Ольга Белявская",
-          "Вячеслав Кононенко",
-          "Александр Кайдановский",
-          "Екатерина Васильева",
-          "Валерий Лёвушкин",
-          "Галина Петрова",
-          "Анатолий Малашкин"
-        ],
-        "directors": [
-          "Сергей Соловьев"
-        ],
-        "writers": [
-          "Сергей Соловьев"
-        ],
-        "composers": [
-          "Исаак Шварц"
-        ],
-        "editors": [
-          "Алла Абрамова"
-        ],
-        "designers": [
-          "Александр Бойм",
-          "Александр Самулекин"
-        ],
-        "operators": [
-          "Павел Лебешев"
         ]
       }
     }

@@ -1,6 +1,237 @@
 {
   "results": [
     {
+      "id": "movie-41784",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мертвая лошадь Небула",
+      "title_orig": "Dead Horse Nebula",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1228690",
+      "imdb_id": "tt8769528",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-03T20:48:49Z",
+      "updated_at": "2019-09-03T20:48:49Z",
+      "material_data": {
+        "title": "Мертвая лошадь Небула",
+        "title_en": "Dead Horse Nebula",
+        "year": 2018,
+        "description": "Семилетний мальчик находит в поле мёртвую лошадь и наблюдает, как взрослые пытаются избавиться от неё. Мальчик взрослеет, эпизод с лошадью стирается из памяти, но герой все равно остается под влиянием этого случая.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1228690.jpg",
+        "duration": 73,
+        "countries": [
+          "Турция"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 5.5,
+        "imdb_votes": 259,
+        "premiere_world": "2018-08-06",
+        "actors": [
+          "Серкан Айдын",
+          "Барыш Бильги",
+          "Омер Бора",
+          "Али Явуз Ильман",
+          "Мюмин Сюрен",
+          "Диляра Топуклулар",
+          "Хасан Тюркер",
+          "Серкан Озальгинджи"
+        ],
+        "directors": [
+          "Тарик Акташ"
+        ],
+        "producers": [
+          "Гюнеш Секероглу",
+          "Барыш Йылдирим"
+        ],
+        "writers": [
+          "Тарик Акташ"
+        ],
+        "editors": [
+          "Осман Байрактароглу"
+        ],
+        "operators": [
+          "Неджметтин Акдениз"
+        ]
+      }
+    },
+    {
+      "id": "serial-17622",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Отель «Дель Луна»",
+      "title_orig": "Hotel Del Luna",
+      "other_title": "Отель дель Луна / Отель Луны / Hotel del Luna",
+      "translation": {
+        "id": 651,
+        "title": "Люб. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "1228049",
+      "imdb_id": "tt10220588",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-07-17T10:42:22Z",
+      "updated_at": "2019-09-03T19:46:08Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/459291/7e0545cb707d78b3d221010f61aaafff/720p",
+            "2": "//kodik.cc/seria/459292/e0b303297361a0c6a28e6c458f9cb2c6/720p",
+            "3": "//kodik.cc/seria/461297/41519be52f5d11425e7280cab62e8a02/720p",
+            "4": "//kodik.cc/seria/461923/746c796736daa83f291bdf4d5222243f/720p",
+            "5": "//kodik.cc/seria/466662/000aa7c5b0b94b97e1c2c2f25b9e2c56/720p",
+            "6": "//kodik.cc/seria/466663/24dc6fb0368743fd8671b159cd2f2eff/720p",
+            "7": "//kodik.cc/seria/471131/45aa05ce9b78cc481e9320f02a941953/720p",
+            "8": "//kodik.cc/seria/471132/c6554204d9814887621dfa328ed3b516/720p",
+            "9": "//kodik.cc/seria/471133/775ab7beba7b261b07c0e9a142f17244/720p",
+            "10": "//kodik.cc/seria/471134/78d9bb1510dbb51c503c6c8e15cd0515/720p",
+            "11": "//kodik.cc/seria/473823/61486f9656cfc73b315a79f102b643fa/720p",
+            "12": "//kodik.cc/seria/473824/8a472e6fcd2b8d2cfce46f28975d060b/720p",
+            "13": "//kodik.cc/seria/478161/cac1205dad318a7b9b9fe30744190399/720p",
+            "14": "//kodik.cc/seria/478162/9923c10db8728ce8404edd8acafc723f/720p",
+            "15": "//kodik.cc/seria/480081/92e967a4327ce8b25289bf68b99d5a74/720p",
+            "16": "//kodik.cc/seria/480082/001580802c3a748b1d7c14953d2b1df3/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Отель «Дель Луна»",
+        "title_en": "Hotel Delluna",
+        "year": 2019,
+        "description": "Из-за странного происшествия парень начинает работать менеджером в отеле «Дель Луна». Управляющая отелем - женщина строгая и даже иногда жестока с подчинёнными, а всё потому, что 1000 лет назад на неё было наложено проклятие. Клиентами этого странного отеля являются призраки.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1228049.jpg",
+        "duration": 80,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "мелодрама",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 8,
+        "kinopoisk_votes": 4056,
+        "imdb_rating": 8.2,
+        "imdb_votes": 3347,
+        "premiere_world": "2019-07-13",
+        "actors": [
+          "Ли Джи-ын",
+          "Ё Джин-гу",
+          "Чо Хён-чхоль",
+          "Пак Ю-на",
+          "Щин Джон-гын",
+          "Пэ Хэ-сон",
+          "Пио",
+          "Кан Ми-на",
+          "Чон Дон-хван",
+          "Со И-сук"
+        ],
+        "directors": [
+          "О Чхун-хван"
+        ],
+        "writers": [
+          "Хон Джон-ын",
+          "Хон Ми-ран"
+        ]
+      }
+    },
+    {
+      "id": "serial-18319",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Последний скандал",
+      "title_orig": "Nae saengae majimak seukaendeul",
+      "other_title": "Last Scandal / Nae saeng-ae ma-ji-mak seu-kaen-deul / The Last Scandal of My Life / My Life's Last Scandal / Last Romance",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2008,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "494510",
+      "imdb_id": "tt1301892",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-09-03T13:52:03Z",
+      "updated_at": "2019-09-03T13:52:03Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/480005/c8e144ffaa8996634b384c652fd4248a/720p",
+            "2": "//kodik.cc/seria/480006/6f5996631cf42282c446afe89c4906e8/720p",
+            "3": "//kodik.cc/seria/480007/3ca123af091d6490cb22196f94326a82/720p",
+            "4": "//kodik.cc/seria/480008/18f28f33b673f96bbab78334e325002a/720p",
+            "5": "//kodik.cc/seria/480009/c0c028394d4ef4d82616a75362715292/720p",
+            "6": "//kodik.cc/seria/480010/cd011960021edd5c32e03aadb8699f43/720p",
+            "7": "//kodik.cc/seria/480011/23899a04aeaca56555532e722d693b2f/720p",
+            "8": "//kodik.cc/seria/480012/8a34af499829a80e1f2a495555ff6eaa/720p",
+            "9": "//kodik.cc/seria/480013/3d265b7b492ce5637100515215146d8c/720p",
+            "10": "//kodik.cc/seria/480014/ba0dad1d64d6ef25357e93ac9e4dac2e/720p",
+            "11": "//kodik.cc/seria/480015/fac446c82a46c436528ccafea68b227f/720p",
+            "12": "//kodik.cc/seria/480016/0892165260ecd3e7550ba50d8f237128/720p",
+            "13": "//kodik.cc/seria/480017/6d4b15f5a27182eac196003d5d5d6cf3/720p",
+            "14": "//kodik.cc/seria/480018/b2f73904f78b12d810b17857e57065f8/720p",
+            "15": "//kodik.cc/seria/480019/6b26588bdca669de44bb0d8d00f0c202/720p",
+            "16": "//kodik.cc/seria/480020/5a1c0d860c3daf9aa43a21e1e0b5048a/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Последний скандал",
+        "title_en": "Nae saengae majimak seukaendeul",
+        "year": 2008,
+        "description": "Домохозяйка Хон Сон-хи вновь встречает свою первую любовь Чан Дон-чхоля, ныне скрывающегося под псевдонимом Сон Джэ-бин. Он не желает узнавать Сон-хи, что и неудивительно, ведь он - кинозвезда. Муж Сон-хи отбывает срок в тюрьме за долги, и женщине ничего не остается, кроме как обратиться за помощью к богатому Дон-чхолю. Он не слишком жаждет ей помогать, но в конечном счете Сон-хи устраивается в его дом в качестве экономки.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/494510.jpg",
+        "duration": 70,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "мелодрама"
+        ],
+        "imdb_rating": 7.5,
+        "imdb_votes": 48,
+        "premiere_world": "2008-08-30",
+        "actors": [
+          "Чхве Джин-щиль",
+          "Чон Джун-хо",
+          "Чон Ун-ин",
+          "Ан Иль-гвон",
+          "Ли Сан-хун"
+        ],
+        "directors": [
+          "Ли Тхэ-гон"
+        ],
+        "producers": [
+          "Ли Джан-су"
+        ],
+        "writers": [
+          "Мун Хи-джон"
+        ]
+      }
+    },
+    {
       "id": "serial-18318",
       "type": "foreign-serial",
       "link": "",
@@ -5703,7 +5934,7 @@
           "драма"
         ],
         "imdb_rating": 6.1,
-        "imdb_votes": 272,
+        "imdb_votes": 279,
         "premiere_world": "2019-08-01",
         "actors": [
           "Картикея Гуммаконда",
@@ -5933,10 +6164,10 @@
           "триллер",
           "фэнтези"
         ],
-        "kinopoisk_rating": 8,
-        "kinopoisk_votes": 15669,
+        "kinopoisk_rating": 8.1,
+        "kinopoisk_votes": 16586,
         "imdb_rating": 8.1,
-        "imdb_votes": 5874,
+        "imdb_votes": 6496,
         "premiere_world": "2016-07-20",
         "minimal_age": 16,
         "actors": [
@@ -7426,306 +7657,6 @@
         "operators": [
           "Harish Negi"
         ]
-      }
-    },
-    {
-      "id": "movie-41434",
-      "type": "anime",
-      "link": "",
-      "title": "В подземелье я пойду, там красавицу найду: Стрела Ориона",
-      "title_orig": "Gekijouban danjon ni deai o motomeru no wa machigatteiru daro ka: Orion no ya",
-      "other_title": "В подземелье я пойду, там красавицу найду! (фильм)",
-      "translation": {
-        "id": 610,
-        "title": "AniLibria.TV",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1226783",
-      "imdb_id": "tt9526152",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9579",
-      "shikimori_id": "37348",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-25T12:56:24Z",
-      "updated_at": "2019-08-25T12:56:24Z",
-      "material_data": {
-        "title": "В подземелье я пойду, там красавицу найду: Стрела Ориона",
-        "title_en": "Gekijouban danjon ni deai o motomeru no wa machigatteiru daro ka: Orion no ya",
-        "other_titles": [
-          "Разве плохо искать себе пару в подземелье? Стрела Ориона",
-          "DanMachi Movie",
-          "Is It Wrong That I Want to Meet You in a Dungeon Movie"
-        ],
-        "other_titles_en": [
-          "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion"
-        ],
-        "other_titles_jp": [
-          "劇場版 ダンジョンに出会いを求めるのは間違っているだろうか -オリオンの矢-"
-        ],
-        "anime_license_name": "Разве плохо искать себе пару в подземелье? Стрела Ориона",
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2019,
-        "description": "Жизнь в Орарио кипит как никогда: сегодня Боголуние — праздник, придуманный ещё до сошествия богов в мир смертных. И пока авантюрист Белл Кранел и его покровительница Гестия бродят между пёстрыми лавками и множеством огней, весь город с недосягаемых высот окутывает бледным светом луна, молчаливо ожидающая, когда на сцену поднимется герой, о котором будет сложена новая сага.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1226783.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/ae22d927e45c7a7e1753ede7fc07685831068152.jpg",
-          "https://shikimori.one/system/screenshots/original/2e65fe8ccd578d3d57a178fdaceda750e9b573d0.jpg"
-        ],
-        "duration": 82,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Приключения",
-          "Романтика",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "J.C.Staff"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 2335,
-        "imdb_rating": 6.8,
-        "imdb_votes": 669,
-        "shikimori_rating": 7.44,
-        "shikimori_votes": 6779,
-        "premiere_world": "2019-02-15",
-        "aired_at": "2019-02-15",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": -1,
-        "actors": [
-          "Ёсицугу Мацуока",
-          "Инори Минасэ",
-          "Маая Сакамото",
-          "Маая Утида",
-          "Саори Оониси",
-          "Сома Саито",
-          "Саори Хаями",
-          "Сидзука Исигами",
-          "Харука Томацу",
-          "Ёсимаса Хосоя"
-        ],
-        "directors": [
-          "Кацуси Сакураби"
-        ],
-        "writers": [
-          "Фудзино Омори"
-        ],
-        "composers": [
-          "Кэидзи Инаи"
-        ]
-      }
-    },
-    {
-      "id": "serial-18196",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Деревенская глубинка [ТВ-2]",
-      "title_orig": "Non Non Biyori Repeat",
-      "other_title": "Глухомань 2 / Деревенская глубинка 2 / Деревня 2",
-      "translation": {
-        "id": 761,
-        "title": "Onibaku",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 2,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "817308",
-      "imdb_id": "tt3114358",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8182",
-      "shikimori_id": "23623",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-08-25T01:03:02Z",
-      "updated_at": "2019-08-25T01:03:02Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "//aniqit.com/seria/476654/1b633df78b6ac84a76c5a7426e795287/720p",
-            "2": "//aniqit.com/seria/476655/a331bb2c1fcbfbef373742c69cedb073/720p",
-            "3": "//aniqit.com/seria/476656/ba1f27ca3e46a2ce672b511655f93b7f/720p",
-            "4": "//aniqit.com/seria/476657/32fd30f17ff243ebd6b4af002333f871/720p",
-            "5": "//aniqit.com/seria/476658/b356d9971f6ac51c1e90dea3f365bfe0/720p",
-            "6": "//aniqit.com/seria/476659/d73072fc29f4c4472c52f1c6a6a27303/720p",
-            "7": "//aniqit.com/seria/476660/c83ec37a31ff82720f728ed5721b4dc8/720p",
-            "8": "//aniqit.com/seria/476661/6a1add014bc05bd4b80c44118b7cff22/720p",
-            "9": "//aniqit.com/seria/476662/d302368e61f43a2b1f254bf1d57068c6/720p",
-            "10": "//aniqit.com/seria/476663/f9de7fc5e04d44ce21fa9c31cc9a1489/720p",
-            "11": "//aniqit.com/seria/476664/8f9cf5dd5462cc652c1119c804529659/720p",
-            "12": "//aniqit.com/seria/476665/34bb03f23d32b31ba0e88ab409a57df1/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Глухомань",
-        "title_en": "Non Non Biyori",
-        "other_titles": [
-          "Глухомань 2",
-          "И вновь погожие деньки",
-          "Non Non Biyori 2nd Season",
-          "Non Non Biyori Second Season"
-        ],
-        "other_titles_en": [
-          "Non Non Biyori Repeat"
-        ],
-        "other_titles_jp": [
-          "のんのんびより りぴーと"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2013,
-        "description": "11-летняя Хотару Итидзё переселилась из Токио в настоящую японскую глубинку – настолько глухую, что до ближайшего книжного магазина час езды поездом. Нравы здесь простые, двери никто не запирает – зачем, ведь все друг друга знают до седьмого колена. Излишне говорить, что в сельской школе в одной комнате учится все местное детское население – первоклассница Рэнгэ, семиклассница Нацуми, ее сестра восьмиклассница Комари и их на год старший брат Сугуру. А теперь вот еще и пятиклассница Хотару прибавилась...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/817308.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/6f48f40398898174fbce67d3be1688df085b6f9f.jpg",
-          "https://shikimori.one/system/screenshots/original/f90f9a5ce6244e4949efae70fc4c94f6890e7d32.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность",
-          "Сейнен",
-          "Школа"
-        ],
-        "anime_studios": [
-          "SILVER LINK."
-        ],
-        "kinopoisk_rating": 7.3,
-        "kinopoisk_votes": 795,
-        "imdb_rating": 7.6,
-        "imdb_votes": 584,
-        "shikimori_rating": 8.18,
-        "shikimori_votes": 5780,
-        "premiere_world": "2013-10-07",
-        "aired_at": "2015-07-07",
-        "released_at": "2015-09-22",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Котори Коиваи",
-          "Риэ Муракава",
-          "Аянэ Сакура",
-          "Кана Асуми",
-          "Каори Надзука",
-          "Рина Сато",
-          "Акико Хирамацу",
-          "Мисато Фукуэн",
-          "Юко Нагасима",
-          "Рёко Синтани"
-        ],
-        "directors": [
-          "Масая Кавамо",
-          "Дзюн Фукуда",
-          "Кодзи Саваи",
-          "Ютака Хирата",
-          "Мацуо Асами",
-          "Naoki Horiuchi",
-          "Дзюнъя Косиба",
-          "Kazumi Nakano",
-          "Роко Огивара",
-          "Дзин Тамамура"
-        ],
-        "producers": [
-          "Ёсикадзу Бэния",
-          "Дзиро Накагава",
-          "Дэвид Дель Рио",
-          "Исидзука Масатоси",
-          "Ёхэй Кисара",
-          "Джон Лэдфорд",
-          "Мика Симидзу",
-          "Эиити Такахаси",
-          "Rina Takahashi",
-          "Синсаку Танака"
-        ],
-        "writers": [
-          "Атто",
-          "Фумихико Симо",
-          "Юка Ямада",
-          "Рэйко Ёсида"
-        ],
-        "composers": [
-          "Хироми Мидзутани"
-        ],
-        "editors": [
-          "Кэнтаро Цубонэ"
-        ],
-        "designers": [
-          "Anna Ooizumi"
-        ],
-        "operators": [
-          "Ацуси Сату"
-        ]
-      }
-    },
-    {
-      "id": "serial-17554",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Сердце рыцаря",
-      "title_orig": "Huajai Look Poochai",
-      "other_title": "Hua Jai Look Poochai",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 15,
-      "episodes_count": 15,
-      "mdl_id": "30750-hua-jai-look-poochai",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-07-14T17:42:36Z",
-      "updated_at": "2019-08-24T23:12:15Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/457808/d3418bf5555dc3ac3684e9b0cc911761/720p",
-            "2": "//kodik.cc/seria/457809/ddf1c27d639848b6bda11ad7f12bf672/720p",
-            "3": "//kodik.cc/seria/457810/03edf6c2845ea2deead892f11bd5550f/720p",
-            "4": "//kodik.cc/seria/457811/cee129e2617568f6d8ddc84a201a1292/720p",
-            "5": "//kodik.cc/seria/459432/78ecee7a5523ae1882b52cfe0d146d74/720p",
-            "6": "//kodik.cc/seria/459891/0692cd0f8a3856b0273b5ac43fb1779f/720p",
-            "7": "//kodik.cc/seria/462618/eeb0adc3cd79f823d951b6bbfb9e3f3e/720p",
-            "8": "//kodik.cc/seria/462968/10a457e57ff52c315776a9d94ed00a69/720p",
-            "9": "//kodik.cc/seria/467472/3007b69b89871ca501083d299f2e63af/720p",
-            "10": "//kodik.cc/seria/467473/48ecc062f5e3ed254737dc7c9aee87ac/720p",
-            "11": "//kodik.cc/seria/470892/743d847c3ab664534b9717657b76dca8/720p",
-            "12": "//kodik.cc/seria/470893/a5339a4a5e4d27acb1cec1a5257fad31/720p",
-            "13": "//kodik.cc/seria/471513/1c09cf1654520a146edb0822da24b523/720p",
-            "14": "//kodik.cc/seria/473949/fe1837c9d54dc257c8d12c2f682f8d84/720p",
-            "15": "//kodik.cc/seria/476294/3369491d199aba7071f7543ecfdfa8c8/720p"
-          }
-        }
       }
     }
   ]

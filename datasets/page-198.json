@@ -1,6 +1,400 @@
 {
   "results": [
     {
+      "id": "serial-8018",
+      "type": "anime-serial",
+      "link": "",
+      "title": "У меня мало друзей [ТВ-2]",
+      "title_orig": "Boku wa Tomodachi ga Sukunai Next",
+      "other_title": "У меня мало друзей ТВ2 / У меня мало друзей: Далее",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2013,
+      "last_season": 2,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "714215",
+      "imdb_id": "tt2645500",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1113",
+      "shikimori_id": "14967",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-12-30T07:28:47Z",
+      "updated_at": "2019-12-11T23:03:37Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/208952/9f098af6acaa14ccfea5918085828b87/720p",
+            "2": "//aniqit.com/seria/208953/5cbe8fcec01a364a944d58713df080d7/720p",
+            "3": "//aniqit.com/seria/208954/f004d7927a3d3da6b9712d911cac9221/720p",
+            "4": "//aniqit.com/seria/208955/e05beb6a8bb4181f1288431577bbc050/720p",
+            "5": "//aniqit.com/seria/208956/1bb04357e5e207682f715035ed563f2c/720p",
+            "6": "//aniqit.com/seria/208957/069622079c2a06bbc298d9f340548224/720p",
+            "7": "//aniqit.com/seria/208958/4c4fd9e329eb51f9fc095d28387c0e2e/720p",
+            "8": "//aniqit.com/seria/208959/42ae3c7210200316bb6c46dce800f493/720p",
+            "9": "//aniqit.com/seria/208960/786452744f4739d6033a42422a71fc52/720p",
+            "10": "//aniqit.com/seria/208961/44a0bbd306e4e940779f40c441da0faa/720p",
+            "11": "//aniqit.com/seria/208962/db5a8dee3f93cd36d19a9a39c85ad719/720p",
+            "12": "//aniqit.com/seria/208963/8b75c421a1f8d9f26f651c99b41206ce/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "У меня мало друзей: Далее",
+        "title_en": "Boku wa Tomodachi ga Sukunai Next",
+        "other_titles": [
+          "Boku wa Tomodachi ga Sukunai 2nd Season"
+        ],
+        "other_titles_en": [
+          "Haganai: I don't have many friends NEXT"
+        ],
+        "other_titles_jp": [
+          "僕は友達が少ない NEXT"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2013,
+        "description": "Клуб друзей был основан с целью найти как можно больше друзей. В нём одинокие девушки и парни постигают основы нормального общения. И хотя некоторые из них, например, Ёдзора, столкнулись с трудностями в конце лета, повседневная жизнь клуба идет своим чередом. Члены клуба собираются в парк развлечений, вместе отмечают дни рождения и участвуют на школьном фестивале. Вскоре отношения между ними меняются...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/714215.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/33ad85917a092b98ce1f5b343019f23e37809014.jpg",
+          "https://shikimori.one/system/screenshots/original/4d58ec1e067570473cc5c5dc4f956850082a9137.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Гарем",
+          "Комедия",
+          "Повседневность",
+          "Романтика",
+          "Школа"
+        ],
+        "anime_studios": [
+          "AIC Build"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 955,
+        "shikimori_rating": 7.41,
+        "shikimori_votes": 19650,
+        "aired_at": "2013-01-11",
+        "released_at": "2013-03-29",
+        "rating_mpaa": "R+",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Ито Канаэ",
+          "Марина Иноуэ",
+          "Рёхэй Кимура",
+          "Кана Ханадзава",
+          "Мисато Фукуэн",
+          "Ямамото Нодзоми",
+          "Юка Игути"
+        ],
+        "directors": [
+          "Тору Китахата"
+        ],
+        "writers": [
+          "Курасуми Сунаяма",
+          "Тацухико Урахата"
+        ]
+      }
+    },
+    {
+      "id": "serial-8003",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Убийца Акамэ!",
+      "title_orig": "Akame ga Kill!",
+      "other_title": "Убийца Акаме!",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 24,
+      "kinopoisk_id": "841026",
+      "imdb_id": "tt3742982",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2184",
+      "shikimori_id": "22199",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-12-30T05:57:21Z",
+      "updated_at": "2019-12-11T23:02:02Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/208756/610d8c9cf98146084517e332264ac9bc/720p",
+            "2": "//aniqit.com/seria/208757/22a9101ac441287d632cbc0339cee026/720p",
+            "3": "//aniqit.com/seria/208758/bff9e74d60545dbec513850f418d9dd6/720p",
+            "4": "//aniqit.com/seria/208759/7fddddba7975746ebfdb8a71b48e12f2/720p",
+            "5": "//aniqit.com/seria/208760/feab233a7ed818405c47718209e50ca7/720p",
+            "6": "//aniqit.com/seria/208761/4da80c395e6d682ceac3b5cbac13518b/720p",
+            "7": "//aniqit.com/seria/208762/17dcb837f8df4cd672caf1ebd156cdc0/720p",
+            "8": "//aniqit.com/seria/208763/49221225553364fbf92c00498606bd77/720p",
+            "9": "//aniqit.com/seria/208764/9dbcf6f80205e2f41cc67b77fa7c9e5f/720p",
+            "10": "//aniqit.com/seria/208765/2a3081cad5088474daae0ce3d41bc346/720p",
+            "11": "//aniqit.com/seria/208766/2c4e1c16c4105f27ca5090b390e47ca4/720p",
+            "12": "//aniqit.com/seria/208767/0734e35e5dc94dfdaac937046b82d327/720p",
+            "13": "//aniqit.com/seria/208768/7e88c87ec7f08aabe01301738723ed63/720p",
+            "14": "//aniqit.com/seria/208769/62d4bcb13a872e03ee612a67208ac1d7/720p",
+            "15": "//aniqit.com/seria/208770/9f96d9fd4ff52ac2bd63591c4826d489/720p",
+            "16": "//aniqit.com/seria/208771/d9d1b7b60f9f69d970a07ac363a50bbe/720p",
+            "17": "//aniqit.com/seria/208772/2baf6a7877176024d3e974fb1ac4084e/720p",
+            "18": "//aniqit.com/seria/208773/7b199fe3b381ae02a91c60056d64e7d8/720p",
+            "19": "//aniqit.com/seria/208774/2c99fb804087cbd2bb67e9dce45c06ee/720p",
+            "20": "//aniqit.com/seria/208775/e677339fd0a7edc22db5f80bc1a36638/720p",
+            "21": "//aniqit.com/seria/208776/97975d99904fb2aa91d1898e8551c4d7/720p",
+            "22": "//aniqit.com/seria/208777/1f78eab528b00994bd00aad17a237685/720p",
+            "23": "//aniqit.com/seria/208778/04c1eefc7be95764654ba5799dcab198/720p",
+            "24": "//aniqit.com/seria/208779/50cd0d21b48498a19a5161b00b5d7489/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Убийца Акамэ!",
+        "title_en": "Akame ga Kill!",
+        "other_titles": [
+          "Akame ga Kiru!"
+        ],
+        "other_titles_en": [
+          "Akame ga Kill!"
+        ],
+        "other_titles_jp": [
+          "アカメが斬る！"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2014,
+        "description": "Мечник Тацуми, простой парнишка из сельской местности отправляется в столицу, чтобы заработать денег для своей голодающей деревни. А добравшись дотуда, узнает, что великая и красивая столица - лишь видимость. Город погряз в коррупции, жестокости и беззаконии которые идут от премьер-министра, что правит страной из-за кулис.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/841026.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/c16fffa210eea2d08fb48fd6361a5b8424f047f3.jpg",
+          "https://shikimori.one/system/screenshots/original/3f8614a4e656cf8323ef49a3134c99d8f845c4a1.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "приключения"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Приключения",
+          "Сёнен",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "White Fox"
+        ],
+        "kinopoisk_rating": 7.8,
+        "kinopoisk_votes": 8193,
+        "imdb_rating": 7.9,
+        "imdb_votes": 15915,
+        "shikimori_rating": 7.56,
+        "shikimori_votes": 68252,
+        "premiere_world": "2014-07-06",
+        "aired_at": "2014-07-07",
+        "released_at": "2014-12-15",
+        "rating_mpaa": "R",
+        "episodes_total": 24,
+        "episodes_aired": 24,
+        "actors": [
+          "Сома Саито",
+          "Сора Амамия",
+          "Ю Асакава",
+          "Юкари Тамура",
+          "Сатоми Акэсака",
+          "Ёсицугу Мацуока",
+          "Кохэй Сугэсава",
+          "Ёсимаса Хосоя",
+          "Аяка Охаси",
+          "Дзюндзи Мадзима"
+        ],
+        "directors": [
+          "Томоки Кобаяси",
+          "Масафуми Тамура",
+          "Хироюки Цутия",
+          "Даисукэ Эгути",
+          "Ацуси Итагаки",
+          "Манабу Окамото",
+          "Сумито Сасаки",
+          "Масахиро Сонода",
+          "Томоко Хирамуки",
+          "Дзин Ивацуки"
+        ],
+        "producers": [
+          "Кадзухиро Асо",
+          "Ёко Баба",
+          "Масаки Фудзита",
+          "Гаку Иваса",
+          "Масанори Миякэ",
+          "Хирохито Синохара",
+          "Кадзутака Яманака",
+          "Цунаки Ёсикава",
+          "Такаси Ёсидзава"
+        ],
+        "writers": [
+          "Кодзиро Накамура",
+          "Макото Уэдзу",
+          "Токо Матида",
+          "Тэцуя Тасиро"
+        ],
+        "composers": [
+          "Таку Ивасаки"
+        ],
+        "editors": [
+          "Масахиро Гото"
+        ],
+        "designers": [
+          "Ёсито Такаминэ"
+        ],
+        "operators": [
+          "Кэисукэ Накамура"
+        ]
+      }
+    },
+    {
+      "id": "serial-5656",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Хаматора: Ответ",
+      "title_orig": "Reply Hamatora",
+      "other_title": "Детективное агентство Хаматора / Хаматора (второй сезон)",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 2,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "818884",
+      "imdb_id": "tt3399706",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2241",
+      "shikimori_id": "23421",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-11-05T16:48:48Z",
+      "updated_at": "2019-12-11T23:00:05Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/151369/d7c8246d46ea3843d01c6d9a04e48c17/720p",
+            "2": "//aniqit.com/seria/151370/ff80422c4e9f47b267982dd8aed3c11a/720p",
+            "3": "//aniqit.com/seria/151371/a1637d6a7bcecdd8f186de5f8fc73225/720p",
+            "4": "//aniqit.com/seria/151372/a36409a908a7019c98c6318d29f72dc3/720p",
+            "5": "//aniqit.com/seria/151373/b726271c8dece34ed7155d48ee98d58c/720p",
+            "6": "//aniqit.com/seria/151374/aba073675488768faf9ffd3b0864fa5e/720p",
+            "7": "//aniqit.com/seria/151375/840fb8388a909d0dd61ee7a46eb96e02/720p",
+            "8": "//aniqit.com/seria/151376/64b48deb3f8a68e18ce42844c7533fa2/720p",
+            "9": "//aniqit.com/seria/151377/b8b726d6baeda13dd8febdf46245ca63/720p",
+            "10": "//aniqit.com/seria/151378/7b86e1f3badcb34b628832faf3fdef29/720p",
+            "11": "//aniqit.com/seria/151379/187cece8e832b0d420d8a3915c0d605f/720p",
+            "12": "//aniqit.com/seria/151380/f4a06a012034370111bb3c01e634ac20/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Детективное агентство Хаматора",
+        "title_en": "Hamatora",
+        "other_titles": [
+          "Hamatora The Animation 2nd Season",
+          "Reply Hamatora"
+        ],
+        "other_titles_en": [
+          "Re: Hamatora: Season 2"
+        ],
+        "other_titles_jp": [
+          "Re:␣ ハマトラ"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2014,
+        "description": "Эсперы, называемые в этом мире Минимумами, по-разному относятся к своему дару. Кто-то чувствует ответственность, а кто-то считает себя полубогом, для которого остальные – пыль под ногами. Справиться с такими непросто, но там, где пасует «королевская рать», на стражу закона становятся детективы-эсперы. Они не любят полицейской муштры и часто работают свободными художниками. Отличный пример – агентство «Хаматора», возглавляемое порывистым Найсом и флегматичным Мурасаки. Правда, весь их офис – одинокий столик в кафе «Нигде», зато бородатый хозяин всегда готов поделиться житейской мудростью, а его помощница Конэко по совместительству работает менеджером агентства.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/818884.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/ce32bdab41c3cbcc1463f610789b771d238e8c16.jpg",
+          "https://shikimori.one/system/screenshots/original/32ed76b7ed4c07b2bf589e76faceecdd958492fa.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "приключения"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Драма",
+          "Комедия",
+          "Супер сила"
+        ],
+        "anime_studios": [
+          "Lerche"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 488,
+        "imdb_rating": 7.1,
+        "imdb_votes": 271,
+        "shikimori_rating": 7.4,
+        "shikimori_votes": 6693,
+        "premiere_world": "2014-01-07",
+        "aired_at": "2014-07-08",
+        "released_at": "2014-09-23",
+        "rating_mpaa": "R",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Рёта Осака",
+          "Хатано Ватару",
+          "Эмири Като",
+          "Киёно Ясуно",
+          "Ацуси Оно",
+          "Ёсукэ Акимото",
+          "Хироси Камия",
+          "Дзюн Фукуяма",
+          "Юити Накамура",
+          "Синъя Такахаси"
+        ],
+        "directors": [
+          "Сэидзи Киси",
+          "Хироси Кимура"
+        ],
+        "writers": [
+          "Токо Матида"
+        ]
+      }
+    },
+    {
       "id": "serial-4886",
       "type": "anime-serial",
       "link": "",
@@ -4920,7 +5314,7 @@
         "imdb_rating": 7.6,
         "imdb_votes": 10798,
         "shikimori_rating": 7.56,
-        "shikimori_votes": 51982,
+        "shikimori_votes": 52891,
         "premiere_world": "2012-01-10",
         "aired_at": "2012-01-10",
         "released_at": "2012-03-27",
@@ -12033,213 +12427,6 @@
           "Ляо Бэньжун",
           "Вэнь Чин Лин",
           "Хуи-Чи Цао"
-        ]
-      }
-    },
-    {
-      "id": "movie-46137",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Экстраординарная миссия",
-      "title_orig": "Feifan renwu",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1040877",
-      "imdb_id": "tt6690310",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-12-11T08:03:23Z",
-      "updated_at": "2019-12-11T08:03:23Z",
-      "material_data": {
-        "title": "Экстраординарная миссия",
-        "title_en": "Fei fan ren wu",
-        "year": 2017,
-        "description": "Сотрудник отдела по борьбе наркотиками внедряется в банду уличных торговцев героином. Основная задача Линь Кая – как можно быстрее подняться в преступной иерархии и войти в доверие к боссу Чэну, ведь только он может вывести Линя на добычу покрупнее – производителя и поставщика наркотиков из Золотого треугольника.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1040877.jpg",
-        "duration": 122,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "боевик",
-          "криминал"
-        ],
-        "kinopoisk_rating": 6.1,
-        "kinopoisk_votes": 100,
-        "imdb_rating": 6.2,
-        "imdb_votes": 698,
-        "premiere_world": "2017-03-31",
-        "actors": [
-          "Хуан Сюань",
-          "Дуань Ихун",
-          "Лан Юэтин",
-          "Цзу Фэн",
-          "Син Цзядун",
-          "Дэвид Ван",
-          "Ван Яньхуэй",
-          "Дин Юндай",
-          "Сяо Цун",
-          "Ли Сяочуань"
-        ],
-        "directors": [
-          "Алан Мак",
-          "Энтони Пунь"
-        ],
-        "writers": [
-          "Феликс Чон"
-        ]
-      }
-    },
-    {
-      "id": "movie-46138",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Фатальная миссия",
-      "title_orig": "Pu guang ren wu",
-      "translation": {
-        "id": 572,
-        "title": "Визгунов",
-        "type": "voice"
-      },
-      "year": 1961,
-      "kinopoisk_id": "56256",
-      "imdb_id": "tt0101861",
-      "quality": "VHSRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-12-11T08:01:58Z",
-      "updated_at": "2019-12-11T08:01:58Z",
-      "material_data": {
-        "title": "Фатальная миссия",
-        "title_en": "Pu guang ren wu",
-        "year": 1991,
-        "description": "Жена и ребёнок главного героя становятся жертвами коррумпированных копов, и когда он понимает, что официальное расследование заходит в тупик, то сразу берёт дело в свои руки.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/56256.jpg",
-        "duration": 95,
-        "countries": [
-          "Гонконг"
-        ],
-        "genres": [
-          "боевик",
-          "триллер"
-        ],
-        "imdb_rating": 6,
-        "imdb_votes": 36,
-        "premiere_world": "1991-12-12",
-        "actors": [
-          "Дерек И",
-          "Сибелль Ху",
-          "Фрэнки Чин",
-          "Wai-yan Chan",
-          "Wing-Jun Chan",
-          "Киг-Кей Чэн",
-          "Алан Чун",
-          "Джеймс Ха",
-          "Вунь Лин Хау",
-          "Kwai-Ying Lee"
-        ],
-        "directors": [
-          "Стефан Ип"
-        ],
-        "producers": [
-          "Уильям Кун",
-          "Marguerite Cheung"
-        ],
-        "writers": [
-          "Стефан Ип"
-        ],
-        "composers": [
-          "Филип Манн"
-        ],
-        "designers": [
-          "Квок Хунг ЭнДжи"
-        ],
-        "operators": [
-          "Ging-Nin Cheung",
-          "Chuen-Lam Fan"
-        ]
-      }
-    },
-    {
-      "id": "movie-46139",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Река Печальной Флейты",
-      "title_orig": "Fuefukigawa",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1960,
-      "kinopoisk_id": "156772",
-      "imdb_id": "tt0053842",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-12-11T08:01:12Z",
-      "updated_at": "2019-12-11T08:01:12Z",
-      "material_data": {
-        "title": "Река Печальной Флейты",
-        "title_en": "Fuefukigawa",
-        "year": 1960,
-        "description": "История рассказывающая о судьбе бедной крестьянской семьи на протяжении пяти поколений. Река Печальной Флейты известна потрясающей красочной расцветкой своих вод. На территории её владений разгорались многочисленные сражения 16-ого столетия. Бедная семья, живущая около реки, теряет сыновей одного за другим в войнах, которые ведёт клан Такеда. Стук лошадиных копыт по мосту, вид пылающего в огне храма, крики самураев, недобрые вести, полученные от соседей - всё предвещает очередное сражение, подбирающееся к их реке. И лишь сердце матери способно бросить вызов ужасу и бесчеловечности войны...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/156772.jpg",
-        "duration": 117,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "драма",
-          "история"
-        ],
-        "kinopoisk_rating": 7.3,
-        "kinopoisk_votes": 71,
-        "imdb_rating": 7,
-        "imdb_votes": 272,
-        "premiere_world": "1960-10-19",
-        "actors": [
-          "Хидэко Такаминэ",
-          "Такахиро Тамура",
-          "Косиро Мацумото",
-          "Сима Ивасита",
-          "Юсукэ Кавадзу",
-          "Синдзи Танака",
-          "Китиэмон Накамура",
-          "Фумио Ватанабэ",
-          "Ёси Като",
-          "Кунико Икава"
-        ],
-        "directors": [
-          "Кэйсукэ Киносита"
-        ],
-        "producers": [
-          "Кэйсукэ Киносита",
-          "Сигэру Вакита"
-        ],
-        "writers": [
-          "Ситиро Фукадзава",
-          "Кэйсукэ Киносита"
-        ],
-        "composers": [
-          "Тюдзи Киносита"
-        ],
-        "editors": [
-          "Ёси Сугихара"
-        ],
-        "designers": [
-          "Кисаку Ито",
-          "Кохэй Эдзаки",
-          "Мацуо Ямагути",
-          "Такао Акита"
-        ],
-        "operators": [
-          "Хироси Кусуда"
         ]
       }
     }

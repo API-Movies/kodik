@@ -1,6 +1,184 @@
 {
   "results": [
     {
+      "id": "serial-16460",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Родина сердца",
+      "title_orig": "My Hero Series: Matupoom Haeng Huajai",
+      "other_title": "My Hero Series Part 1",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 8,
+      "episodes_count": 8,
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-04-24T07:50:01Z",
+      "updated_at": "2019-04-24T07:50:01Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/428872/347abfadc69d845f633762061696353d/720p",
+            "2": "//kodik.cc/seria/428873/5a8c3e303d3adefd9265c65a27e438d0/720p",
+            "3": "//kodik.cc/seria/428874/b2c69b40cbf16d9f83ea139e5692f525/720p",
+            "4": "//kodik.cc/seria/428875/22e5f0d6a0dede23eaebda5cfd34a157/720p",
+            "5": "//kodik.cc/seria/428876/8d2cfa4d4a0311827cc94a744b1c4a4a/720p",
+            "6": "//kodik.cc/seria/428877/e6b31148bd853e0a217dcb4d405b7db0/720p",
+            "7": "//kodik.cc/seria/428878/a8a99e0fd185bddd453ec8a3f47ea52b/720p",
+            "8": "//kodik.cc/seria/428879/851e37da8664e3d069210b9519c5c800/720p"
+          }
+        }
+      }
+    },
+    {
+      "id": "movie-35639",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Это начиналось так...",
+      "title_orig": "Eto nachinalos tak...",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1956,
+      "kinopoisk_id": "42020",
+      "imdb_id": "tt0049191",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-24T06:45:56Z",
+      "updated_at": "2019-04-24T06:45:56Z",
+      "material_data": {
+        "title": "Это начиналось так...",
+        "title_en": "",
+        "year": 1956,
+        "description": "На целину, в казахские степи, прибывает московская группа комсомольцев и сразу же сталкивается с бюрократизмом и безалаберностью. Кто-то бежит из совхоза на более верные заработки, а кто-то просто не хочет работать. Но появляется новый энергичный директор — и начинается настоящая жизнь...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/42020.jpg",
+        "duration": 98,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 6.1,
+        "kinopoisk_votes": 232,
+        "imdb_rating": 6.5,
+        "imdb_votes": 22,
+        "premiere_world": "1956-12-25",
+        "minimal_age": 12,
+        "actors": [
+          "Владимир Емельянов",
+          "Валентин Зубков",
+          "Лилия Алешникова",
+          "Николай Довженко",
+          "Владимир Ратомский",
+          "Ролан Быков",
+          "Николай Парфёнов",
+          "Галина Короткевич",
+          "Владимир Лебедев",
+          "Николай Сморчков"
+        ],
+        "directors": [
+          "Лев Кулиджанов",
+          "Яков Сегель"
+        ],
+        "writers": [
+          "Лев Кулиджанов",
+          "Яков Сегель",
+          "Соломон Гарбузов"
+        ],
+        "composers": [
+          "Александр Локшин"
+        ],
+        "designers": [
+          "И. Крауклис"
+        ],
+        "operators": [
+          "Вячеслав Шумский"
+        ]
+      }
+    },
+    {
+      "id": "movie-35642",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Аттестат зрелости",
+      "title_orig": "Attestat zrelosti",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1954,
+      "kinopoisk_id": "43552",
+      "imdb_id": "tt0046730",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-24T06:42:42Z",
+      "updated_at": "2019-04-24T06:42:42Z",
+      "material_data": {
+        "title": "Аттестат зрелости",
+        "title_en": "",
+        "year": 1954,
+        "description": "Одаренный, но избалованный обожанием учителей и одноклассников юный герой картины спровоцировал в школе конфликтную ситуацию. Но друзья вовремя указали парню на неправильность его поведения, и всеобщий любимчик был наказан силой коллективного возмущения.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/43552.jpg",
+        "duration": 106,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 786,
+        "imdb_rating": 6.1,
+        "imdb_votes": 43,
+        "premiere_world": "1954-06-21",
+        "minimal_age": 0,
+        "actors": [
+          "Василий Лановой",
+          "Вадим Грачев",
+          "Галина Ляпина",
+          "Т. Кирсанова",
+          "Александр Суснин",
+          "Владимир Андреев",
+          "Леонид Галлис",
+          "Владимир Емельянов",
+          "Людмила Скопина",
+          "Татьяна Пельтцер"
+        ],
+        "directors": [
+          "Татьяна Лукашевич"
+        ],
+        "writers": [
+          "Лия Гераскина"
+        ],
+        "composers": [
+          "Лев Шварц"
+        ],
+        "editors": [
+          "Г. Славатинская"
+        ],
+        "designers": [
+          "Александр Жаренов"
+        ],
+        "operators": [
+          "Семен Шейнин"
+        ]
+      }
+    },
+    {
       "id": "movie-35644",
       "type": "foreign-movie",
       "link": "",
@@ -6824,224 +7002,6 @@
           "Тору Фудзимура",
           "Томохиса Исикава",
           "Ёхэй Мацуи"
-        ]
-      }
-    },
-    {
-      "id": "serial-16431",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "От ненависти до любви",
-      "title_orig": "Love at First Hate",
-      "other_title": "Любовь начинается с ненависти / Mar Ray Khu Hmay Rak",
-      "translation": {
-        "id": 864,
-        "title": "Julia Prosenuk",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 6,
-      "episodes_count": 6,
-      "mdl_id": "27356-love-at-first-hate",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-04-21T08:56:30Z",
-      "updated_at": "2019-04-21T08:56:30Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/428048/b5c296813397d4adbea053468f8c6d6c/720p",
-            "2": "//kodik.cc/seria/428049/47a81c0e0afea5085b7524a5bd9c225c/720p",
-            "3": "//kodik.cc/seria/428050/9a344d0233746ccd56de97fefcd218e1/720p",
-            "4": "//kodik.cc/seria/428051/49437420528f9d7de88f1c8b3cca3dac/720p",
-            "5": "//kodik.cc/seria/428052/2bcbc443c1166d520b99ae735aaac74f/720p",
-            "6": "//kodik.cc/seria/428053/f535dc6520176dec8d63467c1d5200df/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-16430",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "От ненависти до любви",
-      "title_orig": "Love at First Hate",
-      "other_title": "Любовь начинается с ненависти / Mar Ray Khu Hmay Rak",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "mdl_id": "27356-love-at-first-hate",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-04-21T08:53:18Z",
-      "updated_at": "2019-04-21T08:53:18Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/428033/5490dc2cda476fd6e249cceaaa55221e/720p",
-            "2": "//kodik.cc/seria/428034/6f6da0d350b432203bf8a1b91f7bab82/720p",
-            "3": "//kodik.cc/seria/428035/70c65995673484b3f7b79530bdaf8a8e/720p",
-            "4": "//kodik.cc/seria/428036/b3359693376a274d63231ab2617e3620/720p",
-            "5": "//kodik.cc/seria/428037/a27e3640a484c8402e488ac7f4abb72e/720p",
-            "6": "//kodik.cc/seria/428038/73a69ea1b3e7aa9c521bc4759916cac1/720p",
-            "7": "//kodik.cc/seria/428039/f2e183b8bd90dd47808ffc5a1eeb5d9f/720p",
-            "8": "//kodik.cc/seria/428040/32a6ac0d15fc9130cffd2746f82dfbb6/720p",
-            "9": "//kodik.cc/seria/428041/b2c8840adcf137774b3776bbb63df2e5/720p",
-            "10": "//kodik.cc/seria/428042/e479464ac783e1067b8b668a126005bb/720p",
-            "11": "//kodik.cc/seria/428043/1dd5bc61eb096437511e4cc1df26c8ea/720p",
-            "12": "//kodik.cc/seria/428044/82f3658f8b64febe2a7bd151fe0401a3/720p",
-            "13": "//kodik.cc/seria/428045/33556901000447b6994c6b3f3143953e/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-15675",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Золотые глаза",
-      "title_orig": "Huang jin tong",
-      "other_title": "The Golden Eyes",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 56,
-      "episodes_count": 56,
-      "kinopoisk_id": "1245267",
-      "imdb_id": "tt9859616",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-03-02T10:00:08Z",
-      "updated_at": "2019-04-21T08:44:40Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/411152/f9dcc90999a6683437b80f0c7272c3cc/720p",
-            "2": "//kodik.cc/seria/411368/a1cea5365221a0e4e4e700bbec9a3aa2/720p",
-            "3": "//kodik.cc/seria/411369/edaeb52ed9f7d8306f31bceecb21da2a/720p",
-            "4": "//kodik.cc/seria/412591/e6c81acbc5ae67f5cd5e6f4f6e83c197/720p",
-            "5": "//kodik.cc/seria/413168/97951e106a54c1763dd0bc1371d788bd/720p",
-            "6": "//kodik.cc/seria/413490/d836d476f5a2c51c1ad89ec91e9bc575/720p",
-            "7": "//kodik.cc/seria/413823/a8b56eb230e9716b81389a7df678595f/720p",
-            "8": "//kodik.cc/seria/414269/aacff14214b50225e747416195d43b64/720p",
-            "9": "//kodik.cc/seria/414587/03b0c8a5f8580c49215bc669a91301ab/720p",
-            "10": "//kodik.cc/seria/414943/cb634bb735746c420e86fc652af6fcc8/720p",
-            "11": "//kodik.cc/seria/414944/1c1a6eee4b0b6f0753e097c7acd7c5ac/720p",
-            "12": "//kodik.cc/seria/415318/60342b39f89668d21d95c8003b65056c/720p",
-            "13": "//kodik.cc/seria/415319/84b10ee8775720ec3a247cfc3ca83bf9/720p",
-            "14": "//kodik.cc/seria/415892/fe91d156ab1c0d8b0b5517f6da03bf3f/720p",
-            "15": "//kodik.cc/seria/415893/a5bd913c4dc455e35465c0a0f245a093/720p",
-            "16": "//kodik.cc/seria/416150/9462b589d8b3a4957a178553c4f06e55/720p",
-            "17": "//kodik.cc/seria/416600/7fcc1409a22b42748c87d5ffc0ed68aa/720p",
-            "18": "//kodik.cc/seria/416709/bf83f8c47480bb7dcf68c787a5ed64bd/720p",
-            "19": "//kodik.cc/seria/417420/c7b6b723a6d25430a4cc9aaea9fbd1f9/720p",
-            "20": "//kodik.cc/seria/417421/3bc7fa7c68beca069a4bdb140a0c9814/720p",
-            "21": "//kodik.cc/seria/418224/920635cf2f07140a8185fe82a58be3ae/720p",
-            "22": "//kodik.cc/seria/418225/6d9fb73b04d7608338dee423efcc7e9d/720p",
-            "23": "//kodik.cc/seria/418616/eb33989ed13e8de7c4dfd8668df94c1f/720p",
-            "24": "//kodik.cc/seria/419485/98bef9799e22832b6078de3ae06583aa/720p",
-            "25": "//kodik.cc/seria/419487/c6b83bbd5b0e43a860a96536e5d48f05/720p",
-            "26": "//kodik.cc/seria/419488/f931cdc8e4777e9e0d5e961d2939605f/720p",
-            "27": "//kodik.cc/seria/419950/e5fc68bcb74d58c69d0c145b826519d8/720p",
-            "28": "//kodik.cc/seria/421766/7448adf13597ce7f5528004c53cf4025/720p",
-            "29": "//kodik.cc/seria/421767/278f936d065c235d62ddbb4f87edbd8a/720p",
-            "30": "//kodik.cc/seria/421768/994aa00e5c6e216b7b974602ccb1d8fd/720p",
-            "31": "//kodik.cc/seria/421769/dd0804674c4ab9fb75a87e4d22158973/720p",
-            "32": "//kodik.cc/seria/421770/6f75720c595fc1a8983f67e48e12a494/720p",
-            "33": "//kodik.cc/seria/421889/7d35ace26b88f9ace8aac20c6bd81bc9/720p",
-            "34": "//kodik.cc/seria/422710/a73ff4d36ec6e4090632ce01955f8c53/720p",
-            "35": "//kodik.cc/seria/423930/8235e2035f317af1204b9523b09b694a/720p",
-            "36": "//kodik.cc/seria/423931/d8ab2decc976ddafe570731ba5db5258/720p",
-            "37": "//kodik.cc/seria/423932/1dd6705db52dca66a36f6e2a37e91ff0/720p",
-            "38": "//kodik.cc/seria/424475/905c0046fbc255f0af9525d7f02fba8a/720p",
-            "39": "//kodik.cc/seria/424565/ef8656a4f95b55396ae03e6ec4621be5/720p",
-            "40": "//kodik.cc/seria/424853/a8922a2d3411a2e78a7b9a4684caa719/720p",
-            "41": "//kodik.cc/seria/425270/49c38a0f6e7b134efe61d2709cec5773/720p",
-            "42": "//kodik.cc/seria/425462/b21c7cdf5e69fe73ee1909d8e5ce02ac/720p",
-            "43": "//kodik.cc/seria/425655/49dad547ea6434d26c783bdac10e8890/720p",
-            "44": "//kodik.cc/seria/426351/23079e651dd990dd40d433133bbee213/720p",
-            "45": "//kodik.cc/seria/426479/f98c2d38b9c46555da06420dd67c166d/720p",
-            "46": "//kodik.cc/seria/426480/80b3090d08a22f1f197373f76944045c/720p",
-            "47": "//kodik.cc/seria/426482/062ebed256408bccd60a6de1899a46ee/720p",
-            "48": "//kodik.cc/seria/426590/5c206916a581717da3d0170b16284ff0/720p",
-            "49": "//kodik.cc/seria/426694/8c3d8a7bf79b720f565ed237eaa3b15c/720p",
-            "50": "//kodik.cc/seria/426908/4d7cf9d088aa2567d9cd2ef26d13d679/720p",
-            "51": "//kodik.cc/seria/427170/d1c95c4af1a16de1c59114f1e752e1dc/720p",
-            "52": "//kodik.cc/seria/427809/78198597acd970b5f5f49da98302617d/720p",
-            "53": "//kodik.cc/seria/427810/b5cc88bd595f3149f4daea158fe82a7f/720p",
-            "54": "//kodik.cc/seria/427811/0629bfb04e331de9116536e62300f266/720p",
-            "55": "//kodik.cc/seria/428013/1787b17da3b7fc67929a2161fc4d4302/720p",
-            "56": "//kodik.cc/seria/428014/f7d7a5f5b31f87173986ce208bc493e9/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Золотые глаза",
-        "title_en": "Huang jin tong",
-        "year": 2019,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1245267.jpg",
-        "duration": 45,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "боевик",
-          "приключения"
-        ],
-        "imdb_rating": 6,
-        "imdb_votes": 29,
-        "premiere_world": "2019-02-26",
-        "actors": [
-          "Чжан Исин",
-          "Ван Цзысюань",
-          "Ван Юэсинь",
-          "Ли Личунь",
-          "Чэнь Цзявэнь",
-          "Сюэ Хаовэнь",
-          "До Болинь",
-          "Yi Gang",
-          "Чжун Вэйлунь",
-          "Хэ Юйцзюнь"
-        ],
-        "directors": [
-          "Lili Jiao",
-          "Nan Li",
-          "Ziqi Liu"
-        ],
-        "producers": [
-          "Бай Ицун",
-          "Чэнь Инцзе",
-          "Эдвард Чэн",
-          "Гун Юй",
-          "Yue Guo",
-          "Bing Han",
-          "Ли Лиин",
-          "Qianru Li",
-          "Yan Yang"
-        ],
-        "writers": [
-          "Даянь",
-          "Чжан Юаньан"
         ]
       }
     }

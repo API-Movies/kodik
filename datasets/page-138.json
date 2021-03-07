@@ -1,6 +1,287 @@
 {
   "results": [
     {
+      "id": "movie-51547",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Внутренняя грамматика",
+      "title_orig": "Hadikduk HaPnimi",
+      "translation": {
+        "id": 600,
+        "title": "Чадов",
+        "type": "voice"
+      },
+      "year": 2010,
+      "kinopoisk_id": "544129",
+      "imdb_id": "tt1676680",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-12T21:05:39Z",
+      "updated_at": "2020-03-12T21:05:39Z",
+      "material_data": {
+        "title": "Внутренняя грамматика",
+        "title_en": "Hadikduk HaPnimi",
+        "year": 2010,
+        "description": "Иерусалим в начале 60-х годов. Серые блочные дома, бедный район города. В центре сюжета период взросления 11-летнего Аарона Кляйнфельда — чувствительного ребенка из семьи, пережившей фашистский концлагерь. Аарон уже 3 года не растет, но его внутренний мир слишком развит для ребенка его возраста. Возможно какая-то железа заснула внутри Авраама, а может быть его тело отказывается взрослеть, чтобы не становиться частью мира взрослых — без любви и смысла, каким Аарон видит его на примере своих родителей. Душа его стремится к искусству, он жаждет прекрасного, но в семье Кляйнфельд принято считать, что «там интеллигенты умирали первыми». Очень скоро железа роста проснется и Аарон станет таким, как все его ровесники, этот мир никуда не убежит от него. Но, оказывается, люди не готовы ждать...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/544129.jpg",
+        "duration": 110,
+        "countries": [
+          "Израиль"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 7.1,
+        "kinopoisk_votes": 106,
+        "imdb_rating": 7,
+        "imdb_votes": 207,
+        "premiere_world": "2010-10-25",
+        "actors": [
+          "Йехуда Альмагор",
+          "Arie Eldar",
+          "Рой Альсберг",
+          "Лимор Голдштейн",
+          "Ривка Гар",
+          "Эвелин Каплун",
+          "Адам Кеннет",
+          "Руслан Левчук",
+          "Eden Luttenberg",
+          "Йехуда Мор"
+        ],
+        "directors": [
+          "Нир Бергман"
+        ],
+        "producers": [
+          "Ассаф Амир",
+          "Мария Фельдман"
+        ],
+        "writers": [
+          "Нир Бергман",
+          "Дэвид Гроссман"
+        ],
+        "editors": [
+          "Эйнат Глэйзер-Зархин"
+        ],
+        "designers": [
+          "Идо Долев",
+          "Натан Эльканович"
+        ],
+        "operators": [
+          "Benjamin Chiram"
+        ]
+      }
+    },
+    {
+      "id": "serial-15488",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "У Синь, изгоняющий демонов",
+      "title_orig": "Wu xin fa shi",
+      "other_title": "Бессердечный наставник / ВуСинь: Истребитель демонов / У Синь - сведущий в заклинаниях и талисманах / Wuxin fashi / Wu Xin: The Monster Killer",
+      "translation": {
+        "id": 940,
+        "title": "Phoenixes",
+        "type": "voice"
+      },
+      "year": 2015,
+      "last_season": 2,
+      "last_episode": 27,
+      "episodes_count": 27,
+      "kinopoisk_id": "1356092",
+      "imdb_id": "tt4869380",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-02-24T11:14:12Z",
+      "updated_at": "2020-03-12T19:54:31Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/407178/0364b47c83b655bc1af6eeabd7281f63/720p",
+            "2": "//kodik.cc/seria/407179/c6d46ede994badb9e30b3c11fe0fcde0/720p",
+            "3": "//kodik.cc/seria/411522/0fe63d5f00f7ee6eccf9e254a9a16f0f/720p",
+            "4": "//kodik.cc/seria/421759/e836617436fad274b76b0a143cc5bd0e/720p",
+            "5": "//kodik.cc/seria/425459/c2e684eafc6ae8d3808717d25bb0984a/720p",
+            "6": "//kodik.cc/seria/428292/a3dbdc8c2c87f1976552e02a57b15386/720p",
+            "7": "//kodik.cc/seria/434783/b60bf9470917aceacdb5d12d67471dcd/720p",
+            "8": "//kodik.cc/seria/444041/fa845057ba285d0e7192efe7cad7738e/720p",
+            "9": "//kodik.cc/seria/449469/49739f0000bafba7e5167d07a8811823/720p",
+            "10": "//kodik.cc/seria/455002/035ed0d863329cd8e6fc10a0d1f77a48/720p",
+            "11": "//kodik.cc/seria/467475/4d50fb6108615a522c928d18e4b9cc3b/720p",
+            "12": "//kodik.cc/seria/479613/d666a30730b870630b2b836751cb3bfa/720p",
+            "13": "//kodik.cc/seria/487684/d8ad8119d7515c46d83604db6a9581e3/720p",
+            "14": "//kodik.cc/seria/496899/18f620a119e64c583a0476d68fbc6dda/720p",
+            "15": "//kodik.cc/seria/521402/2b6fda2b2387da2e7f4cb1ac294fe81e/720p",
+            "16": "//kodik.cc/seria/531758/71085716b389b5b095613799329b792d/720p",
+            "17": "//kodik.cc/seria/540355/449597f6ae5cbccb938bc685533627ec/720p",
+            "18": "//kodik.cc/seria/558086/c019a7948aa35b3cd26521b0ea1f4a21/720p",
+            "19": "//kodik.cc/seria/558100/37e2669814e92912125a0c2681b33840/720p",
+            "20": "//kodik.cc/seria/575805/c01a864f4a44e982bf72e87a62d0e7d2/720p",
+            "21": "//kodik.cc/seria/597127/b5189e7946a77d32471dd4a0d760086e/720p",
+            "22": "//kodik.cc/seria/600544/06b57599e473bac40f4e457d67dc79e3/720p",
+            "23": "//kodik.cc/seria/604423/98ccd5f0ccde785cb83437f801484210/720p",
+            "24": "//kodik.cc/seria/604424/07cb8418828fcee72bf79b1e187f1838/720p",
+            "25": "//kodik.cc/seria/607284/77b6d19abbc16cd6dc527c10fd1be975/720p",
+            "26": "//kodik.cc/seria/607285/7b68ffa6cf8f2af0d060cfce72e6388a/720p",
+            "27": "//kodik.cc/seria/607286/6987db1edef84c4421d63974c1ddfd36/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "У Синь, изгоняющий демонов",
+        "title_en": "Wu xin fa shi",
+        "year": 2015,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1356092.jpg",
+        "duration": 47,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "детектив",
+          "комедия",
+          "фэнтези"
+        ],
+        "imdb_rating": 7.6,
+        "imdb_votes": 53,
+        "premiere_world": "2015-07-06",
+        "actors": [
+          "Элвис Хань",
+          "Джина Цзинь",
+          "Чэнь Яо",
+          "Мэгги Цинь",
+          "Суй Юнлян",
+          "Кун Ляньшунь",
+          "Чжан Жоюнь"
+        ],
+        "directors": [
+          "Лам Юк-Фань"
+        ],
+        "writers": [
+          "У Вэйна"
+        ],
+        "composers": [
+          "Вон Ин-Ва"
+        ]
+      }
+    },
+    {
+      "id": "movie-51542",
+      "type": "anime",
+      "link": "",
+      "title": "Принц севера",
+      "title_orig": "Taiyô no ôji: Horusu no daibôken",
+      "other_title": "Taiyou no Ouji: Horus no Daibouken / The Great Adventure of Horus, Prince of the Sun",
+      "translation": {
+        "id": 757,
+        "title": "MC Entertainment",
+        "type": "voice"
+      },
+      "year": 1968,
+      "kinopoisk_id": "79873",
+      "imdb_id": "tt0063668",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=140",
+      "shikimori_id": "1044",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-12T19:51:25Z",
+      "updated_at": "2020-03-12T19:51:25Z",
+      "material_data": {
+        "title": "Принц севера",
+        "title_en": "Taiyô no ôji: Horusu no daibôken",
+        "other_titles": [
+          "Horus: Prince of the Sun",
+          "Hols: Prince of the Sun",
+          "Little Norse Prince Valiant"
+        ],
+        "other_titles_en": [
+          "The Little Norse Prince"
+        ],
+        "other_titles_jp": [
+          "太陽の王子 ホルスの大冒険"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 1968,
+        "description": "Холодные ветра подули в сторону далёких северных деревень. Невиданные напасти опустошают людские селенья одно за другим - призрачные волки, ледяные мамонты и коварные оборотни несут смерть всему живому. И даже закалённые в боях воины не могут противостоять могущественному колдовству демона Грюнвальда, возжелавшего подчинить себе этот суровый край. В это смутное время в одном из селений появляется отважный мальчик Хольс с загадочным мечом, чьё имя - Солнечный. Ещё никто не знает, что его ждут великие битвы, и вскоре люди назовут его Принцем Севера.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/79873.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/b69573464e3f46989dc722555a5dbb77ea7f3fb1.jpg",
+          "https://shikimori.one/system/screenshots/original/af5636d29552fc61743f0865c3574cba406704fb.jpg"
+        ],
+        "duration": 82,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Магия",
+          "Приключения"
+        ],
+        "anime_studios": [
+          "Toei Animation"
+        ],
+        "kinopoisk_rating": 6.4,
+        "kinopoisk_votes": 578,
+        "imdb_rating": 6.6,
+        "imdb_votes": 2050,
+        "shikimori_rating": 6.52,
+        "shikimori_votes": 335,
+        "premiere_world": "1968-07-21",
+        "aired_at": "1968-07-21",
+        "rating_mpaa": "G",
+        "minimal_age": 0,
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Микидзиро Хира",
+          "Эцуко Итихара",
+          "Эидзиро Тоно",
+          "Масао Мисима",
+          "Ясуси Нагата",
+          "Хисако Оката",
+          "Хироси Камияма",
+          "Хисаси Ёкомори",
+          "Токуко Сугияма",
+          "Тадаси Ёкоути"
+        ],
+        "directors": [
+          "Исао Такахата"
+        ],
+        "producers": [
+          "Сатору Аинода",
+          "Тору Хара",
+          "Хироси Окава",
+          "Ю Саито",
+          "Масадзиро Сэки"
+        ],
+        "writers": [
+          "Кадзуо Фукадзава"
+        ],
+        "composers": [
+          "Митио Мамия"
+        ],
+        "editors": [
+          "Ютака Тикура"
+        ],
+        "designers": [
+          "Матадзи Урата"
+        ],
+        "operators": [
+          "Юкио Катаяма",
+          "Дзиро Ёсимура"
+        ]
+      }
+    },
+    {
       "id": "movie-35007",
       "type": "anime",
       "link": "",
@@ -2109,7 +2390,7 @@
         "imdb_rating": 7.6,
         "imdb_votes": 555,
         "shikimori_rating": 7.7,
-        "shikimori_votes": 7832,
+        "shikimori_votes": 7986,
         "premiere_world": "2019-10-05",
         "aired_at": "2019-10-05",
         "released_at": "2020-03-07",
@@ -7859,229 +8140,6 @@
         ],
         "operators": [
           "Махеш Аней"
-        ]
-      }
-    },
-    {
-      "id": "movie-51347",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "С любимой под венец",
-      "title_orig": "Dulhan Hum Le Jayenge",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2000,
-      "kinopoisk_id": "41690",
-      "imdb_id": "tt0247992",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-11T06:41:32Z",
-      "updated_at": "2020-03-11T06:41:32Z",
-      "material_data": {
-        "title": "С любимой под венец",
-        "title_en": "Dulhan Hum Le Jayenge",
-        "year": 2000,
-        "description": "Три холостых дядюшки: духовный наставник, спортивный тренер и светский лев, каждый на свой лад, занимаются воспитанием осиротевшей   племянницы Сапны.\n\rОднажды совершеннолетней девушке удалось вырваться из-под их назойливой опеки и уехать по туристической путевке в Швейцарию, где она знакомится с приятным молодым человеком Раджой. Молодые люди полюбили друг друга. Теперь дело за малым: как получить согласие у трех ретивых опекунов...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/41690.jpg",
-        "duration": 140,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "комедия",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.8,
-        "kinopoisk_votes": 260,
-        "imdb_rating": 5,
-        "imdb_votes": 2897,
-        "premiere_world": "2000-01-15",
-        "minimal_age": 0,
-        "actors": [
-          "Салман Кхан",
-          "Каришма Капур",
-          "Ом Пури",
-          "Пареш Раваль",
-          "Анупам Кхер",
-          "Кашмира Шах",
-          "Фарида Джалал",
-          "Химани Шивпури",
-          "Уша Бачани",
-          "Ракеш Беди"
-        ],
-        "directors": [
-          "Дэвид Дхаван"
-        ],
-        "producers": [
-          "Гордхан Танвани",
-          "Эджей Ачария"
-        ],
-        "writers": [
-          "Руми Джаффери"
-        ],
-        "composers": [
-          "Химеш Решаммия",
-          "Сурендра Сингх Содхи"
-        ],
-        "editors": [
-          "Дэвид Дхаван"
-        ],
-        "designers": [
-          "Р. Верман Шетти"
-        ],
-        "operators": [
-          "Хармит Сингх"
-        ]
-      }
-    },
-    {
-      "id": "movie-51348",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Львиное сердце 3",
-      "title_orig": "Singam 3",
-      "translation": {
-        "id": 976,
-        "title": "Индийское кино",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "957646",
-      "imdb_id": "tt5323640",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-11T06:40:33Z",
-      "updated_at": "2020-03-11T06:40:33Z",
-      "material_data": {
-        "title": "Львиное сердце 3",
-        "title_en": "Singam 3",
-        "year": 2017,
-        "tagline": "The Universal Cop",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/957646.jpg",
-        "duration": 155,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "триллер"
-        ],
-        "imdb_rating": 6.2,
-        "imdb_votes": 5494,
-        "premiere_world": "2017-02-09",
-        "actors": [
-          "Сурья Шивакумар",
-          "Анушка Шетти",
-          "Шрути Хасан",
-          "Тхакур Ануп Сингх",
-          "Imman Annachi",
-          "Саратх Бабу",
-          "Чаамс",
-          "Ниту Чандра",
-          "Джанаки Ганеш",
-          "Оламилекан Аканби Джейсон"
-        ],
-        "directors": [
-          "Хари"
-        ],
-        "producers": [
-          "К.Е. Гнанавел",
-          "Sanjay Singh",
-          "Jithin Thorai"
-        ],
-        "writers": [
-          "Хари"
-        ],
-        "composers": [
-          "Харрис Джайярадж"
-        ],
-        "editors": [
-          "В.Т. Виджаян"
-        ],
-        "operators": [
-          "Приян"
-        ]
-      }
-    },
-    {
-      "id": "movie-5086",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Львиное сердце 2",
-      "title_orig": "Singam 2",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "694601",
-      "imdb_id": "tt2309600",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-03-11T09:34:04Z",
-      "updated_at": "2020-03-11T06:39:13Z",
-      "material_data": {
-        "title": "Львиное сердце 2",
-        "title_en": "Singam 2",
-        "year": 2013,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/694601.jpg",
-        "duration": 166,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "триллер"
-        ],
-        "imdb_rating": 6.3,
-        "imdb_votes": 5649,
-        "premiere_world": "2013-07-04",
-        "actors": [
-          "Сурья Шивакумар",
-          "Анушка Шетти",
-          "Хансика Мотвани",
-          "Вивек",
-          "Сантханам",
-          "Рада Рави",
-          "Нассер",
-          "Виджаякумар",
-          "Рахман",
-          "Мукеш Риши"
-        ],
-        "directors": [
-          "Хари"
-        ],
-        "producers": [
-          "S. Lakshman Kumar",
-          "Кайл Амброуз",
-          "Делон Бэккер"
-        ],
-        "writers": [
-          "Хари",
-          "Shivgopal Krishna"
-        ],
-        "composers": [
-          "Деви Шри Прасад"
-        ],
-        "editors": [
-          "В.Т. Виджаян"
-        ],
-        "designers": [
-          "Kadhir",
-          "Четхан",
-          "Никхаар Дхаван",
-          "Ума"
-        ],
-        "operators": [
-          "Приян"
         ]
       }
     }

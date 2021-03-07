@@ -1,6 +1,335 @@
 {
   "results": [
     {
+      "id": "movie-34900",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Плохой коп",
+      "title_orig": "Buliang Nujing",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2016,
+      "imdb_id": "tt5474302",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-14T11:38:37Z",
+      "updated_at": "2019-04-14T11:38:37Z"
+    },
+    {
+      "id": "serial-16441",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Судьба по гороскопу",
+      "title_orig": "Kundali Bhagya",
+      "translation": {
+        "id": 770,
+        "title": "ZEE TV",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 105,
+      "episodes_count": 105,
+      "kinopoisk_id": "1249335",
+      "imdb_id": "tt7147670",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-04-14T11:37:04Z",
+      "updated_at": "2019-04-14T11:37:04Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/428331/86163dd97af6b7d3e6256da0c31291ed/720p",
+            "2": "//kodik.cc/seria/428332/18adf5811f92389c9c4de557b7e400e8/720p",
+            "3": "//kodik.cc/seria/428333/e2eab6d6bc1002eb390c5763be6daadd/720p",
+            "4": "//kodik.cc/seria/428334/397f69cd63aecb483fff2c1ed39a0f60/720p",
+            "5": "//kodik.cc/seria/428335/4346dd9a655944c8a6bb525e5df9a1e8/720p",
+            "6": "//kodik.cc/seria/428336/7061b310f2e40678329a88c9608facdc/720p",
+            "7": "//kodik.cc/seria/428337/b03f64c4928c3bfba6beff2f30aba55f/720p",
+            "8": "//kodik.cc/seria/428338/c98b4c18d9812208857dd4e8eb2b6487/720p",
+            "9": "//kodik.cc/seria/428339/86d5ab0efe91d1655e4d3c82432ae42d/720p",
+            "10": "//kodik.cc/seria/428340/8066aa18ff320c7e14596272fc0c796c/720p",
+            "11": "//kodik.cc/seria/428341/e74d4c2af4e26752075316875b1a93e3/720p",
+            "12": "//kodik.cc/seria/428342/0c017cd3af9f974f58259c2355916e4f/720p",
+            "13": "//kodik.cc/seria/428343/9c3ca71bfe3307ec516a45ef85ba7d0d/720p",
+            "14": "//kodik.cc/seria/428344/1617e7e148bb7286fdaf4f2feec6c4c3/720p",
+            "15": "//kodik.cc/seria/428345/6526430f0838ccefabd31f0feec94121/720p",
+            "16": "//kodik.cc/seria/428346/6ef5568ba5d07c0d4fadd11a1bbbf7a9/720p",
+            "17": "//kodik.cc/seria/428347/193aac673ad72747e5ea830219321919/720p",
+            "18": "//kodik.cc/seria/428348/8ec921c12aab4454492fefdaa75826b6/720p",
+            "19": "//kodik.cc/seria/428349/731b78659e1b98038b68d66cdc694827/720p",
+            "20": "//kodik.cc/seria/428350/7104dae3b31678214628e5587e8801aa/720p",
+            "21": "//kodik.cc/seria/428351/3063347370e1fb9422573b8a9a04371d/720p",
+            "22": "//kodik.cc/seria/428352/bafb4ba53a8ec5d7a9937cc97a773697/720p",
+            "23": "//kodik.cc/seria/428353/329fc6596b527de893b826813956653a/720p",
+            "24": "//kodik.cc/seria/428354/a449a89a6e438946bf300e01d5bb54f8/720p",
+            "25": "//kodik.cc/seria/428355/9bddd152f41a471900c095a68447ea3a/720p",
+            "26": "//kodik.cc/seria/428356/17ff6f126fa4b6f21e412f05c91dfb77/720p",
+            "27": "//kodik.cc/seria/428357/92d8392225271b788ced329dfd2190cd/720p",
+            "28": "//kodik.cc/seria/428358/d17a4320176210c73c8bae45882bbc54/720p",
+            "29": "//kodik.cc/seria/428359/b298ccdf21d81b247c529cf1e471e1ce/720p",
+            "30": "//kodik.cc/seria/428360/cab584d8463461760a43ffce05c2d4f7/720p",
+            "31": "//kodik.cc/seria/428361/e4d6b7b4c166ee4813ccac47c3df6559/720p",
+            "32": "//kodik.cc/seria/428362/806169464106418ca3a2ecf9378422a1/720p",
+            "33": "//kodik.cc/seria/428363/dfb23a2021657603abbf1e19c9b706a1/720p",
+            "34": "//kodik.cc/seria/428364/0cec9f245b2abc1ee3a35768b63e2c11/720p",
+            "35": "//kodik.cc/seria/428365/e300545481ec04ac135a7c8c12868b06/720p",
+            "36": "//kodik.cc/seria/428366/db0cfcbeb76c30638465bd71ef25c508/720p",
+            "37": "//kodik.cc/seria/428367/8dfc5e5944dd051f96419c750d9c65f5/720p",
+            "38": "//kodik.cc/seria/428368/a43cd74f7b3d1dcb29d91272ca4fe399/720p",
+            "39": "//kodik.cc/seria/428369/b4fa2c03a3d159bc6b3bfb03a38b7d7b/720p",
+            "40": "//kodik.cc/seria/428370/0c52a2cd9acaae363ac0ffb6a0f61019/720p",
+            "41": "//kodik.cc/seria/428371/d3a647004918e3877fff357a736cec10/720p",
+            "42": "//kodik.cc/seria/428372/d3f7af74f31dc412be09ae8ae0260556/720p",
+            "43": "//kodik.cc/seria/428373/71c6debd667716871e310f798fcc7416/720p",
+            "44": "//kodik.cc/seria/428374/94b0169a4e0f90de44dca2746f3c1653/720p",
+            "45": "//kodik.cc/seria/428375/fe939bba71fbe6c11d71bb017632cacd/720p",
+            "46": "//kodik.cc/seria/428376/4d7bcc82b99ec1d0d72e8bc236ffdb17/720p",
+            "47": "//kodik.cc/seria/428377/0c3836fcac72f07ae3dd5d1f1c8f9646/720p",
+            "48": "//kodik.cc/seria/428378/327b69f0e0c41e472c38f2ad59bc44ca/720p",
+            "49": "//kodik.cc/seria/428379/47691edf004bc7a7eb65aa7370523da1/720p",
+            "50": "//kodik.cc/seria/428380/c8093cc437c305d6894b08dea393e01f/720p",
+            "51": "//kodik.cc/seria/428381/6b8f24a45f13c8737d93f9010b384aa3/720p",
+            "52": "//kodik.cc/seria/428382/092ef08ad4f0e01e093ff48f66a5d0d9/720p",
+            "53": "//kodik.cc/seria/428383/8e96c7d8fbd2b325b6cb0499b8f8fb41/720p",
+            "54": "//kodik.cc/seria/428384/9d9e6056214b5ca1897ee9e18759c7da/720p",
+            "55": "//kodik.cc/seria/428385/feb7af536611024e30470dd93c9c645c/720p",
+            "56": "//kodik.cc/seria/428386/a903ebad60e8c5d4555dd0660abeeb83/720p",
+            "57": "//kodik.cc/seria/428387/567768e6baed05e86be042b23533c775/720p",
+            "58": "//kodik.cc/seria/428388/08193aa2c7988b86fa2cfae2f859b0f6/720p",
+            "59": "//kodik.cc/seria/428389/6adf329625b3fda762461cd6b10c00fa/720p",
+            "60": "//kodik.cc/seria/428390/4545df1f7a21e81ee2f0b3a5ed3f5c81/720p",
+            "61": "//kodik.cc/seria/428391/140368c0cbf09853b984cc055874bc9f/720p",
+            "62": "//kodik.cc/seria/428392/9af35507577dfe2ed11391cdc9120ad1/720p",
+            "63": "//kodik.cc/seria/428393/00bf9388f8172c6647ab581b5285498e/720p",
+            "64": "//kodik.cc/seria/428394/7d00bb43ba5acea47b289a790710e7c7/720p",
+            "65": "//kodik.cc/seria/428395/319bf148207e9bda536391608d4e7951/720p",
+            "66": "//kodik.cc/seria/428396/bbd7efaae812ab43bee93057fd2beb67/720p",
+            "67": "//kodik.cc/seria/428397/0bb818399af8aa1dd43c99b01cca7234/720p",
+            "68": "//kodik.cc/seria/428398/4cca57c0fe3949cb05249ddb1af1925c/720p",
+            "69": "//kodik.cc/seria/428399/60be5c5fc546123f43326e83631b79a7/720p",
+            "70": "//kodik.cc/seria/428400/dccad029ea0ac14e717aed3f5c699851/720p",
+            "71": "//kodik.cc/seria/428401/49ddea9ad1248ef58cfe2bfe21bf9512/720p",
+            "72": "//kodik.cc/seria/428402/11e97b3098e5447cb2619cd137523706/720p",
+            "73": "//kodik.cc/seria/428403/4a6254d4324a6628e4ba88a7cce92e0b/720p",
+            "74": "//kodik.cc/seria/428404/b37f6f37e0f0f8d5e6cc023b87b5e66a/720p",
+            "75": "//kodik.cc/seria/428405/90c6cd691bf6b441c5f5bfc736e43c92/720p",
+            "76": "//kodik.cc/seria/428406/73882c1deff24f5a3d742c81d6d9de26/720p",
+            "77": "//kodik.cc/seria/428407/70ea2a5cf10b821985930f254b60cb06/720p",
+            "78": "//kodik.cc/seria/428408/ede7eb4f62742e082758d56ff6edf00c/720p",
+            "79": "//kodik.cc/seria/428409/5cc96567fbbab78b2253826bfb2150bd/720p",
+            "80": "//kodik.cc/seria/428410/34cd949c12ec6eb7d462517ffd7fb66a/720p",
+            "81": "//kodik.cc/seria/428411/d17eaf9dfd3c1137182d67c1b0223af5/720p",
+            "82": "//kodik.cc/seria/428412/2e3ed778bab330254379463c90aa6e76/720p",
+            "83": "//kodik.cc/seria/428413/2c465b3e1f240f565435cb32409cfb2d/720p",
+            "84": "//kodik.cc/seria/428414/7a90bd035b69a96d77515eb4cdb59eab/720p",
+            "85": "//kodik.cc/seria/428415/6ef911b894bf7c3d63681ad86ce4022d/720p",
+            "86": "//kodik.cc/seria/428416/6d9ba812cd1e8c0c256b778509e942ba/720p",
+            "87": "//kodik.cc/seria/428417/61ac6bf1f94f1328901a55ed527ae212/720p",
+            "88": "//kodik.cc/seria/428418/952221c36eff2701753432219e32d279/720p",
+            "89": "//kodik.cc/seria/428419/adc1feb26a40d98b22d74cfbdd33d880/720p",
+            "90": "//kodik.cc/seria/428420/415885b7d78801cc01c6f1f90234e6fd/720p",
+            "91": "//kodik.cc/seria/428421/2092c70d66c514af7ffd3a7e833f832e/720p",
+            "92": "//kodik.cc/seria/428422/702d26a5fcd407f6110c6fb1abc6603a/720p",
+            "93": "//kodik.cc/seria/428423/52ce85b67560913976d8c333ac0acfea/720p",
+            "94": "//kodik.cc/seria/428424/9f7641cb0496a6f61e6ecbfbe01f4b7e/720p",
+            "95": "//kodik.cc/seria/428425/55f9cf165e332588f56a02dca17730f1/720p",
+            "96": "//kodik.cc/seria/428426/aeff49a823babad3509f1732672f285e/720p",
+            "97": "//kodik.cc/seria/428427/c311e39b408af17a1b9d9c015db6d2ae/720p",
+            "98": "//kodik.cc/seria/428428/24aed52680b52ca110ad7bcbd5a5e8b2/720p",
+            "99": "//kodik.cc/seria/428429/2c196dbfe3fe93a620551be3da2fda6f/720p",
+            "100": "//kodik.cc/seria/428430/ed641fc684ef4b83680cf0f8e1fed587/720p",
+            "101": "//kodik.cc/seria/428431/7a60103e8e90979908df4d27a0cd58ba/720p",
+            "102": "//kodik.cc/seria/428432/2c2efa8f1c3184eabd6a6ffc488f8dce/720p",
+            "103": "//kodik.cc/seria/428433/7a8c383086e7267d34842ca7222e9df0/720p",
+            "104": "//kodik.cc/seria/428434/3223948e43940adf023b5052a52b726b/720p",
+            "105": "//kodik.cc/seria/428435/1c91cdf287645f6fa25f45115de94c69/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Судьба по гороскопу",
+        "title_en": "Kundali Bhagya",
+        "year": 2017,
+        "tagline": "Dil Samajhne Paye Toh Phir Rab Hi Milaye",
+        "description": "Четыре родные сестры вместе росли в детстве, но когда между родителями произошла серьезная размолвка, что привела к их разводу, сестер разлучили – две из них остались с матерью, а две с отцом. С тех пор они больше не виделись, так как отец забрал их и уехал из Мумбая. Проходят годы. Когда отец умирает, он берет у сестер обещание, что они сделают все от них зависящее, чтобы вновь воссоединить семью. После его смерти девушки отправляются в далекий Мумбаи, чтобы отыскать своих сестер, как обещали папе. Но будет ли это так просто, как они думают – ведь прошло уже столько лет?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1249335.jpg",
+        "duration": 20,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 2.5,
+        "imdb_votes": 507,
+        "premiere_world": "2017-07-12",
+        "minimal_age": 16,
+        "actors": [
+          "Шраддха Арья",
+          "Дхирадж Дхупар",
+          "Манит Жура",
+          "Анджум Факих",
+          "Рухи Чатурведи",
+          "Сахель Пхулл",
+          "Санджай Гагнани",
+          "Абхискек Капур",
+          "Шаббир Ахлувалиа",
+          "Срити Джа"
+        ],
+        "directors": [
+          "Самир Кулкарни"
+        ],
+        "producers": [
+          "Экта Капур",
+          "Шобха Капур"
+        ],
+        "composers": [
+          "Наваб Арзу"
+        ]
+      }
+    },
+    {
+      "id": "serial-16358",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Хранитель",
+      "title_orig": "Zhen hun",
+      "other_title": "Усмиритель душ / Стражи / Guardian",
+      "translation": {
+        "id": 635,
+        "title": "RusFilm",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 40,
+      "episodes_count": 40,
+      "kinopoisk_id": "1164014",
+      "imdb_id": "tt8551028",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-04-14T08:19:43Z",
+      "updated_at": "2019-04-14T08:24:16Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/426531/d57bdebf80089bbb3dc5897a2f344aef/720p",
+            "2": "//kodik.cc/seria/426532/699ef12f0386c73f68ccf9005e43a6d1/720p",
+            "3": "//kodik.cc/seria/426533/941ef076c5d0510d607f0474856aa25d/720p",
+            "4": "//kodik.cc/seria/426534/78acdce6b908c7a24fff8d7756890a4a/720p",
+            "5": "//kodik.cc/seria/426535/fba89fe2e72f8b4722377d5cc14c892b/720p",
+            "6": "//kodik.cc/seria/426536/921fe1ab8ec6bc8d75389e79593c1c8f/720p",
+            "7": "//kodik.cc/seria/426537/ac4c4dac745c928d987e145cec32627c/720p",
+            "8": "//kodik.cc/seria/426538/6a343bd70b203ec21edeff25bd358f17/720p",
+            "9": "//kodik.cc/seria/426539/d3ea7a22a6be39809a57b7ff6c68e566/720p",
+            "10": "//kodik.cc/seria/426540/f17e697a4200f828298df341e03a47f9/720p",
+            "11": "//kodik.cc/seria/426541/7392e11e1d5d47a7382481923843bfee/720p",
+            "12": "//kodik.cc/seria/426542/d89351f031baa7f29144ec218c265d39/720p",
+            "13": "//kodik.cc/seria/426543/17a92eec46c933c51e7dde30b4f9914f/720p",
+            "14": "//kodik.cc/seria/426544/1e6fea2805afd7bfc8bbea7ce78187c0/720p",
+            "15": "//kodik.cc/seria/426545/225ca7fdef8f6031181ff1ead1a7f3ec/720p",
+            "16": "//kodik.cc/seria/426546/08eda53facf473488876d19042d792e6/720p",
+            "17": "//kodik.cc/seria/426547/e9ebddaab8a01af8484599cecc51ed69/720p",
+            "18": "//kodik.cc/seria/426548/cca99c33d6902a1c30c7a53690fe2c65/720p",
+            "19": "//kodik.cc/seria/426549/7fabdd215a56b69370b53a1b6daf1c87/720p",
+            "20": "//kodik.cc/seria/426550/cadb2ecc622eb3572d67652a1c2cb6c1/720p",
+            "21": "//kodik.cc/seria/426551/bede77de4b4e919e70898539730544c6/720p",
+            "22": "//kodik.cc/seria/426552/a074a59c3fc6995c64bb4232e0a0e7ea/720p",
+            "23": "//kodik.cc/seria/426553/a32e53bf6dc9ee2e001b978a71cd2773/720p",
+            "24": "//kodik.cc/seria/426554/b509246be88d75254e5fc44f606a9556/720p",
+            "25": "//kodik.cc/seria/426555/a7ec28d4ae0e131145175eeb0ae4eab5/720p",
+            "26": "//kodik.cc/seria/426556/456a9dd1d4eb542347876e071aaec06c/720p",
+            "27": "//kodik.cc/seria/426557/f85bb4e976dd740d9402860b4ff06288/720p",
+            "28": "//kodik.cc/seria/426558/9d427713bd53b1060b30f99191b1c624/720p",
+            "29": "//kodik.cc/seria/426559/67ea57a185bd46718ede4c0bfa87870f/720p",
+            "30": "//kodik.cc/seria/426560/d9b12de6a522e5c93821d253c8199772/720p",
+            "31": "//kodik.cc/seria/426561/cc53d2bdc149f08d5622a10a68ffbaf5/720p",
+            "32": "//kodik.cc/seria/426562/085ef2a444d4d6298b7e1d4dff7009c8/720p",
+            "33": "//kodik.cc/seria/426563/cfaabc7a26ae7c0f379f42b7b3c3ff0b/720p",
+            "34": "//kodik.cc/seria/426564/b300fa9957cd4d35b32b1bc23491c185/720p",
+            "35": "//kodik.cc/seria/426565/7e4dbbeabf7a7902a02d1b080e3a5581/720p",
+            "36": "//kodik.cc/seria/426566/342bee19a20919b57e93f2e358d2fee6/720p",
+            "37": "//kodik.cc/seria/426567/c6b9d9ec799afcdcee778f5d478a421f/720p",
+            "38": "//kodik.cc/seria/426568/636ae3464ad515d78c0f68eb8cb8d9ae/720p",
+            "39": "//kodik.cc/seria/426569/cda619fdda27c6f81b2b1c9a6666a233/720p",
+            "40": "//kodik.cc/seria/426570/1fb65e0dbbd1e5617c1d2fcf8cd87ea0/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Хранитель",
+        "title_en": "Zhen hun",
+        "year": 2018,
+        "tagline": "I hope you still remember the promise we made.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1164014.jpg",
+        "duration": 45,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "триллер",
+          "фантастика",
+          "фэнтези"
+        ],
+        "imdb_rating": 7.9,
+        "imdb_votes": 276,
+        "premiere_world": "2018-06-13",
+        "actors": [
+          "Бай Юй",
+          "Чжу Илун",
+          "Синь Пэн",
+          "Ли Янь",
+          "Цзян Минъян",
+          "Гао Юэр",
+          "Minting Liu",
+          "Siqi Li",
+          "Naichao Wang",
+          "Weichao Wang"
+        ],
+        "directors": [
+          "Чжоу Юаньчжоу",
+          "Han Gao"
+        ],
+        "producers": [
+          "Qing Fan",
+          "Si Fang",
+          "Xiaolan He",
+          "Xi Liu",
+          "Xiaonan Ma",
+          "Shu Tao",
+          "Mengjia Xu",
+          "Ming Yang",
+          "Ян Вэйдун",
+          "Yijing Yang"
+        ],
+        "writers": [
+          "Ju Zi Chen",
+          "Siyun Fu",
+          "Jing Han",
+          "Liang Hua",
+          "Chuntao Ma",
+          "Priest",
+          "Xiaoyu Qi",
+          "Fangzhou Ye"
+        ],
+        "composers": [
+          "Xueran Chen",
+          "Kun Luo"
+        ]
+      }
+    },
+    {
       "id": "movie-34890",
       "type": "russian-movie",
       "link": "",
@@ -6469,223 +6798,6 @@
         ],
         "operators": [
           "Дмитрий Месхиев"
-        ]
-      }
-    },
-    {
-      "id": "movie-31825",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Семь нянек",
-      "title_orig": "Sem nyanek",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1962,
-      "kinopoisk_id": "43664",
-      "imdb_id": "tt0056466",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-03T01:41:57Z",
-      "updated_at": "2019-04-10T08:58:59Z",
-      "material_data": {
-        "title": "Семь нянек",
-        "title_en": "",
-        "year": 1962,
-        "description": "У семи нянек, как известно, «дитя без глазу». Так и случилось поначалу в молодежной бригаде часового завода, которая взяла на воспитание «трудного» подростка.\n\rВрожденные актерские данные паренька помогают ему довольно успешно водить своих «опекунов» за нос, ставить в смешное положение, доводя почти до отчаяния. В этом фильме с блеском раскрылся режиссерский талант молодого Ролана Быкова...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/43664.jpg",
-        "duration": 76,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 3251,
-        "imdb_rating": 7.1,
-        "imdb_votes": 123,
-        "premiere_world": "1962-08-04",
-        "minimal_age": 12,
-        "actors": [
-          "Семен Морозов",
-          "Владимир Ивашов",
-          "Валентин Буров",
-          "Татьяна Надеждина",
-          "Микаэла Дроздовская",
-          "Наталья Батырева",
-          "В. Григорьева",
-          "Т. Карева",
-          "Виктор Хохряков",
-          "Валентин Зубков"
-        ],
-        "directors": [
-          "Ролан Быков"
-        ],
-        "writers": [
-          "Юлий Дунский",
-          "Валерий Фрид"
-        ],
-        "composers": [
-          "Карэн Хачатурян"
-        ],
-        "designers": [
-          "Давид Виницкий"
-        ],
-        "operators": [
-          "Петр Сатуновский"
-        ]
-      }
-    },
-    {
-      "id": "movie-31896",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Приказ: Огонь не открывать",
-      "title_orig": "Prikaz: ogon ne otkryvat",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1981,
-      "kinopoisk_id": "43247",
-      "imdb_id": "tt0237608",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-03T03:32:01Z",
-      "updated_at": "2019-04-10T08:57:27Z",
-      "material_data": {
-        "title": "Приказ: Огонь не открывать",
-        "title_en": "",
-        "year": 1981,
-        "description": "В первые дни Великой Отечественной Войны батальон советских солдат занимает позицию на одном из участков восточной границы. Более четырех лет герои фильма несут службу на этих рубежах, где нет «состояния войны», но каждую минуту грозит опасность. Японские милитаристы устраивают провокации, диверсии. Немалое мужество, выдержка, собранность потребовались от наших воинов.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/43247.jpg",
-        "duration": 93,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "военный"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 1059,
-        "imdb_rating": 7.5,
-        "imdb_votes": 34,
-        "premiere_world": "1982-02-22",
-        "minimal_age": 12,
-        "actors": [
-          "Владлен Бирюков",
-          "Николай Иванов",
-          "Александр Потапов",
-          "Александр Силин",
-          "Евгений Герасимов",
-          "Виктор Незнанов",
-          "Эрнст Романов",
-          "Наталья Егорова",
-          "Николай Гринько",
-          "Сергей Сазонтьев"
-        ],
-        "directors": [
-          "Валерий Исаков",
-          "Юрий Иванчук"
-        ],
-        "writers": [
-          "Георгий Марков",
-          "Эдуард Шим"
-        ],
-        "composers": [
-          "Марк Минков"
-        ],
-        "designers": [
-          "Евгений Галей"
-        ],
-        "operators": [
-          "Валерий Гинзбург"
-        ]
-      }
-    },
-    {
-      "id": "movie-34673",
-      "type": "russian-movie",
-      "link": "",
-      "title": "По улицам комод водили...",
-      "title_orig": "Po ulitsam komod vodili...",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1978,
-      "kinopoisk_id": "43018",
-      "imdb_id": "tt0078094",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-10T08:52:20Z",
-      "updated_at": "2019-04-10T08:52:20Z",
-      "material_data": {
-        "title": "По улицам комод водили...",
-        "title_en": "",
-        "year": 1978,
-        "description": "Киноальманах, состоящий из новел-шуток по мотивам В.Панкова, А.Курляндского, А.Зорина, Л.Осадчука, А.Инина, в котором обыгрываются всевозможные смешные ситуации.\n\rПокупатель доверяет проверить новый велосипед… ребенку; пожилой пассажир пригородного поезда, размечтался о встречах с девушкой, которая под напором его взгляда решает... уступить ему место; директор гастронома выясняет у следователя, сколько ему грозит, если он будет жить не по средствам...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/43018.jpg",
-        "duration": 68,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "kinopoisk_rating": 7.1,
-        "kinopoisk_votes": 2695,
-        "imdb_rating": 5.8,
-        "imdb_votes": 223,
-        "minimal_age": 6,
-        "actors": [
-          "Игорь Ясулович",
-          "Валерий Носик",
-          "Владимир Ивашов",
-          "Евгений Весник",
-          "Игорь Дмитриев",
-          "Наталья Вавилова",
-          "Семен Морозов",
-          "Савелий Крамаров",
-          "Наталья Селезнёва",
-          "Александр Демьяненко"
-        ],
-        "directors": [
-          "Марк Генин",
-          "Николай Ковальский"
-        ],
-        "writers": [
-          "Марк Генин",
-          "Аркадий Инин",
-          "И. Филинков",
-          "Стюарт Каминский",
-          "В. Кашеев",
-          "Александр Курляндский",
-          "Л. Осадчук",
-          "В. Панков",
-          "Александр Шаргородский",
-          "Лев Шаргородский"
-        ],
-        "composers": [
-          "Виктор Лебедев"
-        ],
-        "editors": [
-          "Виктория Монятовская"
-        ],
-        "designers": [
-          "Владимир Ефимов",
-          "Татьяна Мигицко"
-        ],
-        "operators": [
-          "Федор Сильченко"
         ]
       }
     }

@@ -1,6 +1,359 @@
 {
   "results": [
     {
+      "id": "serial-10901",
+      "type": "cartoon-serial",
+      "link": "",
+      "title": "Что с Энди?",
+      "title_orig": "What's with Andy?",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 2000,
+      "last_season": 3,
+      "last_episode": 26,
+      "episodes_count": 78,
+      "kinopoisk_id": "416184",
+      "imdb_id": "tt0289036",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-17T09:34:19Z",
+      "updated_at": "2020-01-17T06:45:35Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/291273/c7f46109ae5a4c3d04585c3949655440/720p",
+            "2": "//kodik.cc/seria/291274/463a05e773cc1183ef79e45bcfb196cc/720p",
+            "3": "//kodik.cc/seria/291275/433f276137bde8bc33a6164f0003dabb/720p",
+            "4": "//kodik.cc/seria/291276/24d05544de79e7861974b4aa289bd89d/720p",
+            "5": "//kodik.cc/seria/291277/bb3e6532417ed8ac43d05342e3d7bc46/720p",
+            "6": "//kodik.cc/seria/291278/d5dc58b7f17db35426aec6adfed52a45/720p",
+            "7": "//kodik.cc/seria/291279/629616215e78261efb0f313b71cb2bf1/720p",
+            "8": "//kodik.cc/seria/291280/365d5c94f531abda3fde3fe03ff8de56/720p",
+            "9": "//kodik.cc/seria/291281/bb6233c4832baad2c3294f2c439b60fb/720p",
+            "10": "//kodik.cc/seria/561965/cab49b3289e079913e90b05356c631dc/720p",
+            "11": "//kodik.cc/seria/561966/b97a10ced92fc83d651c3fbe3f47dbd0/720p",
+            "12": "//kodik.cc/seria/561967/383eae0c978cc9e45862649a93d56e8a/720p",
+            "13": "//kodik.cc/seria/561968/381d40a4e7e3559cf2931ec5bcff80cf/720p",
+            "14": "//kodik.cc/seria/561969/3b116729e8b757e15c18a01650ed67f7/720p",
+            "15": "//kodik.cc/seria/561970/d6cb97d7b2d475493da6eee80f25fc27/720p",
+            "16": "//kodik.cc/seria/561971/b098741c6e420599b55aec6e01449747/720p",
+            "17": "//kodik.cc/seria/561972/f9e4a66809bb7646f808a3e4f6b3d403/720p",
+            "18": "//kodik.cc/seria/561973/5404cf9ecc26e43c78f6b8ce939f001d/720p",
+            "19": "//kodik.cc/seria/561974/44e2412bbc166afe1492f5793502b0c4/720p",
+            "20": "//kodik.cc/seria/561975/6609100739962e0596d1ed36f39393f6/720p",
+            "21": "//kodik.cc/seria/561976/eaa28eb4133b1a935929d7a5012d21d1/720p",
+            "22": "//kodik.cc/seria/561977/e9fffff8c0b7766e95690c9931531f93/720p",
+            "23": "//kodik.cc/seria/561978/c4b5c2cb8aa1643cf3eb74046529f487/720p",
+            "24": "//kodik.cc/seria/561979/e07f775d519f821cbfceafad1c35736b/720p",
+            "25": "//kodik.cc/seria/561980/7d0f4d16a4c904388a32871742b125fa/720p",
+            "26": "//kodik.cc/seria/561981/952f12c1463b31c3ad52bddd495f2ab9/720p"
+          }
+        },
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/291299/c7f46109ae5a4c3d04585c3949655440/720p",
+            "2": "//kodik.cc/seria/291300/463a05e773cc1183ef79e45bcfb196cc/720p",
+            "3": "//kodik.cc/seria/291301/433f276137bde8bc33a6164f0003dabb/720p",
+            "4": "//kodik.cc/seria/291302/24d05544de79e7861974b4aa289bd89d/720p",
+            "5": "//kodik.cc/seria/291303/bb3e6532417ed8ac43d05342e3d7bc46/720p",
+            "6": "//kodik.cc/seria/291304/d5dc58b7f17db35426aec6adfed52a45/720p",
+            "7": "//kodik.cc/seria/291305/629616215e78261efb0f313b71cb2bf1/720p",
+            "8": "//kodik.cc/seria/291306/365d5c94f531abda3fde3fe03ff8de56/720p",
+            "9": "//kodik.cc/seria/291307/bb6233c4832baad2c3294f2c439b60fb/720p",
+            "10": "//kodik.cc/seria/291308/e349a24bcbebc5f00b128856f1ed27c2/720p",
+            "11": "//kodik.cc/seria/291309/efb502a3d2835c264e772befa435f070/720p",
+            "12": "//kodik.cc/seria/291310/987efd58abcb6c53d764820689bda7da/720p",
+            "13": "//kodik.cc/seria/291311/b83ecda6b2ff192e0c94dcf3db40b70d/720p",
+            "14": "//kodik.cc/seria/291312/769809a5991fda6a3d8d88961545f980/720p",
+            "15": "//kodik.cc/seria/291313/23cf086f49e3d0d30a19fa64ae225b8c/720p",
+            "16": "//kodik.cc/seria/291314/25709382783a63eb466ed1d4906bc11e/720p",
+            "17": "//kodik.cc/seria/291315/9657afc03a2c98eed794e1aa81498b28/720p",
+            "18": "//kodik.cc/seria/291316/cebccf3bc23e6366d4e1b2300f73e29b/720p",
+            "19": "//kodik.cc/seria/291317/171f009564195fae705e9c5b65b131e4/720p",
+            "20": "//kodik.cc/seria/291318/1b6459c1bb159bc6aba983bdde08fc41/720p",
+            "21": "//kodik.cc/seria/291319/75fea2a3b2b6a9822f587b5f2b04e771/720p",
+            "22": "//kodik.cc/seria/291320/fbf70a58102e286b97caf839788925b3/720p",
+            "23": "//kodik.cc/seria/291321/f5b6486b6e93180be3d0c0c7a928e8dc/720p",
+            "24": "//kodik.cc/seria/291322/2c3b0f5f268f2bb7e51306783ebeafc6/720p",
+            "25": "//kodik.cc/seria/291323/4730fa600a5c9c6a7c0ea39709bd176e/720p",
+            "26": "//kodik.cc/seria/291324/8b33da7395b806b8bc5d3d809ea019f8/720p"
+          }
+        },
+        "3": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/291325/c7f46109ae5a4c3d04585c3949655440/720p",
+            "2": "//kodik.cc/seria/291326/463a05e773cc1183ef79e45bcfb196cc/720p",
+            "3": "//kodik.cc/seria/291327/433f276137bde8bc33a6164f0003dabb/720p",
+            "4": "//kodik.cc/seria/291328/24d05544de79e7861974b4aa289bd89d/720p",
+            "5": "//kodik.cc/seria/291329/bb3e6532417ed8ac43d05342e3d7bc46/720p",
+            "6": "//kodik.cc/seria/291330/d5dc58b7f17db35426aec6adfed52a45/720p",
+            "7": "//kodik.cc/seria/291331/629616215e78261efb0f313b71cb2bf1/720p",
+            "8": "//kodik.cc/seria/291332/365d5c94f531abda3fde3fe03ff8de56/720p",
+            "9": "//kodik.cc/seria/291333/bb6233c4832baad2c3294f2c439b60fb/720p",
+            "10": "//kodik.cc/seria/291334/e349a24bcbebc5f00b128856f1ed27c2/720p",
+            "11": "//kodik.cc/seria/291335/efb502a3d2835c264e772befa435f070/720p",
+            "12": "//kodik.cc/seria/291336/987efd58abcb6c53d764820689bda7da/720p",
+            "13": "//kodik.cc/seria/291337/b83ecda6b2ff192e0c94dcf3db40b70d/720p",
+            "14": "//kodik.cc/seria/291338/769809a5991fda6a3d8d88961545f980/720p",
+            "15": "//kodik.cc/seria/291339/23cf086f49e3d0d30a19fa64ae225b8c/720p",
+            "16": "//kodik.cc/seria/291340/25709382783a63eb466ed1d4906bc11e/720p",
+            "17": "//kodik.cc/seria/291341/9657afc03a2c98eed794e1aa81498b28/720p",
+            "18": "//kodik.cc/seria/291342/cebccf3bc23e6366d4e1b2300f73e29b/720p",
+            "19": "//kodik.cc/seria/291343/171f009564195fae705e9c5b65b131e4/720p",
+            "20": "//kodik.cc/seria/291344/1b6459c1bb159bc6aba983bdde08fc41/720p",
+            "21": "//kodik.cc/seria/291345/75fea2a3b2b6a9822f587b5f2b04e771/720p",
+            "22": "//kodik.cc/seria/291346/fbf70a58102e286b97caf839788925b3/720p",
+            "23": "//kodik.cc/seria/291347/f5b6486b6e93180be3d0c0c7a928e8dc/720p",
+            "24": "//kodik.cc/seria/291348/2c3b0f5f268f2bb7e51306783ebeafc6/720p",
+            "25": "//kodik.cc/seria/291349/4730fa600a5c9c6a7c0ea39709bd176e/720p",
+            "26": "//kodik.cc/seria/291350/8b33da7395b806b8bc5d3d809ea019f8/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Что с Энди?",
+        "title_en": "What's with Andy?",
+        "year": 2000,
+        "tagline": "Счет пожалуйста!",
+        "description": "Мультипликационный сериал повествующий о канадском школьнике Энди Ларкине, который постоянно устраивает проделки в своём родном городе Ист-Гекле.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/416184.jpg",
+        "duration": 21,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "комедия",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 8123,
+        "imdb_rating": 7.6,
+        "imdb_votes": 2957,
+        "premiere_ru": "2004-09-04",
+        "premiere_world": "2001-09-26",
+        "minimal_age": 0,
+        "actors": [
+          "Кэти Кавадини",
+          "Джессика Кардос",
+          "Йен Джеймс Корлетт",
+          "Дэниэл Брошу",
+          "Жаклин Линетски",
+          "Холли Дж. Франкель",
+          "Артур Холден",
+          "Сьюзэн Гловер",
+          "Марк Хаузер",
+          "Крэйг Френсис"
+        ],
+        "directors": [
+          "Тим Дикон",
+          "Джон Миннис"
+        ],
+        "producers": [
+          "Эндрю Макаревич",
+          "Джон Петровиц"
+        ],
+        "writers": [
+          "Энн-Мари Перротта",
+          "Тин Шульц",
+          "Герард Льюис",
+          "Джозеф Парди",
+          "Ниша Мюир",
+          "Томас ЛаПьер",
+          "Джон Миннис",
+          "Кэтерин Сэндфорд",
+          "Хайди Фосс",
+          "Мишель Ламоро"
+        ],
+        "editors": [
+          "Мартин Тремблэ"
+        ],
+        "designers": [
+          "Valery Mihalkov",
+          "Луиз Ламбер"
+        ]
+      }
+    },
+    {
+      "id": "movie-47863",
+      "type": "anime",
+      "link": "",
+      "title": "Почти человек",
+      "title_orig": "Parumu no ki",
+      "other_title": "A Tree of Palme",
+      "translation": {
+        "id": 757,
+        "title": "MC Entertainment",
+        "type": "voice"
+      },
+      "year": 2002,
+      "kinopoisk_id": "56051",
+      "imdb_id": "tt0311618",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2149",
+      "shikimori_id": "1141",
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-17T06:18:26Z",
+      "updated_at": "2020-01-17T06:18:26Z",
+      "material_data": {
+        "title": "Почти человек",
+        "title_en": "Parumu no ki",
+        "other_titles": [
+          "Arbre de Palmem"
+        ],
+        "other_titles_en": [
+          "A Tree of Palme"
+        ],
+        "other_titles_jp": [
+          "パルムの樹"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2002,
+        "description": "Изобретатель, живущий у корней гигантского дерева, делает из его древесины одушевленного робота Пальме – чтоб тот ухаживал за его больной дочкой.\n\rДевочка умирает от болезни, изобретателя убивают нагрянувшие из пустыни незнакомцы, а деревянный человек Пальме, отправляется в долгое путешествие по умирающей планете, надеясь в конце своего пути стать настоящим человеком…",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/56051.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/c44b432fb6477069ecadff34e4bbf966238d2c8f.jpg",
+          "https://shikimori.one/system/screenshots/original/4e9b4d5ca4d9caf7712aa242cea9188d8c3d8433.jpg"
+        ],
+        "duration": 130,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Приключения",
+          "Романтика",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Palm Studio"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 497,
+        "imdb_rating": 6.6,
+        "imdb_votes": 438,
+        "shikimori_rating": 6.54,
+        "shikimori_votes": 0,
+        "premiere_world": "2002-03-16",
+        "aired_at": "2002-03-16",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 12,
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Акико Хирамацу",
+          "Мэгуми Тоёгути",
+          "Дайсукэ Сакагути",
+          "Юрика Хино",
+          "Каппэи Ямагути",
+          "Мотому Киёкава",
+          "Рикако Аикава",
+          "Кристин М. Отен",
+          "Крис Эйрс",
+          "Джессика Бун"
+        ],
+        "directors": [
+          "Такаси Накамура"
+        ],
+        "producers": [
+          "Таро Маки",
+          "Марк Уильямс"
+        ],
+        "writers": [
+          "Такаси Накамура"
+        ],
+        "composers": [
+          "Такаси Харада"
+        ],
+        "editors": [
+          "Сюити Какэсу"
+        ],
+        "designers": [
+          "Муцуо Косэки",
+          "Муцуо Одзэки"
+        ],
+        "operators": [
+          "Такаси Адзухата"
+        ]
+      }
+    },
+    {
+      "id": "movie-47851",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Тайны мудрого рыболова",
+      "title_orig": "Тайны мудрого рыболова",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1958,
+      "kinopoisk_id": "521427",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-17T05:25:42Z",
+      "updated_at": "2020-01-17T05:25:42Z",
+      "material_data": {
+        "title": "Тайны мудрого рыболова",
+        "title_en": "",
+        "year": 1957,
+        "description": "О разнообразных видах рыбной ловли, о том, какой урон рыбным богатствам страны наносит браконьерство и загрязнение рек сточными водами промышленных предприятий.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/521427.jpg",
+        "duration": 58,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "документальный"
+        ],
+        "kinopoisk_rating": 7.3,
+        "kinopoisk_votes": 136,
+        "premiere_world": "1958-01-23",
+        "actors": [
+          "Николай Крючков",
+          "Лидия Королёва",
+          "Григорий Шамшурин",
+          "Алексей Алексеев",
+          "Григорий Белов",
+          "Владимир Силуянов",
+          "Александр Юрьев",
+          "Георгий Шамшурин",
+          "Гавриил Белов"
+        ],
+        "directors": [
+          "Леонид Антонов"
+        ],
+        "writers": [
+          "Владимир Красильщиков"
+        ],
+        "composers": [
+          "Сигизмунд Кац"
+        ],
+        "designers": [
+          "Пётр Смирнов"
+        ],
+        "operators": [
+          "Олег Самуцевич"
+        ]
+      }
+    },
+    {
       "id": "movie-47853",
       "type": "foreign-movie",
       "link": "",
@@ -6984,10 +7337,10 @@
         "anime_studios": [
           "Encourage Films"
         ],
-        "kinopoisk_rating": 5.1,
-        "kinopoisk_votes": 900,
+        "kinopoisk_rating": 5.2,
+        "kinopoisk_votes": 923,
         "imdb_rating": 5.1,
-        "imdb_votes": 381,
+        "imdb_votes": 408,
         "shikimori_rating": 5.38,
         "shikimori_votes": 6589,
         "premiere_world": "2019-07-10",
@@ -8384,7 +8737,7 @@
         "imdb_rating": 6.9,
         "imdb_votes": 112,
         "shikimori_rating": 6.25,
-        "shikimori_votes": 179,
+        "shikimori_votes": 186,
         "premiere_world": "1987-03-21",
         "aired_at": "1987-03-21",
         "rating_mpaa": "R",
@@ -9257,262 +9610,6 @@
         "designers": [
           "Сигэнори Такада"
         ]
-      }
-    },
-    {
-      "id": "movie-47772",
-      "type": "anime",
-      "link": "",
-      "title": "Люпен III: Токийский кризис",
-      "title_orig": "Rupan sansei: Honô no kioku Tokyo Crisis",
-      "other_title": "Люпен III: Токийский кризис (спецвыпуск 10)",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 1998,
-      "kinopoisk_id": "184316",
-      "imdb_id": "tt0189973",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2769",
-      "shikimori_id": "1437",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-16T08:15:44Z",
-      "updated_at": "2020-01-16T08:15:44Z",
-      "material_data": {
-        "title": "Люпен III: Токийский кризис",
-        "title_en": "Rupan sansei: Honô no kioku Tokyo Crisis",
-        "other_titles": [
-          "Rupan Sansei",
-          "Lupin III: Memories of the Flame - Tokyo Crisis"
-        ],
-        "other_titles_en": [
-          "Lupin III: Crisis in Tokyo"
-        ],
-        "other_titles_jp": [
-          "ルパン三世『炎の記憶 ~Tokyo Crisis~』"
-        ],
-        "anime_kind": "special",
-        "anime_status": "released",
-        "year": 1998,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/184316.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/92be21e817b221807cabe61d84fecadfd80c767c.jpg",
-          "https://shikimori.one/system/screenshots/original/102a5c6f9fecd9cecb5d00faff3f78dbf9360c72.jpg"
-        ],
-        "duration": 95,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "мультфильм",
-          "фантастика",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Комедия",
-          "Приключения",
-          "Сёнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Tokyo Movie Shinsha"
-        ],
-        "imdb_rating": 7.2,
-        "imdb_votes": 298,
-        "shikimori_rating": 7.24,
-        "shikimori_votes": 157,
-        "premiere_world": "1998-07-24",
-        "aired_at": "1998-07-24",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Мэгуми Хаясибара",
-          "Канъити Курита",
-          "Киёси Кобаяси",
-          "Эйко Масуяма",
-          "Макио Иноэ",
-          "Горо Ная",
-          "Коити Ямадэра",
-          "Трой Бэйкер",
-          "Боб Картер",
-          "Коллин Клинкенберд"
-        ],
-        "directors": [
-          "Тосия Синохара"
-        ],
-        "producers": [
-          "Гэн Фукунага"
-        ],
-        "writers": [
-          "Манки Панч"
-        ],
-        "editors": [
-          "Масатоси Цурубуси"
-        ]
-      }
-    },
-    {
-      "id": "movie-47771",
-      "type": "anime",
-      "link": "",
-      "title": "Люпен III. Эпизод 0: Первый контакт",
-      "title_orig": "Rupan Sansei: Episode 0 - Faasuto kontakuto",
-      "other_title": "Люпен III Эпизод 0: Первый контакт (спецвыпуск 14)",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2002,
-      "kinopoisk_id": "309005",
-      "imdb_id": "tt0827737",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2752",
-      "shikimori_id": "1418",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-16T08:15:06Z",
-      "updated_at": "2020-01-16T08:15:06Z",
-      "material_data": {
-        "title": "Люпен III. Эпизод 0: Первый контакт",
-        "title_en": "Rupan Sansei: Episode 0 - Faasuto kontakuto",
-        "other_titles": [
-          "Rupan Sansei Episode: 0 'First Contact'"
-        ],
-        "other_titles_en": [
-          "Lupin III Episode 0: The First Contact"
-        ],
-        "other_titles_jp": [
-          "ルパン三世ＥＰＩＳＯＤＥ：０（ゼロ） 『ファーストコンタクト』"
-        ],
-        "anime_kind": "special",
-        "anime_status": "released",
-        "year": 2002,
-        "tagline": "Lupin the 3rd Episode 0: The First Contact",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/309005.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/fb4b6203962b7cabba909c927e8dbf08fceb95f1.jpg",
-          "https://shikimori.one/system/screenshots/original/10e9b49853909bc25d6b067bba1f3a81f842ac9a.jpg"
-        ],
-        "duration": 90,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Комедия",
-          "Приключения",
-          "Сейнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "TMS Entertainment"
-        ],
-        "kinopoisk_rating": 7,
-        "kinopoisk_votes": 87,
-        "imdb_rating": 7.7,
-        "imdb_votes": 318,
-        "shikimori_rating": 7.62,
-        "shikimori_votes": 178,
-        "premiere_world": "2002-07-26",
-        "aired_at": "2002-07-26",
-        "rating_mpaa": "R",
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Масару Икэда",
-          "Макио Иноэ",
-          "Киёси Кобаяси",
-          "Дзюрота Косуги",
-          "Канъити Курита",
-          "Эйко Масуяма",
-          "Сюитиро Морияма",
-          "Итиро Нагаи",
-          "Горо Ная",
-          "Роми Пак"
-        ],
-        "directors": [
-          "Минору Охара"
-        ],
-        "producers": [
-          "Инцу Одзаки",
-          "Хиромичи Оиши"
-        ],
-        "writers": [
-          "Манки Панч",
-          "Сёдзи Ёнэмура"
-        ],
-        "composers": [
-          "Юдзи Оно"
-        ],
-        "editors": [
-          "Юрико Сана"
-        ]
-      }
-    },
-    {
-      "id": "movie-47770",
-      "type": "anime",
-      "link": "",
-      "title": "Наруто OVA-3",
-      "title_orig": "Narutimate Hero 3: Tsuini Gekitotsu! Jounin tai Genin!! Musabetsu Dairansen taikai Kaisai!!",
-      "other_title": "ナルティメットヒーロー3 ついに激突! 上忍VS下忍!! 無差別大乱戦大会開催!!",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2005,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5416",
-      "shikimori_id": "1074",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-16T08:11:49Z",
-      "updated_at": "2020-01-16T08:11:49Z",
-      "material_data": {
-        "title": "Наруто: Наконец-таки! Соревнования дзёнинов против гэнинов!",
-        "title_en": "Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen Taikai Kaisai!!",
-        "other_titles": [
-          "Naruto Narutimate Hero 3 OVA",
-          "Naruto: Finally a Clash!! Jounin vs. Genin!"
-        ],
-        "other_titles_jp": [
-          "NARUTO ナルティメットヒーロー3 ついに激突! 上忍VS下忍!! 無差別大乱戦大会開催!!"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "description": "В Конохе проходят соревнования «Дзёнины против Гэнинов». Цель — собрать как можно больше кристаллов для повышения рейтинга. Гэнины имеют при себе кристаллы синеватого оттенка, а тюнины и дзёнины — красного. Соответственно, стоимость последних по баллам выше.\r\nВ серии показаны различные бои или ситуации, при которых участники соревнования либо нечаянно теряют кристаллы, либо осознанно выкидывают. Сама OVA является бонусом к выпущенной видео-игре по «Наруто».",
-        "poster_url": "https://shikimori.one/system/animes/original/1074.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/5c2f4dcaffbbff7cb175a6b29c886d7a416ec252.png",
-          "https://shikimori.one/system/screenshots/original/535f1ec802ccd566b326e1becb797ba449198ecd.png"
-        ],
-        "anime_genres": [
-          "Игры",
-          "Комедия",
-          "Приключения",
-          "Сёнен"
-        ],
-        "anime_studios": [
-          "Studio Pierrot"
-        ],
-        "shikimori_rating": 6.77,
-        "shikimori_votes": 5521,
-        "aired_at": "2005-12-22",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0
       }
     }
   ]
