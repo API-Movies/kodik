@@ -1,6 +1,1777 @@
 {
   "results": [
     {
+      "id": "movie-39397",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Лаки",
+      "title_orig": "Luckee",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1223513",
+      "imdb_id": "tt9466786",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-07T08:08:39Z",
+      "updated_at": "2019-07-07T08:08:39Z",
+      "material_data": {
+        "title": "Luckee",
+        "title_en": "",
+        "year": 2019,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "imdb_rating": 4.4,
+        "imdb_votes": 33,
+        "premiere_world": "2019-02-07",
+        "actors": [
+          "Абхай Махаджан",
+          "Дипти Сати",
+          "Четан Далви",
+          "Sanika Ghaises",
+          "Mehul Jangli",
+          "Rutuja Kulkarni",
+          "Майур Мор",
+          "Шашанк Шенде",
+          "Shubhangi Tambale",
+          "Atul Todankar"
+        ],
+        "directors": [
+          "Sanjay Jadhav"
+        ],
+        "producers": [
+          "Suraj Singh",
+          "Deepak Rane",
+          "Прафул Салунке"
+        ],
+        "writers": [
+          "Arvind Jagtap"
+        ],
+        "editors": [
+          "Ashish Mhatre",
+          "Apurva Motiwale"
+        ],
+        "designers": [
+          "Махеш Салгаонкар",
+          "Sonniya Lele Sahasrabuddhe"
+        ],
+        "operators": [
+          "Vijay Soni"
+        ]
+      }
+    },
+    {
+      "id": "serial-17394",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Граф Монте-Кристо: Великая месть",
+      "title_orig": "Monte Cristo Haku",
+      "translation": {
+        "id": 927,
+        "title": "VOICE PROJECT STUDIO",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 9,
+      "episodes_count": 9,
+      "kinopoisk_id": "1123503",
+      "imdb_id": "tt8217122",
+      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=76998",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-07-06T19:57:12Z",
+      "updated_at": "2019-07-07T06:12:45Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/454643/1371ee53393f702069c279a87a9c9791/720p",
+            "2": "//kodik.cc/seria/454644/a7cfb2a9ec72519ddcaf5531456a4bc4/720p",
+            "3": "//kodik.cc/seria/454645/1e74ffcc5f3687b55c08d55a0258b900/720p",
+            "4": "//kodik.cc/seria/454646/903d152a65f61e4c78cdf162c1ba75d0/720p",
+            "5": "//kodik.cc/seria/454647/8fb231ae67f486e67aab784738872c10/720p",
+            "6": "//kodik.cc/seria/454648/1259d932e4159b4e1b9f1850a78dc3fc/720p",
+            "7": "//kodik.cc/seria/454649/3d8f348e8f70f145c8a4ad36abe37123/720p",
+            "8": "//kodik.cc/seria/454650/29f8d171a48ee66ddc2c063b8030c7ff/720p",
+            "9": "//kodik.cc/seria/454819/2f3a7160c27e254d6a8e71688c6bf3ca/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Граф Монте-Кристо: Великая месть",
+        "title_en": "Monte Cristo Haku",
+        "year": 2018,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1123503.jpg",
+        "duration": 60,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 8,
+        "imdb_votes": 22,
+        "premiere_world": "2018-04-19",
+        "actors": [
+          "Хирофуми Араи",
+          "Дзюн Фубуки",
+          "Дин Фудзиока",
+          "Сёно Хаяма",
+          "Масато Ибу",
+          "Идзуми Инамори",
+          "Хока Киносита",
+          "Юкино Кисии",
+          "Юки Кубота",
+          "Масаки Миура"
+        ],
+        "directors": [
+          "Юсукэ Нода",
+          "Мэй Такано"
+        ],
+        "writers": [
+          "Александр Дюма отец",
+          "Цутому Куроива"
+        ]
+      }
+    },
+    {
+      "id": "serial-15679",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Прощай, моя принцесса",
+      "title_orig": "Good Bye My Princess",
+      "other_title": "Восточный дворец / Goodbye My Princess / Eastern Palace / Dong Gong",
+      "translation": {
+        "id": 913,
+        "title": "East Dream",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 52,
+      "episodes_count": 52,
+      "kinopoisk_id": "1314670",
+      "imdb_id": "tt11156508",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-03-02T16:08:16Z",
+      "updated_at": "2019-07-06T14:57:11Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/411223/e1dd905f133591506553bd72a6bb214d/720p",
+            "2": "//kodik.cc/seria/411224/3b049b7280b86ff1711a4f7a9e1b0bfe/720p",
+            "3": "//kodik.cc/seria/411225/d987d9367f257bb5a8b6ffd247e1deb1/720p",
+            "4": "//kodik.cc/seria/411226/ad781ea82ab00dbfee2417578f3ecaba/720p",
+            "5": "//kodik.cc/seria/411227/298b2a2c0e9c8adc6c45454bb64d370b/720p",
+            "6": "//kodik.cc/seria/411228/7396d61431fea05b7a9a0e548ccb35e0/720p",
+            "7": "//kodik.cc/seria/411229/578a2337234262dec2f54060a4b0f332/720p",
+            "8": "//kodik.cc/seria/411230/2ec92dea1712b53c75cf827cefcd9089/720p",
+            "9": "//kodik.cc/seria/411231/91d0fb9125264d4287e9f97d075ed342/720p",
+            "10": "//kodik.cc/seria/411232/67c09f8278a4df22647a72e74084e72b/720p",
+            "11": "//kodik.cc/seria/411233/2c7feb5e9858b742e5718f79bd70aee7/720p",
+            "12": "//kodik.cc/seria/411234/4379ac221992993871b0358513cbafb1/720p",
+            "13": "//kodik.cc/seria/411235/fe612d7a5978eb9274da8f08af4c2a6d/720p",
+            "14": "//kodik.cc/seria/411236/1bd6b42de56c5ef2ef6c1c4e4db1bf3c/720p",
+            "15": "//kodik.cc/seria/412588/3302cf3c7b1e193e79c3b54da868c952/720p",
+            "16": "//kodik.cc/seria/412589/f68ccbb604a40e40cb033480d78844f5/720p",
+            "17": "//kodik.cc/seria/414050/eab93effecd194abc0254a423d08b348/720p",
+            "18": "//kodik.cc/seria/414051/562461cb07d19493a148b289bd0fd540/720p",
+            "19": "//kodik.cc/seria/414052/d13e8821e5aa790cfb84ce8913b4b73b/720p",
+            "20": "//kodik.cc/seria/416596/007545510f7f71dd6db98c223a0c7988/720p",
+            "21": "//kodik.cc/seria/416597/b47ac60694fba28fbfabc129376426af/720p",
+            "22": "//kodik.cc/seria/416598/cc6e52d0aaa5102e89e971680c68df86/720p",
+            "23": "//kodik.cc/seria/416599/527c2e1dc54350e16a78e5ab71aa1ffe/720p",
+            "24": "//kodik.cc/seria/419559/a9b82dfb82be0e05b82f3dd0f24e1ed3/720p",
+            "25": "//kodik.cc/seria/419560/267da3f234a69d028c743146ebdaa536/720p",
+            "26": "//kodik.cc/seria/419561/5431b3ac935a2afb4e0894bf7ed47944/720p",
+            "27": "//kodik.cc/seria/419574/4b4fa8f20274deeb38633ba0f5206f4d/720p",
+            "28": "//kodik.cc/seria/419575/b90150870282f14a038e31946d122490/720p",
+            "29": "//kodik.cc/seria/419576/640c9a87428d97f9c52a180c195df449/720p",
+            "30": "//kodik.cc/seria/419577/2ca78a3387c8a510a066e3916fa91884/720p",
+            "31": "//kodik.cc/seria/419578/6d5b724dc86dfc64be95a2341f59ca22/720p",
+            "32": "//kodik.cc/seria/419579/e9b425f10b61d945733a101cd2b714d1/720p",
+            "33": "//kodik.cc/seria/419580/f31ee3ae3968f732795676163a242ddc/720p",
+            "34": "//kodik.cc/seria/419581/506b381eff83e40df3e30df21362a3bb/720p",
+            "35": "//kodik.cc/seria/419582/e9b0b90319de98eca89c956dbb0ed5bc/720p",
+            "36": "//kodik.cc/seria/419583/77f4e8b1b309fb2e9785ca875ccc2893/720p",
+            "37": "//kodik.cc/seria/419584/02a86e48d999c9bc3a6fc5355f1e079f/720p",
+            "38": "//kodik.cc/seria/421898/e6acee0cd26b6230e5dbbdd70f8157ac/720p",
+            "39": "//kodik.cc/seria/421899/1e4b0194d1efa416a1d787c19c92f8a3/720p",
+            "40": "//kodik.cc/seria/421900/2cba384b427ac2f9d255687e20ea0af6/720p",
+            "41": "//kodik.cc/seria/421901/1fa28d4c7b62307a2f9c191612b3fb7e/720p",
+            "42": "//kodik.cc/seria/421902/404faebe5c2c718aaeed82321a393ec6/720p",
+            "43": "//kodik.cc/seria/421903/f855c61295c5219325d2721023873410/720p",
+            "44": "//kodik.cc/seria/421904/5ba4831fc68bf5b856c9a9b98720fe3c/720p",
+            "45": "//kodik.cc/seria/424566/0537ce59866abb429031fcef37b47bb0/720p",
+            "46": "//kodik.cc/seria/424569/72cc1efc3b625f3c676520ea87a75274/720p",
+            "47": "//kodik.cc/seria/424570/b3270105211046d75eff68e6c0c58a21/720p",
+            "48": "//kodik.cc/seria/424571/e7c85139d545ef39ec6afb01f975f45b/720p",
+            "49": "//kodik.cc/seria/424572/ef8046a4d10fafc484eb4e3e8bf90bd6/720p",
+            "50": "//kodik.cc/seria/424584/3758ca4458c656d05a6af51cc72d9d19/720p",
+            "51": "//kodik.cc/seria/424585/307a9dcc652c1261940e75dcaa1cdd49/720p",
+            "52": "//kodik.cc/seria/424586/f5666984deb2a629effba79a67b3dc3f/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Good Bye, My Princess",
+        "title_en": "",
+        "year": 2019,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 8.1,
+        "imdb_votes": 67,
+        "premiere_world": "2019-02-14",
+        "actors": [
+          "Чэнь Синсюй",
+          "Le Guan",
+          "Кай Цзянь",
+          "Галлен Ло",
+          "Xiaoran Peng",
+          "Сыцинь Гаова",
+          "Кингон Ван",
+          "Ван Чжифэй",
+          "Вэй Цяньсян",
+          "Яо Аньлянь"
+        ],
+        "directors": [
+          "Ли Мугэ"
+        ],
+        "writers": [
+          "Feiwosicun",
+          "Rong Hu",
+          "Yitong Ke",
+          "Xiao Liu",
+          "Jue Qian",
+          "Yangming Song",
+          "Yihan Wang",
+          "Xiaolin Xu"
+        ]
+      }
+    },
+    {
+      "id": "movie-39379",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Реальная девушка",
+      "title_orig": "3D Kanojo Real Girl",
+      "other_title": "3D Kanojo Riaru Garu",
+      "translation": {
+        "id": 646,
+        "title": "XDUB Dorama",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1114834",
+      "imdb_id": "tt8746914",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-06T10:21:08Z",
+      "updated_at": "2019-07-06T10:21:08Z",
+      "material_data": {
+        "title": "Реальная девушка",
+        "title_en": "3D Kanojo Real Girl",
+        "year": 2018,
+        "description": "Старшеклассник и задрот Хикару Цуцуи предпочитает вымышленный мир реальному. Он любит магну, видеоигры, аниме, общается исключительно в Интернете, а одноклассники его даже не замечают. Однажды случается немыслимое - к нему подходит школьная красавица Ироха Игараси и вдруг признаётся, что он ей нравится. Жизнь парня превращается в хаос и смятение.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1114834.jpg",
+        "duration": 114,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 6.3,
+        "imdb_votes": 260,
+        "premiere_world": "2018-09-14",
+        "actors": [
+          "Аями Накадзё",
+          "Хаято Сано",
+          "Това Араки",
+          "Ютаро Гото",
+          "Мари Хамада",
+          "Мока Камисираиси",
+          "Саяка Канда",
+          "Такахиро Миура",
+          "Хироя Симидзу",
+          "Рики Такэути"
+        ],
+        "directors": [
+          "Цутому Ханабуса"
+        ],
+        "writers": [
+          "Мао Нанами"
+        ]
+      }
+    },
+    {
+      "id": "serial-16314",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Оккультные служащие полуночи",
+      "title_orig": "Mayonaka no Occult Koumuin",
+      "other_title": "Midnight Occult Civil Servants",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1263120",
+      "imdb_id": "tt10022916",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9733",
+      "shikimori_id": "37964",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-04-11T14:38:31Z",
+      "updated_at": "2019-07-05T22:58:51Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/425837/ae131e90692c4dee487b92f417393b24/720p",
+            "2": "//aniqit.com/seria/427375/1c13a1360fc01e03779b4baa6a15b62d/720p",
+            "3": "//aniqit.com/seria/429649/f940812b34d355469878600f39736d4a/720p",
+            "4": "//aniqit.com/seria/432292/80b9ae522aee965dd5858a11e6b8e672/720p",
+            "5": "//aniqit.com/seria/434376/c5528efe6a0170ffaba448c52b660802/720p",
+            "6": "//aniqit.com/seria/441142/4a337dbca22bcda312fbcbe2be4781c4/720p",
+            "7": "//aniqit.com/seria/445589/6f2270cf45cf5e9c2ae78fc7c653e324/720p",
+            "8": "//aniqit.com/seria/445590/e28f17e2be72545e53786a5bde2e6076/720p",
+            "9": "//aniqit.com/seria/450056/7e5bc93edf530032b91d84f82591e2c4/720p",
+            "10": "//aniqit.com/seria/450057/1ae19d0aec7e9707f014f0f3fb51f1a8/720p",
+            "11": "//aniqit.com/seria/450058/e1783de615c3ffa410368f0855a9d83d/720p",
+            "12": "//aniqit.com/seria/453634/2f18c667fbd47fb444cf01f6cc0f35dd/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Оккультные служащие полуночи",
+        "title_en": "Mayonaka no Occult Koumuin",
+        "other_titles": [
+          "Департамент сверхъестественных дел"
+        ],
+        "other_titles_en": [
+          "Midnight occult civil servants"
+        ],
+        "other_titles_jp": [
+          "真夜中のオカルト公務員"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "Арата Мияко недавно получил назначение в районный отдел регионального полуночного департамента по связям. В каждом из 23 районов Токио есть отдел занимающийся делами, связанными с паранормальной активностью и оккультными практиками. У Арата есть особый дар — он может понимать нечеловеческую речь. В первый же свой рабочий день Арата сталкивается в парке с ёкаем, который принимает его за легендарного экзорциста эпохи Хэйан — Абэ-но Сэймэя.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1263120.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/fa3a3adba7d3f8ee1040079e19bd8d989d1b27b5.png",
+          "https://shikimori.one/system/screenshots/original/687c132c41fadd80817edd1981d8dc5499c45e6b.png"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "детектив",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Демоны",
+          "Детектив",
+          "Сверхъестественное",
+          "Сёдзё",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "LIDENFILMS"
+        ],
+        "imdb_rating": 6.7,
+        "imdb_votes": 147,
+        "shikimori_rating": 6.71,
+        "shikimori_votes": 1964,
+        "premiere_world": "2019-04-08",
+        "aired_at": "2019-04-08",
+        "released_at": "2019-06-24",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Дзюн Фукуяма",
+          "Мию Ирино",
+          "Томоаки Маэно",
+          "Такахиро Сакурай",
+          "Сюнъити Токи",
+          "Кадзутоми Ямамото",
+          "Кодзи Юса"
+        ],
+        "directors": [
+          "Тэцуя Ватанабэ"
+        ]
+      }
+    },
+    {
+      "id": "serial-17436",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Королева ночи",
+      "title_orig": "Gecenin Kraliçesi",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 15,
+      "episodes_count": 15,
+      "kinopoisk_id": "957250",
+      "imdb_id": "tt5303602",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-07-05T21:09:06Z",
+      "updated_at": "2019-07-05T21:09:06Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/455364/bd8b409ea7f5acd0fa4fa2ca82dcd8de/720p",
+            "2": "//kodik.cc/seria/455365/44ecc250ef90db3f32c276168a8887fa/720p",
+            "3": "//kodik.cc/seria/455366/d31486f2fb0022b6575d38bf70a1c3b6/720p",
+            "4": "//kodik.cc/seria/455367/5db7aed60310e0350b8c8819ec5651ba/720p",
+            "5": "//kodik.cc/seria/455368/e2ea247d4fe416518b8bc1630b0cb6ff/720p",
+            "6": "//kodik.cc/seria/455369/a1f7655f9c345f6d2ca318462c15d0fe/720p",
+            "7": "//kodik.cc/seria/455370/a7f4ebb68ecc750460aafd3dea528f05/720p",
+            "8": "//kodik.cc/seria/455371/97776f122b3edd1bcc340f7b30eb0de8/720p",
+            "9": "//kodik.cc/seria/455372/7236ed082679ef13879b59dec5b5dfdb/720p",
+            "10": "//kodik.cc/seria/455373/779df51621f57aad35ac6b1faa700f5b/720p",
+            "11": "//kodik.cc/seria/455374/c9081b3e591e0e9185be34686b48b900/720p",
+            "12": "//kodik.cc/seria/455375/0bc1b279d1ff426435d3e9adf0cc78af/720p",
+            "13": "//kodik.cc/seria/455376/0c9a70cf9a2ef8e7704b5df733454109/720p",
+            "14": "//kodik.cc/seria/455377/c238644bf935eea0276b9838f5b232fd/720p",
+            "15": "//kodik.cc/seria/455378/c9abfff76c150a7a1a388bef3aec3980/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Королева ночи",
+        "title_en": "Gecenin Kraliçesi",
+        "year": 2016,
+        "description": "Селин - красивая молодая девушка, мать которой француженка, а отец - турок. Селин живет во Франции и владеет небольшим парфюмерным магазинчиком. Однажды судьба сводит её с влиятельным турецким бизнесменом Азизом, жена которого скончалась во время родов, оставив горем убитому мужчине двоих детей. Азиз так же усыновил ребенка своего погибшего друга, 3-хлетнего мальчика по имени Картал, воспитывая его как своего родного сына. После смерти жены, Азиз надолго закрыл свое сердце перед таким чувством как любовь, даже и не думая о повторном браке. Но все кардинально изменилось, когда он увидел перед собой красавицу Селин, это была любовь с первого взгляда. Ситуация накаляется, когда на горизонте появляется приемный сын бизнесмена - Картал. Он молод, хорош собой, умён и богат. А ещё он... с первого взгляда влюбляется в Селин. Картал начинает проявлять к девушке самые теплые чувства, несмотря на то, что его отец до безумства тоже влюблен в Селин. К чему же приведёт противоборство отца и сына из-за одной женщины? Терзаясь в сомнениях, Селин тоже предстанет перед сложнейшим выбором: Азиз или Картал?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/957250.jpg",
+        "duration": 120,
+        "countries": [
+          "Турция"
+        ],
+        "genres": [
+          "боевик",
+          "драма",
+          "мелодрама"
+        ],
+        "kinopoisk_rating": 8,
+        "kinopoisk_votes": 1317,
+        "imdb_rating": 5.2,
+        "imdb_votes": 389,
+        "premiere_world": "2016-01-12",
+        "actors": [
+          "Седа Акман",
+          "Селим Байрактар",
+          "Дениз Джелилоглу",
+          "Бурак Дениз",
+          "Фунда Эрйигит",
+          "Угур Полат",
+          "Мерьем Узерли",
+          "Мурат Йылдырым",
+          "Эмре Йетим",
+          "Бурак Дэмир"
+        ],
+        "directors": [
+          "Дурул Тайлан",
+          "Ягмур Тайлан"
+        ],
+        "producers": [
+          "Недим Чинелиоглу",
+          "Дженгиз Чагатай"
+        ],
+        "composers": [
+          "Айтекин Аташ"
+        ]
+      }
+    },
+    {
+      "id": "serial-16555",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Клин клином",
+      "title_orig": "Diamond cuts diamond",
+      "other_title": "Petch Tud Petch / An Eye for An Eye",
+      "translation": {
+        "id": 871,
+        "title": "Asian Miracle Group",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-05-01T21:52:49Z",
+      "updated_at": "2019-07-05T19:25:23Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//kodik.cc/seria/431953/cb9050ad2441ddd1e7ed750cb262248f/720p",
+            "2": "//kodik.cc/seria/431954/9bd7844c7b0f9984e45fd19ebcd5f806/720p",
+            "3": "//kodik.cc/seria/431955/19e8e932b66933c5752b8c0d650c9a9c/720p",
+            "4": "//kodik.cc/seria/431956/3cab0f2cfe7e5a186362ef916766c5f0/720p",
+            "5": "//kodik.cc/seria/431957/ba5ce2bf22b3098239b658935ce033af/720p",
+            "6": "//kodik.cc/seria/431958/fb3aec90ea9493791b971b2d1a827315/720p",
+            "7": "//kodik.cc/seria/431959/f416ed99beadc37b5d6baebe6db5f6f4/720p",
+            "8": "//kodik.cc/seria/431960/8c8f94a8587f9a2ad1267d71143f421f/720p",
+            "9": "//kodik.cc/seria/431961/3b6d5b696587f1e83d79511f312099d1/720p",
+            "10": "//kodik.cc/seria/431962/ee5930b91eec162174908db15324c7bf/720p",
+            "11": "//kodik.cc/seria/440950/e0bfd44b5bba91ed3dc2a1000bcc4542/720p",
+            "12": "//kodik.cc/seria/447273/0e451a09c5fe7ef5dfa2427f01c35685/720p",
+            "13": "//kodik.cc/seria/449188/a7bcfe3c030435920b37ff4df5beefb6/720p",
+            "14": "//kodik.cc/seria/450429/0473e14d7b2bdfddb93f15ff149e82e6/720p",
+            "15": "//kodik.cc/seria/451119/7055f581f95b4321551b66fe6bdf711e/720p",
+            "16": "//kodik.cc/seria/453595/6e6f1c194b7bc33d23cf644dae8c00d6/720p"
+          }
+        }
+      }
+    },
+    {
+      "id": "movie-39371",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Тем солнечным летом",
+      "title_orig": "That sunny summer",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2019,
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-05T17:33:25Z",
+      "updated_at": "2019-07-05T17:33:25Z"
+    },
+    {
+      "id": "serial-12832",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Цирк марионеток",
+      "title_orig": "Karakuri Circus",
+      "other_title": "からくりサーカス",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 36,
+      "episodes_count": 36,
+      "kinopoisk_id": "1221619",
+      "imdb_id": "tt9050366",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9614",
+      "shikimori_id": "37447",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-10-16T08:30:55Z",
+      "updated_at": "2019-07-05T16:00:46Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/341210/d565bd8bc08c78be960ae729d0348741/720p",
+            "2": "//aniqit.com/seria/344001/e3bd5bd4ec1fed9139eee1faf50915b4/720p",
+            "3": "//aniqit.com/seria/346878/26959035a987d468aee6872e8271cc4f/720p",
+            "4": "//aniqit.com/seria/348070/a021e1063cea4eed1e905e59549e652f/720p",
+            "5": "//aniqit.com/seria/351588/61c661aa593279bb56e43ec7e5ae3f24/720p",
+            "6": "//aniqit.com/seria/362731/c31dfe660375180fee6bd15eca9a9f1f/720p",
+            "7": "//aniqit.com/seria/362732/350d44b379323e797d9d9e63c6ba8003/720p",
+            "8": "//aniqit.com/seria/363949/91818166a052ad8d5f2af3fbfb26aba4/720p",
+            "9": "//aniqit.com/seria/363950/04c66381d28a5b3f326313b94e5a8e3f/720p",
+            "10": "//aniqit.com/seria/364402/1e90d2f1e73b2aa37fba81befee92030/720p",
+            "11": "//aniqit.com/seria/366737/8a2b5f9220890318d289c7df7960314b/720p",
+            "12": "//aniqit.com/seria/375329/49aaee1fb843923b01d78ea15aa39cb3/720p",
+            "13": "//aniqit.com/seria/396692/80e00a541b0a4327a13ff5dbe33d12ae/720p",
+            "14": "//aniqit.com/seria/401503/503121e5466d8af84d02fc1c002e7f57/720p",
+            "15": "//aniqit.com/seria/401504/3d1133018d43bba6ae2a9546179e7845/720p",
+            "16": "//aniqit.com/seria/401505/c1dfaf554632cab6d7a2578f8f9a866d/720p",
+            "17": "//aniqit.com/seria/403227/e1ff4cf7f3fa6c85655c3011fa205721/720p",
+            "18": "//aniqit.com/seria/415988/46a4f0712bc117b8a73d95284dd912c3/720p",
+            "19": "//aniqit.com/seria/415989/f79b4df7b24102e91a121983870a4dd5/720p",
+            "20": "//aniqit.com/seria/416315/71ac6f9b7776f69adeb5835e518e0ded/720p",
+            "21": "//aniqit.com/seria/421019/7f4c641b1c59c03ff9c9bc477ae4cb7b/720p",
+            "22": "//aniqit.com/seria/421020/7a5d07ec65d002213f78047975e15195/720p",
+            "23": "//aniqit.com/seria/427627/b5c8a2bbd2b62a7c9c097a913cf939c1/720p",
+            "24": "//aniqit.com/seria/427628/27ae84412726788696ea05dcd3e132fa/720p",
+            "25": "//aniqit.com/seria/427629/6b792fd1650ea243b383b2f6aa3ec23a/720p",
+            "26": "//aniqit.com/seria/446584/8eb309233861d578527192719d48d274/720p",
+            "27": "//aniqit.com/seria/446585/31e188933717db1b98f4b41ae8fd6b53/720p",
+            "28": "//aniqit.com/seria/446586/62a5203a17ca1a364bf46f42bfb4cbaf/720p",
+            "29": "//aniqit.com/seria/446587/63a30332a8a71760aa16f656d728fdf7/720p",
+            "30": "//aniqit.com/seria/446588/9a1c50f74577a15d168a3fb03fb95c8d/720p",
+            "31": "//aniqit.com/seria/446589/8a05bcb381d64ceac42e057d0e548551/720p",
+            "32": "//aniqit.com/seria/449653/0ce043962587b950223f26a35d3934e0/720p",
+            "33": "//aniqit.com/seria/449654/0a1569b69e8645b59d66980163b7e201/720p",
+            "34": "//aniqit.com/seria/449655/897293524e95faf4a260d85b7d2be2c1/720p",
+            "35": "//aniqit.com/seria/450919/284e8b462954eaddef0e3a19c5e4f446/720p",
+            "36": "//aniqit.com/seria/452190/1ef02879e8865c50893245f1e98e919d/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Цирк марионеток",
+        "title_en": "Karakuri Circus",
+        "other_titles": [
+          "Цирковые трюки"
+        ],
+        "other_titles_en": [
+          "Le Cirque de Karakuri"
+        ],
+        "other_titles_jp": [
+          "からくりサーカス"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2018,
+        "description": "После смерти отца Масару Сайга получил в наследство огромное состояние. Однако радоваться ему рано, ведь теперь люди жаждут заполучить его и не остановятся ни перед чем, даже перед убийством. Нападения не пришлось долго ждать: какие-то странные фигуры атаковали Масару, и спасся он только благодаря помощи Наруми Като. В ходе ожесточённой схватки выясняется, что напавшие вовсе не люди, а деревянные марионетки, наделённые нечеловеческой силой. Бой ведётся не на равных, и Наруми, понимая, что не может справиться, уже начинает бояться, что Масару всё-таки похитят, появляется Широганэ. Она объявляет, что является опекуном Масару и прибыла из Франции с оружием — куклой ]. Вот тут и начинается история цирка марионеток.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1221619.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/624084782beb71d0bfd14b92e732637b2c15be5e.jpg",
+          "https://shikimori.one/system/screenshots/original/58def7dfe71a1118c2d13d8b67078afa5da57882.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "детектив",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Драма",
+          "Приключения",
+          "Сёнен",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Studio VOLN"
+        ],
+        "imdb_rating": 7,
+        "imdb_votes": 230,
+        "shikimori_rating": 7.08,
+        "shikimori_votes": 2391,
+        "premiere_world": "2018-10-11",
+        "aired_at": "2018-10-11",
+        "released_at": "2019-06-27",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 36,
+        "episodes_aired": 36,
+        "actors": [
+          "Тосио Фурукава",
+          "Мэгуми Хаясибара",
+          "Рикия Кояма",
+          "Тихиро Уэда",
+          "Хисаси Эгава",
+          "Дзюн Фукуяма",
+          "Тосио Фурукава",
+          "Кэндзи Хамада",
+          "Кацухиса Хоки",
+          "Марина Иноэ"
+        ],
+        "directors": [
+          "Сатоси Нисимура"
+        ],
+        "composers": [
+          "Юки Хаяси"
+        ]
+      }
+    },
+    {
+      "id": "serial-17369",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Внук мудреца",
+      "title_orig": "Kenja no Mago",
+      "other_title": "Wise Man's Grandchild",
+      "translation": {
+        "id": 739,
+        "title": "Animedia",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1253881",
+      "imdb_id": "tt9828724",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9826",
+      "shikimori_id": "36407",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-07-05T15:58:57Z",
+      "updated_at": "2019-07-05T15:59:39Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/453547/25fd12ce18c647a01565dcf0bc936b17/720p",
+            "2": "//aniqit.com/seria/453548/0f278e6b216ab0c7046363637a97ce79/720p",
+            "3": "//aniqit.com/seria/453549/9b643b2e95e8860e0ae647ce4c6367bd/720p",
+            "4": "//aniqit.com/seria/453550/ad1899d816cc82f1b2f5946d72d7fcdb/720p",
+            "5": "//aniqit.com/seria/453551/7e0e65f86e69fc0c743715cc02d0b7a3/720p",
+            "6": "//aniqit.com/seria/453552/301ddb92d6568ca1e0f5bfdc76e42df6/720p",
+            "7": "//aniqit.com/seria/453553/a9c84c3f750b6d3f3ee71af7a74b7d52/720p",
+            "8": "//aniqit.com/seria/453554/12f737bce6b2bbd532a5d8f4e7cb3686/720p",
+            "9": "//aniqit.com/seria/453555/f71a226ed6ae5829ed2c28fd04512455/720p",
+            "10": "//aniqit.com/seria/453556/037415ca9fa480f3df9ee65256e91d4f/720p",
+            "11": "//aniqit.com/seria/453557/b7926e60d1ca7673adf996f5bd995e66/720p",
+            "12": "//aniqit.com/seria/453558/3ae5814f19678d3c00480152b3e0b0a1/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Внук мудреца",
+        "title_en": "Kenja no Mago",
+        "other_titles": [
+          "Philosopher's Grandson",
+          "Magi's Grandson"
+        ],
+        "other_titles_en": [
+          "Wise Man's Grandchild"
+        ],
+        "other_titles_jp": [
+          "賢者の孫"
+        ],
+        "anime_license_name": "Внук мудреца",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "Однажды офисный работник Син умирает и перерождается в другом мире, где правит магия. Юного Сина приютил мудрец Мерлин и вырастил из него выдающегося волшебника. Однако тот жил в отшельничестве, поэтому Син ничего не знает о внешнем мире. Чтобы это исправить, его оправляют в королевскую школу волшебства.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1253881.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/a6c290b86a6820620066ede43d6ece13760aa00f.png",
+          "https://shikimori.one/system/screenshots/original/275ecaf92b5e49dc3c436e457d849e0b4905fa8a.png"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Магия",
+          "Романтика",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "SILVER LINK."
+        ],
+        "kinopoisk_rating": 6.3,
+        "kinopoisk_votes": 2028,
+        "imdb_rating": 6.8,
+        "imdb_votes": 1038,
+        "shikimori_rating": 6.54,
+        "shikimori_votes": 16471,
+        "premiere_world": "2019-04-10",
+        "aired_at": "2019-04-10",
+        "released_at": "2019-06-26",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Рина Хоноидзуми",
+          "Сёхэй Комацу",
+          "Юсукэ Кобаяси",
+          "Гара Такасима",
+          "Мииу Кубота",
+          "Аои Кога",
+          "Юки Вакаи",
+          "Юсаку Яра"
+        ],
+        "directors": [
+          "Масафуми Тамура"
+        ]
+      }
+    },
+    {
+      "id": "serial-16331",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Ванпанчмен [ТВ-2]",
+      "title_orig": "One Punch Man (2019)",
+      "other_title": "Ванпанчмен 2",
+      "translation": {
+        "id": 739,
+        "title": "Animedia",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 2,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "942544",
+      "imdb_id": "tt4508902",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8946",
+      "shikimori_id": "34134",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-04-12T10:04:20Z",
+      "updated_at": "2019-07-05T15:54:32Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "//aniqit.com/seria/426191/71bcc74cc410a1393f6c15f124de3a7f/720p",
+            "2": "//aniqit.com/seria/436196/16841d3a125e96042f353e6ac27e42c8/720p",
+            "3": "//aniqit.com/seria/436197/4062a216b11faf8135ab9b0225f120c5/720p",
+            "4": "//aniqit.com/seria/436198/bd11b41a36bae144bcf5bd4e6b3a419d/720p",
+            "5": "//aniqit.com/seria/436199/d75712f5b235668787ae1c1aeda555fc/720p",
+            "6": "//aniqit.com/seria/440655/7d57356645df085f714ab73cf26993b1/720p",
+            "7": "//aniqit.com/seria/440656/8eddcd867e68b2048abb45091d7f5ad2/720p",
+            "8": "//aniqit.com/seria/448641/2d40712627cc30eec6eb6fada64f32b3/720p",
+            "9": "//aniqit.com/seria/448642/39e7704c94a6b5b9cb00ebea10b5db2f/720p",
+            "10": "//aniqit.com/seria/448643/d8757b13611f3629642670033803b2da/720p",
+            "11": "//aniqit.com/seria/451429/1bb1542493dc09ebeb28221adbb2683d/720p",
+            "12": "//aniqit.com/seria/453546/6536b811eb658e81e11947d5c22833f6/720p"
+          }
+        }
+      },
+      "material_data": {
+        "title": "Ванпанчмен",
+        "title_en": "One Punch Man",
+        "other_titles": [
+          "One Punch-Man 2",
+          "One-Punch Man 2",
+          "OPM 2"
+        ],
+        "other_titles_jp": [
+          "ワンパンマン"
+        ],
+        "anime_license_name": "Ванпанчмен 2",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2015,
+        "description": "Парень по имени Сайтама живёт в мире, иронично похожем на наш. Ему 25, он лыс и прекрасен и к тому же силен настолько, что с одного удара аннигилирует всё, что представляет опасность для человечества. Он ищет себя в этой жизни, попутно раздавая подзатыльники монстрам и злодеям.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/942544.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/2c443983fbd35a5529c8cd5d97afcb987d0648b7.png",
+          "https://shikimori.one/system/screenshots/original/0d6fa2a87b4570be90e6a8c629b3b73c2c7c277c.png"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Пародия",
+          "Сверхъестественное",
+          "Супер сила",
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "J.C.Staff"
+        ],
+        "kinopoisk_rating": 8.4,
+        "kinopoisk_votes": 49808,
+        "imdb_rating": 8.8,
+        "imdb_votes": 114309,
+        "shikimori_rating": 7.42,
+        "shikimori_votes": 42255,
+        "premiere_ru": "2017-08-31",
+        "premiere_world": "2015-10-01",
+        "aired_at": "2019-04-10",
+        "released_at": "2019-07-03",
+        "rating_mpaa": "R",
+        "minimal_age": 12,
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Макото Фурукава",
+          "Каито Исикава",
+          "Ёдзи Уэда",
+          "Синъя Хамадзоэ",
+          "Ёсиаки Хасэгава",
+          "Сёта Ямамото",
+          "Хироки Гото",
+          "Канами Сато",
+          "Каэдэ Юаса",
+          "Хиромити Тэдзука"
+        ],
+        "directors": [
+          "Синго Нацумэ",
+          "Ёсукэ Хатта",
+          "Нобухиро Муто",
+          "Синъитиро Усидзима",
+          "Сюнъити Ёсидзава",
+          "Акицугу Хисаги",
+          "Минору Ямаока"
+        ],
+        "producers": [
+          "Сатоси Адати",
+          "Юитиро Фукуси",
+          "Кэндзи Хамада",
+          "Нобуюки Хосоя",
+          "Кэйта Кодама",
+          "Тинацу Мацуи",
+          "Мио Мороэ",
+          "Мами Окада",
+          "Юити Осида",
+          "Кэн Сасаки"
+        ],
+        "writers": [
+          "Онэ",
+          "Томохиро Судзуки"
+        ],
+        "composers": [
+          "Макото Миядзаки"
+        ],
+        "editors": [
+          "Касико Кимура"
+        ],
+        "designers": [
+          "Сигэми Икэда",
+          "Юкико Маруяма"
+        ],
+        "operators": [
+          "Аканэ Фукухара"
+        ]
+      }
+    },
+    {
+      "id": "movie-39359",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Смерть ростовщика",
+      "title_orig": "Смерть ростовщика",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 1967,
+      "kinopoisk_id": "664630",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-05T07:53:26Z",
+      "updated_at": "2019-07-05T07:53:26Z",
+      "material_data": {
+        "title": "Смерть ростовщика",
+        "title_en": "",
+        "year": 1966,
+        "description": "В фильме с исключительной психологической глубиной выведен образ скряги - Кори Ишкамбы, отвратительного стяжателя и эксплуататора, ханжи и лицемера, имя которого стало нарицательным.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/664630.jpg",
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "premiere_world": "1967-03-20",
+        "actors": [
+          "Захир Дустматов",
+          "Хабибулло Абдураззаков",
+          "Ато Мухамеджанов",
+          "Абдурахим Кудусов",
+          "Сановбар Бакаева",
+          "Абдусалом Рахимов",
+          "Зухра Хасанова",
+          "Алигер Ходжаев",
+          "Захир Дусматов"
+        ],
+        "directors": [
+          "Тахир Сабиров"
+        ],
+        "writers": [
+          "Игорь Луковский"
+        ],
+        "composers": [
+          "Зиядулло Шахиди"
+        ],
+        "designers": [
+          "Давид Ильябаев"
+        ],
+        "operators": [
+          "Анвар Мансуров"
+        ]
+      }
+    },
+    {
+      "id": "movie-39360",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Контрольная полоса",
+      "title_orig": "Kontrolnaya polosa",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1980,
+      "kinopoisk_id": "503146",
+      "imdb_id": "tt5508442",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-05T07:51:44Z",
+      "updated_at": "2019-07-05T07:51:44Z",
+      "material_data": {
+        "title": "Контрольная полоса",
+        "title_en": "",
+        "year": 1980,
+        "description": "При попытке перейти Государственную границу СССР был задержан и покончил с собой резидент одной из западных разведок, который хотел вынести с советской территории фотопленку, отснятую на одном из оборонных объектов.\n\rИз-за границы посылают за дубликатом пленки внучку одного из ближайших сподвижников басмачевского главаря Ибрагимбека, унаследовавшую от деда лютую ненависть к Советской стране, и сына человека, продавшего Родину в годы войны...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/503146.jpg",
+        "duration": 75,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "приключения"
+        ],
+        "premiere_world": "1981-06-19",
+        "actors": [
+          "Олег Штефанко",
+          "Георгий Дарчиашвили",
+          "Сергей Чернядьев",
+          "Карина Арменянц",
+          "Михаил Чигарёв",
+          "Мухамадали Махмадов",
+          "Хабибулло Абдураззаков",
+          "Юрий Горобец",
+          "Гурминч Завкибеков",
+          "Ато Мухамеджанов"
+        ],
+        "directors": [
+          "Юсуф Азизбаев"
+        ],
+        "writers": [
+          "Александр Антокольский",
+          "Абдусалом Гафаров"
+        ],
+        "composers": [
+          "Валентин Спасский"
+        ],
+        "designers": [
+          "Владимир Мякота"
+        ],
+        "operators": [
+          "Ростислав Пирумов"
+        ]
+      }
+    },
+    {
+      "id": "movie-39361",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Измена",
+      "title_orig": "Izmena",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 1967,
+      "kinopoisk_id": "412948",
+      "imdb_id": "tt1212096",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-05T07:50:08Z",
+      "updated_at": "2019-07-05T07:50:08Z",
+      "material_data": {
+        "title": "Измена",
+        "title_en": "",
+        "year": 1967,
+        "description": "Гражданская война в Средней Азии. Один из красных отрядов окружён бандитами. Вырвавшись из засады, его командир Асад обвиняет в измене военкома и убивает его. Сын убитого пытается доказать невиновность отца. А командир Асад вступает в сговор с басмачами...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/412948.jpg",
+        "duration": 82,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма",
+          "история",
+          "приключения"
+        ],
+        "premiere_world": "1967-08-07",
+        "actors": [
+          "Хабибулло Абдураззаков",
+          "Исамат Эргашев",
+          "Александр Баранов",
+          "Абдулхайр Касымов",
+          "Зульфира Хасанова",
+          "Ораз Ходжаев",
+          "Гуллук Ходжаев",
+          "Иван Кузнецов",
+          "Ходжакули Рахматуллаев",
+          "Нозукмо Шомансурова"
+        ],
+        "directors": [
+          "Тахир Сабиров"
+        ],
+        "writers": [
+          "Игорь Луковский",
+          "Тахир Сабиров"
+        ],
+        "composers": [
+          "Фаттох Одина"
+        ],
+        "designers": [
+          "Давид Ильябаев"
+        ],
+        "operators": [
+          "Анвар Мансуров"
+        ]
+      }
+    },
+    {
+      "id": "movie-39362",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Зори Парижа",
+      "title_orig": "Zori Parizha",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1937,
+      "kinopoisk_id": "45401",
+      "imdb_id": "tt0129289",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-05T07:49:29Z",
+      "updated_at": "2019-07-05T07:49:29Z",
+      "material_data": {
+        "title": "Зори Парижа",
+        "title_en": "",
+        "year": 1936,
+        "description": "Посвящен Парижским коммунарам, в частности польскому революционеру-демократу, главнокомандующему вооруженными силами Парижской Коммуны (1871) - Ярославу Домбровскому, погибшему в бою с версальцами.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/45401.jpg",
+        "duration": 101,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма",
+          "история"
+        ],
+        "kinopoisk_rating": 6.5,
+        "kinopoisk_votes": 112,
+        "imdb_rating": 6.4,
+        "imdb_votes": 19,
+        "premiere_world": "1937-03-16",
+        "actors": [
+          "Николай Плотников",
+          "Антонина Максимова",
+          "Андрей Абрикосов",
+          "Виктор Станицын",
+          "Дмитрий Дорлиак",
+          "Анатолий Горюнов",
+          "Владимир Белокуров",
+          "Вера Марецкая",
+          "Николай Асланов",
+          "Наум Рогожин"
+        ],
+        "directors": [
+          "Григорий Рошаль"
+        ],
+        "writers": [
+          "Григорий Рошаль",
+          "Георгий Шаховской"
+        ],
+        "composers": [
+          "Николай Крюков"
+        ],
+        "designers": [
+          "Иосиф Шпинель",
+          "Александр Жаренов"
+        ],
+        "operators": [
+          "Леонид Косматов",
+          "Семен Шейнин"
+        ]
+      }
+    },
+    {
+      "id": "movie-39364",
+      "type": "russian-movie",
+      "link": "",
+      "title": "А у нас была тишина...",
+      "title_orig": "A u nas byla tishina...",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1978,
+      "kinopoisk_id": "43392",
+      "imdb_id": "tt0147807",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-05T07:45:31Z",
+      "updated_at": "2019-07-05T07:45:31Z",
+      "material_data": {
+        "title": "А у нас была тишина...",
+        "title_en": "",
+        "year": 1978,
+        "description": "Уже взрослый человек вспоминает свое военное детство. В северном городке Заозерье, несмотря на тяжелые годы, люди продолжали жить, любить, петь и ждать вести с фронта...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/43392.jpg",
+        "duration": 83,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "военный",
+          "драма"
+        ],
+        "kinopoisk_rating": 7.2,
+        "kinopoisk_votes": 136,
+        "imdb_rating": 6.6,
+        "imdb_votes": 9,
+        "premiere_world": "1978-02-17",
+        "minimal_age": 12,
+        "actors": [
+          "Алексей Черствов",
+          "Тамара Сёмина",
+          "Любовь Соколова",
+          "Римма Маркова",
+          "Елизавета Никищихина",
+          "Светлана Пенкина",
+          "Елена Максимова",
+          "Елена Драпеко",
+          "Юрий Чулюкин",
+          "Анатолий Солоницын"
+        ],
+        "directors": [
+          "Владимир Шамшурин"
+        ],
+        "writers": [
+          "Борис Шустров"
+        ],
+        "composers": [
+          "Евгений Птичкин"
+        ],
+        "designers": [
+          "Вадим Кислых",
+          "Ирина Шляпникова"
+        ],
+        "operators": [
+          "Игорь Мельников"
+        ]
+      }
+    },
+    {
+      "id": "movie-39365",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Балтийская слава",
+      "title_orig": "Baltiyskaya slava",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1957,
+      "kinopoisk_id": "46021",
+      "imdb_id": "tt0050165",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-05T07:43:16Z",
+      "updated_at": "2019-07-05T07:43:16Z",
+      "material_data": {
+        "title": "Балтийская слава",
+        "title_en": "",
+        "year": 1957,
+        "description": "Фильм о борьбе моряков Балтийского флота за революционный Петроград осенью 1917 года. В центре фильма судьбы матроса и морского офицера, которые встают в ряды борцов за революцию.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/46021.jpg",
+        "duration": 94,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма",
+          "история"
+        ],
+        "kinopoisk_rating": 6,
+        "kinopoisk_votes": 149,
+        "imdb_rating": 6.2,
+        "imdb_votes": 9,
+        "premiere_world": "1958-02-22",
+        "minimal_age": 0,
+        "actors": [
+          "Иосиф Кутянский",
+          "Павел Кадочников",
+          "Леонид Кмит",
+          "Николай Макеев",
+          "Михаил Иванов",
+          "Инна Выходцева",
+          "Наталья Каташева",
+          "Герман Орлов",
+          "Владислав Стржельчик",
+          "Ефим Копелян"
+        ],
+        "directors": [
+          "Ян Фрид"
+        ],
+        "writers": [
+          "Алексей Зиновьев"
+        ],
+        "composers": [
+          "Гавриил Попов"
+        ],
+        "designers": [
+          "Алексей Рудяков"
+        ],
+        "operators": [
+          "Вениамин Левитин"
+        ]
+      }
+    },
+    {
+      "id": "movie-39366",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Человек из страны Грин",
+      "title_orig": "Chelovek iz strany Grin",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1983,
+      "kinopoisk_id": "467946",
+      "imdb_id": "tt2198826",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-05T07:42:28Z",
+      "updated_at": "2019-07-05T07:42:28Z",
+      "material_data": {
+        "title": "Человек из страны Грин",
+        "title_en": "",
+        "year": 1983,
+        "description": "По мотивам романа А.Грина “Дорога никуда” и других произведений писателя.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/467946.jpg",
+        "duration": 131,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 7.1,
+        "kinopoisk_votes": 137,
+        "imdb_rating": 8.1,
+        "imdb_votes": 8,
+        "actors": [
+          "Антон Яковлев",
+          "Александр Сергеев",
+          "Евгений Евстигнеев",
+          "Алексей Петренко",
+          "Юрий Гребенщиков",
+          "Юрий Богатырев",
+          "Ирина Тельпугова",
+          "Катя Диденко",
+          "Галина Соколова",
+          "Ирина Юревич"
+        ],
+        "directors": [
+          "Тамара Павлюченко"
+        ],
+        "writers": [
+          "Вадим Коростылев",
+          "Александр Грин"
+        ],
+        "composers": [
+          "Геннадий Гладков",
+          "Сергей Анашкин"
+        ],
+        "designers": [
+          "Валерий Вейцлер"
+        ],
+        "operators": [
+          "Дмитрий Гуторин"
+        ]
+      }
+    },
+    {
+      "id": "movie-39367",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Чужие дети",
+      "title_orig": "Skhvisi shvilebi",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1958,
+      "kinopoisk_id": "43822",
+      "imdb_id": "tt0051478",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-05T07:41:36Z",
+      "updated_at": "2019-07-05T07:41:36Z",
+      "material_data": {
+        "title": "Чужие дети",
+        "title_en": "",
+        "year": 1958,
+        "description": "Студентка Нато познакомилась на улице с двумя маленькими детьми, а вскоре и с их отцом, переживающим сложный период в отношениях с любимой женщиной. Нато, привязавшись к детям, выходит замуж за их отца, и... скоро остается одна с двумя детьми на руках.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/43822.jpg",
+        "duration": 77,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма",
+          "мелодрама",
+          "семейный"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 428,
+        "imdb_rating": 7.2,
+        "imdb_votes": 203,
+        "premiere_world": "1958-07-06",
+        "minimal_age": 12,
+        "actors": [
+          "Цицино Цицишвили",
+          "Нина Зорская",
+          "Отар Коберидзе",
+          "Борис Кордунов",
+          "А. Кандаурашвили",
+          "Светлана Коновалова",
+          "Нани Чиквинидзе",
+          "Маргарита Корабельникова",
+          "Михо Борашвили",
+          "Александра Харитонова"
+        ],
+        "directors": [
+          "Тенгиз Абуладзе"
+        ],
+        "writers": [
+          "Тенгиз Абуладзе",
+          "Резо Джапаридзе",
+          "Нина Александрова"
+        ],
+        "composers": [
+          "Арчил Кереселидзе"
+        ],
+        "editors": [
+          "Василий Доленко"
+        ],
+        "designers": [
+          "Кахабер Хуцишвили"
+        ],
+        "operators": [
+          "Леван Пааташвили"
+        ]
+      }
+    },
+    {
+      "id": "movie-39335",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Дети солнца",
+      "title_orig": "Deti solntsa",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1956,
+      "kinopoisk_id": "44162",
+      "imdb_id": "tt0049137",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-05T07:33:15Z",
+      "updated_at": "2019-07-05T07:33:15Z",
+      "material_data": {
+        "title": "Дети солнца",
+        "title_en": "",
+        "year": 1956,
+        "description": "Провинциальный русский город начала XX в. Один из его обитателей, учёный-химик Павел Протасов, не замечая социальных несправедливостей и жестокости окружающей жизни, мечтает о красивом и сильном племени людей будущего — «детях солнца». Погруженный в работу, добрый и мягкий по натуре человек, он обрекает на тягостное одиночество свою жену Елену, не видит страданий сестры Лизы, подавленной вечным страхом перед миром пошлости, зла и насилия. Любовь художника Вагина к Елене Протасов воспринимает лишь как досадную помеху, отрывающую его от работы. Он теряется, узнав о том, что в него влюблена богатая купчиха Мелания. Вскоре трагическое известие нарушает внешний покой дома Протасова...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/44162.jpg",
+        "duration": 152,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "premiere_world": "1956-08-23",
+        "actors": [
+          "Михаил Романов",
+          "Т. Семичева",
+          "Лидия Карташова",
+          "Вера Предаевич",
+          "Юрий Лавров",
+          "Олег Борисов",
+          "Сергей Петров"
+        ],
+        "directors": [
+          "Алексей Швачко"
+        ],
+        "writers": [
+          "Максим Горький"
+        ],
+        "composers": [
+          "Лев Соковнин"
+        ],
+        "designers": [
+          "Николай Резник"
+        ],
+        "operators": [
+          "Сергей Ревенко"
+        ]
+      }
+    },
+    {
+      "id": "movie-39336",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Десять шагов к Востоку",
+      "title_orig": "Desyat shagov k vostoku",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1961,
+      "kinopoisk_id": "574465",
+      "imdb_id": "tt6168188",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-05T07:32:41Z",
+      "updated_at": "2019-07-05T07:32:41Z",
+      "material_data": {
+        "title": "Десять шагов к Востоку",
+        "title_en": "",
+        "year": 1960,
+        "description": "В десяти шагах от круглого столба в развалинах старой крепости Кум-Басан-Кала спрятаны секретные донесения, которые должны быть доставлены за границу. За этими документами иностранная разведка присылает своего шпиона.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/574465.jpg",
+        "duration": 62,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "детектив",
+          "приключения"
+        ],
+        "premiere_world": "1961-08-07",
+        "actors": [
+          "Артык Джаллыев",
+          "Аман Кульмамедов",
+          "Евгений Марков",
+          "Феликс Яворский",
+          "Кулькеши Кульмурадов",
+          "Юрий Соковнин",
+          "Дурды Сапаров",
+          "Михаил Федоров",
+          "Мурад Курбанклычев",
+          "Сарры Каррыев"
+        ],
+        "directors": [
+          "Хангельды Агаханов",
+          "Виктор Зак"
+        ],
+        "writers": [
+          "Александр Абрамов",
+          "Михаил Писманник"
+        ],
+        "composers": [
+          "Микаэл Таривердиев",
+          "Вели Мухатов"
+        ],
+        "operators": [
+          "Герман Лавров"
+        ]
+      }
+    },
+    {
+      "id": "movie-39337",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Дома вдовца",
+      "title_orig": "Doma vdovtsa",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1975,
+      "kinopoisk_id": "467944",
+      "imdb_id": "tt6147184",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-05T07:30:51Z",
+      "updated_at": "2019-07-05T07:30:51Z",
+      "material_data": {
+        "title": "Дома вдовца",
+        "title_en": "",
+        "year": 1975,
+        "description": "По одноимённой повести английского драматурга Бернарда Шоу из цикла «Пьесы неприятные». Двое друзей, Гарри и Уильям, в путешествии знакомятся с респектабельным мистером Сарториусом и его прелестной дочерью Бланш. Гарри влюбляется в Бланш и делает ей предложение. Но неожиданно открывается, что всё своё состояние Сарториус нажил на махинациях. Как поступить честному молодому человеку?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/467944.jpg",
+        "duration": 101,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "premiere_world": "1975-11-22",
+        "actors": [
+          "Леонид Галлис",
+          "Анастасия Вертинская",
+          "Валентин Гафт",
+          "Александра Назарова",
+          "Всеволод Шиловский",
+          "Олег Шкловский"
+        ],
+        "directors": [
+          "Леонид Галлис",
+          "Галина Соколова"
+        ],
+        "writers": [
+          "Джордж Бернард Шоу"
+        ],
+        "designers": [
+          "Александр Грачев"
+        ],
+        "operators": [
+          "Геннадий Алексеев"
+        ]
+      }
+    },
+    {
+      "id": "movie-39338",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Детство. Отрочество. Юность",
+      "title_orig": "Detstvo. Otrochestvo. Yunost",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1973,
+      "kinopoisk_id": "469774",
+      "imdb_id": "tt6103416",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-07-05T07:30:44Z",
+      "updated_at": "2019-07-05T07:30:44Z",
+      "material_data": {
+        "title": "Детство. Отрочество. Юность",
+        "title_en": "",
+        "year": 1973,
+        "description": "Николай Иртеньев, став взрослым человеком, предается воспоминаниям и анализирует прожитую жизнь. Он стремится найти ответы на главные для каждого человека вопросы: каким надо быть, как поступать правильно, к чему стремиться?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/469774.jpg",
+        "duration": 235,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 6.8,
+        "kinopoisk_votes": 149,
+        "minimal_age": 16,
+        "actors": [
+          "Владимир Корецкий",
+          "Димитрий Кречетов",
+          "Маргарита Терехова",
+          "Михаил Козаков",
+          "Александр Калягин",
+          "Евдокия Урусова",
+          "Софья Фадеева",
+          "Алексей Эйбоженко",
+          "Михаил Кокшенов",
+          "Екатерина Васильева"
+        ],
+        "directors": [
+          "Петр Фоменко"
+        ],
+        "writers": [
+          "Петр Фоменко",
+          "Яков Гордин",
+          "Лев Толстой"
+        ],
+        "composers": [
+          "Игорь Морозов"
+        ],
+        "operators": [
+          "Андрей Тюпкин"
+        ]
+      }
+    },
+    {
       "id": "movie-39339",
       "type": "russian-movie",
       "link": "",
@@ -5585,1805 +7356,6 @@
         ],
         "operators": [
           "Александр Чечулин"
-        ]
-      }
-    },
-    {
-      "id": "movie-39186",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Мусоргский",
-      "title_orig": "Musorgskiy",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1950,
-      "kinopoisk_id": "46738",
-      "imdb_id": "tt0042765",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-03T06:27:21Z",
-      "updated_at": "2019-07-03T06:27:21Z",
-      "material_data": {
-        "title": "Мусоргский",
-        "title_en": "",
-        "year": 1950,
-        "tagline": "with the glorious music of BORIS GUDONOV",
-        "description": "Фильм рассказывает о великом русском композиторе Модесте Петровиче Мусоргском, его сотрудничестве с «Могучей кучкой» и первой постановке на сцене Мариинского театра оперы «Борис Годунов».",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/46738.jpg",
-        "duration": 120,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "биография",
-          "драма"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 286,
-        "imdb_rating": 6.9,
-        "imdb_votes": 46,
-        "premiere_world": "1950-11-27",
-        "minimal_age": 0,
-        "actors": [
-          "Александр Борисов",
-          "Николай Черкасов",
-          "Владимир Балашов",
-          "Андрей Попов",
-          "Бруно Фрейндлих",
-          "Федор Никитин",
-          "Любовь Орлова",
-          "Лидия Штыкан",
-          "Валентина Ушакова",
-          "Лидия Сухаревская"
-        ],
-        "directors": [
-          "Григорий Рошаль"
-        ],
-        "writers": [
-          "Анна Абрамова",
-          "Григорий Рошаль"
-        ],
-        "composers": [
-          "Дмитрий Кабалевский"
-        ],
-        "editors": [
-          "В. Миронова"
-        ],
-        "designers": [
-          "Николай Суворов",
-          "Абрам Векслер",
-          "Евгения Словцова"
-        ],
-        "operators": [
-          "Моисей Магид",
-          "Лев Сокольский"
-        ]
-      }
-    },
-    {
-      "id": "movie-39190",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Крепость",
-      "title_orig": "Krepost",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1979,
-      "kinopoisk_id": "94097",
-      "imdb_id": "tt0425176",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-03T06:15:15Z",
-      "updated_at": "2019-07-03T06:15:15Z",
-      "material_data": {
-        "title": "Крепость",
-        "title_en": "",
-        "year": 1979,
-        "tagline": "Освободить заключённых любой ценой",
-        "description": "Идёт последний год Второй Мировой войны. Подразделению десантников под командованием подполковника Калитина поручено проведение секретного спецзадания по освобождению европейских учёных, удерживаемых в неприступной крепости на острове в Адриатическом море.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/94097.jpg",
-        "duration": 88,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "боевик",
-          "военный",
-          "драма"
-        ],
-        "kinopoisk_rating": 5.7,
-        "kinopoisk_votes": 147,
-        "imdb_rating": 5.6,
-        "imdb_votes": 12,
-        "minimal_age": 12,
-        "actors": [
-          "Эммануил Виторган",
-          "Альгимантас Масюлис",
-          "Константин Константинов",
-          "Ион Сандри Шкуря",
-          "Валериу Купча",
-          "Паул Буткевич",
-          "Улдис Лиелдидж",
-          "Петр Баракчи",
-          "Всеволод Гаврилов",
-          "Владимир Мсрян"
-        ],
-        "directors": [
-          "Василе Паскару"
-        ],
-        "writers": [
-          "Георгий Тер-Ованесов",
-          "Василе Паскару"
-        ],
-        "composers": [
-          "Дживан Тер-Татевосян"
-        ],
-        "editors": [
-          "Елена Япринцева"
-        ],
-        "designers": [
-          "Василий Зачиняев",
-          "Л. Гилко",
-          "Николай Слюсарь"
-        ],
-        "operators": [
-          "Влад Чуря"
-        ]
-      }
-    },
-    {
-      "id": "movie-39191",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Ветер с востока",
-      "title_orig": "Veter s vostoka",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1941,
-      "kinopoisk_id": "603248",
-      "imdb_id": "tt2016333",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-03T06:05:43Z",
-      "updated_at": "2019-07-03T06:05:43Z",
-      "material_data": {
-        "title": "Ветер с востока",
-        "title_en": "",
-        "year": 1940,
-        "description": "Конец тридцатых годов. В западноукраинском селе Лентовня властвует помещица графиня Пшежинская. Она отнимает последний клочок земли у бедняка Хомы Габрыся, потому что через его участок проходит новая дорога к ее замку. Возмущенный Хома Габрысь в знак протеста уносит со своего поля два мешка земли. \n\rЕго штрафуют и герой попадает в еще большую кабалу к графине. Тем временем в Лентовню приезжает молодая учительница Ганна. Она наблюдает за несправедливостью панов по отношению к крестьянам. Ее религиозные иллюзии быстро рассеиваются, и вскоре учительница начинает сочувствовать и помогать большевикам...",
-        "duration": 88,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "драма",
-          "история"
-        ],
-        "premiere_world": "1941-02-04",
-        "actors": [
-          "Амвросий Бучма",
-          "Татьяна Кондракова",
-          "Валентина Бжеская-Бучма",
-          "Ю. Островой",
-          "Борис Авшаров",
-          "Ольга Жизнева",
-          "Ростислав Плятт",
-          "Сергей Мартинсон",
-          "Е. Курило",
-          "Стефа Стадникивна"
-        ],
-        "directors": [
-          "Абрам Роом"
-        ],
-        "writers": [
-          "Александр Дубровский",
-          "Василий Кучер",
-          "Ванда Василевская"
-        ],
-        "composers": [
-          "Гавриил Попов"
-        ],
-        "operators": [
-          "Николай Топчий"
-        ]
-      }
-    },
-    {
-      "id": "movie-39192",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Каждый третий",
-      "title_orig": "Kazhdyy tretiy",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1980,
-      "kinopoisk_id": "44752",
-      "imdb_id": "tt0230407",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-03T06:03:54Z",
-      "updated_at": "2019-07-03T06:03:54Z",
-      "material_data": {
-        "title": "Каждый третий",
-        "title_en": "",
-        "year": 1980,
-        "description": "Великая Отечественная война. Трудный путь по вражеским тылам приводит молодого солдата-узбека Рахима в Белоруссию, где герой попадет в партизанский отряд...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/44752.jpg",
-        "duration": 79,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "военный"
-        ],
-        "imdb_rating": 7.2,
-        "imdb_votes": 18,
-        "actors": [
-          "Назим Туляходжаев",
-          "Марина Левтова",
-          "Альгирдас Паулавичюс",
-          "Геннадий Фролов",
-          "Владимир Марков",
-          "Михаил Глузский",
-          "Вера Кузнецова",
-          "Иван Рыжов",
-          "Дагун Омаев",
-          "Нина Розанцева"
-        ],
-        "directors": [
-          "Эдуард Хачатуров"
-        ],
-        "writers": [
-          "Алесь Осипенко",
-          "Назар Сафаров"
-        ],
-        "composers": [
-          "Эдуард Артемьев"
-        ],
-        "designers": [
-          "Валерий Назаров"
-        ],
-        "operators": [
-          "Татьяна Логинова"
-        ]
-      }
-    },
-    {
-      "id": "movie-39194",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Бесприданница",
-      "title_orig": "Bespridannitsa",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1937,
-      "kinopoisk_id": "46101",
-      "imdb_id": "tt0028622",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-03T05:59:05Z",
-      "updated_at": "2019-07-03T05:59:05Z",
-      "material_data": {
-        "title": "Бесприданница",
-        "title_en": "",
-        "year": 1936,
-        "description": "Бесприданница Лариса любит дворянина Паратова, но он внезапно уезжает из города. В отчаянии она соглашается на брак с чиновником Карандышевым. Возвращается Паратов. Вновь поверившая в любовь Лариса отдается своему чувству, не зная, что он обручен. Именитые купцы города уже разыгрывают опозоренную Ларису в орлянку, готовые взять ее в содержанки...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/46101.jpg",
-        "duration": 86,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.1,
-        "kinopoisk_votes": 1121,
-        "imdb_rating": 6.9,
-        "imdb_votes": 120,
-        "premiere_world": "1937-01-26",
-        "minimal_age": 12,
-        "actors": [
-          "Ольга Пыжова",
-          "Нина Алисова",
-          "Анатолий Кторов",
-          "Михаил Климов",
-          "Борис Тенин",
-          "Владимир Попов",
-          "Владимир Балихин",
-          "Варвара Рыжова",
-          "Анастасия Зуева",
-          "Владимир Кенигсон"
-        ],
-        "directors": [
-          "Яков Протазанов"
-        ],
-        "writers": [
-          "Александр Островский",
-          "Яков Протазанов",
-          "Владимир Швейцер"
-        ],
-        "composers": [
-          "Давид Блок"
-        ],
-        "editors": [
-          "В. Эк"
-        ],
-        "designers": [
-          "Анатолий Арапов",
-          "С. Кузнецов"
-        ],
-        "operators": [
-          "Марк Магидсон"
-        ]
-      }
-    },
-    {
-      "id": "movie-39195",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Багряные берега",
-      "title_orig": "Bagryanye berega",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1979,
-      "kinopoisk_id": "465171",
-      "imdb_id": "tt4966218",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-03T05:58:04Z",
-      "updated_at": "2019-07-03T05:58:04Z",
-      "material_data": {
-        "title": "Багряные берега",
-        "title_en": "",
-        "year": 1979,
-        "description": "После окончания Великой Отечественной войны в село Люботин приезжает группа мостостроителей, а вокруг, мешая мирной жизни, бесчинствуют бандеровцы.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/465171.jpg",
-        "duration": 81,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "военный"
-        ],
-        "kinopoisk_rating": 5.6,
-        "kinopoisk_votes": 84,
-        "minimal_age": 12,
-        "actors": [
-          "Владимир Алексеенко",
-          "Евгений Стежко",
-          "Александр Ведерников",
-          "Тамара Дегтярева",
-          "Иван Гаврилюк",
-          "Виктор Мирошниченко",
-          "Борис Миронюк",
-          "Борис Сабуров",
-          "Зинаида Дехтярева",
-          "Виктор Щербаков"
-        ],
-        "directors": [
-          "Ярослав Лупий"
-        ],
-        "writers": [
-          "Олесь Лупий"
-        ],
-        "composers": [
-          "Владимир Губа"
-        ],
-        "designers": [
-          "Юрий Богатыренко",
-          "Иван Пуленко"
-        ],
-        "operators": [
-          "Валерий Башкатов"
-        ]
-      }
-    },
-    {
-      "id": "movie-39196",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Арабелла – дочь пирата",
-      "title_orig": "Arabella, mereröövli tütar",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1983,
-      "kinopoisk_id": "43517",
-      "imdb_id": "tt0251590",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-03T05:56:19Z",
-      "updated_at": "2019-07-03T05:56:19Z",
-      "material_data": {
-        "title": "Арабелла – дочь пирата",
-        "title_en": "",
-        "year": 1983,
-        "description": "Отчаянная и дерзкая Арабелла, дочь капитана пиратского корабля «Скорпион», поощряет во всем своего отца, который охотно делится награбленным с бедными. Девочка раздражает всю команду, а ее отец - Пуля - становится для них главным врагом. \r\n\r\nОднажды пираты поднимают на борт «Скорпиона» странного человека по имени Ааду - и у девочки появляется еще один верный друг и защитник. Им троим - Арабелле, Пуле и Ааду - предстоит вскоре покинуть корабль и пережить немало удивительных приключений на море и на суше...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/43517.jpg",
-        "duration": 69,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "приключения",
-          "семейный"
-        ],
-        "kinopoisk_rating": 6.2,
-        "kinopoisk_votes": 182,
-        "imdb_rating": 6.9,
-        "imdb_votes": 223,
-        "premiere_world": "1983-08-22",
-        "minimal_age": 12,
-        "actors": [
-          "Инга-Кай Пускар-Полонски",
-          "Лембит Петерсон",
-          "Урмас Кибуспуу",
-          "Райво Трасс",
-          "Леело Спирка",
-          "Лембит Ульфсак",
-          "Аарне Юкскюла",
-          "Сулев Луйк",
-          "Эндель Пярн",
-          "Ильмар Таммур"
-        ],
-        "directors": [
-          "Пеэтер Симм"
-        ],
-        "writers": [
-          "Айно Первик",
-          "Пеэтер Симм"
-        ],
-        "composers": [
-          "Яанус Ныгисто"
-        ],
-        "editors": [
-          "Сирье Хаагель"
-        ],
-        "designers": [
-          "Хейкки Халла",
-          "Прийт Вахер",
-          "Гунта Рандла"
-        ],
-        "operators": [
-          "Арво Ихо"
-        ]
-      }
-    },
-    {
-      "id": "movie-39176",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Знамёна самураев",
-      "title_orig": "Fûrin kazan",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1969,
-      "kinopoisk_id": "123510",
-      "imdb_id": "tt0064353",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-02T19:35:30Z",
-      "updated_at": "2019-07-02T19:35:30Z",
-      "material_data": {
-        "title": "Знамёна самураев",
-        "title_en": "Fûrin kazan",
-        "year": 1968,
-        "description": "Феодальная Япония, 1543 — 1562 года. Кансуке Ямамото — самурай, мечтающий о мире и единении своей страны. Он поступает на службу к Такеде, повелителю земли Кай. Он уговаривает Такеду убить повелителя соседней земли Сува. Затем он убеждает дочь Сувы, принцессу Ю, принять условия Такеды и родить ему сына.  Ямамото способствует тому, чтобы наследником стал именно сын Ю.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/123510.jpg",
-        "duration": 165,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "приключения"
-        ],
-        "kinopoisk_rating": 7.5,
-        "kinopoisk_votes": 261,
-        "imdb_rating": 7.1,
-        "imdb_votes": 657,
-        "premiere_world": "1969-02-01",
-        "actors": [
-          "Тосиро Мифунэ",
-          "Ёсико Сакума",
-          "Кинносукэ Накамура",
-          "Юдзиро Исихара",
-          "Кацуо Накамура",
-          "Кандзабуро Накамура",
-          "Канэмон Накамура",
-          "Масакадзу Тамура",
-          "Маюми Одзора",
-          "Кэн Огата"
-        ],
-        "directors": [
-          "Хироси Инагаки"
-        ],
-        "producers": [
-          "Хироси Инагаки",
-          "Тосиро Мифунэ",
-          "Ёсио Нисикава",
-          "Томоюки Танака"
-        ],
-        "writers": [
-          "Синобу Хасимото",
-          "Ясуси Иноэ",
-          "Такэо Кунихиро"
-        ],
-        "composers": [
-          "Масару Сато"
-        ],
-        "editors": [
-          "Ёсихиро Араки"
-        ],
-        "designers": [
-          "Хироси Уэда"
-        ],
-        "operators": [
-          "Кадзуо Ямада"
-        ]
-      }
-    },
-    {
-      "id": "serial-15695",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "И снова здравствуйте!",
-      "title_orig": "Hello Again!",
-      "other_title": "No You Nian Da Xue Ma? / Do you have a college?",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-03-03T19:06:29Z",
-      "updated_at": "2019-07-02T18:55:05Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/411547/716ac297f911be7fab3f543c04d0cb2b/720p",
-            "2": "//kodik.cc/seria/411548/d4e7c9d2e4c1e11a0ea6494afa036fec/720p",
-            "3": "//kodik.cc/seria/423662/44a04aac6d9466a2ce327ccd939e05f4/720p",
-            "4": "//kodik.cc/seria/434014/89cd865c786c38894da77f1a61e6b412/720p",
-            "5": "//kodik.cc/seria/437545/06d91a2175936a1107b57502e337dcb8/720p",
-            "6": "//kodik.cc/seria/440365/ae46136778f098c1c884ebe0c55eb4d9/720p",
-            "7": "//kodik.cc/seria/440618/6cb98b6a92a99e1a9ce2eb91d44caa29/720p",
-            "8": "//kodik.cc/seria/442764/6c11848b35d3b29eabb51a367770befd/720p",
-            "9": "//kodik.cc/seria/444287/1754d548ca9b95c27539f8ab76b61f8f/720p",
-            "10": "//kodik.cc/seria/445825/e5a8f4599f32c60de354c7be3c4058e4/720p",
-            "11": "//kodik.cc/seria/446055/e87abbbba7df523c4d8ef508b4ad0cf6/720p",
-            "12": "//kodik.cc/seria/447122/d5e7ed86d67f026a83182d969fff2db1/720p",
-            "13": "//kodik.cc/seria/448026/aec039e0b71af2be53b81fd5e37dde15/720p",
-            "14": "//kodik.cc/seria/451117/1f4a71113017fb854a3ddd67daffc015/720p",
-            "15": "//kodik.cc/seria/451118/6b169e57fe5c76cc7815dc5199b215e9/720p",
-            "16": "//kodik.cc/seria/452666/d9c8f7a9e0ee0461f45455a88ee28aee/720p"
-          }
-        }
-      }
-    },
-    {
-      "id": "movie-39170",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Как трудно признаться в любви",
-      "title_orig": "Khushi",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2003,
-      "kinopoisk_id": "64234",
-      "imdb_id": "tt0348656",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-02T17:00:14Z",
-      "updated_at": "2019-07-02T17:00:14Z",
-      "material_data": {
-        "title": "Как трудно признаться в любви",
-        "title_en": "Khushi",
-        "year": 2003,
-        "description": "Каран и Кхуши знакомятся в Бомбейском университете и сразу же становятся близкими друзьями. Проходит еще немного времени и они уже не могут жить друг без друга.\n\rНо оба очень самолюбивы, часто ссорятся и никак не решаются признаться друг другу в любви. Поэтому и разъезжаются на каникулы, не объяснившись. А дома отец Кхуши, которому она тоже ничего не рассказала про свои чувства, подобрал ей жениха…",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/64234.jpg",
-        "duration": 166,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 318,
-        "imdb_rating": 4.4,
-        "imdb_votes": 1524,
-        "premiere_world": "2003-02-07",
-        "minimal_age": 0,
-        "actors": [
-          "Фардин Кхан",
-          "Карина Капур",
-          "Амриш Пури",
-          "Амитабх Баччан",
-          "Бина",
-          "Радхика Чаудхари",
-          "Джонни Левер",
-          "Мэтт Мур",
-          "Нилофар",
-          "Навин Нисчол"
-        ],
-        "directors": [
-          "Сурья С.Дж.",
-          "Сунил Кумар Агравал"
-        ],
-        "producers": [
-          "Бони Капур",
-          "Канвалиндер Сингх"
-        ],
-        "writers": [
-          "Аман Джаффери",
-          "Болу Кхан",
-          "Сурья С.Дж."
-        ],
-        "composers": [
-          "Ану Малик"
-        ],
-        "editors": [
-          "Мерзин Тавариа"
-        ],
-        "designers": [
-          "Шийам Сундер",
-          "Сабу Сирил",
-          "Шахид Амир",
-          "Мандира Шукла"
-        ],
-        "operators": [
-          "К.В. Гухан"
-        ]
-      }
-    },
-    {
-      "id": "movie-39171",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "В стеклянном доме",
-      "title_orig": "Lives of the Saints",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2004,
-      "kinopoisk_id": "178594",
-      "imdb_id": "tt0367360",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-02T16:59:51Z",
-      "updated_at": "2019-07-02T16:59:51Z",
-      "material_data": {
-        "title": "В стеклянном доме",
-        "title_en": "Lives of the Saints",
-        "year": 2004,
-        "tagline": "A gripping family saga of passion, betrayal and forgiveness.",
-        "description": "Путешествие за океан к отцу, переселившемуся в Канаду, оказалось дорогой Вито во взрослую жизнь: в пути мать умерла, оставив на его руках новорожденную сестру Риту. В 8 лет Рита уходит из дома.\n\rРазлученный с сестрой и поссорившийся с отцом, Вито уезжает на север. Впервые за много лет встретившись с Ритой на похоронах отца, Вито понимает, что, только вернувшись на родину, он сможет пролить свет на семейные тайны...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/178594.jpg",
-        "duration": 181,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "kinopoisk_rating": 7.1,
-        "kinopoisk_votes": 127,
-        "imdb_rating": 6.7,
-        "imdb_votes": 407,
-        "premiere_world": "2004-09-20",
-        "minimal_age": 16,
-        "actors": [
-          "Софи Лорен",
-          "Фэб Филиппо",
-          "Джессика Паре",
-          "Сабрина Ферилли",
-          "Крис Кристофферсон",
-          "Ник Манкузо",
-          "Майкл А. Миранда",
-          "Дженни Рэймонд",
-          "Кейт Троттер",
-          "Стефани Миллс"
-        ],
-        "directors": [
-          "Джерри Чиккоритти"
-        ],
-        "producers": [
-          "Джованна Арата",
-          "Владислав Бартосцевич",
-          "Джозеф Боччиа",
-          "Джастин Бодл",
-          "Джорджо Инноченти",
-          "Габриэлла Мартинелли"
-        ],
-        "writers": [
-          "Малкольм МакРари",
-          "Нино Риччи"
-        ],
-        "composers": [
-          "Армандо Тровайоли"
-        ],
-        "editors": [
-          "Джордж Роулстон"
-        ],
-        "designers": [
-          "Рокко Маттео",
-          "Маурицио Сабатини",
-          "Нил Морфитт",
-          "Альфонсита Леттьери",
-          "Маурицио Милленотти",
-          "Дэльфин Уайт",
-          "Клайв Томассон"
-        ],
-        "operators": [
-          "Фабио Чанкетти"
-        ]
-      }
-    },
-    {
-      "id": "serial-17123",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Берег мечты",
-      "title_orig": "Porto dos Milagres",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2001,
-      "last_season": 1,
-      "last_episode": 190,
-      "episodes_count": 190,
-      "kinopoisk_id": "401611",
-      "imdb_id": "tt0267218",
-      "quality": "VHSRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-03-02T08:38:49Z",
-      "updated_at": "2019-07-02T11:27:26Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "//kodik.cc/seria/446928/36aeb5f813d85b478f5372538e3ad25f/720p",
-            "2": "//kodik.cc/seria/446929/29ddc1a8aa1eceb47e482aad454ec8ca/720p",
-            "3": "//kodik.cc/seria/446930/c1d97537d46c0dca049da40c03734a54/720p",
-            "4": "//kodik.cc/seria/446931/367c8387cc0c22fef5fb3703967c8c09/720p",
-            "5": "//kodik.cc/seria/446932/b8a7bffb210b80438533df65d7d51746/720p",
-            "6": "//kodik.cc/seria/446933/02ad18af1736f7b165b745a7ec072655/720p",
-            "7": "//kodik.cc/seria/446934/f7ec70446e621ae364621e27c20e8ecd/720p",
-            "8": "//kodik.cc/seria/446935/fa77bc709d4b5b4a5db0c458848cc6e5/720p",
-            "9": "//kodik.cc/seria/446936/1c31605f2951c447549dbc2ce63beddf/720p",
-            "10": "//kodik.cc/seria/446937/b1e8607570214fa4f091d7c2b1c653dd/720p",
-            "11": "//kodik.cc/seria/446938/2b479539c4d5f964d80122144c93589d/720p",
-            "12": "//kodik.cc/seria/446939/d9bfd3991cd827c402f32d6fce1cbcad/720p",
-            "13": "//kodik.cc/seria/446940/ecd08b7a20d9702652ce6cd1f763b7ed/720p",
-            "14": "//kodik.cc/seria/446941/7a06c836d90cd5fc9330874e852c8b09/720p",
-            "15": "//kodik.cc/seria/446942/b40f7dff9d50a872fdac10d1c03b17d2/720p",
-            "16": "//kodik.cc/seria/446943/fd42e5cf0b10e5a55fd1e77da2d89f81/720p",
-            "17": "//kodik.cc/seria/446944/80220af05d5067aec830cb472c904970/720p",
-            "18": "//kodik.cc/seria/446945/01af6e388e6d9604ed3a8ddd6c4de7f4/720p",
-            "19": "//kodik.cc/seria/446946/116cda9eabe8ee590e491a651bb8f7ba/720p",
-            "20": "//kodik.cc/seria/446947/b22fe44f1caf04a7f81a56dd1827400c/720p",
-            "21": "//kodik.cc/seria/446948/1edb1c263c13e83fa6a06df0b86180df/720p",
-            "22": "//kodik.cc/seria/446949/234854665228cbfa137789f11bc0f879/720p",
-            "23": "//kodik.cc/seria/446950/1e3d3ab5cbbe73291abd77dec3c42536/720p",
-            "24": "//kodik.cc/seria/446951/958f40057b09ac95972d9204077b6f82/720p",
-            "25": "//kodik.cc/seria/446952/a79b98d6239c7cb817a7937141a4a85c/720p",
-            "26": "//kodik.cc/seria/446953/67520e070f502b0bb144a7fe8e447bd5/720p",
-            "27": "//kodik.cc/seria/446954/c8df4bdf418bf07b5e4b3322cab755c8/720p",
-            "28": "//kodik.cc/seria/446955/8327738f510fae7f64c5931831ae80b5/720p",
-            "29": "//kodik.cc/seria/446956/f6b77496d4e9df478954e23d367f2906/720p",
-            "30": "//kodik.cc/seria/446957/c30c9fda5e24a75609ccb0954ee21692/720p",
-            "31": "//kodik.cc/seria/446958/73803696882adc20786c3d80d2c9504a/720p",
-            "32": "//kodik.cc/seria/446959/769e5a41c19e85b0ec7452348a52fa42/720p",
-            "33": "//kodik.cc/seria/446960/c3c2a8fea44fb888d405802074a9a44e/720p",
-            "34": "//kodik.cc/seria/446961/9cf5d4bfc117053bd2981f7cc9473343/720p",
-            "35": "//kodik.cc/seria/446962/d323b75072ebbbe4af9f6b2991d4a663/720p",
-            "36": "//kodik.cc/seria/446963/5170475834d9bf675557fd4c1312e90a/720p",
-            "37": "//kodik.cc/seria/447135/1a0244fc68bd2f873f3e9783526ec4b3/720p",
-            "38": "//kodik.cc/seria/447136/b4137d4834f51b0eab5682bc01ed4d72/720p",
-            "39": "//kodik.cc/seria/447137/0451a0b559306b46dadcadf6d5916195/720p",
-            "40": "//kodik.cc/seria/447138/eccb92d1b90ede2148dbf7186c22ef82/720p",
-            "41": "//kodik.cc/seria/447139/3db075e979b6edcbeaf833f2d83d9861/720p",
-            "42": "//kodik.cc/seria/447140/02d26d5f6b6b8bb4714df72b1f6c979e/720p",
-            "43": "//kodik.cc/seria/447141/279a33973318919c239abc950b5e3286/720p",
-            "44": "//kodik.cc/seria/447142/b87a18d0fb4c505ed7a98475d0174f37/720p",
-            "45": "//kodik.cc/seria/447143/dcdb4458a7e3a8472464ff9758f68926/720p",
-            "46": "//kodik.cc/seria/447144/74e59f40d26ce9e45b21f9b24bafba44/720p",
-            "47": "//kodik.cc/seria/447145/c025d35ce5431fc9a19f0be77296d964/720p",
-            "48": "//kodik.cc/seria/447146/028b37e1ee7359a871ed8907dbe6599d/720p",
-            "49": "//kodik.cc/seria/447147/0e7da23ece81bbd5dde41a47717ffbdc/720p",
-            "50": "//kodik.cc/seria/447148/1c77fcfd6a8faa372d910150d6a53667/720p",
-            "51": "//kodik.cc/seria/447845/e844d59d9e7a669c6360567dfe46dab1/720p",
-            "52": "//kodik.cc/seria/447846/fe2f7706314c345fc66b6466b4721b2d/720p",
-            "53": "//kodik.cc/seria/447847/271291146af4bc1ee17e641e6aa160bf/720p",
-            "54": "//kodik.cc/seria/447848/496ea775ce2dbef230fb4c85549de2a7/720p",
-            "55": "//kodik.cc/seria/447849/77d0f3efdbd4bb8bb32d929bceac15d4/720p",
-            "56": "//kodik.cc/seria/447850/11170393fc483054f19f915cb1626163/720p",
-            "57": "//kodik.cc/seria/447851/b939224d36fd7c717acc9f62b8f87d1a/720p",
-            "58": "//kodik.cc/seria/447852/972e0df246684585d73f785f5c57f40c/720p",
-            "59": "//kodik.cc/seria/447853/35a33fa415a39c547a64d4c5b71e7ff5/720p",
-            "60": "//kodik.cc/seria/447854/bc065016272670b5cc976284eb0863e4/720p",
-            "61": "//kodik.cc/seria/447855/b74e881335baebb3559e15fa64f9f93d/720p",
-            "62": "//kodik.cc/seria/447856/85d5de6ece36d38363a2d986cd8a319e/720p",
-            "63": "//kodik.cc/seria/447857/ab9d395e503fcd23a168e89f63b1b09e/720p",
-            "64": "//kodik.cc/seria/447858/fa2c99be79095beea940ad35295fb729/720p",
-            "65": "//kodik.cc/seria/447859/57be4649cbc3a53cec086b6f55a41646/720p",
-            "66": "//kodik.cc/seria/447860/8fc0c852647c02ac3aaa2297e7b7d96c/720p",
-            "67": "//kodik.cc/seria/447861/737d435bb0ee36363f1c377af715ab51/720p",
-            "68": "//kodik.cc/seria/447862/1694ea4d3de4cffd6150eea2a39f4da4/720p",
-            "69": "//kodik.cc/seria/447863/d851280a429859adcf7aba2c8d95cae6/720p",
-            "70": "//kodik.cc/seria/447864/917e0b6367cf9752c4e1a2e7e5289c1a/720p",
-            "71": "//kodik.cc/seria/447865/4cd15f1dc8a1bba3283a8aa36904096f/720p",
-            "72": "//kodik.cc/seria/447866/b823a4d1a98ef8774c73c29e749a3560/720p",
-            "73": "//kodik.cc/seria/447867/379d10e52dabf55f8b8ced713ed8d9f2/720p",
-            "74": "//kodik.cc/seria/447868/50429ba0a90c9900c0e2a9b7516b84c5/720p",
-            "75": "//kodik.cc/seria/447869/31ab3c7cbc7113eaa23e8eaad71d8273/720p",
-            "76": "//kodik.cc/seria/447870/fafcb0f3ce884adc6d186b1f91ff542c/720p",
-            "77": "//kodik.cc/seria/447871/9838dcfe4d33aab816450ed205b90653/720p",
-            "78": "//kodik.cc/seria/447872/14403cb73b45c350f638093ef2c82e89/720p",
-            "79": "//kodik.cc/seria/447873/a405816a4b444157bca5a326c406769c/720p",
-            "80": "//kodik.cc/seria/447874/1a78bb99a9fbbed6a95f551e750ee0e9/720p",
-            "81": "//kodik.cc/seria/447875/3b3ca9c11b7d3bc474001aa988b34508/720p",
-            "82": "//kodik.cc/seria/447876/b7c9ad1a295d748be0506a315e8da89a/720p",
-            "83": "//kodik.cc/seria/447877/23649a6a8f2e825d770c08facbcf88c1/720p",
-            "84": "//kodik.cc/seria/447878/13cb86acb7cae54dee2191c4c16ef582/720p",
-            "85": "//kodik.cc/seria/447879/b5d73dbbf8c32b087f21d47393b20e3d/720p",
-            "86": "//kodik.cc/seria/447880/baa67cee5e92b1c9f22d39d31830b0f3/720p",
-            "87": "//kodik.cc/seria/447881/4bb34dab282cbb172d897a88257fffa4/720p",
-            "88": "//kodik.cc/seria/447882/9fd3d2092ec68b69e06de8cd3816db89/720p",
-            "89": "//kodik.cc/seria/447883/f897001dd2916ea650f073efacd9d122/720p",
-            "90": "//kodik.cc/seria/447884/8abbc43f51c73a719c4bfb35cb08f9a7/720p",
-            "91": "//kodik.cc/seria/447885/71005c4bf7df5f9eae370402684091ac/720p",
-            "92": "//kodik.cc/seria/447886/ad6b17db8188965cd548bf4b81b55fc9/720p",
-            "93": "//kodik.cc/seria/447887/a32b55980abb526d7028d9ab9cbb477e/720p",
-            "94": "//kodik.cc/seria/447888/07d21c9e9698b472a7078394892d3338/720p",
-            "95": "//kodik.cc/seria/447889/9ec274b25ecbba4d1f2dd79753b8d320/720p",
-            "96": "//kodik.cc/seria/447890/ee5ac8e1bba727791e5c27078a6118fe/720p",
-            "97": "//kodik.cc/seria/447891/a218ff5ee4cba85be9c944469f761331/720p",
-            "98": "//kodik.cc/seria/447892/edfad39d1790e5130b831b156431ed34/720p",
-            "99": "//kodik.cc/seria/447893/a46d444a8d0180345fb362081c0e93e1/720p",
-            "100": "//kodik.cc/seria/447894/ee7e25718b05e14259498e25583fd7e1/720p",
-            "101": "//kodik.cc/seria/448078/5783d43b091d53224ebedb384917f3f7/720p",
-            "102": "//kodik.cc/seria/448079/5c1be9ddfdc38b98078fd6153c873e9b/720p",
-            "103": "//kodik.cc/seria/448080/021ead141e900046e6d9ab768d2449ac/720p",
-            "104": "//kodik.cc/seria/448081/a90c9017ce67e80bb7f237e0c2172093/720p",
-            "105": "//kodik.cc/seria/448082/72e57434d4867656a618e3ca9d09eb16/720p",
-            "106": "//kodik.cc/seria/448083/5e64c34b30e7660d36b9732773f29dbc/720p",
-            "107": "//kodik.cc/seria/448084/b42392d6a3f903c97c14eecac06144f0/720p",
-            "108": "//kodik.cc/seria/448085/4900db2c29f8619221ce282c372e395f/720p",
-            "109": "//kodik.cc/seria/448086/6995dbf2fa77d29821f42ddff4fb454f/720p",
-            "110": "//kodik.cc/seria/448087/0d6eb6675488bb3374dec699d4628d0a/720p",
-            "111": "//kodik.cc/seria/448088/e04f4e1a52c3ba54768a02ae78b57333/720p",
-            "112": "//kodik.cc/seria/448089/0cf1bde4b43d9bcf0f2ec84941afd97b/720p",
-            "113": "//kodik.cc/seria/448090/7e3d27ece695a83994ec90591ec6b8a2/720p",
-            "114": "//kodik.cc/seria/448091/9f8d0be4f9e328fd3ded5ed4ee002820/720p",
-            "115": "//kodik.cc/seria/448092/1341b6bff1e688a0913ec1d03c959cdf/720p",
-            "116": "//kodik.cc/seria/448093/792069cd69e9ad58fc244cbc01b2f186/720p",
-            "117": "//kodik.cc/seria/448094/1d9bf77a7c2573a71033aeb359ebe708/720p",
-            "118": "//kodik.cc/seria/448095/b3ab5803f5dcb2be2421b31ce60e2af0/720p",
-            "119": "//kodik.cc/seria/448096/0c7a00272a50e61e8ebdda87c970e559/720p",
-            "120": "//kodik.cc/seria/448097/e7d058c3e6092ac5b6a4561add8b91a0/720p",
-            "121": "//kodik.cc/seria/448106/8a6ba8e8d086ed1d294b77e6f37b160f/720p",
-            "122": "//kodik.cc/seria/448107/5303c9f401d6ed14af98128693f0c44c/720p",
-            "123": "//kodik.cc/seria/448108/23e8d0cc0a324b14877f57fe1ce6292c/720p",
-            "124": "//kodik.cc/seria/448109/495c6e3907881924a61356c1a576ce8e/720p",
-            "125": "//kodik.cc/seria/448116/18873c72420fb9d5b1f2a25e2eeff67f/720p",
-            "126": "//kodik.cc/seria/448117/d0b2977747e317ff27d040defbe54079/720p",
-            "127": "//kodik.cc/seria/448118/8fc83964dc35945b86662fb4aefab2de/720p",
-            "128": "//kodik.cc/seria/448119/6441d4e6a5105a86dd9260342c4a605c/720p",
-            "129": "//kodik.cc/seria/448120/edcb70a8892c38d58dd6d6a3dfe709f9/720p",
-            "130": "//kodik.cc/seria/448121/1ca455f57d90d16866aa869f872643ae/720p",
-            "131": "//kodik.cc/seria/448122/0bc304947e42f552382275fd9f8cf68f/720p",
-            "132": "//kodik.cc/seria/448123/fd238b4634de6455a573133b9eb35f1d/720p",
-            "133": "//kodik.cc/seria/448124/f1646a0bc132abb45944fbf1f8b75d17/720p",
-            "134": "//kodik.cc/seria/448125/e4aef7f9cebc3de97acc934349354515/720p",
-            "135": "//kodik.cc/seria/448126/a0446a34ccce6a00beb21a8b3933ac9d/720p",
-            "136": "//kodik.cc/seria/448127/dfce1af211a16569f612e6d034cd9ed6/720p",
-            "137": "//kodik.cc/seria/448128/7a15e1b3fd27fa18569d12cfb1f92778/720p",
-            "138": "//kodik.cc/seria/448129/a606b194a8e720f9d94fea1ee651f4b0/720p",
-            "139": "//kodik.cc/seria/448130/254058b9c0dfd8859908d3f1d95f86f2/720p",
-            "140": "//kodik.cc/seria/448131/6a80dd02030bd54942b33a62ae812f5b/720p",
-            "141": "//kodik.cc/seria/448132/2ccf6b0cb8148a43b4a149ead2dfd76f/720p",
-            "142": "//kodik.cc/seria/448133/abdd058aacc18d254854c8fdfd219640/720p",
-            "143": "//kodik.cc/seria/448134/81cadb83669a9879b107e6c9965e8c77/720p",
-            "144": "//kodik.cc/seria/448135/c2804b55a16e11a6663fb21c63c97478/720p",
-            "145": "//kodik.cc/seria/448136/7df04368710033cdf4d3f8fd10ef5e6c/720p",
-            "146": "//kodik.cc/seria/448137/ac957f809e41e06bab2d71b00a474535/720p",
-            "147": "//kodik.cc/seria/448138/ad6a67d107406a66385a3ce27a00640e/720p",
-            "148": "//kodik.cc/seria/448139/a6bfd1ca91c39047b6a6c833ddb6b528/720p",
-            "149": "//kodik.cc/seria/448140/37147e75bd00fb4b9da00e0321f10b7c/720p",
-            "150": "//kodik.cc/seria/448141/d7911622076b1f30012b02c1036d5403/720p",
-            "151": "//kodik.cc/seria/452510/365019ba61bbdb1e274f12af0cdfba13/720p",
-            "152": "//kodik.cc/seria/452511/0b7bcf534686f4e3cda25ab4aac86ad2/720p",
-            "153": "//kodik.cc/seria/452512/731a8a90ef1898d25010e9cc3fa22c2d/720p",
-            "154": "//kodik.cc/seria/452513/a15adf3c09f20caaa573f7699f59c31a/720p",
-            "155": "//kodik.cc/seria/452514/3d8b7e9fd513705773eae9731481b536/720p",
-            "156": "//kodik.cc/seria/452515/09bad2f69cb485b6818dce47ebb706b9/720p",
-            "157": "//kodik.cc/seria/452516/e4306132846462a040de2544a9d93e2b/720p",
-            "158": "//kodik.cc/seria/452517/bcdc16fb12d92b62eb0c58dd9f7548e2/720p",
-            "159": "//kodik.cc/seria/452518/10eeb01f5c287cd98b60f1513ea330cb/720p",
-            "160": "//kodik.cc/seria/452519/12beb9ef5c1890fd38ac1209b278028a/720p",
-            "161": "//kodik.cc/seria/452520/16e7879d6506995fdfb2f9753a4456c0/720p",
-            "162": "//kodik.cc/seria/452521/08e501dc106e040c1027489a5c44acb4/720p",
-            "163": "//kodik.cc/seria/452522/0a185016ed189d47e706351e350e2845/720p",
-            "164": "//kodik.cc/seria/452523/23a068f47a1d5c8d30005c30b06e7500/720p",
-            "165": "//kodik.cc/seria/452524/2f6e09542be5af3397689d97e122b6d8/720p",
-            "166": "//kodik.cc/seria/452525/5716132266609283ae946e07cade7090/720p",
-            "167": "//kodik.cc/seria/452526/56fadbda36de4af20351b215160e9bc3/720p",
-            "168": "//kodik.cc/seria/452527/32e723f6193abd4f0ec0a9439c3e183d/720p",
-            "169": "//kodik.cc/seria/452528/414cfdc6a29839d66360ba1d6d148814/720p",
-            "170": "//kodik.cc/seria/452529/5438a4b67e9647833c0a8f81f7f31fd2/720p",
-            "171": "//kodik.cc/seria/452530/c7c334de26c0a43f053bdac57048da23/720p",
-            "172": "//kodik.cc/seria/452531/41b42b81cd2ad27380ef417c3fa6c8c1/720p",
-            "173": "//kodik.cc/seria/452532/03f1edc3d2d6cccdfc6b58be09945ad4/720p",
-            "174": "//kodik.cc/seria/452533/5cb9d9ba58283b37f6a00e49cc6364c5/720p",
-            "175": "//kodik.cc/seria/452534/69e76e4521c0ecf8e973f8e7b64e01bc/720p",
-            "176": "//kodik.cc/seria/452535/4ccbd60b13bf3d103e5023a985ff6098/720p",
-            "177": "//kodik.cc/seria/452536/3a87ea5cec082daf418c20f1b9734b98/720p",
-            "178": "//kodik.cc/seria/452537/827ca256b24ff07adbd019e46d76294d/720p",
-            "179": "//kodik.cc/seria/452538/b792d284c653b8c8aced80a60913fa00/720p",
-            "180": "//kodik.cc/seria/452539/c5be516db89c139b121fdaf6b6eac171/720p",
-            "181": "//kodik.cc/seria/452540/5b0212d15e230cfd95372a898b840435/720p",
-            "182": "//kodik.cc/seria/452541/7e2abc968c5007e12d0704b7c9d922d4/720p",
-            "183": "//kodik.cc/seria/452542/2b83d9a948035e40c998f0ad3c085276/720p",
-            "184": "//kodik.cc/seria/452543/1a39e0be7ae2d6508370e939ae4ce48f/720p",
-            "185": "//kodik.cc/seria/452544/885ecf7c891d79a8f9f646c19b3a9a0f/720p",
-            "186": "//kodik.cc/seria/452545/290a12b2d61eb5c17dc0cb60b497715a/720p",
-            "187": "//kodik.cc/seria/452546/c2c974ab95bb8b088b7cb8e2a9d4c8d7/720p",
-            "188": "//kodik.cc/seria/452547/76ba7cad9a3e2f72a62aefd983abdc83/720p",
-            "189": "//kodik.cc/seria/452548/e9c50ead1559a707b935313b40d9ad4a/720p",
-            "190": "//kodik.cc/seria/452549/71ccebe171efad69c8c36accbe6a0875/720p"
-          }
-        }
-      },
-      "material_data": {
-        "title": "Берег мечты",
-        "title_en": "Porto dos Milagres",
-        "year": 2001,
-        "description": "Место действия - вымышленный город под названием Порт Чудес, в котором возникает любовь между девушкой по имени Ливия и рыбаком Гумой.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/401611.jpg",
-        "duration": 45,
-        "countries": [
-          "Бразилия"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 6.4,
-        "kinopoisk_votes": 425,
-        "imdb_rating": 6.2,
-        "imdb_votes": 139,
-        "actors": [
-          "Нана Гувеа",
-          "Рикардо Паван",
-          "Антонио Фагундес",
-          "Маркус Палмейра",
-          "Кассиа Кисс Магро",
-          "Флавия Алессандра",
-          "Луиза Томе",
-          "Леонардо Брисио",
-          "Зезе Полесса",
-          "Жозе де Абреу"
-        ],
-        "directors": [
-          "Фабрисиу Мамберти",
-          "Роберто Наар",
-          "Маркус Паулу",
-          "Лучиано Сабино"
-        ],
-        "writers": [
-          "Жоржи Амаду",
-          "Мария Элиза Барредо",
-          "Глория Баррето",
-          "Рикардо Линьярис",
-          "Фелипе Мигуес",
-          "Нельсон Надотти",
-          "Агуинальдо Силва"
-        ],
-        "editors": [
-          "Луис Эйрс Браз"
-        ],
-        "designers": [
-          "Маркос Кортез",
-          "Изабела Са",
-          "Лесса Де Ласерда",
-          "Хосе Клаудио",
-          "Элиан Херрингер"
-        ],
-        "operators": [
-          "Чико Бойя",
-          "Сержо Тортори"
-        ]
-      }
-    },
-    {
-      "id": "movie-39166",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Свадебная вечеринка 2: Отрыв в Дубае",
-      "title_orig": "The Wedding Party 2: Destination Dubai",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1113325",
-      "imdb_id": "tt7827944",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-02T09:04:05Z",
-      "updated_at": "2019-07-02T09:04:05Z",
-      "material_data": {
-        "title": "The Wedding Party 2: Destination Dubai",
-        "title_en": "",
-        "year": 2017,
-        "duration": 98,
-        "countries": [
-          "Нигерия"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "imdb_rating": 4.7,
-        "imdb_votes": 226,
-        "premiere_world": "2017-12-26",
-        "actors": [
-          "Enyinna Nwigwe",
-          "Даниэлла Даун",
-          "Banky W.",
-          "Majed AlZubaidi",
-          "Чука Эквеогву",
-          "Люси Хантер Джеймс",
-          "Sola Sobowale",
-          "Regan Tetlow"
-        ],
-        "directors": [
-          "Niyi Akinmolayan"
-        ],
-        "producers": [
-          "Priscilla Nwanah",
-          "Mo Abudu"
-        ],
-        "operators": [
-          "Малкольм МакЛин"
-        ]
-      }
-    },
-    {
-      "id": "movie-39161",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Пять братьев из Доксури",
-      "title_orig": "Deoksuri 5 hyungje",
-      "other_title": "A Dynamite Family",
-      "translation": {
-        "id": 639,
-        "title": "SoftBox",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "818895",
-      "imdb_id": "tt5218854",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-02T08:44:56Z",
-      "updated_at": "2019-07-02T08:44:56Z",
-      "material_data": {
-        "title": "Пятеро из Токсури",
-        "title_en": "Deoksuri 5hyeongje",
-        "year": 2014,
-        "description": "Отец Су-гё и Су-гына сообщает своим отпрыскам, что в душе он ещё совсем молод и полон сил, поэтому снова собирается жениться. Долгое время братья пытались привыкнуть к мысли, что у них будет новая мать, но всё было тщетно. К тому же оказалось, что после свадьбы в дом придёт не только мачеха, но и сводные брат с сестрой - Дон-су и Хён-джон. Эти четверо невзлюбили друг друга с первого взгляда. Но им приходится согласиться на свадьбу родителей, ведь те ждут общего ребенка.\n\rПроходит 15 лет. Родители переехали в небольшую деревушку и владеют пансионом. Их младшая дочь Су-джон растет умной девочкой. А вот старшие так и не смогли найти общий язык, поэтому навещают своих стариков крайне редко. Чтобы собрать семью воедино, Су-джон идет на хитрость - она сообщает братьям и сестре, что папа с мамой очень больны.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/818895.jpg",
-        "duration": 102,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "детектив",
-          "комедия",
-          "криминал"
-        ],
-        "imdb_rating": 5.7,
-        "imdb_votes": 35,
-        "premiere_world": "2014-12-04",
-        "actors": [
-          "Юн Сан-хён",
-          "Сон Сэ-бёк",
-          "Ли А-и",
-          "Хван Чхан-сон",
-          "Ким Джи-мин",
-          "Ли Гван-су",
-          "Чхве Джон-вон",
-          "Сон Бён-сук",
-          "Пак Чхун-сон",
-          "Юн Ён-голь"
-        ],
-        "directors": [
-          "Чон Хён-джун"
-        ],
-        "producers": [
-          "Хван Джэ-у",
-          "Пак Кан-ми",
-          "Кан Мун-сок"
-        ],
-        "writers": [
-          "Чон Хён-джун",
-          "Ли Сын-су"
-        ],
-        "composers": [
-          "Хван Сан-джун"
-        ],
-        "editors": [
-          "Щин Мин-гён"
-        ],
-        "designers": [
-          "Ли Джон-пхиль",
-          "Хан Хэ-сук"
-        ],
-        "operators": [
-          "Ким Юн-су"
-        ]
-      }
-    },
-    {
-      "id": "movie-39153",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Учитель словесности",
-      "title_orig": "Uchitel slovesnosti",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1965,
-      "kinopoisk_id": "991458",
-      "imdb_id": "tt5867826",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-02T07:41:06Z",
-      "updated_at": "2019-07-02T07:41:06Z",
-      "material_data": {
-        "title": "Учитель словесности",
-        "title_en": "",
-        "year": 1965,
-        "duration": 46,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "actors": [
-          "Николай Пеньков",
-          "Ксения Минина",
-          "Алексей Грибов",
-          "Раиса Максимова",
-          "Анатолий Кторов",
-          "Владимир Муравьев",
-          "Юрий Леонидов",
-          "Леонид Топчиев",
-          "Анна Коломийцева",
-          "Николай Шавыкин"
-        ],
-        "directors": [
-          "Алина Казьмина",
-          "Иосиф Раевский",
-          "Yuriy Shcherbakov"
-        ],
-        "designers": [
-          "Николай Чернявский"
-        ],
-        "operators": [
-          "Владимир Полухин",
-          "Владимир Жабченко"
-        ]
-      }
-    },
-    {
-      "id": "movie-39154",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Мужчины есть мужчины",
-      "title_orig": "Muzhchiny est muzhchiny",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1985,
-      "kinopoisk_id": "489270",
-      "imdb_id": "tt1721033",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-02T07:40:12Z",
-      "updated_at": "2019-07-02T07:40:12Z",
-      "material_data": {
-        "title": "Мужчины есть мужчины",
-        "title_en": "",
-        "year": 1985,
-        "description": "Мальчишкам 6-го «Б» однажды надоело выслушивать упреки по поводу баловства и лени, — и ребята поклялись друг другу в том, что не только станут победителями всех предстоящих соревнований, но и докажут всей школе, а главное — своим девчонкам, что на них всегда можно положиться.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/489270.jpg",
-        "duration": 66,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "детский",
-          "комедия"
-        ],
-        "kinopoisk_rating": 6.5,
-        "kinopoisk_votes": 191,
-        "premiere_world": "1985-11-07",
-        "minimal_age": 12,
-        "actors": [
-          "Петя Митрюхин",
-          "Виталий Шевцов",
-          "Сергей Хусаинов",
-          "Денис Филимонов",
-          "Сергей Кравчук",
-          "Вахтанг Кебуладзе",
-          "Сергей Омелич",
-          "Анастасия Виноградова",
-          "Юрий Бобров",
-          "Ольга Кузнецова"
-        ],
-        "directors": [
-          "Алексей Мороз"
-        ],
-        "writers": [
-          "Александр Чумак"
-        ],
-        "composers": [
-          "Александр Яковчук"
-        ],
-        "designers": [
-          "Евгений Питенин",
-          "Михаил Раковский"
-        ],
-        "operators": [
-          "Виталий Зимовец"
-        ]
-      }
-    },
-    {
-      "id": "movie-37438",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Кето и Котэ",
-      "title_orig": "Keto da Kote",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1948,
-      "kinopoisk_id": "41978",
-      "imdb_id": "tt0045957",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-05-23T06:43:13Z",
-      "updated_at": "2019-07-02T07:39:29Z",
-      "material_data": {
-        "title": "Кето и Котэ",
-        "title_en": "",
-        "year": 1948,
-        "description": "Музыкальная комедия по мотивам классической грузинской пьесы А. Цагарели «Ханума».",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/41978.jpg",
-        "duration": 89,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "комедия",
-          "мелодрама",
-          "музыка"
-        ],
-        "kinopoisk_rating": 6.6,
-        "kinopoisk_votes": 195,
-        "imdb_rating": 7.2,
-        "imdb_votes": 164,
-        "premiere_world": "1948-10-10",
-        "minimal_age": 0,
-        "actors": [
-          "Лейла Абашидзе",
-          "Петре Амиранашвили",
-          "Цаца Амиреджиби",
-          "Верико Анджапаридзе",
-          "Тамара Чавчавадзе",
-          "Елизавета Черкезишвили",
-          "Давит Чхеидзе",
-          "Мери Давиташвили",
-          "М. Деданишвили",
-          "Медея Джапаридзе"
-        ],
-        "directors": [
-          "Вахтанг Таблиашвили",
-          "Шалва Гедеванишвили"
-        ],
-        "writers": [
-          "Виктор Долидзе",
-          "Авксентий Цагарели",
-          "Серго Пашалишвили"
-        ],
-        "composers": [
-          "Арчил Кереселидзе"
-        ],
-        "editors": [
-          "Василий Доленко"
-        ],
-        "designers": [
-          "Иосиф Сумбаташвили",
-          "Парнаоз Лапиашвили"
-        ],
-        "operators": [
-          "Александр Дигмелов"
-        ]
-      }
-    },
-    {
-      "id": "movie-39155",
-      "type": "russian-movie",
-      "link": "",
-      "title": "В условиях неочевидности",
-      "title_orig": "V usloviyakh neochevidnosti",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1986,
-      "kinopoisk_id": "45645",
-      "imdb_id": "tt0267078",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-02T07:37:41Z",
-      "updated_at": "2019-07-02T07:37:41Z",
-      "material_data": {
-        "title": "В условиях неочевидности",
-        "title_en": "",
-        "year": 1986,
-        "description": "Чтобы скрыть крупные хищения на домостроительном комбинате, свидетелем которых стал управляющий городским строительным трестом честный и неподкупный Салахов, его убили в собственной квартире, инсценировав самоубийство. Но инспектор уголовного розыска Алекперов и следователь прокуратуры Мамедов вычислили убийц и выявили участников грабежа.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/45645.jpg",
-        "duration": 79,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "драма",
-          "криминал"
-        ],
-        "premiere_world": "1987-07-30",
-        "actors": [
-          "Чингиз Шарифов",
-          "Фарман Абдуллаев",
-          "Наиль Алиев",
-          "Фаик Суджаддинов",
-          "Вячеслав Гасанов",
-          "Херардо Контрерас",
-          "Дилара Юсифова",
-          "Рафик Рагимов",
-          "Баядур Мехтиев",
-          "Ахад Аскеров"
-        ],
-        "directors": [
-          "Марк Жозеф"
-        ],
-        "writers": [
-          "Рамиз Фаталиев"
-        ],
-        "composers": [
-          "Кшиштоф Пендерецкий",
-          "Дмитрий Шостакович"
-        ],
-        "editors": [
-          "Раиса Новикова"
-        ],
-        "designers": [
-          "Фикрет Багиров"
-        ],
-        "operators": [
-          "Ефим Резников"
-        ]
-      }
-    },
-    {
-      "id": "movie-39156",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Центр нападения",
-      "title_orig": "Tsentr napadeniya",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1947,
-      "kinopoisk_id": "42343",
-      "imdb_id": "tt0240135",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-02T07:37:30Z",
-      "updated_at": "2019-07-02T07:37:30Z",
-      "material_data": {
-        "title": "Центр нападения",
-        "title_en": "",
-        "year": 1946,
-        "description": "В разгар сезона известный футболист покидает свою команду: он конструктор мотоциклов и необходимо его присутствие на заводе.\n\rФутбола, однако, он не бросает, а становится центром нападения городской команды. Его друг-вратарь упорно расценивает уход героя как предательство...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/42343.jpg",
-        "duration": 71,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "спорт"
-        ],
-        "kinopoisk_rating": 6.2,
-        "kinopoisk_votes": 97,
-        "imdb_rating": 5.8,
-        "imdb_votes": 11,
-        "premiere_world": "1947-06-25",
-        "minimal_age": 0,
-        "actors": [
-          "Екатерина Деревщикова",
-          "Виталий Доронин",
-          "Лидия Карташова",
-          "Григорий Плужник",
-          "Андрей Сова",
-          "Юрий Тимошенко",
-          "Борис Толмазов",
-          "Михаил Высоцкий",
-          "Юрий Лавров",
-          "Виктор Селезнев"
-        ],
-        "directors": [
-          "Семен Деревянский",
-          "Игорь Земгано"
-        ],
-        "writers": [
-          "Борис Ласкин",
-          "Евгений Помещиков"
-        ],
-        "composers": [
-          "Оскар Сандлер"
-        ],
-        "designers": [
-          "Алексей Бобровников"
-        ],
-        "operators": [
-          "Иван Шеккер",
-          "Сергей Ревенко"
-        ]
-      }
-    },
-    {
-      "id": "movie-39157",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Честь товарища",
-      "title_orig": "Chest tovarishcha",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1953,
-      "kinopoisk_id": "45496",
-      "imdb_id": "tt0313885",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-02T07:36:42Z",
-      "updated_at": "2019-07-02T07:36:42Z",
-      "material_data": {
-        "title": "Честь товарища",
-        "title_en": "",
-        "year": 1953,
-        "description": "Фильм рассказывает о становлении характеров будущих командиров Красной Армии.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/45496.jpg",
-        "duration": 84,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "семейный"
-        ],
-        "kinopoisk_rating": 6.1,
-        "kinopoisk_votes": 142,
-        "imdb_rating": 6.7,
-        "imdb_votes": 7,
-        "premiere_world": "1953-12-30",
-        "minimal_age": 0,
-        "actors": [
-          "Константин Скоробогатов",
-          "Борис Коковкин",
-          "Геннадий Мичурин",
-          "Владимир Дружников",
-          "Юрий Толубеев",
-          "Лев Фричинский",
-          "Нина Гребешкова",
-          "Василий Меркурьев",
-          "Клавдия Хабарова",
-          "Борис Матюшкин"
-        ],
-        "directors": [
-          "Николай Лебедев"
-        ],
-        "writers": [
-          "Борис Изюмский",
-          "Леонид Жежеленко"
-        ],
-        "composers": [
-          "Владимир Маклаков"
-        ],
-        "editors": [
-          "Елена Миронова"
-        ],
-        "designers": [
-          "Виктор Савостин"
-        ],
-        "operators": [
-          "Вениамин Левитин"
-        ]
-      }
-    },
-    {
-      "id": "movie-39158",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Далекая невеста",
-      "title_orig": "Dalyokaya nevesta",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1948,
-      "kinopoisk_id": "44092",
-      "imdb_id": "tt0040264",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-02T07:35:53Z",
-      "updated_at": "2019-07-02T07:35:53Z",
-      "material_data": {
-        "title": "Далекая невеста",
-        "title_en": "",
-        "year": 1948,
-        "description": "Донской казак Захар, потерявший во время войны родных, приезжает со своим другом Керимом в Туркмению. Захар надеется, что его невеста Гюзель, живущая в соседнем колхозе и приезжавшая к ним на фронт, помнит и ждет его. Но по вине почтальона встреча Захара и Гюзель не состоялась.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/44092.jpg",
-        "duration": 87,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "kinopoisk_rating": 5.3,
-        "kinopoisk_votes": 123,
-        "imdb_rating": 5.3,
-        "imdb_votes": 9,
-        "premiere_world": "1948-08-02",
-        "minimal_age": 0,
-        "actors": [
-          "Алты Карлиев",
-          "Василий Нещипленко",
-          "Аман Кульмамедов",
-          "Софья Клычева",
-          "Мариам Шафигулина",
-          "А.Овезова",
-          "Сарры Каррыев",
-          "К.Мурадова",
-          "Мурад Сеидниязов",
-          "А. Миляев"
-        ],
-        "directors": [
-          "Евгений Иванов-Барков"
-        ],
-        "writers": [
-          "Евгений Помещиков",
-          "Николай Рожков",
-          "Виктор Шкловский"
-        ],
-        "composers": [
-          "Климентий Корчмарев"
-        ],
-        "editors": [
-          "Елена Миронова"
-        ],
-        "designers": [
-          "Валентина Хмелёва"
-        ],
-        "operators": [
-          "Андрей Булинский"
-        ]
-      }
-    },
-    {
-      "id": "movie-39159",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Карандаш на льду",
-      "title_orig": "Karandash na ldu",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1948,
-      "kinopoisk_id": "634126",
-      "imdb_id": "tt8202560",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-02T07:35:11Z",
-      "updated_at": "2019-07-02T07:35:11Z",
-      "material_data": {
-        "title": "Карандаш на льду",
-        "title_en": "",
-        "year": 1948,
-        "description": "Экранизация циркового представления.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/634126.jpg",
-        "duration": 22,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "kinopoisk_rating": 6,
-        "kinopoisk_votes": 112,
-        "actors": [
-          "Михаил Румянцев",
-          "Людмила Целиковская",
-          "Евгений Леонов",
-          "Светлана Немоляева"
-        ],
-        "directors": [
-          "Владимир Немоляев"
-        ],
-        "writers": [
-          "Валентина Ладыгина"
-        ],
-        "composers": [
-          "Сигизмунд Кац"
-        ],
-        "designers": [
-          "А. Шелапутина"
-        ],
-        "operators": [
-          "Самуил Рубашкин"
-        ]
-      }
-    },
-    {
-      "id": "movie-39160",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Счастливый рейс",
-      "title_orig": "Schastlivyy reys",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1949,
-      "kinopoisk_id": "94966",
-      "imdb_id": "tt0382276",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-07-02T07:34:31Z",
-      "updated_at": "2019-07-02T07:34:31Z",
-      "material_data": {
-        "title": "Счастливый рейс",
-        "title_en": "",
-        "year": 1949,
-        "description": "Каждый день шофер Синичкин отправляется в рейс, и каждый день его ждут интересные встречи, а после работы - добрые и веселые приключения. Один из рейсов стал для него счастливым - он встретил свою любовь…",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/94966.jpg",
-        "duration": 79,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "комедия",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 558,
-        "imdb_rating": 7.3,
-        "imdb_votes": 35,
-        "premiere_world": "1949-07-15",
-        "minimal_age": 0,
-        "actors": [
-          "Николай Крючков",
-          "Михаил Жаров",
-          "Вера Орлова",
-          "Ольга Викланд",
-          "Владимир Попов",
-          "Светлана Немоляева",
-          "Эммануил Геллер",
-          "Евгений Леонов",
-          "Татьяна Пельтцер",
-          "Елена Понсова"
-        ],
-        "directors": [
-          "Владимир Немоляев"
-        ],
-        "writers": [
-          "Виктор Ардов",
-          "Владимир Немоляев"
-        ],
-        "composers": [
-          "Сигизмунд Кац"
-        ],
-        "designers": [
-          "Владимир Егоров"
-        ],
-        "operators": [
-          "Самуил Рубашкин"
         ]
       }
     }
