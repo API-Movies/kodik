@@ -1,6 +1,914 @@
 {
   "results": [
     {
+      "id": "movie-56602",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Секер",
+      "title_orig": "Seker",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2009,
+      "kinopoisk_id": "566390",
+      "imdb_id": "tt1706480",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-06-09T19:15:55Z",
+      "updated_at": "2020-06-09T19:15:55Z",
+      "material_data": {
+        "title": "Секер",
+        "title_en": "Seker",
+        "year": 2009,
+        "description": "Это история девочки, по имени Секер, воспитывалась отцом как мальчик. Она старается оправдать желания отца - видеть в ней сына. Секер исполняется двенадцать лет и приходит время, когда скрывать пол ребенка становится невозможным.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/566390.jpg",
+        "duration": 72,
+        "countries": [
+          "Казахстан"
+        ],
+        "genres": [
+          "драма",
+          "комедия",
+          "семейный"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 76,
+        "imdb_rating": 6.1,
+        "imdb_votes": 9,
+        "premiere_world": "2009-10-22",
+        "actors": [
+          "Аяулым Ахметбекова",
+          "Ирина Гринёва",
+          "Нуржуман Ихтымбаев",
+          "Болат Калымбетов",
+          "Мурай"
+        ],
+        "directors": [
+          "Сабит Курманбеков"
+        ],
+        "producers": [
+          "Ермек Аманшаев"
+        ],
+        "writers": [
+          "Сабит Курманбеков",
+          "Газиз Насыров",
+          "Бекболат Шекеров"
+        ],
+        "composers": [
+          "Артык Тосканбаев"
+        ],
+        "editors": [
+          "Gulajim Kozamberdijeva"
+        ],
+        "operators": [
+          "Ренат Косай"
+        ]
+      }
+    },
+    {
+      "id": "movie-55516",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Опасная близость: Сражение при Лонгтане",
+      "title_orig": "Danger Close: The Battle of Long Tan",
+      "translation": {
+        "id": 794,
+        "title": "HDrezka Studio",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "262003",
+      "imdb_id": "tt0441881",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-19T08:57:13Z",
+      "updated_at": "2020-06-09T18:41:59Z",
+      "material_data": {
+        "title": "Опасная близость: Сражение при Лонгтане",
+        "title_en": "Danger Close: The Battle of Long Tan",
+        "year": 2019,
+        "tagline": "A true story of ordinary boys who become extraordinary men.",
+        "description": "Война во Вьетнаме. Рота в основном неопытных австралийских и новозеландских солдат встречается в битве при Лонгтане с превосходящими силами Вьетконга.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/262003.jpg",
+        "duration": 118,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "военный",
+          "драма",
+          "история"
+        ],
+        "kinopoisk_rating": 6.1,
+        "kinopoisk_votes": 805,
+        "imdb_rating": 6.8,
+        "imdb_votes": 9658,
+        "premiere_world": "2019-06-15",
+        "rating_mpaa": "R",
+        "actors": [
+          "Трэвис Фиммел",
+          "Toby Blome",
+          "Александр Инглэнд",
+          "Аарон Гленнэйн",
+          "Ули Латукефу",
+          "Ричард Те Аре",
+          "Люк Брейси",
+          "Шон МакКарти",
+          "Моджиан Ариа",
+          "Райан Хэнс"
+        ],
+        "directors": [
+          "Крив Стендерс"
+        ],
+        "producers": [
+          "Стюарт Битти",
+          "Эндрю Манн",
+          "Tony H. Noun",
+          "Сильвио Салом",
+          "Джон Шварц",
+          "Майкл Шварц",
+          "Мартин Уолш",
+          "Justin Boylson",
+          "Аластер Берлинэм",
+          "Джеймс Костас"
+        ],
+        "writers": [
+          "Стюарт Битти",
+          "Джеймс Николас",
+          "Карел Седжерс",
+          "Пол Салливан",
+          "Jack Brislee"
+        ],
+        "composers": [
+          "Кэйтлин Йо"
+        ],
+        "editors": [
+          "Вероника Жене"
+        ],
+        "designers": [
+          "Сэм Хоббс",
+          "Лиззи Гардинер",
+          "Эмма Радкин"
+        ],
+        "operators": [
+          "Бен Нотт"
+        ]
+      }
+    },
+    {
+      "id": "serial-26638",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Проект «Земля SOS»",
+      "title_orig": "Project Blue Chikyuu SOS",
+      "other_title": "Project Blue Earth SOS",
+      "translation": {
+        "id": 757,
+        "title": "MC Entertainment",
+        "type": "voice"
+      },
+      "year": 2006,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "438356",
+      "imdb_id": "tt0983982",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5802",
+      "shikimori_id": "1247",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-06-09T16:17:14Z",
+      "updated_at": "2020-06-09T16:17:14Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Проект «Земля SOS»",
+        "title_en": "Project Blue Chikyû SOS",
+        "other_titles_en": [
+          "Project Blue Earth SOS"
+        ],
+        "other_titles_jp": [
+          "Project BLUE 地球SOS"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2006,
+        "description": "2000 год. Революционный «Джи-привод» меняет историю человечества, открывая безграничные возможности для сверхзвукового транспорта и межпланетных кораблей! Но эта удивительная новая технология - ахиллесова пята, которой готов воспользоваться коварный враг!\r\n\r\nГениальные тинэйджеры Билли Кимура, Пенни Картер и Лотта Брест присоединяются к секретному альянсу по спасению Земли! Летающие тарелки и «лучи смерти» заполняют экран, и только настоящие герои могут перехитрить злобных пришельцев и спасти планету Земля!",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/438356.jpg",
+        "duration": 45,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Приключения",
+          "Сёнен",
+          "Фантастика"
+        ],
+        "anime_studios": [
+          "A.C.G.T."
+        ],
+        "imdb_rating": 5.6,
+        "imdb_votes": 32,
+        "shikimori_rating": 6.67,
+        "shikimori_votes": 125,
+        "aired_at": "2006-07-02",
+        "released_at": "2006-12-03",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 16,
+        "episodes_total": 6,
+        "episodes_aired": 0,
+        "actors": [
+          "Масару Икэда",
+          "Саяка Охара",
+          "Рё Хирохаси",
+          "Мицуки Саига",
+          "Акэно Ватанабэ"
+        ],
+        "directors": [
+          "Тэнсаи Окамура"
+        ],
+        "producers": [
+          "Чарльз Кэмпбелл",
+          "Скотт МакКленнен"
+        ]
+      }
+    },
+    {
+      "id": "serial-26637",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Адская девочка (четвёртый сезон)",
+      "title_orig": "Jigoku Shoujo: Yoi no Togi",
+      "other_title": "Адская девочка: Разговоры в сумерках / Адская девочка - Разговоры в сумерках / Hell Girl: Fourth Twilight",
+      "translation": {
+        "id": 739,
+        "title": "Animedia",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 4,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1289096",
+      "imdb_id": "tt7197316",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9153",
+      "shikimori_id": "34966",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-06-09T16:08:21Z",
+      "updated_at": "2020-06-09T16:08:21Z",
+      "seasons": {
+        "4": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Адская девочка: Разговоры в сумерках",
+        "title_en": "Jigoku Shoujo: Yoi no Togi",
+        "other_titles": [
+          "Hell Girl 4",
+          "Jigoku Shoujo 4"
+        ],
+        "other_titles_en": [
+          "Hell Girl: Fourth Twilight"
+        ],
+        "other_titles_jp": [
+          "地獄少女 宵伽"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2017,
+        "description": "Есть сайт, доступ к которому открывается только в полночь. Так называемая «Адская переписка». Говорят, что если оставить в адресной строке имя ненавистного вам человека, за ним придёт Адская девочка и отправит его в ад. И имя ей Ай Энма. Однако ничего не бывает бесплатно.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1289096.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/9698efe1669bcc03072f4e39a2b4d4fff55032ed.jpg",
+          "https://shikimori.one/system/screenshots/original/da1b14b4f2c9ca6357701bba7258a1077f269d30.jpg"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Психологическое",
+          "Сверхъестественное",
+          "Ужасы"
+        ],
+        "anime_studios": [
+          "Studio Deen"
+        ],
+        "imdb_rating": 6,
+        "imdb_votes": 63,
+        "shikimori_rating": 6.54,
+        "shikimori_votes": 1949,
+        "premiere_world": "2017-07-14",
+        "aired_at": "2017-07-15",
+        "released_at": "2017-08-19",
+        "rating_mpaa": "R",
+        "episodes_total": 6,
+        "episodes_aired": 12,
+        "actors": [
+          "Такако Хонда",
+          "Масая Мацукадзэ",
+          "Мамико Ното",
+          "Такаюки Суго"
+        ],
+        "directors": [
+          "Такахиро Омори"
+        ]
+      }
+    },
+    {
+      "id": "movie-56593",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Джинн",
+      "title_orig": "Cinnet",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1263297",
+      "imdb_id": "tt10270114",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-06-09T13:32:25Z",
+      "updated_at": "2020-06-09T13:32:25Z",
+      "material_data": {
+        "title": "Джинн",
+        "title_en": "Cinnet",
+        "year": 2019,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1263297.jpg",
+        "countries": [
+          "Турция"
+        ],
+        "genres": [
+          "ужасы"
+        ],
+        "imdb_rating": 3.3,
+        "imdb_votes": 201,
+        "premiere_world": "2019-06-14",
+        "actors": [
+          "Йелиз Аккая",
+          "Emre Baser",
+          "Nicholas Facey",
+          "Уфук Каплан",
+          "Sukeyna Kiliç",
+          "Demet Sasmaz",
+          "Michael Sezgin",
+          "Jerrod Weston"
+        ],
+        "directors": [
+          "Айтекин Биркон"
+        ],
+        "producers": [
+          "Джемал Окан",
+          "Тимур Савджи",
+          "Serpil Altin",
+          "Korhan Ugur"
+        ],
+        "writers": [
+          "Айтекин Биркон"
+        ],
+        "editors": [
+          "Айтекин Биркон",
+          "Busra Demir"
+        ],
+        "designers": [
+          "Emre Öztürk",
+          "Veda Baycan",
+          "Ozudogru Cici"
+        ],
+        "operators": [
+          "Sezgin Denkci"
+        ]
+      }
+    },
+    {
+      "id": "serial-26633",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Как госпожа Вельзевул пожелает",
+      "title_orig": "Beelzebub-jou no Oki ni Mesu Mama.",
+      "other_title": "As Miss Beelzebub Likes",
+      "translation": {
+        "id": 739,
+        "title": "Animedia",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1228939",
+      "imdb_id": "tt9522024",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9681",
+      "shikimori_id": "37716",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-06-09T13:29:28Z",
+      "updated_at": "2020-06-09T13:29:28Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Как госпожа Вельзевул пожелает",
+        "title_en": "Beelzebub-jou no Okinimesu mama.",
+        "other_titles_en": [
+          "As Miss Beelzebub Likes."
+        ],
+        "other_titles_jp": [
+          "ベルゼブブ嬢のお気に召すまま。"
+        ],
+        "anime_license_name": "Как пожелает госпожа Вельзевул",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2018,
+        "description": "Согласно легенде, Вельзевул, один из семи князей ада, предал Бога и был навсегда изгнан с небес. Теперь Вельзевул возглавляет королевство Пандемониум, где бывшие ангелы работают каждый день своей бессмертной жизни. \n\rНо что, если Вельзевул не такой злой, как принято думать? Что, если он одержим пушистыми вещами? И что, если Вельзевул на самом деле женщина? Именно это обнаруживает новый помощник Мюрин, когда его нанимают на службу к Её Величеству Вельзевул. Она точно знает, как навести порядок в Пандемониуме, но за пределами офиса девушка нуждается в некоторой помощи, чтобы функционировать как обычный дьявол. ",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1228939.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/5b057b3e6785df09f324e1e61acb4549c463e4ea.png",
+          "https://shikimori.one/system/screenshots/original/87affb83e2caa587a6242fe840b500afa48e643c.png"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мелодрама",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Демоны",
+          "Комедия",
+          "Романтика",
+          "Сёнен",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "LIDENFILMS"
+        ],
+        "imdb_rating": 5.4,
+        "imdb_votes": 23,
+        "shikimori_rating": 7.26,
+        "shikimori_votes": 2032,
+        "premiere_world": "2018-10-11",
+        "aired_at": "2018-10-11",
+        "released_at": "2018-12-27",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Саори Оониси",
+          "Рикуя Ясуда",
+          "Сатоси Хино",
+          "Аи Какума",
+          "Мисаки Куно",
+          "Ёсицугу Мацуока"
+        ],
+        "directors": [
+          "Минато Кадзуто"
+        ],
+        "writers": [
+          "Ёрико Томита"
+        ]
+      }
+    },
+    {
+      "id": "serial-26629",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Любовь длится вечно",
+      "title_orig": "Koi Wa Tsuzuku Yo Dokomademo",
+      "other_title": "Любовь длиною в вечность / Любовь на этом не заканчивается / Неизлечимый случай любви / Вечная любовь / An Incurable Case of Love / Love Lasts Forever / Koi wa Tsuzuku yo Dokomade mo / An Incurable Case of Love",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "1321179",
+      "imdb_id": "tt11290750",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-06-09T08:33:55Z",
+      "updated_at": "2020-06-09T12:38:34Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Любовь длится вечно",
+        "title_en": "Koi Wa Tsuzuku Yo Dokomademo",
+        "year": 2020,
+        "description": "Однажды Сакура Нанасэ встречает Тэндо Каири и влюбляется в него с первого взгляда. Чтобы встретить его вновь, девушка усердно училась на медсестру. Спустя пять лет Сакура устраивается на работу в больницу, где Тэндо работает врачом. Но он оказался совсем не таким, как она себе его представляла - будучи перфекционистом, он постоянно делает резкие замечания персоналу больницы. Но Сакура решает не сдаваться и усердно работать, чтобы привлечь внимание Тэндо, и даже набирается смелости признаться ему в своих чувствах. Благодаря своему упорству и настойчивости девушка получает в больнице прозвище Воин. И скоро Тендо начинает обращать на неё внимание.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1321179.jpg",
+        "duration": 48,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 7.8,
+        "imdb_votes": 416,
+        "premiere_world": "2020-01-14",
+        "actors": [
+          "Монэ Камисираиси",
+          "Такэру Сато",
+          "Ками Хираива",
+          "Маю Хотта",
+          "Карина",
+          "Нана Катасэ",
+          "Кацуя Маигума",
+          "Куми Такиути",
+          "Кэисукэ Ватанабэ",
+          "Кодзи Ямамото"
+        ],
+        "directors": [
+          "Кэнта Танака"
+        ],
+        "writers": [
+          "Маки Эндзёдзи",
+          "Ариса Канэко"
+        ]
+      }
+    },
+    {
+      "id": "movie-56589",
+      "type": "anime",
+      "link": "",
+      "title": "Колыбельная перед Долгим Сном",
+      "title_orig": "Nido to Mezamenu Komori Uta",
+      "other_title": "二度と目覚めぬ子守唄",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 1985,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3862",
+      "shikimori_id": "7273",
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-06-09T10:22:13Z",
+      "updated_at": "2020-06-09T10:22:13Z",
+      "material_data": {
+        "title": "Колыбельная перед Долгим Сном",
+        "title_en": "Nido to Mezamenu Komori Uta",
+        "other_titles": [
+          "Nidoto Mezamenu Komori Uta",
+          "Lullaby to the Big Sleep",
+          "Lullaby Not Awake Two Times"
+        ],
+        "other_titles_en": [
+          "The Death Lullaby"
+        ],
+        "other_titles_jp": [
+          "二度と目覚めぬ子守唄"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "poster_url": "https://shikimori.one/system/animes/original/7273.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/9c04be5ce24f7a477a4817a3e3aa52f44e14a215.jpg",
+          "https://shikimori.one/system/screenshots/original/0b19e6d979a2a71499dc87403943cc01abe063a8.jpg"
+        ],
+        "anime_genres": [
+          "Безумие",
+          "Драма"
+        ],
+        "shikimori_rating": 5.38,
+        "shikimori_votes": 50,
+        "aired_at": "1985-01-01",
+        "rating_mpaa": "R+",
+        "episodes_total": 1,
+        "episodes_aired": 0
+      }
+    },
+    {
+      "id": "movie-56583",
+      "type": "anime",
+      "link": "",
+      "title": "663114",
+      "title_orig": "663114",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2011,
+      "kinopoisk_id": "668655",
+      "imdb_id": "tt1982597",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1528",
+      "shikimori_id": "13971",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-06-09T08:58:01Z",
+      "updated_at": "2020-06-09T09:04:12Z",
+      "material_data": {
+        "title": "663114",
+        "title_en": "663114",
+        "other_titles_jp": [
+          "663114"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2012,
+        "description": "Монолог 66-летней цикады. Насекомое проводит параллели между катастрофами в Хиросиме (1945) и Фукусиме (2011) и задаёт фундаментальный вопрос о будущем мира.",
+        "poster_url": "https://shikimori.one/system/animes/original/13971.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/be33e5e34cf643a08b4b2193369eb5da7ff2e3dc.jpg",
+          "https://shikimori.one/system/screenshots/original/5a9c86baebddb9b4449978b5258a05723ae57c04.jpg"
+        ],
+        "duration": 8,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма",
+          "короткометражка",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Фэнтези"
+        ],
+        "imdb_rating": 6.2,
+        "imdb_votes": 89,
+        "shikimori_rating": 5.32,
+        "shikimori_votes": 167,
+        "premiere_world": "2012-01-21",
+        "aired_at": "2011-09-01",
+        "rating_mpaa": "G",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "directors": [
+          "Исаму Хирабаяси"
+        ],
+        "producers": [
+          "Исаму Хирабаяси",
+          "Ким Хён-а",
+          "Ким Джэ-мин",
+          "Ким Джон-бом",
+          "Сид Лим",
+          "Юн Джэ-ван",
+          "Хироси Кавай",
+          "Джун Пак"
+        ],
+        "writers": [
+          "Ким Бо-хён",
+          "Ким Хён-хо",
+          "Hyun Nam"
+        ],
+        "composers": [
+          "Такаси Ватанабэ"
+        ],
+        "designers": [
+          "Кэн Мураками"
+        ],
+        "operators": [
+          "Ки Кюнг"
+        ]
+      }
+    },
+    {
+      "id": "movie-56553",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Разборка в Гонконге",
+      "title_orig": "Nu jing cha",
+      "translation": {
+        "id": 587,
+        "title": "Кашкин",
+        "type": "voice"
+      },
+      "year": 1973,
+      "kinopoisk_id": "24738",
+      "imdb_id": "tt0124836",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-06-09T08:34:03Z",
+      "updated_at": "2020-06-09T08:34:03Z",
+      "material_data": {
+        "title": "Разборка в Гонконге",
+        "title_en": "Nu jing cha",
+        "year": 1972,
+        "tagline": "Before The Bronx there was...",
+        "description": "Незнакомка, спасающаяся от преследования бандитов, оставляет в машине таксиста сумочку, которая исчезает при загадочных обстоятельствах. С этого момента жизнь водителя превращается в сущий ад. С одной стороны его преследует полиция, с другой - бандиты. Оказавшись между двух огней, храбрый таксист начинает собственное расследование.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/24738.jpg",
+        "duration": 90,
+        "countries": [
+          "Гонконг"
+        ],
+        "genres": [
+          "боевик",
+          "криминал"
+        ],
+        "kinopoisk_rating": 5.9,
+        "kinopoisk_votes": 798,
+        "imdb_rating": 3.6,
+        "imdb_votes": 1353,
+        "premiere_world": "1973-04-26",
+        "actors": [
+          "Чарли Чинь",
+          "Юэнь Цю",
+          "Бетти Нунан",
+          "Ху Чинь",
+          "Джеки Чан",
+          "Нэн Чианг",
+          "Chiang Chen",
+          "Джон Чун",
+          "Му Жу",
+          "Чуэн Чуэн Фанг"
+        ],
+        "directors": [
+          "Му Жу"
+        ],
+        "producers": [
+          "Му Жу",
+          "Вэй Хуи Фенг"
+        ],
+        "writers": [
+          "Му Жу"
+        ],
+        "composers": [
+          "Фу Лианг Чоу"
+        ],
+        "editors": [
+          "Винсент Люн"
+        ],
+        "operators": [
+          "Вэй Хуи Фенг"
+        ]
+      }
+    },
+    {
+      "id": "movie-56552",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Гот",
+      "title_orig": "Goth",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2008,
+      "kinopoisk_id": "395260",
+      "imdb_id": "tt1092006",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-06-09T07:54:21Z",
+      "updated_at": "2020-06-09T07:54:21Z",
+      "material_data": {
+        "title": "Гот",
+        "title_en": "Goth",
+        "year": 2008,
+        "description": "Старшеклассники Ицуки Камияма и Еру Морино увлечены человеческой жестокостью и убийствами. Камияма понял, что Морино разделит его интересы, как только увидел шрам на ее запястье. Вместе они следят за преступлениями зверского серийного убийцы в попытке найти двух его последних жертв. Все это они проделывают не ради того, чтобы сдать маньяка правосудию, а лишь затем, чтобы удовлетворить собственные любопытство и интерес.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/395260.jpg",
+        "duration": 95,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "детектив",
+          "драма",
+          "криминал"
+        ],
+        "kinopoisk_rating": 6.8,
+        "kinopoisk_votes": 231,
+        "imdb_rating": 6.1,
+        "imdb_votes": 531,
+        "premiere_world": "2008-12-20",
+        "actors": [
+          "Каната Хонго",
+          "Рин Таканаси",
+          "Хироки Ида",
+          "Мика Камия",
+          "Котаро Кано",
+          "Тика Кумагай",
+          "Маари",
+          "Тосинобу Мацуо",
+          "Кэиси Нагацука",
+          "Кеи Наката"
+        ],
+        "directors": [
+          "Гэн Такахаси"
+        ],
+        "producers": [
+          "Такаси Охаси",
+          "Шунсуке Ямада"
+        ],
+        "writers": [
+          "Оцуити",
+          "Гэн Такахаси",
+          "Мидори Саито",
+          "Митио Касивада",
+          "Грэм",
+          "Такаси Хотта"
+        ],
+        "operators": [
+          "Рюдзи Исикура",
+          "Синдзи Кугимия"
+        ]
+      }
+    },
+    {
       "id": "movie-56574",
       "type": "foreign-movie",
       "link": "",
@@ -2413,7 +3321,7 @@
         "imdb_rating": 8.1,
         "imdb_votes": 1602,
         "shikimori_rating": 7.51,
-        "shikimori_votes": 4135,
+        "shikimori_votes": 4215,
         "premiere_world": "2006-04-12",
         "aired_at": "2006-04-12",
         "released_at": "2006-12-06",
@@ -5477,7 +6385,7 @@
         "imdb_rating": 7,
         "imdb_votes": 134,
         "shikimori_rating": 7.37,
-        "shikimori_votes": 1988,
+        "shikimori_votes": 2003,
         "premiere_world": "2020-04-04",
         "aired_at": "2020-04-04",
         "released_at": "2020-06-20",
@@ -6205,7 +7113,7 @@
           "криминал"
         ],
         "imdb_rating": 7.9,
-        "imdb_votes": 311,
+        "imdb_votes": 316,
         "premiere_world": "2019-08-04",
         "actors": [
           "Луис Наварро",
@@ -8239,9 +9147,9 @@
           "Sola Digital Arts"
         ],
         "kinopoisk_rating": 6.2,
-        "kinopoisk_votes": 577,
+        "kinopoisk_votes": 584,
         "imdb_rating": 6.3,
-        "imdb_votes": 1515,
+        "imdb_votes": 1525,
         "shikimori_rating": 6.69,
         "shikimori_votes": 794,
         "premiere_world": "2020-04-23",
@@ -8612,1259 +9520,6 @@
             "6": ""
           }
         }
-      }
-    },
-    {
-      "id": "serial-25650",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Стоит ли нам влюбляться",
-      "title_orig": "Yong wang zhi qian lian shang ni",
-      "other_title": "Стоит ли нам влюбиться / Shall We Fall in Love",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 24,
-      "episodes_count": 24,
-      "kinopoisk_id": "1338369",
-      "quality": "WEB-DLRip 1080p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-13T03:03:03Z",
-      "updated_at": "2020-06-05T08:13:19Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Стоит ли нам влюбляться",
-        "title_en": "Yong wang zhi qian lian shang ni",
-        "year": 2018,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1338369.jpg",
-        "duration": 45,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "premiere_world": "2018-12-27",
-        "actors": [
-          "Никкун",
-          "Ли Мучэнь",
-          "Ван Цзыжуй",
-          "Лю Хайкуань"
-        ]
-      }
-    },
-    {
-      "id": "serial-26536",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Хорошенькое лекарство: Ловцы сердец",
-      "title_orig": "Heartcatch Precure!",
-      "other_title": "Хорошенькое Лекарство - Ловцы сердец!",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2010,
-      "last_season": 1,
-      "last_episode": 49,
-      "episodes_count": 49,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7773",
-      "shikimori_id": "7645",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-05T08:12:20Z",
-      "updated_at": "2020-06-05T08:12:20Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": "",
-            "26": "",
-            "27": "",
-            "28": "",
-            "29": "",
-            "30": "",
-            "31": "",
-            "32": "",
-            "33": "",
-            "34": "",
-            "35": "",
-            "36": "",
-            "37": "",
-            "38": "",
-            "39": "",
-            "40": "",
-            "41": "",
-            "42": "",
-            "43": "",
-            "44": "",
-            "45": "",
-            "46": "",
-            "47": "",
-            "48": "",
-            "49": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Хорошенькое лекарство: Ловцы сердец",
-        "title_en": "Heartcatch Precure!",
-        "other_titles": [
-          "Heartcatch Pretty Cure!"
-        ],
-        "other_titles_jp": [
-          "ハートキャッチプリキュア!"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "description": "] Цубоми Ханасаки только что переехала со своей семьёй в город Кибогахана и живёт с бабушкой. Она очень застенчива и замкнута, но полна решимости начать новую жизнь в школе Мёдо и набраться уверенности в себе. В последнее время ей снится один и тот же таинственный сон: поражение Лекарств Лунного Света в Великом Дереве Сердца. Она не знает, что всё это значит. Неожиданно она встречает двух фей из сна, и, прежде чем девочка что-то понимает, превращается в легендарное хорошенькое лекарство, Лекарство Цветения! Позже к ней присоединяется её одноклассница и новая подруга, высокая и энергичная Эрика Куруми . Две девушки клянутся защитить все цветы сердца от злых ​​банд, посланников Пустыни!",
-        "poster_url": "https://shikimori.one/system/animes/original/7645.jpg",
-        "anime_genres": [
-          "Комедия",
-          "Магия",
-          "Повседневность",
-          "Сёдзё",
-          "Фэнтези",
-          "Школа",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Toei Animation"
-        ],
-        "shikimori_rating": 7.8,
-        "shikimori_votes": 202,
-        "aired_at": "2010-02-07",
-        "released_at": "2011-01-30",
-        "rating_mpaa": "G",
-        "episodes_total": 49,
-        "episodes_aired": 49
-      }
-    },
-    {
-      "id": "serial-26529",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Небесная любовь",
-      "title_orig": "Yer Gök Ask",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2010,
-      "last_season": 3,
-      "last_episode": 32,
-      "episodes_count": 118,
-      "kinopoisk_id": "585192",
-      "imdb_id": "tt1786368",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-01T10:49:22Z",
-      "updated_at": "2020-06-05T08:03:58Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": "",
-            "26": "",
-            "27": "",
-            "28": "",
-            "29": "",
-            "30": "",
-            "31": "",
-            "32": "",
-            "33": "",
-            "34": "",
-            "35": "",
-            "36": "",
-            "37": "",
-            "38": "",
-            "39": "",
-            "40": "",
-            "41": "",
-            "42": "",
-            "43": ""
-          }
-        },
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": "",
-            "26": "",
-            "27": "",
-            "28": "",
-            "29": "",
-            "30": "",
-            "31": "",
-            "32": "",
-            "33": "",
-            "34": "",
-            "35": "",
-            "36": "",
-            "37": "",
-            "38": "",
-            "39": "",
-            "40": "",
-            "41": "",
-            "42": "",
-            "43": ""
-          }
-        },
-        "3": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": "",
-            "26": "",
-            "27": "",
-            "28": "",
-            "29": "",
-            "30": "",
-            "31": "",
-            "32": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Небесная любовь",
-        "title_en": "Yer Gök Ask",
-        "year": 2010,
-        "description": "Это история двух непохожих словно небо и земля сестер – Хаввы и Топрак, которые по воле судьбы становятся участниками любовного треугольника. По сюжету Топрак только что пережила смерть своего ребенка. А Хавва пытается найти свое место в жизни. Они такие разные: одна -  полна грусти и отчаяния, хочет покончить жизнь самоубийством, вторая – гордая и свободолюбивая девушка, которая всегда добивается своих целей. В их жизни появляется Юсуф, который только что стал вдовцом и остался один со своим новорожденным сыном.  Никто из них не знает, что вскоре им предстоят тяжкие испытания судьбы.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/585192.jpg",
-        "duration": 45,
-        "countries": [
-          "Турция"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 385,
-        "imdb_rating": 3.9,
-        "imdb_votes": 395,
-        "actors": [
-          "Кансин Озиосун",
-          "Мурат Юналмыш",
-          "Бирдже Акалай",
-          "Селен Сойдер",
-          "Ипек Эрдем",
-          "Айшегюль Гюнай",
-          "Ишил Юджесой",
-          "Йильмаз Джалайир",
-          "Джейда Атеш",
-          "Толгахан Сайышман"
-        ],
-        "directors": [
-          "Атиль Инач",
-          "Улас Инан Инач"
-        ],
-        "producers": [
-          "Шюкрю Авшар"
-        ],
-        "writers": [
-          "Эйлем Джанполат",
-          "Сема Эргенекон"
-        ],
-        "composers": [
-          "Айтекин Аташ"
-        ]
-      }
-    },
-    {
-      "id": "serial-26535",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Хайди - девочка Альп [ТВ]",
-      "title_orig": "Alps no Shoujo Heidi",
-      "other_title": "Хайди — девочка Альп / Heidi, Girl of the Alps",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1974,
-      "last_season": 1,
-      "last_episode": 52,
-      "episodes_count": 52,
-      "kinopoisk_id": "408544",
-      "imdb_id": "tt0070968",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=268",
-      "shikimori_id": "2225",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-05T08:03:07Z",
-      "updated_at": "2020-06-05T08:03:07Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": "",
-            "26": "",
-            "27": "",
-            "28": "",
-            "29": "",
-            "30": "",
-            "31": "",
-            "32": "",
-            "33": "",
-            "34": "",
-            "35": "",
-            "36": "",
-            "37": "",
-            "38": "",
-            "39": "",
-            "40": "",
-            "41": "",
-            "42": "",
-            "43": "",
-            "44": "",
-            "45": "",
-            "46": "",
-            "47": "",
-            "48": "",
-            "49": "",
-            "50": "",
-            "51": "",
-            "52": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Хайди – девочка Альп",
-        "title_en": "Arupusu no shojo Haiji",
-        "other_titles": [
-          "Heidi: Girl of the Alps"
-        ],
-        "other_titles_jp": [
-          "アルプスの少女ハイジ"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 1974,
-        "description": "После смерти родителей маленькая Хайди попадает на воспитание к тёте Дет, которая заботилась о ней до пятилетнего возраста. Но сейчас тётя нашла работу во Франкфурте, и девочка начинает мешать ей обустраивать собственную жизнь. Тётя отвозит Хайди жить в Альпийские горы к дедушке, суровому и сварливому, но неплохому старику. Через некоторое время её снова забирают и отдают в богатый дом, где она должна быть компаньонкой больной девочке Кларе, прикованной к инвалидному креслу.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/408544.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/20567cf3a8bb0592212d22070bfac31cd479d130.jpg",
-          "https://shikimori.one/system/screenshots/original/38376e3276785783d2e7277007c70dac537419b1.jpg"
-        ],
-        "duration": 28,
-        "countries": [
-          "Германия (ФРГ)",
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Исторический",
-          "Повседневность"
-        ],
-        "anime_studios": [
-          "Nippon Animation"
-        ],
-        "imdb_rating": 7.5,
-        "imdb_votes": 4554,
-        "shikimori_rating": 7.28,
-        "shikimori_votes": 139,
-        "premiere_world": "1974-01-06",
-        "aired_at": "1974-01-06",
-        "released_at": "1974-12-29",
-        "rating_mpaa": "PG",
-        "minimal_age": 0,
-        "episodes_total": 52,
-        "episodes_aired": 0,
-        "actors": [
-          "Кадзуко Сугияма",
-          "Кохэи Мияути",
-          "Норико Охара",
-          "Тосико Савада",
-          "Кодзи Яда",
-          "Таэко Наканиси",
-          "Кэатон Ямада",
-          "Риоко Ёсида",
-          "Миёко Асо"
-        ],
-        "directors": [
-          "Исао Такахата"
-        ],
-        "producers": [
-          "Такадзи Мацудо",
-          "Сигэто Такахаси"
-        ],
-        "writers": [
-          "Исао Мацуки",
-          "Мамору Сасаки",
-          "Йоханна Шпири",
-          "Ёсиаки Ёсида"
-        ],
-        "composers": [
-          "Такэо Ватанабэ",
-          "Герт Вилден"
-        ],
-        "editors": [
-          "Такэси Сэяма"
-        ],
-        "designers": [
-          "Масахиро Иока"
-        ],
-        "operators": [
-          "Кэи Куроки",
-          "Кэисити Куроки"
-        ]
-      }
-    },
-    {
-      "id": "movie-56328",
-      "type": "anime",
-      "link": "",
-      "title": "Здравствуй, мир",
-      "title_orig": "Hello World",
-      "translation": {
-        "id": 1325,
-        "title": "AniRai",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1253941",
-      "imdb_id": "tt9418812",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9929",
-      "shikimori_id": "38816",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-06-05T07:56:02Z",
-      "updated_at": "2020-06-05T07:56:02Z",
-      "material_data": {
-        "title": "Здравствуй, мир",
-        "title_en": "Hello World",
-        "other_titles": [
-          "Привет, мир"
-        ],
-        "other_titles_jp": [
-          "ハロー・ワールド"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2019,
-        "tagline": "Even if the world is destroyed, I want to see you one more time.",
-        "description": "Киото, 2027 год. Стеснительный школьник Наоми Катагаки боится даже говорить вслух в классе, а о том, чтобы признаться в симпатии однокласснице, речи вообще не идёт. Однажды по дороге из школы парень видит в небе непонятное свечение, из которого появляется ворона и утаскивает у него книгу. Погнавшись за птицей и испытав ещё более загадочное искривление пространства, Наоми встречает молодого человека, который заявляет, что он - это он сам 10 лет спустя. Гость заявился, чтобы предотвратить некое ужасное событие, а для этого он должен первым делом найти Наоми девушку.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1253941.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/9ca9ef31407f1ad4b79d7d0b9683343aa367961b.jpg",
-          "https://shikimori.one/system/screenshots/original/e82560c5d635fa42d1ce2ad5f38d8f2e5186d0b0.jpg"
-        ],
-        "duration": 98,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Романтика",
-          "Фантастика"
-        ],
-        "anime_studios": [
-          "Graphinica"
-        ],
-        "kinopoisk_rating": 7.4,
-        "kinopoisk_votes": 9553,
-        "imdb_rating": 6.8,
-        "imdb_votes": 1404,
-        "shikimori_rating": 7.6,
-        "shikimori_votes": 3646,
-        "premiere_world": "2019-09-20",
-        "aired_at": "2019-09-20",
-        "rating_mpaa": "PG-13",
-        "minimal_age": 12,
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Тори Мацудзака",
-          "Минами Хамабэ",
-          "Такуми Китамура",
-          "Харука Фукухара",
-          "Минако Котобуки",
-          "Такэхито Коясу",
-          "Риэ Кугимия"
-        ],
-        "directors": [
-          "Томохико Ито"
-        ],
-        "producers": [
-          "Кацухиро Такэи"
-        ],
-        "writers": [
-          "Мадо Нодзаки"
-        ],
-        "editors": [
-          "Сигэру Нисияма"
-        ],
-        "designers": [
-          "Юкико Хоригути"
-        ],
-        "operators": [
-          "Ёсики Обата"
-        ]
-      }
-    },
-    {
-      "id": "serial-26534",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Прилипала",
-      "title_orig": "Petopeto-san",
-      "other_title": "Прилипала-сан",
-      "translation": {
-        "id": 1029,
-        "title": "Sad Kit",
-        "type": "voice"
-      },
-      "year": 2005,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4790",
-      "shikimori_id": "612",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-05T07:53:59Z",
-      "updated_at": "2020-06-05T07:53:59Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Прилипала-сан",
-        "title_en": "PetoPeto-san",
-        "other_titles_jp": [
-          "ぺとぺとさん"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "description": "Хатоко Фуджимуру никто не зовет по имени. Все зовут ее «Прилипалой». Но это вовсе не обидное прозвище. Она и в самом деле ёкай-прилипала. Дух, который прилипает к людям, которые ему нравятся.\r\nВ один прекрасный день она приходит в школу совместного обучения людей и ёкаев и случайно прилипает к одному из мальчишек. С этого и начинается наше повествование.",
-        "poster_url": "https://shikimori.one/system/animes/original/612.jpg",
-        "anime_genres": [
-          "Демоны",
-          "Комедия",
-          "Романтика",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Xebec"
-        ],
-        "shikimori_rating": 6.54,
-        "shikimori_votes": 87,
-        "aired_at": "2005-07-09",
-        "released_at": "2005-10-01",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 13,
-        "episodes_aired": 0
-      }
-    },
-    {
-      "id": "movie-531",
-      "type": "anime",
-      "link": "",
-      "title": "Со склонов Кокурико",
-      "title_orig": "Kokuriko-zaka kara",
-      "other_title": "С маковых полей [Фильм] / Coquelicot-zaka kara / From Up on Poppy Hill",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 2011,
-      "kinopoisk_id": "574726",
-      "imdb_id": "tt1798188",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8121",
-      "shikimori_id": "10029",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2014-07-10T17:39:48Z",
-      "updated_at": "2020-06-05T07:47:09Z",
-      "material_data": {
-        "title": "Со склонов Кокурико",
-        "title_en": "Kokuriko-zaka kara",
-        "other_titles": [
-          "Coquelicot-zaka kara",
-          "Kokuriko-saka kara",
-          "Kokuriko-zaka kara",
-          "Coquelicot Saka kara",
-          "Kokurikozaka kara"
-        ],
-        "other_titles_en": [
-          "From Up on Poppy Hill"
-        ],
-        "other_titles_jp": [
-          "コクリコ坂から"
-        ],
-        "anime_license_name": "Со склонов Кокурико",
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2011,
-        "description": "1963 год, близ Иокогамы. Отец Уми Мацудзаки — командир корабля, погиб 10 лет назад во время Корейской войны, когда та была совсем маленькой. Пока её мама в отъезде, девочке приходится вести хозяйство, в частности, не забывать каждое утро поднимать флажки — такое правило установил отец, чтобы видеть с моря, что его ждут дома.\n\rВ городке имеется школьный клуб, с разнообразными кружками по интересам. Но его хотят закрыть, тем более, что здание, в котором он базируется, уже обветшало. И вот Уми со школьными активистами должна ехать в Токио к спонсору школы, чтобы спасти дом от разрушения. На фоне общественной деятельности просыпается первая любовь.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/574726.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/f509c792a0c49579675207ab8bbe609e41127ab0.JPG",
-          "https://shikimori.one/system/screenshots/original/f5aff75313d05e2aa69ca16586768de5e3b1b26d.JPG"
-        ],
-        "duration": 91,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Исторический",
-          "Романтика",
-          "Сёдзё",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Studio Ghibli"
-        ],
-        "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 16171,
-        "imdb_rating": 7.4,
-        "imdb_votes": 34896,
-        "shikimori_rating": 7.86,
-        "shikimori_votes": 6421,
-        "premiere_ru": "2012-10-18",
-        "premiere_world": "2011-07-16",
-        "aired_at": "2011-07-16",
-        "rating_mpaa": "PG",
-        "minimal_age": 12,
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Масами Нагасава",
-          "Дзюнъити Окада",
-          "Кэйко Такэсита",
-          "Юрико Исида",
-          "Руми Хиираги",
-          "Дзюн Фубуки",
-          "Такаси Наито",
-          "Сюнсукэ Кадзама",
-          "Нао Омори",
-          "Тэруюки Кагава"
-        ],
-        "directors": [
-          "Горо Миядзаки"
-        ],
-        "producers": [
-          "Тэцуро Саяма",
-          "Тосио Судзуки",
-          "Тидзуру Такахаси",
-          "Нобуо Каваками"
-        ],
-        "writers": [
-          "Тэцуро Саяма",
-          "Хаяо Миядзаки",
-          "Кэйко Нива",
-          "Тидзуру Такахаси"
-        ],
-        "composers": [
-          "Сатоси Такэбэ"
-        ],
-        "editors": [
-          "Такэси Сэяма"
-        ],
-        "designers": [
-          "Камон Оба",
-          "Ёхэй Такамацу",
-          "Нобору Ёсида",
-          "Такаси Омори"
-        ],
-        "operators": [
-          "Ацуси Окуи"
-        ]
-      }
-    },
-    {
-      "id": "serial-26532",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Звездный гонщик: Блистательный Такуто [ТВ]",
-      "title_orig": "Star Driver: Kagayaki no Takuto",
-      "other_title": "Звездный пилот: Блистательный Такт / Звездный пилот: Блистательный Такуто",
-      "translation": {
-        "id": 739,
-        "title": "Animedia",
-        "type": "voice"
-      },
-      "year": 2010,
-      "last_season": 1,
-      "last_episode": 25,
-      "episodes_count": 25,
-      "kinopoisk_id": "602371",
-      "imdb_id": "tt1729627",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6603",
-      "shikimori_id": "8934",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-05T07:37:17Z",
-      "updated_at": "2020-06-05T07:37:35Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Звездный гонщик: Блистательный Такуто",
-        "title_en": "Star Driver: Kagayaki no Takuto",
-        "other_titles": [
-          "Звёздный гонщик: Блистательный Такуто",
-          "STAR DRIVER: Shining Takuto"
-        ],
-        "other_titles_en": [
-          "Star Driver"
-        ],
-        "other_titles_jp": [
-          "STAR DRIVER 輝きのタクト"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2010,
-        "description": "Далекий остров Южного Креста хранит в своих подземельях два десятка «сайбодов» - загадочные меха-устройства, способные дать пилоту, «звездному гонщику», неограниченные возможности. Сайбоды и их силы заперты в подземелье четырьмя печатями, каждую из которых хранит одна из Священных Дев. Способности чудесных машин и способы снятия печатей давно изучает зловещая организация «Мерцающий Звездный Крест», а для прикрытия подобной активности на острове построена престижная академия, в которой учатся вроде бы нормальные парни и девушки. На деле большинство учителей и учеников ведет двойную жизнь, работая на заговорщиков, и лишь немногие верны хранительницам тайны острова.\n\rНо все коварные замыслы врагов разлетаются в пыль, когда старшеклассница Вако Агэмаки, она же Дева Юга, спасает незнакомого парня, решившего приплыть на остров своим ходом во тьме тропической ночи. Спасенный, Такуто Цунаси, оказался переведенным учеником, которому просто надоело ждать очередной корабль. А еще рыжий вихрастый парень со звездой на сердце, как вскоре выяснилось - Галактический Красавец, бисёнэн-супермен, избранник судьбы, пилот сайбода Таубурн и народный певец весны юности. Учитывая, что в мире сериала прав тот, кто сумеет вместить больше пафоса в единицу экранного времени, Блистательный Такуто непобедим, а судьба острова в надежных руках!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/602371.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/35a11bbbfe05c6efb163799b75edd3ce617b4386.png",
-          "https://shikimori.one/system/screenshots/original/0955aba6fb271189adbaa2c5af2dd26625872ded.png"
-        ],
-        "duration": 625,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фантастика"
-        ],
-        "anime_genres": [
-          "Меха",
-          "Романтика",
-          "Сёнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Bones"
-        ],
-        "kinopoisk_rating": 6.1,
-        "kinopoisk_votes": 189,
-        "imdb_rating": 6.2,
-        "imdb_votes": 147,
-        "shikimori_rating": 7.23,
-        "shikimori_votes": 1525,
-        "premiere_world": "2010-10-03",
-        "aired_at": "2010-10-03",
-        "released_at": "2011-04-03",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 25,
-        "episodes_aired": 25,
-        "directors": [
-          "Такуя Игараси",
-          "Икуро Сато",
-          "Синъитиро Ватанабэ",
-          "Ёсиюки Асаи",
-          "Макото Футигами",
-          "Тосинори Нарита",
-          "Хисатоси Симицу",
-          "Ёсихидэ Юдзуми",
-          "Таро Ивасаки",
-          "Кэисукэ Ониси"
-        ],
-        "producers": [
-          "Ацуси Хигасияма",
-          "Хирофуми Инагаки",
-          "Хидэо Кацумата",
-          "Нобуюки Курасигэ",
-          "Хиро Маруяма",
-          "Масахико Минами",
-          "Ёсихиро Оябу",
-          "Кодзи Тагути",
-          "Сэйдзи Такэда",
-          "Син Унодзава"
-        ],
-        "writers": [
-          "Ёдзи Энокидо"
-        ],
-        "composers": [
-          "Сатору Косаки"
-        ],
-        "editors": [
-          "Сигэру Нисияма"
-        ],
-        "designers": [
-          "Кацуо Нагаи",
-          "Такэси Ваки"
-        ],
-        "operators": [
-          "Цуёси Канбаяси"
-        ]
-      }
-    },
-    {
-      "id": "serial-23922",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Его воспоминания",
-      "title_orig": "Geu namjaui gieokbeop",
-      "other_title": "Мемуары мужчины / То, как он помнит / Найди меня в своей памяти / Отыщи меня в своей памяти / Отыщи меня в своей памяти / The Way He Remembers / Memoir of the Man / Find Me in Your Memory",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1316569",
-      "imdb_id": "tt11885790",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-03-20T15:37:30Z",
-      "updated_at": "2020-06-05T07:28:40Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Его воспоминания",
-        "title_en": "Geu namjaui gieokbeop",
-        "year": 2020,
-        "description": "История отношений между мужчиной с гипертиместическим синдромом (способностью помнить практически каждый момент своей жизни) и женщиной, которая забыла важную часть своего прошлого.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1316569.jpg",
-        "duration": 35,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.1,
-        "kinopoisk_votes": 178,
-        "imdb_rating": 7.4,
-        "imdb_votes": 321,
-        "premiere_world": "2020-03-18",
-        "actors": [
-          "Ким Дон-ук",
-          "Мун Га-ён",
-          "Юн Джон-хун",
-          "Ли Джу-бин",
-          "Чан Ён-нам",
-          "Хан Да-ми",
-          "Ли Сын-джун",
-          "Ким Сыль-ги",
-          "Чу Сок-тхэ",
-          "Чи Иль-джу"
-        ],
-        "directors": [
-          "О Хён-джон"
-        ],
-        "writers": [
-          "Ким Юн-джу"
-        ]
-      }
-    },
-    {
-      "id": "serial-26528",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Кто ты?",
-      "title_orig": "Huayu",
-      "other_title": "Who are you? / Who Are You (2013)",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2013,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "776449",
-      "imdb_id": "tt3184700",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-05T07:25:40Z",
-      "updated_at": "2020-06-05T07:25:40Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Кто ты?",
-        "title_en": "Huayu",
-        "year": 2013,
-        "description": "После шестилетней комы Щи-он видит то, что обычным людям увидеть не под силу. И ее доброе сердце не может не откликнуться на просьбы призраков о помощи. Он верит только в то, что может увидеть своими глазами и к чему может прикоснуться.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/776449.jpg",
-        "duration": 49,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "детектив",
-          "мелодрама",
-          "триллер"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 1377,
-        "imdb_rating": 6.8,
-        "imdb_votes": 233,
-        "premiere_world": "2013-07-29",
-        "actors": [
-          "Со И-хён",
-          "Тхэгён",
-          "Ким Джэ-ук",
-          "Ким Е-вон",
-          "Ким Чхан-ван",
-          "Пак Ён-джи",
-          "Чан Хён-сон",
-          "Но Ён-хак",
-          "Мун Га-ён",
-          "Ким Сын-су"
-        ],
-        "directors": [
-          "Чо Хён-тхак"
-        ],
-        "writers": [
-          "Пан Ги-ри"
-        ]
-      }
-    },
-    {
-      "id": "movie-56316",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Дитя луны",
-      "title_orig": "Moon Child",
-      "translation": {
-        "id": 590,
-        "title": "Кузнецов",
-        "type": "voice"
-      },
-      "year": 2003,
-      "kinopoisk_id": "55487",
-      "imdb_id": "tt0365514",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-06-05T06:27:11Z",
-      "updated_at": "2020-06-05T06:27:11Z",
-      "material_data": {
-        "title": "Дитя Луны",
-        "title_en": "Moon Child",
-        "year": 2003,
-        "tagline": "At that time, we laughed as we cried",
-        "description": "Действие происходит в вымышленном городе Маллепа. Иммигранты разных рас и национальностей смешиваются, каждый занимается своим бизнесом. Тут мы встречаем Кэя, вампира, который потерял волю к жизни после отъезда его единственного друга-вампира. Кэй хочет умереть, но вскоре его встречает сирота - парень по имени Сё. Сё узнает о вампиризме Кэя и не пугается этого. Постепенно он становится его лучшим другом. Действие переносится на несколько лет вперед, когда его банда подростков стала взрослой. Они грабят местную мафию, действуя так бесстрашно, как будто ничего не может им повредить, хотя на самом деле единственным бессмертным среди них является Кэй. Затем, в ходе одного «дела», они встречают Сона, и их судьбы переплетаются навсегда",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/55487.jpg",
-        "duration": 120,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "фантастика"
-        ],
-        "kinopoisk_rating": 7.3,
-        "kinopoisk_votes": 809,
-        "imdb_rating": 6.4,
-        "imdb_votes": 1967,
-        "premiere_world": "2003-04-19",
-        "actors": [
-          "Хидэто Такараи",
-          "Гакт",
-          "Ван Лихом",
-          "Таро Ямамото",
-          "Сусуму Тэрадзима",
-          "Зени Квок",
-          "Сейджи Чихара",
-          "Кодзи Тихара",
-          "Йош",
-          "Каната Хонго"
-        ],
-        "directors": [
-          "Такахиса Дзэдзэ"
-        ],
-        "producers": [
-          "Такаси Хирано",
-          "Biao Hsu"
-        ],
-        "writers": [
-          "Гакт",
-          "Такахиса Дзэдзэ",
-          "Кисю Идзути"
-        ],
-        "composers": [
-          "Горо Ясукава"
-        ],
-        "operators": [
-          "Такахидэ Сибануси"
-        ]
       }
     }
   ]
