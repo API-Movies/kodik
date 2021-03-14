@@ -1,6 +1,818 @@
 {
   "results": [
     {
+      "id": "serial-25504",
+      "type": "anime-serial",
+      "link": "",
+      "title": "DD Кулак Северной Звезды",
+      "title_orig": "DD Hokuto no Ken (2013)",
+      "other_title": "DD北斗の拳 (2013)",
+      "translation": {
+        "id": 1196,
+        "title": "Zetsubou",
+        "type": "voice"
+      },
+      "year": 2013,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "imdb_id": "tt4563516",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1392",
+      "shikimori_id": "17705",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-07T13:44:30Z",
+      "updated_at": "2020-05-07T13:44:30Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Легенда боевых лентяев Северной звезды (2013)",
+        "title_en": "DD Hokuto no Ken (2013)",
+        "other_titles_en": [
+          "DD Fist of the North Star"
+        ],
+        "other_titles_jp": [
+          "DD北斗の拳"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "poster_url": "https://shikimori.one/system/animes/original/17705.jpg",
+        "anime_genres": [
+          "Пародия",
+          "Сейнен"
+        ],
+        "anime_studios": [
+          "TV Tokyo",
+          "Asia-Do",
+          "Sentai Filmworks"
+        ],
+        "shikimori_rating": 6.53,
+        "shikimori_votes": 97,
+        "aired_at": "2013-04-03",
+        "released_at": "2013-06-26",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 13,
+        "episodes_aired": 11
+      }
+    },
+    {
+      "id": "serial-24910",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Романтические разговоры",
+      "title_orig": "Romance Talking",
+      "other_title": "Любовные разговоры / Беседы о любви",
+      "translation": {
+        "id": 963,
+        "title": "Amazing Dubbing",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 8,
+      "episodes_count": 8,
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-18T18:44:42Z",
+      "updated_at": "2020-05-07T13:25:43Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": ""
+          }
+        }
+      }
+    },
+    {
+      "id": "movie-54977",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Вера",
+      "title_orig": "Trust",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "997821",
+      "imdb_id": "tt5541186",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-07T12:23:26Z",
+      "updated_at": "2020-05-07T12:23:26Z",
+      "material_data": {
+        "title": "Вера",
+        "title_en": "Trust",
+        "year": 2018,
+        "tagline": "When life falls apart...",
+        "description": "Жизнь Дэниэла переворачивается с ног на голову после череды печальных событий, отражающих жизнь библейского персонажа Иова.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/997821.jpg",
+        "duration": 92,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 6.7,
+        "imdb_votes": 53,
+        "premiere_world": "2018-04-01",
+        "actors": [
+          "SuzanMarie",
+          "Lance Bonza",
+          "Хадсон Бранд",
+          "Danny Elacci",
+          "Tess Dobré",
+          "Куинтен Браун",
+          "Тим Мэйсон Скотт",
+          "Челси Беннетт",
+          "Лиза Кэри",
+          "Keith Austring"
+        ],
+        "directors": [
+          "Энгус Бенфилд"
+        ],
+        "producers": [
+          "Лайл Кэри",
+          "Стивен Томас"
+        ],
+        "writers": [
+          "Энгус Бенфилд"
+        ],
+        "editors": [
+          "Эндрю МакФерсон"
+        ],
+        "operators": [
+          "Мик Иди"
+        ]
+      }
+    },
+    {
+      "id": "movie-54979",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "С значит Счастье",
+      "title_orig": "H is for Happiness",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1219445",
+      "imdb_id": "tt6943854",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-07T12:19:19Z",
+      "updated_at": "2020-05-07T12:19:19Z",
+      "material_data": {
+        "title": "С значит счастье",
+        "title_en": "H Is for Happiness",
+        "year": 2019,
+        "tagline": "Happiness is inside all of us. You just have to find it.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1219445.jpg",
+        "duration": 98,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "семейный"
+        ],
+        "imdb_rating": 6.7,
+        "imdb_votes": 301,
+        "premiere_world": "2019-08-11",
+        "actors": [
+          "Мириам Маргулис",
+          "Daisy Axon",
+          "Ali Jayne Tognini",
+          "Talissa Mansfield",
+          "Chenae Wreford",
+          "Mand Markey",
+          "Selva Kasilingam",
+          "Джордж Шевцов",
+          "Peter Leighton",
+          "Эмма Бут"
+        ],
+        "directors": [
+          "Джон Шиди"
+        ],
+        "producers": [
+          "Лиза Хопп",
+          "Тениль Кеннеди",
+          "Джули Райан",
+          "Ричард Ист",
+          "Брайс Мензес",
+          "Джонатан Пейдж",
+          "Эврилл Старк",
+          "Эби Табоун"
+        ],
+        "writers": [
+          "Лиза Хопп"
+        ],
+        "composers": [
+          "Нерида Тайсон-Чю"
+        ],
+        "editors": [
+          "Джоанна Скотт"
+        ],
+        "designers": [
+          "Ники Гардинер",
+          "Марита Массет",
+          "Терри Ламера"
+        ],
+        "operators": [
+          "Бонни Эллиот",
+          "Рик Рифичи"
+        ]
+      }
+    },
+    {
+      "id": "serial-4389",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "14-ти летняя мама",
+      "title_orig": "Jû yon sai no haha",
+      "other_title": "Juyon-sai no Haha / 14-year-old Mother / 14 sai no haha",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2006,
+      "last_season": 1,
+      "last_episode": 11,
+      "episodes_count": 11,
+      "kinopoisk_id": "402910",
+      "imdb_id": "tt0969666",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-07-29T14:05:54Z",
+      "updated_at": "2020-05-07T12:08:09Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "14-летняя мама",
+        "title_en": "Ju yon sai no haha",
+        "year": 2006,
+        "description": "Итак, в один прекрасный солнечный день 14-летняя ученица Учиносэ Мики сбегает из школы. И наслаждается отличным днем. Заодно встречает 15-летнего ученика Кирино Сатоши. И весь оставшийся день они вместе весело проводят время. Вот только спустя некоторое время всплывает очень «веселый» результат такого времяпрепровождения, Мики беременна. Как сказать об этом родителям, как сказать Сатоши? Оставить ребенка или делать аборт? Как это воспримут родители, друзья, соседи. А если еще и журналисты подольют масла в огонь. Но даже, если, не смотря ни на что, решаешься рожать ребенка в 14 лет, придется стерпеть еще и кучу физических неудобств и боли, ведь в 14 организм еще не окреп.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/402910.jpg",
+        "duration": 58,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 7.9,
+        "kinopoisk_votes": 310,
+        "imdb_rating": 7.5,
+        "imdb_votes": 139,
+        "premiere_world": "2006-10-11",
+        "actors": [
+          "Рина Коикэ",
+          "Харума Миура",
+          "Ицуми Осава",
+          "Мираи Сида",
+          "Кацухиса Намасэ",
+          "Мисако Танака",
+          "Кадзуки Китамура"
+        ],
+        "producers": [
+          "Тихо Асаи"
+        ],
+        "editors": [
+          "Симада Акинори"
+        ],
+        "operators": [
+          "Хидэфуми Нагасима"
+        ]
+      }
+    },
+    {
+      "id": "serial-25496",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Одарённые",
+      "title_orig": "The Gifted",
+      "other_title": "The Gifted (2018)",
+      "translation": {
+        "id": 941,
+        "title": "Pus'ki production",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "1204384",
+      "imdb_id": "tt9136312",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-07T12:07:02Z",
+      "updated_at": "2020-05-07T12:07:02Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Одарённые",
+        "title_en": "The Gifted",
+        "year": 2018,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1204384.jpg",
+        "duration": 45,
+        "countries": [
+          "Таиланд"
+        ],
+        "genres": [
+          "драма",
+          "фантастика",
+          "фэнтези"
+        ],
+        "imdb_rating": 8.4,
+        "imdb_votes": 244,
+        "premiere_world": "2018-08-05",
+        "actors": [
+          "Katreeya English",
+          "Rangsiwut Chalopathump",
+          "Suthita Kornsai",
+          "Prame Pumipat Paiboon",
+          "Thongchai Pimapansree",
+          "Supakan Benjaarruk",
+          "Praeploy Oree",
+          "Pumrapee Raksachat",
+          "Duangkamol Sukkawatwiboon",
+          "Nattamon Thongchiew"
+        ],
+        "directors": [
+          "Dhammarong Sermrittirong",
+          "Jarupat Kannula"
+        ]
+      }
+    },
+    {
+      "id": "movie-54975",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Братский роман",
+      "title_orig": "Phi chai",
+      "translation": {
+        "id": 941,
+        "title": "Pus'ki production",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "842130",
+      "imdb_id": "tt3522738",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-07T12:05:32Z",
+      "updated_at": "2020-05-07T12:05:32Z",
+      "material_data": {
+        "title": "Братский роман",
+        "title_en": "Phi chai",
+        "year": 2014,
+        "description": "Голф - неблагополучный старшеклассник, выросший без родителей. Внезапно возвращается отец, приведя с собой новую жену с сыном от первого брака. Бэнка подселяют в комнату Голфа, а в школе их усаживают за одну парту, но Голф отказывается принять брата, считая его одним из виновников развала семьи. Стерпев грубости и унижения, добродушный Бэнк добивается-таки расположения брата. Стремительное сближение заводит отношения парней далеко за пределы дружеских.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/842130.jpg",
+        "duration": 120,
+        "countries": [
+          "Таиланд"
+        ],
+        "genres": [
+          "драма",
+          "мелодрама"
+        ],
+        "kinopoisk_rating": 6.4,
+        "kinopoisk_votes": 250,
+        "imdb_rating": 6.4,
+        "imdb_votes": 448,
+        "premiere_world": "2014-02-20",
+        "minimal_age": 18,
+        "actors": [
+          "Тирапат Лоханан",
+          "Натач Сирипонгторн",
+          "Витхават Тхаокхамлае"
+        ],
+        "directors": [
+          "Нитчапум Чаианум"
+        ],
+        "composers": [
+          "Bill Hemstapat"
+        ]
+      }
+    },
+    {
+      "id": "movie-54982",
+      "type": "anime",
+      "link": "",
+      "title": "Призрак в доспехах",
+      "title_orig": "Kôkaku Kidôtai",
+      "other_title": "Koukaku Kidoutai / Ghost in the Shell",
+      "translation": {
+        "id": 779,
+        "title": "Первый канал",
+        "type": "voice"
+      },
+      "year": 1995,
+      "kinopoisk_id": "8228",
+      "imdb_id": "tt0113568",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=38",
+      "shikimori_id": "43",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-07T12:04:58Z",
+      "updated_at": "2020-05-07T12:04:58Z",
+      "material_data": {
+        "title": "Призрак в доспехах",
+        "title_en": "Kokaku kidotai",
+        "other_titles": [
+          "Дух в стальной плоти",
+          "Ghost in the Shell"
+        ],
+        "other_titles_en": [
+          "Ghost in the Shell"
+        ],
+        "other_titles_jp": [
+          "GHOST IN THE SHELL（攻殻機動隊）"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 1995,
+        "tagline": "It found a voice... now it needs a body.",
+        "description": "2029 год. Границы между государствами окончательно рухнули, благодаря повсеместно распространившимся компьютерным сетям и кибертехнологиям. Когда давно разыскиваемый хакер по кличке Кукловод начинает вмешиваться в политику, 9-й отдел Министерства Общественной безопасности - группа кибернетически модифицированных полицейских - получает задание найти и остановить хакера. Но в ходе расследования возникает вопрос: кто же такой Кукловод в том мире, где грань между человеком и машиной практически стерта?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/8228.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/df3fd0bba87e451d59caea1e991d5eb85601f8aa.png",
+          "https://shikimori.one/system/screenshots/original/74b994e8e7c4a3fdf7047e2d37a19cc526730e96.png"
+        ],
+        "duration": 83,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Меха",
+          "Полиция",
+          "Психологическое",
+          "Сейнен",
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Production I.G"
+        ],
+        "kinopoisk_rating": 7.9,
+        "kinopoisk_votes": 43841,
+        "imdb_rating": 8,
+        "imdb_votes": 126167,
+        "shikimori_rating": 8.3,
+        "shikimori_votes": 22395,
+        "premiere_world": "1995-09-23",
+        "aired_at": "1995-11-18",
+        "rating_mpaa": "R+",
+        "minimal_age": 16,
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Ацуко Танака",
+          "Акио Оцука",
+          "Коити Ямадэра",
+          "Ютака Накано",
+          "Тамио Оки",
+          "Тэссё Гэнда",
+          "Намаки Масакадзу",
+          "Масато Яманоути",
+          "Синдзи Огава",
+          "Мицуру Миямото"
+        ],
+        "directors": [
+          "Мамору Осии"
+        ],
+        "producers": [
+          "Мицухиса Исикава",
+          "Кэн Иядоми",
+          "Кэн Мацумото",
+          "Ёсимаса Мидзо",
+          "Макото Ибуки",
+          "Тэруо Мияхара",
+          "Такаси Моги",
+          "Ясуси Сукэо",
+          "Сигэру Ватанабэ",
+          "Хироси Ямадзаки"
+        ],
+        "writers": [
+          "Масамунэ Сиро",
+          "Кадзунори Ито"
+        ],
+        "composers": [
+          "Кэндзи Каваи"
+        ],
+        "editors": [
+          "Сюити Какэсу"
+        ],
+        "designers": [
+          "Такаси Ватабэ",
+          "Хиромаса Огура"
+        ],
+        "operators": [
+          "Хисао Сираи"
+        ]
+      }
+    },
+    {
+      "id": "movie-54970",
+      "type": "anime",
+      "link": "",
+      "title": "Вайолет Эвергарден: Вечность и призрак пера",
+      "title_orig": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+      "other_title": "Violet Evergarden: Eternity and the Auto Memories Doll",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1272450",
+      "imdb_id": "tt8241906",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10116",
+      "shikimori_id": "39741",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-07T11:01:27Z",
+      "updated_at": "2020-05-07T11:01:27Z",
+      "material_data": {
+        "title": "Вайолет Эвергарден: Вечность и призрак пера",
+        "title_en": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+        "other_titles": [
+          "Вайолет Эвергарден: Вечность и автозапоминающая кукла",
+          "Violet Evergarden Side Story: Eternity and the Auto Memories Doll"
+        ],
+        "other_titles_en": [
+          "Violet Evergarden I: Eternity and the Auto Memory Doll"
+        ],
+        "other_titles_jp": [
+          "ヴァイオレット・エヴァーガーデン 外伝 -永遠と自動手記人形-"
+        ],
+        "anime_license_name": "Вайолет Эвергарден: Вечность и призрак пера",
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "Отгремела великая война, поделившая континент на северную и южную части. Сотрудница почты Вайолет получает приглашение в пансион благородных девиц, чтобы научить манерам богатую наследницу Изабеллу, выросшую вдали от дома. В процессе обучения Вайолет помогает преодолеть разрыв между Изабеллой и её младшей сестрой Тейлор, с которой та была разлучена много лет, и написать письмо, в котором Изабелла сможет, наконец, выразить свои искренние чувства.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1272450.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/e24119ed4c2ee291caba87d1345cf691b216ca62.png",
+          "https://shikimori.one/system/screenshots/original/014216794577b6d39da4002134317df6e9b59a96.png"
+        ],
+        "duration": 90,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "драма",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Повседневность",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Kyoto Animation"
+        ],
+        "kinopoisk_rating": 7.3,
+        "kinopoisk_votes": 2874,
+        "imdb_rating": 7.4,
+        "imdb_votes": 2324,
+        "shikimori_rating": 8.4,
+        "shikimori_votes": 7774,
+        "premiere_ru": "2019-11-21",
+        "premiere_world": "2019-09-06",
+        "aired_at": "2019-09-06",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 12,
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Минако Котобуки",
+          "Юи Исикава",
+          "Минори Тихара",
+          "Ая Эндо",
+          "Такэхито Коясу",
+          "Харука Томацу",
+          "Коки Утияма",
+          "Аои Юки"
+        ],
+        "directors": [
+          "Харука Фудзита",
+          "Таити Исидатэ"
+        ],
+        "producers": [
+          "Хидэаки Хатта",
+          "Синъитиро Хатта"
+        ],
+        "writers": [
+          "Кана Акацуки",
+          "Рэйко Ёсида",
+          "Такааки Судзуки",
+          "Тацухико Урахата"
+        ],
+        "composers": [
+          "Эван Колл"
+        ],
+        "designers": [
+          "Микико Ватанабэ"
+        ],
+        "operators": [
+          "Кохэй Фунамото"
+        ]
+      }
+    },
+    {
+      "id": "serial-24649",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Прекрасное время юности",
+      "title_orig": "Shi Guang Yu Ni Du Hen Tian",
+      "other_title": "Лучшее время с тобой / Beautiful Time With You",
+      "translation": {
+        "id": 1198,
+        "title": "НИКО",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 1,
+      "episodes_count": 1,
+      "kinopoisk_id": "1364885",
+      "imdb_id": "tt11774290",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-10T14:49:30Z",
+      "updated_at": "2020-05-07T07:18:33Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Shi Guang Yu Ni Dou Hen Tian",
+        "title_en": "",
+        "year": 2020,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "premiere_world": "2020-02-14",
+        "actors": [
+          "Ruipeng Ao",
+          "Wanjin Cao",
+          "Ruoyuan Huang",
+          "Линь Синьи",
+          "Лу Сяоюй",
+          "Sansi Song",
+          "Yuanyuan Song",
+          "Сунь Цзэюань",
+          "Zhenyang Sun",
+          "Qing Wang"
+        ],
+        "directors": [
+          "Си Дао"
+        ],
+        "writers": [
+          "Hebaisanshao"
+        ]
+      }
+    },
+    {
+      "id": "movie-54954",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Сладкий картофель",
+      "title_orig": "Fan shu jiao mi",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1314678",
+      "imdb_id": "tt10226012",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-07T07:17:34Z",
+      "updated_at": "2020-05-07T07:17:34Z",
+      "material_data": {
+        "title": "Сладкий картофель",
+        "title_en": "Fan shu jiao mi",
+        "year": 2019,
+        "description": "Пожилая вдова Линь Сюмэй осталась в одиночестве после того, как взрослые сыновья покинули родной дом, а лучшая подруга умерла. Чувствуя себя никому ненужной и брошенной, Линь решает доказать, что еще может быть полезной для семьи.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1314678.jpg",
+        "duration": 109,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 6.1,
+        "imdb_votes": 14,
+        "premiere_world": "2019-10-13",
+        "directors": [
+          "Е Цянь"
+        ],
+        "writers": [
+          "Е Цянь"
+        ],
+        "operators": [
+          "Йоеви Верховен"
+        ]
+      }
+    },
+    {
       "id": "movie-54961",
       "type": "foreign-movie",
       "link": "",
@@ -165,7 +977,7 @@
           "триллер"
         ],
         "imdb_rating": 4.3,
-        "imdb_votes": 275,
+        "imdb_votes": 276,
         "premiere_world": "2020-05-01",
         "actors": [
           "Уильям Форсайт",
@@ -531,7 +1343,7 @@
         "imdb_rating": 7.3,
         "imdb_votes": 1526,
         "shikimori_rating": 7.45,
-        "shikimori_votes": 7310,
+        "shikimori_votes": 7380,
         "premiere_world": "2020-03-21",
         "aired_at": "2020-04-09",
         "released_at": "2020-05-06",
@@ -5674,7 +6486,7 @@
         "imdb_rating": 7.3,
         "imdb_votes": 1526,
         "shikimori_rating": 7.45,
-        "shikimori_votes": 7310,
+        "shikimori_votes": 7380,
         "premiere_world": "2020-03-21",
         "aired_at": "2020-04-09",
         "released_at": "2020-05-06",
@@ -8823,717 +9635,6 @@
         "rating_mpaa": "PG-13",
         "episodes_total": 1,
         "episodes_aired": 0
-      }
-    },
-    {
-      "id": "serial-24183",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Маги: Волшебный лабиринт",
-      "title_orig": "Magi: The Labyrinth of Magic",
-      "other_title": "Маги – волшебный лабиринт / Маги: Лабиринт магии [ТВ-1]",
-      "translation": {
-        "id": 958,
-        "title": "AniRise",
-        "type": "voice"
-      },
-      "year": 2012,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "718628",
-      "imdb_id": "tt2425098",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1045",
-      "shikimori_id": "14513",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-03-29T08:57:56Z",
-      "updated_at": "2020-05-04T22:31:00Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Маги – волшебный лабиринт",
-        "title_en": "Magi: The Labyrinth of Magic",
-        "other_titles": [
-          "Маги: Лабиринт волшебства",
-          "Magi Season 1"
-        ],
-        "other_titles_en": [
-          "Magi: The Labyrinth of Magic"
-        ],
-        "other_titles_jp": [
-          "マギ The labyrinth of magic"
-        ],
-        "anime_license_name": "Маги: Лабиринт волшебства",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2012,
-        "description": "По всему миру «арабских ночей» высятся несокрушимые башни, полные сокровищ и магических предметов. Откуда они взялись – неясно, но любой оставшийся в живых «покоритель донжонов» становится богат и знаменит. Именно такой судьбой грезит веселый Али-Баба, в одно прекрасное утро встретивший малыша, кушавшего в его повозке хозяйские арбузы. Аладдин, юный маг, вырвавшийся из храма, где рос в одиночестве, парнем оказался хорошим, но слегка наивным и жизни не знающим. Если бы не джинн Уго, сидевший во флейте Аладдина, в последующих приключениях ребята точно бы потеряли головы, а так и живы остались, и от злодеев ушли, и красотку прихватили за компанию!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/718628.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/de3a28bb6bcfea5e7031091c5d11df9dcec73637.jpg",
-          "https://shikimori.one/system/screenshots/original/1ed4549920a4cd622e3533af76a57b34c49d7977.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Магия",
-          "Приключения",
-          "Сёнен",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "A-1 Pictures"
-        ],
-        "kinopoisk_rating": 7.4,
-        "kinopoisk_votes": 2172,
-        "imdb_rating": 7.8,
-        "imdb_votes": 2976,
-        "shikimori_rating": 8.08,
-        "shikimori_votes": 18834,
-        "premiere_world": "2012-10-07",
-        "aired_at": "2012-10-07",
-        "released_at": "2013-03-31",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 25,
-        "episodes_aired": 25,
-        "actors": [
-          "Каори Исихара",
-          "Юки Кадзи",
-          "Харука Томацу",
-          "Эрик Скотт Кимерер",
-          "Эрика Мендес",
-          "Кристина Валенсуэла",
-          "Ray Carsillo",
-          "Мэттью Мерсер",
-          "Люсьен Додж",
-          "Даррел Гилбо"
-        ],
-        "directors": [
-          "Кодзи Масунари"
-        ],
-        "producers": [
-          "Юико Сагису"
-        ],
-        "writers": [
-          "Хироюки Ёсино"
-        ],
-        "composers": [
-          "Сиро Сагису"
-        ],
-        "operators": [
-          "Ёсихиро Сэкия"
-        ]
-      }
-    },
-    {
-      "id": "serial-25405",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Укрощение наследника",
-      "title_orig": "Cheonhamujeok Ipyeongkang",
-      "other_title": "Непобедимая Ли Пхён Ган / Invincible Lee Pyung Kang / Taming of the Heir",
-      "translation": {
-        "id": 620,
-        "title": "GREEN TEA",
-        "type": "voice"
-      },
-      "year": 2009,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "494451",
-      "imdb_id": "tt5801150",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-04T16:32:17Z",
-      "updated_at": "2020-05-04T16:32:17Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Укрощение наследника",
-        "title_en": "Cheonhamujeok Ipyeongkang",
-        "year": 2009,
-        "description": "Еще подростком Пхён-ган переехала из Сеула в провинцию Канвон из-за работы отца. Благодаря отцу, знаменитому дизайнеру площадок для гольфа, Пхён-ган с детства научилась разбираться во всех тонкостях проектирования полей для гольфа. К несчастью, безвременная кончина отца не позволила ему завершить амбициозный проект. Пхён-ган пыталась поддержать семью, но их комфортной жизни пришел конец.\n\rПрошло 8 лет. Пхён-ган, которая мечтала пойти по стопам отца, вынуждена принять реальность. Теперь она – кормилец семьи, и живёт от зарплаты до зарплаты. Она работает в курортном центре, где встречает старшего сына хозяина Он-даля. Его отец, Пхён-вон, требует, чтобы Он-даль сдал квалификационный тест за месяц. Когда тот проваливается, отец заявляет, что тот будет исключен из списка наследников за профнепригодность. В добавок ко всему, Пхён-вона внезапно хватает удар и повсюду ходят слухи, что мачеха Он-даля и её сыночек хотят прибрать курорт к рукам. У Он-даля не остается иного выбора, кроме как взяться за ум, но поскольку наш герой не шибко-то наделен знаниями и решимостью, заполучить курорт – за пределами его способностей.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/494451.jpg",
-        "duration": 70,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "драма",
-          "история"
-        ],
-        "kinopoisk_rating": 7,
-        "kinopoisk_votes": 163,
-        "imdb_rating": 5.9,
-        "imdb_votes": 8,
-        "premiere_world": "2009-11-09",
-        "actors": [
-          "Нам Сан-ми",
-          "Чи Хён-у",
-          "Чха Е-рён",
-          "Со До-ён",
-          "Киль Ён-у",
-          "Ким Хын-су",
-          "Пак Ки-ун",
-          "Ким Хван-хи",
-          "Чхве Юн-ён"
-        ],
-        "directors": [
-          "Пак Хён-сок",
-          "Ли Джон-соп"
-        ],
-        "writers": [
-          "Пак Ке-ок"
-        ]
-      }
-    },
-    {
-      "id": "movie-54803",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Девичья любовь 2",
-      "title_orig": "Good Love 2",
-      "other_title": "Girls Love 2",
-      "translation": {
-        "id": 941,
-        "title": "Pus'ki production",
-        "type": "voice"
-      },
-      "year": 2016,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-04T14:46:17Z",
-      "updated_at": "2020-05-04T14:46:17Z"
-    },
-    {
-      "id": "movie-54802",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Девичья любовь",
-      "title_orig": "Girls Love",
-      "other_title": "Wrong Sex",
-      "translation": {
-        "id": 941,
-        "title": "Pus'ki production",
-        "type": "voice"
-      },
-      "year": 2016,
-      "imdb_id": "tt9387300",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-04T14:44:26Z",
-      "updated_at": "2020-05-04T14:44:26Z"
-    },
-    {
-      "id": "movie-54801",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Любовь пришла",
-      "title_orig": "Love's Coming",
-      "translation": {
-        "id": 941,
-        "title": "Pus'ki production",
-        "type": "voice"
-      },
-      "year": 2014,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-04T14:26:18Z",
-      "updated_at": "2020-05-04T14:26:18Z"
-    },
-    {
-      "id": "movie-54800",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Да или нет",
-      "title_orig": "Yes or No: Yaak Rak Gaw Rak Loey",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2010,
-      "kinopoisk_id": "601926",
-      "imdb_id": "tt1906518",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-04T14:21:05Z",
-      "updated_at": "2020-05-04T14:21:05Z",
-      "material_data": {
-        "title": "Да или нет",
-        "title_en": "Yes or No: Yaak Rak Gaw Rak Loey",
-        "year": 2010,
-        "description": "Бедняга Пхай! Вот уж у кого начало учебного года не задалось. Только сбежала от соседки-лесбиянки в новую комнату - встречай новый подарок судьбы - соседку-пацанку Ким с довольно странными замашками. В ход идёт и разделение комнаты на независимые территории, и игнорирование назойливой девушки. Но, как говорится, от судьбы не убежишь - в душе у Пхай зарождаются теплые чувства к Ким.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/601926.jpg",
-        "duration": 102,
-        "countries": [
-          "Таиланд"
-        ],
-        "genres": [
-          "комедия",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 630,
-        "imdb_rating": 6.8,
-        "imdb_votes": 1746,
-        "premiere_world": "2010-12-16",
-        "actors": [
-          "Сушар Манайинг",
-          "Супанарт Джитталила",
-          "Арисара Тхонгборисут",
-          "Соранут Юпанун",
-          "Интхира Йунйонг",
-          "Пхуттипонг Промасакха На Саколнакорн",
-          "Манират Вонгсджирасакди"
-        ],
-        "directors": [
-          "Саратсвади Вонгсомпхет"
-        ],
-        "producers": [
-          "Бхандит Тонгди",
-          "Чатчада Мусикаратуай"
-        ],
-        "composers": [
-          "Нимит Джитранон"
-        ],
-        "designers": [
-          "Нутт Нутвеч",
-          "Экасит Меепрасертсакул"
-        ],
-        "operators": [
-          "Рунгвит Рамсут"
-        ]
-      }
-    },
-    {
-      "id": "serial-24912",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Нянь",
-      "title_orig": "Manny",
-      "translation": {
-        "id": 620,
-        "title": "GREEN TEA",
-        "type": "voice"
-      },
-      "year": 2011,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1007474",
-      "imdb_id": "tt4255410",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-18T21:39:35Z",
-      "updated_at": "2020-05-04T14:08:44Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Нянь",
-        "title_en": "Manny",
-        "year": 2011,
-        "description": "Корейский парень, нянь по профессии, недавно закончил обучение в одной из американских высших школ. По возвращении в Корею он решил устроиться на работу. Правда, сделать это будет крайне сложно, ведь он – парень, причём, крайне симпатичный.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1007474.jpg",
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "комедия",
-          "мелодрама"
-        ],
-        "imdb_rating": 5.7,
-        "imdb_votes": 15,
-        "premiere_world": "2011-04-13",
-        "actors": [
-          "Со Джи-сок",
-          "Jung-Yoon Choi",
-          "Пён Джон-су",
-          "Со У-джин",
-          "Young Kim",
-          "Чон Да-бин",
-          "Joon-Hwi Jung",
-          "Sook Kim",
-          "Seung-Hyeon Goo",
-          "Ха Юн"
-        ],
-        "directors": [
-          "Пак Су-чхоль",
-          "Ли Ён-хэ"
-        ],
-        "writers": [
-          "Пак Чэ-хён",
-          "Сон Мин-джи"
-        ]
-      }
-    },
-    {
-      "id": "serial-25260",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Факультатив",
-      "title_orig": "Ingansuoep",
-      "other_title": "Человеческие уроки / Внеклассные уроки / Ingansuoep / Extracurricular / Human Class",
-      "translation": {
-        "id": 611,
-        "title": "ColdFilm",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "kinopoisk_id": "1258177",
-      "imdb_id": "tt10262630",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-29T12:47:01Z",
-      "updated_at": "2020-05-04T13:40:05Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Факультатив",
-        "title_en": "Ingansuoep",
-        "year": 2020,
-        "description": "Так вышло, что скромный отличник-старшеклассник Чи-су живёт без родителей. Чтобы сводить концы с концами и накопить на обучение в хорошем университете, парню приходится вести двойную жизнь и зарабатывать криминальной деятельностью. Цель Чи-су - 90 млн. вон, и он собрал уже больше 60, умудрившись организовать с помощью мобильного приложения службу охраны проституток. И ему удаётся скрывать вторую сторону своей личности, пока однажды одноклассница из богатой семьи не узнаёт его секрет.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1258177.jpg",
-        "duration": 50,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "драма",
-          "криминал",
-          "триллер"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 459,
-        "imdb_rating": 7.7,
-        "imdb_votes": 2798,
-        "premiere_world": "2020-04-29",
-        "minimal_age": 16,
-        "actors": [
-          "Ким Дон-хи",
-          "Пак Чу-хён",
-          "Чон Да-бин",
-          "Нам Юн-су",
-          "Чхве Мин-су",
-          "Пак Хёк-квон",
-          "Ким Ё-джин",
-          "Пэк Чу-хи",
-          "Лим Ги-хон",
-          "Ли Хён-голь"
-        ],
-        "directors": [
-          "Ким Джин-мин"
-        ],
-        "producers": [
-          "Юн Щин-э"
-        ],
-        "writers": [
-          "Чин Хан-сэ"
-        ],
-        "composers": [
-          "Хван Сан-джун"
-        ],
-        "editors": [
-          "Нам Ин-джу"
-        ],
-        "designers": [
-          "Чан Джу-хи"
-        ],
-        "operators": [
-          "Ом Хе-джон"
-        ]
-      }
-    },
-    {
-      "id": "serial-25394",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Тайна блестящего камня",
-      "title_orig": "Damo",
-      "other_title": "Таинственная сила любви / Дамо / Joseon yeohyeongsa damo / Damo: The Legendary Police Woman / Joseon Female Detective Damo",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2003,
-      "last_season": 1,
-      "last_episode": 14,
-      "episodes_count": 14,
-      "kinopoisk_id": "404135",
-      "imdb_id": "tt0477496",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-04T12:09:32Z",
-      "updated_at": "2020-05-04T13:37:25Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Тайна блестящего камня",
-        "title_en": "Joseon yeohyeongsa damo",
-        "year": 2003,
-        "description": "Чосон, в центре повествования - судьбы трех персонажей, в том числе, легендарной женщины-детектива Дамо. Она расследует дело о фальшивомонетчиках. Изначально простое дело о фальшивых деньгах превращается в серьезный заговор против правительства.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/404135.jpg",
-        "duration": 70,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 6.6,
-        "kinopoisk_votes": 78,
-        "imdb_rating": 7.6,
-        "imdb_votes": 206,
-        "premiere_world": "2003-07-28",
-        "actors": [
-          "Ха Джи-вон",
-          "Ли Со-джин",
-          "Ким Мин-джун",
-          "Gye-beom Ahn",
-          "Ким Мин-гён",
-          "Квон О-джун",
-          "Квон Ён-ун",
-          "Ли Хан-ви",
-          "Ли Мун-щик",
-          "Hyeon-hie No"
-        ],
-        "directors": [
-          "Ли Джэ-гю"
-        ],
-        "writers": [
-          "Чон Хён-су"
-        ]
-      }
-    },
-    {
-      "id": "serial-25399",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Лучшие близнецы",
-      "title_orig": "The Best Twins",
-      "translation": {
-        "id": 941,
-        "title": "Pus'ki production",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 8,
-      "episodes_count": 8,
-      "kinopoisk_id": "1354763",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-04T13:37:08Z",
-      "updated_at": "2020-05-04T13:37:08Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Лучшие близнецы",
-        "title_en": "The Best Twins",
-        "year": 2019,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1354763.jpg",
-        "duration": 35,
-        "countries": [
-          "Таиланд"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "premiere_world": "2019-03-30",
-        "actors": [
-          "Норрапат Сакулсонг",
-          "Суттинут Уенгтракул",
-          "Витават Синглампонг"
-        ]
-      }
-    },
-    {
-      "id": "serial-25398",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Любовь-морковь",
-      "title_orig": "Lovey-Dovey",
-      "other_title": "Lovey Dovey",
-      "translation": {
-        "id": 941,
-        "title": "Pus'ki production",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 20,
-      "episodes_count": 20,
-      "imdb_id": "tt10473328",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-05-04T12:42:59Z",
-      "updated_at": "2020-05-04T13:32:04Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": ""
-          }
-        }
       }
     }
   ]
