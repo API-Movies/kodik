@@ -1,6 +1,104 @@
 {
   "results": [
     {
+      "id": "serial-29060",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Туманный холм пяти стихий",
+      "title_orig": "Wu Shan Wu Xing",
+      "other_title": "Туманная гора пяти элементов / Fog Hill of Five Elements / Fog hills of five elements / Wushan Wuxing / Five Elements in the Misty Mountain",
+      "translation": {
+        "id": 1295,
+        "title": "GrandStudio",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 3,
+      "episodes_count": 3,
+      "kinopoisk_id": "1223064",
+      "imdb_id": "tt12953630",
+      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=90673",
+      "shikimori_id": "37936",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-28T10:31:30Z",
+      "updated_at": "2020-08-28T10:31:30Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Туманная гора пяти элементов",
+        "title_en": "Wu shan wu hang",
+        "other_titles": [
+          "Wushan Wuxing",
+          "Fog Hill of the Five Elements",
+          "Five Elements in the Misty Mountain"
+        ],
+        "other_titles_en": [
+          "Fog Hill of Five Elements"
+        ],
+        "other_titles_jp": [
+          "雾山五行"
+        ],
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "year": 2020,
+        "description": "Древняя легенда гласит, что давным-давно существовало место, где обитали таинственные существа, которые могли одарить редких избранных способностью управлять пятью стихиями. Многие пытались отыскать это место, но, чтобы попасть туда, нужно пересечь полную опасностей туманную гору. Отважный герой решает рискнуть и отправляется на поиск приключений.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1223064.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/01b6d2ad864f7e188b94d9c94a310339bcafd190.jpg",
+          "https://shikimori.one/system/screenshots/original/f65bed1111ad69973a1820dcf91888204066816d.jpg"
+        ],
+        "duration": 29,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "боевик",
+          "мелодрама",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Боевые искусства",
+          "Исторический",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Nice Boat Animation",
+          "Samsara Animation Studio"
+        ],
+        "imdb_rating": 8.4,
+        "imdb_votes": 219,
+        "shikimori_rating": 8,
+        "shikimori_votes": 493,
+        "premiere_world": "2020-07-26",
+        "aired_at": "2020-07-26",
+        "released_at": "2020-08-09",
+        "rating_mpaa": "R",
+        "episodes_total": 3,
+        "episodes_aired": 1,
+        "actors": [
+          "Го Шэн",
+          "Хао Сянхай",
+          "Е Чжицю",
+          "Тэн Синь",
+          "Баому Чжунъян",
+          "Фэн Шэн"
+        ]
+      }
+    },
+    {
       "id": "movie-59600",
       "type": "foreign-movie",
       "link": "",
@@ -4175,70 +4273,6 @@
       }
     },
     {
-      "id": "serial-28904",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Похититель снов",
-      "title_orig": "Lie meng te gong",
-      "translation": {
-        "id": 920,
-        "title": "Octopus",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "kinopoisk_id": "1345988",
-      "imdb_id": "tt9569556",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-22T16:22:34Z",
-      "updated_at": "2020-08-27T06:48:45Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Похититель снов",
-        "title_en": "Lie meng te gong",
-        "year": 2020,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1345988.jpg",
-        "duration": 60,
-        "countries": [
-          "Тайвань"
-        ],
-        "genres": [
-          "фантастика"
-        ],
-        "imdb_rating": 6.5,
-        "imdb_votes": 41,
-        "premiere_world": "2020-08-16",
-        "actors": [
-          "Джейсон Ван",
-          "Дэвид Ван",
-          "Эллен У",
-          "Дзюн Кунимура",
-          "Сэмюэл Ку",
-          "Лерой Ян",
-          "Вивиан Сюй"
-        ],
-        "producers": [
-          "Чин Поу-Сои"
-        ],
-        "composers": [
-          "Джош Круддас"
-        ]
-      }
-    },
-    {
       "id": "movie-59534",
       "type": "anime",
       "link": "",
@@ -4515,8 +4549,8 @@
         "kinopoisk_votes": 2942,
         "imdb_rating": 7.8,
         "imdb_votes": 13380,
-        "shikimori_rating": 8.13,
-        "shikimori_votes": 991,
+        "shikimori_rating": 8.12,
+        "shikimori_votes": 1050,
         "premiere_ru": "2003-10-30",
         "premiere_world": "2003-05-18",
         "aired_at": "2003-12-01",
@@ -5334,221 +5368,6 @@
       "blocked_seasons": {},
       "created_at": "2017-09-06T13:49:04Z",
       "updated_at": "2020-08-26T17:46:16Z",
-      "seasons": {
-        "8": {
-          "link": "",
-          "episodes": {
-            "0": "",
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Уэнтуорт",
-        "title_en": "Wentworth",
-        "year": 2013,
-        "tagline": "Keep your friends close and your enemies closer.(Season 1)",
-        "description": "Би Смит попадает в тюрьму по обвинению в покушении на убийство мужа. Смит отправляют в Уэнтуорт, где она живёт, пока не состоится суд. Начав свою тюремную биографию в нижней части иерархии Уэнтуорта, Би вынуждена научиться выживать в тюрьме.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/772254.jpg",
-        "duration": 45,
-        "countries": [
-          "Австралия"
-        ],
-        "genres": [
-          "драма",
-          "криминал"
-        ],
-        "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 2312,
-        "imdb_rating": 8.6,
-        "imdb_votes": 17341,
-        "premiere_world": "2013-05-01",
-        "actors": [
-          "Кейт Эткинсон",
-          "Катрина Милошевич",
-          "Робби Магасива",
-          "Жаклин Бреннан",
-          "Селия Айрлэнд",
-          "Памела Рэйб",
-          "Кейт Дженкинсон",
-          "Бернард Керри",
-          "Лаури МакЛеннан",
-          "Николь Да Силва"
-        ],
-        "directors": [
-          "Кевин Карлин",
-          "Катрин Миллар",
-          "Стив Джодрелл",
-          "Фиона Бэнкс",
-          "Джет Уилкинсон",
-          "Мат Кинг",
-          "Бек Коул",
-          "Тори Гаррет",
-          "Пино Амента",
-          "Дункан МакЛахлан"
-        ],
-        "producers": [
-          "Джо Портер",
-          "Пенни Уин",
-          "Марсия Гарднер",
-          "Пино Амента",
-          "Paula Salini",
-          "Сью Эдвардс",
-          "Аманда Криттенден",
-          "Пенни Браун",
-          "Тим Лайолл",
-          "Бретт Попплуэлл"
-        ],
-        "writers": [
-          "Рег Уотсон",
-          "Лара Радулович",
-          "Пит МакТиг",
-          "Джон Ридли",
-          "Марсия Гарднер",
-          "Timothy Hobart",
-          "Эндрю Анастасиос",
-          "Адам Тодд",
-          "Max Conroy",
-          "Стюарт Пейдж"
-        ],
-        "composers": [
-          "Ричард Плесанс"
-        ],
-        "editors": [
-          "Бен Джосс",
-          "Филип Уоттс",
-          "Джофф Хитчинс",
-          "Michael Melis",
-          "Амелия Форд",
-          "Питер Кэрродэс"
-        ],
-        "designers": [
-          "Кейт Саундерс",
-          "Adrian Dalton",
-          "Michael Davies",
-          "Кэппи Айрлэнд",
-          "Луиз МакКарти"
-        ],
-        "operators": [
-          "Kathy Chambers",
-          "Крэйг Барден",
-          "Даррел Мартин"
-        ]
-      }
-    },
-    {
-      "id": "serial-27551",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Образцовый детектив",
-      "title_orig": "Mobeomhyeongsa",
-      "other_title": "Хороший детектив / The Good Detective / Silence / Exemplary Detective / A Model Detective",
-      "translation": {
-        "id": 920,
-        "title": "Octopus",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1338241",
-      "imdb_id": "tt12504214",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-07-08T08:36:57Z",
-      "updated_at": "2020-08-26T16:35:03Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Образцовый детектив",
-        "title_en": "Mobeomhyeongsa",
-        "year": 2020,
-        "description": "Два детектива в Инчхоне ловят преступников. Опытный детектив Кан полагается на сеть информаторов и личные связи, иногда забывая о простой логике, а молодой детектив О доверяет только уликам и криминалистике.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1338241.jpg",
-        "duration": 60,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "детектив",
-          "драма",
-          "криминал"
-        ],
-        "imdb_rating": 7.5,
-        "imdb_votes": 320,
-        "premiere_world": "2020-07-06",
-        "minimal_age": 16,
-        "actors": [
-          "Сон Хён-джу",
-          "Чан Сын-джо",
-          "Ли Элия",
-          "Чо Хи-бон",
-          "Чха Рэ-хён",
-          "Чон Сун-вон",
-          "Ким Джи-хун",
-          "Ким Мён-джун",
-          "Сон Джон-хак",
-          "Чи Сын-хён"
-        ],
-        "directors": [
-          "Чо Нам-гук"
-        ],
-        "writers": [
-          "Чхве Джин-вон"
-        ]
-      }
-    },
-    {
-      "id": "serial-27992",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Уэнтуорт",
-      "title_orig": "Wentworth",
-      "translation": {
-        "id": 920,
-        "title": "Octopus",
-        "type": "voice"
-      },
-      "year": 2013,
-      "last_season": 8,
-      "last_episode": 5,
-      "episodes_count": 6,
-      "kinopoisk_id": "772254",
-      "imdb_id": "tt2433738",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-09-06T13:49:04Z",
-      "updated_at": "2020-08-26T16:33:54Z",
       "seasons": {
         "8": {
           "link": "",
@@ -7012,106 +6831,6 @@
       }
     },
     {
-      "id": "serial-29008",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Галифакс: Возмездие",
-      "title_orig": "Halifax: Retribution",
-      "translation": {
-        "id": 920,
-        "title": "Octopus",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 1,
-      "episodes_count": 1,
-      "kinopoisk_id": "1302752",
-      "imdb_id": "tt10614122",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-26T07:33:11Z",
-      "updated_at": "2020-08-26T07:33:11Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Галифакс: Возмездие",
-        "title_en": "Halifax: Retribution",
-        "year": 2020,
-        "countries": [
-          "Австралия"
-        ],
-        "genres": [
-          "драма",
-          "криминал"
-        ],
-        "imdb_rating": 7,
-        "imdb_votes": 243,
-        "premiere_world": "2020-08-25",
-        "actors": [
-          "Ребекка Гибни",
-          "Mavournee Hazel",
-          "Рик Дональд",
-          "Ming-Zhu Hii",
-          "Энтони ЛаПалья",
-          "Fabricio Christian Amansi",
-          "Клаудия Карван",
-          "Мичела Банас",
-          "Жаклин Маккензи",
-          "Джон Уотерс"
-        ],
-        "directors": [
-          "Питер Сэлмон",
-          "Фиона Бэнкс",
-          "Дэниэл Неттхейм",
-          "Марк Джофф"
-        ],
-        "producers": [
-          "Микаэл Борглунд",
-          "Ребекка Гибни",
-          "Бен Гроган",
-          "Луиса Корс",
-          "Jo Rooney",
-          "Энди Райан",
-          "Роджер Симпсон"
-        ],
-        "writers": [
-          "Джейн Аллен",
-          "Крис Корбетт",
-          "Стюарт Пейдж",
-          "Роджер Симпсон",
-          "Питер Гоулер"
-        ],
-        "composers": [
-          "Цезари Скубижевски",
-          "Жан Скубижевски"
-        ],
-        "editors": [
-          "Стивен Эванс",
-          "Бен Джосс",
-          "Энн Картер"
-        ],
-        "designers": [
-          "Пенни Саутгейт",
-          "Колин Робертсон",
-          "Сэнди Чикелло",
-          "Denise Goudy",
-          "Виктория МакКензи"
-        ],
-        "operators": [
-          "Джеффри Холл"
-        ]
-      }
-    },
-    {
       "id": "movie-59463",
       "type": "russian-movie",
       "link": "",
@@ -7841,6 +7560,233 @@
         ],
         "writers": [
           "Сон Джи-на"
+        ]
+      }
+    },
+    {
+      "id": "movie-59447",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Отважный моряк",
+      "title_orig": "Отважный моряк",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1936,
+      "kinopoisk_id": "460614",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-26T06:30:19Z",
+      "updated_at": "2020-08-26T06:30:19Z",
+      "material_data": {
+        "title": "Отважный моряк",
+        "title_en": "",
+        "year": 1936,
+        "description": "О приключениях потерпевшего кораблекрушение моряка.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/460614.jpg",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 5.6,
+        "kinopoisk_votes": 102,
+        "minimal_age": 0,
+        "directors": [
+          "Виктор Смирнов"
+        ],
+        "writers": [
+          "Владимир Сутеев",
+          "Редьярд Киплинг"
+        ],
+        "composers": [
+          "Алексей Соколов-Камин"
+        ],
+        "designers": [
+          "Владимир Сутеев"
+        ],
+        "operators": [
+          "П. Мершин"
+        ]
+      }
+    },
+    {
+      "id": "movie-59448",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Охотник Федор",
+      "title_orig": "Okhotnik Fyodor",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1938,
+      "kinopoisk_id": "624636",
+      "imdb_id": "tt4454430",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-26T06:29:21Z",
+      "updated_at": "2020-08-26T06:29:21Z",
+      "material_data": {
+        "title": "Охотник Федор",
+        "title_en": "",
+        "year": 1938,
+        "description": "По мотивам бурятской сказки.",
+        "duration": 12,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "minimal_age": 0,
+        "directors": [
+          "Александр Иванов"
+        ],
+        "writers": [
+          "Дмитрий Тарасов"
+        ],
+        "composers": [
+          "Александр Варламов"
+        ],
+        "designers": [
+          "Геннадий Филиппов"
+        ],
+        "operators": [
+          "П. Лебедева"
+        ]
+      }
+    },
+    {
+      "id": "serial-29004",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Терраформеры [ТВ-1]",
+      "title_orig": "Terraformars",
+      "other_title": "Терраформирование / Терра Формарс",
+      "translation": {
+        "id": 739,
+        "title": "Animedia",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 14,
+      "kinopoisk_id": "885627",
+      "imdb_id": "tt3894916",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2137",
+      "shikimori_id": "22687",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-26T06:27:26Z",
+      "updated_at": "2020-08-26T06:27:26Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "0": "",
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Терраформирование",
+        "title_en": "Terra Formars",
+        "other_titles_en": [
+          "Terraformars"
+        ],
+        "other_titles_jp": [
+          "TERRA FORMARS [テラフォーマーズ]"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2014,
+        "description": "Какие земные организмы самые живучие? Конечно же, тараканы! Вот их вместе с плесенью и забросили в XXI веке на Марс, чтобы качали кислород, топили льды и готовили планету к заселению. Люди прибыли принимать работу через 500 лет. Увы, вместо радостных вестей экипаж успел сообщить, что двухметровые разумные тараканы-сепаратисты выражают серьезную озабоченность сложившейся ситуацией – то есть, попросту говоря, жрут астронавтов живьем! А время торопит, человечество выкашивает смертельная болезнь, от которой можно только бежать, да пока некуда… \n\rНо как наказать обнаглевших «терраформеров»? Тоннаж ограничен, танки не пошлешь, обычные бойцы не годятся. Значит, людям надо идти на поклон к матушке-природе, заимствуя силу, скорость и выносливость у других животных. Вторая экспедиция, пусть с потерями, все же унесла ноги, захватив «языка». И вот на Красную планету отправляется новая группа супергероев, которую возглавляют японский Шершень, русский Краб, немецкий Угорь, китайский Осьминог и другие официальные лица. Кто кого? Жаль, что Кенгуру наши позвать не догадались!",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/885627.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/8f4f9c709b0d90dbe208bd851c478ddf019614bf.JPG",
+          "https://shikimori.one/system/screenshots/original/e518be1353b953fc6355702528573ea2460135d3.JPG"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Космос",
+          "Сейнен",
+          "Ужасы",
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "LIDENFILMS"
+        ],
+        "kinopoisk_rating": 6.2,
+        "kinopoisk_votes": 606,
+        "imdb_rating": 6.6,
+        "imdb_votes": 948,
+        "shikimori_rating": 7.04,
+        "shikimori_votes": 6007,
+        "premiere_world": "2014-09-27",
+        "aired_at": "2014-09-27",
+        "released_at": "2014-12-20",
+        "rating_mpaa": "R",
+        "episodes_total": 13,
+        "episodes_aired": 13,
+        "actors": [
+          "Ёсимаса Хосоя",
+          "Сидзука Ито",
+          "Кэнъитиро Охаси",
+          "Хидэнобу Киути",
+          "Аки Тоёсаки",
+          "Кэндзи Акабанэ",
+          "Каито Исикава",
+          "Тиаки Такахаси",
+          "Унсё Исидзука",
+          "Тору Нара"
+        ],
+        "directors": [
+          "Митио Фукуда",
+          "Хироси Хамадзаки"
+        ],
+        "writers": [
+          "Кацухико Тиба",
+          "Ю Сасуга",
+          "Кэнити Татибана"
+        ],
+        "composers": [
+          "Сюсэй Мурай",
+          "Такафуми Вада"
         ]
       }
     }
