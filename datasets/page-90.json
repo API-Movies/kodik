@@ -1,6 +1,648 @@
 {
   "results": [
     {
+      "id": "movie-57321",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Пересечение",
+      "title_orig": "Keurosing",
+      "translation": {
+        "id": 1112,
+        "title": "D.l.M.",
+        "type": "voice"
+      },
+      "year": 2008,
+      "kinopoisk_id": "411968",
+      "imdb_id": "tt1133922",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-06-30T15:06:54Z",
+      "updated_at": "2020-06-30T15:06:54Z",
+      "material_data": {
+        "title": "Пересечение",
+        "title_en": "Keurosing",
+        "year": 2008,
+        "description": "Ён-су живёт в шахтёрском посёлке в Северной Корее вместе с женой и маленьким сыном. И хотя семья крайне нуждалась, они были счастливы тем, что имели, пока беременная жена не заболела туберкулёзом. В своей стране Ён-су не только не мог купить лекарство, но даже не в силах был накормить свою семью. Находясь в безвыходной ситуации, он решается бежать в Китай, чтобы заработать немного денег.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/411968.jpg",
+        "duration": 107,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 7.7,
+        "kinopoisk_votes": 488,
+        "imdb_rating": 7.6,
+        "imdb_votes": 1092,
+        "premiere_world": "2008-06-05",
+        "actors": [
+          "Чха Ин-пхё",
+          "Щин Мён-чхоль",
+          "Со Ён-хва",
+          "Чон Ин-ги",
+          "Чу Да-ён",
+          "Сан-хо Ли",
+          "Чон Мин-сон",
+          "Тхэ Ин-хо",
+          "Чон Бэ-су",
+          "Чо Джэ-рён"
+        ],
+        "directors": [
+          "Ким Тхэ-гюн"
+        ],
+        "producers": [
+          "Хон Джи-ён",
+          "Патрик Д. Че",
+          "Чхон Ыи-Сок"
+        ],
+        "writers": [
+          "Ли Ю-джин"
+        ],
+        "composers": [
+          "Ким Тхэ-сон"
+        ],
+        "editors": [
+          "Ко Им-пхё"
+        ],
+        "designers": [
+          "Ким Хён-ок",
+          "Ким Джон-вон",
+          "О Сан-джин",
+          "Чжин-у Ли"
+        ],
+        "operators": [
+          "Чон Хан-чхоль"
+        ]
+      }
+    },
+    {
+      "id": "serial-27287",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Небесные драконы",
+      "title_orig": "Kuutei Dragons",
+      "other_title": "Drifting Dragons",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1338079",
+      "imdb_id": "tt11418344",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10018",
+      "shikimori_id": "39531",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-06-30T14:14:48Z",
+      "updated_at": "2020-06-30T14:31:15Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Небесные драконы",
+        "title_en": "Kuutei Dragons",
+        "other_titles": [
+          "Airborne Dragons"
+        ],
+        "other_titles_en": [
+          "Drifting Dragons"
+        ],
+        "other_titles_jp": [
+          "空挺ドラゴンズ"
+        ],
+        "anime_license_name": "Небесные драконы",
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "year": 2020,
+        "description": "Драконы – повелители небес. Для многих людей они представляют страшную угрозу, но в то же время являются ценным источником лекарств, масла и пищи. Поэтому, разумеется, существуют и охотники на драконов, путешествующие по небу на дирижаблях. Это история одного из таких кораблей «Квин Зазы» и его команды.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1338079.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/c8094fb3e1808cccab74dc26d405ccd0620b4e8c.jpg",
+          "https://shikimori.one/system/screenshots/original/7c4f410a1772eca3e4eb705e73765f7ea9c27ef1.jpg"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "приключения"
+        ],
+        "anime_genres": [
+          "Приключения",
+          "Сейнен",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Polygon Pictures"
+        ],
+        "imdb_rating": 6.1,
+        "imdb_votes": 426,
+        "shikimori_rating": 7.03,
+        "shikimori_votes": 691,
+        "premiere_world": "2020-01-09",
+        "aired_at": "2020-01-09",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 0,
+        "actors": [
+          "Кана Ханадзава",
+          "Томоаки Маэно",
+          "Сора Амамия",
+          "Макото Фурукава",
+          "Сома Саито"
+        ],
+        "directors": [
+          "Тадахиро Ёсихира"
+        ],
+        "writers": [
+          "Макото Уэдзу"
+        ]
+      }
+    },
+    {
+      "id": "serial-27286",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Жизнь без оружия [ТВ-1]",
+      "title_orig": "No Guns Life",
+      "other_title": "ノー・ガンズ・ライフ",
+      "translation": {
+        "id": 873,
+        "title": "AniPLague",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1309383",
+      "imdb_id": "tt10981954",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10031",
+      "shikimori_id": "39539",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-06-30T14:13:41Z",
+      "updated_at": "2020-06-30T14:13:41Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Жизнь без оружия",
+        "title_en": "No Guns Life",
+        "other_titles_en": [
+          "No Guns Life"
+        ],
+        "other_titles_jp": [
+          "ノー・ガンズ・ライフ"
+        ],
+        "anime_license_name": "Жизнь без оружия",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "Экстенд Дзюдзо Инуи — человек, которому во время войны модифицировали тело. На месте головы у него находится… огромный револьвер. Причем, сам он из него стрелять не может — для этого нужен напарник. Дзюдзо не единственный человек с такой модификацией. Он мечтает найти человека, который сделал из него и сотни других людей живое оружие, но пока вместе с помощницей Мэри помогает расследовать дела, связанные с другими экстендами.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1309383.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/a412c1cf96ceaed38f5ef162a9e1d8ec77a8f37d.jpg",
+          "https://shikimori.one/system/screenshots/original/97e800b36b6d43137b85b6e1c376bb932cbf64ed.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "детектив",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Сейнен",
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Madhouse"
+        ],
+        "kinopoisk_rating": 7.2,
+        "kinopoisk_votes": 613,
+        "imdb_rating": 6.8,
+        "imdb_votes": 435,
+        "shikimori_rating": 6.89,
+        "shikimori_votes": 5736,
+        "premiere_world": "2019-10-11",
+        "aired_at": "2019-10-11",
+        "released_at": "2019-12-27",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Дзюнъити Сувабэ",
+          "Манами Нумакура",
+          "Даики Ямасита"
+        ],
+        "directors": [
+          "Наоюки Ито"
+        ]
+      }
+    },
+    {
+      "id": "serial-27284",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Выдающиеся звери [ТВ-1]",
+      "title_orig": "Beastars",
+      "other_title": "Выдающиеся звери 1",
+      "translation": {
+        "id": 873,
+        "title": "AniPLague",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1290944",
+      "imdb_id": "tt11043632",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9986",
+      "shikimori_id": "39195",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-06-30T14:09:40Z",
+      "updated_at": "2020-06-30T14:09:40Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Выдающиеся звери",
+        "title_en": "BEASTARS",
+        "other_titles_jp": [
+          "BEASTARS"
+        ],
+        "anime_license_name": "Выдающиеся звери",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "В цивилизованном обществе антропоморфных животных отношения между плотоядными и травоядными довольно напряжены. В Академии Черритона это взаимное недоверие достигает пика после инцидента в школьном драматическом клубе, результатом которого становится смерть альпаки Тэма. Его друг, серый волк Лэгоси, всю жизнь страдал от необоснованных подозрений, поэтому и после трагедии продолжает жить в тени, подавляя свои инстинкты, что очень раздражает оленя Луи - властного звездного актера кружка. Вскоре Луи назначает Лэгоси дежурным, и тот в первую же ночь сталкивается с крольчихой Хару, которую презирают сверстники. Волк влюбляется в неё, и чувства вынуждают его противостоять своей истинной природе, обстоятельствам, связанным со смертью друга, и скрытому насилию, отравляющему окружающий мир.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1290944.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/b7583bc2be013f8072a3f63b321770f37944885a.png",
+          "https://shikimori.one/system/screenshots/original/bd6c8ec73183ea53484b6f3de8a301b1e35ad3ef.png"
+        ],
+        "duration": 22,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мелодрама",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Повседневность",
+          "Психологическое",
+          "Сёнен"
+        ],
+        "anime_studios": [
+          "Orange"
+        ],
+        "kinopoisk_rating": 7.6,
+        "kinopoisk_votes": 2892,
+        "imdb_rating": 7.8,
+        "imdb_votes": 5811,
+        "shikimori_rating": 8.04,
+        "shikimori_votes": 12594,
+        "premiere_world": "2019-10-10",
+        "aired_at": "2019-10-10",
+        "released_at": "2019-12-26",
+        "rating_mpaa": "R",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Тикахиро Кобаяси",
+          "Юки Оно",
+          "Саяка Сэнбонги",
+          "Такааки Торасима",
+          "Дзюнъя Эноки",
+          "Ацуми Танэдзаки",
+          "Нобухико Окамото",
+          "Фукуси Отиаи",
+          "Такэо Оцука",
+          "Юма Утида"
+        ],
+        "directors": [
+          "Синъити Мацуми"
+        ],
+        "writers": [
+          "Нанами Хигути",
+          "Пару Итагаки"
+        ],
+        "composers": [
+          "Сатору Косаки"
+        ],
+        "editors": [
+          "Дзюнъити Уэмацу"
+        ],
+        "designers": [
+          "Минами Касуга"
+        ],
+        "operators": [
+          "Сиори Косё"
+        ]
+      }
+    },
+    {
+      "id": "serial-21315",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Четвёрка попаданцев [ТВ-2]",
+      "title_orig": "Isekai Quartet 2",
+      "other_title": "Квартет попаданцев [ТВ-2] / Квартет из альтернативного мира 2 / Квартет из другого мира 2",
+      "translation": {
+        "id": 958,
+        "title": "AniRise",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 2,
+      "last_episode": 9,
+      "episodes_count": 9,
+      "kinopoisk_id": "1211428",
+      "imdb_id": "tt9193770",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10127",
+      "shikimori_id": "39988",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-16T06:02:30Z",
+      "updated_at": "2020-06-30T14:08:26Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Квартет Исэкай",
+        "title_en": "Isekai Quartet",
+        "other_titles": [
+          "Квартет попаданцев 2"
+        ],
+        "other_titles_en": [
+          "Isekai Quartet 2"
+        ],
+        "other_titles_jp": [
+          "異世界かるてっと2"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2019,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1211428.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/f4fb7aa977ff0612df217527332dda19482820e5.jpg",
+          "https://shikimori.one/system/screenshots/original/a1fc7fb51fa7f84ef4746474c2a5cddccb8cc691.jpg"
+        ],
+        "duration": 12,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Пародия",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Studio PuYUKAI"
+        ],
+        "kinopoisk_rating": 6.6,
+        "kinopoisk_votes": 759,
+        "imdb_rating": 7,
+        "imdb_votes": 492,
+        "shikimori_rating": 7.38,
+        "shikimori_votes": 5547,
+        "premiere_world": "2019-04-10",
+        "aired_at": "2020-01-15",
+        "released_at": "2020-04-01",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Сора Амамия",
+          "Дзюн Фукусима",
+          "Юми Хара",
+          "Саори Хаями",
+          "Сатоси Хино",
+          "Юсукэ Кобаяси",
+          "Риэ Такахаси",
+          "Аои Юки"
+        ],
+        "directors": [
+          "Минору Асина"
+        ],
+        "writers": [
+          "Нацумэ Акацуки",
+          "Куганэ Маруяма",
+          "Таппэй Нагацуки",
+          "Карло Дзэн"
+        ]
+      }
+    },
+    {
+      "id": "serial-27190",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Глейпнир",
+      "title_orig": "Gleipnir",
+      "other_title": "Глейпнер",
+      "translation": {
+        "id": 1343,
+        "title": "TAKEOVER Project",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "1367761",
+      "imdb_id": "tt11988478",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10013",
+      "shikimori_id": "39463",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-06-27T05:55:30Z",
+      "updated_at": "2020-06-30T14:08:04Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Глейпнир",
+        "title_en": "Gleipnir",
+        "other_titles_en": [
+          "Gleipnir"
+        ],
+        "other_titles_jp": [
+          "グレイプニル"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2020,
+        "description": "У Сюити Кагая есть секрет – он не тот, кого можно назвать нормальным. На самом деле Сюити даже не человек: однажды он проснулся монстром. Сильным, с большими пушистыми лапами, депрессией и ненавистью к себе. Клэр Аоки, девушка, которую он решил спасти, теперь хранит его секрет. Садистка без сочувствия к другим до встречи с Сюити искала ему подобных, надеясь найти свою сестру-монстра. Тем временем Сюити, несмотря на свою новую сущность, наивно продолжает придерживаться человеческой морали.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1367761.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/a956c915d574954b3c21212debe9d8dc69427a96.jpg",
+          "https://shikimori.one/system/screenshots/original/983a28c920cfefd88657e18bbe2a15dca3137041.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "детектив",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Сверхъестественное",
+          "Сейнен",
+          "Экшен",
+          "Этти"
+        ],
+        "anime_studios": [
+          "Pine Jam"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 686,
+        "imdb_rating": 6.9,
+        "imdb_votes": 792,
+        "shikimori_rating": 7.02,
+        "shikimori_votes": 8847,
+        "premiere_world": "2020-04-05",
+        "aired_at": "2020-04-05",
+        "released_at": "2020-06-28",
+        "rating_mpaa": "R",
+        "episodes_total": 13,
+        "episodes_aired": 13,
+        "actors": [
+          "Нао Тояма",
+          "Нацуки Ханаэ",
+          "Сидзука Ито",
+          "Такума Тэрасима",
+          "Ё Таити",
+          "Кана Ханадзава",
+          "Мику Ито",
+          "Хироки Ясумото",
+          "Такахиро Сакурай"
+        ],
+        "directors": [
+          "Кадзухиро Ёнэда"
+        ],
+        "producers": [
+          "Микито Кё"
+        ],
+        "operators": [
+          "Yasuhiro Asagi"
+        ]
+      }
+    },
+    {
       "id": "serial-23747",
       "type": "foreign-serial",
       "link": "",
@@ -149,9 +791,9 @@
           "мелодрама"
         ],
         "kinopoisk_rating": 6.1,
-        "kinopoisk_votes": 83,
+        "kinopoisk_votes": 86,
         "imdb_rating": 8,
-        "imdb_votes": 66,
+        "imdb_votes": 69,
         "premiere_world": "1996-11-18",
         "actors": [
           "Клаудия Рамирес",
@@ -2447,9 +3089,9 @@
           "Pine Jam"
         ],
         "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 624,
+        "kinopoisk_votes": 686,
         "imdb_rating": 6.9,
-        "imdb_votes": 768,
+        "imdb_votes": 792,
         "shikimori_rating": 7.02,
         "shikimori_votes": 8847,
         "premiere_world": "2020-04-05",
@@ -2564,9 +3206,9 @@
           "Pine Jam"
         ],
         "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 624,
+        "kinopoisk_votes": 686,
         "imdb_rating": 6.9,
-        "imdb_votes": 768,
+        "imdb_votes": 792,
         "shikimori_rating": 7.02,
         "shikimori_votes": 8847,
         "premiere_world": "2020-04-05",
@@ -3111,9 +3753,9 @@
           "Pine Jam"
         ],
         "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 624,
+        "kinopoisk_votes": 686,
         "imdb_rating": 6.9,
-        "imdb_votes": 768,
+        "imdb_votes": 792,
         "shikimori_rating": 7.02,
         "shikimori_votes": 8847,
         "premiere_world": "2020-04-05",
@@ -3234,9 +3876,9 @@
           "A-1 Pictures"
         ],
         "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 3512,
+        "kinopoisk_votes": 3562,
         "imdb_rating": 8.4,
-        "imdb_votes": 4515,
+        "imdb_votes": 4659,
         "shikimori_rating": 8.73,
         "shikimori_votes": 22881,
         "premiere_world": "2019-01-12",
@@ -3573,9 +4215,9 @@
           "A-1 Pictures"
         ],
         "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 3512,
+        "kinopoisk_votes": 3562,
         "imdb_rating": 8.4,
-        "imdb_votes": 4515,
+        "imdb_votes": 4659,
         "shikimori_rating": 8.73,
         "shikimori_votes": 22881,
         "premiere_world": "2019-01-12",
@@ -3818,9 +4460,9 @@
           "Pine Jam"
         ],
         "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 624,
+        "kinopoisk_votes": 686,
         "imdb_rating": 6.9,
-        "imdb_votes": 768,
+        "imdb_votes": 792,
         "shikimori_rating": 7.02,
         "shikimori_votes": 8847,
         "premiere_world": "2020-04-05",
@@ -4115,7 +4757,7 @@
         "imdb_rating": 6,
         "imdb_votes": 35,
         "shikimori_rating": 5.88,
-        "shikimori_votes": 61,
+        "shikimori_votes": 57,
         "premiere_world": "1989-04-25",
         "aired_at": "1989-04-28",
         "released_at": "1991-05-24",
@@ -5565,9 +6207,9 @@
           "Studio VOLN"
         ],
         "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 831,
-        "imdb_rating": 7.8,
-        "imdb_votes": 683,
+        "kinopoisk_votes": 846,
+        "imdb_rating": 7.7,
+        "imdb_votes": 702,
         "shikimori_rating": 7.96,
         "shikimori_votes": 5438,
         "premiere_world": "2015-07-03",
@@ -5837,9 +6479,9 @@
           "A-1 Pictures"
         ],
         "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 3512,
+        "kinopoisk_votes": 3562,
         "imdb_rating": 8.4,
-        "imdb_votes": 4515,
+        "imdb_votes": 4659,
         "shikimori_rating": 8.73,
         "shikimori_votes": 22881,
         "premiere_world": "2019-01-12",
@@ -7850,9 +8492,9 @@
           "Pine Jam"
         ],
         "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 624,
+        "kinopoisk_votes": 686,
         "imdb_rating": 6.9,
-        "imdb_votes": 768,
+        "imdb_votes": 792,
         "shikimori_rating": 7.02,
         "shikimori_votes": 8847,
         "premiere_world": "2020-04-05",
@@ -7967,9 +8609,9 @@
           "Pine Jam"
         ],
         "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 624,
+        "kinopoisk_votes": 686,
         "imdb_rating": 6.9,
-        "imdb_votes": 768,
+        "imdb_votes": 792,
         "shikimori_rating": 7.02,
         "shikimori_votes": 8847,
         "premiere_world": "2020-04-05",
@@ -8359,8 +9001,8 @@
         "anime_studios": [
           "C2C"
         ],
-        "imdb_rating": 6,
-        "imdb_votes": 36,
+        "imdb_rating": 5.7,
+        "imdb_votes": 43,
         "shikimori_rating": 5.86,
         "shikimori_votes": 539,
         "premiere_world": "2020-04-05",
@@ -8471,7 +9113,7 @@
         "imdb_rating": 6.7,
         "imdb_votes": 557,
         "shikimori_rating": 6.95,
-        "shikimori_votes": 8719,
+        "shikimori_votes": 8799,
         "premiere_world": "2020-01-12",
         "aired_at": "2020-01-12",
         "released_at": "2020-03-29",
@@ -8844,9 +9486,9 @@
           "A-1 Pictures"
         ],
         "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 3512,
+        "kinopoisk_votes": 3562,
         "imdb_rating": 8.4,
-        "imdb_votes": 4515,
+        "imdb_votes": 4659,
         "shikimori_rating": 8.73,
         "shikimori_votes": 22881,
         "premiere_world": "2019-01-12",
@@ -9544,9 +10186,9 @@
           "A-1 Pictures"
         ],
         "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 3512,
+        "kinopoisk_votes": 3562,
         "imdb_rating": 8.4,
-        "imdb_votes": 4515,
+        "imdb_votes": 4659,
         "shikimori_rating": 8.73,
         "shikimori_votes": 22881,
         "premiere_world": "2019-01-12",
@@ -9685,9 +10327,9 @@
           "A-1 Pictures"
         ],
         "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 3512,
+        "kinopoisk_votes": 3562,
         "imdb_rating": 8.4,
-        "imdb_votes": 4515,
+        "imdb_votes": 4659,
         "shikimori_rating": 8.73,
         "shikimori_votes": 22881,
         "premiere_world": "2019-01-12",
@@ -9733,449 +10375,6 @@
         ],
         "operators": [
           "Масахару Окадзаки"
-        ]
-      }
-    },
-    {
-      "id": "serial-27198",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Убийца насекомых",
-      "title_orig": "Mushikago no Cagaster",
-      "other_title": "Cagaster of an Insect Cage",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1314738",
-      "imdb_id": "tt9288892",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9872",
-      "shikimori_id": "38663",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-27T15:38:14Z",
-      "updated_at": "2020-06-27T15:38:14Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Убийца насекомых",
-        "title_en": "Mushikago no Cagaster",
-        "other_titles": [
-          "Кагастер из клетки для насекомых"
-        ],
-        "other_titles_en": [
-          "Cagaster of an Insect Cage"
-        ],
-        "other_titles_jp": [
-          "虫籠のカガステル"
-        ],
-        "anime_license_name": "Кагастер. Убийца насекомых",
-        "anime_kind": "ona",
-        "anime_status": "released",
-        "year": 2020,
-        "description": "В недалёком будущем человечество настигает ужасающая болезнь, которая уносит треть населения Земли: люди внезапно начали превращаться в гигантских насекомых. Парень по имени Кидо работает дезинсектором, и однажды очередной умирающий просит доставить его дочь к матери, и теперь молодым людям предстоят долгое путешествие и невиданные открытия.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1314738.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/d1f85aa18262de8a6f2221c61778e05ec2302108.jpg",
-          "https://shikimori.one/system/screenshots/original/fd374b5cb2961106f7c4dfe0bc7d5e11a69a7f5c.jpg"
-        ],
-        "duration": 29,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Studio Kai"
-        ],
-        "imdb_rating": 6.2,
-        "imdb_votes": 465,
-        "shikimori_rating": 6.57,
-        "shikimori_votes": 752,
-        "premiere_world": "2020-02-06",
-        "aired_at": "2020-02-06",
-        "minimal_age": 18,
-        "episodes_total": 12,
-        "episodes_aired": 0,
-        "directors": [
-          "Коити Тигира"
-        ]
-      }
-    },
-    {
-      "id": "movie-57221",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Самый обычный роман",
-      "title_orig": "Gajang botongui yeonae",
-      "other_title": "Crazy Romance / The Most Ordinary Romance / The Most Common Date",
-      "translation": {
-        "id": 1323,
-        "title": "LightFamily",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1227763",
-      "imdb_id": "tt11041006",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-06-27T13:32:40Z",
-      "updated_at": "2020-06-27T13:32:40Z",
-      "material_data": {
-        "title": "Самый обычный роман",
-        "title_en": "Gajang botongui yeonae",
-        "year": 2019,
-        "description": "Некоторое время назад Чэ-хун отменил свою свадьбу, но забыть бывшую невесту не в силах, поэтому каждый день после работы он хорошенько напивается и строчит ей безответные сообщения. Новая сотрудница в его небольшой фирме по имени Сон-ён тоже на днях рассталась с парнем, и, хотя, тот публично сделал ей предложение, возобновлять отношения она не стремится. После очередных возлияний Чэ-хун выясняет, что прошлой ночью целых два часа разговаривал с Сон-ён. Он извиняется, и как-то так получается, что теперь они каждый вечер выпивают вместе.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1227763.jpg",
-        "duration": 110,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "комедия",
-          "мелодрама"
-        ],
-        "imdb_rating": 6.1,
-        "imdb_votes": 389,
-        "premiere_world": "2019-10-02",
-        "actors": [
-          "Ким Рэ-вон",
-          "Кон Хё-джин",
-          "Кан Ги-ён",
-          "Чон Ун-ин",
-          "Чан Со-ён",
-          "Чу Мин-гён",
-          "О Дон-мин",
-          "Пак Кын-нок",
-          "Юн Гён-хо",
-          "Чха Ёп"
-        ],
-        "directors": [
-          "Ким Хан-гёль"
-        ],
-        "producers": [
-          "Ли Ю-джин",
-          "О Хё-джин"
-        ],
-        "writers": [
-          "Ким Хан-гёль",
-          "О Хё-джин"
-        ],
-        "composers": [
-          "Ким Тхэ-сон"
-        ],
-        "editors": [
-          "Щин Мин-гён"
-        ],
-        "designers": [
-          "Со Сон-гён",
-          "Чхэ Гён-хва",
-          "Ю Чхон"
-        ],
-        "operators": [
-          "Сон Вон-хо"
-        ]
-      }
-    },
-    {
-      "id": "movie-57220",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Самый обычный роман",
-      "title_orig": "Gajang botongui yeonae",
-      "other_title": "Crazy Romance / The Most Ordinary Romance / The Most Common Date",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1227763",
-      "imdb_id": "tt11041006",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-06-27T13:32:16Z",
-      "updated_at": "2020-06-27T13:32:16Z",
-      "material_data": {
-        "title": "Самый обычный роман",
-        "title_en": "Gajang botongui yeonae",
-        "year": 2019,
-        "description": "Некоторое время назад Чэ-хун отменил свою свадьбу, но забыть бывшую невесту не в силах, поэтому каждый день после работы он хорошенько напивается и строчит ей безответные сообщения. Новая сотрудница в его небольшой фирме по имени Сон-ён тоже на днях рассталась с парнем, и, хотя, тот публично сделал ей предложение, возобновлять отношения она не стремится. После очередных возлияний Чэ-хун выясняет, что прошлой ночью целых два часа разговаривал с Сон-ён. Он извиняется, и как-то так получается, что теперь они каждый вечер выпивают вместе.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1227763.jpg",
-        "duration": 110,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "комедия",
-          "мелодрама"
-        ],
-        "imdb_rating": 6.1,
-        "imdb_votes": 389,
-        "premiere_world": "2019-10-02",
-        "actors": [
-          "Ким Рэ-вон",
-          "Кон Хё-джин",
-          "Кан Ги-ён",
-          "Чон Ун-ин",
-          "Чан Со-ён",
-          "Чу Мин-гён",
-          "О Дон-мин",
-          "Пак Кын-нок",
-          "Юн Гён-хо",
-          "Чха Ёп"
-        ],
-        "directors": [
-          "Ким Хан-гёль"
-        ],
-        "producers": [
-          "Ли Ю-джин",
-          "О Хё-джин"
-        ],
-        "writers": [
-          "Ким Хан-гёль",
-          "О Хё-джин"
-        ],
-        "composers": [
-          "Ким Тхэ-сон"
-        ],
-        "editors": [
-          "Щин Мин-гён"
-        ],
-        "designers": [
-          "Со Сон-гён",
-          "Чхэ Гён-хва",
-          "Ю Чхон"
-        ],
-        "operators": [
-          "Сон Вон-хо"
-        ]
-      }
-    },
-    {
-      "id": "movie-57216",
-      "type": "anime",
-      "link": "",
-      "title": "Эта глупая свинья не понимает мечту девочки-зайки! (фильм)",
-      "title_orig": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai",
-      "other_title": "Этот глупый свин не понимает мечту девочки-зайки. Фильм / Rascal Does Not Dream of a Dreaming Girl",
-      "translation": {
-        "id": 654,
-        "title": "AniFilm",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1272506",
-      "imdb_id": "tt10472884",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9824",
-      "shikimori_id": "38329",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-06-27T12:11:50Z",
-      "updated_at": "2020-06-27T12:11:50Z",
-      "material_data": {
-        "title": "Этому глупому свину и не снилась девочка-зайка",
-        "title_en": "Seishun Buta Yaro wa Yumemiru Shoujo no Yume wo Minai",
-        "other_titles": [
-          "Этот глупый свин не понимает мечту девочки из его снов"
-        ],
-        "other_titles_en": [
-          "Rascal Does Not Dream of a Dreaming Girl"
-        ],
-        "other_titles_jp": [
-          "青春ブタ野郎はゆめみる少女の夢を見ない"
-        ],
-        "anime_license_name": "Негодник, которому не снилась девушка-кролик. Фильм",
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2019,
-        "description": "Фудзисава, яркое небо, блестящее на солнце море... Чего ещё может желать второкурсник старшей школы Сакута Адзусагава, проводящий блаженные дни в компании своей подруги Маи Сакурадзимы ? Наверное, всё что угодно, но точно не встречи с Сёко Макинохарой , своей первой любовью. Кроме того, странные обстоятельства сталкивают парня с двумя Сёко: школьницей и взрослой женщиной.\r\nПоскольку в жизни Сакута оказывается беспомощным с Сёко-школьницей, взрослая её версия начинает водить его за нос, тем самым внося разлад в его отношения с Маи.\r\nПосреди этих событий он обнаруживает, что Сёко в старшей школе страдает от тяжёлой болезни, и его рана вновь начинает кровоточить...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1272506.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/26ea111778084f25de7c08b1fcdc76dd8568d4bb.jpg",
-          "https://shikimori.one/system/screenshots/original/6a313462f3479c5a927ee8db1731dccd24a9b23c.jpg"
-        ],
-        "duration": 89,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Романтика",
-          "Сверхъестественное",
-          "Школа"
-        ],
-        "anime_studios": [
-          "CloverWorks"
-        ],
-        "kinopoisk_rating": 8,
-        "kinopoisk_votes": 1313,
-        "imdb_rating": 8.1,
-        "imdb_votes": 1942,
-        "shikimori_rating": 8.68,
-        "shikimori_votes": 15334,
-        "premiere_world": "2019-06-15",
-        "aired_at": "2019-06-15",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Каито Исикава",
-          "Асами Сэто",
-          "Инори Минасэ",
-          "Юрика Кубо"
-        ],
-        "directors": [
-          "Соити Масуи"
-        ],
-        "writers": [
-          "Масахиро Ёкотани",
-          "Камосида Хадзимэ"
-        ]
-      }
-    },
-    {
-      "id": "serial-27195",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Весёлая ночка ОффГанов",
-      "title_orig": "OffGun Fun Night",
-      "other_title": "Весёлая ночь с ОффГанами / OffGunFunNight",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 9,
-      "episodes_count": 9,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-27T10:51:33Z",
-      "updated_at": "2020-06-27T10:51:33Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": ""
-          }
-        }
-      }
-    },
-    {
-      "id": "movie-57215",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Близкие враги",
-      "title_orig": "Naui jeolchin akdangdeul",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "897907",
-      "imdb_id": "tt4607976",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-06-27T10:45:16Z",
-      "updated_at": "2020-06-27T10:45:16Z",
-      "material_data": {
-        "title": "Близкие враги",
-        "title_en": "Naui jeolchin akdangdeul",
-        "year": 2015,
-        "description": "Во время полицейской погони происходит автомобильная авария. Работник соответствующей службы На-ми отвозит разбитую машину на свалку, и там находит чемоданы с деньгами. Она делит добычу с друзьями, и с этого момента жизнь приятелей серьёзно осложняется.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/897907.jpg",
-        "duration": 110,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "боевик",
-          "комедия",
-          "криминал"
-        ],
-        "imdb_rating": 4.6,
-        "imdb_votes": 109,
-        "premiere_world": "2015-06-25",
-        "actors": [
-          "Рю Сын-бом",
-          "Ко Джун-хи",
-          "Сэм Окере",
-          "Рю Хён-гён",
-          "Ким Ын-су",
-          "Чон Вон-джун",
-          "Ян Ик-чун",
-          "Тон Ха",
-          "Юн Ё-джон",
-          "Ким Джу-хёк"
-        ],
-        "directors": [
-          "Лим Сан-су"
-        ],
-        "producers": [
-          "Джон Пенотти"
-        ],
-        "writers": [
-          "Лим Сан-су"
-        ],
-        "composers": [
-          "Ким Хон-джип"
-        ],
-        "editors": [
-          "Ли Ын-су"
         ]
       }
     }

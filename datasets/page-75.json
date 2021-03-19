@@ -1,6 +1,371 @@
 {
   "results": [
     {
+      "id": "movie-59015",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Ночные капитаны",
+      "title_orig": "Ночные капитаны",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1978,
+      "kinopoisk_id": "540672",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-17T07:15:48Z",
+      "updated_at": "2020-08-17T07:15:48Z",
+      "material_data": {
+        "title": "Ночные капитаны",
+        "title_en": "",
+        "year": 1978,
+        "description": "Мультфильм состоит из двух сюжетов: «Четыре коня» о том, что нужно учить детей держаться в седле и «Ночные капитаны» - фантазия ребят на тему космоса.",
+        "duration": 9,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "minimal_age": 0,
+        "directors": [
+          "Ирина Гурвич"
+        ],
+        "writers": [
+          "Владимир Орлов"
+        ],
+        "composers": [
+          "Борис Буевский"
+        ],
+        "designers": [
+          "Роман Адамович"
+        ],
+        "operators": [
+          "Анатолий Гаврилов"
+        ]
+      }
+    },
+    {
+      "id": "movie-59016",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Поп и коза",
+      "title_orig": "Tertern u aytze",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1941,
+      "kinopoisk_id": "412637",
+      "imdb_id": "tt0429175",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-17T07:14:41Z",
+      "updated_at": "2020-08-17T07:14:41Z",
+      "material_data": {
+        "title": "Поп и коза",
+        "title_en": "",
+        "year": 1941,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/412637.jpg",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "комедия",
+          "короткометражка",
+          "мультфильм"
+        ],
+        "imdb_rating": 4,
+        "imdb_votes": 10,
+        "minimal_age": 0,
+        "directors": [
+          "Лев Атаманов"
+        ],
+        "writers": [
+          "Мкртич Корюн",
+          "Лев Атаманов"
+        ],
+        "composers": [
+          "Сергей Бархударян"
+        ],
+        "designers": [
+          "М. Карапетян"
+        ],
+        "operators": [
+          "А. Лопоян"
+        ]
+      }
+    },
+    {
+      "id": "serial-27716",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Поезд",
+      "title_orig": "Teurein",
+      "other_title": "Train",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1365994",
+      "imdb_id": "tt11827694",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-07-12T13:49:52Z",
+      "updated_at": "2020-08-17T07:14:02Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Поезд",
+        "title_en": "Teurein",
+        "year": 2020,
+        "description": "Мужчина пытается выследить серийного убийцу в параллельном измерении.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1365994.jpg",
+        "duration": 60,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "детектив",
+          "криминал",
+          "фантастика"
+        ],
+        "kinopoisk_rating": 7.4,
+        "kinopoisk_votes": 212,
+        "imdb_rating": 8,
+        "imdb_votes": 468,
+        "premiere_world": "2020-07-11",
+        "actors": [
+          "Юн Щи-юн",
+          "Кён Су-джин",
+          "Щин Со-юль",
+          "Чо Ван-ги",
+          "Чха Ёп",
+          "Ли Хан-на",
+          "Ким Дон-ён",
+          "Юн Бог-ин",
+          "Нам Мун-чхоль",
+          "Квон Хан-соль"
+        ],
+        "directors": [
+          "Рю Сын-джин"
+        ]
+      }
+    },
+    {
+      "id": "movie-59017",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Синица, роща и огонь",
+      "title_orig": "Синица, роща и огонь",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1991,
+      "kinopoisk_id": "1118142",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-17T07:13:51Z",
+      "updated_at": "2020-08-17T07:13:51Z",
+      "material_data": {
+        "title": "Синица, роща и огонь",
+        "title_en": "",
+        "year": 1991,
+        "duration": 20,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "minimal_age": 0,
+        "actors": [
+          "Рогволд Суховерко",
+          "Евгений Стеблов",
+          "Всеволод Абдулов",
+          "Людмила Ильина"
+        ],
+        "directors": [
+          "Галина Беда"
+        ],
+        "writers": [
+          "Марина Вишневецкая"
+        ],
+        "composers": [
+          "Игорь Красильников"
+        ],
+        "designers": [
+          "Галина Беда",
+          "Борис Моисеев"
+        ],
+        "operators": [
+          "Константин Инешин",
+          "Евгений Туревич"
+        ]
+      }
+    },
+    {
+      "id": "movie-31069",
+      "type": "russian-cartoon",
+      "link": "",
+      "title": "Когда зажигаются елки",
+      "title_orig": "Когда зажигаются елки",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1950,
+      "kinopoisk_id": "44851",
+      "imdb_id": "tt0211466",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-17T09:34:04Z",
+      "updated_at": "2020-08-17T06:17:43Z",
+      "material_data": {
+        "title": "Когда зажигаются елки",
+        "title_en": "",
+        "year": 1950,
+        "description": "Дед Мороз и Снегурочка торопятся в город с подарками для детворы. Злые волки мешают им, но волшебные сани все-таки успевают к началу новогоднего праздника.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/44851.jpg",
+        "duration": 20,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм",
+          "семейный"
+        ],
+        "kinopoisk_rating": 7.9,
+        "kinopoisk_votes": 12289,
+        "imdb_rating": 7.5,
+        "imdb_votes": 133,
+        "minimal_age": 6,
+        "actors": [
+          "Татьяна Барышева",
+          "Юрий Хржановский",
+          "Леонид Пирогов",
+          "Ростислав Плятт",
+          "Владимир Володин",
+          "Юлия Юльская",
+          "Виктория Иванова"
+        ],
+        "directors": [
+          "Мстислав Пащенко"
+        ],
+        "writers": [
+          "Сергей Михалков",
+          "Михаил Вольпин",
+          "Владимир Сутеев"
+        ],
+        "composers": [
+          "Карэн Хачатурян"
+        ],
+        "editors": [
+          "Лидия Кякшт"
+        ],
+        "designers": [
+          "Евгений Мигунов",
+          "Владимир Дегтярев",
+          "Дмитрий Анпилов",
+          "Вера Валерианова",
+          "Елена Танненберг",
+          "Константин Малышев"
+        ],
+        "operators": [
+          "Михаил Друян"
+        ]
+      }
+    },
+    {
+      "id": "movie-58985",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Здравствуй, атом!",
+      "title_orig": "Здравствуй, атом!",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1965,
+      "kinopoisk_id": "591830",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-17T06:16:39Z",
+      "updated_at": "2020-08-17T06:16:39Z",
+      "material_data": {
+        "title": "Здравствуй, атом!",
+        "title_en": "",
+        "year": 1965,
+        "description": "Фильм-плакат о возможностях атомной энергетики.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/591830.jpg",
+        "duration": 9,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "actors": [
+          "Александр Граве"
+        ],
+        "directors": [
+          "Лев Мильчин"
+        ],
+        "writers": [
+          "Дмитрий Родичев",
+          "А. Черномордик",
+          "А. Пещерский"
+        ],
+        "composers": [
+          "Ян Френкель"
+        ],
+        "designers": [
+          "Гражина Брашишките"
+        ]
+      }
+    },
+    {
       "id": "movie-58986",
       "type": "russian-movie",
       "link": "",
@@ -1765,8 +2130,8 @@
           "триллер",
           "фантастика"
         ],
-        "imdb_rating": 5.1,
-        "imdb_votes": 116,
+        "imdb_rating": 5.2,
+        "imdb_votes": 117,
         "premiere_world": "2020-01-31",
         "actors": [
           "Такао Осава",
@@ -3806,7 +4171,7 @@
           "Polygon Pictures"
         ],
         "shikimori_rating": 7.25,
-        "shikimori_votes": 1790,
+        "shikimori_votes": 1805,
         "aired_at": "2016-05-06",
         "released_at": "2016-10-07",
         "rating_mpaa": "R",
@@ -4427,7 +4792,7 @@
         "imdb_rating": 7.5,
         "imdb_votes": 1162,
         "shikimori_rating": 7.64,
-        "shikimori_votes": 5278,
+        "shikimori_votes": 5446,
         "premiere_world": "2014-10-31",
         "aired_at": "2014-11-22",
         "rating_mpaa": "R",
@@ -8515,583 +8880,6 @@
         "composers": [
           "Тацуя Като"
         ]
-      }
-    },
-    {
-      "id": "movie-58929",
-      "type": "anime",
-      "link": "",
-      "title": "Моб Психо 100",
-      "title_orig": "Mob Psycho 100",
-      "other_title": "Моб Психо 100 OVA-2 / Моб Психо 100: Первая поездка «Консультаций по призракам и всякой всячине» — Путешествие, исцеляющее душу и тело",
-      "translation": {
-        "id": 1079,
-        "title": "Aniraccoon",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "1002686",
-      "imdb_id": "tt5897304",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10121",
-      "shikimori_id": "39651",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-14T09:22:50Z",
-      "updated_at": "2020-08-14T09:22:50Z",
-      "material_data": {
-        "title": "Моб Психо 100",
-        "title_en": "Mob Psycho 100",
-        "other_titles": [
-          "Моб Психо 100 2: Путешествие, которое склеивает сердце и исцеляет душу",
-          "Mob Psycho 100: The Spirits and Such Consultation Office's First Company Outing - A Healing Trip That Warms the Heart"
-        ],
-        "other_titles_jp": [
-          "モブサイコ100 第一回霊とか相談所慰安旅行~ココロ満たす癒やしの旅"
-        ],
-        "anime_license_name": "Моб Психо 100: Первая поездка «Консультаций по призракам и всякой всячине» — Путешествие, исцеляющее душу и тело",
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 2016,
-        "description": "Сигэо Кагэяма, также известный как Моб, - восьмиклассник с психическими способностями. Он умеет сгибать ложки и поднимать вещи силой мысли с ранних лет, но затем он постепенно начал сдерживаться от использования способностей на публике. И теперь единственное, чего он хочет - это подружиться с одноклассницей Цубоми. Вместе со своим психическим наставником (у которого нет психических способностей), он продолжает свою повседневную жизнь, пытаясь понять свое назначение в жизни.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1002686.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/d2aa462504cbbe54f7fb2a71a0ae65b77085dd31.jpg",
-          "https://shikimori.one/system/screenshots/original/e9fa3b748c597b8ebe47a83955ac2c5c39f58dbb.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность",
-          "Сверхъестественное",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Bones"
-        ],
-        "kinopoisk_rating": 8.2,
-        "kinopoisk_votes": 10600,
-        "imdb_rating": 8.5,
-        "imdb_votes": 15651,
-        "shikimori_rating": 7.62,
-        "shikimori_votes": 3719,
-        "premiere_ru": "2018-09-11",
-        "premiere_world": "2016-07-11",
-        "aired_at": "2019-09-25",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Сэцуо Ито",
-          "Такахиро Сакурай",
-          "Акио Оцука",
-          "Мию Ирино",
-          "Ёсицугу Мацуока",
-          "Ёсимаса Хосоя",
-          "Рюносукэ Ватануки",
-          "Сэиитиро Ямасита",
-          "Кохэи Амасаки",
-          "Даики Хамано"
-        ],
-        "directors": [
-          "Юдзуру Татикава",
-          "Такэфуми Андзаи",
-          "Кацуя Сигэхара",
-          "Кэнъити Фудзисава",
-          "Ёко Канамори",
-          "Такаси Кавабата",
-          "Томоаки Ота",
-          "Юдзи Оя"
-        ],
-        "producers": [
-          "Дзюн Фукуда",
-          "Юкихиро Ито",
-          "Акио Мацуда",
-          "Юки Нагано",
-          "Хироцуги Огису"
-        ],
-        "writers": [
-          "Онэ",
-          "Хироси Сэко"
-        ],
-        "composers": [
-          "Кэндзи Каваи"
-        ],
-        "editors": [
-          "Киёси Хиросэ"
-        ],
-        "designers": [
-          "Рё Коно"
-        ],
-        "operators": [
-          "Маюко Фурумото"
-        ]
-      }
-    },
-    {
-      "id": "serial-24722",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Гандам Билд дайверы: Подъём [ТВ-2]",
-      "title_orig": "Gundam Build Divers Re:Rise (2020)",
-      "other_title": "Гандам: Сконструированные дайверы - Подъём / Гандам: Сконструированные дайверы — Подъём",
-      "translation": {
-        "id": 1291,
-        "title": "Crunchyroll.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 2,
-      "last_episode": 11,
-      "episodes_count": 11,
-      "kinopoisk_id": "1318276",
-      "imdb_id": "tt11100658",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10353",
-      "shikimori_id": "40942",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-12T14:50:11Z",
-      "updated_at": "2020-08-14T09:18:18Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Гандам: Сконструированные дайверы – Подъём",
-        "title_en": "Gundam Build Divers Re: Rise",
-        "other_titles_en": [
-          "GUNDAM BUILD DIVERS Re:RISE"
-        ],
-        "other_titles_jp": [
-          "ガンダムビルドダイバーズRe:RISE"
-        ],
-        "anime_license_name": "Гандам Билд Дайверы: Новый восход 2",
-        "anime_kind": "ona",
-        "anime_status": "released",
-        "year": 2019,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1318276.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/a15e2d73400252ddc67fbf6da91d30940f3e666e.jpg",
-          "https://shikimori.one/system/screenshots/original/b70f9cf88b0eddad10bc29cc78369548c0cf41ab.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Меха",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Sunrise Beyond"
-        ],
-        "imdb_rating": 7.4,
-        "imdb_votes": 27,
-        "shikimori_rating": 7.56,
-        "shikimori_votes": 44,
-        "premiere_world": "2019-10-10",
-        "aired_at": "2020-04-09",
-        "released_at": "2020-08-27",
-        "rating_mpaa": "G",
-        "episodes_total": 13,
-        "episodes_aired": 13,
-        "actors": [
-          "Тиаки Кобаяси",
-          "Масааки Мидзунака"
-        ],
-        "directors": [
-          "Синъя Ватада"
-        ],
-        "writers": [
-          "Ясуюки Муто"
-        ]
-      }
-    },
-    {
-      "id": "movie-58909",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Малый бюджет",
-      "title_orig": "B.O.",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2020,
-      "kinopoisk_id": "1083287",
-      "imdb_id": "tt5954808",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-14T08:30:51Z",
-      "updated_at": "2020-08-14T08:30:51Z",
-      "material_data": {
-        "title": "B.O.",
-        "title_en": "",
-        "duration": 75,
-        "countries": [
-          "Бразилия"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "actors": [
-          "Луиза Арраес",
-          "Дэниэл Бельмонте",
-          "Джордж Саума",
-          "Rodrigo Arruda",
-          "Eduardo Speroni",
-          "Hernane Cardoso",
-          "Ronaldo Mourao",
-          "Андри Пеллегрину",
-          "Hamilton Dias",
-          "Жоау Сантанна"
-        ],
-        "directors": [
-          "Дэниэл Бельмонте",
-          "Pedro Cadore"
-        ],
-        "producers": [
-          "Дэниэл Бельмонте",
-          "Bruno Bloch",
-          "Pedro Cadore"
-        ],
-        "writers": [
-          "Дэниэл Бельмонте",
-          "Bruno Bloch",
-          "Pedro Cadore"
-        ],
-        "composers": [
-          "Pedro Nêgo"
-        ],
-        "editors": [
-          "Pedro Thomé"
-        ],
-        "designers": [
-          "Natália Pirulita Bittencourt"
-        ],
-        "operators": [
-          "Bruno Keusen"
-        ]
-      }
-    },
-    {
-      "id": "movie-58908",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Снеговик-почтовик",
-      "title_orig": "Snegovik-pochtovik",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1956,
-      "kinopoisk_id": "431162",
-      "imdb_id": "tt1794958",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-14T07:19:45Z",
-      "updated_at": "2020-08-14T07:19:45Z",
-      "material_data": {
-        "title": "Снеговик-почтовик",
-        "title_en": "",
-        "year": 1955,
-        "description": "О снеговике, который отправился к деду Морозу с письмом от детей с просьбой прислать им ёлку к Новому году.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/431162.jpg",
-        "duration": 20,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 8,
-        "kinopoisk_votes": 27627,
-        "imdb_rating": 7.5,
-        "imdb_votes": 196,
-        "premiere_world": "1956-01-06",
-        "minimal_age": 6,
-        "actors": [
-          "Юрий Хржановский",
-          "Георгий Вицин",
-          "Александр Щагин",
-          "Юлия Юльская",
-          "Алексей Грибов",
-          "Ростислав Плятт",
-          "Мария Виноградова",
-          "Лариса Бухарцева"
-        ],
-        "directors": [
-          "Леонид Амальрик"
-        ],
-        "writers": [
-          "Владимир Сутеев"
-        ],
-        "composers": [
-          "Никита Богословский"
-        ],
-        "designers": [
-          "Александр Трусов"
-        ],
-        "operators": [
-          "Михаил Друян"
-        ]
-      }
-    },
-    {
-      "id": "serial-28627",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Моб Психо 100 [ТВ-2]",
-      "title_orig": "Mob Psycho 100 II",
-      "other_title": "Моб Психо 100 2",
-      "translation": {
-        "id": 1079,
-        "title": "Aniraccoon",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 2,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "1002686",
-      "imdb_id": "tt5897304",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9629",
-      "shikimori_id": "37510",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-13T10:34:59Z",
-      "updated_at": "2020-08-14T06:39:55Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Моб Психо 100",
-        "title_en": "Mob Psycho 100",
-        "other_titles": [
-          "Mob Psycho 100 2nd Season",
-          "Mob Psycho Hyaku",
-          "Mob Psycho One Hundred"
-        ],
-        "other_titles_en": [
-          "Mob Psycho 100 II"
-        ],
-        "other_titles_jp": [
-          "モブサイコ100 II"
-        ],
-        "anime_license_name": "Моб Психо 100 II",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2016,
-        "description": "Сигэо Кагэяма, также известный как Моб, - восьмиклассник с психическими способностями. Он умеет сгибать ложки и поднимать вещи силой мысли с ранних лет, но затем он постепенно начал сдерживаться от использования способностей на публике. И теперь единственное, чего он хочет - это подружиться с одноклассницей Цубоми. Вместе со своим психическим наставником (у которого нет психических способностей), он продолжает свою повседневную жизнь, пытаясь понять свое назначение в жизни.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1002686.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/e5373b50bca36cb74236a981cad953be8c32804b.png",
-          "https://shikimori.one/system/screenshots/original/774dae7bd2d9941ea64423ad84870d86f024a9c6.png"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность",
-          "Сверхъестественное",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Bones"
-        ],
-        "kinopoisk_rating": 8.2,
-        "kinopoisk_votes": 10600,
-        "imdb_rating": 8.5,
-        "imdb_votes": 15651,
-        "shikimori_rating": 8.84,
-        "shikimori_votes": 35232,
-        "premiere_ru": "2018-09-11",
-        "premiere_world": "2016-07-11",
-        "aired_at": "2019-01-07",
-        "released_at": "2019-04-01",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 13,
-        "episodes_aired": 13,
-        "actors": [
-          "Сэцуо Ито",
-          "Такахиро Сакурай",
-          "Акио Оцука",
-          "Мию Ирино",
-          "Ёсицугу Мацуока",
-          "Ёсимаса Хосоя",
-          "Рюносукэ Ватануки",
-          "Сэиитиро Ямасита",
-          "Кохэи Амасаки",
-          "Даики Хамано"
-        ],
-        "directors": [
-          "Юдзуру Татикава",
-          "Такэфуми Андзаи",
-          "Кацуя Сигэхара",
-          "Кэнъити Фудзисава",
-          "Ёко Канамори",
-          "Такаси Кавабата",
-          "Томоаки Ота",
-          "Юдзи Оя"
-        ],
-        "producers": [
-          "Дзюн Фукуда",
-          "Юкихиро Ито",
-          "Акио Мацуда",
-          "Юки Нагано",
-          "Хироцуги Огису"
-        ],
-        "writers": [
-          "Онэ",
-          "Хироси Сэко"
-        ],
-        "composers": [
-          "Кэндзи Каваи"
-        ],
-        "editors": [
-          "Киёси Хиросэ"
-        ],
-        "designers": [
-          "Рё Коно"
-        ],
-        "operators": [
-          "Маюко Фурумото"
-        ]
-      }
-    },
-    {
-      "id": "serial-28641",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Денежное поле [ТВ-2]",
-      "title_orig": "Gurazeni: Season 2",
-      "other_title": "Денежное поле 2",
-      "translation": {
-        "id": 923,
-        "title": "AnimeVost",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 2,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9740",
-      "shikimori_id": "37990",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-14T06:38:55Z",
-      "updated_at": "2020-08-14T06:38:55Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Денежное поле 2",
-        "title_en": "Gurazeni Season 2",
-        "other_titles": [
-          "Gurazeni 2nd Season",
-          "Gurazeni (2018)"
-        ],
-        "other_titles_jp": [
-          "グラゼニ シーズン2"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "poster_url": "https://shikimori.one/system/animes/original/37990.jpg",
-        "anime_genres": [
-          "Драма",
-          "Комедия",
-          "Сейнен",
-          "Спорт"
-        ],
-        "anime_studios": [
-          "Studio Deen"
-        ],
-        "shikimori_rating": 6.74,
-        "shikimori_votes": 84,
-        "aired_at": "2018-10-05",
-        "released_at": "2018-12-21",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12
       }
     }
   ]

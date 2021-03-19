@@ -1,6 +1,555 @@
 {
   "results": [
     {
+      "id": "movie-30457",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Сережа",
+      "title_orig": "Seryozha",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1960,
+      "kinopoisk_id": "43700",
+      "imdb_id": "tt0054293",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-04T07:07:21Z",
+      "updated_at": "2019-01-04T07:07:21Z",
+      "material_data": {
+        "title": "Сережа",
+        "title_en": "",
+        "year": 1960,
+        "description": "Мама пятилетнего Сережи вышла замуж, и теперь в семье появился «новый папа». Сережа называет его по фамилии - Коростелев. Возможно, это происходит потому, что Коростелев стал для мальчика не только настоящим отцом и лучшим другом - он единственный из старших, кто понимает, что имеет дело с самостоятельной личностью...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/43700.jpg",
+        "duration": 80,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 8.1,
+        "kinopoisk_votes": 9128,
+        "imdb_rating": 7.8,
+        "imdb_votes": 546,
+        "premiere_world": "1960-08-12",
+        "minimal_age": 12,
+        "actors": [
+          "Борис Бархатов",
+          "Сергей Бондарчук",
+          "Ирина Скобцева",
+          "Юрий Козлов",
+          "Сергей Метелицын",
+          "Любовь Соколова",
+          "Василий Меркурьев",
+          "Александра Панова",
+          "Кларина Фролова",
+          "Николай Сергеев"
+        ],
+        "directors": [
+          "Георгий Данелия",
+          "Игорь Таланкин"
+        ],
+        "writers": [
+          "Георгий Данелия",
+          "Вера Панова",
+          "Игорь Таланкин"
+        ],
+        "composers": [
+          "Борис Чайковский"
+        ],
+        "editors": [
+          "П. Чечеткина"
+        ],
+        "designers": [
+          "Валерия Нисская"
+        ],
+        "operators": [
+          "Анатолий Ниточкин"
+        ]
+      }
+    },
+    {
+      "id": "serial-12776",
+      "type": "anime-serial",
+      "link": "",
+      "title": "История Мерк",
+      "title_orig": "Merc Storia: Mukiryoku Shounen to Bin no Naka no Shoujo",
+      "other_title": "История Мерк: Равнодушный мальчик и девочка в бутылке",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1210988",
+      "imdb_id": "tt9182894",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9785",
+      "shikimori_id": "37232",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-10-13T09:42:30Z",
+      "updated_at": "2019-01-03T18:51:48Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "История Мерк",
+        "title_en": "Merc Storia: Yujutsushi to Suzu no Shirabe",
+        "other_titles_en": [
+          "Merc StoriA: The Apathetic Boy and the Girl in a Bottle"
+        ],
+        "other_titles_jp": [
+          "メルクストーリア -無気力少年と瓶の中の少女-"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2018,
+        "description": "В фэнтезийном мире Мефтерхан люди, наконец-то, научились приручать монстров, делая их питомцами. Парень по имени Ю обладает удивительным даром для этого мира — манипулирование монстрами. Его мечта — стать целителем. Однажды судьба сводит Ю с водным духом Мерк, запертой в бутылке и не помнящей своего прошлого. Прибыла она к нему, дабы юноша помог ей вернуть воспоминания и вызволил её из заточения. И вот теперь этих двоих ждёт длинное путешествие по всему миру.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1210988.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/7a63f6f0a2c2f14bfc7c54fb96f10f786f80c758.jpg",
+          "https://shikimori.one/system/screenshots/original/574908bbd8f23c8debb16790c95fb8217766b703.jpg"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Магия",
+          "Приключения",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Encourage Films"
+        ],
+        "imdb_rating": 5.9,
+        "imdb_votes": 14,
+        "shikimori_rating": 6.54,
+        "shikimori_votes": 706,
+        "premiere_world": "2018-10-11",
+        "aired_at": "2018-10-11",
+        "released_at": "2018-12-27",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Тё",
+          "Юмири Ханамори",
+          "Инори Минасэ",
+          "Муцуми Тамура"
+        ],
+        "directors": [
+          "Фумитоси Оидзаки"
+        ],
+        "writers": [
+          "Хитоми Амамия",
+          "Фумитоси Оидзаки",
+          "Хироки Утида"
+        ],
+        "composers": [
+          "Мидзуки Камада",
+          "Ямато Касай"
+        ]
+      }
+    },
+    {
+      "id": "serial-13443",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Токийский гуль: Перерождение [ТВ-2]",
+      "title_orig": "Tokyo Ghoul:Re",
+      "other_title": "Токийский гуль [ТВ-4]",
+      "translation": {
+        "id": 739,
+        "title": "Animedia",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 4,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "841681",
+      "imdb_id": "tt8213522",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9678",
+      "shikimori_id": "37799",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-11-27T18:38:55Z",
+      "updated_at": "2019-01-03T11:32:15Z",
+      "seasons": {
+        "4": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Токийский гуль",
+        "title_en": "Tokyo Ghoul",
+        "other_titles": [
+          "Токийский монстр: Перерождение 2",
+          "Tokyo Kushu:re",
+          "Toukyou Kuushu:re"
+        ],
+        "other_titles_jp": [
+          "京喰種トーキョーグール：re 第2期"
+        ],
+        "anime_license_name": "Токийский гуль:re",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2014,
+        "description": "С обычным студентом Кэном Канэки случается беда, парень попадает в больницу. Но на этом неприятности не заканчиваются: ему пересаживают органы гулей – существ, поедающих плоть людей. После злосчастной операции Канэки становится одним из чудовищ, пытается стать своим, но для людей он теперь изгой, обреченный на уничтожение.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/841681.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/9531674e23390d6a91553d0354e192b67bd2410d.png",
+          "https://shikimori.one/system/screenshots/original/a8cd69f8cb4ae4785a17b3deac0f84e312b8cdae.png"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "ужасы"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Драма",
+          "Психологическое",
+          "Сверхъестественное",
+          "Сейнен",
+          "Ужасы",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Studio Pierrot",
+          "Pierrot Plus"
+        ],
+        "kinopoisk_rating": 7.3,
+        "kinopoisk_votes": 47193,
+        "imdb_rating": 7.9,
+        "imdb_votes": 37069,
+        "shikimori_rating": 6.33,
+        "shikimori_votes": 25821,
+        "premiere_ru": "2017-12-04",
+        "premiere_world": "2014-07-03",
+        "aired_at": "2018-10-09",
+        "released_at": "2018-12-25",
+        "rating_mpaa": "R",
+        "minimal_age": 18,
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Нацуки Ханаэ",
+          "Сора Амамия",
+          "Синтаро Асанума",
+          "Мамору Мияно",
+          "Сумирэ Морохоси",
+          "Такахиро Сакурай",
+          "Риэ Кугимия",
+          "Рэина Уэда",
+          "Кана Ханадзава",
+          "Ринтаро Ниси"
+        ],
+        "directors": [
+          "Сюхэй Морита"
+        ],
+        "producers": [
+          "Гэн Фукунага"
+        ],
+        "writers": [
+          "Суи Исида",
+          "Тюдзи Микасано"
+        ],
+        "composers": [
+          "Ютака Ямада"
+        ]
+      }
+    },
+    {
+      "id": "serial-13328",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Убийца гоблинов",
+      "title_orig": "Goblin Slayer",
+      "other_title": "ゴブリンスレイヤー",
+      "translation": {
+        "id": 739,
+        "title": "Animedia",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1175513",
+      "imdb_id": "tt8690728",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9577",
+      "shikimori_id": "37349",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-11-19T10:20:44Z",
+      "updated_at": "2019-01-03T11:23:06Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Убийца гоблинов",
+        "title_en": "Goblin Slayer",
+        "other_titles_en": [
+          "Goblin Slayer"
+        ],
+        "other_titles_jp": [
+          "ゴブリンスレイヤー"
+        ],
+        "anime_license_name": "Убийца гоблинов",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2018,
+        "tagline": "He does not let anyone roll the dice.",
+        "description": "Юная жрица, завершив обучение в одном из местных храмов, отправляется вместе с другими искателями приключений уничтожать логово гоблинов. Однако всё идёт не по плану, группа попадает в беду, и на помощь им приходит таинственный мечник, которого называют «Убийцей гоблинов». Он берёт жрицу под свою опеку и обучает её методам борьбы с гоблинами, представляющими серьёзную угрозу окружающему населению.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1175513.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/d09d7cd8e1dbc9383bd05d6fc296d077b3028b80.png",
+          "https://shikimori.one/system/screenshots/original/10bcc809ef19685591c5db95c93ff1758192c583.png"
+        ],
+        "duration": 30,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Приключения",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "White Fox"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 4490,
+        "imdb_rating": 7.5,
+        "imdb_votes": 4631,
+        "shikimori_rating": 7.47,
+        "shikimori_votes": 35271,
+        "premiere_world": "2018-10-07",
+        "aired_at": "2018-10-07",
+        "released_at": "2018-12-30",
+        "rating_mpaa": "R",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Юитиро Умэхара",
+          "Юи Огури",
+          "Юка Игути",
+          "Нао Тояма",
+          "Маая Утида",
+          "Юи Огура",
+          "Юити Накамура",
+          "Томокадзу Сугита",
+          "Ёко Хикаса",
+          "Ёсицугу Мацуока"
+        ],
+        "directors": [
+          "Такахару Одзаки"
+        ],
+        "writers": [
+          "Хидэюки Курата",
+          "Ёсукэ Курода",
+          "Кумо Кагю"
+        ],
+        "composers": [
+          "Кэнъитиро Суэхиро"
+        ]
+      }
+    },
+    {
+      "id": "serial-12855",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Золотое божество [ТВ-2]",
+      "title_orig": "Golden Kamuy (2018)",
+      "other_title": "Золотое Божество 2",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 2,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1161904",
+      "imdb_id": "tt8225204",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9744",
+      "shikimori_id": "37989",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-10-17T13:49:14Z",
+      "updated_at": "2019-01-03T11:20:11Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Золотое божество",
+        "title_en": "Golden Kamuy",
+        "other_titles": [
+          "Золотой Камуи 2",
+          "Golden Kamuy Second Season"
+        ],
+        "other_titles_en": [
+          "Golden Kamuy: Season 2"
+        ],
+        "other_titles_jp": [
+          "ゴールデンカムイ"
+        ],
+        "anime_license_name": "Золотой Камуй",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2018,
+        "description": "Начало XX века. Российская империя проиграла Японии в борьбе за контроль над Маньчжурией и Жёлтым морем. Одним из участников этой войны был и Саити Сугимото, которого прозвали бессмертным. Однажды он нашёл потерянную кем-то карту, указывающую на местоположение спрятанного золота айнов. B порыве сорвать куш Саити отправился туда, но он далеко не единственный, кто хочет быстро разбогатеть.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1161904.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/2ed3af643363316c91332c2b1f403929d4bf8d24.png",
+          "https://shikimori.one/system/screenshots/original/58bf5bb2635bc5faf030e713cff7b53877deaeaf.png"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Исторический",
+          "Приключения",
+          "Сейнен",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Geno Studio"
+        ],
+        "kinopoisk_rating": 7.7,
+        "kinopoisk_votes": 878,
+        "imdb_rating": 7.9,
+        "imdb_votes": 947,
+        "shikimori_rating": 8.2,
+        "shikimori_votes": 5760,
+        "premiere_world": "2018-04-08",
+        "aired_at": "2018-10-08",
+        "released_at": "2018-12-24",
+        "rating_mpaa": "R",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Тикахиро Кобаяси",
+          "Харука Сираиси",
+          "Кэндзиро Цуда",
+          "Ютака Аояма",
+          "Тосихико Сэки",
+          "Дзёдзи Наката",
+          "Масаки Тэрасома",
+          "Фумихико Татики",
+          "Акио Оцука"
+        ],
+        "directors": [
+          "Хитоси Нанба"
+        ],
+        "producers": [
+          "Гэн Фукунага"
+        ]
+      }
+    },
+    {
       "id": "movie-30451",
       "type": "foreign-movie",
       "link": "",
@@ -55,10 +604,10 @@
           "комедия",
           "мелодрама"
         ],
-        "kinopoisk_rating": 6,
-        "kinopoisk_votes": 892,
-        "imdb_rating": 5.3,
-        "imdb_votes": 743,
+        "kinopoisk_rating": 6.1,
+        "kinopoisk_votes": 930,
+        "imdb_rating": 5.4,
+        "imdb_votes": 786,
         "premiere_world": "2016-07-01",
         "rating_mpaa": "PG-13",
         "actors": [
@@ -1214,8 +1763,8 @@
         "genres": [
           "драма"
         ],
-        "imdb_rating": 5.8,
-        "imdb_votes": 41,
+        "imdb_rating": 5.9,
+        "imdb_votes": 40,
         "premiere_world": "2017-06-17",
         "actors": [
           "Каи Иноваки",
@@ -6329,9 +6878,9 @@
           "триллер"
         ],
         "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 501,
+        "kinopoisk_votes": 514,
         "imdb_rating": 8.3,
-        "imdb_votes": 71560,
+        "imdb_votes": 72638,
         "premiere_ru": "2019-06-27",
         "premiere_world": "2018-10-04",
         "minimal_age": 16,
@@ -8481,419 +9030,6 @@
         ],
         "composers": [
           "Юки Хаяси"
-        ]
-      }
-    },
-    {
-      "id": "serial-13869",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Сияющий офис",
-      "title_orig": "Jachebalgwang Opiseu",
-      "other_title": "Ослепительный офис / Self Radiation Office / Radiant Office",
-      "translation": {
-        "id": 620,
-        "title": "GREEN TEA",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1009105",
-      "imdb_id": "tt6464184",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-12-26T01:16:51Z",
-      "updated_at": "2018-12-26T01:16:51Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Сияющий офис",
-        "title_en": "Jachebalgwang opiseu",
-        "year": 2017,
-        "description": "Молодую женщину увольняют с работы. Она пытается устроиться куда-нибудь ещё, но безуспешно. Не видя выхода из сложившейся ситуации, она прыгает с моста, но её спасают и доставляют в больницу. А там выясняется, что у неё смертельное заболевание, и жить осталось недолго.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1009105.jpg",
-        "duration": 60,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "драма",
-          "комедия"
-        ],
-        "kinopoisk_rating": 7,
-        "kinopoisk_votes": 248,
-        "imdb_rating": 7.1,
-        "imdb_votes": 172,
-        "premiere_world": "2017-03-15",
-        "actors": [
-          "Ко А-сон",
-          "Ха Сок-чин",
-          "Ли Дон-хви",
-          "Хоя",
-          "Ким Дон-ук",
-          "Чан Щин-ён",
-          "Квон Хэ-хё",
-          "Хан Сон-хва",
-          "О Дэ-хван",
-          "Ким Хи-чхан"
-        ],
-        "directors": [
-          "Чон Джи-ин"
-        ],
-        "producers": [
-          "Ким Гён-хи"
-        ],
-        "writers": [
-          "Чон Хве-хён"
-        ]
-      }
-    },
-    {
-      "id": "serial-12717",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Освобождение шпионов",
-      "title_orig": "Release the Spyce",
-      "other_title": "Тайные миссии команды ЦукиКаге",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1211346",
-      "imdb_id": "tt9238088",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9557",
-      "shikimori_id": "37221",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-10-09T22:06:17Z",
-      "updated_at": "2018-12-26T00:11:57Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Освобождение шпионов",
-        "title_en": "Release the Spyce",
-        "other_titles_jp": [
-          "RELEASE THE SPYCE"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2018,
-        "description": "История о самой обычной девочке по имени Момо, которая посещает старшую школу в городе Сорасаки. Но обычная она только на первый взгляд: девушка является членом «Цукикагэ» — тайного разведывательного агентства, которое специализируется на защите людей. Будучи новым членом агентства, она работает вместе со своими коллегами, включая наставницу Юки и друзей. Совместными усилиями они пытаются восстановить на улицах родного города порядок.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1211346.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/841eed7f2cbe22abde781c0370e6b0dbdc602d64.png",
-          "https://shikimori.one/system/screenshots/original/a702e094e691c3844bb89be1e2c66b25dcc85b9d.png"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Школа",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Lay-duce"
-        ],
-        "imdb_rating": 8.1,
-        "imdb_votes": 95,
-        "shikimori_rating": 6.96,
-        "shikimori_votes": 892,
-        "premiere_world": "2018-10-07",
-        "aired_at": "2018-10-07",
-        "released_at": "2018-12-23",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Джоэнн Бонассо",
-          "Christina Marie Kelly",
-          "Джульет Симмонс",
-          "Skylar Sinclair",
-          "Avery Smithhart",
-          "Эллисон Л. Сумралл",
-          "Джон Свэйзи",
-          "Cat Thomas",
-          "Кира Венсан-Дави",
-          "Дэвид Уолд"
-        ],
-        "directors": [
-          "Ё Сато"
-        ],
-        "producers": [
-          "Хироо Маруяма"
-        ],
-        "writers": [
-          "Такахиро"
-        ]
-      }
-    },
-    {
-      "id": "serial-12782",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Дом Химотэ",
-      "title_orig": "Himote House",
-      "other_title": "ひもてはうす",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1201184",
-      "imdb_id": "tt9074304",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9512",
-      "shikimori_id": "36945",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-10-13T09:50:29Z",
-      "updated_at": "2018-12-26T00:09:24Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Дом Химотэ",
-        "title_en": "Himote House",
-        "other_titles_en": [
-          "HIMOTE HOUSE: A share house of super psychic girls"
-        ],
-        "other_titles_jp": [
-          "ひもてはうす"
-        ],
-        "anime_license_name": "Дом Химотэ",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2018,
-        "description": "История повествует о повседневной жизни пятерых подруг, которые живут под одной крышей вместе с кошкой Эниши и мечтают найти способ снискать популярность и почёт. Казалось бы, всё до жути банально, только вот каждый в этой компании, ко всему прочему, обладает таинственной магической силой.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1201184.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/39bdc857b34befca4ba5befd414c1d70ebd35049.png",
-          "https://shikimori.one/system/screenshots/original/99199cb171d260c00823359eaf719e989a417402.png"
-        ],
-        "duration": 12,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Супер сила"
-        ],
-        "anime_studios": [
-          "Bouncy"
-        ],
-        "imdb_rating": 4,
-        "imdb_votes": 12,
-        "shikimori_rating": 5.72,
-        "shikimori_votes": 154,
-        "premiere_world": "2018-10-08",
-        "aired_at": "2018-10-08",
-        "released_at": "2018-12-24",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Ая Судзаки",
-          "Сатоми Акэсака",
-          "Судзуко Мимори",
-          "Каору Мидзухара",
-          "Сумирэ Уэсака",
-          "Асука Ниси",
-          "Карин Огино",
-          "Хина Кино",
-          "Ацуси Тамару",
-          "Коити Ямадэра"
-        ],
-        "directors": [
-          "Котаро Исидатэ"
-        ],
-        "writers": [
-          "Котаро Исидатэ"
-        ],
-        "composers": [
-          "Дзюиъити Иноэ"
-        ]
-      }
-    },
-    {
-      "id": "movie-30111",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Воины китайского клинка",
-      "title_orig": "Chinese blade front warriors",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2018,
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-12-25T20:08:45Z",
-      "updated_at": "2018-12-25T20:08:45Z"
-    },
-    {
-      "id": "serial-13504",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Мой тайный роман",
-      "title_orig": "Aetaneun romaenseu",
-      "other_title": "Ты сводишь меня с ума / Мой секретный роман / My Secret Romance / Frustrating Romance / You-Drive-Me-Crazy Romance",
-      "translation": {
-        "id": 840,
-        "title": "Храм Дорам ТВ",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "1039854",
-      "imdb_id": "tt6300100",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-11-16T22:07:40Z",
-      "updated_at": "2018-12-25T15:45:07Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Мой тайный роман",
-        "title_en": "Aetaneun romaenseu",
-        "year": 2017,
-        "description": "Чха Джин-ук - наследник богатой семьи, которая руководит большой компанией, да ещё и красавчик. Парень привык ни в чём себе не отказывать, особенно в девушках, поэтому он не обременяет себя длительными отношениями. Однажды на отдыхе он встречает Ю-ми, они напиваются и проводят вместе ночь. Утром девушка пришла в себя, ужаснулась и сбежала. Через 2 года они случайно сталкиваются по работе, но делают вид, что не знают друг друга.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1039854.jpg",
-        "duration": 60,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "комедия",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.1,
-        "kinopoisk_votes": 3276,
-        "imdb_rating": 7.2,
-        "imdb_votes": 1864,
-        "premiere_world": "2017-04-17",
-        "actors": [
-          "Сон Хун",
-          "Сон Джи-ын",
-          "Ким Джэ-ён",
-          "Чон Да-соль",
-          "Ли Кхан-хи",
-          "Ким Джон-гу",
-          "Нам Ги-э",
-          "Ли Пхан-до",
-          "Лим До-юн",
-          "Ким Хён-мин"
-        ],
-        "directors": [
-          "Кан Чхор-у"
-        ],
-        "writers": [
-          "Ким Ха-на",
-          "Ким Ён-ун"
         ]
       }
     }

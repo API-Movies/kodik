@@ -1,6 +1,433 @@
 {
   "results": [
     {
+      "id": "movie-26127",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Замкнутый",
+      "title_orig": "Withdrawn",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1008595",
+      "imdb_id": "tt6281936",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-08-24T23:31:30Z",
+      "updated_at": "2018-08-26T12:57:10Z",
+      "material_data": {
+        "title": "Замкнутый",
+        "title_en": "Withdrawn",
+        "year": 2017,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1008595.jpg",
+        "duration": 73,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 6.4,
+        "imdb_votes": 229,
+        "premiere_world": "2017-01-21",
+        "rating_mpaa": "PG",
+        "actors": [
+          "Аарон Кеог",
+          "Adrian Murray",
+          "Келли Паоли",
+          "Молли Рейсман",
+          "Дин Тардиоли",
+          "Greg Wasylyszn"
+        ],
+        "directors": [
+          "Adrian Murray"
+        ],
+        "producers": [
+          "Adrian Murray",
+          "Молли Рейсман",
+          "Sennah Yee"
+        ],
+        "writers": [
+          "Adrian Murray",
+          "Маркус Салливан",
+          "Дин Тардиоли"
+        ],
+        "editors": [
+          "Маркус Салливан"
+        ],
+        "designers": [
+          "Sennah Yee"
+        ],
+        "operators": [
+          "John Palanca"
+        ]
+      }
+    },
+    {
+      "id": "serial-12112",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Мисс Хаммурапи",
+      "title_orig": "Miseu Hammurabi",
+      "other_title": "Miss Hammurabi",
+      "translation": {
+        "id": 840,
+        "title": "Храм Дорам ТВ",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "1071413",
+      "imdb_id": "tt8090388",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-08-26T11:51:13Z",
+      "updated_at": "2018-08-26T11:51:13Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Мисс Хаммурапи",
+        "title_en": "Miseu Hammurabi",
+        "year": 2018,
+        "description": "История о молодой судье, которая поддерживает принцип «глаз за глаз», пренебрегает предрассудками и не признаёт слепое следование авторитетам.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1071413.jpg",
+        "duration": 60,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 410,
+        "imdb_rating": 7.6,
+        "imdb_votes": 404,
+        "premiere_world": "2018-05-21",
+        "actors": [
+          "Ко А-ра",
+          "Ким Мён-су",
+          "Сон Дон-иль",
+          "Рю Док-хван",
+          "Ли Элия",
+          "Ли Тхэ-сон",
+          "Ким Ён-ок",
+          "Ли Вон-джон",
+          "Ко Ин-бом",
+          "Пак Сун-чхон"
+        ],
+        "directors": [
+          "Квак Чон-хван"
+        ],
+        "writers": [
+          "Мун Ю-сок"
+        ]
+      }
+    },
+    {
+      "id": "serial-12125",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Гуль",
+      "title_orig": "Ghoul",
+      "translation": {
+        "id": 644,
+        "title": "Sunshine Studio",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 3,
+      "episodes_count": 3,
+      "kinopoisk_id": "996225",
+      "imdb_id": "tt5909930",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-08-25T08:14:40Z",
+      "updated_at": "2018-08-25T08:14:40Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Гуль",
+        "title_en": "Ghoul",
+        "year": 2018,
+        "tagline": "Betrayal Is Close",
+        "description": "В недалеком будущем в Индии установился военный режим, призванный пресечь террористическую деятельность. Под влиянием пропаганды молодая курсантка военной академии Нида сдала властям собственного отца - профессора, хранившего и преподававшего студентам запрещенные учения. Через месяц Ниду призывают в засекреченный центр допросов, чтобы она доказала свою преданность режиму и провела допрос самого опасного террориста - Али Саеда.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/996225.jpg",
+        "duration": 44,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "триллер",
+          "ужасы"
+        ],
+        "kinopoisk_rating": 6.3,
+        "kinopoisk_votes": 794,
+        "imdb_rating": 7.1,
+        "imdb_votes": 12465,
+        "premiere_world": "2018-08-24",
+        "actors": [
+          "Радхика Апте",
+          "Манав Каул",
+          "Рохит Патхак",
+          "Ратнабали Бхаттачарджи",
+          "Сунил Сони",
+          "Kailash Kumar",
+          "Harry Parmar",
+          "Harry Parmar",
+          "Баджрангбали Сингх",
+          "С.М. Захир"
+        ],
+        "directors": [
+          "Патрик Грэхэм"
+        ],
+        "producers": [
+          "Джейсон Блум",
+          "Дипа Де Мотване",
+          "Танви Ганди",
+          "Майкл Хоган",
+          "Килиан Кервин",
+          "Мадху Мантена Варма",
+          "Викрамадитья Мотване",
+          "Джон Пенотти",
+          "Райан Турек",
+          "Михир Фаднавис"
+        ],
+        "writers": [
+          "Патрик Грэхэм",
+          "Karthik Krishnnan",
+          "Sarang Sathaye"
+        ],
+        "composers": [
+          "Нарен Чандваркар",
+          "Бенедикт Тейлор"
+        ],
+        "editors": [
+          "Нитин Баид"
+        ],
+        "designers": [
+          "Винти Бансал",
+          "Тия Теджпал",
+          "Шрути Капур",
+          "Siddhima Dubey"
+        ],
+        "operators": [
+          "Джай Оза",
+          "Джей И. Патель"
+        ]
+      }
+    },
+    {
+      "id": "serial-12104",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Счастливая семерка",
+      "title_orig": "Rakkî sebun",
+      "other_title": "Lucky Seven",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2012,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "664647",
+      "imdb_id": "tt2108808",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-08-24T11:59:46Z",
+      "updated_at": "2018-08-24T11:59:46Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Счастливая семерка",
+        "title_en": "Rakkî sebun",
+        "year": 2012,
+        "description": "В центре сериала - 7 человек, работающих в небольшом офисе в Кита-Шинагава и решающих сложные споры. Кита-Шинагава процветала как почтовая станция, но в настоящее время - это центр города с многочисленными высотками. Это место, где можно почувствовать народную историю, но в то же время оно символизирует настоящее общество. Ключевые слова: действие, смех, позитив. Офис детективов поначалу расследует мелкие происшествия, но эта деятельность перерастёт в большое дело.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/664647.jpg",
+        "duration": 54,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "детектив",
+          "драма"
+        ],
+        "kinopoisk_rating": 7.8,
+        "kinopoisk_votes": 140,
+        "imdb_rating": 7,
+        "imdb_votes": 110,
+        "premiere_world": "2012-01-16",
+        "actors": [
+          "Дзюн Мацумото",
+          "Рииса Нака",
+          "Кадзуэ Фукииси",
+          "Маки Ирики",
+          "Такудзо Кадоно",
+          "Акио Канэда",
+          "Кэйитиро Кояма",
+          "Нанако Мацусима",
+          "Сёсукэ Танихара",
+          "Ё Оидзуми"
+        ],
+        "directors": [
+          "Такэси Нарита",
+          "Синсуке Сато",
+          "Син Хирано",
+          "Кунихиро Нагасе"
+        ],
+        "producers": [
+          "Даисукэ Сэкигути",
+          "Юмико Сигэока"
+        ],
+        "writers": [
+          "Каэко Хаяфунэ",
+          "Тацуя Канадзава",
+          "Акико Ноги",
+          "Манабу Юда"
+        ],
+        "composers": [
+          "Тим Винн"
+        ]
+      }
+    },
+    {
+      "id": "movie-26111",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Харизматы",
+      "title_orig": "Charismata",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "975263",
+      "imdb_id": "tt5665022",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-08-24T10:39:05Z",
+      "updated_at": "2018-08-24T10:39:05Z",
+      "material_data": {
+        "title": "Charismata",
+        "title_en": "",
+        "year": 2017,
+        "tagline": "Face your demons",
+        "description": "Детектив расследует серию ритуальных убийств. Пытаясь разобраться в обилии фактов и показаний, а также в недостаточном количестве улик, героиня начинает постепенно сходить с ума.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/975263.jpg",
+        "duration": 96,
+        "genres": [
+          "криминал",
+          "триллер",
+          "ужасы"
+        ],
+        "kinopoisk_rating": 4.8,
+        "kinopoisk_votes": 168,
+        "imdb_rating": 4.4,
+        "imdb_votes": 572,
+        "premiere_world": "2017-09-16",
+        "actors": [
+          "Сара Бек Мэтер",
+          "Джэми Саттертуэйт",
+          "Андонис Энтони",
+          "Джонни Виваш",
+          "Росс Маллен",
+          "Дэвид Дж. Пил",
+          "Ethan Chapples",
+          "Николь О’Нилл",
+          "Anthony Taylor",
+          "Шон Нопп"
+        ],
+        "directors": [
+          "Andy Collier",
+          "Тур Миан"
+        ],
+        "producers": [
+          "Andy Collier",
+          "Шон Нопп",
+          "Тур Миан",
+          "Ross Scaife",
+          "Дилан Рис"
+        ],
+        "writers": [
+          "Andy Collier",
+          "Тур Миан"
+        ],
+        "composers": [
+          "Крис Роу"
+        ],
+        "editors": [
+          "Кристофер К.Ф. Чоу"
+        ],
+        "designers": [
+          "Anna Papa"
+        ],
+        "operators": [
+          "Фернандо Руис Ромеро"
+        ]
+      }
+    },
+    {
       "id": "serial-12103",
       "type": "foreign-serial",
       "link": "",
@@ -2742,9 +3169,9 @@
           "Science SARU"
         ],
         "kinopoisk_rating": 7.8,
-        "kinopoisk_votes": 985,
+        "kinopoisk_votes": 1027,
         "imdb_rating": 7.6,
-        "imdb_votes": 3809,
+        "imdb_votes": 3908,
         "shikimori_rating": 8.23,
         "shikimori_votes": 2998,
         "premiere_world": "2017-04-07",
@@ -6334,7 +6761,7 @@
           "приключения"
         ],
         "imdb_rating": 4.6,
-        "imdb_votes": 1120,
+        "imdb_votes": 1123,
         "premiere_world": "2017-12-22",
         "actors": [
           "Дев",
@@ -7231,452 +7658,6 @@
         ],
         "operators": [
           "Джессика Ли Ганье"
-        ]
-      }
-    },
-    {
-      "id": "movie-25672",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Миссия «Алмаз»",
-      "title_orig": "Witness to a Kill",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2001,
-      "kinopoisk_id": "61196",
-      "imdb_id": "tt0275611",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-08-08T05:37:28Z",
-      "updated_at": "2018-08-08T05:37:28Z",
-      "material_data": {
-        "title": "Миссия «Алмаз»",
-        "title_en": "Witness to a Kill",
-        "year": 2001,
-        "description": "Получив необычное задание доставить в ЮАР не только секретную депешу, но и любовницу важного британского чиновника, капитан королевских курьеров Стронг отправляется в путь.\n\rНо когда на африканской земле спутницу Стронга похищают наемники торговца бриллиантами Вульфа, бесстрашный курьер с лицензией на убийство понимает, что вокруг него разворачиваются события, разгадать которые он сможет, лишь став центральной фигурой в смертельной игре спецслужб и королей алмазных приисков.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/61196.jpg",
-        "duration": 90,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "боевик",
-          "триллер"
-        ],
-        "kinopoisk_rating": 5.6,
-        "kinopoisk_votes": 108,
-        "imdb_rating": 4.3,
-        "imdb_votes": 230,
-        "premiere_world": "2004-02-18",
-        "rating_mpaa": "R",
-        "minimal_age": 16,
-        "actors": [
-          "Гэри Дэниелс",
-          "Ник Борэйни",
-          "Ева Хаберманн",
-          "Франсуаза Йип",
-          "Джон Стэндинг",
-          "Вуси Кунене",
-          "Линделани Бателези",
-          "Норман Энсти",
-          "Роберт Уайтхед",
-          "Моаги Модисе"
-        ],
-        "directors": [
-          "Даррелл Рудт"
-        ],
-        "producers": [
-          "Марлоу Де Мардт",
-          "Барри Филби",
-          "Дэвид Голдштейн",
-          "Бриджид Олен",
-          "Леонард Беллам",
-          "Гари Хаусэм",
-          "Гарри Алан Тауэрс"
-        ],
-        "writers": [
-          "Питер Джобин",
-          "Даррелл Рудт",
-          "Michael Swan",
-          "Гарри Алан Тауэрс"
-        ],
-        "composers": [
-          "Бев Брекен",
-          "Рене Велдсман"
-        ],
-        "editors": [
-          "Аврил Бьюкс"
-        ],
-        "designers": [
-          "Фран Воз"
-        ],
-        "operators": [
-          "Адольфо Бартоли",
-          "Джулио Биккари"
-        ]
-      }
-    },
-    {
-      "id": "movie-25668",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Парману: История Похрана",
-      "title_orig": "Parmanu: The Story of Pokhran",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1046864",
-      "imdb_id": "tt6826438",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-08-07T21:27:07Z",
-      "updated_at": "2018-08-08T05:34:28Z",
-      "material_data": {
-        "title": "Парману: История Похрана",
-        "title_en": "Parmanu: The Story of Pokhran",
-        "year": 2018,
-        "tagline": "1998, India: one secret operation, six Indians shocked the world, made India proud.",
-        "description": "История о том, как индийское правительство провело в 1998 году секретные ядерные испытания близ городка Похран (вторые за историю Индии), взорвав пять тестовых боеголовок.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1046864.jpg",
-        "duration": 129,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "история"
-        ],
-        "imdb_rating": 7.6,
-        "imdb_votes": 21034,
-        "premiere_world": "2018-05-04",
-        "actors": [
-          "Джон Абрахам",
-          "Боман Ирани",
-          "Диана Пенти",
-          "Ануджа Сатхе",
-          "Викас Кумар",
-          "Ёгендра Тикку",
-          "Aditya Hitkari",
-          "Ajay Shankar",
-          "Даршан Пандья",
-          "Марк Беннингтон"
-        ],
-        "directors": [
-          "Абхишек Шарма"
-        ],
-        "producers": [
-          "Джон Абрахам",
-          "Hitesh Thakkar",
-          "Ёгендра Могре",
-          "Йогирадж Шетти",
-          "Навмит Сингх",
-          "Дхарам Сони"
-        ],
-        "writers": [
-          "Сайвин Кадрас",
-          "Санукта Шайх Чавла",
-          "Абхишек Шарма"
-        ],
-        "composers": [
-          "Сендип Чоута",
-          "Джит Гангули",
-          "Сачин Сангхви",
-          "Джигар"
-        ],
-        "editors": [
-          "Рамешвар С. Бхагат"
-        ],
-        "designers": [
-          "Сандип Шарад Раваде",
-          "Обид Т.П.",
-          "Sanjoy Dasgupta",
-          "Субарна Рэй Чадхури",
-          "Даршан Джалан",
-          "Вахи Шаикх"
-        ],
-        "operators": [
-          "Зубин Мистри"
-        ]
-      }
-    },
-    {
-      "id": "movie-25588",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Девушка в ящике",
-      "title_orig": "Girl in the Box",
-      "translation": {
-        "id": 679,
-        "title": "datynet",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "999907",
-      "imdb_id": "tt6936592",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-08-06T07:33:04Z",
-      "updated_at": "2018-08-07T05:34:44Z",
-      "material_data": {
-        "title": "Девушка в ящике",
-        "title_en": "Girl in the Box",
-        "year": 2016,
-        "description": "10 мая 1977 года 20-летняя Колин Стен пыталась автостопом добраться на день рождения друга. Последующие 7 лет она провела в плену. Девушку похитили супруги — чета Хукер, Камерон и Джанис. Коллин стала сексуальной рабыней Камерона, но этого, видимо, было недостаточно, поэтому он регулярно подвергал ее издевательствам: избивал и заставлял спать в деревянном ящике, который стоял под кроватью супругов. Кроме того, Хукер внушил пленнице, что за ней наблюдает мощная тайная организация под названием «Компания», которая будет её мучительно пытать и навредит её семье, если она попытается сбежать.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/999907.jpg",
-        "duration": 87,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "драма",
-          "криминал"
-        ],
-        "kinopoisk_rating": 5.7,
-        "kinopoisk_votes": 398,
-        "imdb_rating": 6.3,
-        "imdb_votes": 1231,
-        "premiere_world": "2016-09-10",
-        "actors": [
-          "Эддисон Тимлин",
-          "Зейн Холц",
-          "Зельда Уильямс",
-          "Бриттани Аллен",
-          "Мэтт Кук",
-          "Shawn Wright",
-          "Билл Лэйк",
-          "Шилин Патон",
-          "Vivian Wright",
-          "Адриан Гриффин"
-        ],
-        "directors": [
-          "Стивен Кемп"
-        ],
-        "producers": [
-          "Стивен Кемп",
-          "Чарльз Тремейн",
-          "Томас Венселидес"
-        ],
-        "writers": [
-          "Стивен Кемп"
-        ],
-        "composers": [
-          "Оуэн Бэлтон",
-          "Стивен Кемп"
-        ],
-        "editors": [
-          "Джулиан Харт"
-        ],
-        "designers": [
-          "Эндрю Берри",
-          "Jere Sallee",
-          "Барб Кардосо",
-          "Tania Pedro",
-          "Аарон Ноэль"
-        ],
-        "operators": [
-          "Фрайзер Браун"
-        ]
-      }
-    },
-    {
-      "id": "movie-25651",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Добрые слова",
-      "title_orig": "The Kind Words",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "844938",
-      "imdb_id": "tt3809478",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-08-07T05:27:27Z",
-      "updated_at": "2018-08-07T05:27:27Z",
-      "material_data": {
-        "title": "Добрые слова",
-        "title_en": "The Kind Words",
-        "year": 2015,
-        "tagline": "Family can make you do crazy things.",
-        "description": "История трех вполне взрослых израильтян, узнавших что жизнь их семьи много лет была основана на лжи. У каждого из них свои проблемы. Дорона никак не может родить и после очередного выкидыша чувствует как разлаживаются её отношения с мужем. Старший из братьев Натанел, религиозный еврей, ушёл в иудаизм только под воздействием жены, и через много лет его решение кажется ему ошибкой. Шай - владелец небольшого ресторанчика - либерал и гей. После смерти матери в осиротевшей семье «нарисовался» давно ушедший из неё отец, когда-то покинувший жену ради молодой и симпатичной певички. Теперь он пытается наладить отношения с детьми, которых не видел много лет. \n\rОт отца все трое узнают, что он не способен иметь детей, стало быть где-то существует их биологический отец. В поисках разгадки тайны все четверо отправляются из Иерусалима сначала в Париж, затем в Марсель. В конце концов они узнают, что секрет покойной скрыт в годах её молодости, которую она провела в Алжире…",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/844938.jpg",
-        "duration": 118,
-        "countries": [
-          "Израиль",
-          "Канада"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 6.9,
-        "imdb_votes": 240,
-        "premiere_world": "2015-05-28",
-        "actors": [
-          "Ротем Зуссман-Коэн",
-          "Rassabn Abes",
-          "Ro'i Asaf",
-          "Мэгги Азарзар",
-          "Джонатан Бар-Гиора",
-          "Ophelie Belalia",
-          "Elizabeth Beltrami",
-          "Assaf Ben-Shimon",
-          "Флоренс Блох",
-          "Xavier Bonadonna"
-        ],
-        "directors": [
-          "Шеми Зархин"
-        ],
-        "producers": [
-          "Леон Эдери",
-          "Моше Эдери",
-          "Оснат Хандельсман-Керен",
-          "Талия Клейнхендлер",
-          "Мартин Пол-Хус",
-          "Антонин Деде",
-          "Sophie Mauger",
-          "Кэти Вульф"
-        ],
-        "writers": [
-          "Шеми Зархин"
-        ],
-        "composers": [
-          "Дэниэл Скотт"
-        ],
-        "editors": [
-          "Эйнат Глэйзер-Зархин"
-        ],
-        "designers": [
-          "Авишай Авиви",
-          "Dorit Ben Shoshan",
-          "Дорон Ашкенази"
-        ],
-        "operators": [
-          "Рональд Планте"
-        ]
-      }
-    },
-    {
-      "id": "serial-11915",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Я не хочу больше быть волшебницей [ТВ-2]",
-      "title_orig": "Mahou Shoujo Nante Mou Ii Desu kara. Second Season",
-      "other_title": "Мне надоело быть девочкой-волшебницей 2",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 2,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1048661",
-      "imdb_id": "tt5669064",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8866",
-      "shikimori_id": "33795",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-08-06T17:29:54Z",
-      "updated_at": "2018-08-06T17:29:54Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Мне надоело быть девочкой-волшебницей",
-        "title_en": "Mahou Shoujo Nante Mou Ii Desu kara",
-        "other_titles": [
-          "Я не хочу больше быть волшебницей 2",
-          "Mahou Shoujo Nante Mouiidesukara."
-        ],
-        "other_titles_en": [
-          "Mahou Shoujo Nante Mouiidesukara Second Season"
-        ],
-        "other_titles_jp": [
-          "魔法少女なんてもういいですから。 セカンドシーズン"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2016,
-        "description": "Юные волшебницы и их подруги продолжают... ничего не делать. Предыдущие-то обладательницы магических браслетов всех победили. А потому всё, как и раньше: Юзуки продолжает смущаться своего магического наряда, Чия — пускать слюнки по подруге, впрочем, Мафую тоже, Диа — видеть разных духов. А Митон с Почи всё никак не примут тот факт, что девочки — отличницы, красавицы, к тому же Юзука восхитительно готовит, в общем, идеальны как ни посмотри. А так не бывает. Опыт предыдущих поколений волшебниц сбоя до сего момента не давал! Однако не они одни озадачены идеальностью девочек...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1048661.jpg",
-        "duration": 4,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Магия"
-        ],
-        "anime_studios": [
-          "Pine Jam"
-        ],
-        "imdb_rating": 4.7,
-        "imdb_votes": 22,
-        "shikimori_rating": 6.08,
-        "shikimori_votes": 305,
-        "premiere_world": "2016-01-11",
-        "aired_at": "2016-10-05",
-        "released_at": "2016-12-21",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Аканэ Фудзита",
-          "Юки Вакаи",
-          "Нитика Омори",
-          "Минами Танака",
-          "Мику Ито",
-          "Асука Ниси",
-          "Дзюнъити Сувабэ",
-          "Саито Тива"
-        ],
-        "directors": [
-          "Кадзухиро Ёнэда"
-        ],
-        "writers": [
-          "Кадзуюки Фудэясу",
-          "Момоко Мураками"
-        ],
-        "editors": [
-          "Кумико Сакамото"
         ]
       }
     }
