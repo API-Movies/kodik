@@ -1,6 +1,1026 @@
 {
   "results": [
     {
+      "id": "movie-42420",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Легион",
+      "title_orig": "Casshern",
+      "translation": {
+        "id": 721,
+        "title": "R5",
+        "type": "voice"
+      },
+      "year": 2004,
+      "kinopoisk_id": "79550",
+      "imdb_id": "tt0405821",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-17T04:08:59Z",
+      "updated_at": "2019-09-17T04:08:59Z",
+      "material_data": {
+        "title": "Легион",
+        "title_en": "Casshern",
+        "year": 2004,
+        "tagline": "Reincarnated with an invincible body to fight an iron devil. If Casshern does not do it, who will?",
+        "description": "В далеком будущем Азия стала центром мировой экономики. Полицейские оккупационные власти руководят странами Евразии, жестоко подавляя любые попытки сопротивления. На далеких фронтах не утихает война, природные ресурсы на исходе, и даже в мирных городах Японии лютуют страшные болезни.\n\rВ связи с возрастающим уровнем смертности населения правительство решает одобрить новый проект доктора Адзумы, лучшего специалиста в области генной инженерии. Суть эксперимента предельно проста - выращивать любые человеческие органы и части тел и пересаживать их людям в случае надобности. Но проект завершается неудачей - выращенные Азумой тела оживают. Армия клонов развязывает войну против своих же создателей, и у человечества остается лишь одна надежда на спасение - Тэцуя, сын доктора Адзумы. Погибший на войне и вернувшийся к жизни благодаря эксперименту отца Тэцуя наделен необычайной силой, а его тело заключено в особый сверхпрочный скафандр, что делает его практически неуязвимым.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/79550.jpg",
+        "duration": 145,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "боевик",
+          "фантастика"
+        ],
+        "kinopoisk_rating": 6,
+        "kinopoisk_votes": 973,
+        "imdb_rating": 6.1,
+        "imdb_votes": 13045,
+        "premiere_world": "2004-04-24",
+        "minimal_age": 16,
+        "actors": [
+          "Юсукэ Исэя",
+          "Кумико Асо",
+          "Акира Тэрао",
+          "Канако Хигути",
+          "Фумиё Кохината",
+          "Хироюки Миясако",
+          "Маюми Сада",
+          "Дзюн Канамэ",
+          "Хидэтоси Нисидзима",
+          "Мицухиро Оикава"
+        ],
+        "directors": [
+          "Кадзуаки Кирия"
+        ],
+        "producers": [
+          "Хидэдзи Миядзима",
+          "Тошихару Одзава",
+          "Тосиаки Вакабаяши",
+          "Чиаки Нодзи",
+          "Макото Танака"
+        ],
+        "writers": [
+          "Кадзуаки Кирия",
+          "Даи Сато",
+          "Сётаро Суга",
+          "Тацуо Ёсида"
+        ],
+        "composers": [
+          "Сиро Сагису"
+        ],
+        "editors": [
+          "Кадзуаки Кирия"
+        ],
+        "designers": [
+          "Юдзи Хаясида",
+          "Митико Китамура",
+          "Ёсихито Акацука",
+          "Ютака Мотэги"
+        ],
+        "operators": [
+          "Кадзуаки Кирия"
+        ]
+      }
+    },
+    {
+      "id": "serial-18473",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Чемпион",
+      "title_orig": "Sampiyon",
+      "translation": {
+        "id": 946,
+        "title": "Анастасия Гайдаржи",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 1,
+      "episodes_count": 1,
+      "kinopoisk_id": "1277590",
+      "imdb_id": "tt10476544",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-09-16T13:34:00Z",
+      "updated_at": "2019-09-16T14:23:26Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Чемпион",
+        "title_en": "Sampiyon",
+        "year": 2019,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1277590.jpg",
+        "duration": 120,
+        "countries": [
+          "Турция"
+        ],
+        "genres": [
+          "боевик",
+          "драма"
+        ],
+        "imdb_rating": 5.9,
+        "imdb_votes": 137,
+        "premiere_world": "2019-09-12",
+        "actors": [
+          "Толгахан Сайышман",
+          "Йылдыз Чагры Атиксой",
+          "Эркан Авджи",
+          "Илайда Алишан",
+          "Мехмет Боздоган",
+          "Halit Özgür Sari",
+          "Emir Özyakisir",
+          "Ердал Озиагкилар",
+          "Bahar Suer",
+          "Berk Yaygin"
+        ],
+        "directors": [
+          "Кетджхе",
+          "Деврим Яльчин"
+        ],
+        "producers": [
+          "Ugur Atukman",
+          "Basak Bingüller",
+          "Çagri Bingüller",
+          "Rezzan Diniz"
+        ],
+        "writers": [
+          "Basak Angigün",
+          "Alphan Dikmen",
+          "Erdem Baris",
+          "Mustafa Becit",
+          "Idris Meydi"
+        ],
+        "composers": [
+          "Tuna Hizmetli",
+          "Cem Öget"
+        ],
+        "editors": [
+          "Энгин Озтюрк",
+          "Eren Öztek"
+        ],
+        "designers": [
+          "Исмет Босна"
+        ],
+        "operators": [
+          "Ersan Çapan",
+          "Сойкут Туран"
+        ]
+      }
+    },
+    {
+      "id": "movie-6724",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Кащей Бессмертный",
+      "title_orig": "Кащей Бессмертный",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1944,
+      "kinopoisk_id": "44727",
+      "imdb_id": "tt0167227",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-06-05T05:48:05Z",
+      "updated_at": "2019-09-16T10:29:06Z",
+      "material_data": {
+        "title": "Кащей Бессмертный",
+        "title_en": "",
+        "year": 1944,
+        "description": "Эпическая сказка, снятая в годы Второй Мировой войны. Русские богатыри Никита Кожемяка и Булат Балагур спасают землю русскую от вражьих полчищ Кащея Бессмертного и освобождают красавицу Марью Моревну.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/44727.jpg",
+        "duration": 64,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "детский",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 7.7,
+        "kinopoisk_votes": 6998,
+        "imdb_rating": 7.2,
+        "imdb_votes": 357,
+        "premiere_world": "1945-05-27",
+        "minimal_age": 0,
+        "actors": [
+          "Александр Ширшов",
+          "Георгий Милляр",
+          "Сергей Столяров",
+          "Галина Григорьева",
+          "Сергей Филиппов",
+          "Эммануил Геллер",
+          "Леонид Кровицкий",
+          "Иван Рыжов",
+          "Сергей Троицкий",
+          "Иван Бобров"
+        ],
+        "directors": [
+          "Александр Роу"
+        ],
+        "writers": [
+          "Александр Роу",
+          "Владимир Швейцер"
+        ],
+        "composers": [
+          "Сергей Потоцкий"
+        ],
+        "editors": [
+          "Ксения Блинова"
+        ],
+        "designers": [
+          "Николай Акимов",
+          "Сергей Козловский",
+          "В. Никитченко"
+        ],
+        "operators": [
+          "Михаил Кириллов"
+        ]
+      }
+    },
+    {
+      "id": "movie-18405",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Непревзойденный хитрец",
+      "title_orig": "Yamadonga",
+      "translation": {
+        "id": 764,
+        "title": "Red Media",
+        "type": "voice"
+      },
+      "year": 2007,
+      "kinopoisk_id": "322854",
+      "imdb_id": "tt0924317",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-09-04T06:54:27Z",
+      "updated_at": "2019-09-16T10:09:21Z",
+      "material_data": {
+        "title": "Непревзойденный хитрец",
+        "title_en": "Yamadonga",
+        "year": 2007,
+        "description": "История богатой наследницы, сироты Махи и Раджи, безжалостного вора. Он мечтает сорвать большой куш и устроить свою жизнь. И тут у него появляется прекрасная возможность воплотить мечту в жизнь. Похищенная красавица Махи влюбляется в него. Девушка, оказывается, знает его с детства, и всегда считала его своим принцем на белом коне.\n\rПолучая благословение в храме Шивы, маленькая Махи получила загадочный подарок с небес, необычный медальон, который, по наставлению дедушки она должна подарить своему принцу. После смерти дедушки она осталась один на один с алчными родственниками, жаждущими заполучить её наследство...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/322854.jpg",
+        "duration": 175,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "боевик",
+          "комедия",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 7.4,
+        "kinopoisk_votes": 114,
+        "imdb_rating": 7.3,
+        "imdb_votes": 3400,
+        "premiere_world": "2007-08-15",
+        "minimal_age": 16,
+        "actors": [
+          "Н.Т.Р. мл.",
+          "Мохан Бабу",
+          "Приямани",
+          "Мамта Мохандас",
+          "Кхушбу",
+          "Нарендра Джха",
+          "Раджив Канакала",
+          "Рамбха",
+          "М.С. Нарьяна",
+          "Рагху Бабу"
+        ],
+        "directors": [
+          "С.С. Раджамули"
+        ],
+        "producers": [
+          "Urmila Gangaraju",
+          "Черри"
+        ],
+        "writers": [
+          "Д.С. Каннан",
+          "Виджаендра Прасад",
+          "С.С. Раджамули",
+          "М. Ратхнам"
+        ],
+        "composers": [
+          "М.М. Кеервани"
+        ],
+        "editors": [
+          "Венкатесвара Рао Котагири"
+        ],
+        "designers": [
+          "Ананд Сай",
+          "Рама Раджамули"
+        ],
+        "operators": [
+          "Сентил Кумар"
+        ]
+      }
+    },
+    {
+      "id": "movie-42383",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Возвращение",
+      "title_orig": "Vozvrashchenie",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1940,
+      "kinopoisk_id": "85118",
+      "imdb_id": "tt0240187",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-16T07:56:37Z",
+      "updated_at": "2019-09-16T07:56:37Z",
+      "material_data": {
+        "title": "Возвращение",
+        "title_en": "",
+        "year": 1940,
+        "description": "Маленький Никита сбегает из дома и отправляется в Арктику на поиски отца, которого никогда не видел.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/85118.jpg",
+        "duration": 106,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "мелодрама"
+        ],
+        "imdb_rating": 7.5,
+        "imdb_votes": 10,
+        "premiere_world": "1940-11-29",
+        "minimal_age": 12,
+        "actors": [
+          "Николай Симонов",
+          "Татьяна Гурецкая",
+          "Вова Тумаларьянц",
+          "Лидия Карташова",
+          "Александр Чистяков",
+          "Владимир Лукин",
+          "Константин Злобин",
+          "Вадик Федотов",
+          "Георгий Семенов",
+          "Борис Пославский"
+        ],
+        "directors": [
+          "Ян Фрид"
+        ],
+        "writers": [
+          "Борис Чирсков",
+          "Рафаил Музыкант"
+        ],
+        "composers": [
+          "Иосиф Пустыльник"
+        ],
+        "designers": [
+          "Ольга Пчельникова"
+        ],
+        "operators": [
+          "Александр Ксенофонтов"
+        ]
+      }
+    },
+    {
+      "id": "serial-18468",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Полярная звезда",
+      "title_orig": "Kuzey Yildizi",
+      "other_title": "Полярная звезда: Первая любовь",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 1,
+      "episodes_count": 1,
+      "kinopoisk_id": "1289035",
+      "imdb_id": "tt10682186",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-09-16T06:41:58Z",
+      "updated_at": "2019-09-16T06:41:58Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Полярная звезда",
+        "title_en": "Kuzey Yildizi",
+        "year": 2019,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1289035.jpg",
+        "duration": 120,
+        "countries": [
+          "Турция"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 6.4,
+        "imdb_votes": 479,
+        "premiere_world": "2019-09-14",
+        "actors": [
+          "Исмаил Демирджи",
+          "Аслыхан Гюнер",
+          "Гизем Гюнеш",
+          "Nilsu Berfin Aktas",
+          "Аслыхан Капаншахин",
+          "Тойган Аваноглу",
+          "Зейнеп Канконде",
+          "Хюсейин Сояслан",
+          "Угур Демирпехливан",
+          "Ferda Kaynar"
+        ],
+        "directors": [
+          "Эрсой Гюлер"
+        ],
+        "producers": [
+          "Inci Gündogdu",
+          "Ismail Gündogdu"
+        ],
+        "writers": [
+          "Yelda Aritas",
+          "Эрсой Гюлер",
+          "Damla Güçer",
+          "Muge Seviker",
+          "Gülbike Sonay Üte"
+        ],
+        "composers": [
+          "Батуха Фират"
+        ],
+        "editors": [
+          "Gökhan Güler",
+          "Osman Aydeniz",
+          "Erkan Orasan"
+        ],
+        "designers": [
+          "Мелих Караман"
+        ],
+        "operators": [
+          "Omer Carkci"
+        ]
+      }
+    },
+    {
+      "id": "movie-42350",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мальчик по прозвищу Стерва",
+      "title_orig": "Oira sukeban",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2006,
+      "kinopoisk_id": "399094",
+      "imdb_id": "tt1080767",
+      "quality": "HDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-16T06:13:31Z",
+      "updated_at": "2019-09-16T06:13:31Z",
+      "material_data": {
+        "title": "Мальчик по прозвищу Стерва",
+        "title_en": "Oira sukeban",
+        "year": 2006,
+        "description": "Сукэ Бандзи — мальчик. Только похож на девочку. На очень красивую девочку. И в этом главная проблема его жизни. Вся жизнь Сукэ Бандзи — это сплошная драка. Однажды, вечно пьяный отец-байкер дает парню гениальный совет. Переодеться девчонкой и отправиться учиться в один из элитных пансионов для девочек. А почему бы и нет? Наверняка сразу избавишься от необходимости трясти кулаками. И вдобавок всегда будешь в компании симпатичных и дружелюбных женских особей.\n\rВ тот момент он и не подозревал, что его новым учебным заведением будет править тайное общество злых лесбиянок, жаждущих установления мирового господства. Смертоносный клуб «Черные Колготки», который явно не обрадуется появлению в своих рядах гендерного шпиона.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/399094.jpg",
+        "duration": 61,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "боевик",
+          "комедия",
+          "ужасы"
+        ],
+        "kinopoisk_rating": 4.5,
+        "kinopoisk_votes": 219,
+        "imdb_rating": 5.2,
+        "imdb_votes": 429,
+        "premiere_world": "2006-02-04",
+        "minimal_age": 18,
+        "actors": [
+          "Асами",
+          "Каори",
+          "Дэмо Танака",
+          "Сараса Тани",
+          "Коити Охори",
+          "Хироаки Мураками",
+          "Эмиру Момосэ",
+          "Риза Мидзуки",
+          "Мива",
+          "Ацуко Миура"
+        ],
+        "directors": [
+          "Нобору Игути"
+        ],
+        "producers": [
+          "Масааки Такэмура",
+          "Хироюки Ямада",
+          "Юкихико Ямагути"
+        ],
+        "writers": [
+          "Нобору Игути",
+          "Го Нагаи"
+        ],
+        "composers": [
+          "Масако Фузако"
+        ],
+        "designers": [
+          "Синпэй Иноуэ"
+        ],
+        "operators": [
+          "Ясутака Нагано"
+        ]
+      }
+    },
+    {
+      "id": "movie-42351",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Онг Бак 3",
+      "title_orig": "Ong-bak 3",
+      "translation": {
+        "id": 745,
+        "title": "CP Digital",
+        "type": "voice"
+      },
+      "year": 2010,
+      "kinopoisk_id": "500576",
+      "imdb_id": "tt1653690",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-16T06:11:07Z",
+      "updated_at": "2019-09-16T06:11:07Z",
+      "material_data": {
+        "title": "Онг Бак 3",
+        "title_en": "Ong Bak 3",
+        "year": 2010,
+        "tagline": "The biggest fight of all is with Himself",
+        "description": "Тиан снова сражается со своим противником - жестоким королем. Воины владыки до полусмерти избивают его и забирают в плен. Но ни пытки, ни душевные муки не сломили сопротивление доблестного воина. Король, не в силах справиться с пленником, решает убить Тиана. В день казни его чудом спасают жители родной деревни. Восстановив свои силы с помощью медитации, Тиан готов к решающей битве со злым черным колдуном. ",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/500576.jpg",
+        "duration": 94,
+        "countries": [
+          "Таиланд"
+        ],
+        "genres": [
+          "боевик"
+        ],
+        "kinopoisk_rating": 5.5,
+        "kinopoisk_votes": 3654,
+        "imdb_rating": 5,
+        "imdb_votes": 12879,
+        "premiere_world": "2010-04-29",
+        "rating_mpaa": "R",
+        "minimal_age": 18,
+        "actors": [
+          "Тони Джа",
+          "Примората Дежудом",
+          "Дэн Чупонг",
+          "Нирут Сиричанья",
+          "Петчтай Вонгкамлао",
+          "Сарунью Вонгкрачанг",
+          "Сорапонг Чатри",
+          "Чумпхорн Тепфитак",
+          "Филип Херш"
+        ],
+        "directors": [
+          "Тони Джа",
+          "Панна Риттикрай"
+        ],
+        "producers": [
+          "Тони Джа",
+          "Панна Риттикрай",
+          "Акарапол Течаратанапрасерт",
+          "Сукуля Сучариттанарак",
+          "Тарач Суппачокепайсан",
+          "Сомсак Течаратанапрасерт"
+        ],
+        "writers": [
+          "Тони Джа",
+          "Панна Риттикрай"
+        ],
+        "composers": [
+          "Тердсак Янпан"
+        ],
+        "editors": [
+          "Наттавут Киттихун",
+          "Саравут Накайяд"
+        ],
+        "designers": [
+          "Чалад Муангджун",
+          "Супрасит Путакарм",
+          "Банпхот Нгамкум",
+          "Чатчай Чайон"
+        ],
+        "operators": [
+          "Наттавут Киттихун"
+        ]
+      }
+    },
+    {
+      "id": "movie-42355",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Пробуждение Зодиака",
+      "title_orig": "Awakening the Zodiac",
+      "translation": {
+        "id": 599,
+        "title": "Хихикающий доктор",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1032767",
+      "imdb_id": "tt6294892",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-16T05:54:59Z",
+      "updated_at": "2019-09-16T05:54:59Z",
+      "material_data": {
+        "title": "Пробуждение Зодиака",
+        "title_en": "Awakening the Zodiac",
+        "year": 2017,
+        "tagline": "The deadliest serial killer in U.S. history ... is back.",
+        "description": "У семейной пары Мика и Зои плачевное финансовое положение - они живут в трейлере, и Мик перебивается случайными подработками. Однажды к ним в руки попадают старые киноплёнки, которые оказываются снятыми известным серийным убийцей Зодиаком. Тот орудовал в конце 60-х годов в Сан-Франциско и так и не был пойман. Прельстившись наградой в 100000 долларов, они не относят плёнки в полицию, а вместе с другом, содержащим ломбард, пытаются вычислить Зодиака самостоятельно.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1032767.jpg",
+        "duration": 100,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "драма",
+          "криминал",
+          "триллер"
+        ],
+        "kinopoisk_rating": 4.6,
+        "kinopoisk_votes": 1035,
+        "imdb_rating": 4.8,
+        "imdb_votes": 1855,
+        "premiere_world": "2017-06-09",
+        "rating_mpaa": "R",
+        "minimal_age": 18,
+        "actors": [
+          "Шейн Уэст",
+          "Лесли Бибб",
+          "Мэтт Крэйвен",
+          "Николас Кэмпбелл",
+          "Кеннет Уэлш",
+          "Стивен МакХэтти",
+          "Джон Брегар",
+          "Ева Линк",
+          "Jennie Esnard",
+          "Дуглас Миллер"
+        ],
+        "directors": [
+          "Джонатан Райт"
+        ],
+        "producers": [
+          "Майкл Бэйкер",
+          "Джефф Сэкман",
+          "Аарон Барнетт"
+        ],
+        "writers": [
+          "Jennifer Archer",
+          "Mike Horrigan",
+          "Джонатан Райт"
+        ],
+        "composers": [
+          "Марк Корвен"
+        ],
+        "editors": [
+          "Марк Арчери"
+        ],
+        "designers": [
+          "Лиза Сопер",
+          "Эр Эгрей",
+          "Дженнифер Страуд",
+          "Фанни Готье",
+          "Тони Сент-Ондж"
+        ],
+        "operators": [
+          "Борис Мойсовски"
+        ]
+      }
+    },
+    {
+      "id": "movie-42356",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Гангстер",
+      "title_orig": "Antapal",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "725130",
+      "imdb_id": "tt2587198",
+      "quality": "HDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-16T05:52:33Z",
+      "updated_at": "2019-09-16T05:52:33Z",
+      "material_data": {
+        "title": "Гангстер",
+        "title_en": "Antapal",
+        "year": 2012,
+        "description": "Бангкок, середина 50-х. Джод и Дэнг — отчаянные парни, своими победами в уличных потасовках заслужившие репутацию в бандитской среде. Со временем их влияние растёт, но вместе с этим растут и проблемы, поскольку в Бангкоке после смерти главы китайской триады начинается война между местными боссами.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/725130.jpg",
+        "duration": 114,
+        "countries": [
+          "Таиланд"
+        ],
+        "genres": [
+          "боевик",
+          "драма",
+          "триллер"
+        ],
+        "imdb_rating": 6.6,
+        "imdb_votes": 297,
+        "premiere_world": "2012-06-14",
+        "rating_mpaa": "R",
+        "actors": [
+          "Krisada Sukosol Clapp",
+          "Сомчай Кемглад",
+          "Sakarin Suthamsamai",
+          "Krisada Supapprom",
+          "Pakchanok Wo-Onsri",
+          "Wasu Sangsingkaew",
+          "Бунсонг Накпху",
+          "Nantharat Chaowarat",
+          "Либби Брайан",
+          "Филип Херш"
+        ],
+        "directors": [
+          "Конгкиат Кхомсири"
+        ],
+        "designers": [
+          "Thana Mekha-amput",
+          "Чатчай Чайон"
+        ]
+      }
+    },
+    {
+      "id": "movie-42358",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Пурам Джорджеттана",
+      "title_orig": "Georgettan's Pooram",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1020788",
+      "imdb_id": "tt6188518",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-16T05:47:45Z",
+      "updated_at": "2019-09-16T05:47:45Z",
+      "material_data": {
+        "title": "Georgettan's Pooram",
+        "title_en": "",
+        "year": 2017,
+        "tagline": "A bit seriousness in trivial matters.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1020788.jpg",
+        "duration": 155,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "imdb_rating": 3.8,
+        "imdb_votes": 421,
+        "premiere_world": "2017-04-01",
+        "actors": [
+          "Дилип",
+          "Rajisha Vijayan",
+          "Чимбан Винод Джозе",
+          "Ренджи Паникер",
+          "Винай Форрт",
+          "Sharafudheen",
+          "Т.Г. Рави",
+          "Kalaranjini",
+          "Судхир Карамана",
+          "Ганапатхи"
+        ],
+        "directors": [
+          "K. Biju"
+        ],
+        "producers": [
+          "Bijoy Chandran",
+          "Арун Гхош",
+          "Shivanee Suraj"
+        ],
+        "writers": [
+          "K. Biju",
+          "Ю.В. Раджеш"
+        ],
+        "composers": [
+          "Гопи Сундар"
+        ],
+        "editors": [
+          "Лиджо Пол"
+        ],
+        "designers": [
+          "Nisar Muhammed",
+          "Nisar Rahmath"
+        ],
+        "operators": [
+          "Vinod Illampally"
+        ]
+      }
+    },
+    {
+      "id": "movie-42359",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мятежницы",
+      "title_orig": "Riot Girls",
+      "translation": {
+        "id": 819,
+        "title": "AlphaProject",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1000788",
+      "imdb_id": "tt6049106",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-16T05:45:00Z",
+      "updated_at": "2019-09-16T05:45:00Z",
+      "material_data": {
+        "title": "Мятежницы",
+        "title_en": "Riot Girls",
+        "year": 2019,
+        "description": "Альтернативные девяностые, провинциальный городок Поттерс-Блаф. В результате таинственной кишечной эпидемии все взрослые погибли, поэтому мир принадлежит детям и подросткам, разделившимся на две группировки. Мажоры заняли восточную часть города, и теперь там царствует авторитарная группировка «Титаны», основанная участниками бывшей футбольной команды. Западную часть заняли изгои — бедные дети и панки в кожаных куртках. Мнимое перемирие вскоре сходит на нет. Лидер западников Джек попадает в плен к врагам, а ряды его лагеря пополняет беглец с восточной стороны — Сони. Он присоединяется к самоубийственной миссии по спасению пленника, главными движущими силами которой будут Нат, сестра Джека, и её боевая подруга Скрэтч.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1000788.jpg",
+        "duration": 81,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "боевик",
+          "фантастика"
+        ],
+        "imdb_rating": 4.4,
+        "imdb_votes": 526,
+        "premiere_world": "2019-07-06",
+        "actors": [
+          "Мэдисон Айсмен",
+          "Палома Квиатковски",
+          "Манро Чэмберс",
+          "Дженни Рэйвен",
+          "Аттикус Митчелл",
+          "Аджай Парих-Фризе",
+          "Джордана Блейк",
+          "Карсон МакКормак",
+          "Ивэн Марш",
+          "Крис Марк"
+        ],
+        "directors": [
+          "Йованка Вукович"
+        ],
+        "producers": [
+          "Лорен Грант",
+          "Джон Бэйн",
+          "Кэтерин Коллинз",
+          "Aïcha Diop",
+          "Крис Фергюсон",
+          "Марк Жингра",
+          "Том Харберд",
+          "Фил Хант",
+          "Брайан Кэвэна-Джонс",
+          "Джон Лэйн"
+        ],
+        "writers": [
+          "Кэтерин Коллинз"
+        ],
+        "composers": [
+          "Питер Чэпман"
+        ],
+        "editors": [
+          "Морин Грант"
+        ],
+        "designers": [
+          "Дженнифер Морден",
+          "Danny Haeberlin",
+          "Бонни Сазерленд",
+          "Ashley Devereux"
+        ],
+        "operators": [
+          "Селиана Карденас"
+        ]
+      }
+    },
+    {
+      "id": "movie-42362",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Останься со мной",
+      "title_orig": "Yanimda Kal",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1219796",
+      "imdb_id": "tt8637534",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-16T05:41:51Z",
+      "updated_at": "2019-09-16T05:41:51Z",
+      "material_data": {
+        "title": "Останься со мной",
+        "title_en": "Yanimda Kal",
+        "year": 2018,
+        "description": "Трудоголик-бизнесмен Эмир однажды на пробежке знакомится с Зейнеп. Девушка привносит краски в его серую одинокую жизнь и потихоньку разрушает воздвигнутые им вокруг себя каменные стены. Но все не так просто: у жизнерадостной Зейнеп есть свои травмы.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1219796.jpg",
+        "duration": 105,
+        "countries": [
+          "Турция"
+        ],
+        "genres": [
+          "мелодрама"
+        ],
+        "imdb_rating": 6.1,
+        "imdb_votes": 350,
+        "premiere_world": "2018-12-21",
+        "actors": [
+          "Чаглар Эртугрул",
+          "Мерич Арал",
+          "Мурат Айген",
+          "Nilay Duru",
+          "Эге Айдан",
+          "Левент Сюлюн",
+          "Туна Арман",
+          "Дениз Байташ"
+        ],
+        "directors": [
+          "Mustafa Ugur Yagcioglu"
+        ],
+        "producers": [
+          "Шебнем Эскин",
+          "Ferhat Senalan"
+        ],
+        "writers": [
+          "Чаглар Юрт"
+        ],
+        "composers": [
+          "Jingle Jungle"
+        ],
+        "editors": [
+          "Emrullah Hekim",
+          "Юсуф Зия Кая"
+        ],
+        "designers": [
+          "Шебнем Эскин",
+          "Мустафа Мерт Алдемир"
+        ],
+        "operators": [
+          "Ферхат Очмен"
+        ]
+      }
+    },
+    {
       "id": "movie-42327",
       "type": "foreign-movie",
       "link": "",
@@ -7967,1248 +8987,6 @@
         ],
         "operators": [
           "Азуль Серра"
-        ]
-      }
-    },
-    {
-      "id": "movie-42013",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Тайный миллионер",
-      "title_orig": "Secret Millionaire",
-      "translation": {
-        "id": 819,
-        "title": "AlphaProject",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "986029",
-      "imdb_id": "tt5779286",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-07T15:57:43Z",
-      "updated_at": "2019-09-09T04:56:02Z",
-      "material_data": {
-        "title": "Тайный миллионер",
-        "title_en": "Secret Millionaire",
-        "year": 2018,
-        "description": "Очень состоятельный предприниматель решает застроить местный парк. Однако его единственный сын влюбляется в очаровательную девушку, выступающую за сохранение парка.",
-        "duration": 84,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "imdb_rating": 5.9,
-        "imdb_votes": 746,
-        "premiere_world": "2018-01-06",
-        "actors": [
-          "Стив Ланд",
-          "Шиван Уильямс",
-          "Элли Бертрам",
-          "Адам ДиМарко",
-          "Бен Салливан",
-          "Джейм М. Каллика",
-          "Майкл Копса",
-          "Карен Холнесс",
-          "Элиз Гэтьен",
-          "Нэйтан Уитти"
-        ],
-        "directors": [
-          "Майкл Скотт"
-        ],
-        "producers": [
-          "Кевин Лесли",
-          "Джэми Горинг",
-          "Джонатан Шор",
-          "Шон Уильямсон"
-        ],
-        "writers": [
-          "Элизабет Роджерс",
-          "Грегори Гилман",
-          "Мэттью Пайл"
-        ],
-        "composers": [
-          "Collin Ankerson"
-        ],
-        "editors": [
-          "Джейсон Дэйл"
-        ],
-        "designers": [
-          "Джордан Бент",
-          "Matea Pasaric",
-          "Джастин Райт"
-        ],
-        "operators": [
-          "Тоби Горман"
-        ]
-      }
-    },
-    {
-      "id": "movie-42011",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Супер делюкс",
-      "title_orig": "Super Deluxe",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1074351",
-      "imdb_id": "tt7019942",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-07T15:56:18Z",
-      "updated_at": "2019-09-09T04:54:44Z",
-      "material_data": {
-        "title": "Супер делюкс",
-        "title_en": "Super Deluxe",
-        "year": 2019,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1074351.jpg",
-        "duration": 176,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "триллер"
-        ],
-        "imdb_rating": 8.3,
-        "imdb_votes": 9904,
-        "premiere_world": "2019-03-28",
-        "actors": [
-          "Виджай Сетхупатхи",
-          "Фахад Фасил",
-          "Саманта",
-          "Рамья Кришна",
-          "Мышкин",
-          "Багаватхи Перумал",
-          "Гайатри",
-          "Ashwanth Ashokkumar",
-          "Jayanth",
-          "Mirnalini Ravi"
-        ],
-        "directors": [
-          "Thiagarajan Kumararaja"
-        ],
-        "producers": [
-          "Thiagarajan Kumararaja",
-          "S.D. Ezhilmathy",
-          "Sathyaraj Natarajan"
-        ],
-        "writers": [
-          "Thiagarajan Kumararaja",
-          "Nalan Kumarasamy",
-          "Мышкин",
-          "Sekar Neelan"
-        ],
-        "composers": [
-          "Юван Шанкар Раджа"
-        ],
-        "editors": [
-          "Sathyaraj Natarajan"
-        ],
-        "designers": [
-          "Vijay Adhinathan"
-        ],
-        "operators": [
-          "Нирав Шах",
-          "П.С. Винод"
-        ]
-      }
-    },
-    {
-      "id": "movie-42047",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Дорогой товарищ",
-      "title_orig": "Dear Comrade",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1217620",
-      "imdb_id": "tt8388508",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-09T04:33:10Z",
-      "updated_at": "2019-09-09T04:33:10Z",
-      "material_data": {
-        "title": "Дорогой товарищ",
-        "title_en": "Dear Comrade",
-        "year": 2019,
-        "tagline": "Fight for what you love...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1217620.jpg",
-        "duration": 169,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "мелодрама"
-        ],
-        "imdb_rating": 7.3,
-        "imdb_votes": 5932,
-        "premiere_world": "2019-07-26",
-        "actors": [
-          "Виджай Девераконда",
-          "Рашмика Манданна",
-          "Santhosh Adduri",
-          "Akshay",
-          "Anand",
-          "Радж Арджун",
-          "Ashritha",
-          "Bhavani",
-          "Chakri",
-          "Charan"
-        ],
-        "directors": [
-          "Бхарат Камма"
-        ],
-        "producers": [
-          "Мохан Черукури",
-          "Яш Рангинени",
-          "Рави Шанкар Яламанчили",
-          "Навин Ернени",
-          "Черри"
-        ],
-        "writers": [
-          "Бхарат Камма"
-        ],
-        "composers": [
-          "Джастин Прабхакаран"
-        ],
-        "editors": [
-          "Сриджитх Саранг"
-        ],
-        "designers": [
-          "Ramanjaneyulu A.",
-          "Ashwanth Byri"
-        ],
-        "operators": [
-          "Суджитх Саранг"
-        ]
-      }
-    },
-    {
-      "id": "movie-42036",
-      "type": "anime",
-      "link": "",
-      "title": "Игра разума",
-      "title_orig": "Mind Game",
-      "other_title": "Mindgame",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2004,
-      "kinopoisk_id": "119318",
-      "imdb_id": "tt0452039",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2910",
-      "shikimori_id": "875",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-08T22:50:39Z",
-      "updated_at": "2019-09-08T22:50:39Z",
-      "material_data": {
-        "title": "Игра разума",
-        "title_en": "Mind Game",
-        "other_titles": [
-          "Mindgame"
-        ],
-        "other_titles_jp": [
-          "マインド・ゲーム"
-        ],
-        "anime_license_name": "Игра разума",
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2004,
-        "description": "Когда в семейный ресторанчик подруги молодого мангаки Ниси вошла парочка безбашенных якудза потребовать старые долги, парень погибает жалкой унизительной смертью. Но вознёсшейся на небеса душе Ниси удалось убедить Господа позволить ему заново пережить свои последние минуты. Вернувшись назад новым человеком и поклявшись в корне изменить свою жизнь, Ниси отбил подружку у бандитов, и вместе с ней и её сестрой они отправляются в полное неожиданностей сюрреалистическое путешествие навстречу большим испытаниям.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/119318.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/2d9afca384a636f4b8a25dfaeb596001db410ea5.png",
-          "https://shikimori.one/system/screenshots/original/02c99c574c12211418cf6426440f2c8df8bf9d57.png"
-        ],
-        "duration": 103,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Безумие",
-          "Комедия",
-          "Приключения",
-          "Психологическое",
-          "Романтика"
-        ],
-        "anime_studios": [
-          "Studio 4°C"
-        ],
-        "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 1922,
-        "imdb_rating": 7.8,
-        "imdb_votes": 8185,
-        "shikimori_rating": 7.8,
-        "shikimori_votes": 1190,
-        "premiere_world": "2004-07-28",
-        "aired_at": "2004-08-07",
-        "rating_mpaa": "R",
-        "minimal_age": 18,
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Кодзи Имада",
-          "Саяка Маэда",
-          "Такаси Фудзии",
-          "Сэйко Такума",
-          "Томомицу Ямагути",
-          "Тосио Саката",
-          "Дзёдзи Симаки",
-          "Ринтаро Ниси",
-          "Кэнъити Тюдзё"
-        ],
-        "directors": [
-          "Масааки Юаса"
-        ],
-        "producers": [
-          "Рика Хатакэда",
-          "Такааки Кусака",
-          "Мунэтоси Мацуо",
-          "Тамоцу Сиина",
-          "Ютака Судзуки",
-          "Эико Танака",
-          "Масаро Тоёсима"
-        ],
-        "writers": [
-          "Робин Ниси",
-          "Масааки Юаса"
-        ],
-        "composers": [
-          "Сэйити Ямамото",
-          "Fayray"
-        ],
-        "editors": [
-          "Кэйко Мидзута"
-        ],
-        "designers": [
-          "Тору Хисияма"
-        ]
-      }
-    },
-    {
-      "id": "movie-42035",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Проклятие сокрытого трупа",
-      "title_orig": "Untold Body",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2019,
-      "imdb_id": "tt10684538",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-08T21:24:24Z",
-      "updated_at": "2019-09-08T21:24:24Z"
-    },
-    {
-      "id": "serial-18374",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Во имя любви",
-      "title_orig": "Por Amor",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1997,
-      "last_season": 1,
-      "last_episode": 130,
-      "episodes_count": 130,
-      "kinopoisk_id": "325750",
-      "imdb_id": "tt0138254",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-09-05T20:02:37Z",
-      "updated_at": "2019-09-08T20:29:12Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": "",
-            "26": "",
-            "27": "",
-            "28": "",
-            "29": "",
-            "30": "",
-            "31": "",
-            "32": "",
-            "33": "",
-            "34": "",
-            "35": "",
-            "36": "",
-            "37": "",
-            "38": "",
-            "39": "",
-            "40": "",
-            "41": "",
-            "42": "",
-            "43": "",
-            "44": "",
-            "45": "",
-            "46": "",
-            "47": "",
-            "48": "",
-            "49": "",
-            "50": "",
-            "51": "",
-            "52": "",
-            "53": "",
-            "54": "",
-            "55": "",
-            "56": "",
-            "57": "",
-            "58": "",
-            "59": "",
-            "60": "",
-            "61": "",
-            "62": "",
-            "63": "",
-            "64": "",
-            "65": "",
-            "66": "",
-            "67": "",
-            "68": "",
-            "69": "",
-            "70": "",
-            "71": "",
-            "72": "",
-            "73": "",
-            "74": "",
-            "75": "",
-            "76": "",
-            "77": "",
-            "78": "",
-            "79": "",
-            "80": "",
-            "81": "",
-            "82": "",
-            "83": "",
-            "84": "",
-            "85": "",
-            "86": "",
-            "87": "",
-            "88": "",
-            "89": "",
-            "90": "",
-            "91": "",
-            "92": "",
-            "93": "",
-            "94": "",
-            "95": "",
-            "96": "",
-            "97": "",
-            "98": "",
-            "99": "",
-            "100": "",
-            "101": "",
-            "102": "",
-            "103": "",
-            "104": "",
-            "105": "",
-            "106": "",
-            "107": "",
-            "108": "",
-            "109": "",
-            "110": "",
-            "111": "",
-            "112": "",
-            "113": "",
-            "114": "",
-            "115": "",
-            "116": "",
-            "117": "",
-            "118": "",
-            "119": "",
-            "120": "",
-            "121": "",
-            "122": "",
-            "123": "",
-            "124": "",
-            "125": "",
-            "126": "",
-            "127": "",
-            "128": "",
-            "129": "",
-            "130": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Во имя любви",
-        "title_en": "Por Amor",
-        "year": 1997,
-        "description": "История начинается в Венеции. Туда накануне своей свадьбы приезжает Эдуарда с матерью Эленой. Элена, перед тем, как дочь выйдет замуж, решает показать ей великолепную Венецию, а заодно в последний раз провести отпуск вместе.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/325750.jpg",
-        "duration": 48,
-        "countries": [
-          "Бразилия"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.3,
-        "kinopoisk_votes": 3048,
-        "imdb_rating": 7.5,
-        "imdb_votes": 356,
-        "premiere_world": "1997-10-13",
-        "minimal_age": 16,
-        "actors": [
-          "Реджина Дуарте",
-          "Антонио Фагундес",
-          "Фабио Ассунсон",
-          "Вивиан Пажмантер",
-          "Каролина Дикманн",
-          "Эдуарду Московиш",
-          "Каролина Ферраз",
-          "Каку Барези",
-          "Каку Сиоклер",
-          "Лади Монтес Карлос"
-        ],
-        "directors": [
-          "Александр Аванчини",
-          "Эри Кослов",
-          "Роберто Наар",
-          "Эдсон Спинелло",
-          "Пауло Убиратан",
-          "Рикардо Ваддингтон"
-        ],
-        "producers": [
-          "Руй Маттос",
-          "Роберто Наар",
-          "Пауло Убиратан",
-          "Рикардо Ваддингтон"
-        ],
-        "writers": [
-          "Мануэль Карлуш",
-          "Летисия Дорнелес"
-        ],
-        "composers": [
-          "Альберто Розенблит"
-        ],
-        "designers": [
-          "Ана Мария де Магалхаес",
-          "Бет Филипески"
-        ]
-      }
-    },
-    {
-      "id": "movie-42022",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Божественная ярость",
-      "title_orig": "Saja",
-      "other_title": "The Divine Fury",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1112788",
-      "imdb_id": "tt10550884",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-08T11:58:17Z",
-      "updated_at": "2019-09-08T11:58:17Z",
-      "material_data": {
-        "title": "Божественная ярость",
-        "title_en": "Saja",
-        "year": 2019,
-        "tagline": "Will you stand with good or evil?",
-        "description": "Когда Ён-ху был ребёнком, его отец, полицейский и очень религиозный человек, погиб при исполнении. С тех пор парень живёт, затаив на бога обиду, не любит сближаться с людьми и предпочёл реализоваться в MMA. Однажды на ладони ударной правой руки Ён-ху проступает стигмат, и с тех пор по ночам его приходят мучить злые потусторонние сущности. Пытаясь разобраться в происходящем, парень встречает священника-экзорциста, с которым ему придется наладить отношения, чтобы вместе противостоять дьявольским силам.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1112788.jpg",
-        "duration": 129,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "боевик",
-          "ужасы",
-          "фэнтези"
-        ],
-        "kinopoisk_rating": 6.4,
-        "kinopoisk_votes": 2132,
-        "imdb_rating": 6.2,
-        "imdb_votes": 2228,
-        "premiere_world": "2019-07-31",
-        "actors": [
-          "Пак Со-джун",
-          "Ан Сон-ги",
-          "У До-хван",
-          "Пак Чи-хён",
-          "Чон Джи-хун",
-          "Ли Сын-хи",
-          "Щим Хи-соп",
-          "Ким Щи-ын",
-          "Чхве У-щик",
-          "Ли Чхан-ю"
-        ],
-        "directors": [
-          "Ким Джу-хван"
-        ],
-        "producers": [
-          "Пак А-хён",
-          "Лим Джун-хёк"
-        ],
-        "writers": [
-          "Ким Джу-хван"
-        ],
-        "composers": [
-          "Ку Джа-ван"
-        ],
-        "editors": [
-          "Ким Сон-мин"
-        ],
-        "designers": [
-          "Ли Бон-хван",
-          "Чхэ Гён-хва"
-        ],
-        "operators": [
-          "Чо Сан-юн"
-        ]
-      }
-    },
-    {
-      "id": "movie-42021",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Божественная ярость",
-      "title_orig": "Saja",
-      "other_title": "The Divine Fury",
-      "translation": {
-        "id": 840,
-        "title": "Храм Дорам ТВ",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1112788",
-      "imdb_id": "tt10550884",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-08T10:13:21Z",
-      "updated_at": "2019-09-08T10:13:29Z",
-      "material_data": {
-        "title": "Божественная ярость",
-        "title_en": "Saja",
-        "year": 2019,
-        "tagline": "Will you stand with good or evil?",
-        "description": "Когда Ён-ху был ребёнком, его отец, полицейский и очень религиозный человек, погиб при исполнении. С тех пор парень живёт, затаив на бога обиду, не любит сближаться с людьми и предпочёл реализоваться в MMA. Однажды на ладони ударной правой руки Ён-ху проступает стигмат, и с тех пор по ночам его приходят мучить злые потусторонние сущности. Пытаясь разобраться в происходящем, парень встречает священника-экзорциста, с которым ему придется наладить отношения, чтобы вместе противостоять дьявольским силам.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1112788.jpg",
-        "duration": 129,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "боевик",
-          "ужасы",
-          "фэнтези"
-        ],
-        "kinopoisk_rating": 6.4,
-        "kinopoisk_votes": 2132,
-        "imdb_rating": 6.2,
-        "imdb_votes": 2228,
-        "premiere_world": "2019-07-31",
-        "actors": [
-          "Пак Со-джун",
-          "Ан Сон-ги",
-          "У До-хван",
-          "Пак Чи-хён",
-          "Чон Джи-хун",
-          "Ли Сын-хи",
-          "Щим Хи-соп",
-          "Ким Щи-ын",
-          "Чхве У-щик",
-          "Ли Чхан-ю"
-        ],
-        "directors": [
-          "Ким Джу-хван"
-        ],
-        "producers": [
-          "Пак А-хён",
-          "Лим Джун-хёк"
-        ],
-        "writers": [
-          "Ким Джу-хван"
-        ],
-        "composers": [
-          "Ку Джа-ван"
-        ],
-        "editors": [
-          "Ким Сон-мин"
-        ],
-        "designers": [
-          "Ли Бон-хван",
-          "Чхэ Гён-хва"
-        ],
-        "operators": [
-          "Чо Сан-юн"
-        ]
-      }
-    },
-    {
-      "id": "movie-42020",
-      "type": "anime",
-      "link": "",
-      "title": "Меч чужака",
-      "title_orig": "Sword of the Stranger",
-      "other_title": "Stranger: Mukou Hadan",
-      "translation": {
-        "id": 829,
-        "title": "Animegroup",
-        "type": "voice"
-      },
-      "year": 2007,
-      "kinopoisk_id": "398549",
-      "imdb_id": "tt1121794",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4476",
-      "shikimori_id": "2418",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-07T21:52:03Z",
-      "updated_at": "2019-09-07T21:52:03Z",
-      "material_data": {
-        "title": "Меч чужака",
-        "title_en": "Stranger: Mukô hadan",
-        "other_titles_en": [
-          "Sword of the Stranger"
-        ],
-        "other_titles_jp": [
-          "ストレンヂア -無皇刃譚-"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2007,
-        "tagline": "Some men kill in order to live. Some don't need a reason...",
-        "description": "Группа воинов под предводительством старого алхимика прибыла в страну Восходящего Солнца из Поднебесной для демонстрации новинок вооружения. Но это только для прикрытия: они добывают ингредиенты для напитка бессмертия, предназначенного китайскому императору. Последней составляющей является дитя, рождающееся раз в сто лет - храбрый мальчик-сирота, который спешит со своим верным псом через всю страну укрыться в монастыре. Мальчик встречает храброго путника, владеющего искусством поединка, и предлагает ему быть сопровождающим в этом непростом пути.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/398549.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/4d663cd7f4863c1f5089a5b5d131a34a40b54c5e.jpg",
-          "https://shikimori.one/system/screenshots/original/bf4c04300c5ed774bc2a976794dccbd6de559c99.jpg"
-        ],
-        "duration": 103,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Исторический",
-          "Приключения",
-          "Самураи",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Bones"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 6160,
-        "imdb_rating": 7.8,
-        "imdb_votes": 14608,
-        "shikimori_rating": 8.32,
-        "shikimori_votes": 11528,
-        "premiere_world": "2007-09-29",
-        "aired_at": "2007-09-29",
-        "rating_mpaa": "R",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Томоя Нагасэ",
-          "Юри Тинэн",
-          "Коити Ямадэра",
-          "Акио Оцука",
-          "Унсё Исидзука",
-          "Мамору Мияно",
-          "Маая Сакамото",
-          "Дзюн Хасуми",
-          "Томоюки Симура",
-          "Такуро Китагава"
-        ],
-        "directors": [
-          "Масахиро Андо"
-        ],
-        "producers": [
-          "Масахико Минами"
-        ],
-        "writers": [
-          "Фумихико Такаяма"
-        ],
-        "composers": [
-          "Наоки Сато"
-        ],
-        "designers": [
-          "Ацуси Морикава"
-        ],
-        "operators": [
-          "Ёхэй Мияхара"
-        ]
-      }
-    },
-    {
-      "id": "movie-42019",
-      "type": "anime",
-      "link": "",
-      "title": "Меч чужака",
-      "title_orig": "Sword of the Stranger",
-      "other_title": "Stranger: Mukou Hadan",
-      "translation": {
-        "id": 555,
-        "title": "Cuba77",
-        "type": "voice"
-      },
-      "year": 2007,
-      "kinopoisk_id": "398549",
-      "imdb_id": "tt1121794",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4476",
-      "shikimori_id": "2418",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-07T21:50:28Z",
-      "updated_at": "2019-09-07T21:50:28Z",
-      "material_data": {
-        "title": "Меч чужака",
-        "title_en": "Stranger: Mukô hadan",
-        "other_titles_en": [
-          "Sword of the Stranger"
-        ],
-        "other_titles_jp": [
-          "ストレンヂア -無皇刃譚-"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2007,
-        "tagline": "Some men kill in order to live. Some don't need a reason...",
-        "description": "Группа воинов под предводительством старого алхимика прибыла в страну Восходящего Солнца из Поднебесной для демонстрации новинок вооружения. Но это только для прикрытия: они добывают ингредиенты для напитка бессмертия, предназначенного китайскому императору. Последней составляющей является дитя, рождающееся раз в сто лет - храбрый мальчик-сирота, который спешит со своим верным псом через всю страну укрыться в монастыре. Мальчик встречает храброго путника, владеющего искусством поединка, и предлагает ему быть сопровождающим в этом непростом пути.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/398549.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/4d663cd7f4863c1f5089a5b5d131a34a40b54c5e.jpg",
-          "https://shikimori.one/system/screenshots/original/bf4c04300c5ed774bc2a976794dccbd6de559c99.jpg"
-        ],
-        "duration": 103,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Исторический",
-          "Приключения",
-          "Самураи",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Bones"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 6160,
-        "imdb_rating": 7.8,
-        "imdb_votes": 14608,
-        "shikimori_rating": 8.32,
-        "shikimori_votes": 11528,
-        "premiere_world": "2007-09-29",
-        "aired_at": "2007-09-29",
-        "rating_mpaa": "R",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Томоя Нагасэ",
-          "Юри Тинэн",
-          "Коити Ямадэра",
-          "Акио Оцука",
-          "Унсё Исидзука",
-          "Мамору Мияно",
-          "Маая Сакамото",
-          "Дзюн Хасуми",
-          "Томоюки Симура",
-          "Такуро Китагава"
-        ],
-        "directors": [
-          "Масахиро Андо"
-        ],
-        "producers": [
-          "Масахико Минами"
-        ],
-        "writers": [
-          "Фумихико Такаяма"
-        ],
-        "composers": [
-          "Наоки Сато"
-        ],
-        "designers": [
-          "Ацуси Морикава"
-        ],
-        "operators": [
-          "Ёхэй Мияхара"
-        ]
-      }
-    },
-    {
-      "id": "movie-42018",
-      "type": "anime",
-      "link": "",
-      "title": "Меч чужака",
-      "title_orig": "Sword of the Stranger",
-      "other_title": "Stranger: Mukou Hadan",
-      "translation": {
-        "id": 559,
-        "title": "Kansai",
-        "type": "voice"
-      },
-      "year": 2007,
-      "kinopoisk_id": "398549",
-      "imdb_id": "tt1121794",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4476",
-      "shikimori_id": "2418",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-07T21:48:47Z",
-      "updated_at": "2019-09-07T21:48:47Z",
-      "material_data": {
-        "title": "Меч чужака",
-        "title_en": "Stranger: Mukô hadan",
-        "other_titles_en": [
-          "Sword of the Stranger"
-        ],
-        "other_titles_jp": [
-          "ストレンヂア -無皇刃譚-"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2007,
-        "tagline": "Some men kill in order to live. Some don't need a reason...",
-        "description": "Группа воинов под предводительством старого алхимика прибыла в страну Восходящего Солнца из Поднебесной для демонстрации новинок вооружения. Но это только для прикрытия: они добывают ингредиенты для напитка бессмертия, предназначенного китайскому императору. Последней составляющей является дитя, рождающееся раз в сто лет - храбрый мальчик-сирота, который спешит со своим верным псом через всю страну укрыться в монастыре. Мальчик встречает храброго путника, владеющего искусством поединка, и предлагает ему быть сопровождающим в этом непростом пути.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/398549.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/4d663cd7f4863c1f5089a5b5d131a34a40b54c5e.jpg",
-          "https://shikimori.one/system/screenshots/original/bf4c04300c5ed774bc2a976794dccbd6de559c99.jpg"
-        ],
-        "duration": 103,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Исторический",
-          "Приключения",
-          "Самураи",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Bones"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 6160,
-        "imdb_rating": 7.8,
-        "imdb_votes": 14608,
-        "shikimori_rating": 8.32,
-        "shikimori_votes": 11528,
-        "premiere_world": "2007-09-29",
-        "aired_at": "2007-09-29",
-        "rating_mpaa": "R",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Томоя Нагасэ",
-          "Юри Тинэн",
-          "Коити Ямадэра",
-          "Акио Оцука",
-          "Унсё Исидзука",
-          "Мамору Мияно",
-          "Маая Сакамото",
-          "Дзюн Хасуми",
-          "Томоюки Симура",
-          "Такуро Китагава"
-        ],
-        "directors": [
-          "Масахиро Андо"
-        ],
-        "producers": [
-          "Масахико Минами"
-        ],
-        "writers": [
-          "Фумихико Такаяма"
-        ],
-        "composers": [
-          "Наоки Сато"
-        ],
-        "designers": [
-          "Ацуси Морикава"
-        ],
-        "operators": [
-          "Ёхэй Мияхара"
-        ]
-      }
-    },
-    {
-      "id": "movie-42017",
-      "type": "anime",
-      "link": "",
-      "title": "Меч чужака",
-      "title_orig": "Sword of the Stranger",
-      "other_title": "Stranger: Mukou Hadan",
-      "translation": {
-        "id": 979,
-        "title": "Shinobi",
-        "type": "voice"
-      },
-      "year": 2007,
-      "kinopoisk_id": "398549",
-      "imdb_id": "tt1121794",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=4476",
-      "shikimori_id": "2418",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-09-07T21:45:20Z",
-      "updated_at": "2019-09-07T21:45:20Z",
-      "material_data": {
-        "title": "Меч чужака",
-        "title_en": "Stranger: Mukô hadan",
-        "other_titles_en": [
-          "Sword of the Stranger"
-        ],
-        "other_titles_jp": [
-          "ストレンヂア -無皇刃譚-"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2007,
-        "tagline": "Some men kill in order to live. Some don't need a reason...",
-        "description": "Группа воинов под предводительством старого алхимика прибыла в страну Восходящего Солнца из Поднебесной для демонстрации новинок вооружения. Но это только для прикрытия: они добывают ингредиенты для напитка бессмертия, предназначенного китайскому императору. Последней составляющей является дитя, рождающееся раз в сто лет - храбрый мальчик-сирота, который спешит со своим верным псом через всю страну укрыться в монастыре. Мальчик встречает храброго путника, владеющего искусством поединка, и предлагает ему быть сопровождающим в этом непростом пути.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/398549.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/4d663cd7f4863c1f5089a5b5d131a34a40b54c5e.jpg",
-          "https://shikimori.one/system/screenshots/original/bf4c04300c5ed774bc2a976794dccbd6de559c99.jpg"
-        ],
-        "duration": 103,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Исторический",
-          "Приключения",
-          "Самураи",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Bones"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 6160,
-        "imdb_rating": 7.8,
-        "imdb_votes": 14608,
-        "shikimori_rating": 8.32,
-        "shikimori_votes": 11528,
-        "premiere_world": "2007-09-29",
-        "aired_at": "2007-09-29",
-        "rating_mpaa": "R",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Томоя Нагасэ",
-          "Юри Тинэн",
-          "Коити Ямадэра",
-          "Акио Оцука",
-          "Унсё Исидзука",
-          "Мамору Мияно",
-          "Маая Сакамото",
-          "Дзюн Хасуми",
-          "Томоюки Симура",
-          "Такуро Китагава"
-        ],
-        "directors": [
-          "Масахиро Андо"
-        ],
-        "producers": [
-          "Масахико Минами"
-        ],
-        "writers": [
-          "Фумихико Такаяма"
-        ],
-        "composers": [
-          "Наоки Сато"
-        ],
-        "designers": [
-          "Ацуси Морикава"
-        ],
-        "operators": [
-          "Ёхэй Мияхара"
-        ]
-      }
-    },
-    {
-      "id": "serial-18368",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Царь обезьян: Охотник на богов",
-      "title_orig": "The God Hunter",
-      "other_title": "Охотник на богов / Король обезьян: Охотник на богов /Monkey King: The God Hunter / Deity Hunt / Hen Xi You",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 1,
-      "last_episode": 20,
-      "episodes_count": 20,
-      "kinopoisk_id": "1354956",
-      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=70740",
-      "shikimori_id": "33756",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-09-07T21:42:12Z",
-      "updated_at": "2019-09-07T21:42:12Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Беспощадное путешествие на Запад, Царь обезьян: Охотник на Богов",
-        "title_en": "Hen xi you",
-        "other_titles": [
-          "Monkey King: The God Hunter",
-          "Henxi You",
-          "Hen Xiyou"
-        ],
-        "other_titles_jp": [
-          "狠西游"
-        ],
-        "anime_kind": "ona",
-        "anime_status": "released",
-        "year": 2016,
-        "description": "В обычного старшеклассника внезапно вселяется дух Царя обезьян Сунь Укуна.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1354956.jpg",
-        "duration": 14,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "комедия",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Сверхъестественное",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Vasoon Animation"
-        ],
-        "shikimori_rating": 0,
-        "shikimori_votes": 218,
-        "premiere_world": "2016-07-18",
-        "aired_at": "2016-06-01",
-        "released_at": "2016-11-28",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 20,
-        "episodes_aired": 20,
-        "actors": [
-          "Тун Синьчжу",
-          "Фэн Шэн"
         ]
       }
     }
