@@ -1,6 +1,1160 @@
 {
   "results": [
     {
+      "id": "movie-45160",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Если что-то случится",
+      "title_orig": "If Something Happens",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1085979",
+      "imdb_id": "tt6890656",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-11-16T14:16:42Z",
+      "updated_at": "2019-11-16T14:16:42Z",
+      "material_data": {
+        "title": "Если что-то случится",
+        "title_en": "If Something Happens",
+        "year": 2018,
+        "description": "Джули Рейнольдс пытается выжить в большом городе. Однажды она получает анонимное электронное письмо с обещанием денег, если определенный человек умрёт",
+        "duration": 80,
+        "countries": [
+          "ОАЭ"
+        ],
+        "genres": [
+          "детектив"
+        ],
+        "imdb_rating": 5.4,
+        "imdb_votes": 133,
+        "premiere_world": "2018-05-12",
+        "actors": [
+          "Sofia Asir",
+          "Bronwyn Byrnes",
+          "Iain Colquhoun",
+          "Laura Denmar",
+          "Ashley William Griffiths",
+          "Mina Kici Khattar",
+          "Bianca Marciuc",
+          "Aron Marzetti",
+          "Lauren Nieuwland",
+          "Sameer Al Obaidli"
+        ],
+        "directors": [
+          "Rajiv Whabi"
+        ],
+        "producers": [
+          "Rajiv Whabi",
+          "Лоуренс Блок"
+        ],
+        "writers": [
+          "Sara Beinat",
+          "Rajiv Whabi"
+        ],
+        "editors": [
+          "Fuad Iqbal"
+        ],
+        "designers": [
+          "Riddhima Whabi"
+        ],
+        "operators": [
+          "Carrie D'Souza"
+        ]
+      }
+    },
+    {
+      "id": "serial-1936",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Файрбол [ТВ-1]",
+      "title_orig": "Fireball",
+      "other_title": "Faiabôru",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2008,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "439573",
+      "imdb_id": "tt1211530",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6912",
+      "shikimori_id": "4362",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2016-12-27T13:02:22Z",
+      "updated_at": "2019-11-16T14:15:40Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Файрбол",
+        "title_en": "Faiaboru",
+        "other_titles_en": [
+          "Fireball"
+        ],
+        "other_titles_jp": [
+          "ファイアボール"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2008,
+        "description": "Забавные зарисовки будней наивной «юной» девушки-андроида и её верного слуги-робота, живущих в собственном замке в далеком будущем на иной планете.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/439573.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/7cff068760ebe28af0fc186175f49ebaa62d0b3f.jpg",
+          "https://shikimori.one/system/screenshots/original/bccbd1804c78238a94d8c4f2802f2461f18ed83d.jpg"
+        ],
+        "duration": 2,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "комедия",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Фантастика"
+        ],
+        "anime_studios": [
+          "Jinnis Animation Studios"
+        ],
+        "imdb_rating": 6.7,
+        "imdb_votes": 27,
+        "shikimori_rating": 6.68,
+        "shikimori_votes": 293,
+        "premiere_world": "2008-04-07",
+        "aired_at": "2008-04-07",
+        "released_at": "2008-06-30",
+        "rating_mpaa": "G",
+        "episodes_total": 13,
+        "episodes_aired": 0,
+        "actors": [
+          "Миюки Кавасё"
+        ],
+        "directors": [
+          "Аракава Ватару"
+        ],
+        "writers": [
+          "Аракава Ватару"
+        ]
+      }
+    },
+    {
+      "id": "movie-45161",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Залёт не туда",
+      "title_orig": "Wrong Night Stand",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1214444",
+      "imdb_id": "tt9178986",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-11-16T14:14:40Z",
+      "updated_at": "2019-11-16T14:14:40Z",
+      "material_data": {
+        "title": "Wrong Night Stand",
+        "title_en": "",
+        "year": 2018,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1214444.jpg",
+        "duration": 94,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "триллер"
+        ],
+        "imdb_rating": 4.4,
+        "imdb_votes": 48,
+        "premiere_world": "2018-12-06",
+        "actors": [
+          "Дэйл Барнард",
+          "Ребекка Чалон",
+          "Benedict Chau",
+          "Anthony Ciccotosto",
+          "Tegan M. Gregory",
+          "Нил Хаксли",
+          "Таня Джейд",
+          "Иван Лайтбади",
+          "Джеймс Магнус",
+          "Алан Малкольм"
+        ],
+        "directors": [
+          "Mark Huxley"
+        ],
+        "producers": [
+          "Mark Huxley",
+          "Нил Хаксли",
+          "Джаг Панну"
+        ],
+        "writers": [
+          "Mark Huxley",
+          "Нил Хаксли"
+        ],
+        "editors": [
+          "Mark Huxley",
+          "Нил Хаксли"
+        ],
+        "operators": [
+          "Simon Holland",
+          "Mark Huxley"
+        ]
+      }
+    },
+    {
+      "id": "serial-1941",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Скитальцы",
+      "title_orig": "Drifters",
+      "other_title": "Дрифтеры",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "958562",
+      "imdb_id": "tt5225764",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8475",
+      "shikimori_id": "31339",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2016-12-27T16:47:40Z",
+      "updated_at": "2019-11-16T14:11:42Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Дрифтеры",
+        "title_en": "Drifters",
+        "other_titles": [
+          "Drifters: Battle in a Brand-new World War"
+        ],
+        "other_titles_en": [
+          "Drifters"
+        ],
+        "other_titles_jp": [
+          "DRIFTERS"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2016,
+        "tagline": "Battle in a brand-new world war.",
+        "description": "Легендарный самурай эпохи Сэнгоку Тоёхиса Симадзу принимает участие в великой битве при Сэкигахаре. Ему удается смертельно ранить вражеского полководца Наомасу Ии, но и сам он оказывается тяжело ранен. Искалеченный и истекающий кровью Тоёхиса пытается уйти с поля боя и вдруг непонятным образом попадает в длинный коридор из дверей, где его ожидает человек в очках. Этого человека зовут Мурасаки. Он великодушно направляет едва живого Тоёхису к ближайшей двери, после чего раненый самурай теряет сознание и приходит в себя уже в другом месте. Нет, не на небесах, как можно было подумать, а в параллельном мире!",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/958562.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/e911eddfbbdde900de84564e4af7cabbbdcdc3ab.jpg",
+          "https://shikimori.one/system/screenshots/original/f7e57c2f7bd1a72d94be2854a0ba08825047f0c9.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Исторический",
+          "Комедия",
+          "Приключения",
+          "Самураи",
+          "Сейнен",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Hoods Drifters Studio"
+        ],
+        "kinopoisk_rating": 7.7,
+        "kinopoisk_votes": 2548,
+        "imdb_rating": 7.7,
+        "imdb_votes": 2327,
+        "shikimori_rating": 7.95,
+        "shikimori_votes": 25703,
+        "premiere_world": "2016-10-07",
+        "aired_at": "2016-10-07",
+        "released_at": "2016-12-23",
+        "rating_mpaa": "R",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Мицуки Саига",
+          "Наоя Утида",
+          "Юити Накамура",
+          "Такахиро Сакурай",
+          "Ютака Аояма",
+          "Ито Канаэ",
+          "Дзюнко Китаниси",
+          "Сихо Кокидо",
+          "Такэаки Масуяма",
+          "Дзюнко Минагава"
+        ],
+        "directors": [
+          "Кэнъити Судзуки"
+        ],
+        "writers": [
+          "Кота Хирано",
+          "Хидэюки Курата",
+          "Ёсукэ Курода"
+        ],
+        "composers": [
+          "Ясуси Исии",
+          "Хаято Мацуо"
+        ],
+        "editors": [
+          "Киёси Хиросэ"
+        ]
+      }
+    },
+    {
+      "id": "serial-1967",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Карма: Восточный отдел",
+      "title_orig": "Dongguo xiaojie",
+      "other_title": "Dong Guo Xiao Jie",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 15,
+      "episodes_count": 15,
+      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=73619",
+      "shikimori_id": "34940",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2016-12-29T21:27:25Z",
+      "updated_at": "2019-11-16T14:10:26Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Дунго Сяозце",
+        "title_en": "Dongguo Xiaojie",
+        "other_titles": [
+          "Карма: Восточный отдел",
+          "Dongguo Xiaojie: Karma"
+        ],
+        "other_titles_jp": [
+          "东郭小节"
+        ],
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "poster_url": "https://shikimori.one/system/animes/original/34940.jpg",
+        "anime_genres": [
+          "Демоны",
+          "Исторический",
+          "Приключения",
+          "Сверхъестественное"
+        ],
+        "anime_studios": [
+          "Haoliners Animation League"
+        ],
+        "shikimori_rating": 6.02,
+        "shikimori_votes": 344,
+        "aired_at": "2016-12-26",
+        "released_at": "2017-04-10",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 15,
+        "episodes_aired": 0
+      }
+    },
+    {
+      "id": "serial-2191",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Из одной комнаты [ТВ-1]",
+      "title_orig": "One Room",
+      "other_title": "В одной комнате",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1113999",
+      "imdb_id": "tt7797662",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9022",
+      "shikimori_id": "34392",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-01-14T22:43:51Z",
+      "updated_at": "2019-11-16T14:01:33Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "В одной комнате",
+        "title_en": "One Room",
+        "other_titles": [
+          "В одной комнате"
+        ],
+        "other_titles_en": [
+          "One Room"
+        ],
+        "other_titles_jp": [
+          "One Room (ワンルーム)"
+        ],
+        "anime_license_name": "",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2017,
+        "description": "Три истории, три девушки, три времени и одно место действия — обычная комната в жилом доме.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1113999.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/66d3f5ef8392c3817628639e123ba0ef273b351e.png",
+          "https://shikimori.one/system/screenshots/original/a03b1fc79a80e2d7f86592995403170f3f510429.png"
+        ],
+        "duration": 4,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Повседневность"
+        ],
+        "anime_studios": [
+          "Typhoon Graphics"
+        ],
+        "imdb_rating": 4.8,
+        "imdb_votes": 85,
+        "shikimori_rating": 5.58,
+        "shikimori_votes": 2392,
+        "premiere_world": "2017-01-11",
+        "aired_at": "2017-01-11",
+        "released_at": "2017-03-29",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Мао Итимити",
+          "Судзуко Мимори",
+          "Риэ Муракава"
+        ],
+        "writers": [
+          "Eiji Mano"
+        ]
+      }
+    },
+    {
+      "id": "serial-7600",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Притворная любовь [ТВ-2]",
+      "title_orig": "Nisekoi:",
+      "other_title": "Притворная любовь 2 / Любовь понарошку (второй сезон)",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2015,
+      "last_season": 2,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "791160",
+      "imdb_id": "tt3115338",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3906",
+      "shikimori_id": "27787",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-12-26T04:09:52Z",
+      "updated_at": "2019-11-16T13:59:14Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Притворная любовь",
+        "title_en": "Nisekoi",
+        "other_titles": [
+          "Nisekoi 2nd Season",
+          "Nisekoi Second Season"
+        ],
+        "other_titles_en": [
+          "Nisekoi: False Love"
+        ],
+        "other_titles_jp": [
+          "ニセコイ:"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2014,
+        "description": "Наследник семьи якудза вынужден сойтись с дочерью главы другого клана, чтобы избежать войны преступных группировок.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/791160.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/7abad2802a2413443a8017555ba0495dd2c2c150.jpg",
+          "https://shikimori.one/system/screenshots/original/321d894af7db4fa9ed2f99562bd0c02106a3f7d3.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мелодрама",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Гарем",
+          "Комедия",
+          "Романтика",
+          "Сёнен",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Shaft"
+        ],
+        "kinopoisk_rating": 7,
+        "kinopoisk_votes": 2741,
+        "imdb_rating": 7.2,
+        "imdb_votes": 2356,
+        "shikimori_rating": 7.4,
+        "shikimori_votes": 15063,
+        "premiere_world": "2014-01-11",
+        "aired_at": "2015-04-10",
+        "released_at": "2015-06-26",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Коки Утияма",
+          "Нао Тояма",
+          "Кана Ханадзава",
+          "Юми Утияма",
+          "Юки Кадзи",
+          "Микако Комацу",
+          "Кана Асуми",
+          "Кэнго Мидзогути",
+          "Рёута Игараси",
+          "Тосинари Фукамати"
+        ],
+        "directors": [
+          "Тацува Наоюки",
+          "Акиюки Синбо",
+          "Косукэ Хирота",
+          "Таро Кубо",
+          "Кадзуки Охаси",
+          "Сумито Сасаки",
+          "Хитоми Эдзоэ",
+          "Такаси Кавабата",
+          "Эйити Кубояма",
+          "Сюдзи Мияхара"
+        ],
+        "producers": [
+          "Рю Хасимото",
+          "Ёхэй Хаяси",
+          "Тацуя Исикава",
+          "Атасухиро Иваками",
+          "Кодзуэ Канэнива",
+          "Мицутоси Кубота",
+          "Хиро Маруяма",
+          "Хироюки Окино",
+          "Кадзумаса Сандзёба",
+          "Такао Симадзаки"
+        ],
+        "writers": [
+          "Юкито Кидзава",
+          "Мунэо Накамото",
+          "Акиюки Синбо",
+          "Фуяси То",
+          "Мику Осима"
+        ],
+        "designers": [
+          "Кэн Наито"
+        ],
+        "operators": [
+          "Рэи Эгава"
+        ]
+      }
+    },
+    {
+      "id": "serial-540",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Притворная любовь [ТВ-1]",
+      "title_orig": "Nisekoi",
+      "other_title": "Любовь понарошку",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 20,
+      "episodes_count": 20,
+      "kinopoisk_id": "791160",
+      "imdb_id": "tt3115338",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1661",
+      "shikimori_id": "18897",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2015-05-18T03:07:28Z",
+      "updated_at": "2019-11-16T13:57:43Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Притворная любовь",
+        "title_en": "Nisekoi",
+        "other_titles": [
+          "Nisekoi"
+        ],
+        "other_titles_en": [
+          "Nisekoi: False Love"
+        ],
+        "other_titles_jp": [
+          "ニセコイ"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2014,
+        "description": "Наследник семьи якудза вынужден сойтись с дочерью главы другого клана, чтобы избежать войны преступных группировок.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/791160.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/6126facea7f2463045eeb45ce418177c416c93d1.png",
+          "https://shikimori.one/system/screenshots/original/083eb4178e5603d9cc73af2c75f242d25a78823c.png"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мелодрама",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Гарем",
+          "Комедия",
+          "Романтика",
+          "Сёнен",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Shaft"
+        ],
+        "kinopoisk_rating": 7,
+        "kinopoisk_votes": 2741,
+        "imdb_rating": 7.2,
+        "imdb_votes": 2356,
+        "shikimori_rating": 7.66,
+        "shikimori_votes": 24135,
+        "premiere_world": "2014-01-11",
+        "aired_at": "2014-01-11",
+        "released_at": "2014-05-24",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 20,
+        "episodes_aired": 20,
+        "actors": [
+          "Коки Утияма",
+          "Нао Тояма",
+          "Кана Ханадзава",
+          "Юми Утияма",
+          "Юки Кадзи",
+          "Микако Комацу",
+          "Кана Асуми",
+          "Кэнго Мидзогути",
+          "Рёута Игараси",
+          "Тосинари Фукамати"
+        ],
+        "directors": [
+          "Тацува Наоюки",
+          "Акиюки Синбо",
+          "Косукэ Хирота",
+          "Таро Кубо",
+          "Кадзуки Охаси",
+          "Сумито Сасаки",
+          "Хитоми Эдзоэ",
+          "Такаси Кавабата",
+          "Эйити Кубояма",
+          "Сюдзи Мияхара"
+        ],
+        "producers": [
+          "Рю Хасимото",
+          "Ёхэй Хаяси",
+          "Тацуя Исикава",
+          "Атасухиро Иваками",
+          "Кодзуэ Канэнива",
+          "Мицутоси Кубота",
+          "Хиро Маруяма",
+          "Хироюки Окино",
+          "Кадзумаса Сандзёба",
+          "Такао Симадзаки"
+        ],
+        "writers": [
+          "Юкито Кидзава",
+          "Мунэо Накамото",
+          "Акиюки Синбо",
+          "Фуяси То",
+          "Мику Осима"
+        ],
+        "designers": [
+          "Кэн Наито"
+        ],
+        "operators": [
+          "Рэи Эгава"
+        ]
+      }
+    },
+    {
+      "id": "serial-459",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Медвежья буря, лилий ураган",
+      "title_orig": "Yurikuma Arashi",
+      "other_title": "Yuri Kuma Arashi",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2015,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "891858",
+      "imdb_id": "tt3981544",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3538",
+      "shikimori_id": "26165",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2015-04-05T17:02:42Z",
+      "updated_at": "2019-11-16T13:54:27Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Медвежья буря, лилий ураган",
+        "title_en": "Yuri Kuma Arashi",
+        "other_titles": [
+          "Медвежья буря, лилий ураган",
+          "Буря лилейных медведей",
+          "Yuri Bear Storm",
+          "Love Bullet: Yurikuma Arashi"
+        ],
+        "other_titles_en": [
+          "Yurikuma Arashi"
+        ],
+        "other_titles_jp": [
+          "ユリ熊嵐"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2015,
+        "description": "За несколько лет до событий истории, в космосе появился астероид Кумария, осколки которого сопрекоснулись с нашей Землёй в виде метеоритного дождя, и после этого, появились человеко-медведи которые начали войну против обычных людей. Каждая из сторон несла потери, лишь бы узнать какая из двух рас выйдет с поля боя живой. В конце концов, между обычными людьми и человеко-медведями была построена гигантская «Стена вымирания», после чего начался период мирного сосуществования.\n\rИстория вращается вокруг обычной школьницы Курэхи Цубаки, которая в первый день учёбы сталкивается с таинственной девушкой по имени Гинко Юрисиро, якобы являющейся человеко-медведем.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/891858.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/48385087fa60e341051ba0105752314525938f8e.jpg",
+          "https://shikimori.one/system/screenshots/original/1f5442a902555bc5beeb68a804514e2cec54dd65.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Психологическое",
+          "Сейнен",
+          "Сёдзё-ай",
+          "Фэнтези",
+          "Школа"
+        ],
+        "anime_studios": [
+          "SILVER LINK."
+        ],
+        "kinopoisk_rating": 5.7,
+        "kinopoisk_votes": 149,
+        "imdb_rating": 6.6,
+        "imdb_votes": 196,
+        "shikimori_rating": 7.08,
+        "shikimori_votes": 1470,
+        "premiere_world": "2015-01-05",
+        "aired_at": "2015-01-06",
+        "released_at": "2015-03-31",
+        "rating_mpaa": "R",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Михо Аракава",
+          "Ёсико Икута",
+          "Нодзоми Яманэ",
+          "Дзюнъити Сувабэ",
+          "Джейми Марчи",
+          "Мицуки Саига",
+          "Кадзутоми Ямамото",
+          "Юи Огура",
+          "Ая Эндо",
+          "Кикуко Иноуэ"
+        ],
+        "directors": [
+          "Кунихико Икухара",
+          "Томохиро Фурукава",
+          "Мицуэ Ямадзаки",
+          "Такао Або",
+          "Синго Канэко",
+          "Аяко Кавано",
+          "Масахиса Коята",
+          "Ёсико Миками",
+          "Кодзи Саваи",
+          "Тоору Такахаси"
+        ],
+        "producers": [
+          "Сатоси Фукао",
+          "Ёхэй Хаяси",
+          "Хаято Канэко",
+          "Норихито Куросава",
+          "Тосихиро Маэда",
+          "Фуми Мацусита",
+          "Такуя Накаяма",
+          "Мари Окамото",
+          "Томоё Уэдзи",
+          "Синобу Ёсинума"
+        ],
+        "writers": [
+          "Такаё Иками",
+          "Кунихико Икухара"
+        ],
+        "composers": [
+          "Юкари Хасимото"
+        ],
+        "editors": [
+          "Сигэру Нисияма"
+        ],
+        "designers": [
+          "Тиэко Накамура"
+        ],
+        "operators": [
+          "Такэо Хагивара"
+        ]
+      }
+    },
+    {
+      "id": "serial-6896",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Космический денди [ТВ-2]",
+      "title_orig": "Space Dandy 2",
+      "other_title": "スペース☆ダンディ 2",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 2,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "818562",
+      "imdb_id": "tt3158246",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2350",
+      "shikimori_id": "23327",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-12-02T22:41:03Z",
+      "updated_at": "2019-11-16T13:51:23Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Космический Денди",
+        "title_en": "Space Dandy",
+        "other_titles": [
+          "Space☆Dandy Second Season"
+        ],
+        "other_titles_en": [
+          "Space Dandy 2nd Season"
+        ],
+        "other_titles_jp": [
+          "スペース☆ダンディ 第2シリーズ"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2014,
+        "tagline": "Space Dandy - He's a dandy guy, in space!",
+        "description": "Денди - пижон, стиляга, бабник и показушник, то есть самый крутой парень ближнего, а заодно и дальнего космоса! Он молод, брутален, неотразим и всегда готов к приключениям. Но даже супермену надо платить за выпивку, заправлять корабль и чинить древнего робота QT. Без транспорта и помощника нельзя охотиться на редкие формы разумной жизни, а неизвестных видов во Вселенной с каждым годом все меньше. Охотник Денди, конечно, талантливый, но повелитель мрачной Гогольской империи считает, что его личный враг способен на большее!",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/818562.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/fb72065b7b6948ea599eb682d7da471d90c64d53.jpg",
+          "https://shikimori.one/system/screenshots/original/009c7887d82ca07c09da330d8aca10da84b9a2b3.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Космос",
+          "Фантастика"
+        ],
+        "anime_studios": [
+          "Bones"
+        ],
+        "kinopoisk_rating": 7.7,
+        "kinopoisk_votes": 1544,
+        "imdb_rating": 8.1,
+        "imdb_votes": 3300,
+        "shikimori_rating": 8.27,
+        "shikimori_votes": 3922,
+        "premiere_world": "2014-01-04",
+        "aired_at": "2014-07-06",
+        "released_at": "2014-09-25",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 13,
+        "episodes_aired": 13,
+        "actors": [
+          "Дзюнъити Сувабэ",
+          "Уки Сатакэ",
+          "Хироюки Ёсино",
+          "Масааки Ядзима",
+          "Хироки Гото",
+          "Унсё Исидзука",
+          "Косукэ Хатакэяма",
+          "Синъя Хамадзоэ",
+          "Юрин",
+          "Канами Сато"
+        ],
+        "directors": [
+          "Синго Нацумэ",
+          "Синъитиро Ватанабэ",
+          "Масахиро Мукаи",
+          "Сатоси Сага",
+          "Хироси Симидзу",
+          "Саё Ямамото",
+          "Чхве Ын-ён",
+          "Хироси Хамадзаки",
+          "Акэми Хаяси",
+          "Тосиаки Кидокоро"
+        ],
+        "producers": [
+          "Гэн Фукунага",
+          "Кэндзи Хамада",
+          "Осаму Хосокава",
+          "Хирофуми Инагаки",
+          "Юкако Иноэ",
+          "Юкихиро Ито",
+          "Кэн Иядоми",
+          "Го Куросава",
+          "Масахико Минами",
+          "Мотоки Мукаити"
+        ],
+        "writers": [
+          "Кимико Уэно",
+          "Кэйко Нобумото",
+          "Даи Сато",
+          "Синъитиро Ватанабэ",
+          "То Эндзё",
+          "Чхве Ын-ён",
+          "Хаяси Мори",
+          "Киётака Осияма",
+          "Масааки Юаса",
+          "Итиро Окоти"
+        ],
+        "designers": [
+          "Рё Коно"
+        ]
+      }
+    },
+    {
       "id": "serial-123",
       "type": "anime-serial",
       "link": "",
@@ -4118,7 +5272,7 @@
         "imdb_rating": 6.5,
         "imdb_votes": 229,
         "shikimori_rating": 7.28,
-        "shikimori_votes": 5846,
+        "shikimori_votes": 5933,
         "premiere_world": "2017-02-25",
         "aired_at": "2017-02-25",
         "rating_mpaa": "PG-13",
@@ -7646,7 +8800,7 @@
           "Production IMS"
         ],
         "shikimori_rating": 6.88,
-        "shikimori_votes": 923,
+        "shikimori_votes": 927,
         "aired_at": "2014-06-26",
         "rating_mpaa": "PG-13",
         "episodes_total": 1,
@@ -9264,1087 +10418,6 @@
         ],
         "operators": [
           "Тосиаки Аосима"
-        ]
-      }
-    },
-    {
-      "id": "serial-6905",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Не проиграю! [ТВ-2]",
-      "title_orig": "Maken-ki! Two",
-      "other_title": "Макен-Ки! / Макен-Ки! (второй сезон)",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 2,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "kinopoisk_id": "683889",
-      "imdb_id": "tt3692198",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1093",
-      "shikimori_id": "15565",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-02T23:00:50Z",
-      "updated_at": "2019-11-15T12:28:35Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Макен-Ки!",
-        "title_en": "Maken-ki!",
-        "other_titles": [
-          "Не проиграю! 2",
-          "Maken-Ki! Dai 2-ki",
-          "Maken-Ki! 2",
-          "Maken-Ki! Second Season",
-          "Maken-Ki! 2nd Season"
-        ],
-        "other_titles_en": [
-          "Maken-Ki! Two"
-        ],
-        "other_titles_jp": [
-          "マケン姫っ！通"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2011,
-        "description": "Такэру Ояма провел три года средней школы в мужском интернате и, конечно же, истосковался по прекрасному полу. Потому он без сомнений записался в академию «Солнечная» - тоже интернат, только женский, в котором лишь сейчас разрешили совместное обучение. Другим плюсом было то, что там училась на год старше Харуко Амая - не только подруга детства, но и «сестра» по клубу карате, от которой Такэру ожидал совета и помощи в новом волнующем мире, где уже видел себя первым парнем на деревне. Озабоченный определёнными мыслями Такэру упустил из вида одну маленькую деталь - «Солнечная» была основана как школа магии и боевых искусств.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/683889.jpg",
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Боевые искусства",
-          "Гарем",
-          "Супер сила",
-          "Школа",
-          "Экшен",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Xebec"
-        ],
-        "kinopoisk_rating": 5.9,
-        "kinopoisk_votes": 579,
-        "imdb_rating": 6.2,
-        "imdb_votes": 293,
-        "shikimori_rating": 6.18,
-        "shikimori_votes": 3120,
-        "premiere_world": "2011-10-05",
-        "aired_at": "2014-01-16",
-        "released_at": "2014-03-20",
-        "rating_mpaa": "R+",
-        "episodes_total": 10,
-        "episodes_aired": 10,
-        "actors": [
-          "Норико Ситая",
-          "Томоаки Маэно",
-          "Хитоми Харада",
-          "Иори Номидзу",
-          "Макото Ясумура",
-          "Мисудзу Тогаси",
-          "Сатоси Цуруока",
-          "Саюри Яаги",
-          "Ацуси Имаруока",
-          "Ая Года"
-        ],
-        "directors": [
-          "Коити Охата"
-        ],
-        "writers": [
-          "Ясунори Ямада"
-        ]
-      }
-    },
-    {
-      "id": "serial-5635",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Двуличная сестрёнка Умару [ТВ-2]",
-      "title_orig": "Himouto! Umaru-chan R",
-      "other_title": "Двуличная сестрёнка Умару! 2",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 2,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "934104",
-      "imdb_id": "tt5059866",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9232",
-      "shikimori_id": "35376",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-05T16:16:53Z",
-      "updated_at": "2019-11-15T12:27:17Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Двуличная сестренка Умару!",
-        "title_en": "Himouto! Umaruchan",
-        "other_titles": [
-          "Himouto! Umaru-chan 2nd Season",
-          "My Two-Faced Little Sister R"
-        ],
-        "other_titles_jp": [
-          "干物妹！うまるちゃんR"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2015,
-        "description": "Красивая и популярная 16-летняя девушка Умара живёт со старшим братом Тайхэем. Замечательная сестра с добрым сердцем, интеллигентная отличница, которой восхищается каждый. Но кто бы мог подумать, что у себя дома Умару становится совсем другой? Сон, игры, телевизор, фастфуд, кола — это близкие друзья Умару в домашних условиях, с которыми она всласть развлекается, сгружая бытовые проблемы на брата. При этом девушка так хорошо маскируется, что, когда однажды её одноклассник приходит в гости, то слегка удивляется истинной сущности Умару. Тайхэя всегда беспокоила эта удивительная двуличность Умару, но как можно ненавидеть такую милую и смешную сестренку? Правильно — никак!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/934104.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/ba1e7cd0973e02c0a7056ff983aa9cb5295d08aa.png",
-          "https://shikimori.one/system/screenshots/original/56f44a7dacbf67c8dac0e5f364a6ebf308eae378.png"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность",
-          "Сейнен",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Doga Kobo"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 3456,
-        "imdb_rating": 7,
-        "imdb_votes": 1055,
-        "shikimori_rating": 7.35,
-        "shikimori_votes": 8576,
-        "premiere_world": "2015-07-09",
-        "aired_at": "2017-10-08",
-        "released_at": "2017-12-24",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Аими Танака",
-          "Акари Кагэяма",
-          "Харука Сираиси",
-          "Юрина Фурукава",
-          "Кэндзи Нодзима",
-          "Химика Аканэя",
-          "Хироки Маэда",
-          "Икуто Канэмаса",
-          "Хироки Ясумото",
-          "Рэна Маэда"
-        ],
-        "directors": [
-          "Масахико Ота",
-          "Сёго Араи",
-          "Киёси Фукумото",
-          "Гэйсэй Морита",
-          "Тацуя Нокимори",
-          "Кэнъити Имаидзуми",
-          "Каору Ябана",
-          "Такахару Окума"
-        ],
-        "producers": [
-          "Ёсихиро Фурусава",
-          "Син Хиэда",
-          "Хадзимэ Камата",
-          "Тэцуо Мотояси",
-          "Ёсукэ Накамура",
-          "Кацухиро Такэи"
-        ],
-        "writers": [
-          "Такаси Аосима",
-          "Такамицу Коно",
-          "Хидэаки Коясу",
-          "Кэндзи Сугихара"
-        ],
-        "composers": [
-          "Ясухиро Мисава"
-        ],
-        "editors": [
-          "Эми Онодэра"
-        ],
-        "designers": [
-          "Юки Икэноэ"
-        ],
-        "operators": [
-          "Такафуми Кувано"
-        ]
-      }
-    },
-    {
-      "id": "serial-5632",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Двуличная сестренка Умару!",
-      "title_orig": "Himouto! Umaru-chan SP",
-      "other_title": "Двуличная сестрёнка Умару! S / Himouto! Umaru-chanS",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "shikimori_id": "31234",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-05T16:12:16Z",
-      "updated_at": "2019-11-15T12:25:51Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Двуличная сестрёнка Умару! S",
-        "title_en": "Himouto! Umaru-chanS",
-        "other_titles": [
-          "My Two-Faced Little Sister S",
-          "Himouto Umaruchan S",
-          "Himouto! Umaru-chan S"
-        ],
-        "other_titles_en": [
-          "Himouto! Umaru-chanS"
-        ],
-        "other_titles_jp": [
-          "ミニアニメ『ひもうと！うまるちゃんS』"
-        ],
-        "anime_kind": "special",
-        "anime_status": "released",
-        "description": "Двенадцать коротких эпизодов оригинального аниме-сериала «», выпущенные на DVD и Blu-Ray дисках.",
-        "poster_url": "https://shikimori.one/system/animes/original/31234.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/031fb8c50a44e5e2f25e7a0061fba636e9b17b1b.jpg",
-          "https://shikimori.one/system/screenshots/original/425397808110c6119f917aae9be8efd0edd3c500.jpg"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность",
-          "Сейнен"
-        ],
-        "anime_studios": [
-          "Doga Kobo"
-        ],
-        "shikimori_rating": 6.96,
-        "shikimori_votes": 2579,
-        "aired_at": "2015-09-16",
-        "released_at": "2016-02-17",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 11
-      }
-    },
-    {
-      "id": "serial-5634",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Двуличная сестрёнка Умару [ТВ-1]",
-      "title_orig": "Himouto! Umaru-chan",
-      "other_title": "干物妹! うまるちゃん",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "934104",
-      "imdb_id": "tt5059866",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8287",
-      "shikimori_id": "28825",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-05T16:14:33Z",
-      "updated_at": "2019-11-15T12:24:33Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Двуличная сестренка Умару!",
-        "title_en": "Himouto! Umaruchan",
-        "other_titles": [
-          "My Two-Faced Little Sister"
-        ],
-        "other_titles_en": [
-          "Himouto! Umaru-chan"
-        ],
-        "other_titles_jp": [
-          "干物妹！うまるちゃん"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2015,
-        "description": "Красивая и популярная 16-летняя девушка Умара живёт со старшим братом Тайхэем. Замечательная сестра с добрым сердцем, интеллигентная отличница, которой восхищается каждый. Но кто бы мог подумать, что у себя дома Умару становится совсем другой? Сон, игры, телевизор, фастфуд, кола — это близкие друзья Умару в домашних условиях, с которыми она всласть развлекается, сгружая бытовые проблемы на брата. При этом девушка так хорошо маскируется, что, когда однажды её одноклассник приходит в гости, то слегка удивляется истинной сущности Умару. Тайхэя всегда беспокоила эта удивительная двуличность Умару, но как можно ненавидеть такую милую и смешную сестренку? Правильно — никак!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/934104.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/bd5f0fcf95b6514f1b59cdb5548b7489c805845e.jpg",
-          "https://shikimori.one/system/screenshots/original/73ade06375b4c2f2f1f2cd16f7f6d58c3e669fce.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность",
-          "Сейнен",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Doga Kobo"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 3456,
-        "imdb_rating": 7,
-        "imdb_votes": 1055,
-        "shikimori_rating": 7.18,
-        "shikimori_votes": 20980,
-        "premiere_world": "2015-07-09",
-        "aired_at": "2015-07-09",
-        "released_at": "2015-09-24",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Аими Танака",
-          "Акари Кагэяма",
-          "Харука Сираиси",
-          "Юрина Фурукава",
-          "Кэндзи Нодзима",
-          "Химика Аканэя",
-          "Хироки Маэда",
-          "Икуто Канэмаса",
-          "Хироки Ясумото",
-          "Рэна Маэда"
-        ],
-        "directors": [
-          "Масахико Ота",
-          "Сёго Араи",
-          "Киёси Фукумото",
-          "Гэйсэй Морита",
-          "Тацуя Нокимори",
-          "Кэнъити Имаидзуми",
-          "Каору Ябана",
-          "Такахару Окума"
-        ],
-        "producers": [
-          "Ёсихиро Фурусава",
-          "Син Хиэда",
-          "Хадзимэ Камата",
-          "Тэцуо Мотояси",
-          "Ёсукэ Накамура",
-          "Кацухиро Такэи"
-        ],
-        "writers": [
-          "Такаси Аосима",
-          "Такамицу Коно",
-          "Хидэаки Коясу",
-          "Кэндзи Сугихара"
-        ],
-        "composers": [
-          "Ясухиро Мисава"
-        ],
-        "editors": [
-          "Эми Онодэра"
-        ],
-        "designers": [
-          "Юки Икэноэ"
-        ],
-        "operators": [
-          "Такафуми Кувано"
-        ]
-      }
-    },
-    {
-      "id": "serial-3635",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Эроманга-сенсей",
-      "title_orig": "Eromanga Sensei",
-      "other_title": "Эроманга-сэнсэй",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1046522",
-      "imdb_id": "tt6783056",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8965",
-      "shikimori_id": "32901",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-04-12T19:23:57Z",
-      "updated_at": "2019-11-15T12:23:01Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Эроманга-сэнсэй",
-        "title_en": "Eromanga Sensei",
-        "other_titles_en": [
-          "Eromanga Sensei"
-        ],
-        "other_titles_jp": [
-          "エロマンガ先生"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2017,
-        "description": "Масамунэ Идзуми оказался в весьма непростой ситуации. Ему всего 15 лет, а на него уже свалилось столько жизненных тягот: нужно ходить в школу, делать уроки, содержать дом, да ещё и ухаживать за младшей сестрой Сагири. И всё это без помощи родителей! Проблема в том, что Масамунэ не видел лица своей сестры с того самого момента, как она переехала к нему в дом. 12-летняя Сагири - настоящая хикикомори, она покидает комнату лишь в крайних случаях, а из дома не выходит и вовсе. Парню приходится подрабатывать, чтобы хоть как-то выживать в этом сложном мире. У него хорошо подвешен язык, и поэтому он пишет рассказы. Рисовать Масамунэ не умеет, а потому пользуется услугами некого Эроманги-сенсея, который помогает ему оформлять истории в мангу. Никто не знает личность Эроманги, но однажды иллюстратор решает провести прямой эфир для поклонников.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1046522.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/b54795eb7bc6c49da38f9e59cc790938ac74f131.png",
-          "https://shikimori.one/system/screenshots/original/8d2e0b6698b4d6ad07da78674b854f6f9df36d93.png"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Комедия",
-          "Романтика",
-          "Этти"
-        ],
-        "anime_studios": [
-          "A-1 Pictures"
-        ],
-        "kinopoisk_rating": 6.1,
-        "kinopoisk_votes": 1152,
-        "imdb_rating": 5.4,
-        "imdb_votes": 983,
-        "shikimori_rating": 6.52,
-        "shikimori_votes": 22735,
-        "premiere_world": "2017-04-09",
-        "aired_at": "2017-04-09",
-        "released_at": "2017-06-25",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Ёсицугу Мацуока",
-          "Аканэ Фудзита",
-          "Юи Исикава",
-          "Ибуки Кидо",
-          "Саори Оониси"
-        ],
-        "directors": [
-          "Рёхэи Такэсита",
-          "Кадзуя Монма",
-          "Сатоси Сага",
-          "Хиронори Аояги",
-          "Ютака Кавасаки",
-          "Мацуо Асами",
-          "Сюнсукэ Исикава",
-          "Киётака Охата",
-          "Син Вакабаяси",
-          "Такума Судзуки"
-        ],
-        "producers": [
-          "Синъитиро Касивада"
-        ],
-        "writers": [
-          "Цукаса Фусими",
-          "Тацуя Такахаси",
-          "Го Дзаппа"
-        ],
-        "designers": [
-          "Юкако Огава"
-        ],
-        "operators": [
-          "Тосиаки Аосима"
-        ]
-      }
-    },
-    {
-      "id": "serial-2138",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Сказания Зестирии [ТВ-1]",
-      "title_orig": "Tales of Zestiria The Cross",
-      "other_title": "Сказания Зестирии: Крест",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "1004219",
-      "imdb_id": "tt5861670",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8366",
-      "shikimori_id": "30911",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-01-11T21:28:01Z",
-      "updated_at": "2019-11-15T12:21:06Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Сказания Зестирии: Крест",
-        "title_en": "Tales of Zestiria the X",
-        "other_titles_en": [
-          "Tales of Zestiria the X"
-        ],
-        "other_titles_jp": [
-          "テイルズ オブ ゼスティリア ザ クロス"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2016,
-        "description": "Сорей — человеческий юноша, выросший среди серафимов (это такие волшебные создания, которых обычные люди видеть не могут). Сорей верит в предание, согласно которому «давным-давно любой человек мог видеть серафимов», мечтает раскрыть древнюю тайну и сделать так, чтобы серафимы с людьми могли жить в мире. Однажды Сорей впервые попадает в столицу людей и случайно оказывается связан с цепочкой неких событий, в результате которой вытаскивает из камня священный меч. Таким нехитрым образом он становится Пастырем, который оберегает мир от бед.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1004219.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/3863c77bb1ced1ec4c9351c0c8e171b6f74e5a2e.png",
-          "https://shikimori.one/system/screenshots/original/d93c1e1d1f79d13ee9eeb1625896f3695bd72c82.png"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "боевик",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Магия",
-          "Приключения",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "ufotable"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 459,
-        "imdb_rating": 6.9,
-        "imdb_votes": 634,
-        "shikimori_rating": 7.32,
-        "shikimori_votes": 9616,
-        "premiere_world": "2016-07-10",
-        "aired_at": "2016-07-10",
-        "released_at": "2016-09-25",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Робби Дэймонд",
-          "Майкл Джонстон",
-          "Фелесиа Анджелл",
-          "З. Чарльз Болтон",
-          "Кенни Грин",
-          "Brad Kurtz",
-          "Мэллори Родак",
-          "Микако Комацу",
-          "Алексис Типтон",
-          "Кэрри Керанен"
-        ],
-        "directors": [
-          "Харуо Сотодзаки",
-          "Такуя Нонака",
-          "Такаси Сухара",
-          "Такуро Такахаси",
-          "Масаси Такэути",
-          "Акихико Юда",
-          "Dai Fukuyama",
-          "Такахиро Миура",
-          "Тосиюки Сираи",
-          "Кэи Цунэмацу"
-        ],
-        "producers": [
-          "Кэн Иядоми",
-          "Ёхэй Кисара",
-          "Хикару Кондо",
-          "Tomoko Takehara",
-          "Коитиро Томита"
-        ],
-        "writers": [
-          "Хикару Кондо"
-        ],
-        "composers": [
-          "Мотой Сакураба",
-          "Го Сиина"
-        ],
-        "editors": [
-          "Манабу Камино"
-        ],
-        "designers": [
-          "Min-ji Kim"
-        ],
-        "operators": [
-          "Юити Тэрао"
-        ]
-      }
-    },
-    {
-      "id": "serial-3393",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Отряд Хваран",
-      "title_orig": "Hwarang",
-      "other_title": "Хваран: начало / Отряд «Хваран» / Hwarang: The Beginning / Flowering Knights / Flower Knights: The Beginning",
-      "translation": {
-        "id": 641,
-        "title": "STEPonee",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 20,
-      "episodes_count": 20,
-      "kinopoisk_id": "973053",
-      "imdb_id": "tt5646594",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-03-19T17:48:14Z",
-      "updated_at": "2019-11-15T12:14:01Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Отряд Хваран",
-        "title_en": "Hwarang",
-        "year": 2016,
-        "description": "История об элитном отряде королевства Силла.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/973053.jpg",
-        "duration": 70,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "история",
-          "комедия"
-        ],
-        "kinopoisk_rating": 8.1,
-        "kinopoisk_votes": 11639,
-        "imdb_rating": 8,
-        "imdb_votes": 2202,
-        "premiere_world": "2016-12-19",
-        "actors": [
-          "Пак Со-джун",
-          "Пак Хён-щик",
-          "Ко А-ра",
-          "Минхо",
-          "То Джи-хан",
-          "Ким Тхэ-хён",
-          "Сон Дон-иль",
-          "Чхве Вон-ён",
-          "Ким Джи-су",
-          "Ким Чхан-ван"
-        ],
-        "directors": [
-          "Юн Сон-щик"
-        ],
-        "producers": [
-          "Чхве Джи-ён"
-        ],
-        "writers": [
-          "Пак Ын-ён"
-        ]
-      }
-    },
-    {
-      "id": "movie-45132",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Побег из джунглей",
-      "title_orig": "Xiong chu mo: Yuan shi shi dai",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1209891",
-      "imdb_id": "tt10250750",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-11-15T11:46:33Z",
-      "updated_at": "2019-11-15T11:46:33Z",
-      "material_data": {
-        "title": "Побег из джунглей",
-        "title_en": "Boonie Bears: Blast Into the Past",
-        "year": 2019,
-        "description": "Во время экскурсии в древнюю пещеру медведи Брайр и Брэмбл и их друг-дровосек Вик внезапно оказываются в настоящем доисторическом прошлом. \n\rЧтобы вернуться назад, им придется совершить большое путешествие во времени и пережить невероятные приключения: столкнуться с огромными хищными птицами, гигантскими черепахами и многочисленными неведомыми и опасными обитателями первобытных джунглей. Но главное - найти новых друзей и дорогу домой!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1209891.jpg",
-        "duration": 88,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "комедия",
-          "мультфильм",
-          "фантастика"
-        ],
-        "kinopoisk_rating": 5.9,
-        "kinopoisk_votes": 2171,
-        "imdb_rating": 5.2,
-        "imdb_votes": 123,
-        "premiere_ru": "2019-09-19",
-        "premiere_world": "2019-02-05",
-        "minimal_age": 0,
-        "actors": [
-          "Чжан Вэй",
-          "Чжан Бинцзюнь",
-          "Тань Сяо",
-          "Сун Цзуэр",
-          "Ван Даньцин",
-          "Мэн Юйтянь"
-        ],
-        "directors": [
-          "Линь Хуэйда",
-          "Дин Лян"
-        ],
-        "writers": [
-          "Рэйчел Сюй",
-          "Вань Цинь",
-          "Дин Лян",
-          "Цуй Течжи",
-          "Линь Хуэйда"
-        ],
-        "composers": [
-          "Рок Чэнь"
-        ]
-      }
-    },
-    {
-      "id": "movie-45135",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Операция «Феникс»",
-      "title_orig": "Dai lo oi mei lai",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2004,
-      "kinopoisk_id": "84056",
-      "imdb_id": "tt0407708",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-11-15T11:35:33Z",
-      "updated_at": "2019-11-15T11:35:33Z",
-      "material_data": {
-        "title": "Операция «Феникс»",
-        "title_en": "Dai lo oi mei lai",
-        "year": 2004,
-        "description": "После смерти престарелого босса триады «Красная честь» двое его подручных отправлены в Бангкок с заданием найти блудного сына босса - Джорджи. Но они ошибочно принимают за Джорджи его соседа Сэма, который не торопится исправлять ошибку: он всегда мечтал стать боссом триады. Джорджи соглашается инкогнито поехать с другом в Гонконг...     ",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/84056.jpg",
-        "duration": 104,
-        "countries": [
-          "Гонконг"
-        ],
-        "genres": [
-          "боевик",
-          "комедия"
-        ],
-        "kinopoisk_rating": 6.4,
-        "kinopoisk_votes": 978,
-        "imdb_rating": 5.6,
-        "imdb_votes": 996,
-        "premiere_world": "2004-04-08",
-        "minimal_age": 12,
-        "actors": [
-          "Изон Чан",
-          "Дэниэл Ву",
-          "Карен Мок",
-          "Чэпман То",
-          "Лау Ка-Ин",
-          "Стивен Фун",
-          "Юэнь Бяо",
-          "Джеки Чан",
-          "Брайан Ли",
-          "Хироёси Комуро"
-        ],
-        "directors": [
-          "Стивен Фун"
-        ],
-        "producers": [
-          "Солон Со",
-          "Бенни Чан Чи Шун",
-          "Джеки Чан",
-          "Уилли Чан",
-          "Chi-Kai Lai",
-          "Альберт Юн"
-        ],
-        "writers": [
-          "Стивен Фун",
-          "Энди Ло",
-          "Хелен То"
-        ],
-        "composers": [
-          "Кен Чан",
-          "Комфорт Чан"
-        ],
-        "editors": [
-          "Курран Пан"
-        ],
-        "designers": [
-          "Кеннет Мак",
-          "Конни Ау-Юнг"
-        ],
-        "operators": [
-          "Пун Хан-Сан",
-          "Дейви Цоу"
-        ]
-      }
-    },
-    {
-      "id": "movie-45136",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Тайный агент",
-      "title_orig": "Kap ba ba dik sung",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1995,
-      "kinopoisk_id": "23594",
-      "imdb_id": "tt0113153",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-11-15T11:34:39Z",
-      "updated_at": "2019-11-15T11:34:39Z",
-      "material_data": {
-        "title": "Тайный агент",
-        "title_en": "Kap ba ba dik sung",
-        "year": 1995,
-        "description": "Кунг Вей - самый засекреченный в Китае. Даже его семья не знает, что  их простоватый на вид глава - бесстрашный суперагент, работающий под прикрытием. Его цель - выслеживать и ловить самых опасных преступников, чьи власть и богатство не позволяют закону дотянуться до них обычным образом. Но это не значит, что сам Кунг Вей застрахован от беды.\n\rОднажды, когда герой выдавал себя за бандита, входя в доверие к боссу мафии Гонконга, из-за досадной случайности над ним нависла угроза разоблачения. Если «легенда» лопнет, он окажется один на один с армией гангстеров. И тогда даже такой великолепной боевой машине как он, срочно понадобится помощь...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/23594.jpg",
-        "duration": 104,
-        "countries": [
-          "Гонконг"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "триллер"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 784,
-        "imdb_rating": 6.6,
-        "imdb_votes": 4766,
-        "premiere_world": "1995-02-08",
-        "rating_mpaa": "R",
-        "actors": [
-          "Джет Ли",
-          "Анита Муи",
-          "Се Мяо",
-          "Юй Жунгуан",
-          "Колин Чоу",
-          "Кэн Ло",
-          "Ло Хен-Чоу",
-          "Дэмиэн Лау",
-          "Бонни Фу",
-          "Генри Фун"
-        ],
-        "directors": [
-          "Кори Юэнь"
-        ],
-        "producers": [
-          "Тиффани Чан",
-          "Вон Цзин",
-          "Чарльз Хён",
-          "Джимми Хеунг"
-        ],
-        "writers": [
-          "Сэнди Шоу",
-          "Вон Цзин"
-        ],
-        "composers": [
-          "Марк Лю",
-          "Николас Ривера",
-          "Джеймс Вон"
-        ],
-        "editors": [
-          "Энджи Лам"
-        ],
-        "designers": [
-          "Ширли Чан"
-        ],
-        "operators": [
-          "Том Лау"
         ]
       }
     }

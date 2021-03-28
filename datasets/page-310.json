@@ -1,6 +1,839 @@
 {
   "results": [
     {
+      "id": "movie-23575",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Боец кунг-фу",
+      "title_orig": "Gong Fu Zhan Dou Ji",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2013,
+      "kinopoisk_id": "807690",
+      "imdb_id": "tt3338480",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-05-09T03:42:23Z",
+      "updated_at": "2018-05-09T03:42:23Z",
+      "material_data": {
+        "title": "Боец кунг-фу",
+        "title_en": "Gong Fu Zhan Dou Ji",
+        "year": 2013,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/807690.jpg",
+        "duration": 97,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "боевик",
+          "драма"
+        ],
+        "premiere_world": "2013-11-15",
+        "actors": [
+          "Александр Байли",
+          "Лам Вай"
+        ],
+        "directors": [
+          "Кван Че Чинг"
+        ]
+      }
+    },
+    {
+      "id": "movie-23565",
+      "type": "anime",
+      "link": "",
+      "title": "Синий экзорцист",
+      "title_orig": "Blue Exorcist: The Movie",
+      "other_title": "Gekijouban Ao no Exorcist",
+      "translation": {
+        "id": 827,
+        "title": "Persona99",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "723377",
+      "imdb_id": "tt3028018",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1873",
+      "shikimori_id": "11737",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-05-08T12:58:14Z",
+      "updated_at": "2018-05-08T12:58:14Z",
+      "material_data": {
+        "title": "Синий экзорцист",
+        "title_en": "Gekijouban Ao no Exorcist",
+        "other_titles": [
+          "Ao no Exorcist Gekijouban",
+          "Ao no Futsumashi Movie",
+          "Blue Exorcist Movie"
+        ],
+        "other_titles_en": [
+          "Blue Exorcist The Movie"
+        ],
+        "other_titles_jp": [
+          "劇場版 青の祓魔師（エクソシスト）"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2012,
+        "description": "Юкио, Рин и Сиэми отправляются на задание по уничтожению поезда-призрака, который терроризирует окрестности Тру-Крос-Тауна, похищая души людей, по ошибке севших в него.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/723377.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/fca9557e4326f5b684ea309e783418d40139ac85.jpg",
+          "https://shikimori.one/system/screenshots/original/4e61160a9b2f89baa0255e1a07cf57de5cdfbe1c.jpg"
+        ],
+        "duration": 88,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "приключения"
+        ],
+        "anime_genres": [
+          "Демоны",
+          "Сверхъестественное",
+          "Сёнен",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "A-1 Pictures"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 3401,
+        "imdb_rating": 7.2,
+        "imdb_votes": 1888,
+        "shikimori_rating": 7.65,
+        "shikimori_votes": 13879,
+        "premiere_world": "2012-12-28",
+        "aired_at": "2012-12-28",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Нобухико Окамото",
+          "Дзюн Фукуяма",
+          "Кана Ханадзава",
+          "Кадзуя Накаи",
+          "Кодзи Юса",
+          "Юки Кадзи",
+          "Эри Китамура",
+          "Аяхи Такагаки",
+          "Рина Сато",
+          "Даисукэ Оно"
+        ],
+        "directors": [
+          "Ацуси Такахаси"
+        ],
+        "writers": [
+          "Рэйко Ёсида"
+        ],
+        "composers": [
+          "Хироюки Савано"
+        ],
+        "editors": [
+          "Такэси Сэяма"
+        ],
+        "operators": [
+          "Тору Фукуси"
+        ]
+      }
+    },
+    {
+      "id": "movie-23564",
+      "type": "anime",
+      "link": "",
+      "title": "Синий экзорцист",
+      "title_orig": "Blue Exorcist: The Movie",
+      "other_title": "Gekijouban Ao no Exorcist",
+      "translation": {
+        "id": 610,
+        "title": "AniLibria.TV",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "723377",
+      "imdb_id": "tt3028018",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1873",
+      "shikimori_id": "11737",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-05-08T12:57:35Z",
+      "updated_at": "2018-05-08T12:57:35Z",
+      "material_data": {
+        "title": "Синий экзорцист",
+        "title_en": "Gekijouban Ao no Exorcist",
+        "other_titles": [
+          "Ao no Exorcist Gekijouban",
+          "Ao no Futsumashi Movie",
+          "Blue Exorcist Movie"
+        ],
+        "other_titles_en": [
+          "Blue Exorcist The Movie"
+        ],
+        "other_titles_jp": [
+          "劇場版 青の祓魔師（エクソシスト）"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2012,
+        "description": "Юкио, Рин и Сиэми отправляются на задание по уничтожению поезда-призрака, который терроризирует окрестности Тру-Крос-Тауна, похищая души людей, по ошибке севших в него.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/723377.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/fca9557e4326f5b684ea309e783418d40139ac85.jpg",
+          "https://shikimori.one/system/screenshots/original/4e61160a9b2f89baa0255e1a07cf57de5cdfbe1c.jpg"
+        ],
+        "duration": 88,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "приключения"
+        ],
+        "anime_genres": [
+          "Демоны",
+          "Сверхъестественное",
+          "Сёнен",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "A-1 Pictures"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 3401,
+        "imdb_rating": 7.2,
+        "imdb_votes": 1888,
+        "shikimori_rating": 7.65,
+        "shikimori_votes": 13879,
+        "premiere_world": "2012-12-28",
+        "aired_at": "2012-12-28",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Нобухико Окамото",
+          "Дзюн Фукуяма",
+          "Кана Ханадзава",
+          "Кадзуя Накаи",
+          "Кодзи Юса",
+          "Юки Кадзи",
+          "Эри Китамура",
+          "Аяхи Такагаки",
+          "Рина Сато",
+          "Даисукэ Оно"
+        ],
+        "directors": [
+          "Ацуси Такахаси"
+        ],
+        "writers": [
+          "Рэйко Ёсида"
+        ],
+        "composers": [
+          "Хироюки Савано"
+        ],
+        "editors": [
+          "Такэси Сэяма"
+        ],
+        "operators": [
+          "Тору Фукуси"
+        ]
+      }
+    },
+    {
+      "id": "movie-23563",
+      "type": "anime",
+      "link": "",
+      "title": "Синий экзорцист",
+      "title_orig": "Blue Exorcist: The Movie",
+      "other_title": "Gekijouban Ao no Exorcist",
+      "translation": {
+        "id": 767,
+        "title": "SHIZA Project",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "723377",
+      "imdb_id": "tt3028018",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1873",
+      "shikimori_id": "11737",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-05-08T12:55:49Z",
+      "updated_at": "2018-05-08T12:55:49Z",
+      "material_data": {
+        "title": "Синий экзорцист",
+        "title_en": "Gekijouban Ao no Exorcist",
+        "other_titles": [
+          "Ao no Exorcist Gekijouban",
+          "Ao no Futsumashi Movie",
+          "Blue Exorcist Movie"
+        ],
+        "other_titles_en": [
+          "Blue Exorcist The Movie"
+        ],
+        "other_titles_jp": [
+          "劇場版 青の祓魔師（エクソシスト）"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2012,
+        "description": "Юкио, Рин и Сиэми отправляются на задание по уничтожению поезда-призрака, который терроризирует окрестности Тру-Крос-Тауна, похищая души людей, по ошибке севших в него.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/723377.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/fca9557e4326f5b684ea309e783418d40139ac85.jpg",
+          "https://shikimori.one/system/screenshots/original/4e61160a9b2f89baa0255e1a07cf57de5cdfbe1c.jpg"
+        ],
+        "duration": 88,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "приключения"
+        ],
+        "anime_genres": [
+          "Демоны",
+          "Сверхъестественное",
+          "Сёнен",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "A-1 Pictures"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 3401,
+        "imdb_rating": 7.2,
+        "imdb_votes": 1888,
+        "shikimori_rating": 7.65,
+        "shikimori_votes": 13879,
+        "premiere_world": "2012-12-28",
+        "aired_at": "2012-12-28",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Нобухико Окамото",
+          "Дзюн Фукуяма",
+          "Кана Ханадзава",
+          "Кадзуя Накаи",
+          "Кодзи Юса",
+          "Юки Кадзи",
+          "Эри Китамура",
+          "Аяхи Такагаки",
+          "Рина Сато",
+          "Даисукэ Оно"
+        ],
+        "directors": [
+          "Ацуси Такахаси"
+        ],
+        "writers": [
+          "Рэйко Ёсида"
+        ],
+        "composers": [
+          "Хироюки Савано"
+        ],
+        "editors": [
+          "Такэси Сэяма"
+        ],
+        "operators": [
+          "Тору Фукуси"
+        ]
+      }
+    },
+    {
+      "id": "serial-1727",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "19-2",
+      "title_orig": "19-2",
+      "translation": {
+        "id": 645,
+        "title": "Victory-Films",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 4,
+      "last_episode": 8,
+      "episodes_count": 38,
+      "kinopoisk_id": "818744",
+      "imdb_id": "tt3340712",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2016-11-23T16:30:26Z",
+      "updated_at": "2018-05-08T10:21:39Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+          }
+        },
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+          }
+        },
+        "3": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+          }
+        },
+        "4": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "19-2",
+        "title_en": "19-2",
+        "year": 2014,
+        "description": "История о повседневной жизни двух сотрудников Департамента полиции Монреаля, которые поневоле стали напарниками.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/818744.jpg",
+        "duration": 60,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "драма",
+          "криминал"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 175,
+        "imdb_rating": 8.2,
+        "imdb_votes": 2103,
+        "premiere_world": "2014-01-29",
+        "actors": [
+          "Адриан Холмс",
+          "Джаред Кисо",
+          "Милен Робик",
+          "Бенц Антуан",
+          "Брюс Рэмсей",
+          "Лоранс Лебёф",
+          "Дэн Петрониевич",
+          "Таттиона Джонс",
+          "Максим Рой",
+          "Дженнифер Сегуен"
+        ],
+        "directors": [
+          "Луи Шокетт",
+          "Эрик Канюэль",
+          "Стефан Плещински",
+          "Стурла Гуннарссон",
+          "Дэниэл Гру"
+        ],
+        "producers": [
+          "Saralo MacGregor",
+          "Люк Шатлен",
+          "Вирджиния Ранкин",
+          "Жослин Дешенс",
+          "Брюс М. Смит",
+          "Anne-Marie Léveillé",
+          "Джесси МакКиоун",
+          "Грег Филлипс",
+          "Жози Валли",
+          "Кэролин Ньюман"
+        ],
+        "writers": [
+          "Элисон Лиа Бинджман",
+          "Риал Боссе",
+          "Даниэль Данзеро",
+          "Линн Камм",
+          "Клод Лего",
+          "Джеки Мэй",
+          "Джесси МакКиоун",
+          "Грег Нельсон",
+          "Брюс М. Смит",
+          "Эста Спэлдинг"
+        ],
+        "composers": [
+          "Рейнхольд Хоффманн",
+          "Николас Маранда",
+          "Аль Лукас"
+        ],
+        "editors": [
+          "Иванн Тибодо",
+          "Артур Тарновски",
+          "Энни Илков",
+          "Тереза Де Люка",
+          "Клод Паларди",
+          "Бенжамин Даффилд",
+          "Сьюзэн Мэгги"
+        ],
+        "designers": [
+          "Андре Гимон",
+          "Доминик Дерошер",
+          "Франческа Шамберлан",
+          "Валери Левеск",
+          "Эрик Пурье",
+          "Паскаль Дешенс"
+        ],
+        "operators": [
+          "Tobie Marier-Robitaille",
+          "Рональд Планте"
+        ]
+      }
+    },
+    {
+      "id": "movie-8120",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мисс Пуля",
+      "title_orig": "Miss Bala",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2011,
+      "kinopoisk_id": "588788",
+      "imdb_id": "tt1911600",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-12-14T15:08:01Z",
+      "updated_at": "2018-05-08T07:33:42Z",
+      "material_data": {
+        "title": "Мисс Пуля",
+        "title_en": "Miss Bala",
+        "year": 2011,
+        "tagline": "Don't mess with Family.",
+        "description": "23-летняя Лаура Герреро из приграничного города Тихуана очень хочет принять участие в конкурсе красоты штата Нижняя Калифорния. Вместе с подругой она оказывается в ночном клубе, на который устраивают налёт бандиты, после чего подруга бесследно исчезает. Пытаясь разыскать пропавшую, Лаура обращается за помощью в полицию и попадает в лапы самого влиятельного наркокартеля штата. И теперь в постоянном страхе за жизнь отца и младшего брата девушке приходится выполнять задания главаря банды Лино.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/588788.jpg",
+        "duration": 113,
+        "countries": [
+          "Мексика"
+        ],
+        "genres": [
+          "боевик",
+          "драма",
+          "триллер"
+        ],
+        "kinopoisk_rating": 6.1,
+        "kinopoisk_votes": 700,
+        "imdb_rating": 6.5,
+        "imdb_votes": 8660,
+        "premiere_world": "2011-05-13",
+        "rating_mpaa": "R",
+        "actors": [
+          "Стефани Сигман",
+          "Ноэ Эрнандес",
+          "Хуан Карлос Гальван",
+          "Ирене Асуэла",
+          "Хавьер Сарагоса",
+          "Лакшми Пикасо",
+          "Хосе Йенке",
+          "Джеймс Руссо",
+          "Леонор Викторика",
+          "Габриэль Хидс"
+        ],
+        "directors": [
+          "Херардо Наранхо"
+        ],
+        "producers": [
+          "Пабло Крус",
+          "Гаэль Гарсиа Берналь",
+          "Габриэль Хидс",
+          "Диего Луна",
+          "Ульрих Майер",
+          "Хеминьяно Пинеда",
+          "Viridiana Torres"
+        ],
+        "writers": [
+          "Херардо Наранхо",
+          "Маурисио Кац"
+        ],
+        "composers": [
+          "Эмилио Каудерер"
+        ],
+        "editors": [
+          "Херардо Наранхо"
+        ],
+        "designers": [
+          "Ивонна Фуэнтес",
+          "Ана Террасас",
+          "Lourdes Oyanguren"
+        ],
+        "operators": [
+          "Матьяш Эрдей"
+        ]
+      }
+    },
+    {
+      "id": "movie-23548",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Спасти генерала Яна",
+      "title_orig": "Yang jia jiang",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2013,
+      "kinopoisk_id": "630253",
+      "imdb_id": "tt2072220",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-05-08T06:58:38Z",
+      "updated_at": "2018-05-08T06:58:38Z",
+      "material_data": {
+        "title": "Спасти генерала Яна",
+        "title_en": "Yang jia jiang",
+        "year": 2013,
+        "tagline": "Among 3000 Warriors, a Father and his 7 Sons, none but 1 shall live.",
+        "description": "Во времена династии Сун семья Ян была одним из наиболее влиятельных семейств в китайской империи. Когда генерал Ян в результате предательства попал в ловушку, семь его сыновей отправляются спасать отца.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/630253.jpg",
+        "duration": 102,
+        "countries": [
+          "Гонконг",
+          "Китай"
+        ],
+        "genres": [
+          "военный",
+          "история",
+          "приключения"
+        ],
+        "kinopoisk_rating": 6.5,
+        "kinopoisk_votes": 323,
+        "imdb_rating": 6.4,
+        "imdb_votes": 2548,
+        "premiere_world": "2012-10-26",
+        "actors": [
+          "Сюй Фань",
+          "Адам Чэн",
+          "Экин Чэн",
+          "Бо Юй",
+          "Вик Чоу",
+          "Ли Чэнь",
+          "Рэймонд Лам",
+          "У Чунь",
+          "Фу Синьбо",
+          "Шао Бин"
+        ],
+        "directors": [
+          "Ронни Юй"
+        ],
+        "producers": [
+          "Рэймонд Вон"
+        ],
+        "writers": [
+          "Кэт Ло",
+          "Эдмонд Вон"
+        ],
+        "composers": [
+          "Кэндзи Каваи"
+        ],
+        "editors": [
+          "Дрю Томпсон"
+        ],
+        "operators": [
+          "Чань Чиин"
+        ]
+      }
+    },
+    {
+      "id": "movie-23551",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Призраки чрева",
+      "title_orig": "Ngok toi",
+      "translation": {
+        "id": 680,
+        "title": "den904",
+        "type": "voice"
+      },
+      "year": 2010,
+      "kinopoisk_id": "503847",
+      "imdb_id": "tt1611947",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-05-08T06:53:08Z",
+      "updated_at": "2018-05-08T06:53:08Z",
+      "material_data": {
+        "title": "Призраки чрева",
+        "title_en": "Ngok toi",
+        "year": 2010,
+        "description": "В больнице девушку везут в операционную, у неё уже второй выкидыш. Девушка выживает, а вот младенец нет. Это повторяется уже второй год подряд. Мистическим образом ДНК зародышей оказываются идентичными... Сейчас Винни Шум на третьем месяце беременности и её преследуют странные видения. Станет ли она вместилищем для призрака в этот раз?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/503847.jpg",
+        "duration": 88,
+        "countries": [
+          "Гонконг"
+        ],
+        "genres": [
+          "ужасы"
+        ],
+        "kinopoisk_rating": 5.6,
+        "kinopoisk_votes": 76,
+        "imdb_rating": 4.6,
+        "imdb_votes": 185,
+        "premiere_world": "2010-03-18",
+        "actors": [
+          "Крисси Чау",
+          "Кони Луи",
+          "Лам Сует",
+          "Lok-yi Lai",
+          "Ау Хин-вай",
+          "Хейли Чан",
+          "Эппл Чау",
+          "Джо Кук",
+          "Лаи Чи Вэй",
+          "Дада Ло"
+        ],
+        "directors": [
+          "Дэннис Ло"
+        ],
+        "producers": [
+          "Дэннис Ло"
+        ],
+        "writers": [
+          "Дэннис Ло"
+        ],
+        "composers": [
+          "Томми Вай"
+        ],
+        "editors": [
+          "Яу Чи-вай"
+        ],
+        "designers": [
+          "Алекс Мок",
+          "Суки Ип"
+        ],
+        "operators": [
+          "Эдмонд Фун"
+        ]
+      }
+    },
+    {
+      "id": "movie-23554",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Свой среди чужих, чужой среди своих",
+      "title_orig": "Svoy sredi chuzhikh, chuzhoy sredi svoikh",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1974,
+      "kinopoisk_id": "44062",
+      "imdb_id": "tt0072231",
+      "quality": "HDDVDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-05-08T06:47:44Z",
+      "updated_at": "2018-05-08T06:47:44Z",
+      "material_data": {
+        "title": "Свой среди чужих, чужой среди своих",
+        "title_en": "",
+        "year": 1974,
+        "description": "1920-е годы, маленький город на юге России. Гражданская война закончилась, но до полной победы большевиков ещё далеко. Группа бандитов из бывших белых офицеров грабит поезд с золотом, на которое нужно было купить хлеб для голодающих, и пятеро друзей - бывших красных бойцов - вступают с ними в смертельную схватку. Подозрение в предательстве падает на одного из них, и, сбежав от товарищей, он должен вернуть золото, чтобы доказать свою невиновность.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/44062.jpg",
+        "duration": 93,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "боевик",
+          "драма"
+        ],
+        "kinopoisk_rating": 8,
+        "kinopoisk_votes": 53176,
+        "imdb_rating": 7.6,
+        "imdb_votes": 2691,
+        "premiere_world": "1974-11-11",
+        "minimal_age": 16,
+        "actors": [
+          "Юрий Богатырев",
+          "Александр Кайдановский",
+          "Александр Калягин",
+          "Сергей Шакуров",
+          "Александр Пороховщиков",
+          "Анатолий Солоницын",
+          "Александр Адабашьян",
+          "Николай Засухин",
+          "Николай Пастухов",
+          "Никита Михалков"
+        ],
+        "directors": [
+          "Никита Михалков"
+        ],
+        "writers": [
+          "Никита Михалков",
+          "Эдуард Володарский"
+        ],
+        "composers": [
+          "Эдуард Артемьев"
+        ],
+        "editors": [
+          "Людмила Елян"
+        ],
+        "designers": [
+          "Александр Адабашьян",
+          "Ирина Шретер",
+          "Алина Будникова"
+        ],
+        "operators": [
+          "Павел Лебешев"
+        ]
+      }
+    },
+    {
       "id": "movie-23555",
       "type": "foreign-movie",
       "link": "",
@@ -4341,7 +5174,7 @@
           "фантастика"
         ],
         "imdb_rating": 3.1,
-        "imdb_votes": 450,
+        "imdb_votes": 461,
         "premiere_world": "2017-07-07",
         "minimal_age": 12,
         "actors": [
@@ -6981,11 +7814,12 @@
           "документальный",
           "криминал"
         ],
-        "kinopoisk_rating": 7.5,
-        "kinopoisk_votes": 280,
+        "kinopoisk_rating": 7.6,
+        "kinopoisk_votes": 297,
         "imdb_rating": 7.7,
-        "imdb_votes": 4699,
+        "imdb_votes": 5114,
         "premiere_world": "2018-03-09",
+        "minimal_age": 18,
         "actors": [
           "Juan Almeida",
           "Ludwig Fainberg",
@@ -7384,964 +8218,6 @@
         ],
         "operators": [
           "Вадим Алисов"
-        ]
-      }
-    },
-    {
-      "id": "serial-10210",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Воин-волшебник Луи",
-      "title_orig": "Rune Soldier",
-      "other_title": "Луи солдат руны",
-      "translation": {
-        "id": 827,
-        "title": "Persona99",
-        "type": "voice"
-      },
-      "year": 2000,
-      "last_season": 1,
-      "last_episode": 24,
-      "episodes_count": 24,
-      "kinopoisk_id": "408671",
-      "imdb_id": "tt0995014",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=955",
-      "shikimori_id": "1164",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-03-11T14:10:53Z",
-      "updated_at": "2018-04-22T09:48:14Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Воин-волшебник Луи",
-        "title_en": "Rune Soldier",
-        "other_titles": [
-          "Magical Soldier Louie"
-        ],
-        "other_titles_en": [
-          "Rune Soldier"
-        ],
-        "other_titles_jp": [
-          "魔法戦士リウイ"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2000,
-        "description": "Главный герой Луи - сын ректора Академии при Гильдии Магов и, по совместительству её студент. А так же обаятельный, охочий до женщин и выпивки раздолбай и великолепный кулачный боец. Троим искательницам приключений: жрице Мелиссе, воительнице Джини и воровке Мириэль позарез требовался маг в команду и они случайно встречают Луи. Но выясняется, что Луи хоть и учится на мага, у него куда лучше получаются сражаться голыми руками и подручными средствами. Он постоянно путает заклинания (вместо «усыпления» бывает использует «взрыв») и предпочитает все проблемы решать грубой силой. Искательницы приключений уже были готовы отказаться от его услуг, но случилось невероятное, одной из искательниц, жрице Мелиссе, было откровение от бога, Майри которому она поклоняется, оно гласило, что Луи должен стать её «героем» и она должна постоянно его сопровождать. Теперь Луи были вынуждены принять в команду, и поэтому благодаря нему ещё случится немало неприятных для команды и смешных для зрителя моментов.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/408671.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/ad0c32b1f691c9a3d6ea61255a34a9fc3e05aa7e.jpg",
-          "https://shikimori.one/system/screenshots/original/7ba88ca8d1d20251e8bba0d840b6941bac65ea7c.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Магия",
-          "Приключения",
-          "Сёнен",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "J.C.Staff"
-        ],
-        "kinopoisk_rating": 7,
-        "kinopoisk_votes": 204,
-        "imdb_rating": 7.2,
-        "imdb_votes": 197,
-        "shikimori_rating": 7.17,
-        "shikimori_votes": 689,
-        "premiere_world": "2001-04-03",
-        "aired_at": "2001-04-03",
-        "released_at": "2001-09-18",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 24,
-        "episodes_aired": 0,
-        "actors": [
-          "Кацуюки Конъиси",
-          "Кикуко Иноуэ",
-          "Минами Такаяма",
-          "Томоко Каваками",
-          "Акико Ядзима",
-          "Саюри",
-          "Кодзи Юса",
-          "Рёка Юдзуки",
-          "Мию Мацуки",
-          "Рёко Нагата"
-        ],
-        "directors": [
-          "Наоюки Кудзуя",
-          "Юки Миёси",
-          "Кунитоси Окадзима",
-          "Ёситака Кояма"
-        ],
-        "producers": [
-          "Сэити Хатия",
-          "Kouji Kumode",
-          "Юдзи Мацукура",
-          "Нобухико Сако",
-          "Сунео Судзуки",
-          "Такэси Ясуда",
-          "Хироюки Ёнэмасу",
-          "Юки Миёси"
-        ],
-        "writers": [
-          "Кацухико Тиба",
-          "Рё Мидзуно"
-        ],
-        "composers": [
-          "Кэндзи Каваи"
-        ],
-        "editors": [
-          "Сигэру Нисияма"
-        ],
-        "designers": [
-          "Кэндзи Като"
-        ],
-        "operators": [
-          "Ёхей Судзуки"
-        ]
-      }
-    },
-    {
-      "id": "serial-10223",
-      "type": "russian-serial",
-      "link": "",
-      "title": "Поднятая целина",
-      "title_orig": "Podnyataya tselina",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1960,
-      "last_season": 1,
-      "last_episode": 3,
-      "episodes_count": 3,
-      "kinopoisk_id": "43046",
-      "imdb_id": "tt0141736",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-04-21T16:13:37Z",
-      "updated_at": "2018-04-21T16:13:37Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Поднятая целина",
-        "title_en": "",
-        "year": 1959,
-        "description": "Ленинградский рабочий Давыдов приезжает в казачий хутор Гремячий Лог с целью помочь донскому казачеству перейти к новым, коллективным формам хозяйства. Кулаки умело используют ошибки руководителя местной партийной организации Макара Нагульнова, восстанавливая против него бедняков.\n\rДавыдову удается организовать колхоз. Его метод убеждения явно расходится с принудительными мерами Нагульнова. Однако общая цель — после ряда драматических столкновений — приводит героев к примирению. Действие фильма происходит в тридцатых годах.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/43046.jpg",
-        "duration": 278,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 1619,
-        "imdb_rating": 7.5,
-        "imdb_votes": 62,
-        "premiere_world": "1960-04-27",
-        "minimal_age": 12,
-        "actors": [
-          "Андрей Абрикосов",
-          "Петр Чернов",
-          "Петр Глебов",
-          "Людмила Хитяева",
-          "Леонид Кмит",
-          "Евгений Матвеев",
-          "Долорес Столбова",
-          "Владимир Волчик",
-          "Михаил Васильев",
-          "Николай Юдин"
-        ],
-        "directors": [
-          "Александр Иванов"
-        ],
-        "writers": [
-          "Юрий Лукин",
-          "Федор Шахмагонов",
-          "Михаил Шолохов"
-        ],
-        "composers": [
-          "Олег Каравайчук"
-        ],
-        "designers": [
-          "Николай Суворов",
-          "Абрам Векслер"
-        ],
-        "operators": [
-          "Вячеслав Фастович"
-        ]
-      }
-    },
-    {
-      "id": "serial-8417",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Лагерь на свежем воздухе [ТВ-1]",
-      "title_orig": "Yuru Camp",
-      "other_title": "Девчачий кемпинг / Laid-Back Camp",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1142547",
-      "imdb_id": "tt7742120",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9294",
-      "shikimori_id": "34798",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-01-06T13:48:18Z",
-      "updated_at": "2018-04-21T06:30:01Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Лагерь на свежем воздухе",
-        "title_en": "Yuru Camp",
-        "other_titles": [
-          "Девчачий кемпинг",
-          "Yurukyan"
-        ],
-        "other_titles_en": [
-          "Laid-Back Camp"
-        ],
-        "other_titles_jp": [
-          "ゆるキャン△"
-        ],
-        "anime_license_name": "Уютный поход",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2018,
-        "description": "Рин не первый год приезжает к подножию горы Фудзи. Там, поставив палатку, она живёт прямо в лесу, созерцает открывающийся ей вид и пользуется всеми дарами природы, которые только сможет найти — таково её хобби.\r\nВо время очередной такой поездки происходит судьбоносная встреча с не менее странной и непоседливой девчушкой Надэсико , которая приехала посмотреть на гору, потому что её пейзаж был изображён на купюре значимостью в тысячу иен.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1142547.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/ce49155595fac811ca8009ca116b4ed759ea6e70.jpeg",
-          "https://shikimori.one/system/screenshots/original/fe1172ddcadf055c9e96c75674342caf2fb0dc94.jpeg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность"
-        ],
-        "anime_studios": [
-          "C-Station"
-        ],
-        "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 1227,
-        "imdb_rating": 8,
-        "imdb_votes": 873,
-        "shikimori_rating": 8.27,
-        "shikimori_votes": 7358,
-        "premiere_world": "2018-01-04",
-        "aired_at": "2018-01-04",
-        "released_at": "2018-03-22",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Юмири Ханамори",
-          "Нао Тояма",
-          "Саюри Хара",
-          "Аки Тоёсаки",
-          "Риэ Такахаси",
-          "Акио Оцука",
-          "Марина Иноуэ",
-          "Сидзука Ито",
-          "Каори Мидзухаси",
-          "Рисаэ Мацуда"
-        ],
-        "directors": [
-          "Ёсиаки Кёгоку",
-          "Юта Ямадзаки",
-          "Мисудзу Хосино",
-          "Таро Ивасаки",
-          "Нобухару Каманака",
-          "Синго Канэко",
-          "Тацухико Комацу",
-          "Макото Сокудза",
-          "Яёи Такано",
-          "Каору Ябана"
-        ],
-        "producers": [
-          "Сэйдзи Андо",
-          "Каори Кимура",
-          "Хироюки Кобаяси",
-          "Рёдзи Мару",
-          "Содзи Мияги",
-          "Хидэо Момода",
-          "Такэмаса Окамура",
-          "Сатору Симосато",
-          "Такуми Суги",
-          "Юти Тада"
-        ],
-        "writers": [
-          "Афро",
-          "Дзин Танака",
-          "Мицуми Ито"
-        ],
-        "composers": [
-          "Акиюки Татэяма"
-        ],
-        "editors": [
-          "Масаюки Куросава"
-        ],
-        "designers": [
-          "Ёсими Умино"
-        ],
-        "operators": [
-          "Хироаки Танака"
-        ]
-      }
-    },
-    {
-      "id": "serial-8687",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Марш смерти в рапсодию параллельного мира",
-      "title_orig": "Death March kara Hajimaru Isekai Kyousoukyoku",
-      "other_title": "Рапсодия о долгом странствии по иному миру / Death March to the Parallel World Rhapsody",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1111916",
-      "imdb_id": "tt7712706",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9047",
-      "shikimori_id": "34497",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-01-13T14:25:41Z",
-      "updated_at": "2018-04-21T05:47:41Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Марш смерти в рапсодию параллельного мира",
-        "title_en": "Death March kara Hajimaru Isekai Kyousoukyoku",
-        "other_titles": [
-          "Рапсодия о долгом странствии по иному миру"
-        ],
-        "other_titles_en": [
-          "Death March to the Parallel World Rhapsody"
-        ],
-        "other_titles_jp": [
-          "デスマーチからはじまる異世界狂想曲"
-        ],
-        "anime_license_name": "Рапсодия иного мира, что началась с марша смерти",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2018,
-        "description": "Жизнь программиста Итиро Сузуки меняется, когда он попадает в онлайн-игру, где становится 15-летним подростком по имени Сато. Поначалу молодой человек думает, что это сон, но на деле — нет. Кроме того Сато настолько силен, что легко уничтожает врагов. Поэтому, как бы ни мечтал Итиро о спокойной жизни в компании новых друзей, развитие игры и Король Демонов в частности встают у него на пути.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1111916.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/b62ffd2733d2e21b3ffbcf2f097bd2053bcb6eeb.jpg",
-          "https://shikimori.one/system/screenshots/original/02028c111f75189435e45374ad71ea4c6a871680.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Приключения",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "SILVER LINK.",
-          "Connect"
-        ],
-        "kinopoisk_rating": 6.4,
-        "kinopoisk_votes": 2725,
-        "imdb_rating": 6.6,
-        "imdb_votes": 1155,
-        "shikimori_rating": 6.54,
-        "shikimori_votes": 17887,
-        "premiere_world": "2018-01-11",
-        "aired_at": "2018-01-11",
-        "released_at": "2018-03-29",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Джастин Бринер",
-          "Бриттни Карбовски",
-          "Маргарет МакДональд",
-          "Бриттани Лауда",
-          "Минами Цуда",
-          "Моника Риал",
-          "Джули Шилдс",
-          "Тиа Линн Баллард",
-          "Аири Эйно",
-          "Меган Шипман"
-        ],
-        "directors": [
-          "Син Онума"
-        ]
-      }
-    },
-    {
-      "id": "movie-21421",
-      "type": "anime",
-      "link": "",
-      "title": "Мэри и ведьмин цветок",
-      "title_orig": "Meari to majo no hana",
-      "other_title": "Mary and the Witch's Flower",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1008415",
-      "imdb_id": "tt6336356",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9063",
-      "shikimori_id": "34541",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [
-        "RU"
-      ],
-      "created_at": "2018-03-06T16:42:17Z",
-      "updated_at": "2018-04-21T00:56:58Z",
-      "material_data": {
-        "title": "Мэри и ведьмин цветок",
-        "title_en": "Meari to majo no hana",
-        "other_titles_en": [
-          "Mary and the Witch's Flower"
-        ],
-        "other_titles_jp": [
-          "メアリと魔女の花"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2017,
-        "tagline": "From a single lie, everything will change.",
-        "description": "Если в деревне у бабушки нет твоих сверстников, только старики и старушки, любые каникулы могут превратиться в наказание. Сосланная родителями на лето в глухую деревню 10-летняя Мэри каждый день не знает, чем себя занять. Однажды девочка решает проследить за приблудным котом и случайно находит в лесу волшебный цветок. От лепестков этого «ведьмина глаза» простая кухонная метла внезапно оживает и уносит девочку далеко за облака, в самую настоящую школу колдовства и магии. Повстречав местных учителей, Мэри решает выдать себя за новенькую ученицу из могучей колдунской семьи.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1008415.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/c52559aaa2c2b043347591033031bf4deeb07f3f.jpg",
-          "https://shikimori.one/system/screenshots/original/88373b23e4e834a16905c40802b597b1ba6fd6d4.jpg"
-        ],
-        "duration": 102,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Магия",
-          "Приключения",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Studio Ponoc"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 31566,
-        "imdb_rating": 6.8,
-        "imdb_votes": 12259,
-        "shikimori_rating": 7.28,
-        "shikimori_votes": 7718,
-        "premiere_ru": "2018-03-01",
-        "premiere_world": "2017-07-08",
-        "aired_at": "2017-07-08",
-        "rating_mpaa": "PG",
-        "minimal_age": 6,
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Хана Сугисаки",
-          "Рюносукэ Камики",
-          "Юки Амами",
-          "Фумиё Кохината",
-          "Хикари Мицусима",
-          "Дзиро Сато",
-          "Кэнъити Эндо",
-          "Эри Ватанабэ",
-          "Синобу Отакэ",
-          "Икуэ Отани"
-        ],
-        "directors": [
-          "Хиромаса Ёнэбаяси"
-        ],
-        "producers": [
-          "Ёсиаки Нисимура",
-          "Наоя Фудзимаки",
-          "Рёити Фукуяма",
-          "Томоко Хосокава",
-          "Минами Итикава",
-          "Кёхэи Ито",
-          "Наоки Иваса",
-          "Дайсукэ Кадоя",
-          "Сё Оямада",
-          "Сатоко Окубо"
-        ],
-        "writers": [
-          "Мэри Стюарт",
-          "Рико Сакагути",
-          "Хиромаса Ёнэбаяси"
-        ],
-        "composers": [
-          "Такацугу Мурамацу"
-        ],
-        "editors": [
-          "Тосихико Кодзима"
-        ],
-        "designers": [
-          "Томоя Имаи",
-          "Томотака Кубо"
-        ],
-        "operators": [
-          "Тору Фукуси"
-        ]
-      }
-    },
-    {
-      "id": "movie-23126",
-      "type": "anime",
-      "link": "",
-      "title": "Мэри и ведьмин цветок",
-      "title_orig": "Meari to majo no hana",
-      "other_title": "Mary and the Witch's Flower",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1008415",
-      "imdb_id": "tt6336356",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9063",
-      "shikimori_id": "34541",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [
-        "RU"
-      ],
-      "created_at": "2018-04-21T00:54:18Z",
-      "updated_at": "2018-04-21T00:54:18Z",
-      "material_data": {
-        "title": "Мэри и ведьмин цветок",
-        "title_en": "Meari to majo no hana",
-        "other_titles_en": [
-          "Mary and the Witch's Flower"
-        ],
-        "other_titles_jp": [
-          "メアリと魔女の花"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2017,
-        "tagline": "From a single lie, everything will change.",
-        "description": "Если в деревне у бабушки нет твоих сверстников, только старики и старушки, любые каникулы могут превратиться в наказание. Сосланная родителями на лето в глухую деревню 10-летняя Мэри каждый день не знает, чем себя занять. Однажды девочка решает проследить за приблудным котом и случайно находит в лесу волшебный цветок. От лепестков этого «ведьмина глаза» простая кухонная метла внезапно оживает и уносит девочку далеко за облака, в самую настоящую школу колдовства и магии. Повстречав местных учителей, Мэри решает выдать себя за новенькую ученицу из могучей колдунской семьи.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1008415.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/c52559aaa2c2b043347591033031bf4deeb07f3f.jpg",
-          "https://shikimori.one/system/screenshots/original/88373b23e4e834a16905c40802b597b1ba6fd6d4.jpg"
-        ],
-        "duration": 102,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Магия",
-          "Приключения",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Studio Ponoc"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 31566,
-        "imdb_rating": 6.8,
-        "imdb_votes": 12259,
-        "shikimori_rating": 7.28,
-        "shikimori_votes": 7718,
-        "premiere_ru": "2018-03-01",
-        "premiere_world": "2017-07-08",
-        "aired_at": "2017-07-08",
-        "rating_mpaa": "PG",
-        "minimal_age": 6,
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Хана Сугисаки",
-          "Рюносукэ Камики",
-          "Юки Амами",
-          "Фумиё Кохината",
-          "Хикари Мицусима",
-          "Дзиро Сато",
-          "Кэнъити Эндо",
-          "Эри Ватанабэ",
-          "Синобу Отакэ",
-          "Икуэ Отани"
-        ],
-        "directors": [
-          "Хиромаса Ёнэбаяси"
-        ],
-        "producers": [
-          "Ёсиаки Нисимура",
-          "Наоя Фудзимаки",
-          "Рёити Фукуяма",
-          "Томоко Хосокава",
-          "Минами Итикава",
-          "Кёхэи Ито",
-          "Наоки Иваса",
-          "Дайсукэ Кадоя",
-          "Сё Оямада",
-          "Сатоко Окубо"
-        ],
-        "writers": [
-          "Мэри Стюарт",
-          "Рико Сакагути",
-          "Хиромаса Ёнэбаяси"
-        ],
-        "composers": [
-          "Такацугу Мурамацу"
-        ],
-        "editors": [
-          "Тосихико Кодзима"
-        ],
-        "designers": [
-          "Томоя Имаи",
-          "Томотака Кубо"
-        ],
-        "operators": [
-          "Тору Фукуси"
-        ]
-      }
-    },
-    {
-      "id": "movie-23100",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Где-то за пределами тьмы",
-      "title_orig": "Lan tian bai yun",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1048919",
-      "imdb_id": "tt7757028",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-04-20T04:32:34Z",
-      "updated_at": "2018-04-20T04:32:34Z",
-      "material_data": {
-        "title": "Где-то за пределами тьмы",
-        "title_en": "Lan tian bai yun",
-        "year": 2017,
-        "description": "Школьница с пороком сердца убеждает одноклассника помочь ей убить родителей.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1048919.jpg",
-        "duration": 86,
-        "countries": [
-          "Гонконг"
-        ],
-        "genres": [
-          "драма",
-          "криминал",
-          "триллер"
-        ],
-        "imdb_rating": 5.9,
-        "imdb_votes": 125,
-        "premiere_world": "2017-10-15",
-        "actors": [
-          "Стефи Тан",
-          "Рэйчел Люн",
-          "Зено Ку",
-          "Чань Чит-Мань",
-          "Кайл Ли",
-          "Шью Тонг Вонг",
-          "Pui-Yee Bo",
-          "Ian Yim",
-          "Omi Kwong",
-          "Ау Вэй Куэнь"
-        ],
-        "directors": [
-          "Чун Кин-Вай"
-        ],
-        "producers": [
-          "Nicole Chan",
-          "Дерек И"
-        ],
-        "writers": [
-          "Чун Кин-Вай"
-        ],
-        "composers": [
-          "Хидэми Годзё"
-        ],
-        "editors": [
-          "Чун Кин-Вай"
-        ],
-        "designers": [
-          "Альберт Пун"
-        ],
-        "operators": [
-          "Люн Шу Мун"
-        ]
-      }
-    },
-    {
-      "id": "movie-23102",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Смерть онлайн",
-      "title_orig": "Net I Die",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1047706",
-      "imdb_id": "tt7154176",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-04-20T04:24:21Z",
-      "updated_at": "2018-04-20T04:24:21Z",
-      "material_data": {
-        "title": "Смерть онлайн",
-        "title_en": "Net I Die",
-        "year": 2017,
-        "description": "Группа молодых моделей из тайского ютуба решает запустить собственную линию косметики, но в день официальной онлайн-презентации кто-то (или что-то) убивает ведущую в прямом эфире. Это нечто истребляет девчонок одну за другой, оставляя тела с перекорёженными конечностями.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1047706.jpg",
-        "duration": 86,
-        "countries": [
-          "Таиланд"
-        ],
-        "genres": [
-          "триллер",
-          "ужасы"
-        ],
-        "imdb_rating": 3.6,
-        "imdb_votes": 168,
-        "premiere_world": "2017-08-17",
-        "actors": [
-          "Chicha Amatayakul",
-          "Качаи Пич",
-          "Фахкылон Ратсамикхэ",
-          "Клай-Удом Саранторн"
-        ],
-        "directors": [
-          "Виратхам Приди"
-        ],
-        "producers": [
-          "Thanainan Chunvijitra"
-        ]
-      }
-    },
-    {
-      "id": "movie-23083",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Рождественские страшилки",
-      "title_orig": "A Christmas Horror Story",
-      "translation": {
-        "id": 595,
-        "title": "Немахов",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "846808",
-      "imdb_id": "tt3688406",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-04-19T06:04:13Z",
-      "updated_at": "2018-04-19T06:04:13Z",
-      "material_data": {
-        "title": "Рождественские страшилки",
-        "title_en": "A Christmas Horror Story",
-        "year": 2015,
-        "tagline": "You Better Watch Out",
-        "description": "Старшеклассники расследуют загадочное убийство, произошедшее перед новогодними праздниками, семейная пара замечает странное поведение младшего сына после совместной поездки в лес за ёлкой, другую семью преследует рождественский демон Крампус, пока на Северном полюсе Санта отбивается от зомби-эльфов.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/846808.jpg",
-        "duration": 99,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "детектив",
-          "ужасы",
-          "фэнтези"
-        ],
-        "kinopoisk_rating": 5.4,
-        "kinopoisk_votes": 2066,
-        "imdb_rating": 5.7,
-        "imdb_votes": 9461,
-        "premiere_world": "2015-07-20",
-        "minimal_age": 18,
-        "actors": [
-          "Уильям Шетнер",
-          "Джордж Бьюза",
-          "Роб Арчер",
-          "Зои Де Гранд Мезон",
-          "Алекс Озеров",
-          "Шэннон Кук-Чун",
-          "Эми Форсайт",
-          "Джефф Кларк",
-          "Мишель Нолден",
-          "Адриан Холмс"
-        ],
-        "directors": [
-          "Грант Харви",
-          "Стивен Хобан",
-          "Бретт Салливан"
-        ],
-        "producers": [
-          "Стивен Хобан",
-          "Марк Смит",
-          "Эмануэль «Мэнни» Данелон",
-          "Дэвид Хэйтер",
-          "Billy Watson"
-        ],
-        "writers": [
-          "Джеймс Ки",
-          "Сара Ларсен",
-          "Даг Тейлор",
-          "Паскаль Троттье",
-          "Джейсон Фильятро"
-        ],
-        "composers": [
-          "Алекс Хаскин"
-        ],
-        "editors": [
-          "Бретт Салливан",
-          "Д. Джиллиан Трастер"
-        ],
-        "designers": [
-          "Тим Бидер",
-          "Стефани Коллинз",
-          "Mike Maxwell",
-          "Бренда Броер",
-          "Джо Сьюзин"
-        ],
-        "operators": [
-          "Гэвин Смит"
         ]
       }
     }

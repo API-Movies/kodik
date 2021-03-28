@@ -1,6 +1,936 @@
 {
   "results": [
     {
+      "id": "movie-31695",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Стекло",
+      "title_orig": "Glass",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "942674",
+      "imdb_id": "tt5144236",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-21T07:57:12Z",
+      "updated_at": "2019-02-01T06:53:09Z",
+      "material_data": {
+        "title": "Glass",
+        "title_en": "",
+        "year": 2015,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/942674.jpg",
+        "duration": 77,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "криминал",
+          "триллер",
+          "ужасы"
+        ],
+        "actors": [
+          "Джейсон Бодуан",
+          "Лесли Браунли",
+          "Патрик Карр",
+          "Tirra Dent",
+          "Стефани Дик",
+          "Бенжамин Хэнсон",
+          "Кэйси Мандерсон",
+          "Cynnamon Schreinert"
+        ],
+        "directors": [
+          "Винс Д’Амато"
+        ],
+        "producers": [
+          "James Morin",
+          "Роб Карпентер",
+          "Винс Д’Амато"
+        ],
+        "writers": [
+          "Винс Д’Амато"
+        ],
+        "composers": [
+          "Мики Ивл"
+        ],
+        "editors": [
+          "Винс Д’Амато"
+        ],
+        "operators": [
+          "Patrick Meehan"
+        ]
+      }
+    },
+    {
+      "id": "movie-29158",
+      "type": "foreign-cartoon",
+      "link": "",
+      "title": "Эллиот",
+      "title_orig": "Elliot the Littlest Reindeer",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1009959",
+      "imdb_id": "tt4177856",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-12-04T15:17:15Z",
+      "updated_at": "2019-02-01T06:16:52Z",
+      "material_data": {
+        "title": "Эллиот",
+        "title_en": "Elliot the Littlest Reindeer",
+        "year": 2018,
+        "tagline": "Самый маленький олень Санты",
+        "description": "Знакомьтесь: Эллиот - маленькая лошадка с большой мечтой. Ему так хочется занять место одного из северных оленей в упряжке Санты и дарить детям радость! У него есть всего 3 дня, чтобы доказать окружающим, что он достоин стать одним из них,  даже если рогами не вышел! Ведь если чего-то хочешь по-настоящему, то чудеса случаются непременно!",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1009959.jpg",
+        "duration": 89,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "мультфильм",
+          "семейный"
+        ],
+        "kinopoisk_rating": 5.5,
+        "kinopoisk_votes": 2564,
+        "imdb_rating": 5.1,
+        "imdb_votes": 844,
+        "premiere_ru": "2018-11-29",
+        "premiere_world": "2018-10-19",
+        "rating_mpaa": "PG",
+        "minimal_age": 6,
+        "actors": [
+          "Морена Баккарин",
+          "Джош Хатчерсон",
+          "Джон Клиз",
+          "Мартин Шорт",
+          "Кристофер Жако",
+          "Джин Юн",
+          "Саманта Би",
+          "Джефф Данэм",
+          "Джордж Бьюза",
+          "Роберт Тинклер"
+        ],
+        "directors": [
+          "Дженнифер Весткотт"
+        ],
+        "producers": [
+          "Лукас Линетт-Креч",
+          "Майкл Эмерсон",
+          "Дэн Креч",
+          "Джеки Линетт",
+          "Джейсон Моринг",
+          "Майкл Ф. Сирс",
+          "Victoria Westcott"
+        ],
+        "writers": [
+          "Дженнифер Весткотт"
+        ],
+        "composers": [
+          "Igor Correia",
+          "Роберт Меламед"
+        ],
+        "editors": [
+          "Али Линетт-Креч"
+        ],
+        "designers": [
+          "Наэйм Хавари"
+        ]
+      }
+    },
+    {
+      "id": "serial-13411",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Топ-звезда Ю Бэк",
+      "title_orig": "Topseuta Yubaeki",
+      "other_title": "Суперзвезда Ю Пэк / Top Star Yoo Baek / Top Star U-Back",
+      "translation": {
+        "id": 639,
+        "title": "SoftBox",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 11,
+      "episodes_count": 11,
+      "kinopoisk_id": "1171929",
+      "imdb_id": "tt9159184",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-11-24T12:56:54Z",
+      "updated_at": "2019-01-31T20:49:46Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Топ-звезда Ю Бэк",
+        "title_en": "Topseuta Yoo Baeki",
+        "year": 2018,
+        "description": "Бывший участник айдол-группы Ю Бэк - теперь популярный певец и актер. Парень также довольно эгоцентричен и не считается с чувствами окружающих. Однажды он уезжает отдохнуть на отдаленный остров, где встречает невероятно приветливых и милых людей.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1171929.jpg",
+        "duration": 90,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 7.4,
+        "imdb_votes": 47,
+        "premiere_world": "2018-11-16",
+        "actors": [
+          "Ким Джи-сок",
+          "Чон Со-мин",
+          "Ли Сан-ёп",
+          "Рю Сын-су",
+          "Ли А-хён",
+          "Чон Ын-пхё",
+          "Ли Хан-ви",
+          "Хо Джин",
+          "Сон Бён-сук",
+          "Чон И-ран"
+        ],
+        "directors": [
+          "Ю Хак-чхан"
+        ],
+        "writers": [
+          "Ли Щи-ын",
+          "Ли Со-джон"
+        ]
+      }
+    },
+    {
+      "id": "serial-14426",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Золотая радуга",
+      "title_orig": "Hwanggeum moojigae",
+      "other_title": "The Golden Rainbow / Gold Rainbow",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2013,
+      "last_season": 1,
+      "last_episode": 41,
+      "episodes_count": 41,
+      "kinopoisk_id": "807881",
+      "imdb_id": "tt3362466",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-01-24T16:57:18Z",
+      "updated_at": "2019-01-31T19:59:45Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "21": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "33": "",
+            "34": "",
+            "35": "",
+            "36": "",
+            "37": "",
+            "38": "",
+            "39": "",
+            "40": "",
+            "41": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Золотая радуга",
+        "title_en": "Hwanggeum mujigae",
+        "year": 2013,
+        "description": "История о детях-сиротах, которые ближе друг другу, чем любые другие братья и сестры. Они растут вместе, преодолевая все беды и тяготы жизни.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/807881.jpg",
+        "duration": 80,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "драма",
+          "мелодрама"
+        ],
+        "kinopoisk_rating": 7.4,
+        "kinopoisk_votes": 190,
+        "imdb_rating": 7.6,
+        "imdb_votes": 48,
+        "premiere_world": "2013-11-02",
+        "actors": [
+          "Юи",
+          "Чон Ир-у",
+          "Чха Е-рён",
+          "Ким Сан-джун",
+          "То Джи-вон",
+          "Чо Мин-ги",
+          "Пак Вон-сук",
+          "Чи Су-вон",
+          "Ан Нэ-сан",
+          "Ким Ю-джон"
+        ],
+        "directors": [
+          "Кан Дэ-сон",
+          "Ли Джэ-джин"
+        ],
+        "writers": [
+          "Сон Ён-мок"
+        ]
+      }
+    },
+    {
+      "id": "serial-14635",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Зов крови",
+      "title_orig": "Lost Girl",
+      "translation": {
+        "id": 630,
+        "title": "NewStation",
+        "type": "voice"
+      },
+      "year": 2010,
+      "last_season": 5,
+      "last_episode": 16,
+      "episodes_count": 57,
+      "kinopoisk_id": "463684",
+      "imdb_id": "tt1429449",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-08-29T10:56:44Z",
+      "updated_at": "2019-01-31T17:17:21Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "21": "",
+            "22": ""
+          }
+        },
+        "3": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": ""
+          }
+        },
+        "4": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "6": "",
+            "7": "",
+            "9": ""
+          }
+        },
+        "5": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Зов крови",
+        "title_en": "Lost Girl",
+        "year": 2010,
+        "description": "Бо — суккуб. Выросшая в человеческой семье, она не знала о своей истинной природе, считая себя фриком, а неумение контролировать сверхъестественный голод сделало ее одинокой беглянкой, оставляющей после себя череду трупов. Все меняется, когда Бо попадает в поле зрения кланов Фэйри, объяснивших ей кто она. Не желая выбирать между кланами Света и Тьмы, Бо решает занять сторону людей. Ей помогают юная русская воровка Кензи, детектив-оборотень Дайсон и доктор Лорен, занимающаяся изучением Фэйри.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/463684.jpg",
+        "duration": 43,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "драма",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 8467,
+        "imdb_rating": 7.7,
+        "imdb_votes": 28516,
+        "premiere_ru": "2011-04-12",
+        "premiere_world": "2010-09-12",
+        "minimal_age": 16,
+        "actors": [
+          "Анна Силк",
+          "Кристен Холден-Рид",
+          "Зои Палмер",
+          "Ричард Хоуланд",
+          "Ксения Соло",
+          "К.К. Коллинз",
+          "Рэйчел Скарстен",
+          "Пол Амос",
+          "Эммануэль Вожье",
+          "Винсент Уолш"
+        ],
+        "directors": [
+          "Стив ДиМарко",
+          "Паоло Барзмен",
+          "Рон Мерфи",
+          "Джон Фоусет",
+          "Гэйл Харви",
+          "Ли Роуз",
+          "Роберт Либерман",
+          "Дэвид Грин",
+          "Пол Фокс",
+          "Майрзи Алмас"
+        ],
+        "producers": [
+          "Эмили Андрас",
+          "Джей Файастоун",
+          "Плато Фунтидакис",
+          "Ванесса Пьяцца",
+          "Поль Раповски",
+          "Ванда Чеффи",
+          "Александра Зароуни",
+          "Стефен Кокрейн",
+          "Майкл Грасси",
+          "Венди Грин"
+        ],
+        "writers": [
+          "Мишель Ловеретта",
+          "Стефен Кокрейн",
+          "Debra Chesley",
+          "Дуана Таха",
+          "Сандра Хвялковска",
+          "Lauren Gosnell",
+          "Эмили Андрас",
+          "Сэм Руано",
+          "Александра Зароуни",
+          "Джереми Боксен"
+        ],
+        "composers": [
+          "Бенжамин Пинкертон"
+        ],
+        "editors": [
+          "Пол Дж. Дэй",
+          "Бен Уилкинсон",
+          "Тереза Хэннигэн",
+          "Майк Ли",
+          "Дэйл Гань",
+          "Бретт Салливан",
+          "Венди Халлам Мартин"
+        ],
+        "designers": [
+          "Йен Брок",
+          "Ким Карон",
+          "Кимберли Захарко",
+          "Джон МакНил",
+          "Норин Ландри",
+          "Энн Диксон",
+          "Энди Лоу"
+        ],
+        "operators": [
+          "Дэвид Грин",
+          "Крэйг Райт",
+          "Хоаким Мартин",
+          "Антон Ван Ройен"
+        ]
+      }
+    },
+    {
+      "id": "serial-14627",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "День Д",
+      "title_orig": "Di Dei",
+      "other_title": "День D / D-Day",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2015,
+      "last_season": 1,
+      "last_episode": 20,
+      "episodes_count": 20,
+      "kinopoisk_id": "934138",
+      "imdb_id": "tt5145142",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-01-28T14:19:47Z",
+      "updated_at": "2019-01-31T08:56:04Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "День Д",
+        "title_en": "Di dei",
+        "year": 2015,
+        "description": "Команда медработников и спасателей пытается совладать с катастрофическими последствиями природных катаклизмов, обрушившихся на Сеул.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/934138.jpg",
+        "duration": 65,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "боевик",
+          "драма"
+        ],
+        "kinopoisk_rating": 7.9,
+        "kinopoisk_votes": 482,
+        "imdb_rating": 7.8,
+        "imdb_votes": 190,
+        "premiere_world": "2015-09-18",
+        "actors": [
+          "Ким Ён-гван",
+          "Чон Со-мин",
+          "Ха Сок-чин",
+          "Ким Джон-хва",
+          "Ким Сан-хо",
+          "Ким Хе-ын",
+          "Ли Гён-ён",
+          "Чха Ин-пхё",
+          "Ли Сон-ёль",
+          "Ви Ян-хо"
+        ],
+        "directors": [
+          "Чан Ён-у"
+        ],
+        "writers": [
+          "Хван Ын-гён"
+        ]
+      }
+    },
+    {
+      "id": "movie-31640",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Воин",
+      "title_orig": "Musa",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2001,
+      "kinopoisk_id": "13730",
+      "imdb_id": "tt0275083",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-31T08:02:49Z",
+      "updated_at": "2019-01-31T08:02:49Z",
+      "material_data": {
+        "title": "Воин",
+        "title_en": "Musa",
+        "year": 2001,
+        "tagline": "We must go back to Koryo!",
+        "description": "Конец XIV века. Непримиримая борьба двух династий за власть наводняют китайскую империю реками крови, раздирают убийственными интригами. Захваченную в плен принцессу спасают корейские воины, которым угрожает неотвратимое наказание и страшные испытания: преодоление беспощадной пустыни, атаки разъяренных врагов. Но они должны наперекор воинственным стихиям доставить принцессу императору в целости и сохранности.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/13730.jpg",
+        "duration": 133,
+        "countries": [
+          "Китай",
+          "Корея Южная"
+        ],
+        "genres": [
+          "боевик",
+          "военный",
+          "драма"
+        ],
+        "kinopoisk_rating": 7.6,
+        "kinopoisk_votes": 2848,
+        "imdb_rating": 7.1,
+        "imdb_votes": 10637,
+        "premiere_world": "2001-09-07",
+        "rating_mpaa": "R",
+        "minimal_age": 16,
+        "actors": [
+          "Чон У-сон",
+          "Чу Джин-мо",
+          "Ан Сон-ги",
+          "Чжан Цзыи",
+          "Юй Жунгуан",
+          "Пак Ён-у",
+          "Пак Чон-хак",
+          "Ю Хэ-джин",
+          "Чон Сог-ён",
+          "Ли Ду-иль"
+        ],
+        "directors": [
+          "Ким Сон-су"
+        ],
+        "producers": [
+          "Чха Сын-джэ",
+          "Чжан Ся"
+        ],
+        "writers": [
+          "Ким Сон-су"
+        ],
+        "composers": [
+          "Сиро Сагису"
+        ],
+        "editors": [
+          "Ким Хён"
+        ],
+        "designers": [
+          "Bao-Rong Huang"
+        ],
+        "operators": [
+          "Ким Хён-гу"
+        ]
+      }
+    },
+    {
+      "id": "movie-31645",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Жизнь Ханако Кирюин",
+      "title_orig": "Kiryûin Hanako no shôgai",
+      "translation": {
+        "id": 857,
+        "title": "Воротилин",
+        "type": "voice"
+      },
+      "year": 1982,
+      "kinopoisk_id": "146760",
+      "imdb_id": "tt0163777",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-31T07:47:08Z",
+      "updated_at": "2019-01-31T07:47:08Z",
+      "material_data": {
+        "title": "Жизнь Ханако Кирюин",
+        "title_en": "Kiryûin Hanako no shôgai",
+        "year": 1982,
+        "description": "Фильм рассказывает о судьбе семьи Кирюин, охватывая период с 1918 по 1940 годы. Повествование ведется от имени девушки Мацуэ, еще в дестве удочеренной потомком самурайского рода Масагоро Кирюином, ставшим главой одного из отделений клана якудза, специализирующегося на проституции. Колоритная и неоднозначная личность Масагоро, прозванного Онимасой, и является центральным персонажем, вокруг которого происходят основные драматические и кровавые перипетии сюжета.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/146760.jpg",
+        "duration": 146,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 6.8,
+        "imdb_votes": 397,
+        "premiere_world": "1982-06-05",
+        "actors": [
+          "Тацуя Накадаи",
+          "Масако Нацумэ",
+          "Акико Накамура",
+          "Акико Кана",
+          "Мари Нацуки",
+          "Каори Такасуги",
+          "Эми Синдо",
+          "Рёхэй Утида",
+          "Кацухико Ватабики",
+          "Эитаро Одзава"
+        ],
+        "directors": [
+          "Хидэо Гося"
+        ],
+        "producers": [
+          "Такэси Эндо",
+          "Сигэру Окада",
+          "Горо Кусакабэ",
+          "Масаюки Сато"
+        ],
+        "writers": [
+          "Хидэо Гося",
+          "Томико Мияо",
+          "Кодзи Такада"
+        ],
+        "composers": [
+          "Мицуаки Канно"
+        ],
+        "editors": [
+          "Исаму Итида"
+        ],
+        "designers": [
+          "Ёсинобу Нисиока",
+          "Takashi Matsuda",
+          "Тадао Нисида"
+        ],
+        "operators": [
+          "Фудзио Морита"
+        ]
+      }
+    },
+    {
+      "id": "movie-31627",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Останься со мной",
+      "title_orig": "Deokgu",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1112577",
+      "imdb_id": "tt8383596",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-31T07:35:34Z",
+      "updated_at": "2019-01-31T07:35:34Z",
+      "material_data": {
+        "title": "Останься со мной",
+        "title_en": "Deokgu",
+        "year": 2018,
+        "description": "70-летний дедушка с внуками, 10-летним Ток-ку и 5-летней Ток-хи, живут в деревне. Год назад отец детей умер, а сразу после похорон мать-индонезийка вместе со страховой выплатой пропала на неделю, после чего дед выставил её из дома. Но как бы он ни старался, заменить внукам мать очень тяжело. Когда дед узнаёт, что ему осталось недолго, он решает найти детям семью.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1112577.jpg",
+        "duration": 91,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "драма",
+          "семейный"
+        ],
+        "imdb_rating": 6.7,
+        "imdb_votes": 162,
+        "premiere_world": "2018-04-05",
+        "rating_mpaa": "PG-13",
+        "actors": [
+          "Ли Сун-джэ",
+          "Чон Джи-хун",
+          "Чан Гван",
+          "Сон Бён-сук",
+          "Чха Сун-бэ",
+          "Ким Гван-щик",
+          "Рю Сон-хён",
+          "Хан Бо-бэ",
+          "Чон Ги-соп",
+          "Ким Бён-чхоль"
+        ],
+        "directors": [
+          "Пан Су-ин"
+        ],
+        "writers": [
+          "Пан Су-ин"
+        ],
+        "composers": [
+          "Щим Хён-джон"
+        ],
+        "editors": [
+          "Ким Ми-ён"
+        ],
+        "designers": [
+          "Щин Ю-джин"
+        ],
+        "operators": [
+          "Ким Ён-хын"
+        ]
+      }
+    },
+    {
+      "id": "movie-31618",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Кукла 2",
+      "title_orig": "The Doll 2",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1046258",
+      "imdb_id": "tt6409782",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-30T20:10:53Z",
+      "updated_at": "2019-01-31T07:28:58Z",
+      "material_data": {
+        "title": "Кукла 2",
+        "title_en": "The Doll 2",
+        "year": 2017,
+        "description": "Майра и Альдо живут счастливо и воспитывают милую дочурку Кайлу. К сожалению, из-за несчастного случая маленькая девочка умирает, и ее родители остаются наедине со своим горем. Каждый из них переживает утрату по-своему: отец с головой уходит в работу, а некогда довольная своей судьбой мама постепенно погружается в депрессию. Пустота в доме и душе действует на психику несчастной женщины угнетающе, поэтому, когда через полгода мать начинает ощущать присутствие своего погибшего дитя рядом, то поначалу думает, что у нее галлюцинации.\n\rНо смутное ощущение родной души сопровождается реальными странностями, происходящими вокруг. Двери самостоятельно открываются, начинает работать давно сломанный телевизор. Майра обращается за советом к Эльзе, своей лучшей подруге, и та советует ей использовать любимую куклу дочки для установления контакта с потусторонним миром. Все необходимые действия произведены и сейчас загоревшаяся надеждой мать уверена, что дух ее ребенка находится в игрушке и пытается пообщаться. Она вызывает экстрасенсов, но приехавшие медиумы не спешат радоваться воссоединению семьи и прямо предупреждают о возможной угрозе со стороны обитателей астрала.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1046258.jpg",
+        "duration": 117,
+        "countries": [
+          "Индонезия"
+        ],
+        "genres": [
+          "триллер",
+          "ужасы"
+        ],
+        "imdb_rating": 5.3,
+        "imdb_votes": 429,
+        "premiere_world": "2017-07-20",
+        "actors": [
+          "Herjunot Ali",
+          "Луна Майя",
+          "Сара Виджаянто",
+          "Maria Sabta",
+          "Rydhen Afexi",
+          "Ira Ilva Sari",
+          "Mega Carefansa",
+          "Шофия Ширин",
+          "Wati Sudiyono",
+          "Princess Martinez"
+        ],
+        "directors": [
+          "Роки Сорайя"
+        ],
+        "producers": [
+          "Роки Сорайя",
+          "Mohan Nankani",
+          "Раам Сорайя"
+        ],
+        "writers": [
+          "Riheam Junianti",
+          "Роки Сорайя",
+          "Фаджар Умбара"
+        ],
+        "composers": [
+          "Anto Hoed"
+        ],
+        "editors": [
+          "Sastha Sunu"
+        ],
+        "designers": [
+          "Bayu Dipenogoro",
+          "Hendra R. Janis",
+          "Herjunot Ali"
+        ],
+        "operators": [
+          "Асеп Калила"
+        ]
+      }
+    },
+    {
       "id": "serial-14634",
       "type": "foreign-serial",
       "link": "",
@@ -1383,7 +2313,7 @@
         "title": "Шеф Ким",
         "title_en": "Kim gwajang",
         "year": 2017,
-        "description": "Бывший бухгалтер теперь руководит компанией. Шеф Ким придерживается своих принципов и пытается спасти компанию от упадка, борясь с внутренней коррупцией и безалаберностью.",
+        "description": "Опытный бухгалтер, который работает на бандитов, устраивается в крупную фирму начальником отдела, чтобы присвоить деньги компании.",
         "poster_url": "https://st.kp.yandex.net/images/film_big/1008543.jpg",
         "duration": 60,
         "countries": [
@@ -1393,9 +2323,9 @@
           "драма"
         ],
         "kinopoisk_rating": 7.8,
-        "kinopoisk_votes": 636,
-        "imdb_rating": 7.6,
-        "imdb_votes": 567,
+        "kinopoisk_votes": 662,
+        "imdb_rating": 7.7,
+        "imdb_votes": 582,
         "premiere_world": "2017-01-25",
         "actors": [
           "Намгун Мин",
@@ -5056,8 +5986,8 @@
           "драма",
           "мелодрама"
         ],
-        "imdb_rating": 5.7,
-        "imdb_votes": 120,
+        "imdb_rating": 5.6,
+        "imdb_votes": 130,
         "premiere_world": "2017-10-21",
         "actors": [
           "Юки Сакурай",
@@ -6050,7 +6980,7 @@
           "драма"
         ],
         "imdb_rating": 6.8,
-        "imdb_votes": 2739,
+        "imdb_votes": 2755,
         "premiere_world": "2018-09-27",
         "actors": [
           "Adi Afendi",
@@ -7364,798 +8294,6 @@
         ],
         "writers": [
           "Вэнь Хэ"
-        ]
-      }
-    },
-    {
-      "id": "movie-31031",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Страна",
-      "title_orig": "Mulk",
-      "translation": {
-        "id": 819,
-        "title": "AlphaProject",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1108605",
-      "imdb_id": "tt7618184",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-21T07:18:12Z",
-      "updated_at": "2019-01-21T07:18:12Z",
-      "material_data": {
-        "title": "Страна",
-        "title_en": "Mulk",
-        "year": 2018,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1108605.jpg",
-        "duration": 140,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 6.9,
-        "imdb_votes": 13901,
-        "premiere_world": "2018-08-03",
-        "actors": [
-          "Таапси Панну",
-          "Риши Капур",
-          "Пратик Баббар",
-          "Ашутош Рана",
-          "Нина Гупта",
-          "Ashrut Jain",
-          "Simran Nisha",
-          "Абдул Квадир Амин",
-          "Vinay Ghoshal",
-          "Раджат Капур"
-        ],
-        "directors": [
-          "Анубхав Синха"
-        ],
-        "producers": [
-          "Deepak Mukut",
-          "Анубхав Синха",
-          "Амит Дж. Чаудхари",
-          "Asli Daud",
-          "Aroon Singh Dikky",
-          "Kaleem Khan",
-          "Сагар Ширгаонкар",
-          "Taranng Takrani",
-          "Shilpan Vyas Tinu"
-        ],
-        "writers": [
-          "Mustafa Neemuchwala",
-          "Анубхав Синха"
-        ],
-        "composers": [
-          "Mangesh Dhakde",
-          "Anurag Saikia",
-          "Прасад Сашле"
-        ],
-        "editors": [
-          "Баллу Салуджа"
-        ],
-        "designers": [
-          "Никхил С. Ковале",
-          "Дипика Лал",
-          "Анирудх Сингх"
-        ],
-        "operators": [
-          "Ивэн Маллиган"
-        ]
-      }
-    },
-    {
-      "id": "movie-31024",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Лига кунг-фу",
-      "title_orig": "Gong fu lian meng",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1162782",
-      "imdb_id": "tt9204408",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-20T15:13:28Z",
-      "updated_at": "2019-01-21T07:11:27Z",
-      "material_data": {
-        "title": "Лига кунг-фу",
-        "title_en": "Gong fu lian meng",
-        "year": 2018,
-        "description": "Современный молодой человек случайно призывает из прошлого четырех мастеров кунг-фу. Знаменитый Ип Ман, Вон Фэйхун, литературный персонаж Чен Чжэн и Хо Юаньцзя заставят молодое поколение вспомнить традиционные китайские ценности и научат хорошим манерам.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1162782.jpg",
-        "duration": 102,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "боевик",
-          "фантастика"
-        ],
-        "imdb_rating": 5,
-        "imdb_votes": 458,
-        "premiere_world": "2018-10-26",
-        "actors": [
-          "Винсент Чжао",
-          "Энди Он",
-          "Дэнни Чань",
-          "Дэннис То",
-          "Мадина Мемет",
-          "Чжан Цзывэнь",
-          "Хэ Юньвэй",
-          "Фиби Ван",
-          "Юэнь Кин-Тань",
-          "Люн Ка-Янь"
-        ],
-        "directors": [
-          "Джеффри Лау"
-        ],
-        "writers": [
-          "Джеффри Лау"
-        ],
-        "composers": [
-          "Рок Чэнь"
-        ]
-      }
-    },
-    {
-      "id": "serial-14165",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Альгамбра: Воспоминания о королевстве",
-      "title_orig": "Alhambeura: gungjeoneui chueok",
-      "other_title": "Воспоминания об Альгамбре / Альхамбра: Воспоминания о королевстве / Memories of the Alhambra",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1111081",
-      "imdb_id": "tt8236556",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-01-16T22:40:02Z",
-      "updated_at": "2019-01-20T20:15:07Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Альгамбра: Воспоминания о королевстве",
-        "title_en": "Alhambeura: gungjeoneui chueok",
-        "year": 2018,
-        "description": "У генерального директора инвестиционной компании Ю Джин-у нелегкие времена - он переживает предательство друзей. Поехав в командировку в Испанию, Джин-у останавливается в старом отеле, где начинают происходить загадочные события.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1111081.jpg",
-        "duration": 80,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "мелодрама",
-          "фэнтези"
-        ],
-        "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 1311,
-        "imdb_rating": 7.8,
-        "imdb_votes": 3510,
-        "premiere_world": "2018-12-01",
-        "actors": [
-          "Хён Бин",
-          "Пак Щин-хе",
-          "Хан Бо-рым",
-          "Пак Хун",
-          "Ким И-сон",
-          "Ли Хак-чу",
-          "Пак Чхан-ёль",
-          "Мин Джин-ун",
-          "Ли Сын-джун",
-          "Ли Рэ"
-        ],
-        "directors": [
-          "Ан Гиль-хо"
-        ],
-        "writers": [
-          "Сон Джэ-джон"
-        ],
-        "composers": [
-          "Ким Джун-сок"
-        ]
-      }
-    },
-    {
-      "id": "serial-14280",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Тетрадь мести",
-      "title_orig": "Boksunoteu",
-      "other_title": "Тетрадь мести 2 / Сладкая Месть / Sweet Revenge / Revenge Note / Boksu noteu / Boksoonoteu 2",
-      "translation": {
-        "id": 639,
-        "title": "SoftBox",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 2,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1047639",
-      "imdb_id": "tt9243894",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-01-20T13:51:27Z",
-      "updated_at": "2019-01-20T14:06:59Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Тетрадь мести",
-        "title_en": "Boksunoteu",
-        "year": 2017,
-        "description": "Школьнице в руки попадает волшебная тетрадь, которая устраивает месть тому, чьё имя в неё записать.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1047639.jpg",
-        "duration": 18,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "детектив"
-        ],
-        "imdb_rating": 7.7,
-        "imdb_votes": 74,
-        "premiere_world": "2017-10-27",
-        "actors": [
-          "Ким Хян-ги",
-          "Пак Соломон",
-          "Пак Кён-ним",
-          "Ким Хван-хи",
-          "Ли Джини",
-          "Ким Хён-со",
-          "Чи Гон-у",
-          "Ли Ын-сэм",
-          "О Ю-джин",
-          "Чха Ын-у"
-        ],
-        "directors": [
-          "Со Вон-тхэ",
-          "О Сын-ёль"
-        ],
-        "writers": [
-          "Хан Сан-им",
-          "Ким Джон-сон"
-        ]
-      }
-    },
-    {
-      "id": "serial-14283",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Сияющая На Ра ",
-      "title_orig": "Shining Nara ",
-      "other_title": "Shining Na Ra",
-      "translation": {
-        "id": 640,
-        "title": "Sound-Group",
-        "type": "voice"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "imdb_id": "tt9251348",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-01-20T14:06:39Z",
-      "updated_at": "2019-01-20T14:06:39Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      }
-    },
-    {
-      "id": "serial-14282",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Среда 15:30",
-      "title_orig": "Suyoil ohu 3 si 30 bun",
-      "other_title": "Wednesday 3:30 p.m. / Sooyoil ohoo 3 shi 30 boon / Suyoil Ohusamsibsamsibbun",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2017,
-      "last_season": 1,
-      "last_episode": 16,
-      "episodes_count": 16,
-      "kinopoisk_id": "1047352",
-      "imdb_id": "tt7208348",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-01-20T13:59:56Z",
-      "updated_at": "2019-01-20T13:59:56Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Среда 15:30",
-        "title_en": "Suyoil ohu 3 si 30 bun",
-        "year": 2017,
-        "description": "Чтобы вернуть парня, Ын-у не придумывает лучшего способа, чем заставить его ревновать. Девушка обращается за помощью к другу детства, и они старательно изображают влюблённую парочку, выкладывая фотографии в Instagram.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1047352.jpg",
-        "duration": 30,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 343,
-        "imdb_rating": 7.2,
-        "imdb_votes": 135,
-        "premiere_world": "2017-06-07",
-        "actors": [
-          "Хон Бин",
-          "Чин Ги-джу",
-          "Ан Бо-хён",
-          "Чха Джон-вон"
-        ],
-        "directors": [
-          "Ли Джон-хун"
-        ]
-      }
-    },
-    {
-      "id": "serial-14281",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Пиноккио",
-      "title_orig": "Pinokio",
-      "other_title": "Синдром Пиноккио / Pinocchio",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2014,
-      "last_season": 1,
-      "last_episode": 20,
-      "episodes_count": 20,
-      "kinopoisk_id": "843778",
-      "imdb_id": "tt4201628",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-01-20T13:54:42Z",
-      "updated_at": "2019-01-20T13:54:42Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Пиноккио",
-        "title_en": "Pinokio",
-        "year": 2014,
-        "description": "Чхве Ин-ха страдает синдромом Пиноккио - стоит ей солгать, и у неё начинается икота. Вероятно именно поэтому она решает стать новостным репортером. Ведь репортер, по её мнению, должен говорить только правду. В отличии от неё, Чхве Даль-пхо, живущий под фальшивым именем, считает, что правда не всегда во благо. Но его красноречие и отличная память помогают ему в работе репортера пресс-бюро.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/843778.jpg",
-        "duration": 60,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "детектив",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 8.2,
-        "kinopoisk_votes": 6902,
-        "imdb_rating": 8.1,
-        "imdb_votes": 4798,
-        "premiere_world": "2014-11-11",
-        "minimal_age": 16,
-        "actors": [
-          "Ли Джон-сок",
-          "Пак Щин-хе",
-          "Пён Хи-бон",
-          "Чин Гён",
-          "Кан Щин-иль",
-          "Ким Хэ-сук",
-          "Ким Гван-гю",
-          "Ким Ён-гван",
-          "Ли Джу-сын",
-          "Ли Пхиль-мо"
-        ],
-        "directors": [
-          "Чо Су-вон"
-        ],
-        "producers": [
-          "Чхве Мун-сок"
-        ],
-        "writers": [
-          "Пак Хе-рён"
-        ]
-      }
-    },
-    {
-      "id": "serial-14278",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Горячая девчонка",
-      "title_orig": "Ma la bian xing ji",
-      "other_title": "Телохранители / Spicy Metamorphosis [Mala BianJing Ji] / Hot Girl / The Bodyguards",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 37,
-      "episodes_count": 37,
-      "kinopoisk_id": "1048031",
-      "imdb_id": "tt5074678",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-01-20T13:29:33Z",
-      "updated_at": "2019-01-20T13:29:33Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": "",
-            "26": "",
-            "27": "",
-            "28": "",
-            "29": "",
-            "30": "",
-            "31": "",
-            "32": "",
-            "33": "",
-            "34": "",
-            "35": "",
-            "36": "",
-            "37": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Горячая девчонка",
-        "title_en": "Ma la bian xing ji",
-        "year": 2016,
-        "description": "Гуань Сяоди сильна духом и уверена в своих силах. Поэтому она пошла в школу телохранителей, где ценится выдержка, мужественность и устойчивость к трудностям и стрессам. Девушке предстоит отыскать здесь новых друзей, наткнуться на недоброжелателей, а также проверить себя на прочность.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1048031.jpg",
-        "duration": 45,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "боевик",
-          "мелодрама"
-        ],
-        "imdb_rating": 6.7,
-        "imdb_votes": 35,
-        "premiere_world": "2016-08-04",
-        "actors": [
-          "Дилраба Дилмурат",
-          "Даррен Гросвенор",
-          "Chan Liu",
-          "Шао Бин"
-        ],
-        "directors": [
-          "Юань Сяочао"
-        ]
-      }
-    },
-    {
-      "id": "movie-31016",
-      "type": "anime",
-      "link": "",
-      "title": "Рандеву с жизнью: приговор Маюми",
-      "title_orig": "Gekijouban Dêto a raibu: Mayuri jajjimento",
-      "other_title": "Рандеву с жизнью (фильм) / Gekijouban Date a Live: Mayuri Judgement",
-      "translation": {
-        "id": 767,
-        "title": "SHIZA Project",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "965329",
-      "imdb_id": "tt5331768",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8170",
-      "shikimori_id": "24655",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-01-20T02:10:54Z",
-      "updated_at": "2019-01-20T02:10:54Z",
-      "material_data": {
-        "title": "Рандеву с жизнью: Приговор Маюми",
-        "title_en": "Gekijouban Dêto a raibu: Mayuri jajjimento",
-        "other_titles": [
-          "Gekijouban Date A Live"
-        ],
-        "other_titles_jp": [
-          "劇場版 デート・ア・ライブ 万由里ジャッジメント"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2015,
-        "description": "В фильме речь пойдет всё о том же Шидо , который всё так же старается ходить на свидания с духами. Но, в результате отсутствия внимания по отношению к каждому духу (а любой дух, как и человек, хочет, чтобы Ицука уделял больше внимания именно к нему), появляется некая сфера — отрицательные эмоции духов — которая постепенно увеличивается, каждый раз когда душа расстраивается...\r\nС этого момента и начинаются новые приключения!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/965329.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/12dd68785dc728ee793f41fbc5d535ee40b0ef3d.png",
-          "https://shikimori.one/system/screenshots/original/9e7112c45b93198fecc9327179c24c8e8e6f1b75.png"
-        ],
-        "duration": 72,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Романтика",
-          "Фантастика"
-        ],
-        "anime_studios": [
-          "Production IMS"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 155,
-        "imdb_rating": 6.5,
-        "imdb_votes": 200,
-        "shikimori_rating": 7.37,
-        "shikimori_votes": 7587,
-        "premiere_world": "2015-08-22",
-        "aired_at": "2015-08-22",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Симадзаки Нобунага",
-          "Марина Иноуэ",
-          "Мисудзу Тогаси",
-          "Сора Амамия",
-          "Аяна Такэтацу",
-          "Иори Номидзу",
-          "Асами Санада",
-          "Маая Утида",
-          "Минори Тихара"
-        ],
-        "directors": [
-          "Кэйтаро Мотонага"
-        ]
-      }
-    },
-    {
-      "id": "movie-10038",
-      "type": "anime",
-      "link": "",
-      "title": "Рандеву с жизнью: приговор Маюми",
-      "title_orig": "Gekijouban Dêto a raibu: Mayuri jajjimento",
-      "other_title": "Рандеву с жизнью (фильм) / Gekijouban Date a Live: Mayuri Judgement",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "965329",
-      "imdb_id": "tt5331768",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8170",
-      "shikimori_id": "24655",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2016-09-03T18:25:40Z",
-      "updated_at": "2019-01-20T02:09:04Z",
-      "material_data": {
-        "title": "Рандеву с жизнью: Приговор Маюми",
-        "title_en": "Gekijouban Dêto a raibu: Mayuri jajjimento",
-        "other_titles": [
-          "Gekijouban Date A Live"
-        ],
-        "other_titles_jp": [
-          "劇場版 デート・ア・ライブ 万由里ジャッジメント"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2015,
-        "description": "В фильме речь пойдет всё о том же Шидо , который всё так же старается ходить на свидания с духами. Но, в результате отсутствия внимания по отношению к каждому духу (а любой дух, как и человек, хочет, чтобы Ицука уделял больше внимания именно к нему), появляется некая сфера — отрицательные эмоции духов — которая постепенно увеличивается, каждый раз когда душа расстраивается...\r\nС этого момента и начинаются новые приключения!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/965329.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/12dd68785dc728ee793f41fbc5d535ee40b0ef3d.png",
-          "https://shikimori.one/system/screenshots/original/9e7112c45b93198fecc9327179c24c8e8e6f1b75.png"
-        ],
-        "duration": 72,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Романтика",
-          "Фантастика"
-        ],
-        "anime_studios": [
-          "Production IMS"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 155,
-        "imdb_rating": 6.5,
-        "imdb_votes": 200,
-        "shikimori_rating": 7.37,
-        "shikimori_votes": 7587,
-        "premiere_world": "2015-08-22",
-        "aired_at": "2015-08-22",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Симадзаки Нобунага",
-          "Марина Иноуэ",
-          "Мисудзу Тогаси",
-          "Сора Амамия",
-          "Аяна Такэтацу",
-          "Иори Номидзу",
-          "Асами Санада",
-          "Маая Утида",
-          "Минори Тихара"
-        ],
-        "directors": [
-          "Кэйтаро Мотонага"
         ]
       }
     }
