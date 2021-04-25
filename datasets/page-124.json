@@ -1,6 +1,1456 @@
 {
   "results": [
     {
+      "id": "movie-54715",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Сила закона",
+      "title_orig": "Sachai Ki Taqat",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 1989,
+      "kinopoisk_id": "221888",
+      "imdb_id": "tt0260336",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-01T09:49:52Z",
+      "updated_at": "2020-05-01T21:46:00Z",
+      "material_data": {
+        "title": "Сила закона",
+        "title_en": "Sachai Ki Taqat",
+        "year": 1989,
+        "description": "Всегда и во всем следовать закону - такова жизненная позиция полицейского Хавалдара Рама Сингха. Он никогда не отступает от этого принципа. Он бесстрашен, неподкупен и находчив. Все это помогает ему обнаружить банду торговцев наркотиками...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/221888.jpg",
+        "duration": 137,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "боевик"
+        ],
+        "imdb_rating": 4.8,
+        "imdb_votes": 33,
+        "actors": [
+          "Боб Кристо",
+          "Дхармендра",
+          "Говинда",
+          "Шакти Капур",
+          "Анупам Кхер",
+          "Ашок Кумар",
+          "Ом Шивпури",
+          "Амрита Сингх",
+          "Сонам"
+        ],
+        "directors": [
+          "Татинени Рама Рао"
+        ],
+        "composers": [
+          "Лаксмикант Шантарам Кудалкар",
+          "Пьярелал Рампрасад Шарма"
+        ]
+      }
+    },
+    {
+      "id": "movie-51951",
+      "type": "anime",
+      "link": "",
+      "title": "Сэнкоролл 2",
+      "title_orig": "Cencoroll 2",
+      "other_title": "Сэнкоролл коннект",
+      "translation": {
+        "id": 643,
+        "title": "StudioBand",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "853301",
+      "imdb_id": "tt11007158",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2210",
+      "shikimori_id": "9488",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-03-18T12:45:42Z",
+      "updated_at": "2020-05-01T20:11:42Z",
+      "material_data": {
+        "title": "Сэнкоролл коннект",
+        "title_en": "Cencoroll Connect",
+        "other_titles": [
+          "Cencoroll 2"
+        ],
+        "other_titles_jp": [
+          "センコロール"
+        ],
+        "anime_license_name": "CENCOROLL CONNECT",
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "В один из дней над городом появляется чудовище невероятных размеров, явно не земного происхождения. Служба безопасности оцепляет район, а население с недоумением следит за происходящим. Не удивляет происходящее только Юки и её одноклассника Тэцу, у которого есть своё странное существо Сэнко, умеющее трансформироваться в самые разные вещи. Вскоре они встречают Сю, контролирующего того самого монстра, угрожающего городу, с которым им придётся схлестнуться в жестокой битве.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/853301.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/72b8d27da58db11640ee5b70ddd3a826c266cfef.jpg",
+          "https://shikimori.one/system/screenshots/original/8fabcc318199a804b179bc12d75eddcca47bd672.jpg"
+        ],
+        "duration": 75,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "короткометражка",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Aniplex"
+        ],
+        "imdb_rating": 6.7,
+        "imdb_votes": 79,
+        "shikimori_rating": 7.25,
+        "shikimori_votes": 492,
+        "premiere_world": "2019-06-29",
+        "aired_at": "2019-06-29",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Кана Ханадзава",
+          "Рёхэй Кимура",
+          "Хиро Симоно"
+        ],
+        "directors": [
+          "Ацуя Уки"
+        ],
+        "writers": [
+          "Ацуя Уки"
+        ],
+        "composers": [
+          "Рё"
+        ]
+      }
+    },
+    {
+      "id": "serial-24376",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Слушатели",
+      "title_orig": "Listeners",
+      "other_title": "リスナーズ",
+      "translation": {
+        "id": 1273,
+        "title": "Wakanim.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 5,
+      "episodes_count": 5,
+      "kinopoisk_id": "1353303",
+      "imdb_id": "tt10487750",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10379",
+      "shikimori_id": "40165",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-03T20:50:11Z",
+      "updated_at": "2020-05-01T19:39:31Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Слушатели",
+        "title_en": "Listeners",
+        "other_titles_en": [
+          "Listeners"
+        ],
+        "other_titles_jp": [
+          "LISTENERS リスナーズ"
+        ],
+        "anime_license_name": "Слушатели",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2020,
+        "description": "Добро пожаловать в мир, где не существует привычного понятия музыки. Именно в этом сером и унылом мире будет разворачиваться следующая история: юноша встречает загадочную девушку по имени Мю, у которой на спине... аудиоразъём?! И когда она подключает усилитель к своему телу, происходит необычное — окружающее пространство начинает меняться. Так, ребята вместе отправляются в путешествие по стопам рок-музыки.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1353303.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/42a2695846e3ea10d4e56cbc11b6614334e95c89.png",
+          "https://shikimori.one/system/screenshots/original/ccd163cf77292ac38f4cd3a1e49c899c9f167d37.png"
+        ],
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "музыка",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Меха",
+          "Музыка",
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "MAPPA"
+        ],
+        "imdb_rating": 5.8,
+        "imdb_votes": 85,
+        "shikimori_rating": 5.37,
+        "shikimori_votes": 745,
+        "premiere_world": "2020-04-04",
+        "aired_at": "2020-04-04",
+        "released_at": "2020-06-20",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 0,
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Риэ Такахаси",
+          "Коити Ямадэра",
+          "Кана Ханадзава",
+          "Юити Накамура",
+          "Дзюнъити Сувабэ",
+          "Ацуко Танака",
+          "Риэ Кугимия",
+          "Дзюн Фукуяма",
+          "Аюму Мурасэ",
+          "Хотю Оцука"
+        ],
+        "directors": [
+          "Хироаки Андо"
+        ],
+        "producers": [
+          "Таити Хасимото"
+        ],
+        "writers": [
+          "Даи Сато"
+        ]
+      }
+    },
+    {
+      "id": "movie-54723",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Справочник взрослой жизни",
+      "title_orig": "Eoreundogam",
+      "other_title": "Взрослая жизнь / Adulthood",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1169186",
+      "imdb_id": "tt7391442",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-01T17:35:45Z",
+      "updated_at": "2020-05-01T17:35:45Z",
+      "material_data": {
+        "title": "Справочник взрослой жизни",
+        "title_en": "Eoreundogam",
+        "year": 2018,
+        "description": "На похоронах отца несовершеннолетняя Хван Гён-он впервые встречает родного дядю Хван Джэ-мина. Поскольку других близких родственников у девушки нет, дядя становится её законным опекуном, заполучает страховку брата и исчезает. Гён-он выясняет, что этот прохиндей по уши в долгах и работает жиголо. За неимением других вариантов дохода девушка теперь притворяется дочкой собственного дяди, чтобы помогать ему окучивать состоятельную немолодую вдову.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1169186.jpg",
+        "duration": 92,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "imdb_rating": 6.3,
+        "imdb_votes": 35,
+        "premiere_world": "2018-08-23",
+        "directors": [
+          "Ким Ин-сон"
+        ],
+        "writers": [
+          "Ким Ин-сон"
+        ],
+        "operators": [
+          "Ли У-хён"
+        ]
+      }
+    },
+    {
+      "id": "serial-21458",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Волейбол [ТВ-4, первый сезон]",
+      "title_orig": "Haikyuu!! To the Top",
+      "other_title": "Волейбол!! К вершине / Волейбол!!: К вершине",
+      "translation": {
+        "id": 761,
+        "title": "Onibaku",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 4,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "840073",
+      "imdb_id": "tt3398540",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9936",
+      "shikimori_id": "38883",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-19T23:03:10Z",
+      "updated_at": "2020-05-01T17:32:51Z",
+      "seasons": {
+        "4": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Волейбол!!",
+        "title_en": "Haikyuu!!",
+        "other_titles": [
+          "Волейбол!! 4",
+          "Haikyuu!! (2020)",
+          "Haikyuu!! Fourth Season",
+          "Haikyuu!! 4th Season"
+        ],
+        "other_titles_jp": [
+          "ハイキュー!! TO THE TOP"
+        ],
+        "anime_license_name": "Haikyu!! К вершине",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2014,
+        "description": "Один случайный матч зажёг в Сёе Хинате безумную любовь к волейболу. Хоть в его волейбольном клубе изначально не было даже участников, упорством и стараниями Сёё собравшаяся команда всё-таки прорвалась в свой первый и последний финальный матч в средней школе. Но там она была начисто разгромлена Тобио Кагэямой, известным как Король площадки. Поклявшись отомстить, Хината вступает в клуб волейбола в старшей школе Карасуно... и лицом к лицу сталкивается со своим ненавистным противником Кагэямой.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/840073.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/ad82c40eefd9c0ada01ce210a80ecb7420d7632b.jpg",
+          "https://shikimori.one/system/screenshots/original/c21600b96e6372f80ba1e38067e3127633b91315.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "спорт"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Комедия",
+          "Спорт",
+          "Сёнен",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Production I.G"
+        ],
+        "kinopoisk_rating": 8.2,
+        "kinopoisk_votes": 12675,
+        "imdb_rating": 8.7,
+        "imdb_votes": 12021,
+        "shikimori_rating": 8.37,
+        "shikimori_votes": 12123,
+        "premiere_world": "2014-04-05",
+        "aired_at": "2020-01-11",
+        "released_at": "2020-04-04",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 13,
+        "episodes_aired": 13,
+        "actors": [
+          "Аюму Мурасэ",
+          "Каито Исикава",
+          "Сатоси Хино",
+          "Мию Ирино",
+          "Ю Хаяси",
+          "Коки Утияма",
+          "Сома Саито",
+          "Хироси Камия",
+          "Нобухико Окамото",
+          "Кадзунари Танака"
+        ],
+        "directors": [
+          "Сусуму Мицунака",
+          "Синтаро Итога",
+          "Тэцуаки Ватанабэ",
+          "Томоко Хирамуки",
+          "Синтаро Накадзава",
+          "Юми Камакура",
+          "Марико Исикава",
+          "Ясуо Эдзима",
+          "Эндо Хиротака",
+          "Коити Кикута"
+        ],
+        "producers": [
+          "Эиити Такахаси"
+        ],
+        "writers": [
+          "Харуити Фурудатэ",
+          "Таку Кисимото",
+          "Тосимицу Такэути",
+          "Такуя Сато",
+          "Сусуму Мицунака"
+        ],
+        "composers": [
+          "Юки Хаяси",
+          "Асами Татибана"
+        ],
+        "designers": [
+          "Итиро Тацута"
+        ],
+        "operators": [
+          "Юмико Наката"
+        ]
+      }
+    },
+    {
+      "id": "serial-23607",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Меморист",
+      "title_orig": "Memoriseuteu",
+      "other_title": "Мемуарист / Memorist",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "1338067",
+      "imdb_id": "tt11953100",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-03-12T23:29:24Z",
+      "updated_at": "2020-05-01T15:14:52Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Меморист",
+        "title_en": "Memoriseuteu",
+        "year": 2020,
+        "description": "Детектив со способностью читать мысли людей, прикоснувшись к ним, пытается поймать серийного убийцу.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1338067.jpg",
+        "duration": 60,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "детектив",
+          "криминал",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 7.7,
+        "kinopoisk_votes": 907,
+        "imdb_rating": 7.6,
+        "imdb_votes": 512,
+        "premiere_world": "2020-03-11",
+        "minimal_age": 0,
+        "actors": [
+          "Ю Сын-хо",
+          "Ли Сэ-ён",
+          "Чо Сон-ха",
+          "Ко Чхан-сок",
+          "Чон Хё-сон",
+          "Юн Джи-он",
+          "Сон Гван-оп",
+          "Лим Сэ-джу",
+          "Ким Юн-хи",
+          "Чон Ха-джун"
+        ],
+        "directors": [
+          "Ким Хви",
+          "Со Джэ-хён",
+          "О Сын-ёль"
+        ],
+        "writers": [
+          "Хван Ха-на",
+          "Ан До-ха"
+        ]
+      }
+    },
+    {
+      "id": "serial-17835",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Река грусти",
+      "title_orig": "Bei shang ni liu cheng he",
+      "other_title": "Омут слез печали / Течение чудесного времени / Река скорби / River Flows To You / Cry Me A Sad River",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 52,
+      "episodes_count": 52,
+      "kinopoisk_id": "1273465",
+      "imdb_id": "tt10483772",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-07-30T15:37:10Z",
+      "updated_at": "2020-05-01T15:05:17Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "21": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "33": "",
+            "34": "",
+            "35": "",
+            "36": "",
+            "37": "",
+            "38": "",
+            "39": "",
+            "40": "",
+            "41": "",
+            "42": "",
+            "43": "",
+            "44": "",
+            "45": "",
+            "46": "",
+            "47": "",
+            "48": "",
+            "49": "",
+            "50": "",
+            "51": "",
+            "52": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Река грусти",
+        "title_en": "Bei shang ni liu cheng he",
+        "year": 2019,
+        "description": "Застенчивая старшеклассница И Яо живет с матерью, которая работает в массажном салоне и стыдится своей дочери. Однажды мир девочки рушится – оказывается, что у неё венерическое заболевание. Яо чиста и непорочна, поэтому представить не может, как могла заразиться. Тем временем о её болезни узнает вся школа.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1273465.jpg",
+        "duration": 45,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "драма",
+          "мелодрама"
+        ],
+        "minimal_age": 0,
+        "actors": [
+          "Ма Тяньюй",
+          "Чжэн Шуан",
+          "Чай Биюнь",
+          "Фэн Бо",
+          "Wuya Jun",
+          "Сфинкс Тин",
+          "Чжан Ичи",
+          "Zhizi Zhangyang",
+          "Чжоу Чэнгао",
+          "Чжу Яньманьцзы"
+        ],
+        "directors": [
+          "Hongguang Lin"
+        ],
+        "producers": [
+          "Yexun Wang"
+        ],
+        "writers": [
+          "Лю Чэньгуан",
+          "Лю Фэй",
+          "Ши Ши",
+          "Го Цзинмин"
+        ]
+      }
+    },
+    {
+      "id": "serial-24118",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Добро пожаловать",
+      "title_orig": "Eoseowa",
+      "other_title": "Мяу, таинственный парень / Загадочный парень-мурлыка / Meow, the Secret Boy / Welcome",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1296646",
+      "imdb_id": "tt11968312",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-03-26T12:58:41Z",
+      "updated_at": "2020-05-01T13:46:20Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Добро пожаловать",
+        "title_en": "Eoseowa",
+        "year": 2020,
+        "description": "Девушка берёт к себе жить кота, который умеет превращаться в парня. Необычное животное помогает своей новой хозяйке справляться с трудными жизненными ситуациями.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1296646.jpg",
+        "duration": 35,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 381,
+        "imdb_rating": 7.1,
+        "imdb_votes": 244,
+        "premiere_world": "2020-03-25",
+        "minimal_age": 0,
+        "actors": [
+          "Ким Мён-су",
+          "Щин Е-ын",
+          "Со Джи-хун",
+          "Юн Е-джу",
+          "Кан Хун",
+          "Ан Нэ-сан",
+          "Чо Рён",
+          "Ким Ё-джин",
+          "Чон Бэ-су",
+          "Чон Ин-нён"
+        ],
+        "directors": [
+          "Чи Бён-хён"
+        ],
+        "writers": [
+          "Чу Хва-ми"
+        ]
+      }
+    },
+    {
+      "id": "serial-18377",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Боги",
+      "title_orig": "Feng Shen Yan Yi",
+      "other_title": "The Investiture of the Gods (2019) / The Gods",
+      "translation": {
+        "id": 940,
+        "title": "Phoenixes",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 65,
+      "episodes_count": 65,
+      "imdb_id": "tt10166728",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-09-08T18:38:25Z",
+      "updated_at": "2020-05-01T13:45:11Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "21": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "33": "",
+            "34": "",
+            "35": "",
+            "36": "",
+            "37": "",
+            "38": "",
+            "39": "",
+            "40": "",
+            "41": "",
+            "42": "",
+            "43": "",
+            "44": "",
+            "45": "",
+            "46": "",
+            "47": "",
+            "48": "",
+            "49": "",
+            "50": "",
+            "51": "",
+            "52": "",
+            "53": "",
+            "54": "",
+            "55": "",
+            "56": "",
+            "57": "",
+            "58": "",
+            "59": "",
+            "60": "",
+            "61": "",
+            "62": "",
+            "63": "",
+            "64": "",
+            "65": ""
+          }
+        }
+      }
+    },
+    {
+      "id": "serial-17671",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Боги",
+      "title_orig": "Feng Shen Yan Yi",
+      "other_title": "The Investiture of the Gods (2019) / The Gods",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 65,
+      "episodes_count": 65,
+      "imdb_id": "tt10166728",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-07-20T07:59:03Z",
+      "updated_at": "2020-05-01T13:43:37Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "21": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "33": "",
+            "34": "",
+            "35": "",
+            "36": "",
+            "37": "",
+            "38": "",
+            "39": "",
+            "40": "",
+            "41": "",
+            "42": "",
+            "43": "",
+            "44": "",
+            "45": "",
+            "46": "",
+            "47": "",
+            "48": "",
+            "49": "",
+            "50": "",
+            "51": "",
+            "52": "",
+            "53": "",
+            "54": "",
+            "55": "",
+            "56": "",
+            "57": "",
+            "58": "",
+            "59": "",
+            "60": "",
+            "61": "",
+            "62": "",
+            "63": "",
+            "64": "",
+            "65": ""
+          }
+        }
+      }
+    },
+    {
+      "id": "movie-54721",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Две женщины",
+      "title_orig": "Love, In Between",
+      "other_title": "Ледяной дождь / Du Yeoja",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2010,
+      "imdb_id": "tt1985989",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-01T13:26:03Z",
+      "updated_at": "2020-05-01T13:26:03Z"
+    },
+    {
+      "id": "serial-25325",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Любовь старичка",
+      "title_orig": "Ossan's Love",
+      "other_title": "Ossan's Love (2018)",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 7,
+      "episodes_count": 7,
+      "kinopoisk_id": "1129561",
+      "imdb_id": "tt8295962",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-01T13:09:11Z",
+      "updated_at": "2020-05-01T13:09:11Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Любовь старичка",
+        "title_en": "Ossan's Love",
+        "year": 2018,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1129561.jpg",
+        "duration": 50,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 7.7,
+        "imdb_votes": 380,
+        "premiere_world": "2018-04-21",
+        "actors": [
+          "Кэнто Хаяси",
+          "Хидэкадзу Масима",
+          "Нэнэ Оцука",
+          "Кэи Танака",
+          "Котаро Ёсида",
+          "Даити Канэко"
+        ]
+      }
+    },
+    {
+      "id": "serial-24115",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Добро пожаловать",
+      "title_orig": "Eoseowa",
+      "other_title": "Мяу, таинственный парень / Загадочный парень-мурлыка / Meow, the Secret Boy / Welcome",
+      "translation": {
+        "id": 639,
+        "title": "SoftBox",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1296646",
+      "imdb_id": "tt11968312",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-03-26T10:24:32Z",
+      "updated_at": "2020-05-01T13:02:06Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Добро пожаловать",
+        "title_en": "Eoseowa",
+        "year": 2020,
+        "description": "Девушка берёт к себе жить кота, который умеет превращаться в парня. Необычное животное помогает своей новой хозяйке справляться с трудными жизненными ситуациями.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1296646.jpg",
+        "duration": 35,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 381,
+        "imdb_rating": 7.1,
+        "imdb_votes": 244,
+        "premiere_world": "2020-03-25",
+        "minimal_age": 0,
+        "actors": [
+          "Ким Мён-су",
+          "Щин Е-ын",
+          "Со Джи-хун",
+          "Юн Е-джу",
+          "Кан Хун",
+          "Ан Нэ-сан",
+          "Чо Рён",
+          "Ким Ё-джин",
+          "Чон Бэ-су",
+          "Чон Ин-нён"
+        ],
+        "directors": [
+          "Чи Бён-хён"
+        ],
+        "writers": [
+          "Чу Хва-ми"
+        ]
+      }
+    },
+    {
+      "id": "serial-25316",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Дюрарара!!",
+      "title_orig": "Durarara!!",
+      "other_title": "デュラララ!!",
+      "translation": {
+        "id": 956,
+        "title": "Back Board Cinema",
+        "type": "voice"
+      },
+      "year": 2010,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 26,
+      "kinopoisk_id": "494662",
+      "imdb_id": "tt1584000",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7334",
+      "shikimori_id": "6746",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-01T08:53:42Z",
+      "updated_at": "2020-05-01T12:20:06Z",
+      "seasons": {
+        "0": {
+          "title": "Спешлы",
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": ""
+          }
+        },
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "21": "",
+            "22": "",
+            "23": "",
+            "24": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Дюрарара!!",
+        "title_en": "Durarara!!",
+        "other_titles": [
+          "Всадник без головы",
+          "Dhurarara!!",
+          "Dyurarara!!",
+          "Dulalala!!",
+          "Dullalala!!",
+          "DRRR!!"
+        ],
+        "other_titles_en": [
+          "Durarara!!"
+        ],
+        "other_titles_jp": [
+          "デュラララ!!"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2010,
+        "description": "Микадо Рюгаминэ, несмотря на громкое имя (оно значит «император Горы Дракона») – тихий и скромный парень. До поры до времени он безвылазно жил в столичном предместье, а диким тусовкам и ночным прогулкам предпочитал общение по Интернету. Но герою внезапно захотелось нового – и вот, по совету друга детства, он переводится в старшую школу Рё, что находится в Икебукуро – одном из самых веселых и опасных районов Токио. \n\rПрибыв туда, Микадо словно окунается в иной мир, а старый друг Масаоми, подобно Вергилию, постепенно ведет гостя все глубже по ярусам новой обители… Очень скоро новосел Икебукуро узнаёт, что хочешь жить – умей вертеться, уличные банды уже не шалят по-прежнему, русский негр Саймон – мировой парень, а вот местному хулигану Сидзуо лучше под руку не попадаться. И когда Микадо видит городскую легенду – Всадника-без-Головы, то окончательно понимает, что приехал не зря. Отныне главный герой становится частью большого города, а мы сможем наблюдать за его жизнью и увлекательными приключениями среди школьных друзей, уличных и сетевых бандитов, дилеров черного рынка, сталкеров, маньяков и сверхъестественных существ!",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/494662.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/b5f34140e7674315e4ef722b482a6fc17f6421d9.jpg",
+          "https://shikimori.one/system/screenshots/original/0e78084ad16f89d4c4316576773d2a45af98aaff.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "приключения"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Сверхъестественное",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Brain's Base"
+        ],
+        "kinopoisk_rating": 7.9,
+        "kinopoisk_votes": 8423,
+        "imdb_rating": 7.9,
+        "imdb_votes": 6449,
+        "shikimori_rating": 8.17,
+        "shikimori_votes": 35001,
+        "premiere_world": "2010-01-08",
+        "aired_at": "2010-01-08",
+        "released_at": "2010-06-25",
+        "rating_mpaa": "R",
+        "minimal_age": 0,
+        "episodes_total": 24,
+        "episodes_aired": 24,
+        "actors": [
+          "Хироси Камия",
+          "Тосиюки Тоёнага",
+          "Миюки Савасиро",
+          "Мамору Мияно",
+          "Юити Накамура",
+          "Даисукэ Оно",
+          "Юки Кадзи",
+          "Кана Ханадзава",
+          "Аяхи Такагаки",
+          "Такума Тэрасима"
+        ],
+        "directors": [
+          "Такахиро Омори",
+          "Масая Кавамо",
+          "Масахиса Коята",
+          "Юи Умэмото",
+          "Юки Ясэ",
+          "Макото Баба",
+          "Тэцуо Итимура",
+          "Кадзухидэ Кондо",
+          "Юкихиро Сино",
+          "Такаси Ямамото"
+        ],
+        "writers": [
+          "Рёго Нарита",
+          "Тосидзо Нэмото",
+          "Нобору Такаги",
+          "Аи Ота",
+          "Ая Ёсинага",
+          "Садаюки Мураи"
+        ],
+        "composers": [
+          "Макото Ёсимори"
+        ],
+        "designers": [
+          "Акира Ито"
+        ]
+      }
+    },
+    {
+      "id": "serial-25323",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Голоден!",
+      "title_orig": "Hangurî!",
+      "other_title": "Голодные! / Hungry!",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2012,
+      "last_season": 1,
+      "last_episode": 11,
+      "episodes_count": 11,
+      "kinopoisk_id": "690841",
+      "imdb_id": "tt2120402",
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-01T12:17:58Z",
+      "updated_at": "2020-05-01T12:17:58Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Голоден!",
+        "title_en": "Hangurî!",
+        "year": 2012,
+        "description": "Эйске, бывший басист в рок-группе, отказался от своей мечты стать известным музыкантом, чтобы возглавить семейный французский ресторан. Девушка Эйске – Мария, банковская служащая, шокированная этой новостью, начинает задаваться мыслью: а нужен ли ей теперь такой парень? Но тут появляется новый персонаж – Чие, двадцатилетняя студентка, чья первая встреча с Эйске заканчивается взаимной неприязнью. Но стоило Чие только попробовать блюда, приготовленные Эйске, как всё изменилось. Любовный треугольник! Кого же выберет Эйске?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/690841.jpg",
+        "duration": 54,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 174,
+        "imdb_rating": 7.3,
+        "imdb_votes": 43,
+        "premiere_world": "2012-01-10",
+        "minimal_age": 0,
+        "actors": [
+          "Осаму Мукаи",
+          "Миори Такимото",
+          "Рёко Кунинака",
+          "Горо Инагаки",
+          "Тантан Хаяси",
+          "Хидэо Исигуро",
+          "Хаири Катагири",
+          "Канаме Кавабата",
+          "Сёхэй Миура",
+          "Мао Миядзи"
+        ],
+        "directors": [
+          "Кэйта Мотохаси"
+        ],
+        "producers": [
+          "Такааки Хирабэ",
+          "Хидэюки Каваниси"
+        ],
+        "writers": [
+          "Мика Омори"
+        ],
+        "composers": [
+          "Трио Охаси"
+        ]
+      }
+    },
+    {
+      "id": "serial-24507",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Дропкик злого духа [ТВ-2]",
+      "title_orig": "Jashin-chan Dropkick Dash",
+      "other_title": "Пинок демона / Неудачница из Ада / Dropkick on My Devil! / Демона с прогиба 2",
+      "translation": {
+        "id": 910,
+        "title": "AniStar",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 2,
+      "last_episode": 11,
+      "episodes_count": 12,
+      "kinopoisk_id": "1161902",
+      "imdb_id": "tt8400662",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9966",
+      "shikimori_id": "39049",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-06T17:28:53Z",
+      "updated_at": "2020-05-01T10:42:37Z",
+      "seasons": {
+        "0": {
+          "title": "Спешл",
+          "link": "",
+          "episodes": {
+            "1": ""
+          }
+        },
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Пинок демона",
+        "title_en": "Jashin-chan Dropkick",
+        "other_titles": [
+          "Неудачница из Ада 2",
+          "False God My Dropkick 2nd Season",
+          "Dropkick on My Devil!! 2nd Season"
+        ],
+        "other_titles_en": [
+          "Dropkick on My Devil!! Dash"
+        ],
+        "other_titles_jp": [
+          "邪神ちゃんドロップキック'（ダッシュ）"
+        ],
+        "anime_license_name": "Дропкик злого духа! (Штрих)",
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "year": 2018,
+        "description": "Готическая лолита Юринэ призывает в наш мир демонессу с хвостом кобры.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1161902.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/00b5c6b4d303cec8a3cc28359212611e3a41eb19.jpg",
+          "https://shikimori.one/system/screenshots/original/73f72494f370a380e7fa649ef324906863abd6d0.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Сверхъестественное"
+        ],
+        "anime_studios": [
+          "Nomad"
+        ],
+        "imdb_rating": 6.6,
+        "imdb_votes": 88,
+        "shikimori_rating": 7.41,
+        "shikimori_votes": 758,
+        "premiere_world": "2018-07-09",
+        "aired_at": "2020-04-06",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 11,
+        "episodes_aired": 11,
+        "directors": [
+          "Хикару Сато"
+        ]
+      }
+    },
+    {
       "id": "movie-54678",
       "type": "foreign-movie",
       "link": "",
@@ -7061,1113 +8511,6 @@
         ],
         "operators": [
           "М.С. Прабху"
-        ]
-      }
-    },
-    {
-      "id": "movie-54657",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Что с моим сердцем?",
-      "title_orig": "Koi Mere Dil Mein Hai",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2005,
-      "kinopoisk_id": "227500",
-      "imdb_id": "tt0478868",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-30T16:42:05Z",
-      "updated_at": "2020-04-30T16:42:05Z",
-      "material_data": {
-        "title": "Что с моим сердцем?",
-        "title_en": "Koi Mere Dil Mein Hai",
-        "year": 2005,
-        "description": "Радж, сын состоятельных родителей, влюблен в учительницу своей младшей сестры, Ашу. Поэтому у него нет никакого желания жениться на Симран, дочке друга отца, которую родители прочат ему в невесты.\n\rДа и Симран не горит желанием связывать себя семейными узами с Раджем. Ее сердце отдано талантливому певцу Самиру. Но неожиданно выясняется, что Аша и Самир помолвлены друг с другом...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/227500.jpg",
-        "duration": 125,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "imdb_rating": 4.9,
-        "imdb_votes": 81,
-        "premiere_world": "2005-06-03",
-        "minimal_age": 12,
-        "actors": [
-          "Дия Мирза",
-          "Садашив Амрапуркар",
-          "Рита Бхадури",
-          "Бирбал",
-          "Прияншу Чаттерджи",
-          "Сунил Дхаван",
-          "Динеш Хингу",
-          "Ади Ирани",
-          "Кадер Кхан",
-          "Рима Лагу"
-        ],
-        "directors": [
-          "Дипак Рамсей"
-        ],
-        "producers": [
-          "Арджан Дас",
-          "Махеш Кумар"
-        ],
-        "writers": [
-          "Хумаюн Мирза",
-          "М. Салим"
-        ],
-        "operators": [
-          "Удей Тивари"
-        ]
-      }
-    },
-    {
-      "id": "movie-54658",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Борьба за идеалы",
-      "title_orig": "Mera Karam Mera Dharam",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1987,
-      "kinopoisk_id": "225383",
-      "imdb_id": "tt0215987",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-30T16:41:22Z",
-      "updated_at": "2020-04-30T16:41:22Z",
-      "material_data": {
-        "title": "Борьба за идеалы",
-        "title_en": "Mera Karam Mera Dharam",
-        "year": 1987,
-        "description": "Аджай - идеалист, к тому же наследник огромного богатства предков, он хочет использовать деньги, чтобы помочь бедным людям, в качестве возмещения за грехи. Он принимает помощь своего двоюродного брата Сарджу Празада. Аджай слепо доверяет ему и поручает огромные денежные суммы. Только когда Аджай начинает получать анонимные письма о мошенничестве, он намеревается раскрыть реальное положение вещей, ставя под удар свою жизнь.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/225383.jpg",
-        "duration": 128,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "комедия",
-          "мелодрама"
-        ],
-        "imdb_rating": 5.4,
-        "imdb_votes": 25,
-        "actors": [
-          "Дхармендра",
-          "Моушуми Чаттерджи",
-          "Джонни Уокер",
-          "Асит Кумар Сен",
-          "Абхи Бхаттачарья",
-          "Брахмачари",
-          "Шашикала",
-          "Йогита Бали",
-          "Урмила Бхатт",
-          "Раджан Хаксар"
-        ],
-        "directors": [
-          "Дулал Гуха"
-        ],
-        "producers": [
-          "Мохан Лалвани",
-          "Прем Лалвани"
-        ],
-        "composers": [
-          "Лаксмикант Шантарам Кудалкар",
-          "Пьярелал Рампрасад Шарма"
-        ]
-      }
-    },
-    {
-      "id": "movie-54615",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Белый голубь",
-      "title_orig": "Shandaar",
-      "translation": {
-        "id": 770,
-        "title": "ZEE TV",
-        "type": "voice"
-      },
-      "year": 1974,
-      "kinopoisk_id": "238358",
-      "imdb_id": "tt0234701",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-30T16:18:28Z",
-      "updated_at": "2020-04-30T16:18:28Z",
-      "material_data": {
-        "title": "Белый голубь",
-        "title_en": "Shandaar",
-        "year": 1974,
-        "description": "Владелец спичечной фабрики «Белый голубь» Раджан очень богат, т.к. продукция его фабрики издавна пользуется большим спросом. Являясь богатым человеком, Раджан очень щедр. Он, не задумываясь, помогает малоимущим. Но, вскоре, при родах дочери, умирает его жена, а через несколько лет трагически погибает и его дочь. Дела на фабрике тоже идут не лучшим образом вЂ“ разоряется компания, в акции которой вложено много средств, промокает сырьё для изготовления спичек. Плюс ко всему один из его бывших работников Чандер создает свою фабрику по производству спичек «Орёл», которая, благодаря использованию новых технологий, уверенно развивается. В результате компания фабрика «Белый голубь» разоряется и Раджан теряет всё...........",
-        "duration": 133,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "семейный"
-        ],
-        "imdb_rating": 6.5,
-        "imdb_votes": 26,
-        "minimal_age": 12,
-        "actors": [
-          "Санджив Кумар",
-          "Шармила Тагор",
-          "Винод Мехра",
-          "Аруна Ирани",
-          "Радж Мехра",
-          "Дэвид Абрахам",
-          "Джагдип",
-          "Алка",
-          "Лина Дас",
-          "Гудду"
-        ],
-        "directors": [
-          "Р. Кришнан",
-          "С. Панджу"
-        ],
-        "producers": [
-          "К.В.В. Арханари"
-        ],
-        "writers": [
-          "G. Balasubramaniam",
-          "Раджендра Кришан"
-        ],
-        "composers": [
-          "Лаксмикант Шантарам Кудалкар",
-          "Пьярелал Рампрасад Шарма"
-        ],
-        "operators": [
-          "С. Марутхи Рао"
-        ]
-      }
-    },
-    {
-      "id": "movie-54616",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Честь и закон",
-      "title_orig": "Talaashi",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 1996,
-      "kinopoisk_id": "36599",
-      "imdb_id": "tt0117825",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-30T16:17:41Z",
-      "updated_at": "2020-04-30T16:17:41Z",
-      "material_data": {
-        "title": "Честь и закон",
-        "title_en": "Talaashi",
-        "year": 1996,
-        "description": "Джеки -  эксперт по спецэффектам в кино. Вроде бы все в его жизни складывается наилучшим образом: интересная работа, верные друзья, красавица-помощница Ниша. Но не тут-то было\n\rКоварный министр пытается использовать профессиональные навыки Джеки для своих грязных делишек. Удастся ли герою вырваться из паутины лжи, опутавшей его со всех сторон?  Убийца он или ловко подставленная наживка? Пришло время узнать правду!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/36599.jpg",
-        "duration": 170,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик"
-        ],
-        "imdb_rating": 4.6,
-        "imdb_votes": 29,
-        "actors": [
-          "Джеки Шрофф",
-          "Джухи Чавла",
-          "Мукеш Ханна",
-          "Екта Сохини",
-          "Алок Нат",
-          "Пареш Раваль",
-          "Ом Пури",
-          "Джагдип",
-          "Бхарат Капур",
-          "Акаш Хурана"
-        ],
-        "directors": [
-          "Шиам Рамсей",
-          "Тульси Рамсей"
-        ],
-        "producers": [
-          "Pramod P. Shah",
-          "Ashok R. Sharma"
-        ],
-        "composers": [
-          "Ананд Шривастав",
-          "Милинд Шривастав"
-        ]
-      }
-    },
-    {
-      "id": "movie-54617",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Тонкие нити любви",
-      "title_orig": "Dor",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2006,
-      "kinopoisk_id": "383610",
-      "imdb_id": "tt0824316",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-30T16:15:44Z",
-      "updated_at": "2020-04-30T16:15:44Z",
-      "material_data": {
-        "title": "Тонкие нити любви",
-        "title_en": "Dor",
-        "year": 2006,
-        "tagline": "How far would you go to save the one you love?",
-        "description": "Неожиданно пересеклись судьбы двух вдов Зинат и Миры. Их мужья уехали на заработки в Саудовскую Аравии. При невыясненных обстоятельствах один из них погибает, а другого обвиняют в его убийстве. Спасти заключенного может только письмо о помиловании подписанное вдовой...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/383610.jpg",
-        "duration": 124,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 82,
-        "imdb_rating": 7.9,
-        "imdb_votes": 5592,
-        "premiere_world": "2006-09-22",
-        "minimal_age": 16,
-        "actors": [
-          "Айеша Такиа",
-          "Шреяс Талпаде",
-          "Гуль Кират Панаг",
-          "Гириш Карнад",
-          "Пратикша Лонкар",
-          "Рушад Рана",
-          "Анирудх Джайкар",
-          "Шивани Джоши",
-          "Уттара Баокар",
-          "Паван Сингх"
-        ],
-        "directors": [
-          "Нагеш Кукунур"
-        ],
-        "producers": [
-          "Девика Бахудханам",
-          "Элахе Хиптоола",
-          "Самит Кумар",
-          "Махеш Раманатхан",
-          "Шайлендра Сингх"
-        ],
-        "writers": [
-          "Нагеш Кукунур",
-          "Мир Али Хусейн",
-          "Т.А. Разак"
-        ],
-        "composers": [
-          "Салим Мерчант",
-          "Сулеман Мерчант"
-        ],
-        "editors": [
-          "Санжиб Датта"
-        ],
-        "designers": [
-          "Мунееш Саппел",
-          "М.П. Картик",
-          "Комал Шахани"
-        ],
-        "operators": [
-          "Судип Чаттерджи"
-        ]
-      }
-    },
-    {
-      "id": "movie-54618",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Эгоист",
-      "title_orig": "Khudgarz",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1987,
-      "kinopoisk_id": "18768",
-      "imdb_id": "tt0248135",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-30T16:10:09Z",
-      "updated_at": "2020-04-30T16:10:09Z",
-      "material_data": {
-        "title": "Эгоист",
-        "title_en": "Khudgarz",
-        "year": 1987,
-        "description": "Еще в детстве Бихари и Амар стали неразлучными друзьями. Они сохраняли свою дружбу много лет, но из-за недоразумения и интриг недоброжелателей Амар и Бихари из друзей превратились во врагов на долгие годы. Но дети заклятых врагов, Джоти и Кумар, полюбили друг друга и хотят помирить своих отцов...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/18768.jpg",
-        "duration": 158,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "мюзикл",
-          "семейный"
-        ],
-        "imdb_rating": 5.8,
-        "imdb_votes": 289,
-        "premiere_world": "1987-07-30",
-        "minimal_age": 0,
-        "actors": [
-          "Джитендра",
-          "Шатругхан Синха",
-          "Бхануприя",
-          "Амрита Сингх",
-          "Говинда",
-          "Нилам",
-          "Кадер Кхан",
-          "Киран Кумар",
-          "Саид Джаффри",
-          "Судхир Далви"
-        ],
-        "directors": [
-          "Ракеш Рошан"
-        ],
-        "producers": [
-          "Ракеш Рошан"
-        ],
-        "composers": [
-          "Раджеш Рошан"
-        ],
-        "operators": [
-          "Пушпал Датта"
-        ]
-      }
-    },
-    {
-      "id": "movie-54619",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Экспедиция в Гималаи",
-      "title_orig": "Charas: A Joint Effort",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2004,
-      "kinopoisk_id": "224664",
-      "imdb_id": "tt0410952",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-30T16:08:47Z",
-      "updated_at": "2020-04-30T16:08:47Z",
-      "material_data": {
-        "title": "Экспедиция в Гималаи",
-        "title_en": "Charas: A Joint Effort",
-        "year": 2004,
-        "description": "Английский студент ботаники Сэм Хидингс, отправившийся в Гималаи для изучения флоры, бесследно пропадает. Убитые горем родители нанимают для его поиска детектива Скотланд Ярда, индийца по происхождению Дев Ананда. На месте Дев выясняет, что следы Сэма ведут в горы и привлекает к поискам проводника Ашарафа. К поисковой группе присоединяется журналистка Пия и местная учительница Найна...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/224664.jpg",
-        "duration": 140,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "приключения"
-        ],
-        "imdb_rating": 5.3,
-        "imdb_votes": 328,
-        "premiere_world": "2004-01-01",
-        "minimal_age": 12,
-        "actors": [
-          "Джимми Шергилл",
-          "Удай Чопра",
-          "Ирфан Кхан",
-          "Ришита Бхатт",
-          "Намрата Широдкар",
-          "Сэм Беди",
-          "Варун Бадола",
-          "Ануп Сони",
-          "Санджай Мишра",
-          "Дипак Добриял"
-        ],
-        "directors": [
-          "Тигманшу Дхулиа"
-        ],
-        "producers": [
-          "Анджум Ризви"
-        ],
-        "composers": [
-          "Джаянта Патхак",
-          "Раджу Сингх"
-        ],
-        "editors": [
-          "Асим Синха"
-        ],
-        "designers": [
-          "Дхирадж Аколкар",
-          "Пуджа Сарин"
-        ],
-        "operators": [
-          "Сатьяджит Панде"
-        ]
-      }
-    },
-    {
-      "id": "movie-54620",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Карма",
-      "title_orig": "Karm",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1977,
-      "kinopoisk_id": "41817",
-      "imdb_id": "tt0158698",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-30T16:07:49Z",
-      "updated_at": "2020-04-30T16:07:49Z",
-      "material_data": {
-        "title": "Карма",
-        "title_en": "Karm",
-        "year": 1977,
-        "description": "Рассказ о противодействии между человеком и его судьбой. Любовь Арвида, обычного, ничем не примечательного парня, и Аши высокодуховной девушки, под угрозой: отец Аши, признанный астролог, предсказал смерть своей дочери в канун свадьбы в случае ее брака с Арвидом. Но влюбленные решают обмануть злую судьбу...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/41817.jpg",
-        "duration": 146,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "семейный"
-        ],
-        "imdb_rating": 6.8,
-        "imdb_votes": 64,
-        "minimal_age": 0,
-        "actors": [
-          "Раджеш Кханна",
-          "Видья Синха",
-          "Шабана Азми",
-          "Асрани",
-          "Нааз",
-          "Ифтекхар",
-          "Према Нараян",
-          "Ачала Сачдев",
-          "Ом Шивпури",
-          "Рупеш Кумар"
-        ],
-        "directors": [
-          "Б.Р. Чопра"
-        ],
-        "producers": [
-          "Б.Р. Чопра"
-        ],
-        "writers": [
-          "Гажендра Кумар Митрэ"
-        ],
-        "composers": [
-          "Рахул Дев Бурман"
-        ]
-      }
-    },
-    {
-      "id": "movie-54621",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Карма",
-      "title_orig": "Karma",
-      "translation": {
-        "id": 770,
-        "title": "ZEE TV",
-        "type": "voice"
-      },
-      "year": 1986,
-      "kinopoisk_id": "36640",
-      "imdb_id": "tt0091328",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-30T16:07:14Z",
-      "updated_at": "2020-04-30T16:07:14Z",
-      "material_data": {
-        "title": "Карма",
-        "title_en": "Karma",
-        "year": 1986,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/36640.jpg",
-        "duration": 193,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "триллер"
-        ],
-        "imdb_rating": 7.4,
-        "imdb_votes": 1899,
-        "premiere_world": "1986-08-08",
-        "actors": [
-          "Дилип Кумар",
-          "Нутан",
-          "Насируддин Шах",
-          "Джеки Шрофф",
-          "Анил Капур",
-          "Анупам Кхер",
-          "Шридеви",
-          "Пунам Диллон",
-          "Сатьянараяна Кайкала",
-          "Том Олтер"
-        ],
-        "directors": [
-          "Субхаш Гхай"
-        ],
-        "producers": [
-          "Субхаш Гхай",
-          "Ашок Гаи",
-          "Mukta Ghai"
-        ],
-        "writers": [
-          "Сачин Бхоумик",
-          "Субхаш Гхай",
-          "Кадер Кхан"
-        ],
-        "composers": [
-          "Лаксмикант Шантарам Кудалкар",
-          "Пьярелал Рампрасад Шарма"
-        ],
-        "editors": [
-          "Ваман Б. Бхосл",
-          "Гурудутт Ширали"
-        ],
-        "designers": [
-          "Судхенду Рой"
-        ],
-        "operators": [
-          "Камалакар Рао"
-        ]
-      }
-    },
-    {
-      "id": "movie-54622",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Игрушка",
-      "title_orig": "Khilona",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1970,
-      "kinopoisk_id": "225248",
-      "imdb_id": "tt0148375",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-30T16:06:46Z",
-      "updated_at": "2020-04-30T16:06:46Z",
-      "material_data": {
-        "title": "Игрушка",
-        "title_en": "Khilona",
-        "year": 1970,
-        "description": "У Тхакура Сураджа Сингха трое сыновей и дочь. Старший брат Кишор заботится о семейном бизнесе, средний сын Виджай – поэт, младший Мохан учится в колледже. Виджай любил Сапну, которая была вынуждена выйти замуж за их соседа Бихари. В ночь свадьбы она покончила жизнь самоубийством на глазах Виджая. Не выдержав смерти возлюбленной, он сходит с ума. Не желая отправить сына в лечебницу для душевнобольных, Тхакур нанимает молодую куртизанку Чанду, которая, как он надеется, вылечит его сына. Действительно, душевное состояние Виджая улучшается. Но однажды ночью он насилует Чанду. Остальные члены семьи презирают ее, девушку преследуют сосед Бихари и младший сын Мохан. Когда Виджай выздоровел, он забывает Чанду. Беременную женщину выгоняют из дома. Сможет ли Чанда, которою использовали как живую игрушку, отстоять свои права?..",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/225248.jpg",
-        "duration": 160,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама",
-          "мюзикл"
-        ],
-        "imdb_rating": 7.1,
-        "imdb_votes": 314,
-        "premiere_world": "1970-04-08",
-        "minimal_age": 0,
-        "actors": [
-          "Санджив Кумар",
-          "Мумтаз",
-          "Дурга Кхоте",
-          "Бипин Гупта",
-          "Рамеш Део",
-          "Чанд Усмани",
-          "Шабнам Джарна Башак",
-          "Джайшри Т.",
-          "Малика",
-          "Шатругхан Синха"
-        ],
-        "directors": [
-          "Чандер Вохра"
-        ],
-        "producers": [
-          "Л.В. Прасад"
-        ],
-        "writers": [
-          "Ага Джани Кашмири",
-          "Гульшан Нанда"
-        ],
-        "composers": [
-          "Лаксмикант Шантарам Кудалкар",
-          "Пьярелал Рампрасад Шарма"
-        ],
-        "editors": [
-          "Shivaji Awdhut"
-        ],
-        "operators": [
-          "Дварка Дивеча"
-        ]
-      }
-    },
-    {
-      "id": "movie-54624",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Ширин и Фархад – баловни судьбы",
-      "title_orig": "Shirin Farhad Ki Toh Nikal Padi",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2012,
-      "kinopoisk_id": "686445",
-      "imdb_id": "tt2187972",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-30T15:59:31Z",
-      "updated_at": "2020-04-30T15:59:31Z",
-      "material_data": {
-        "title": "Ширин и Фархад – баловни судьбы",
-        "title_en": "Shirin Farhad Ki Toh Nikal Padi",
-        "year": 2012,
-        "description": "Он проводит свою взрослую жизнь среди бюстгальтеров и трусиков. Один взгляд на женщину, и он знает какой у неё размер. А что в реальной жизни? Фархад 45-ти летний «маменькин сыночек» работает продавцом в магазине нижнего дамского белья, живёт вместе с властной матерью и любящей бабушкой. Он - холостяк, несколько раз пытался найти себе невесту, но все давали ему от ворот поворот, когда узнавали, где он работает. И всё же Фархад не теряет надежду, что однажды встретит свою мечту. И вот, в один прекрасный день на пороге его магазина появляется она...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/686445.jpg",
-        "duration": 137,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "imdb_rating": 4.2,
-        "imdb_votes": 1006,
-        "premiere_world": "2012-08-24",
-        "minimal_age": 16,
-        "actors": [
-          "Френи Бхагат",
-          "Диньяр Контрактор",
-          "Наухид Сираси",
-          "Кавин Дэйв",
-          "Куруш Дебу",
-          "Боман Ирани",
-          "Дэйзи Ирани",
-          "Фара Кхан",
-          "Махабану Моди-Котвал",
-          "Tanay Sarda"
-        ],
-        "directors": [
-          "Бела Сигал"
-        ],
-        "producers": [
-          "Санджай Лила Бхансали",
-          "Сунил Лула",
-          "Намрата Оберой",
-          "Сандип Сингх"
-        ],
-        "writers": [
-          "Санджай Лила Бхансали",
-          "Вибху Пури"
-        ],
-        "composers": [
-          "Джит Гангули"
-        ],
-        "editors": [
-          "Раджеш Пандеу",
-          "Бела Сигал"
-        ],
-        "designers": [
-          "Сабрина Сингх"
-        ],
-        "operators": [
-          "Махеш Аней"
-        ]
-      }
-    },
-    {
-      "id": "movie-54623",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Провинциал",
-      "title_orig": "Bambai Ka Babu",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 1996,
-      "kinopoisk_id": "86616",
-      "imdb_id": "tt0172163",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-30T15:59:31Z",
-      "updated_at": "2020-04-30T15:59:31Z",
-      "material_data": {
-        "title": "Провинциал",
-        "title_en": "Bambai Ka Babu",
-        "year": 1996,
-        "tagline": "Сплав любви и дружбы - спасительная броня от пуль мафии",
-        "description": "Викки приезжает в Бомбей из маленького городка с мечтой покорить столицу и разбогатеть. Все это ему обещает Мастер, босс мафии, к которому Викки поступает на службу. До поры до времени Викки принимает своего благодетеля за крупного бизнесмена. Но когда узнаёт о нём всю правду, Мастер решает избавиться от ненужного свидетеля, его криминальной жизни. В самую трудную минуту на помощь Викки приходят его брат Амит и девушка Неха.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/86616.jpg",
-        "duration": 158,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "триллер"
-        ],
-        "imdb_rating": 5,
-        "imdb_votes": 190,
-        "premiere_world": "1996-03-22",
-        "minimal_age": 0,
-        "actors": [
-          "Саиф Али Кхан",
-          "Атул Агнихотри",
-          "Каджол",
-          "Вайшнави",
-          "Далип Тахил",
-          "Вишваджит Прадхан",
-          "Саид Джаффри",
-          "Рима Лагу",
-          "Виджу Хоте",
-          "Сунил Дхаван"
-        ],
-        "directors": [
-          "Викрам Бхатт"
-        ],
-        "producers": [
-          "Рави Вачани",
-          "Гуль Адвани"
-        ],
-        "writers": [
-          "Икбал Радж"
-        ],
-        "composers": [
-          "Ананд Шривастав",
-          "Милинд Шривастав",
-          "Джолли",
-          "Кишор Шарма"
-        ],
-        "editors": [
-          "Ваман Б. Бхосл"
-        ],
-        "designers": [
-          "Мохан Сингх",
-          "Ратнакар Фадке",
-          "Шефали Гупта"
-        ],
-        "operators": [
-          "Бхушан Патель"
-        ]
-      }
-    },
-    {
-      "id": "movie-54627",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Офицер спецназа",
-      "title_orig": "Qaidi",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2002,
-      "kinopoisk_id": "602770",
-      "imdb_id": "tt2009559",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-30T15:59:15Z",
-      "updated_at": "2020-04-30T15:59:15Z",
-      "material_data": {
-        "title": "Офицер спецназа",
-        "title_en": "Qaidi",
-        "year": 2002,
-        "description": "Из тюрьмы по дороге в суд бежит опасный преступник Кали. Полиция начинает охоту на беглеца. Также по следу Кали идёт конкурирующая мафиозная группировка. До последней минуты никто не догадывается, что совершивший побег Кали не тот, за кого себя выдаёт…",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/602770.jpg",
-        "duration": 116,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик"
-        ],
-        "imdb_rating": 5.8,
-        "imdb_votes": 12,
-        "premiere_world": "2002-05-03",
-        "minimal_age": 12,
-        "actors": [
-          "Арчана",
-          "Митхун Чакраборти",
-          "Раза Мурад",
-          "Джони Нирмал",
-          "Нирмал Пандей",
-          "Вишваджит Прадхан",
-          "Roshini",
-          "Теж Сапру",
-          "Раджу Шривастав"
-        ],
-        "directors": [
-          "Т.Л.В. Прасад"
-        ],
-        "producers": [
-          "Randeep Arya",
-          "Сунил Бохра",
-          "Сурендра Бохра"
-        ],
-        "composers": [
-          "Баппи Лахири"
-        ]
-      }
-    },
-    {
-      "id": "movie-54626",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Обещание",
-      "title_orig": "Pratigyabadh",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 1991,
-      "kinopoisk_id": "238714",
-      "imdb_id": "tt0102702",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-30T15:59:15Z",
-      "updated_at": "2020-04-30T15:59:15Z",
-      "material_data": {
-        "title": "Обещание",
-        "title_en": "Pratigyabadh",
-        "year": 1991,
-        "description": "После того как Бабурам Ядав отправился работать в Бомбей, чтобы попытаться отдать долг ростовщику, его жена Лакшми и трое детей остались жить за чертой бедности. В добавок они перестали получать письма от отца. Когда Лакшми отказалась от покровительства ростовщика, тот отобрал у нее дом и все имущество. В отчаяние Лакшми с детьми едет в Бомбей, чтобы отыскать мужа.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/238714.jpg",
-        "duration": 164,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "imdb_rating": 5.6,
-        "imdb_votes": 34,
-        "actors": [
-          "Асрани",
-          "Бина",
-          "Митхун Чакраборти",
-          "Сунил Датт",
-          "Кумар Гурав",
-          "Шафи Инамдар",
-          "Джавед Ризви Джарехави",
-          "Анупам Кхер",
-          "Нилам",
-          "Манмауджи"
-        ],
-        "directors": [
-          "Рави Чопра"
-        ],
-        "producers": [
-          "Б.Р. Чопра"
-        ],
-        "composers": [
-          "Баппи Лахири",
-          "Ананджи Вирджи Шах",
-          "Калианджи Вирджи Шах"
-        ]
-      }
-    },
-    {
-      "id": "movie-54625",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Один",
-      "title_orig": "Ontari",
-      "translation": {
-        "id": 764,
-        "title": "Red Media",
-        "type": "voice"
-      },
-      "year": 2008,
-      "kinopoisk_id": "407841",
-      "imdb_id": "tt1186817",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-30T15:59:15Z",
-      "updated_at": "2020-04-30T15:59:15Z",
-      "material_data": {
-        "title": "Один",
-        "title_en": "Ontari",
-        "year": 2008,
-        "description": "Вамси, сын богатого владельца магазинов по продаже сари, влюбляется в девушку-сироту Буджи. Родители дают согласие на их брак, но в день помолвки Буджи похищают. Выясняется, что похититель - местный Дон, брат которого когда-то на улице пристал к Буджи, за что Вамси избил его у всех на глазах. Полные ненависти и желания отомстить, чтобы добраться до Вамси они пользуются помощью его лучшего друга, пообещав ему место министра. Пытаясь спасти Буджи, Вамси попадает в руки бандитов. У него на глазах они насилуют Буджи, а лучший друг вонзает ему нож в спину. Вамси удалось выжить, но далеко не сразу он понял, что остался один...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/407841.jpg",
-        "duration": 148,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 75,
-        "imdb_rating": 5.9,
-        "imdb_votes": 125,
-        "premiere_world": "2008-02-14",
-        "minimal_age": 16,
-        "actors": [
-          "Тоттемпуди Гопичанд",
-          "Бхавана",
-          "Аджай",
-          "Ашиш Видьятхи",
-          "Рагху Бабу",
-          "Али",
-          "Раджив Канакала",
-          "Нареш",
-          "Венкатесвара Рао Паручури",
-          "Сунил"
-        ],
-        "directors": [
-          "Б.В. Рамана"
-        ],
-        "producers": [
-          "Бабу Рао Покури"
-        ],
-        "writers": [
-          "Баша Шри",
-          "Bhashyasree",
-          "Марудхури Раджа",
-          "Б.В. Рамана"
-        ],
-        "composers": [
-          "Мани Шарма"
-        ],
-        "editors": [
-          "Гаутам Раджу"
-        ],
-        "operators": [
-          "Сарвеш Мурари"
-        ]
-      }
-    },
-    {
-      "id": "movie-54630",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Напарники",
-      "title_orig": "Bade Miyan Chote Miyan",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 1998,
-      "kinopoisk_id": "78484",
-      "imdb_id": "tt0118673",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-30T15:58:58Z",
-      "updated_at": "2020-04-30T15:58:58Z",
-      "material_data": {
-        "title": "Напарники",
-        "title_en": "Bade Miyan Chote Miyan",
-        "year": 1998,
-        "tagline": "The Great Entertainer",
-        "description": "Пока инспекторы полиции Арджун Сингх и Пьяремохан заняты поисками преступников, очень похожие на них мошенники зарабатывают на жизнь, обманывая честных граждан. Когда последние случайно узнают о существующем сходстве, они пытаются извлечь из создавшейся ситуации максимальную для себя выгоду.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/78484.jpg",
-        "duration": 148,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "комедия",
-          "мюзикл"
-        ],
-        "imdb_rating": 5.8,
-        "imdb_votes": 2724,
-        "premiere_world": "1998-10-16",
-        "minimal_age": 12,
-        "actors": [
-          "Амитабх Баччан",
-          "Говинда",
-          "Равина Тандон",
-          "Рамья Кришна",
-          "Анупам Кхер",
-          "Пареш Раваль",
-          "Сатиш Каушик",
-          "Шарат Саксена",
-          "Мадхури Диксит",
-          "Ракеш Беди"
-        ],
-        "directors": [
-          "Дэвид Дхаван"
-        ],
-        "producers": [
-          "Вашу Бхагнани",
-          "Шитал Джайн",
-          "Kirit Trivedi",
-          "Калим Кхан"
-        ],
-        "writers": [
-          "Руми Джаффери"
-        ],
-        "composers": [
-          "Виджу Шах"
-        ],
-        "editors": [
-          "А. Мутху"
-        ],
-        "designers": [
-          "Р. Верман Шетти",
-          "Мадхави Гупта",
-          "Нита Лулла"
-        ],
-        "operators": [
-          "К.С. Пракаш Рао"
         ]
       }
     }
