@@ -1,6 +1,484 @@
 {
   "results": [
     {
+      "id": "movie-29760",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Садовник",
+      "title_orig": "Sadovnik",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1997,
+      "kinopoisk_id": "43583",
+      "imdb_id": "tt0093905",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-12-17T14:53:51Z",
+      "updated_at": "2018-12-17T14:53:51Z",
+      "material_data": {
+        "title": "Садовник",
+        "title_en": "",
+        "year": 1987,
+        "description": "Фильм-притча, история героя, вырастившего яблоневый сад - это и реальная судьба, и обобщенный образ человека, живущего не для себя.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/43583.jpg",
+        "duration": 100,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 281,
+        "imdb_rating": 7.3,
+        "imdb_votes": 27,
+        "minimal_age": 12,
+        "actors": [
+          "Олег Борисов",
+          "Лев Борисов",
+          "Евгения Смольянинова",
+          "Константин Юхов",
+          "Варвара Шабалина",
+          "Ирина Ракшина",
+          "Вадим Лобанов",
+          "Нина Усатова",
+          "Виктор Бычков",
+          "Петр Дроцкий"
+        ],
+        "directors": [
+          "Виктор Бутурлин"
+        ],
+        "writers": [
+          "Валерий Залотуха"
+        ],
+        "composers": [
+          "Альгирдас Паулавичюс"
+        ],
+        "editors": [
+          "Раиса Лисова"
+        ],
+        "designers": [
+          "Александр Загоскин"
+        ],
+        "operators": [
+          "Владимир Васильев"
+        ]
+      }
+    },
+    {
+      "id": "serial-13705",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Пайн Гэп",
+      "title_orig": "Pine Gap",
+      "translation": {
+        "id": 889,
+        "title": "РуФилмс",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 6,
+      "episodes_count": 6,
+      "kinopoisk_id": "1118016",
+      "imdb_id": "tt7371868",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-12-15T14:56:20Z",
+      "updated_at": "2018-12-17T12:47:46Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Пайн Гэп",
+        "title_en": "Pine Gap",
+        "year": 2018,
+        "tagline": "Trust but verify. Reveal their secrets but protect our own.",
+        "description": "Пайн Гэп – известная военная база США, расположенная в Австралии. Здесь есть подразделения таких организаций, как ЦРУ и АНБ, которые получают свободный доступ к системам видеонаблюдения и контролю за потенциальными угрозами. Сериал рассказывает о взаимодействии двух стран на одной территории.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1118016.jpg",
+        "duration": 360,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "детектив",
+          "драма",
+          "триллер"
+        ],
+        "imdb_rating": 7.2,
+        "imdb_votes": 3843,
+        "premiere_world": "2018-10-14",
+        "actors": [
+          "Паркер Сойерс",
+          "Жаклин Маккензи",
+          "Стив Туссэн",
+          "Тесс Хобрич",
+          "Стефен Керри",
+          "Льюис Фиц-Джералд",
+          "Марк Леонард Винтер",
+          "Сачин Джоаб",
+          "Эдвина Рен",
+          "Элис Кеохавонг"
+        ],
+        "directors": [
+          "Мат Кинг"
+        ],
+        "producers": [
+          "Рори Каллахэн",
+          "Боб Кэмпбелл",
+          "Грег Хэддрик",
+          "Элли Хенвилл",
+          "Керри Мэйнуоринг",
+          "Фелисити Паккард",
+          "Сэлли Райли",
+          "Лиза Скотт",
+          "Brett Sleigh"
+        ],
+        "writers": [
+          "Грег Хэддрик",
+          "Фелисити Паккард"
+        ],
+        "composers": [
+          "Буркхард фон Далльвиц"
+        ],
+        "editors": [
+          "Бен Джосс"
+        ],
+        "designers": [
+          "Скотт Бёрд",
+          "Роберт Вуд",
+          "Мариот Керр",
+          "Лиза Бреннан"
+        ],
+        "operators": [
+          "Джеффри Холл"
+        ]
+      }
+    },
+    {
+      "id": "serial-27690",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Защитник",
+      "title_orig": "The Protector",
+      "translation": {
+        "id": 743,
+        "title": "BaibaKo",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 4,
+      "last_episode": 7,
+      "episodes_count": 7,
+      "kinopoisk_id": "1118291",
+      "imdb_id": "tt7668518",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-12-17T12:47:05Z",
+      "updated_at": "2018-12-17T12:47:05Z",
+      "seasons": {
+        "4": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Защитник",
+        "title_en": "The Protector",
+        "year": 2018,
+        "tagline": "Never doubt your power.",
+        "description": "Простой парень Хакан узнает, что его миссия – оберегать Стамбул. Он и не собирался становиться героем, но когда узнает, что город может быть разрушен некими бессмертными из прошлого, то у парня не остается другого выбора.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1118291.jpg",
+        "duration": 40,
+        "countries": [
+          "Турция"
+        ],
+        "genres": [
+          "боевик",
+          "фантастика",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 6.6,
+        "kinopoisk_votes": 1335,
+        "imdb_rating": 6.7,
+        "imdb_votes": 32039,
+        "premiere_world": "2018-12-14",
+        "actors": [
+          "Чагатай Улусой",
+          "Хазар Эргючлю",
+          "Окан Ялабык",
+          "Бурчин Терзиоглу",
+          "Айча Айшин Туран",
+          "Фунда Эрйигит",
+          "Эмили Госс",
+          "Эмре Мутлу",
+          "Биге Онал",
+          "Halit Özgür Sari"
+        ],
+        "directors": [
+          "Умут Арал",
+          "Гонендж Уяник",
+          "Джан Эвренол",
+          "Burcu Alptekin",
+          "Гёкхан Тирьяки"
+        ],
+        "producers": [
+          "Özge Bagdatlioglu",
+          "Джейсон Джордж",
+          "Онур Гювенатам",
+          "Алекс Сазерленд",
+          "Yagmur Dolkun",
+          "Белькис Туран",
+          "Inanc Telci",
+          "Yasemin Yilmaz",
+          "Binnur Karaevli",
+          "Aytek Ogreten"
+        ],
+        "writers": [
+          "Нилюфер Ипек Аксой",
+          "Askim Özbek",
+          "Атилла Юнсаль",
+          "Binnur Karaevli",
+          "Cansu Coban",
+          "Атасай Коч",
+          "Yasemin Yilmaz",
+          "Emre Ozpirincci",
+          "Аксель Бонфиль",
+          "Deniz Gurlek"
+        ],
+        "composers": [
+          "Tufan Aydin",
+          "Tolga Boyuk",
+          "Экин Эти",
+          "Emin Yasin Vural"
+        ],
+        "editors": [
+          "Чичек Кахраман",
+          "Aziz Imamoglu",
+          "Murat Basören",
+          "Корхан Корюрек",
+          "Эрхан Акар мл.",
+          "Fuat Sebatli",
+          "Ersin Eker",
+          "Озчан Вардар",
+          "Осман Байрактароглу"
+        ],
+        "designers": [
+          "Мурат Гуней",
+          "Дениз Гёктюрк",
+          "Ayse Buket Demiratar",
+          "Sedef Gürtop",
+          "Tugba Bastem",
+          "Fatma Gökçe Düzgün",
+          "Konstantinos Passas",
+          "Elif Domanic",
+          "Эсра Байрам",
+          "Yunus Harani"
+        ],
+        "operators": [
+          "Гёкхан Тирьяки",
+          "Serkan Gulguler"
+        ]
+      }
+    },
+    {
+      "id": "movie-29734",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Сара Барас, Все Её Голоса",
+      "title_orig": "Sara Baras. Todas las voces",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "imdb_id": "tt6890836",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-12-17T09:46:39Z",
+      "updated_at": "2018-12-17T09:46:39Z"
+    },
+    {
+      "id": "serial-1668",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Граница",
+      "title_orig": "Frontier",
+      "translation": {
+        "id": 758,
+        "title": "NewStudio",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 3,
+      "last_episode": 6,
+      "episodes_count": 18,
+      "kinopoisk_id": "958575",
+      "imdb_id": "tt4686698",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2016-11-14T14:34:32Z",
+      "updated_at": "2018-12-17T09:32:55Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        },
+        "3": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Граница",
+        "title_en": "Frontier",
+        "year": 2016,
+        "description": "Сериал расскажет о жестокой и кровавой борьбе за богатство и власть в торговле пушниной на просторах Северной Америки в XVIII веке. Бизнес приходится вести в очень сложных условиях жестокого противостояния коренных племён и понаехавших на континент европейцев.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/958575.jpg",
+        "duration": 60,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "драма",
+          "история",
+          "приключения"
+        ],
+        "kinopoisk_rating": 6.5,
+        "kinopoisk_votes": 1589,
+        "imdb_rating": 7.2,
+        "imdb_votes": 17400,
+        "premiere_world": "2016-11-06",
+        "minimal_age": 0,
+        "actors": [
+          "Джейсон Момоа",
+          "Лэндон Либуарон",
+          "Зои Бойл",
+          "Грег Брайк",
+          "Джессика Маттен",
+          "Аллан Хоуко",
+          "Лайла Портер-Фоллоус",
+          "Майкл Патрик",
+          "Алан Армстронг",
+          "Диана Бентли"
+        ],
+        "directors": [
+          "Джон Ватчер",
+          "Брэд Пейтон",
+          "Т.Дж. Скотт",
+          "Кен Джиротти",
+          "Дэвид Фрэйзи",
+          "Келли Макин",
+          "Пол Фокс",
+          "Бретт Салливан",
+          "Ли Роуз"
+        ],
+        "producers": [
+          "Питер Блэкки",
+          "Роберт Блэкки",
+          "Росс Лесли",
+          "Алекс Патрик",
+          "Перри Шаф",
+          "Аллан Хоуко",
+          "Брэд Пейтон",
+          "Джон Ватчер",
+          "Джеффри Фирсон",
+          "Шерри Уайт"
+        ],
+        "writers": [
+          "Роберт Блэкки",
+          "Питер Блэкки",
+          "Керри МакДональд",
+          "Jillian Locke",
+          "Лиза Сноу",
+          "Шерри Уайт",
+          "Перри Шаф",
+          "Грег Нельсон",
+          "Chris Roberts",
+          "Джозеф Кэй"
+        ],
+        "composers": [
+          "Эндрю Локингтон"
+        ],
+        "editors": [
+          "Джеймс Патрик",
+          "Эрик Годдар"
+        ],
+        "designers": [
+          "Гордон Барнс",
+          "Ксавьер Жорж",
+          "Майкл Граунд",
+          "Christian Baqueiro",
+          "Kathee Reardigan",
+          "Найджел Хатчинс",
+          "Terry Ryan",
+          "Keith Kelloway",
+          "Патриция Кучия",
+          "Франсуа Сенекал"
+        ],
+        "operators": [
+          "Дэвид Херрингтон",
+          "Глен Кинэн",
+          "Филип Лэньон"
+        ]
+      }
+    },
+    {
       "id": "serial-13701",
       "type": "foreign-serial",
       "link": "",
@@ -5223,9 +5701,9 @@
           "мелодрама"
         ],
         "kinopoisk_rating": 8.2,
-        "kinopoisk_votes": 967,
+        "kinopoisk_votes": 1045,
         "imdb_rating": 5.3,
-        "imdb_votes": 1602,
+        "imdb_votes": 1681,
         "premiere_world": "2002-09-06",
         "minimal_age": 0,
         "actors": [
@@ -5769,12 +6247,13 @@
         ],
         "anime_studios": [
           "Production I.G",
-          "DLE"
+          "DLE",
+          "LandQ studios"
         ],
         "imdb_rating": 5.9,
         "imdb_votes": 791,
-        "shikimori_rating": 5.8,
-        "shikimori_votes": 469,
+        "shikimori_rating": 5.78,
+        "shikimori_votes": 528,
         "premiere_world": "2018-03-23",
         "aired_at": "2018-07-30",
         "rating_mpaa": "R",
@@ -6015,9 +6494,9 @@
           "триллер"
         ],
         "kinopoisk_rating": 8,
-        "kinopoisk_votes": 937,
+        "kinopoisk_votes": 1002,
         "imdb_rating": 5.4,
-        "imdb_votes": 4701,
+        "imdb_votes": 4813,
         "premiere_world": "2001-03-30",
         "minimal_age": 0,
         "actors": [
@@ -6332,6 +6811,7 @@
         "imdb_rating": 7.4,
         "imdb_votes": 14,
         "premiere_world": "2016-07-02",
+        "minimal_age": 0,
         "actors": [
           "Юн Со-хи",
           "Ха Сок-чин",
@@ -7515,468 +7995,6 @@
         ],
         "operators": [
           "Сантош Сиван"
-        ]
-      }
-    },
-    {
-      "id": "movie-29409",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Намасте Лондон",
-      "title_orig": "Namastey London",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2007,
-      "kinopoisk_id": "264727",
-      "imdb_id": "tt0795434",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-12-11T08:29:58Z",
-      "updated_at": "2018-12-11T08:29:58Z",
-      "material_data": {
-        "title": "Намасте Лондон",
-        "title_en": "Namastey London",
-        "year": 2007,
-        "tagline": "A British brat meets a «Funjabi» boy",
-        "description": "Джасмит Сингх, или просто Джаз, родилась и воспитывалась в Лондоне, она любит все западное и в качестве мужа представляет только утонченного и образованного молодого человека из Лондона.\n\rНо ее отец Манмохан Сингх хочет выдать ее только за индуса и в поисках подходящего парня колесит по просторам Индии. Здесь он и встречает Арджуна, грубоватого и жесткого фермера, который едва умеет разговаривать по-английски.\n\rБез долгих раздумий отец женит Арджуна и Джаз. Арджун счастлив, ведь он с первого взгляда полюбил свою красивую и своенравную жену. Но радость вскоре оборачивается недоумением, когда он обнаруживает, что этот брак ничего не значит для Джаз…",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/264727.jpg",
-        "duration": 128,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "комедия",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 750,
-        "imdb_rating": 7.1,
-        "imdb_votes": 20684,
-        "premiere_world": "2007-03-23",
-        "minimal_age": 16,
-        "actors": [
-          "Акшай Кумар",
-          "Катрина Каиф",
-          "Риши Капур",
-          "Клайв Стэнден",
-          "Упен Патель",
-          "Джавед Шейх",
-          "Тиффани Малхерон",
-          "Нина Вадиа",
-          "Шаана Дия",
-          "Ритеш Дешмукх"
-        ],
-        "directors": [
-          "Випул Амрутал Шах"
-        ],
-        "producers": [
-          "Випул Амрутал Шах",
-          "Джошуа Клемент",
-          "Denny Lawrence Laloo",
-          "Вивек Сингханиа"
-        ],
-        "writers": [
-          "Суреш Наир",
-          "Ритеш Шах"
-        ],
-        "composers": [
-          "Салим Мерчант",
-          "Rdb",
-          "Химеш Решаммия"
-        ],
-        "editors": [
-          "Амитабх Шукла"
-        ],
-        "designers": [
-          "Пол Барнс",
-          "Руперт Аллан",
-          "Элисон Форбс-Мейлер"
-        ],
-        "operators": [
-          "Джонатан Блум"
-        ]
-      }
-    },
-    {
-      "id": "movie-29410",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Без тебя",
-      "title_orig": "Tum Bin...: Love Will Find a Way",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2001,
-      "kinopoisk_id": "271969",
-      "imdb_id": "tt0290326",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-12-11T08:28:59Z",
-      "updated_at": "2018-12-11T08:28:59Z",
-      "material_data": {
-        "title": "Без тебя",
-        "title_en": "Tum Bin...: Love Will Find a Way",
-        "year": 2001,
-        "tagline": "Love will find a way",
-        "description": "Молодой предприниматель Шенкар по нелепой случайности становится виновником смерти своего коллеги Амара, приехавшего в Индию из Канады на несколько дней. Под гнётом собственной вины Шенкар отправляется в Канаду, чтобы хоть как-то помочь родственникам Амара.\n\rЗдесь он знакомится с Пийей - невестой Амара. Шенкар влюбляется в Пийю, но сможет ли он рассказать ей правду о гибели жениха, да и полиция разыскивает его, как обвиняемого...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/271969.jpg",
-        "duration": 141,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 166,
-        "imdb_rating": 7.5,
-        "imdb_votes": 3196,
-        "premiere_world": "2001-07-13",
-        "minimal_age": 0,
-        "actors": [
-          "Прияншу Чаттерджи",
-          "Химаншу Малик",
-          "Сандали Синха",
-          "Ракеш Бапат",
-          "Викрам Гокхале",
-          "Раджеш Кхера",
-          "Навнит Нишан",
-          "Reshma Bombaywala",
-          "Раджендра Гупта",
-          "Враджеш Хирджи"
-        ],
-        "directors": [
-          "Анубхав Синха"
-        ],
-        "producers": [
-          "Бхушан Кумар",
-          "Кришан Кумар",
-          "Раджеш Шах"
-        ],
-        "writers": [
-          "Shashank Dabral",
-          "Анубхав Синха"
-        ],
-        "composers": [
-          "Баблу Чакраворти",
-          "Никхил",
-          "Винэй"
-        ],
-        "editors": [
-          "Санжиб Датта"
-        ],
-        "designers": [
-          "Acropolis"
-        ],
-        "operators": [
-          "Виджай Кумар Арора"
-        ]
-      }
-    },
-    {
-      "id": "movie-29418",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Сомнительные",
-      "title_orig": "Mutalim Besafek",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1062827",
-      "imdb_id": "tt7087940",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-12-11T08:16:10Z",
-      "updated_at": "2018-12-11T08:16:10Z",
-      "material_data": {
-        "title": "Сомнительные",
-        "title_en": "Mutalim Besafek",
-        "year": 2017,
-        "description": "Сценариста и поэта Асси интересует только его внутренняя жизнь: сомнения, тревожные мысли и экзистенциальные раздумья. Но все меняется после того, как его приговаривают к общественным работам с подростками, находящимися под домашним арестом в Беэр-Шеве.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1062827.jpg",
-        "duration": 88,
-        "countries": [
-          "Израиль"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 7.2,
-        "imdb_votes": 163,
-        "premiere_world": "2017-07-19",
-        "actors": [
-          "Яаков Адерет",
-          "Ошер Амара",
-          "Лирон Бен-Шлуш",
-          "Ран Данкер",
-          "Элрой Фасс",
-          "Мелоди Франк",
-          "Адар Хазази Герш",
-          "Шалев Гиргин",
-          "Элад Худара",
-          "Рики Худара"
-        ],
-        "directors": [
-          "Элиран Элья"
-        ],
-        "producers": [
-          "Орен Роговин",
-          "Янкаль’э Амзалег",
-          "Асаф Нави"
-        ],
-        "writers": [
-          "Элиран Элья"
-        ],
-        "composers": [
-          "Ран Элимелеч",
-          "Йорам Хазан"
-        ],
-        "editors": [
-          "Арик Лейбович"
-        ],
-        "designers": [
-          "Йоав Синаи",
-          "Сарит Шарара"
-        ],
-        "operators": [
-          "Шай Голдман"
-        ]
-      }
-    },
-    {
-      "id": "movie-29422",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Операция \"Рождественский Список\"",
-      "title_orig": "Operation Christmas List",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "945088",
-      "imdb_id": "tt5178596",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-12-11T08:08:46Z",
-      "updated_at": "2018-12-11T08:08:46Z",
-      "material_data": {
-        "title": "Операция «Рождественский список»",
-        "title_en": "Operation Christmas List",
-        "year": 2016,
-        "tagline": "Naughty or nice? This year he's changing all the rules!",
-        "description": "12-летний Барни собирается получить на Рождество то, что он действительно хочет. Он разрабатывает план, как достать самую популярную игрушку года и обменять её на новенький велосипед. Барни с друзьями пробирается в магазин игрушек после его закрытия, но его план рушится после того, как с похожей идеей в магазин вламываются четверо грабителей.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/945088.jpg",
-        "duration": 88,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "комедия",
-          "семейный"
-        ],
-        "imdb_rating": 4.7,
-        "imdb_votes": 63,
-        "premiere_world": "2016-12-10",
-        "actors": [
-          "Colton Gobbo",
-          "Кайл Пикок",
-          "Джейкоб Соли",
-          "Julia Pulo",
-          "Dalia Yegavian",
-          "Брайан Карлтон",
-          "Кит Купер",
-          "Брайан Кук",
-          "Gene Abella",
-          "Matthew Hawkins"
-        ],
-        "directors": [
-          "Джастин Дж. Дик"
-        ],
-        "producers": [
-          "Бет Стивенсон"
-        ],
-        "writers": [
-          "Кит Купер"
-        ],
-        "composers": [
-          "Пьюр Уэст"
-        ],
-        "editors": [
-          "Marco Deufemia"
-        ],
-        "operators": [
-          "Кайл Френсис"
-        ]
-      }
-    },
-    {
-      "id": "serial-13552",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Императрица Фуяо",
-      "title_orig": "Fuyao",
-      "other_title": "Легенда о Фу Яо / Legend Of Fu Yao",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 66,
-      "episodes_count": 66,
-      "kinopoisk_id": "1178536",
-      "imdb_id": "tt8811032",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-12-05T22:21:51Z",
-      "updated_at": "2018-12-11T07:36:47Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": "",
-            "26": "",
-            "27": "",
-            "28": "",
-            "29": "",
-            "30": "",
-            "31": "",
-            "32": "",
-            "33": "",
-            "34": "",
-            "35": "",
-            "36": "",
-            "37": "",
-            "38": "",
-            "39": "",
-            "40": "",
-            "41": "",
-            "42": "",
-            "43": "",
-            "44": "",
-            "45": "",
-            "46": "",
-            "47": "",
-            "48": "",
-            "49": "",
-            "50": "",
-            "51": "",
-            "52": "",
-            "53": "",
-            "54": "",
-            "55": "",
-            "56": "",
-            "57": "",
-            "58": "",
-            "59": "",
-            "60": "",
-            "61": "",
-            "62": "",
-            "63": "",
-            "64": "",
-            "65": "",
-            "66": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Императрица Фуяо",
-        "title_en": "Fuyao",
-        "year": 2018,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1178536.jpg",
-        "duration": 45,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "imdb_rating": 7.7,
-        "imdb_votes": 671,
-        "premiere_world": "2018-06-18",
-        "actors": [
-          "Ян Ми",
-          "Этан Жуань",
-          "Лай И",
-          "Цзянь Лун",
-          "Гао Вэйгуан",
-          "Лю Ицзюнь",
-          "Чжан Яцинь",
-          "Лян Сэнь",
-          "Чжао Чулунь",
-          "Ван Цзиньсун"
-        ],
-        "directors": [
-          "Cai Li",
-          "Цзэ Се",
-          "Ян Вэньцзюнь"
-        ],
-        "producers": [
-          "Fei Chen",
-          "Хань Чжицзе",
-          "Ли Эръюнь",
-          "Сяо Су",
-          "Сунь Чжунхуай",
-          "Ван Цзюань",
-          "Weiyi Wang",
-          "Jie Xia",
-          "Xiao'ou Xu",
-          "Ян Сяопэй"
-        ],
-        "writers": [
-          "Tianxia Guiyuan",
-          "Yanyan Xie"
-        ],
-        "editors": [
-          "Xiaoping Wang"
-        ],
-        "designers": [
-          "Шао Чанъюн",
-          "Стэнли Чун"
         ]
       }
     }

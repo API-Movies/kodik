@@ -1,152 +1,6 @@
 {
   "results": [
     {
-      "id": "movie-22429",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Жильцы снизу",
-      "title_orig": "Lou xia de fang ke",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "986228",
-      "imdb_id": "tt5735582",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-03-28T04:30:40Z",
-      "updated_at": "2018-03-28T04:30:40Z",
-      "material_data": {
-        "title": "Жильцы снизу",
-        "title_en": "Lou xia de fang ke",
-        "year": 2016,
-        "description": "Через расставленные по всему дому камеры наблюдения домовладелец шпионит за жильцами и вскоре решает вмешаться в их судьбы.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/986228.jpg",
-        "duration": 110,
-        "countries": [
-          "Тайвань"
-        ],
-        "genres": [
-          "драма",
-          "криминал",
-          "триллер"
-        ],
-        "imdb_rating": 5.6,
-        "imdb_votes": 955,
-        "premiere_world": "2016-06-30",
-        "actors": [
-          "Саймон Ям",
-          "Айви Шао",
-          "Софиа Лу",
-          "Ли Каншэн",
-          "Кэш Чуан",
-          "Янь Шэнъюй",
-          "Юй Аньшунь",
-          "Энджел Хо",
-          "Акио Чэнь",
-          "Чжан Цюнцзы"
-        ],
-        "directors": [
-          "Адам Цуй"
-        ],
-        "producers": [
-          "Адам Цуй",
-          "Энджи Чай",
-          "Хо Пин",
-          "Ляо Чинь-Фэн"
-        ],
-        "writers": [
-          "Гидденс Ко"
-        ],
-        "composers": [
-          "Крис Хоу",
-          "Айван Линн",
-          "Адам Цуй"
-        ],
-        "editors": [
-          "Линь Янь"
-        ],
-        "designers": [
-          "Кэй Гоцудзи",
-          "Дора Нг"
-        ],
-        "operators": [
-          "Джимми Юй"
-        ]
-      }
-    },
-    {
-      "id": "movie-22427",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Тирунал",
-      "title_orig": "Thirunaal",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "968592",
-      "imdb_id": "tt5495270",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-03-27T20:05:30Z",
-      "updated_at": "2018-03-28T04:29:41Z",
-      "material_data": {
-        "title": "Thirunaal",
-        "title_en": "",
-        "year": 2016,
-        "duration": 137,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "мелодрама"
-        ],
-        "imdb_rating": 4,
-        "imdb_votes": 181,
-        "premiere_world": "2016-08-05",
-        "actors": [
-          "Джива",
-          "Наянтара",
-          "Карунас",
-          "Минакши",
-          "Sharath Lohitashwa",
-          "Гопинат",
-          "Joe Malloori",
-          "Jayabalan",
-          "Рамачандран",
-          "Маримуту"
-        ],
-        "directors": [
-          "Рамнат"
-        ],
-        "producers": [
-          "M. Senthil Kumar"
-        ],
-        "writers": [
-          "Рамнат"
-        ],
-        "composers": [
-          "Шрикант Дева"
-        ],
-        "editors": [
-          "T.S. Jay",
-          "В.Т. Виджаян"
-        ],
-        "operators": [
-          "Mahesh Muthuswami"
-        ]
-      }
-    },
-    {
       "id": "serial-9968",
       "type": "foreign-serial",
       "link": "",
@@ -6268,10 +6122,11 @@
           "комедия"
         ],
         "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 130,
+        "kinopoisk_votes": 131,
         "imdb_rating": 7.4,
-        "imdb_votes": 1344,
+        "imdb_votes": 1351,
         "premiere_world": "2017-09-06",
+        "minimal_age": 0,
         "actors": [
           "Гай Амир",
           "Ханан Савьон",
@@ -6767,8 +6622,9 @@
           "комедия"
         ],
         "imdb_rating": 7,
-        "imdb_votes": 4648,
+        "imdb_votes": 4665,
         "premiere_world": "2017-11-17",
+        "minimal_age": 0,
         "actors": [
           "Видья Балан",
           "Манав Каул",
@@ -8077,7 +7933,7 @@
         "imdb_rating": 7.4,
         "imdb_votes": 1042,
         "shikimori_rating": 8.1,
-        "shikimori_votes": 18910,
+        "shikimori_votes": 18915,
         "premiere_world": "2011-01-07",
         "aired_at": "2011-01-08",
         "released_at": "2011-07-02",
@@ -8742,6 +8598,177 @@
         ],
         "operators": [
           "Юхару Ацута"
+        ]
+      }
+    },
+    {
+      "id": "movie-21711",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Безумный следователь",
+      "title_orig": "San taam",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2007,
+      "kinopoisk_id": "279823",
+      "imdb_id": "tt0969269",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-03-16T10:32:19Z",
+      "updated_at": "2018-03-16T10:32:19Z",
+      "material_data": {
+        "title": "Безумный следователь",
+        "title_en": "San taam",
+        "year": 2007,
+        "tagline": "I can see a person's inner personality.",
+        "description": "В Гонконге во время дежурства исчезает полицейский. Никаких улик и зацепок нет. Однако надежда на раскрытие преступления есть - нужно обратиться к гениальному детективу Буну, на счету которого не было ни одного нераскрытого дела. Единственная загвоздка в том, что детектив Бун шизофреник и был уволен из полиции за то, что подарил начальству свое ухо.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/279823.jpg",
+        "duration": 89,
+        "countries": [
+          "Гонконг"
+        ],
+        "genres": [
+          "боевик",
+          "криминал",
+          "триллер"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 2668,
+        "imdb_rating": 7.2,
+        "imdb_votes": 6760,
+        "premiere_ru": "2008-10-16",
+        "premiere_world": "2007-09-06",
+        "minimal_age": 16,
+        "actors": [
+          "Шон Лау",
+          "Энди Он",
+          "Гордон Лам",
+          "Келли Лин",
+          "Ли Квок-Лунь",
+          "Чои-Нин Ли",
+          "Флора Чан",
+          "Эдди Чун",
+          "Лам Сует",
+          "Джей Лау"
+        ],
+        "directors": [
+          "Джонни То",
+          "Вай Ка-Фай"
+        ],
+        "producers": [
+          "Джонни То",
+          "Тиффани Чан",
+          "Элос Галло",
+          "Чарльз Хён",
+          "Кук Кок-люн",
+          "Вай Ка-Фай"
+        ],
+        "writers": [
+          "Вай Ка-Фай",
+          "Ау Кинь-И"
+        ],
+        "composers": [
+          "Ксавье Жамо"
+        ],
+        "editors": [
+          "Тина Баз"
+        ],
+        "designers": [
+          "Рэймонд Чан",
+          "Стэнли Чун"
+        ],
+        "operators": [
+          "Алан Чэн"
+        ]
+      }
+    },
+    {
+      "id": "movie-21709",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Однажды на востоке",
+      "title_orig": "Bay rong",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2009,
+      "kinopoisk_id": "493593",
+      "imdb_id": "tt1571565",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-03-16T10:31:55Z",
+      "updated_at": "2018-03-16T10:31:55Z",
+      "material_data": {
+        "title": "Однажды на востоке",
+        "title_en": "Bay rong",
+        "year": 2009,
+        "description": "Дочь Чинь похищена. Чтобы вернуть ее целой и невредимой, Чинь должна выполнить несколько опасных миссий, ради которых она собирает отряд наемников. С одним из них, таинственным человеком по имени Куан, у Чинь завязываются близкие отношения. Но чем ближе заветная для Чинь цель, тем более запутанными становятся их отношения с Куаном – она понимает, что Куан не так прост, как кажется на первый взгляд, и что в этой истории у него есть свой собственный интерес.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/493593.jpg",
+        "duration": 90,
+        "countries": [
+          "Вьетнам"
+        ],
+        "genres": [
+          "боевик",
+          "криминал",
+          "триллер"
+        ],
+        "kinopoisk_rating": 6.2,
+        "kinopoisk_votes": 286,
+        "imdb_rating": 6,
+        "imdb_votes": 1068,
+        "premiere_world": "2009-12-09",
+        "rating_mpaa": "R",
+        "minimal_age": 16,
+        "actors": [
+          "Джонни Нгуен",
+          "Вероника Нго",
+          "Хоанг Фук Нгуен",
+          "Лам Мин Тэнг",
+          "Хьеу Хьен",
+          "Труонг Те Винь",
+          "Нгуйен Хау",
+          "Ален Брюкселье",
+          "Франсуа де ла Торре",
+          "Isabelle Du"
+        ],
+        "directors": [
+          "Ле Тхань Сон"
+        ],
+        "producers": [
+          "Джимми Пэм",
+          "Ryan Hoang Hubris",
+          "Дженни Тран Ле",
+          "Вероника Нго",
+          "Джонни Нгуен",
+          "Рич Лонг Нгуйен",
+          "Thanh Truc «Tawny» Nguyen",
+          "Алекс Во",
+          "Карсон Во"
+        ],
+        "writers": [
+          "Ле Тхань Сон",
+          "Джонни Нгуен"
+        ],
+        "composers": [
+          "Кристофер Вон"
+        ],
+        "editors": [
+          "Хам Чан"
+        ],
+        "designers": [
+          "Кюи Тунг Ла",
+          "Тран Трунг Лин"
+        ],
+        "operators": [
+          "Доминик Перейра"
         ]
       }
     }

@@ -1,6 +1,172 @@
 {
   "results": [
     {
+      "id": "movie-28060",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Тысяча лиц Дуньцзя",
+      "title_orig": "Qi men Dunjia",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1008457",
+      "imdb_id": "tt6814080",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-11-06T06:56:38Z",
+      "updated_at": "2018-11-06T06:56:38Z",
+      "material_data": {
+        "title": "Тысяча лиц Дуньцзя",
+        "title_en": "Qi men Dunjia",
+        "year": 2017,
+        "description": "Испокон веков члены клана Уинь защищали Землю от вторжения монстров из других миров. Теперь им предстоит серьёзная битва с захватчиком и его пробуждённым сородичем, а этот тандем практически неуязвим. Один из членов клана обнаруживает заточённую в тюрьме загадочную девушку без прошлого. Она, а также юный констебль, случайно ввязавшийся в эту битву, могут помочь клану Уинь одержать победу.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1008457.jpg",
+        "duration": 113,
+        "countries": [
+          "Гонконг",
+          "Китай"
+        ],
+        "genres": [
+          "боевик",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 5.8,
+        "kinopoisk_votes": 262,
+        "imdb_rating": 5.4,
+        "imdb_votes": 1117,
+        "premiere_world": "2017-12-14",
+        "actors": [
+          "Да Пэн",
+          "Ни Ни",
+          "Аариф Ли",
+          "Чжоу Дунъюй",
+          "У Бай",
+          "Ада Лю",
+          "Тайгер Сюй",
+          "Ян Ивэй",
+          "Се Мяо",
+          "Сунь Минмин"
+        ],
+        "directors": [
+          "Юэнь Ву-Пин"
+        ],
+        "producers": [
+          "Цуй Харк"
+        ],
+        "writers": [
+          "Цуй Харк"
+        ]
+      }
+    },
+    {
+      "id": "serial-13108",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Взрослые женщины",
+      "title_orig": "Otona Joshi",
+      "other_title": "\"Юные\" женщины / Adult Woman",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "1252439",
+      "imdb_id": "tt4976536",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-11-05T19:39:50Z",
+      "updated_at": "2018-11-05T19:39:50Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Взрослые женщины",
+        "title_en": "Otona Joshi",
+        "year": 2015,
+        "duration": 54,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "imdb_rating": 7.3,
+        "imdb_votes": 24,
+        "premiere_world": "2015-10-15",
+        "actors": [
+          "Рёко Синохара",
+          "Ёсукэ Эгути",
+          "Митико Китисэ",
+          "Сава Судзуки",
+          "Сёсукэ Танихара",
+          "Юдаи Тиба",
+          "Наруси Икэда",
+          "Ая Хираяма",
+          "Рё Ёсидзава",
+          "Мивако Итикава"
+        ],
+        "directors": [
+          "Рё Танака",
+          "Мунэнори Секино"
+        ],
+        "producers": [
+          "Тосиюки Накано"
+        ],
+        "writers": [
+          "Масая Одзаки",
+          "Ёко Идзумисава"
+        ],
+        "composers": [
+          "Акихиро Манабэ",
+          "Маюко",
+          "Кэнъитиро Суэхиро"
+        ]
+      }
+    },
+    {
+      "id": "movie-28043",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Щенки и пикапы\t",
+      "title_orig": "Au bout du rang\t",
+      "translation": {
+        "id": 660,
+        "title": "GreenРай Studio",
+        "type": "voice"
+      },
+      "year": 2018,
+      "imdb_id": "tt1254200",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-11-05T17:06:25Z",
+      "updated_at": "2018-11-05T17:06:25Z"
+    },
+    {
       "id": "movie-27988",
       "type": "foreign-movie",
       "link": "",
@@ -205,7 +371,6 @@
       "updated_at": "2018-11-05T07:24:46Z",
       "material_data": {
         "title": "El descubrimiento",
-        "title_en": "",
         "year": 2009,
         "duration": 15,
         "countries": [
@@ -215,9 +380,10 @@
           "драма",
           "короткометражка"
         ],
-        "imdb_rating": 8.5,
-        "imdb_votes": 16,
+        "imdb_rating": 8.4,
+        "imdb_votes": 17,
         "premiere_world": "2009-03-16",
+        "minimal_age": 0,
         "actors": [
           "Рафаэль Амайа",
           "Хулио Седильо",
@@ -8218,94 +8384,6 @@
       }
     },
     {
-      "id": "movie-27712",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Тёмное зеркало",
-      "title_orig": "Look Away",
-      "translation": {
-        "id": 790,
-        "title": "HiWayGrope",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1027785",
-      "imdb_id": "tt5834760",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-10-24T07:29:33Z",
-      "updated_at": "2018-10-24T07:29:33Z",
-      "material_data": {
-        "title": "Тёмное зеркало",
-        "title_en": "Look Away",
-        "year": 2018,
-        "tagline": "Дай волю своим тайным желаниям",
-        "description": "18-летняя старшеклассница Мария нелюбима родителями, и со сверстниками у девушки отношения не ладятся. Будучи изгоем, она доверяет все свои секреты и переживания собственному отражению в зеркале, воображаемому злому близнецу, который поддерживает, поощряет и знает все её тайны. Однажды Мария меняется местами со своим двойником, который начинает воплощать её самые дикие и необузданные желания.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1027785.jpg",
-        "duration": 103,
-        "countries": [
-          "Канада",
-          "США"
-        ],
-        "genres": [
-          "триллер",
-          "ужасы",
-          "фэнтези"
-        ],
-        "kinopoisk_rating": 5.4,
-        "kinopoisk_votes": 45319,
-        "imdb_rating": 5.8,
-        "imdb_votes": 13852,
-        "premiere_ru": "2019-01-10",
-        "premiere_world": "2018-10-08",
-        "minimal_age": 18,
-        "actors": [
-          "Индиа Айсли",
-          "Джейсон Айзекс",
-          "Мира Сорвино",
-          "Пенелопа Митчелл",
-          "Джон С. МакДональд",
-          "Харрисон Гилбертсон",
-          "Кристен Харрис",
-          "Кира Джонсон",
-          "Михал Бернштейн",
-          "Гленн Одеро"
-        ],
-        "directors": [
-          "Асаф Бернштейн"
-        ],
-        "producers": [
-          "Асаф Бернштейн",
-          "Брэд Каплан",
-          "Гиора Каплан",
-          "Дэна Лустиг",
-          "Дженнифер Бисли",
-          "Джефф Бисли",
-          "Михал Бернштейн",
-          "Эрик Голдрич",
-          "Филлис Лэйн",
-          "Хилик Михаэли"
-        ],
-        "writers": [
-          "Асаф Бернштейн"
-        ],
-        "composers": [
-          "Марио Григоров"
-        ],
-        "editors": [
-          "Дэнни Рафик"
-        ],
-        "designers": [
-          "Майк Мулхолл",
-          "Эврен Кэтлин"
-        ],
-        "operators": [
-          "Педро Луке"
-        ]
-      }
-    },
-    {
       "id": "movie-27703",
       "type": "foreign-movie",
       "link": "",
@@ -8323,94 +8401,6 @@
       "blocked_countries": [],
       "created_at": "2018-10-23T23:26:46Z",
       "updated_at": "2018-10-23T23:26:46Z"
-    },
-    {
-      "id": "movie-27694",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Тёмное зеркало",
-      "title_orig": "Look Away",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1027785",
-      "imdb_id": "tt5834760",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-10-23T23:12:06Z",
-      "updated_at": "2018-10-23T23:12:06Z",
-      "material_data": {
-        "title": "Тёмное зеркало",
-        "title_en": "Look Away",
-        "year": 2018,
-        "tagline": "Дай волю своим тайным желаниям",
-        "description": "18-летняя старшеклассница Мария нелюбима родителями, и со сверстниками у девушки отношения не ладятся. Будучи изгоем, она доверяет все свои секреты и переживания собственному отражению в зеркале, воображаемому злому близнецу, который поддерживает, поощряет и знает все её тайны. Однажды Мария меняется местами со своим двойником, который начинает воплощать её самые дикие и необузданные желания.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1027785.jpg",
-        "duration": 103,
-        "countries": [
-          "Канада",
-          "США"
-        ],
-        "genres": [
-          "триллер",
-          "ужасы",
-          "фэнтези"
-        ],
-        "kinopoisk_rating": 5.4,
-        "kinopoisk_votes": 45319,
-        "imdb_rating": 5.8,
-        "imdb_votes": 13852,
-        "premiere_ru": "2019-01-10",
-        "premiere_world": "2018-10-08",
-        "minimal_age": 18,
-        "actors": [
-          "Индиа Айсли",
-          "Джейсон Айзекс",
-          "Мира Сорвино",
-          "Пенелопа Митчелл",
-          "Джон С. МакДональд",
-          "Харрисон Гилбертсон",
-          "Кристен Харрис",
-          "Кира Джонсон",
-          "Михал Бернштейн",
-          "Гленн Одеро"
-        ],
-        "directors": [
-          "Асаф Бернштейн"
-        ],
-        "producers": [
-          "Асаф Бернштейн",
-          "Брэд Каплан",
-          "Гиора Каплан",
-          "Дэна Лустиг",
-          "Дженнифер Бисли",
-          "Джефф Бисли",
-          "Михал Бернштейн",
-          "Эрик Голдрич",
-          "Филлис Лэйн",
-          "Хилик Михаэли"
-        ],
-        "writers": [
-          "Асаф Бернштейн"
-        ],
-        "composers": [
-          "Марио Григоров"
-        ],
-        "editors": [
-          "Дэнни Рафик"
-        ],
-        "designers": [
-          "Майк Мулхолл",
-          "Эврен Кэтлин"
-        ],
-        "operators": [
-          "Педро Луке"
-        ]
-      }
     },
     {
       "id": "serial-12873",
@@ -8532,85 +8522,6 @@
         ],
         "editors": [
           "Линь Янь"
-        ]
-      }
-    },
-    {
-      "id": "serial-12946",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Сигнал",
-      "title_orig": "Signal",
-      "other_title": "Сигнал (японская версия) / Shigunaru: Choki Mikaiketsu Jiken Sosahan / Signal: Long-Term Unsolved Case Investigation Team",
-      "translation": {
-        "id": 639,
-        "title": "SoftBox",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 10,
-      "episodes_count": 10,
-      "kinopoisk_id": "1121667",
-      "imdb_id": "tt8315772",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-10-21T07:57:18Z",
-      "updated_at": "2018-10-23T16:43:07Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Сигнал",
-        "title_en": "Signal",
-        "year": 2018,
-        "duration": 54,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "детектив",
-          "криминал",
-          "фантастика"
-        ],
-        "imdb_rating": 7.4,
-        "imdb_votes": 163,
-        "premiere_world": "2018-04-10",
-        "minimal_age": 0,
-        "actors": [
-          "Кэнтаро Сакагути",
-          "Митико Китисэ",
-          "Кадзуки Китамура",
-          "Каэдэ Аоно",
-          "Тэцухиро Икэда",
-          "Фудзю Камио",
-          "Юити Кимура",
-          "Масахиро Комото",
-          "Хадзимэ Окаяма",
-          "Ацуро Ватабэ"
-        ],
-        "directors": [
-          "Акира Утиката"
-        ],
-        "writers": [
-          "Масая Одзаки",
-          "Ким Ын-хи"
         ]
       }
     }
