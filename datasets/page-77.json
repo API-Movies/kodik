@@ -1,6 +1,534 @@
 {
   "results": [
     {
+      "id": "movie-60517",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Чудесный ковёр",
+      "title_orig": "Чудесный ковёр",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1977,
+      "kinopoisk_id": "1270969",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T07:40:26Z",
+      "updated_at": "2020-09-16T07:40:26Z",
+      "material_data": {
+        "title": "Чудесный ковер",
+        "year": 1977,
+        "description": "По мотивам узбекских сказок.",
+        "duration": 9,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "minimal_age": 0,
+        "actors": [
+          "Всеволод Ларионов",
+          "Маргарита Корабельникова"
+        ],
+        "directors": [
+          "Шарафат Шакирова"
+        ],
+        "writers": [
+          "Рустам Сагдуллаев"
+        ],
+        "operators": [
+          "Николай Хмара"
+        ]
+      }
+    },
+    {
+      "id": "movie-60518",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Бабочка",
+      "title_orig": "Babochka",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1972,
+      "kinopoisk_id": "263216",
+      "imdb_id": "tt0820033",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T07:38:30Z",
+      "updated_at": "2020-09-16T07:38:30Z",
+      "material_data": {
+        "title": "Бабочка",
+        "year": 1972,
+        "description": "Мальчик поймал много бабочек, поместил их в душную закрытую банку и уснул. А во сне он стал пленником огромной бабочки, которая пронесла его в марлевом сачке над землей. Мальчик понял, что все живое должно быть свободным -- и открыл крышку банки...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/263216.jpg",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 383,
+        "imdb_rating": 7.2,
+        "imdb_votes": 214,
+        "minimal_age": 6,
+        "directors": [
+          "Андрей Хржановский"
+        ],
+        "writers": [
+          "Роза Хуснутдинова"
+        ],
+        "composers": [
+          "Альфред Шнитке"
+        ],
+        "editors": [
+          "Марина Трусова"
+        ],
+        "designers": [
+          "Юрий Нолев-Соболев",
+          "Гелий Аркадьев"
+        ],
+        "operators": [
+          "Елена Петрова"
+        ]
+      }
+    },
+    {
+      "id": "movie-60485",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Катерок",
+      "title_orig": "Katerok",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1970,
+      "kinopoisk_id": "258097",
+      "imdb_id": "tt2213622",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T07:30:59Z",
+      "updated_at": "2020-09-16T07:30:59Z",
+      "material_data": {
+        "title": "Катерок",
+        "year": 1970,
+        "description": "Музыкальный фильм о почтовом катерке и его путешествии на остров Чунга-Чанга.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/258097.jpg",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "детский",
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7.4,
+        "kinopoisk_votes": 5062,
+        "imdb_rating": 7,
+        "imdb_votes": 88,
+        "minimal_age": 0,
+        "actors": [
+          "Аида Ведищева",
+          "Анатолий Горохов"
+        ],
+        "directors": [
+          "Инесса Ковалевская"
+        ],
+        "writers": [
+          "Жанна Витензон"
+        ],
+        "composers": [
+          "Владимир Шаинский"
+        ],
+        "editors": [
+          "Елена Тертычная"
+        ],
+        "designers": [
+          "Даниил Менделевич"
+        ],
+        "operators": [
+          "Александр Жуковский"
+        ]
+      }
+    },
+    {
+      "id": "movie-60486",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Неженка",
+      "title_orig": "Nebieri",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1950,
+      "kinopoisk_id": "46384",
+      "imdb_id": "tt0145930",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T07:30:08Z",
+      "updated_at": "2020-09-16T07:30:08Z",
+      "material_data": {
+        "title": "Неженка",
+        "title_en": "",
+        "year": 1950,
+        "description": "Как спорт укрепил здоровье неженке-медвежонку.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/46384.jpg",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "imdb_rating": 6,
+        "imdb_votes": 8,
+        "minimal_age": 0,
+        "directors": [
+          "Шалва Гедеванишвили"
+        ],
+        "writers": [
+          "Шалва Гедеванишвили"
+        ],
+        "composers": [
+          "Арчил Кереселидзе"
+        ],
+        "designers": [
+          "Теймураз Микадзе",
+          "Е. Хачоян",
+          "Иосиф Сумбаташвили"
+        ],
+        "operators": [
+          "Любовь Квалиашвили",
+          "Сарра Спарсиашвили"
+        ]
+      }
+    },
+    {
+      "id": "movie-60487",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Джябжа",
+      "title_orig": "Dzhyabzha",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1938,
+      "kinopoisk_id": "682698",
+      "imdb_id": "tt2381165",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T07:28:52Z",
+      "updated_at": "2020-09-16T07:28:52Z",
+      "material_data": {
+        "title": "Джябжа",
+        "year": 1938,
+        "duration": 12,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "imdb_rating": 7.5,
+        "imdb_votes": 14,
+        "directors": [
+          "Мстислав Пащенко"
+        ],
+        "writers": [
+          "Мстислав Пащенко"
+        ],
+        "composers": [
+          "Николай Стрельников"
+        ],
+        "designers": [
+          "В. Соколов",
+          "Н. Верещагина"
+        ]
+      }
+    },
+    {
+      "id": "movie-60489",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Быть или... пить?",
+      "title_orig": "Быть или... пить?",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1985,
+      "kinopoisk_id": "1115357",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T07:26:35Z",
+      "updated_at": "2020-09-16T07:26:35Z",
+      "material_data": {
+        "title": "Быть или... пить?",
+        "year": 1985,
+        "description": "О гибельной власти алкоголя над человеком.",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "minimal_age": 0,
+        "directors": [
+          "Бондо Шошитаишвили"
+        ],
+        "writers": [
+          "Бондо Шошитаишвили",
+          "Деви Иванович-Чиковани"
+        ],
+        "composers": [
+          "И. Варданашвили"
+        ],
+        "designers": [
+          "Иосиф Самсонадзе"
+        ],
+        "operators": [
+          "Виолетта Каросанидзе"
+        ]
+      }
+    },
+    {
+      "id": "movie-60490",
+      "type": "russian-movie",
+      "link": "",
+      "title": "В мире басен",
+      "title_orig": "V mire basen",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1973,
+      "kinopoisk_id": "478680",
+      "imdb_id": "tt3454420",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T07:25:16Z",
+      "updated_at": "2020-09-16T07:25:16Z",
+      "material_data": {
+        "title": "В мире басен",
+        "title_en": "",
+        "year": 1973,
+        "description": "Мультфильм на основе басен Крылова «Любопытный», «Осел и Соловей», «Кукушка и Петух».",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/478680.jpg",
+        "duration": 11,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 6.1,
+        "kinopoisk_votes": 226,
+        "imdb_rating": 5.8,
+        "imdb_votes": 17,
+        "minimal_age": 6,
+        "actors": [
+          "Эраст Гарин",
+          "Алексей Грибов"
+        ],
+        "directors": [
+          "Андрей Хржановский"
+        ],
+        "writers": [
+          "Андрей Хржановский"
+        ],
+        "composers": [
+          "Альфред Шнитке"
+        ],
+        "editors": [
+          "Марина Трусова"
+        ],
+        "operators": [
+          "Нина Климова"
+        ]
+      }
+    },
+    {
+      "id": "movie-60491",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Возвращенное солнце",
+      "title_orig": "Vozvrashchennoe solntse",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1936,
+      "kinopoisk_id": "675758",
+      "imdb_id": "tt4854128",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T07:24:18Z",
+      "updated_at": "2020-09-16T07:24:18Z",
+      "material_data": {
+        "title": "Возвращенное солнце",
+        "year": 1936,
+        "description": "По мотивам старинных легенд чукчей и ненцев.",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 6.1,
+        "kinopoisk_votes": 105,
+        "minimal_age": 0,
+        "directors": [
+          "Ольга Ходатаева"
+        ],
+        "writers": [
+          "В. Потемкина"
+        ],
+        "composers": [
+          "Георгий Милютин"
+        ],
+        "designers": [
+          "Надежда Привалова"
+        ],
+        "operators": [
+          "Д. Каретный",
+          "Елена Петрова"
+        ]
+      }
+    },
+    {
+      "id": "movie-60492",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Знакомые лица",
+      "title_orig": "Знакомые лица",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1966,
+      "kinopoisk_id": "541020",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T07:23:06Z",
+      "updated_at": "2020-09-16T07:23:06Z",
+      "material_data": {
+        "title": "Знакомые лица",
+        "year": 1966,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/541020.jpg",
+        "duration": 9,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "minimal_age": 0,
+        "directors": [
+          "Фаина Епифанова"
+        ],
+        "writers": [
+          "Сергей Михалков"
+        ],
+        "designers": [
+          "Гражина Брашишките"
+        ]
+      }
+    },
+    {
+      "id": "movie-60493",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Злодейка с наклейкой",
+      "title_orig": "Zlodeyka s nakleykoy",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1954,
+      "kinopoisk_id": "478802",
+      "imdb_id": "tt6289304",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T07:21:52Z",
+      "updated_at": "2020-09-16T07:21:52Z",
+      "material_data": {
+        "title": "Злодейка с наклейкой",
+        "year": 1954,
+        "description": "Злодейка с наклейкой — поллитровая бутыль с ногами, руками и нагло-ухмыляющейся физиономией, пытается проникнуть повсюду. Вот ответственный работник отправляется но важному делу. А Злодейка тут как тут. Она предлагает кружку пива, затем водку. Руководитель хмелеет. Из открывшегося портфеля падают бумаги с грифом «секретно»...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/478802.jpg",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 5.9,
+        "kinopoisk_votes": 110,
+        "minimal_age": 0,
+        "directors": [
+          "Всеволод Щербаков",
+          "Борис Степанцев"
+        ],
+        "writers": [
+          "Сергей Михалков"
+        ],
+        "composers": [
+          "Александр Мосолов"
+        ],
+        "editors": [
+          "Н. Аравина"
+        ],
+        "designers": [
+          "В. Грохотов"
+        ],
+        "operators": [
+          "Иосиф Голомб"
+        ]
+      }
+    },
+    {
       "id": "movie-60494",
       "type": "russian-movie",
       "link": "",
@@ -397,7 +925,7 @@
           "Yumeta Company"
         ],
         "shikimori_rating": 6.79,
-        "shikimori_votes": 111,
+        "shikimori_votes": 112,
         "aired_at": "2007-12-28",
         "rating_mpaa": "PG-13",
         "episodes_total": 1,
@@ -1541,7 +2069,7 @@
         "imdb_rating": 8.1,
         "imdb_votes": 24150,
         "shikimori_rating": 6.42,
-        "shikimori_votes": 11908,
+        "shikimori_votes": 12354,
         "premiere_world": "2014-09-01",
         "aired_at": "2019-10-09",
         "released_at": "2020-03-25",
@@ -1778,9 +2306,9 @@
           "Nexus"
         ],
         "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 1298,
+        "kinopoisk_votes": 1324,
         "imdb_rating": 7.4,
-        "imdb_votes": 1112,
+        "imdb_votes": 1146,
         "shikimori_rating": 7.28,
         "shikimori_votes": 11923,
         "premiere_world": "2020-01-03",
@@ -2315,7 +2843,6 @@
       "updated_at": "2020-09-15T14:18:54Z",
       "material_data": {
         "title": "Старт",
-        "title_en": "",
         "year": 1977,
         "duration": 8,
         "countries": [
@@ -2325,6 +2852,7 @@
           "короткометражка",
           "мультфильм"
         ],
+        "minimal_age": 0,
         "directors": [
           "Владимир Морозов"
         ]
@@ -2466,7 +2994,6 @@
       "updated_at": "2020-09-15T14:14:56Z",
       "material_data": {
         "title": "Снежная мельница",
-        "title_en": "",
         "year": 1970,
         "description": "Маленькая девочка со своими друзьями отправляется в долгий путь на далёкую гору, чтобы узнать, почему снежные мельники не запустили снежную мельницу, которая дает снег.",
         "countries": [
@@ -2476,6 +3003,7 @@
           "короткометражка",
           "мультфильм"
         ],
+        "minimal_age": 0,
         "directors": [
           "Хейно Парс"
         ],
@@ -3847,7 +4375,6 @@
       "updated_at": "2020-09-15T12:52:26Z",
       "material_data": {
         "title": "Белая бабочка",
-        "title_en": "",
         "year": 1981,
         "description": "По мотивам одноименной сказки Евгения Пермяка.",
         "poster_url": "https://st.kp.yandex.net/images/film_big/259376.jpg",
@@ -3859,6 +4386,7 @@
           "короткометражка",
           "мультфильм"
         ],
+        "minimal_age": 0,
         "directors": [
           "Галина Тургенева"
         ],
@@ -4928,7 +5456,7 @@
           "триллер"
         ],
         "imdb_rating": 6.9,
-        "imdb_votes": 72,
+        "imdb_votes": 76,
         "premiere_world": "2019-10-13",
         "minimal_age": 0,
         "actors": [
@@ -5657,7 +6185,6 @@
       "updated_at": "2020-09-14T15:21:38Z",
       "material_data": {
         "title": "Мартышка и смычки",
-        "title_en": "",
         "year": 1970,
         "description": "Как Мартышка участвовала в конкурсе музыкантов.",
         "duration": 15,
@@ -5670,6 +6197,7 @@
         ],
         "imdb_rating": 6.2,
         "imdb_votes": 6,
+        "minimal_age": 0,
         "directors": [
           "Валерий Фомин",
           "Анатолий Аляшев"
@@ -5760,7 +6288,6 @@
       "updated_at": "2020-09-14T15:19:29Z",
       "material_data": {
         "title": "Найда",
-        "title_en": "",
         "year": 1984,
         "description": "Об ответственности за «братьев меньших», о том, что нельзя бросать своих маленьких четвероногих друзей.",
         "poster_url": "https://st.kp.yandex.net/images/film_big/465013.jpg",
@@ -5773,9 +6300,9 @@
           "мультфильм"
         ],
         "kinopoisk_rating": 7.5,
-        "kinopoisk_votes": 267,
+        "kinopoisk_votes": 289,
         "imdb_rating": 6.9,
-        "imdb_votes": 14,
+        "imdb_votes": 16,
         "minimal_age": 0,
         "actors": [
           "Григорий Толчинский",
@@ -6386,593 +6913,6 @@
         ],
         "operators": [
           "Кабул Расулов"
-        ]
-      }
-    },
-    {
-      "id": "movie-60381",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Сказка о волшебном гранате",
-      "title_orig": "Skazka o volshebnom granate",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1982,
-      "kinopoisk_id": "647476",
-      "imdb_id": "tt3812798",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-14T07:38:52Z",
-      "updated_at": "2020-09-14T07:38:52Z",
-      "material_data": {
-        "title": "Сказка о волшебном гранате",
-        "year": 1982,
-        "description": "По мотивам узбекских народных сказок.",
-        "duration": 9,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "minimal_age": 0,
-        "directors": [
-          "Светлана Муратходжаева",
-          "Л. Полевая"
-        ],
-        "writers": [
-          "Раим Фархади"
-        ],
-        "composers": [
-          "Владимир Милов"
-        ],
-        "editors": [
-          "Нелли Габбасова"
-        ],
-        "designers": [
-          "О. Харитонова",
-          "А. Гулямов"
-        ],
-        "operators": [
-          "Р. Бердыев"
-        ]
-      }
-    },
-    {
-      "id": "movie-60382",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Сказка про Бачо и его маму",
-      "title_orig": "Zgapari Bachoze da dedamisze",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1978,
-      "kinopoisk_id": "270708",
-      "imdb_id": "tt0822034",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-14T07:37:40Z",
-      "updated_at": "2020-09-14T07:37:40Z",
-      "material_data": {
-        "title": "Сказка про Бачо и его маму",
-        "title_en": "",
-        "year": 1978,
-        "description": "Бачо - маленький мальчик, он смелый и самостоятельный. Он спасает из беды волчат, зайчат и тигрят, и они возвращаются к своим мамам. И зверята-малыши и сам Бачо понимают, что мама - самый дорогой человек на свете, мамочку надо любить и беречь.",
-        "duration": 18,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "directors": [
-          "К. Сулакаури"
-        ],
-        "writers": [
-          "Отиа Иоселиани",
-          "К. Сулакаури"
-        ],
-        "composers": [
-          "Шота Милорава"
-        ],
-        "designers": [
-          "A. Popiashvili"
-        ],
-        "operators": [
-          "Шота Киладзе"
-        ]
-      }
-    },
-    {
-      "id": "movie-60383",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Утренняя песенка",
-      "title_orig": "Утренняя песенка",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1976,
-      "kinopoisk_id": "465611",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-14T07:37:05Z",
-      "updated_at": "2020-09-14T07:37:05Z",
-      "material_data": {
-        "title": "Утренняя песенка",
-        "year": 1976,
-        "description": "О приключениях трех друзей.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/465611.jpg",
-        "duration": 15,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 5.9,
-        "kinopoisk_votes": 772,
-        "minimal_age": 0,
-        "actors": [
-          "Тамара Дмитриева",
-          "Агарь Власова",
-          "Мария Виноградова",
-          "Георгий Милляр",
-          "Александр Баранов"
-        ],
-        "directors": [
-          "Александр Полушкин"
-        ],
-        "writers": [
-          "Александр Полушкин",
-          "Т. Липатова"
-        ],
-        "composers": [
-          "Владислав Казенин"
-        ],
-        "editors": [
-          "В. Кузина"
-        ],
-        "operators": [
-          "В. Лукиенко"
-        ]
-      }
-    },
-    {
-      "id": "movie-60384",
-      "type": "russian-movie",
-      "link": "",
-      "title": "В одной столовой...",
-      "title_orig": "В одной столовой...",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1957,
-      "kinopoisk_id": "818446",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-14T07:36:12Z",
-      "updated_at": "2020-09-14T07:36:12Z",
-      "material_data": {
-        "title": "В одной столовой...",
-        "year": 1957,
-        "description": "Директор столовой Мурмызин, заботясь лишь о личном благополучии, довёл предприятие до полного упадка. В день непредвиденной ревизии столовая оказалась без продуктов. Вместо того чтобы послать машину на продуктовый склад, Мурмызин отправился в ней на рыбную ловлю. Пришедшую женщину-ревизора пришлось накормить домашним обедом, который срочно привезла супруга директора. Каково же было негодование очковтирателя Мурмызина, когда выяснилось, что обедающая женщина не ревизор, а общественный контролёр...",
-        "duration": 17,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "minimal_age": 0,
-        "actors": [
-          "Нина Тер-Осипян",
-          "Л. Терехина",
-          "Серафим Аникеев",
-          "Семён Самодур",
-          "Юрий Хржановский",
-          "Н. Меркулова",
-          "Мария Миронова",
-          "В. Бахарев",
-          "А. Сахновский",
-          "Леонид Пирогов"
-        ],
-        "directors": [
-          "Григорий Ломидзе"
-        ],
-        "writers": [
-          "Яков Зискинд"
-        ],
-        "composers": [
-          "Эдуард Колмановский"
-        ],
-        "editors": [
-          "В. Егорова"
-        ],
-        "designers": [
-          "Григорий Козлов",
-          "Валентина Василенко",
-          "Г. Мирошкин"
-        ],
-        "operators": [
-          "Иосиф Голомб"
-        ]
-      }
-    },
-    {
-      "id": "movie-60385",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Вася и динозавр",
-      "title_orig": "Вася и динозавр",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1971,
-      "kinopoisk_id": "655980",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-14T07:35:16Z",
-      "updated_at": "2020-09-14T07:35:16Z",
-      "material_data": {
-        "title": "Вася и динозавр",
-        "year": 1971,
-        "description": "О приключениях мальчика и его собачки, попавших в доисторические времена.",
-        "duration": 7,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "minimal_age": 0,
-        "directors": [
-          "Валентина Костылева"
-        ],
-        "writers": [
-          "А. Василенко",
-          "В. Куповых"
-        ],
-        "composers": [
-          "Александр Канерштейн"
-        ],
-        "editors": [
-          "О. Деряжная"
-        ],
-        "designers": [
-          "Яков Горбаченко"
-        ],
-        "operators": [
-          "Петр Ракитин"
-        ]
-      }
-    },
-    {
-      "id": "movie-60386",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Волшебная серна",
-      "title_orig": "Volshebnaya serna",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1980,
-      "kinopoisk_id": "655099",
-      "imdb_id": "tt4160372",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-14T07:34:12Z",
-      "updated_at": "2020-09-14T07:34:12Z",
-      "material_data": {
-        "title": "Волшебная серна",
-        "year": 1980,
-        "description": "Мультфильм по мотивам узбекской народной сказки про то, как волшебная серна помогла бедняку Хасану стать богатым. Однако богатство делает его жестоким и жадным...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/655099.jpg",
-        "duration": 17,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 109,
-        "directors": [
-          "С. Иногамов",
-          "Светлана Муратходжаева"
-        ],
-        "writers": [
-          "Анатолий Кабулов"
-        ],
-        "composers": [
-          "Владимир Милов"
-        ],
-        "editors": [
-          "А. Насырова"
-        ],
-        "designers": [
-          "В. Гриднев"
-        ],
-        "operators": [
-          "В. Вахненко"
-        ]
-      }
-    },
-    {
-      "id": "movie-26913",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Траншея 11",
-      "title_orig": "Trench 11",
-      "translation": {
-        "id": 794,
-        "title": "HDrezka Studio",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1006045",
-      "imdb_id": "tt5033290",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-09-23T16:29:36Z",
-      "updated_at": "2020-09-14T07:34:04Z",
-      "material_data": {
-        "title": "Траншея 11",
-        "title_en": "Trench 11",
-        "year": 2017,
-        "tagline": "Violence Is Contagious",
-        "description": "Идут последние дни Первой мировой войны. Канадскому туннельщику приказано провести команду союзников к немецкой базе, скрытой глубоко ниже любых траншей. Немцы потеряли контроль над опасным биологическим оружием, которое превращает людей в сумасшедших убийц. Отряд оказываются в ловушке. Не так страшен Западный фронт, как то, что находится под ним.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1006045.jpg",
-        "duration": 90,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "военный",
-          "триллер",
-          "ужасы"
-        ],
-        "kinopoisk_rating": 5.3,
-        "kinopoisk_votes": 974,
-        "imdb_rating": 5.4,
-        "imdb_votes": 2043,
-        "premiere_world": "2017-10-06",
-        "actors": [
-          "Россиф Сазерленд",
-          "Роберт Штадлобер",
-          "Чарли Каррик",
-          "Шон Бенсон",
-          "Тед Атертон",
-          "Люк Хамфри",
-          "Джефф Стром",
-          "Адам Хертиг",
-          "Карин Ванасс",
-          "Джон Б. Лоу"
-        ],
-        "directors": [
-          "Лео Шерман"
-        ],
-        "producers": [
-          "Тайлер Ливайн",
-          "Исаак Клементс",
-          "François Dagenais",
-          "Джеймс Флер",
-          "Уолтер Гаспарович",
-          "Эндрю Томас Хант",
-          "Мартин Кац",
-          "Филлис Лэйн",
-          "Андерс Палм",
-          "Майкл Пасцт"
-        ],
-        "writers": [
-          "Мэтт Буи",
-          "Лео Шерман"
-        ],
-        "composers": [
-          "Mark Domitric",
-          "Кевин Круглоу",
-          "Ryan McLarnon",
-          "Tom Westin"
-        ],
-        "editors": [
-          "Майк Мунн"
-        ],
-        "designers": [
-          "Chad Giesbrecht",
-          "Joe Mohos",
-          "Сандра Сок",
-          "Маккензи Джонсон"
-        ],
-        "operators": [
-          "Дилан Маклеод"
-        ]
-      }
-    },
-    {
-      "id": "movie-60348",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Всё кувырком",
-      "title_orig": "Vsyo kuvyrkom",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1973,
-      "kinopoisk_id": "1215460",
-      "imdb_id": "tt9162622",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-14T07:33:14Z",
-      "updated_at": "2020-09-14T07:33:14Z",
-      "material_data": {
-        "title": "Всё кувырком",
-        "title_en": "",
-        "year": 1973,
-        "duration": 15,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм",
-          "семейный"
-        ],
-        "actors": [
-          "Олег Балакин"
-        ],
-        "directors": [
-          "Анатолий Папшин"
-        ],
-        "writers": [
-          "Дональд Биссет"
-        ],
-        "composers": [
-          "Геннадий Банщиков"
-        ],
-        "designers": [
-          "В. Храпун",
-          "Валентин Шурыгин"
-        ],
-        "operators": [
-          "Анатолий Папшин"
-        ]
-      }
-    },
-    {
-      "id": "movie-60349",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Взвейтесь, соколы, орлами",
-      "title_orig": "Взвейтесь, соколы, орлами",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1991,
-      "kinopoisk_id": "810952",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-14T07:31:47Z",
-      "updated_at": "2020-09-14T07:31:47Z",
-      "material_data": {
-        "title": "Взвейтесь, соколы, орлами",
-        "year": 1991,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/810952.jpg",
-        "duration": 10,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "minimal_age": 0,
-        "directors": [
-          "Татьяна Житковская"
-        ],
-        "composers": [
-          "Андрей Леденев"
-        ],
-        "designers": [
-          "Н. Байрачный",
-          "Татьяна Кублицкая"
-        ],
-        "operators": [
-          "Юрий Мильтнер"
-        ]
-      }
-    },
-    {
-      "id": "movie-60350",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Заветная мечта",
-      "title_orig": "Zavetnaya mechta",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1972,
-      "kinopoisk_id": "260127",
-      "imdb_id": "tt6079446",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-14T07:29:18Z",
-      "updated_at": "2020-09-14T07:29:18Z",
-      "material_data": {
-        "title": "Заветная мечта",
-        "year": 1972,
-        "description": "О маленьком ослике, который мечтал приносить пользу.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/260127.jpg",
-        "duration": 10,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 502,
-        "imdb_rating": 6.9,
-        "imdb_votes": 22,
-        "minimal_age": 6,
-        "actors": [
-          "Евгений Леонов",
-          "Рина Зеленая",
-          "Анатолий Папанов",
-          "Василий Ливанов"
-        ],
-        "directors": [
-          "Михаил Каменецкий"
-        ],
-        "writers": [
-          "Т. Макарова"
-        ],
-        "composers": [
-          "Евгений Крылатов"
-        ],
-        "designers": [
-          "Гражина Брашишките",
-          "Владимир Дегтярев"
-        ],
-        "operators": [
-          "Александр Жуковский",
-          "Михаил Каменецкий"
         ]
       }
     }
