@@ -1,6 +1,1101 @@
 {
   "results": [
     {
+      "id": "movie-20673",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Хранители боевых искусств",
+      "title_orig": "Gong shou dao",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1087458",
+      "imdb_id": "tt7570234",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-01-23T05:45:35Z",
+      "updated_at": "2018-01-23T05:45:35Z",
+      "material_data": {
+        "title": "Хранители боевых искусств",
+        "title_en": "Gong shou dao",
+        "year": 2017,
+        "description": "Занимающийся тайчи мужчина вызывает на бой представителей других боевых искусств.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1087458.jpg",
+        "duration": 23,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "боевик",
+          "комедия",
+          "короткометражка"
+        ],
+        "kinopoisk_rating": 5.4,
+        "kinopoisk_votes": 796,
+        "imdb_rating": 4.8,
+        "imdb_votes": 482,
+        "premiere_world": "2017-11-11",
+        "actors": [
+          "Джек Ма",
+          "Тони Джа",
+          "Джеки Хён",
+          "Джеки Ву",
+          "Наташа Лю Бордиццо",
+          "Цзоу Шимин",
+          "Асасёрю Акинори",
+          "Джет Ли",
+          "Донни Йен",
+          "Тун Давэй"
+        ],
+        "directors": [
+          "Вэнь Чжан"
+        ],
+        "producers": [
+          "Джет Ли",
+          "Джек Ма"
+        ],
+        "writers": [
+          "Вэнь Чжан"
+        ]
+      }
+    },
+    {
+      "id": "movie-20666",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Пациент Х",
+      "title_orig": "Patient X",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2009,
+      "kinopoisk_id": "484361",
+      "imdb_id": "tt1482216",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-01-22T11:15:23Z",
+      "updated_at": "2018-01-22T11:15:23Z",
+      "material_data": {
+        "title": "Пациент Х",
+        "title_en": "Patient X",
+        "year": 2009,
+        "tagline": "Let it stay inside",
+        "description": "После двадцати лет расследования местная полиция поймала убийцу старшего брата маленького мальчика. Будучи доктором он возвращается в свой старый город, где должен встретиться с убийцами лицом к лицу. Он обнаруживает вампиров, которые представляют смертельную угрозу не только ему, но и всему городу...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/484361.jpg",
+        "duration": 93,
+        "countries": [
+          "Филиппины"
+        ],
+        "genres": [
+          "триллер",
+          "ужасы"
+        ],
+        "kinopoisk_rating": 4.2,
+        "kinopoisk_votes": 74,
+        "imdb_rating": 4.8,
+        "imdb_votes": 98,
+        "premiere_world": "2009-10-28",
+        "rating_mpaa": "PG",
+        "actors": [
+          "Ричард Гутьеррес",
+          "Кристина Рейес",
+          "ТиДжей Тринидад",
+          "Мириам Киамбао",
+          "Нандинг Хосеф",
+          "Элвис Гутьеррез",
+          "Дион Игнасио",
+          "Криспин Пинеда",
+          "Шерил Рамос",
+          "Роки Гутьеррез"
+        ],
+        "directors": [
+          "Ям Ларанас"
+        ],
+        "producers": [
+          "Хосе Мари Абакан",
+          "Ям Ларанас",
+          "Висенте Х. дель Росарио III",
+          "Вик дель Росарио мл.",
+          "Вероника дель Росарио-Корпус",
+          "Annette Gozon",
+          "Ричард Гутьеррес",
+          "Nora Javellana",
+          "Элейн Лосано"
+        ],
+        "writers": [
+          "Ям Ларанас",
+          "Алой Адлаван"
+        ],
+        "composers": [
+          "Нани Нагит"
+        ],
+        "editors": [
+          "Чак Гутьеррез"
+        ],
+        "designers": [
+          "Самми Аранзамендез",
+          "Бон Бустаманте",
+          "Гуада Рейс"
+        ],
+        "operators": [
+          "Ям Ларанас"
+        ]
+      }
+    },
+    {
+      "id": "serial-8917",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Свидание: Какая она, любовь?",
+      "title_orig": "Date: Koi to Wa Donna Mono Kashira",
+      "translation": {
+        "id": 651,
+        "title": "Люб. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "893581",
+      "imdb_id": "tt4237920",
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-01-20T09:09:57Z",
+      "updated_at": "2018-01-22T10:42:03Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Свидание: Какая она, любовь?",
+        "title_en": "Date: Koi to Wa Donna Mono Kashira",
+        "year": 2015,
+        "description": "Ябусита Ёрико - экономист со степенью магистра Токийского университета, работает в иокогамской научно-исследовательской лаборатории, где изучает тенденции макроэкономики. В свои 29 лет она с большим энтузиазмом относится к работе, но из-за жесткого характера ей сложно общаться с другими людьми. Ее цель - выйти замуж и родить ребенка. Ёрико считает, что должна создать семью до 30 лет, поскольку так поступили все вокруг нее, включая мать. Если найдётся человек, соответствующий её представлению об идеальном мужчине, она выйдет за него замуж. Дабы достичь поставленной цели, Ёрико регистрируется в брачном агентстве и приступает к поискам.  Танигути Такуми - 35-летний безработный, полностью зависящий от матери. Он закончил колледж, но проводит свою жизнь, читая книги и слушая музыку. Особого желания жениться у Такуми нет, он понимает, что ему не на что будет содержать семью, но ведь и мама не вечная… Если с ней что-то случится, как он сможет и дальше вести такой образ жизни? Он регистрируется в том же брачном агентстве, что и Ёрико. Цель Такуми - найти женщину, которая будет поддерживать его финансово. Оба из них, как говорится, не умеют любить и совершенно не созданы для любви, оба думают о браке, как о контракте…",
+        "duration": 54,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 7.6,
+        "imdb_votes": 169,
+        "premiere_world": "2015-01-19",
+        "minimal_age": 0,
+        "actors": [
+          "Аннэ Ватанабэ",
+          "Хироки Хасэгава",
+          "Рёко Кунинака",
+          "Юто Накадзима",
+          "Сатору Мацуо",
+          "Эми Вакуи",
+          "Дзюн Фубуки",
+          "Ютака Мацусигэ",
+          "Рютаро Ямадзаки",
+          "Мика Акидзуки"
+        ],
+        "directors": [
+          "Хидэки Такэути",
+          "Дзюнъити Исикава",
+          "Кодзи Хора"
+        ],
+        "producers": [
+          "Дзюнко Ямадзаки",
+          "Икуми Кубота"
+        ],
+        "writers": [
+          "Рёта Косава"
+        ],
+        "composers": [
+          "Норихито Сумитомо"
+        ]
+      }
+    },
+    {
+      "id": "movie-948",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Ужас в торговом центре",
+      "title_orig": "Darr at the Mall",
+      "translation": {
+        "id": 613,
+        "title": "DeadSno & den904",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "818684",
+      "imdb_id": "tt3449320",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2014-07-29T00:46:10Z",
+      "updated_at": "2018-01-22T05:51:48Z",
+      "material_data": {
+        "title": "Ужас в торговом центре",
+        "title_en": "Darr at the Mall",
+        "year": 2014,
+        "description": "Молодой парень по имени Вишну, откликнувшись на заманчивое предложение со стороны работодателей, устраивается ночным охранником в торговый Центр «Дружба». Это место с виду милое и привлекательное. Но за его дверями погибло уже с десяток человек... Бизнесмены Кхан и Мачандра решают устроить грандиозную вечеринку в честь громкого открытия центра, пригласив кучу гостей. Сюда же наведывается и молодежь. Что же скрывается за дверями центра и какую зловещую тайну предстоит разгадать героям?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/818684.jpg",
+        "duration": 124,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "триллер",
+          "ужасы"
+        ],
+        "kinopoisk_rating": 4,
+        "kinopoisk_votes": 153,
+        "imdb_rating": 4.9,
+        "imdb_votes": 913,
+        "premiere_world": "2014-02-21",
+        "minimal_age": 0,
+        "actors": [
+          "Джимми Шергилл",
+          "Нушрат Бхаруча",
+          "Ариф Закария",
+          "Vikram Raj Bhardwaj",
+          "Geet Sharma",
+          "Азиф Басра",
+          "Ниведита Бхаттачария",
+          "Шраддха Каул",
+          "Прамод Патхак",
+          "Ёшика Верма"
+        ],
+        "directors": [
+          "Паван Крипалани"
+        ],
+        "producers": [
+          "Pranjal Khandhdiya"
+        ],
+        "writers": [
+          "Agrim Joshi",
+          "Паван Крипалани",
+          "Винод Рават",
+          "Синг Амбхимани Шехар"
+        ],
+        "designers": [
+          "Manoj Surve",
+          "Dhananjay Kumar Yadav",
+          "Malavika Kashikar"
+        ],
+        "operators": [
+          "Gargey Trivedi"
+        ]
+      }
+    },
+    {
+      "id": "movie-6153",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Бесстрашный 2",
+      "title_orig": "Dabangg 2",
+      "translation": {
+        "id": 662,
+        "title": "ICG",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "648906",
+      "imdb_id": "tt2112131",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-04-25T18:13:36Z",
+      "updated_at": "2018-01-22T05:49:59Z",
+      "material_data": {
+        "title": "Бесстрашный 2",
+        "title_en": "Dabangg 2",
+        "year": 2012,
+        "description": "История о коррумпированном полицейском, который сам сталкивается с беззаконием в отношении его близких.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/648906.jpg",
+        "duration": 120,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "боевик",
+          "комедия"
+        ],
+        "kinopoisk_rating": 7.5,
+        "kinopoisk_votes": 454,
+        "imdb_rating": 4.8,
+        "imdb_votes": 15640,
+        "premiere_world": "2012-12-20",
+        "minimal_age": 0,
+        "actors": [
+          "Салман Кхан",
+          "Сонакши Синха",
+          "Пракаш Радж",
+          "Винод Кханна",
+          "Арбааз Кхан",
+          "Дипак Добриял",
+          "Никитин Дхир",
+          "Махи Гилл",
+          "Карина Капур",
+          "Сандипа Дхар"
+        ],
+        "directors": [
+          "Арбааз Кхан"
+        ],
+        "producers": [
+          "Малайка Арора",
+          "Арбааз Кхан",
+          "Sagar.Bhanushali",
+          "Маной Чатурведи",
+          "Shreyas Khedekar",
+          "Krishanu Sarbabhowm",
+          "Йогирадж Шетти"
+        ],
+        "writers": [
+          "Дилип Шукла"
+        ],
+        "composers": [
+          "Саджид Али",
+          "Ваджид Али",
+          "Сендип Широдкар"
+        ],
+        "editors": [
+          "Хемаль Котари"
+        ],
+        "designers": [
+          "Шашанк Тере"
+        ],
+        "operators": [
+          "Асим Мишра"
+        ]
+      }
+    },
+    {
+      "id": "serial-8911",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Легкая улыбка покоряет мир",
+      "title_orig": "Love O2O",
+      "other_title": "Неотразимая улыбка Вэйвэй / Красивая улыбка Вэй Вэй / Just one smile is very alluring / A smile is beautiful / Weiwei's Beautiful Smile",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 30,
+      "episodes_count": 30,
+      "kinopoisk_id": "1043782",
+      "imdb_id": "tt6055498",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-01-22T05:42:41Z",
+      "updated_at": "2018-01-22T05:42:41Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "21": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Легкая улыбка покоряет мир",
+        "title_en": "Love O2O",
+        "year": 2016,
+        "description": "Когда студент Сяо Най впервые увидел Бэй Вэйвэй, он влюбился не в её красоту, а в её тонкие пальцы, которые быстро порхали над клавиатурой. В то же время игровой эксперт Бэй Вэйвэй одержала славную победу в компьютерной игре, несмотря на невыгодное положение, совершенно не подозревая, что амур уже поблизости. Чтобы завоевать сердце красавицы, Сяо Най использует тактику онлайн-игры.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1043782.jpg",
+        "duration": 40,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "мелодрама"
+        ],
+        "kinopoisk_rating": 8.1,
+        "kinopoisk_votes": 2158,
+        "imdb_rating": 8,
+        "imdb_votes": 1681,
+        "premiere_world": "2016-08-22",
+        "minimal_age": 0,
+        "actors": [
+          "Ян Ян",
+          "Чжэн Шуан",
+          "Денни Хуан",
+          "Ню Цзюньфэн",
+          "Мао Сяотун",
+          "Бай Юй",
+          "Чжан Хэ",
+          "Ма Чуньжуй",
+          "Чжэн Ечэн",
+          "Вин Чжан"
+        ],
+        "directors": [
+          "Лам Юк-Фань"
+        ],
+        "producers": [
+          "Гу Мань"
+        ],
+        "writers": [
+          "Шэнь Фэйсюань",
+          "Гу Мань",
+          "Wen Ting",
+          "Ou Yang"
+        ],
+        "editors": [
+          "Yuyang Zheng"
+        ]
+      }
+    },
+    {
+      "id": "movie-21335",
+      "type": "anime",
+      "link": "",
+      "title": "Бледный кокон",
+      "title_orig": "Peiru Kokun",
+      "other_title": "Бледный кокон OVA / Pale Cocoon",
+      "translation": {
+        "id": 743,
+        "title": "BaibaKo",
+        "type": "voice"
+      },
+      "year": 2006,
+      "kinopoisk_id": "475612",
+      "imdb_id": "tt1506448",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5621",
+      "shikimori_id": "770",
+      "quality": "HDDVDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-03-03T10:09:19Z",
+      "updated_at": "2018-01-21T13:50:34Z",
+      "material_data": {
+        "title": "Бледный кокон",
+        "title_en": "Peiru Kokun",
+        "other_titles": [
+          "Aoi Tamago"
+        ],
+        "other_titles_jp": [
+          "ペイル・コクーン"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "year": 2006,
+        "tagline": "Before we knew it humans were living here, in this world.",
+        "description": "Люди закрыли себя в железную коробку концлагеря, где сами являются узниками и сторожами. В ней проводят свою жизнь без надежды на будущее и без памяти о прошлом. Лишь её обрывки, запечатлевшие картины прекрасного мира, разрывают мрачные индустриальные пейзажи. Прошлое, которое никогда не вернётся. Тогда зачем его изучать, если оно приносит только боль от потери?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/475612.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/8955cea58587bb84dcbd1a745586f695761a5aee.jpg",
+          "https://shikimori.one/system/screenshots/original/79ae0b89e52b81a6aa6d3ce25f4406ab7434cafb.jpg"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "короткометражка",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Фантастика"
+        ],
+        "anime_studios": [
+          "Studio Rikka"
+        ],
+        "kinopoisk_rating": 7.3,
+        "kinopoisk_votes": 1037,
+        "imdb_rating": 7.1,
+        "imdb_votes": 1020,
+        "shikimori_rating": 7.36,
+        "shikimori_votes": 3371,
+        "premiere_world": "2006-01-18",
+        "aired_at": "2005-12-10",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Минако Кавасима",
+          "Накао Митиосу",
+          "Хирока Ояма",
+          "Ясухиро Ёсиура"
+        ],
+        "directors": [
+          "Ясухиро Ёсиура"
+        ],
+        "producers": [
+          "Том Нагае",
+          "Ясухиро Ёсиура"
+        ],
+        "writers": [
+          "Ясухиро Ёсиура"
+        ],
+        "composers": [
+          "Тоору Окада"
+        ]
+      }
+    },
+    {
+      "id": "serial-8902",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Старшая школа: пора любить",
+      "title_orig": "Haiseukool - reobeuon",
+      "other_title": "Старшая школа / Старшая школа - Любовь на полную / Старшая школа: Время любви / High School: Love On",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2014,
+      "last_season": 1,
+      "last_episode": 20,
+      "episodes_count": 20,
+      "kinopoisk_id": "861630",
+      "imdb_id": "tt4119504",
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-06-19T16:57:00Z",
+      "updated_at": "2018-01-20T23:01:21Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Старшая школа: Пора любить",
+        "title_en": "Haiseukul - reobeuon",
+        "year": 2014,
+        "description": "Ли Сыль-би - ангел, который спускается на землю и становится человеком ради защиты Щин У-хёна. Парень живёт с бабушкой, он эмоционально холоден и очень популярен в школе из-за красивой внешности и вокальных данных. Когда его лучший друг Хван Сон-ёль узнает, что биологическая мать У-хёна станет его мачехой, то лучшие друзья превращаются в соперников. Их соперничество еще более усиливается, когда оба влюбляются в одноклассницу Сыль-би.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/861630.jpg",
+        "duration": 50,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "мелодрама",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 7.4,
+        "kinopoisk_votes": 1408,
+        "imdb_rating": 7.3,
+        "imdb_votes": 452,
+        "premiere_world": "2014-07-11",
+        "minimal_age": 0,
+        "actors": [
+          "Нам У-хён",
+          "Ким Сэ-рон",
+          "Ли Сон-ёль",
+          "Ли Чхан-джу",
+          "Чо Ён-у",
+          "Ким Мин-сок",
+          "Чхве Сон-гук",
+          "На Хэ-рён",
+          "Чон Ю-мин",
+          "Пэк Су-хи"
+        ],
+        "directors": [
+          "Ли Ын-ми",
+          "Сон Джун-хэ"
+        ],
+        "writers": [
+          "Ли Джэ-ён"
+        ]
+      }
+    },
+    {
+      "id": "movie-20590",
+      "type": "anime",
+      "link": "",
+      "title": "Истории ран. Часть 3: Холодная кровь",
+      "title_orig": "Kizumonogatari III: Reiketsu hen",
+      "other_title": "Истории ран",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "938708",
+      "imdb_id": "tt5084198",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2595",
+      "shikimori_id": "31758",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-01-20T20:58:34Z",
+      "updated_at": "2018-01-20T20:58:34Z",
+      "material_data": {
+        "title": "Истории ран. Часть 3: Холодная кровь",
+        "title_en": "Kizumonogatari III: Reiketsu hen",
+        "other_titles": [
+          "Koyomi Vamp",
+          "Kizumonogatari Part 3"
+        ],
+        "other_titles_jp": [
+          "傷物語〈Ⅲ冷血篇〉"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2017,
+        "description": "Заключительная часть из серии полнометражных фильмов «Истории ран».\r\n\r\nПосле боёв с тремя специалистами (, , ) Арараги получил все части тела Киссшот и готов их ей вернуть, чтобы снова стать человеком. Но остаётся много вопросов: как Киссшот сделает его человеком? Как трое специалистов победили Киссшот на пике её силы? Зачем на самом деле приехал Мэмэ Осино? И как в итоге продолжатся отношения Арараги и Ханэкавы ?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/938708.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/b6c64f831cb8d01d9826d301a9281603b73ee8d3.jpg",
+          "https://shikimori.one/system/screenshots/original/e08c548f332882fc1dea25a24fe00223dc8d4458.jpg"
+        ],
+        "duration": 83,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Вампиры",
+          "Детектив",
+          "Сверхъестественное",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Shaft"
+        ],
+        "kinopoisk_rating": 7.8,
+        "kinopoisk_votes": 1069,
+        "imdb_rating": 8,
+        "imdb_votes": 1854,
+        "shikimori_rating": 8.82,
+        "shikimori_votes": 18236,
+        "premiere_world": "2017-01-06",
+        "aired_at": "2017-01-06",
+        "rating_mpaa": "R",
+        "minimal_age": 0,
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Хироси Камия",
+          "Такахиро Сакурай",
+          "Маая Сакамото",
+          "Юи Хориэ"
+        ],
+        "directors": [
+          "Тацуя Оиси",
+          "Акиюки Синбо"
+        ],
+        "producers": [
+          "Атасухиро Иваками",
+          "Мицутоси Кубота",
+          "Такуя Мацусита",
+          "Синдзи Ямаути"
+        ],
+        "writers": [
+          "Юкито Кидзава",
+          "Мунэо Накамото"
+        ],
+        "composers": [
+          "Сатору Косаки"
+        ],
+        "designers": [
+          "Хисахару Иидзима"
+        ],
+        "operators": [
+          "Мития Като"
+        ]
+      }
+    },
+    {
+      "id": "movie-20589",
+      "type": "anime",
+      "link": "",
+      "title": "Истории ран. Часть 2: Горячая кровь",
+      "title_orig": "Kizumonogatari II: Nekketsu-hen",
+      "other_title": "Истории ран",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "938742",
+      "imdb_id": "tt5084196",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2595",
+      "shikimori_id": "31757",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-01-20T20:58:14Z",
+      "updated_at": "2018-01-20T20:58:14Z",
+      "material_data": {
+        "title": "Истории ран. Часть 2: Горячая кровь",
+        "title_en": "Kizumonogatari II: Nekketsu-hen",
+        "other_titles": [
+          "Koyomi Vamp",
+          "Kizumonogatari Part 2"
+        ],
+        "other_titles_en": [
+          "Kizumonogatari Part 2: Nekketsu"
+        ],
+        "other_titles_jp": [
+          "傷物語〈Ⅱ熱血篇〉"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2016,
+        "description": "После договора, заключенного с Мэмэ Осино, Арараги необходимо победить трёх специалистов. С каждым необходимо сразиться один на один, чтобы вернуть прежнюю силу Киссшот Ацеролаорион Хартандерблэйд и снова стать человеком. Но Арараги терзают сомнения: выполнит ли Киссшот свою часть сделки? Как разобраться с надоедливой Ханэкавой, которая так и норовит встретиться с вампирами и лезет не в свои дела?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/938742.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/3cdfd6a7f0488003eddb7397eedba249c373af6f.jpg",
+          "https://shikimori.one/system/screenshots/original/5a4a9b142edd234917b2ac3f8336465feef64b37.jpg"
+        ],
+        "duration": 68,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Вампиры",
+          "Детектив",
+          "Сверхъестественное",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Shaft"
+        ],
+        "kinopoisk_rating": 7.6,
+        "kinopoisk_votes": 1491,
+        "imdb_rating": 7.8,
+        "imdb_votes": 1846,
+        "shikimori_rating": 8.61,
+        "shikimori_votes": 18656,
+        "premiere_world": "2016-08-19",
+        "aired_at": "2016-08-19",
+        "rating_mpaa": "R",
+        "minimal_age": 0,
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Хироси Камия",
+          "Такахиро Сакурай",
+          "Маая Сакамото",
+          "Юи Хориэ",
+          "Масаси Эбара",
+          "Хотю Оцука"
+        ],
+        "directors": [
+          "Тацуя Оиси",
+          "Акиюки Синбо"
+        ],
+        "producers": [
+          "Атасухиро Иваками",
+          "Мицутоси Кубота",
+          "Такуя Мацусита",
+          "Синдзи Ямаути"
+        ],
+        "writers": [
+          "Юкито Кидзава",
+          "Мунэо Накамото"
+        ],
+        "composers": [
+          "Сатору Косаки"
+        ],
+        "designers": [
+          "Хисахару Иидзима"
+        ],
+        "operators": [
+          "Такаюки Аидзу"
+        ]
+      }
+    },
+    {
+      "id": "movie-20588",
+      "type": "anime",
+      "link": "",
+      "title": "Истории ран",
+      "title_orig": "Kizumonogatari",
+      "other_title": "Истории ран. Часть 1: Железная кровь / Kizumonogatari: I Tekketsu-hen",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "762022",
+      "imdb_id": "tt3138698",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2595",
+      "shikimori_id": "9260",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-01-20T20:57:49Z",
+      "updated_at": "2018-01-20T20:57:49Z",
+      "material_data": {
+        "title": "Истории ран",
+        "title_en": "Kizumonogatari",
+        "other_titles": [
+          "Koyomi Vamp"
+        ],
+        "other_titles_en": [
+          "Kizumonogatari Part 1: Tekketsu"
+        ],
+        "other_titles_jp": [
+          "傷物語〈Ⅰ鉄血篇〉"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2015,
+        "description": "Старшеклассник Коёми Арараги считал себя непонятым и нелюдимым, фактически одиноким волком, а в душе все равно оставался обычным японским школьником с мечтами о приключениях, добре и справедливости. Иначе зачем он полез бы темной ночью в пустынные глубины метро, повинуясь лишь зову души? Обнаружив там прекрасную блондинку-вампиршу, лежащую в луже собственной крови, Коёми, конечно же, думал недолго и спас новую знакомую, став при этом новообращенным вампиром и её верным слугой. \n\rУвы, крови парня оказалось мало для полноценного возрождения, и вампирша, превратившись в милашку-лоли, поставила миньону задачу – вернуть её конечности, унесенные победителями-охотниками. А как вернуть, если у бессмертной нет сил, а сам Арараги тем монстрам на один зуб? Ничего, была бы проблема, а специалисты найдутся, даже если они похожи на стареющих хиппи и живут Будда знает где. Вот только каникулы скоро кончатся, а под солнцем в школу ходить неудобно.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/762022.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/02d0b82fae66c387eaad96ddc7d39bc690c23573.png",
+          "https://shikimori.one/system/screenshots/original/6c7233cb67d1863aa9148db99737acf5a673c0e3.png"
+        ],
+        "duration": 64,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "приключения"
+        ],
+        "anime_genres": [
+          "Вампиры"
+        ],
+        "anime_studios": [
+          "Shaft"
+        ],
+        "kinopoisk_rating": 7.6,
+        "kinopoisk_votes": 1562,
+        "imdb_rating": 7.5,
+        "imdb_votes": 1996,
+        "shikimori_rating": 8.4,
+        "shikimori_votes": 20035,
+        "premiere_world": "2016-01-08",
+        "aired_at": "2016-01-08",
+        "rating_mpaa": "R",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Хироси Камия",
+          "Такахиро Сакурай",
+          "Маая Сакамото",
+          "Юи Хориэ"
+        ],
+        "directors": [
+          "Тацуя Оиси",
+          "Акиюки Синбо"
+        ],
+        "producers": [
+          "Атасухиро Иваками",
+          "Мицутоси Кубота",
+          "Такуя Мацусита",
+          "Синдзи Ямаути"
+        ],
+        "writers": [
+          "Юкито Кидзава",
+          "Мунэо Накамото"
+        ],
+        "composers": [
+          "Сатору Косаки"
+        ],
+        "designers": [
+          "Хисахару Иидзима"
+        ],
+        "operators": [
+          "Синъитиро Это"
+        ]
+      }
+    },
+    {
+      "id": "serial-6747",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Нас всегда разделяли 10 сантиметров",
+      "title_orig": "Itsudatte Bokura no Koi wa 10 Centi Datta",
+      "other_title": "Our Love Has Always Been 10 Centimeters Apart / Itsudatte Bokura no Koi wa 10 cm Datta.",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 6,
+      "episodes_count": 6,
+      "kinopoisk_id": "1103782",
+      "imdb_id": "tt7351628",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9388",
+      "shikimori_id": "36220",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-11-28T14:28:02Z",
+      "updated_at": "2018-01-20T20:32:04Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Нас всегда разделяли 10 сантиметров",
+        "title_en": "Itsudatte Bokura no Koi wa 10 Centi Datta",
+        "other_titles": [
+          "We Have Always Been 10 cm Apart"
+        ],
+        "other_titles_en": [
+          "Our love has always been 10 centimeters apart."
+        ],
+        "other_titles_jp": [
+          "いつだって僕らの恋は10センチだった。"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2017,
+        "description": "Харуки Сэридзава всегда был занят собой и своими интересами к кинематографу, поэтому особо не интересовался девушками. На церемонии поступления в школу парень повстречал особенную. Мио Айда думала иначе, замечала разные мелочи - это и показалось Харуки очень интересным, и парень влюбился.\n\rА Мио Айда занята рисованием прекрасных пейзажей. Этой скромняге не нравятся популярные парни, вокруг которых вьются толпы девчонок,  но Харуки чем-то её зацепил. Так и её интерес превратился во влюблённость. Но, несмотря на взаимные чувства, ребята не являются парой. Многие считают их возлюбленными, но они продолжают твердить, что просто друзья. Между ними всего 10 сантиметров, которые Харуки и Мио никак не могут преодолеть.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1103782.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/706bbbadbc740e028e7ac1467d70da9899ba3e53.jpg",
+          "https://shikimori.one/system/screenshots/original/6aa1bde711f4cb4acaacf3fc3f0691de1923d0ba.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мелодрама",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Комедия",
+          "Романтика",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Lay-duce"
+        ],
+        "kinopoisk_rating": 7.1,
+        "kinopoisk_votes": 1342,
+        "imdb_rating": 6.9,
+        "imdb_votes": 360,
+        "shikimori_rating": 7.51,
+        "shikimori_votes": 6662,
+        "premiere_world": "2017-11-25",
+        "aired_at": "2017-11-25",
+        "released_at": "2017-12-30",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 6,
+        "episodes_aired": 6,
+        "actors": [
+          "Кэндзи Судзумура",
+          "Аки Тоёсаки"
+        ],
+        "directors": [
+          "Хитоси Нанба",
+          "Такуро Цукада"
+        ],
+        "writers": [
+          "HoneyWorks"
+        ],
+        "editors": [
+          "Такэси Садамацу"
+        ]
+      }
+    },
+    {
       "id": "serial-9817",
       "type": "anime-serial",
       "link": "",
@@ -4565,8 +5660,8 @@
         ],
         "imdb_rating": 4.7,
         "imdb_votes": 117,
-        "shikimori_rating": 5.39,
-        "shikimori_votes": 2366,
+        "shikimori_rating": 5.37,
+        "shikimori_votes": 2519,
         "premiere_world": "2017-10-14",
         "aired_at": "2017-10-14",
         "released_at": "2017-12-23",
@@ -6590,16 +7685,17 @@
         "anime_studios": [
           "Lerche"
         ],
-        "kinopoisk_rating": 5.7,
-        "kinopoisk_votes": 369,
-        "imdb_rating": 6.5,
-        "imdb_votes": 503,
+        "kinopoisk_rating": 5.8,
+        "kinopoisk_votes": 424,
+        "imdb_rating": 6.4,
+        "imdb_votes": 580,
         "shikimori_rating": 6.61,
         "shikimori_votes": 12427,
         "premiere_world": "2016-01-11",
         "aired_at": "2016-01-11",
         "released_at": "2016-03-28",
         "rating_mpaa": "PG-13",
+        "minimal_age": 0,
         "episodes_total": 12,
         "episodes_aired": 12,
         "actors": [
@@ -7970,8 +9066,8 @@
         ],
         "imdb_rating": 6,
         "imdb_votes": 427,
-        "shikimori_rating": 6.36,
-        "shikimori_votes": 4267,
+        "shikimori_rating": 6.35,
+        "shikimori_votes": 4380,
         "premiere_world": "2015-10-07",
         "aired_at": "2015-10-07",
         "released_at": "2015-12-23",
@@ -9662,10 +10758,11 @@
           "мелодрама"
         ],
         "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 296,
+        "kinopoisk_votes": 313,
         "imdb_rating": 7.1,
-        "imdb_votes": 84,
+        "imdb_votes": 88,
         "premiere_world": "2013-10-09",
+        "minimal_age": 0,
         "actors": [
           "Квон Сан-у",
           "Чон Рё-вон",
@@ -9913,1385 +11010,6 @@
         ],
         "writers": [
           "Ким Джи-ун"
-        ]
-      }
-    },
-    {
-      "id": "movie-20436",
-      "type": "anime",
-      "link": "",
-      "title": "Оборотни",
-      "title_orig": "Jin-Rô",
-      "other_title": "Jin-Rou / Jin Roh: The Wolf Brigade",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 1999,
-      "kinopoisk_id": "8239",
-      "imdb_id": "tt0193253",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=48",
-      "shikimori_id": "570",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-01-14T17:43:26Z",
-      "updated_at": "2017-12-28T07:28:50Z",
-      "material_data": {
-        "title": "Оборотни",
-        "title_en": "Jin-Rô",
-        "other_titles": [
-          "Jinrou"
-        ],
-        "other_titles_en": [
-          "Jin-Roh: The Wolf Brigade"
-        ],
-        "other_titles_jp": [
-          "人狼 JIN-ROH"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 1999,
-        "tagline": "Из волчьей стаи не выбраться...",
-        "description": "Альтернативная реальность. Токио, 50-е годы. Город утопает в волнах насилия и жестокости. Подпольная организация Секта устраивает массовые беспорядки и теракты. Отвечая на вызов террористов, власти создают особое подразделение — Волчий отряд, состоящий из специально подготовленных закованных в броню неуязвимых безжалостных убийц.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/8239.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/d5554ac74d889352a6000dc20e6e87ac0742a0b1.jpg",
-          "https://shikimori.one/system/screenshots/original/8266a732477fb8ef389b5c5ae959166b998f6498.jpg"
-        ],
-        "duration": 102,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Военное",
-          "Драма",
-          "Полиция",
-          "Психологическое",
-          "Романтика"
-        ],
-        "anime_studios": [
-          "Production I.G"
-        ],
-        "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 5601,
-        "imdb_rating": 7.4,
-        "imdb_votes": 15407,
-        "shikimori_rating": 7.79,
-        "shikimori_votes": 6308,
-        "premiere_world": "1999-08-04",
-        "aired_at": "2000-06-03",
-        "rating_mpaa": "R",
-        "minimal_age": 16,
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Ёсикадзу Фудзики",
-          "Суми Муто",
-          "Хироюки Киноса",
-          "Юкио Хирода",
-          "Юкихиро Ёсида",
-          "Кэндзи Накагава",
-          "Тамио Оки",
-          "Рюити Хорибэ",
-          "Ёсисага Сакагути",
-          "Майкл Добсон"
-        ],
-        "directors": [
-          "Хироюки Окиура"
-        ],
-        "producers": [
-          "Ацуси Сугита",
-          "Хидэкадзу Тэракава",
-          "Мицухиса Исикава",
-          "Сигэру Ватанабэ"
-        ],
-        "writers": [
-          "Мамору Осии",
-          "Роберт Хомяк"
-        ],
-        "composers": [
-          "Хадзимэ Мидзогути"
-        ],
-        "editors": [
-          "Сюити Какэсу"
-        ],
-        "designers": [
-          "Хиромаса Огура"
-        ],
-        "operators": [
-          "Хисао Сираи"
-        ]
-      }
-    },
-    {
-      "id": "movie-20248",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Злодейка",
-      "title_orig": "Aknyeo",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1044197",
-      "imdb_id": "tt6777338",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-12-27T18:21:26Z",
-      "updated_at": "2017-12-27T04:55:38Z",
-      "material_data": {
-        "title": "Злодейка",
-        "title_en": "Aknyeo",
-        "year": 2017,
-        "tagline": "An Endless Vengeance Begins.",
-        "description": "С самого детства Сук-хи растили как хладнокровную убийцу. Девушка получает шанс на лучшую жизнь, когда южнокорейское ЦРУ предлагает ей 10 лет работать на них, а после обещает полную свободу. Её новую личность зовут Чхэ Ён-су, она работает театральной актрисой и наслаждается долгожданной тихой жизнью обычного человека. Но простая жизнь - не для бывших наёмных убийц.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1044197.jpg",
-        "duration": 124,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "боевик",
-          "криминал",
-          "триллер"
-        ],
-        "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 2449,
-        "imdb_rating": 6.7,
-        "imdb_votes": 12508,
-        "premiere_world": "2017-05-21",
-        "minimal_age": 0,
-        "actors": [
-          "Ким Ок-пин",
-          "Щин Ха-гюн",
-          "Сон Джун",
-          "Ким Со-хён",
-          "Чо Ын-джи",
-          "Чон Хэ-гюн",
-          "Пак Чхоль-мин",
-          "Чи Дэ-хан",
-          "Со Бом-щик",
-          "Квак Чин-сок"
-        ],
-        "directors": [
-          "Чон Бён-гиль"
-        ],
-        "producers": [
-          "Чон Бён-гиль"
-        ],
-        "writers": [
-          "Чон Бён-гиль",
-          "Чон Бён-щик"
-        ],
-        "composers": [
-          "Ку Джа-ван"
-        ],
-        "editors": [
-          "Хо Сон-ми"
-        ],
-        "designers": [
-          "Ким Хи-джин",
-          "Чхэ Гён-хва"
-        ],
-        "operators": [
-          "Пак Чон-хун"
-        ]
-      }
-    },
-    {
-      "id": "movie-20249",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Радиус",
-      "title_orig": "Radius",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1005623",
-      "imdb_id": "tt6097798",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-12-27T18:22:23Z",
-      "updated_at": "2017-12-27T04:44:50Z",
-      "material_data": {
-        "title": "Радиус",
-        "title_en": "Radius",
-        "year": 2017,
-        "tagline": "An amnesiac man discovers than anyone who comes within a 50-foot radius of him dies instantly.",
-        "description": "Очнувшись после автомобильной аварии, Лиам не может ничего вспомнить. Он пытается найти помощь, но на его пути встречаются лишь мертвые тела. Первая догадка - вирус, распространяющийся по воздуху. Но скоро парень узнает ужасную правду - любой, кто находится от него в радиусе 15 метров, немедленно умирает.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1005623.jpg",
-        "duration": 93,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "детектив",
-          "триллер",
-          "фантастика"
-        ],
-        "kinopoisk_rating": 6.2,
-        "kinopoisk_votes": 4252,
-        "imdb_rating": 6.3,
-        "imdb_votes": 13864,
-        "premiere_world": "2017-07-17",
-        "minimal_age": 0,
-        "actors": [
-          "Диего Клаттенхофф",
-          "Шарлотта Салливан",
-          "Бретт Донахью",
-          "Брэдли Савацки",
-          "Андреа дель Кампо",
-          "Кристен Савацки",
-          "Даррен Фелбел",
-          "Джеймс Дархэм",
-          "Назарий Демкович",
-          "Шеннон Гайл"
-        ],
-        "directors": [
-          "Кэролайн Лабреш",
-          "Steeve Léonard"
-        ],
-        "producers": [
-          "Бенуа Больё",
-          "Жан Ду Ту",
-          "Энн-Мари Желина",
-          "Жиль Даус",
-          "Катрин Дюмонсо",
-          "Патрик Эвальд",
-          "Диего Клаттенхофф",
-          "Франсуа Симар",
-          "Стефани Трепаниер",
-          "Анук Висселль"
-        ],
-        "writers": [
-          "Кэролайн Лабреш",
-          "Steeve Léonard"
-        ],
-        "composers": [
-          "Бенуа Шаре"
-        ],
-        "editors": [
-          "Steeve Léonard"
-        ],
-        "designers": [
-          "Мэриам Дектер",
-          "Lori Stefaniuk",
-          "Matt Holm"
-        ],
-        "operators": [
-          "Саймон Вильнёв"
-        ]
-      }
-    },
-    {
-      "id": "movie-20250",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "ДругаяЖизнь",
-      "title_orig": "OtherLife",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "914831",
-      "imdb_id": "tt4693358",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-12-27T18:23:30Z",
-      "updated_at": "2017-12-27T04:43:16Z",
-      "material_data": {
-        "title": "ДругаяЖизнь",
-        "title_en": "OtherLife",
-        "year": 2016,
-        "tagline": "A whole year in a minute.",
-        "description": "Рэн Амари - главный изобретатель нового революционного препарата. ДругаяЖизнь расширяет восприятие времени и создаёт виртуальную реальность в голове человека. С ДругойЖизнью доли секунд в реальном времени ощущаются, как часы или дни. Пока Рэн и её коллеги пытаются запустить препарат в производство, правительство решает использовать его как радикальное решение для переполненных тюрем. С помощью препарата можно создать виртуальные камеры, где преступники могут отбывать долгий срок всего за минуты в реальном времени. Рэн идёт против правительства и оказывается в тюремной клетке собственного разума.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/914831.jpg",
-        "duration": 96,
-        "countries": [
-          "Австралия",
-          "ОАЭ"
-        ],
-        "genres": [
-          "драма",
-          "триллер",
-          "фантастика"
-        ],
-        "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 3780,
-        "imdb_rating": 6.3,
-        "imdb_votes": 14381,
-        "premiere_world": "2017-06-16",
-        "actors": [
-          "Джессика Де Гау",
-          "Томас Кокерел",
-          "Шалом Брюн-Фрэнклин",
-          "Сара Хопкинс",
-          "Хоа Сюаньдэ",
-          "Т.Дж. Пауэр",
-          "Тириел Мора",
-          "Daniielle Alexis",
-          "Адам Ти Перкинс",
-          "Кларенс Джон Райан"
-        ],
-        "directors": [
-          "Бен С. Лукас"
-        ],
-        "producers": [
-          "Томмазо Фьяккино",
-          "Джэми Хилтон",
-          "Джанелл Лэндерс",
-          "Марко Мелиц",
-          "Эйдан О’Брайан",
-          "Майкл Понтен",
-          "Стивен Бойл",
-          "Лукас Хоу",
-          "Фил Хант",
-          "Бо Хайд"
-        ],
-        "writers": [
-          "Келли Эскридж",
-          "Бен С. Лукас",
-          "Грегори Уайден"
-        ],
-        "composers": [
-          "Джед Палмер"
-        ],
-        "editors": [
-          "Лиэнн Коул"
-        ],
-        "designers": [
-          "Helen O'Loan",
-          "Шерри Филлипс",
-          "Амелия Геблер",
-          "Моника Уэджон"
-        ],
-        "operators": [
-          "Дэн Фрин"
-        ]
-      }
-    },
-    {
-      "id": "movie-20229",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Голубки",
-      "title_orig": "Love Birds",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1059319",
-      "imdb_id": "tt6076004",
-      "quality": "HDTVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-12-26T12:13:03Z",
-      "updated_at": "2017-12-27T04:38:42Z",
-      "material_data": {
-        "title": "Голубки",
-        "title_en": "Love Birds",
-        "year": 2016,
-        "description": "В гостинице у моря Алон, молодой мужчина, с цветами и подарочной коробкой ищет свою жену Тамару, которая сняла номер-люкс, чтобы отметить десятую годовщину их брака. Но вместо жены в номере отеля Алон находит незнакомку, которая начинает настойчиво домогаться его...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1059319.jpg",
-        "duration": 74,
-        "countries": [
-          "Израиль"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 5.1,
-        "imdb_votes": 105,
-        "premiere_world": "2017-07-06",
-        "actors": [
-          "Avi Azulay",
-          "Рони Дотан",
-          "Asaf Goldstien",
-          "Таль Тальмон"
-        ],
-        "directors": [
-          "Довер Кошашвили"
-        ],
-        "producers": [
-          "Jonathan Rozenbaum",
-          "Марек Розенбаум",
-          "Майкл Розенбаум",
-          "Ирис Копти"
-        ],
-        "writers": [
-          "Довер Кошашвили"
-        ],
-        "composers": [
-          "Иосиф Барданашвили"
-        ],
-        "editors": [
-          "Довер Кошашвили",
-          "Марек Розенбаум"
-        ],
-        "designers": [
-          "Йоэль Херцберг",
-          "Rachel Ben Dahan"
-        ],
-        "operators": [
-          "Асаф Судри"
-        ]
-      }
-    },
-    {
-      "id": "movie-6848",
-      "type": "anime",
-      "link": "",
-      "title": "Рыцари Зодиака: Легенда о святилище",
-      "title_orig": "Seinto Seiya: Legend of Sanctuary",
-      "other_title": "Рыцари Зодиака (фильм шестой)",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "668874",
-      "imdb_id": "tt2231489",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=396",
-      "shikimori_id": "10687",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-06-13T17:09:27Z",
-      "updated_at": "2017-12-26T22:01:57Z",
-      "material_data": {
-        "title": "Рыцари Зодиака: Легенда о святилище",
-        "title_en": "Seinto Seiya: Legend of Sanctuary",
-        "other_titles": [
-          "Saint Seiya (2014)",
-          "Saint Seiya (Movie)"
-        ],
-        "other_titles_jp": [
-          "聖闘士星矢 LEGEND of SANCTUARY"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2014,
-        "description": "С древних времен идет борьба между божествами из других миров. Альпинист Вицумаса в Гималаях находит что-то необычное. В пещере среди гор он находит древний обелиск Рыцарей Зодиака и ещё некоего раненого воина и новорожденную девочку. Как оказалось это девочка воплощение богини Афины. Воин перенес ее на Землю, чтобы спасти, но он умирает.\n\rСаори росла в семье Вицумаса до шестнадцати лет и совершенно не знала о своих возможностях. Но в день своего шестнадцатого дня рождения узнает о своей уникальной силе, которая называется «космо», ее она получает с разных уголков Вселенной. С помощью этой силы и поддерживается мир на нашей планете. Борьба за богиню Афину шла много тысячелетий, но на ее стороне сражаются воины Зодиака. Но вскоре Афине будет грозит большая опасность. Смогут ли Рыцари Зодиака спасти ее?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/668874.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/72c05496b6205609e60b3a6db07d06c7fd267398.jpg",
-          "https://shikimori.one/system/screenshots/original/b35c420a2fff556aad856b863a8d25053b108e31.jpg"
-        ],
-        "duration": 93,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Приключения",
-          "Сёнен",
-          "Фантастика",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Toei Animation"
-        ],
-        "kinopoisk_rating": 5.4,
-        "kinopoisk_votes": 260,
-        "imdb_rating": 5.4,
-        "imdb_votes": 4209,
-        "shikimori_rating": 6.25,
-        "shikimori_votes": 266,
-        "premiere_world": "2014-06-21",
-        "aired_at": "2014-06-21",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Каито Исикава",
-          "Кэндзи Акабанэ",
-          "Кэнсё Оно",
-          "Нобухико Окамото",
-          "Кэндзи Нодзима",
-          "Го Иноэ",
-          "Аяка Сасаки",
-          "Рикия Кояма",
-          "Рен Осуги",
-          "Синдзи Кавада"
-        ],
-        "directors": [
-          "Кэйити Сато"
-        ],
-        "producers": [
-          "Масами Курумада"
-        ],
-        "writers": [
-          "Масами Курумада",
-          "Тихиро Судзуки",
-          "Томохиро Судзуки"
-        ]
-      }
-    },
-    {
-      "id": "serial-7712",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Сакура - собирательница карт [ТВ-1]",
-      "title_orig": "Cardcaptor Sakura",
-      "other_title": "Kadokyaputa Sakura",
-      "translation": {
-        "id": 1102,
-        "title": "Новый канал",
-        "type": "voice"
-      },
-      "year": 1998,
-      "last_season": 1,
-      "last_episode": 70,
-      "episodes_count": 70,
-      "kinopoisk_id": "229703",
-      "imdb_id": "tt0221735",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=467",
-      "shikimori_id": "232",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-26T13:26:28Z",
-      "updated_at": "2017-12-26T13:26:28Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": "",
-            "26": "",
-            "27": "",
-            "28": "",
-            "29": "",
-            "30": "",
-            "31": "",
-            "32": "",
-            "33": "",
-            "34": "",
-            "35": "",
-            "36": "",
-            "37": "",
-            "38": "",
-            "39": "",
-            "40": "",
-            "41": "",
-            "42": "",
-            "43": "",
-            "44": "",
-            "45": "",
-            "46": "",
-            "47": "",
-            "48": "",
-            "49": "",
-            "50": "",
-            "51": "",
-            "52": "",
-            "53": "",
-            "54": "",
-            "55": "",
-            "56": "",
-            "57": "",
-            "58": "",
-            "59": "",
-            "60": "",
-            "61": "",
-            "62": "",
-            "63": "",
-            "64": "",
-            "65": "",
-            "66": "",
-            "67": "",
-            "68": "",
-            "69": "",
-            "70": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Сакура – собирательница карт",
-        "title_en": "Kadokyaputa Sakura",
-        "other_titles": [
-          "CCS",
-          "Cardcaptors",
-          "Card Captor Sakura"
-        ],
-        "other_titles_en": [
-          "Cardcaptor Sakura"
-        ],
-        "other_titles_jp": [
-          "カードキャプターさくら"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 1998,
-        "tagline": "Expect the Unexpected",
-        "description": "Десятилетняя школьница Сакура Киномото в подвале своего дома находит волшебную книгу карт Клоу и знакомится с Керберосом. Обнаруживается, что все карты Клоу из книги исчезли. Керберос утверждает, что если карты не вернуть обратно, миру грозят большие бедствия. Сакура заключает с Керберосом договор, который наделяет её волшебной силой и даёт ключ-посох, с помощью которого Сакура может использовать карты Клоу или ловить их, возвращая в книгу.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/229703.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/b1ebc17fef00db6c06a007383b232cfa872b29cc.jpg",
-          "https://shikimori.one/system/screenshots/original/a636936f0c6d814fc4b9fbe2bc9067c827eb1a78.jpg"
-        ],
-        "duration": 22,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Комедия",
-          "Магия",
-          "Приключения",
-          "Романтика",
-          "Сёдзё",
-          "Фэнтези",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Madhouse"
-        ],
-        "kinopoisk_rating": 7.8,
-        "kinopoisk_votes": 1763,
-        "imdb_rating": 8,
-        "imdb_votes": 4444,
-        "shikimori_rating": 8.16,
-        "shikimori_votes": 2553,
-        "premiere_world": "1998-04-07",
-        "aired_at": "1998-04-07",
-        "released_at": "2000-03-21",
-        "rating_mpaa": "PG",
-        "minimal_age": 0,
-        "episodes_total": 70,
-        "episodes_aired": 0,
-        "actors": [
-          "Сакура Тангэ",
-          "Huyen Chi",
-          "Андреа Кван",
-          "Дзюнко Ивао",
-          "Ая Хисакава",
-          "Хюн Донг",
-          "Thanh Hong",
-          "Anh Tuan",
-          "Томокадзу Сэки",
-          "Мэгуми Огата"
-        ],
-        "directors": [
-          "Морио Асака",
-          "Хитоюки Мацуи",
-          "Наото Хасимото",
-          "Хироюки Танака",
-          "Акио Сакаи",
-          "Дзюнъити Саката",
-          "Сетсуо Такасе",
-          "Кэн Андо",
-          "Masaru Kitao",
-          "Нубаки Наканиси"
-        ],
-        "producers": [
-          "Эйдзо Кондо",
-          "Тацуя Оно",
-          "Ясуко Утидзава",
-          "Акира Ватанабэ"
-        ],
-        "writers": [
-          "Кламп",
-          "Хироси Исий",
-          "Дзиро Канэко",
-          "Masaru Kitao",
-          "Томоко Огава",
-          "Нанасэ Окава",
-          "Томоясу Окубо"
-        ],
-        "composers": [
-          "Такаюки Нэгиси"
-        ],
-        "editors": [
-          "Харутоси Огата"
-        ],
-        "designers": [
-          "Кацуфуми Харю",
-          "Мокона Апапа"
-        ],
-        "operators": [
-          "Хисао Сираи"
-        ]
-      }
-    },
-    {
-      "id": "serial-7681",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Рок-Шоу!!#",
-      "title_orig": "Show by Rock!!#",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 2,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "921513",
-      "imdb_id": "tt4623928",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8767",
-      "shikimori_id": "32038",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-26T10:51:56Z",
-      "updated_at": "2017-12-26T10:51:56Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Рок-шоу!!",
-        "title_en": "Show by Rock!!",
-        "other_titles_en": [
-          "Show By Rock!! 2"
-        ],
-        "other_titles_jp": [
-          "SHOW BY ROCK!! ＃"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2015,
-        "description": "Школьница Циан обожает музыку и хочет вступить в школьную группу, но из-за чрезвычайной стеснительности она никак не может решиться. Однажды девушку затягивает внутрь видеоигры, и она оказывается в городе музыки Миди-сити, где сталкивается с черным монстром, для победы над которым ей приходится сыграть на легендарной гитаре Земляничное Сердце. После победы над монстром талант Циан замечает музыкальное агентство, и она присоединяется к группе «Плазмагика».",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/921513.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/4022101cc9d0e77077da4e3c6180f520f1c5777d.jpg",
-          "https://shikimori.one/system/screenshots/original/58ac51142530b87cdb3becf0dcf5b7735ef5c457.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Музыка"
-        ],
-        "anime_studios": [
-          "Bones"
-        ],
-        "imdb_rating": 8.4,
-        "imdb_votes": 94,
-        "shikimori_rating": 7.03,
-        "shikimori_votes": 735,
-        "premiere_world": "2015-04-05",
-        "aired_at": "2016-10-02",
-        "released_at": "2016-12-18",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Эри Инагава",
-          "Манами Нумакура",
-          "Аянэ Сакура",
-          "Сумирэ Уэсака",
-          "Хироюки Ёсино"
-        ],
-        "directors": [
-          "Такахиро Икэдзоэ"
-        ]
-      }
-    },
-    {
-      "id": "serial-7680",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Рок-Шоу!!",
-      "title_orig": "Show by Rock!!",
-      "other_title": "ショウ・バイ・ロック!!",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "921513",
-      "imdb_id": "tt4623928",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3753",
-      "shikimori_id": "27441",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-26T10:51:15Z",
-      "updated_at": "2017-12-26T10:51:15Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Рок-шоу!!",
-        "title_en": "Show by Rock!!",
-        "other_titles": [
-          "SB69"
-        ],
-        "other_titles_jp": [
-          "SHOW BY ROCK!!（ショウ・バイ・ロック!!）"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2015,
-        "description": "Школьница Циан обожает музыку и хочет вступить в школьную группу, но из-за чрезвычайной стеснительности она никак не может решиться. Однажды девушку затягивает внутрь видеоигры, и она оказывается в городе музыки Миди-сити, где сталкивается с черным монстром, для победы над которым ей приходится сыграть на легендарной гитаре Земляничное Сердце. После победы над монстром талант Циан замечает музыкальное агентство, и она присоединяется к группе «Плазмагика».",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/921513.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/077a63e4dee8f2d0cc6418e255676717c4159bbf.jpg",
-          "https://shikimori.one/system/screenshots/original/5794b74421b82b9c421e84406d882515fb77c2a7.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Музыка"
-        ],
-        "anime_studios": [
-          "Bones"
-        ],
-        "imdb_rating": 8.4,
-        "imdb_votes": 94,
-        "shikimori_rating": 7.04,
-        "shikimori_votes": 1744,
-        "premiere_world": "2015-04-05",
-        "aired_at": "2015-04-05",
-        "released_at": "2015-06-21",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Эри Инагава",
-          "Манами Нумакура",
-          "Аянэ Сакура",
-          "Сумирэ Уэсака",
-          "Хироюки Ёсино"
-        ],
-        "directors": [
-          "Такахиро Икэдзоэ"
-        ]
-      }
-    },
-    {
-      "id": "serial-7676",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Риннэ: Меж двух миров [ТВ-2]",
-      "title_orig": "Kyoukai no Rinne (2016)",
-      "other_title": "Риннэ: Меж двух миров 2 / Rin-ne: Season 2",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 2,
-      "last_episode": 25,
-      "episodes_count": 25,
-      "kinopoisk_id": "893711",
-      "imdb_id": "tt4584754",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8463",
-      "shikimori_id": "31610",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-26T10:44:15Z",
-      "updated_at": "2017-12-26T10:44:15Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Риннэ: Меж двух миров",
-        "title_en": "Kyoukai no Rinne",
-        "other_titles_en": [
-          "RIN-NE"
-        ],
-        "other_titles_jp": [
-          "境界のRINNE　第２シリーズ"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2015,
-        "description": "В детстве Сакура Мамия таинственным образом исчезла в лесу за домом своей бабушки. Она вернулась живой и здоровой, но с тех пор приобрела способность видеть призраков. Теперь, будучи подростком, она просто хочет, чтобы призраки оставили её в покое. В школе парта рядом с Сакурой пустовала с начала учебного года, но в один прекрасный день ее всегда отсутствовавший одноклассник появляется и оказывается далеко не так прост, как кажется на первый взгляд!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/893711.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/adcc63c242377642298b28d37e327401a8b8c632.jpg",
-          "https://shikimori.one/system/screenshots/original/56cfd1b9affd30562b5232e72b9dc872f1209160.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Романтика",
-          "Сверхъестественное",
-          "Сёнен",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Brain's Base"
-        ],
-        "kinopoisk_rating": 7,
-        "kinopoisk_votes": 158,
-        "imdb_rating": 6.6,
-        "imdb_votes": 125,
-        "shikimori_rating": 7.18,
-        "shikimori_votes": 737,
-        "premiere_world": "2015-04-04",
-        "aired_at": "2016-04-09",
-        "released_at": "2016-09-24",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 25,
-        "episodes_aired": 25,
-        "actors": [
-          "Каито Исикава",
-          "Марина Иноуэ",
-          "Сора Токуи",
-          "Тэссё Гэнда",
-          "Хитоми Набатамэ",
-          "Ая Судзаки",
-          "Кацухиро Токуиси",
-          "Юки Ёнаи",
-          "Эрина Хасуми",
-          "Рина Хоноидзуми"
-        ],
-        "directors": [
-          "Сэйки Сугавара",
-          "Фудзий Такафуми",
-          "Хироси Исиодори",
-          "Юки Эри",
-          "Масаюки Мацумото",
-          "Кэнъити Кухара",
-          "Акира Мано",
-          "Мицутоси Сато",
-          "Ёсито Хата",
-          "Акира Симидзу"
-        ],
-        "writers": [
-          "Румико Такахаси",
-          "Митико Ёкотэ"
-        ],
-        "composers": [
-          "Акимицу Хонма"
-        ]
-      }
-    },
-    {
-      "id": "serial-7675",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Риннэ: Меж двух миров [ТВ-1]",
-      "title_orig": "Kyoukai no Rinne",
-      "other_title": "Rin-ne",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2015,
-      "last_season": 1,
-      "last_episode": 25,
-      "episodes_count": 25,
-      "kinopoisk_id": "893711",
-      "imdb_id": "tt4584754",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5705",
-      "shikimori_id": "28423",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-26T10:43:14Z",
-      "updated_at": "2017-12-26T10:43:14Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Риннэ: Меж двух миров",
-        "title_en": "Kyoukai no Rinne",
-        "other_titles_en": [
-          "RIN-NE"
-        ],
-        "other_titles_jp": [
-          "境界のRINNE"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2015,
-        "description": "В детстве Сакура Мамия таинственным образом исчезла в лесу за домом своей бабушки. Она вернулась живой и здоровой, но с тех пор приобрела способность видеть призраков. Теперь, будучи подростком, она просто хочет, чтобы призраки оставили её в покое. В школе парта рядом с Сакурой пустовала с начала учебного года, но в один прекрасный день ее всегда отсутствовавший одноклассник появляется и оказывается далеко не так прост, как кажется на первый взгляд!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/893711.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/005ef42da249aaf7d0d6789aba33556ba851a75f.jpg",
-          "https://shikimori.one/system/screenshots/original/46dd5ed2ed8a0ce3c2a593a42fe2beccc35d3712.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Романтика",
-          "Сверхъестественное",
-          "Сёнен",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Brain's Base"
-        ],
-        "kinopoisk_rating": 7,
-        "kinopoisk_votes": 158,
-        "imdb_rating": 6.6,
-        "imdb_votes": 125,
-        "shikimori_rating": 6.89,
-        "shikimori_votes": 1352,
-        "premiere_world": "2015-04-04",
-        "aired_at": "2015-04-04",
-        "released_at": "2015-09-19",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 25,
-        "episodes_aired": 25,
-        "actors": [
-          "Каито Исикава",
-          "Марина Иноуэ",
-          "Сора Токуи",
-          "Тэссё Гэнда",
-          "Хитоми Набатамэ",
-          "Ая Судзаки",
-          "Кацухиро Токуиси",
-          "Юки Ёнаи",
-          "Эрина Хасуми",
-          "Рина Хоноидзуми"
-        ],
-        "directors": [
-          "Сэйки Сугавара",
-          "Фудзий Такафуми",
-          "Хироси Исиодори",
-          "Юки Эри",
-          "Масаюки Мацумото",
-          "Кэнъити Кухара",
-          "Акира Мано",
-          "Мицутоси Сато",
-          "Ёсито Хата",
-          "Акира Симидзу"
-        ],
-        "writers": [
-          "Румико Такахаси",
-          "Митико Ёкотэ"
-        ],
-        "composers": [
-          "Акимицу Хонма"
-        ]
-      }
-    },
-    {
-      "id": "serial-7659",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Рандеву с жизнью [ТВ-2]",
-      "title_orig": "Date a Live II",
-      "other_title": "デート・ア・ライブ II",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2014,
-      "last_season": 2,
-      "last_episode": 11,
-      "episodes_count": 11,
-      "kinopoisk_id": "762141",
-      "imdb_id": "tt2575684",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1640",
-      "shikimori_id": "19163",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-12-26T10:26:00Z",
-      "updated_at": "2017-12-26T10:26:00Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Рандеву с жизнью",
-        "title_en": "Date a Live",
-        "other_titles": [
-          "Date A Live 2"
-        ],
-        "other_titles_en": [
-          "Date A Live II"
-        ],
-        "other_titles_jp": [
-          "デート・ア・ライブⅡ"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2013,
-        "description": "16-летний Сидо Ицука в раннем детстве остался без родителей и теперь вместе с младшей сестрой Котори обитает в пригороде Токио. Однажды из-за сестры Ицука оказался прямо в эпицентре катаклизма и узнал, что неведомые Духи являются на Землю.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/762141.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/8c1cea974a164e6400580df58291015a0942c05e.jpg",
-          "https://shikimori.one/system/screenshots/original/f98e9af6c02edcba37fc678bb67f39f261862ccb.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Комедия",
-          "Меха",
-          "Романтика",
-          "Фантастика",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Production IMS"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 3446,
-        "imdb_rating": 7,
-        "imdb_votes": 2191,
-        "shikimori_rating": 7.25,
-        "shikimori_votes": 16840,
-        "premiere_world": "2013-03-31",
-        "aired_at": "2014-04-12",
-        "released_at": "2014-06-14",
-        "rating_mpaa": "R",
-        "episodes_total": 10,
-        "episodes_aired": 10,
-        "actors": [
-          "Симадзаки Нобунага",
-          "Марина Иноуэ",
-          "Аяна Такэтацу",
-          "Мисудзу Тогаси",
-          "Ая Эндо",
-          "Такэхито Коясу",
-          "Го Иноэ",
-          "Gorgeous",
-          "Анри Кацу",
-          "Каори Садохара"
-        ],
-        "directors": [
-          "Кэйтаро Мотонага",
-          "Даисукэ Эгути"
-        ],
-        "producers": [
-          "Тиаки Кураканэ",
-          "Такэси Ясуда",
-          "Такафуми Исибаси",
-          "Масахиро Киба",
-          "Такэси Кикути",
-          "Ёсикадзу Кумагаи",
-          "Хирокуни Маэяма",
-          "Тору Миура",
-          "Сатоси Мотонага",
-          "Синобу Муракава"
-        ],
-        "writers": [
-          "Хидэки Сиранэ",
-          "Коси Татибана"
-        ],
-        "composers": [
-          "Го Сакабэ"
-        ],
-        "editors": [
-          "Итиро Тяэн",
-          "Такаси Сакураи",
-          "Сюн Токуда"
-        ],
-        "designers": [
-          "Хироси Ито"
-        ],
-        "operators": [
-          "Таики Окутани",
-          "Кэнто Сасаки",
-          "Нодзоми Ситара"
         ]
       }
     }
