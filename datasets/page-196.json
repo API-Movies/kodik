@@ -1,6 +1,708 @@
 {
   "results": [
     {
+      "id": "movie-47079",
+      "type": "anime",
+      "link": "",
+      "title": "Счастливая звезда OVA",
+      "title_orig": "Lucky Star OVA: JK",
+      "other_title": "Lucky Star OVA",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2008,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6943",
+      "shikimori_id": "4472",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-04T12:06:46Z",
+      "updated_at": "2020-01-04T12:06:46Z",
+      "material_data": {
+        "title": "Счастливая звезда OVA",
+        "title_en": "Lucky☆Star: Original na Visual to Animation",
+        "other_titles": [
+          "Lucky Star OVA"
+        ],
+        "other_titles_jp": [
+          "らき☆すた OVA（オリジナルなビジュアルとアニメーション）"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "description": "Эта OVA состоит из 6 коротких историй про полюбившимся многим персонажей. Неразлучным подругам предстоит вместе играть в онлайновую ролевую игру, помечтать о \"Золушке\", заблудиться и многое другое. И все эти истории приправлены фирменным юмором и кучей отсылок к другим произведениям японской анимации. ",
+        "poster_url": "https://shikimori.one/system/animes/original/4472.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/2f5eadd56cffe23756a75ca2bbe58437d74f1afd.jpg",
+          "https://shikimori.one/system/screenshots/original/3a85f6042546dbfb984838c7651ae3077cccd3a5.jpg"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Пародия",
+          "Повседневность",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Kyoto Animation"
+        ],
+        "shikimori_rating": 7.82,
+        "shikimori_votes": 3441,
+        "aired_at": "2008-09-26",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": 0
+      }
+    },
+    {
+      "id": "serial-20653",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Принцесса Немертвых: Черная хроника",
+      "title_orig": "Shikabane Hime: Kuro",
+      "other_title": "Corpse Princess: Black",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2009,
+      "last_season": 2,
+      "last_episode": 14,
+      "episodes_count": 14,
+      "kinopoisk_id": "522020",
+      "imdb_id": "tt1376389",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7099",
+      "shikimori_id": "5034",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-04T12:05:25Z",
+      "updated_at": "2020-01-04T12:05:25Z",
+      "seasons": {
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Принцесса Немертвых: Черная хроника",
+        "title_en": "Shikabane hime kuro",
+        "other_titles": [
+          "Shikabane Hime Second Season"
+        ],
+        "other_titles_en": [
+          "Corpse Princess: Kuro"
+        ],
+        "other_titles_jp": [
+          "屍姫 玄"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2009,
+        "description": "Ори Кагами проводил в последний путь названного старшего брата и принял от него великую ответственность – связь с «принцессой немертвых» Макиной Хосимура, как выяснилось – не чужой для обоих братьев. Для официального признания договора ему пришлось вступить в буддистский орден Когон и начать нелегкое обучение, а Макина тем временем борется с демонами прошлого, не желая примириться с уходом своего напарника и наставника.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/522020.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/4cda6ef5c4119d594f3e0bbc7d674922ce0da660.jpg",
+          "https://shikimori.one/system/screenshots/original/f56698509223cd11d4b7faca65c1a595676fb6b1.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "приключения"
+        ],
+        "anime_genres": [
+          "Сверхъестественное",
+          "Сёнен",
+          "Ужасы",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Gainax",
+          "feel."
+        ],
+        "kinopoisk_rating": 6.8,
+        "kinopoisk_votes": 244,
+        "imdb_rating": 7,
+        "imdb_votes": 229,
+        "shikimori_rating": 7.31,
+        "shikimori_votes": 2217,
+        "premiere_world": "2009-01-01",
+        "aired_at": "2009-01-01",
+        "released_at": "2009-03-26",
+        "rating_mpaa": "R",
+        "episodes_total": 12,
+        "episodes_aired": 0,
+        "actors": [
+          "Люси Кристиан",
+          "Аарон Дисмьюк",
+          "Стивен Хофф",
+          "Дж. Майкл Татум",
+          "Нана Акияма",
+          "Тацуя Хасомэ"
+        ],
+        "directors": [
+          "Масахико Мурата"
+        ],
+        "writers": [
+          "Yoshiichi Akahito"
+        ],
+        "composers": [
+          "Норихито Сумитомо"
+        ]
+      }
+    },
+    {
+      "id": "serial-5872",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Эпоха смут [ТВ-1]",
+      "title_orig": "Sengoku Basara",
+      "other_title": "Дьявольские короли / Эпоха смут (первый сезон)",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2009,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 13,
+      "kinopoisk_id": "455433",
+      "imdb_id": "tt1411816",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7128",
+      "shikimori_id": "5355",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-11-11T23:39:29Z",
+      "updated_at": "2020-01-04T12:00:37Z",
+      "seasons": {
+        "0": {
+          "title": "Спешл",
+          "link": "",
+          "episodes": {
+            "1": ""
+          }
+        },
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Дьявольские короли",
+        "title_en": "Sengoku basara",
+        "other_titles_en": [
+          "Sengoku Basara: Samurai Kings"
+        ],
+        "other_titles_jp": [
+          "戦国BASARA"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2009,
+        "description": "Сэнгоку Дзидай – «эпоха воюющих земель» - один из самых популярных периодов японской истории, его героев знает каждый тамошний школьник. Лихой конник Датэ Масамунэ, верный и честный Санада Юкимура, великий ниндзя Саскэ Сарутоби, несокрушимый князь Такэда, его вечный противник Уэсуги, демонический Ода Нобунага…",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/455433.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/f9924794a3ea0ec4140230a03e5c1ff01274bc8b.jpg",
+          "https://shikimori.one/system/screenshots/original/5e632523fa7c7561cbf13583624d847ae7e94424.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Боевые искусства",
+          "Исторический",
+          "Самураи",
+          "Супер сила",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Production I.G"
+        ],
+        "kinopoisk_rating": 7,
+        "kinopoisk_votes": 460,
+        "imdb_rating": 6.9,
+        "imdb_votes": 418,
+        "shikimori_rating": 7.38,
+        "shikimori_votes": 2816,
+        "premiere_world": "2009-04-01",
+        "aired_at": "2009-04-02",
+        "released_at": "2009-06-18",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 0,
+        "episodes_total": 12,
+        "episodes_aired": 0,
+        "actors": [
+          "Сэм Ригел",
+          "Патрик Сэйтц",
+          "Вик Миньона",
+          "Кэйтлин Гласс",
+          "Майкл Синтерниклаас",
+          "Джош Грелл",
+          "Чак Хубер",
+          "Крис Эйрс",
+          "Кристофер Бевинс",
+          "Энтони Боулинг"
+        ],
+        "directors": [
+          "Ицуро Кавасаки",
+          "Кадзуя Номура",
+          "Синпэй Эдзаки",
+          "Тосия Ниидомэ",
+          "Кэн Андо",
+          "Норихиро Наганума",
+          "Наоёси Сиотани",
+          "Кэнтаро Судзуки",
+          "Ёсиюки Такаянаги",
+          "Ёсикадзу Уи"
+        ],
+        "producers": [
+          "Ёко Фурукава",
+          "Наохиро Футоно",
+          "Ацуси Хигасияма",
+          "Мицухиса Исикава",
+          "Ёсихиро Иваса",
+          "Кодзуэ Канэнива",
+          "Тэцуя Киносита",
+          "Тосихиро Маэда",
+          "Кэиити Нодзаки",
+          "Сиро Сасаки"
+        ],
+        "writers": [
+          "Кристофер Бевинс",
+          "Ясуюки Муто",
+          "Патрик Сэйтц",
+          "Макото Цутибаяси"
+        ],
+        "composers": [
+          "Хироюки Савано"
+        ],
+        "editors": [
+          "Даисукэ Имаи"
+        ],
+        "designers": [
+          "Ёсито Такаминэ",
+          "Сюнъитиро Ёсивара"
+        ],
+        "operators": [
+          "Наоюки Оба"
+        ]
+      }
+    },
+    {
+      "id": "serial-8485",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Компания «Первая любовь»",
+      "title_orig": "Hatsukoi Limited",
+      "other_title": "Трудности первой любви",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2009,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "461823",
+      "imdb_id": "tt1418477",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7153",
+      "shikimori_id": "5150",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-01-07T11:35:10Z",
+      "updated_at": "2020-01-04T11:57:24Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Компания «Первая любовь»",
+        "title_en": "Hatsukoi rimitetto",
+        "other_titles": [
+          "Трудности первой любви",
+          "Компания «Первая любовь»",
+          "Hatsukoi Gentei."
+        ],
+        "other_titles_en": [
+          "Hatsukoi Limited"
+        ],
+        "other_titles_jp": [
+          "初恋限定。"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2009,
+        "description": "Какой основной вопрос волнует юношей и девушек, вступающих в заветную «весну жизни»? Уж точно не спасение редких горных кошек… а, конечно же, любовь! Именно о ней, о первой любви, о ее поисках и непростых загадках рассказывает этот романтический ситком, вращающийся вокруг двух десятков учениц и учеников средней и старшей школы, связанных дружескими, родственными и романтическими отношениями.\n\rСтоит ли девушке ждать принца на белом коне? Обманчива ли внешность? Зла ли любовь? Какие характеры лучше для долгих отношений – схожие или противоположные? Ответы на эти и другие вопросы будут искать 14-летние подружки Аюми, Кэй, Коёй, Рика и Нао, которые составляют «организационное ядро» персонажей сериала. Как следует из законов жанра, каждая серия будет рассказывать отдельную историю и нанизываться на отдельный сквозной метасюжет.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/461823.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/fb3bf79646fd0281e0fcd77534349f72f77b6247.jpg",
+          "https://shikimori.one/system/screenshots/original/c4cad9e75feec833bddb0bea135afbb92a445f91.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мелодрама",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Романтика",
+          "Сёнен",
+          "Школа"
+        ],
+        "anime_studios": [
+          "J.C.Staff"
+        ],
+        "kinopoisk_rating": 7.1,
+        "kinopoisk_votes": 327,
+        "imdb_rating": 7.1,
+        "imdb_votes": 97,
+        "shikimori_rating": 7.32,
+        "shikimori_votes": 2011,
+        "premiere_world": "2009-04-11",
+        "aired_at": "2009-04-12",
+        "released_at": "2009-06-28",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 0,
+        "episodes_total": 12,
+        "episodes_aired": 0,
+        "actors": [
+          "Аюми Фудзимура",
+          "Мария Исэ",
+          "Аки Тоёсаки"
+        ],
+        "directors": [
+          "Ёсики Ямакава"
+        ],
+        "producers": [
+          "Джон Лэдфорд"
+        ]
+      }
+    },
+    {
+      "id": "serial-20652",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Записки Каны",
+      "title_orig": "Kanamemo",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2009,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "494729",
+      "imdb_id": "tt1464406",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7282",
+      "shikimori_id": "5914",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-04T11:55:14Z",
+      "updated_at": "2020-01-04T11:55:14Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Записки Каны",
+        "title_en": "Kanamemo",
+        "other_titles_jp": [
+          "かなめも"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2009,
+        "description": "Кану Накамати преследуют страшные беды. Сначала умирают её родители, потом бабушка, а теперь из-за долгов из дома выносят вещи. Кана покидает дом, начинает путешествовать и попадает в маленькую фирму по доставке газет, в которой работают и живут пять молодых девушек. Они принимают Кану в свою команду, и теперь главные её задачи - кормить сотрудниц обедами и учиться на разносчика газет.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/494729.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/92c753fac26cfd42cbfa8ec2fa1f794aeb5d848a.jpg",
+          "https://shikimori.one/system/screenshots/original/38f595d0f4d4bd397c7bf6d20414241bceab257e.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мелодрама",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Повседневность",
+          "Сёдзё-ай",
+          "Этти"
+        ],
+        "anime_studios": [
+          "feel."
+        ],
+        "kinopoisk_rating": 5.6,
+        "kinopoisk_votes": 94,
+        "imdb_rating": 6.2,
+        "imdb_votes": 68,
+        "shikimori_rating": 6.88,
+        "shikimori_votes": 658,
+        "premiere_world": "2009-07-05",
+        "aired_at": "2009-07-06",
+        "released_at": "2009-09-28",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 0,
+        "episodes_total": 13,
+        "episodes_aired": 0,
+        "actors": [
+          "Аки Тоёсаки",
+          "Каору Мидзухара",
+          "Рё Хирохаси",
+          "Ая Эндо",
+          "Эри Китамура",
+          "Юи Хориэ",
+          "Риэ Кугимия",
+          "Момоко Охара",
+          "Юмико Осака",
+          "Микако Такахаси"
+        ],
+        "directors": [
+          "Сигэхито Такаянаги"
+        ],
+        "writers": [
+          "Shoko Iwami",
+          "Ясуко Камо",
+          "Рика Накасэ",
+          "Митико Ёкотэ"
+        ]
+      }
+    },
+    {
+      "id": "serial-20651",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Танец на Вампирском берегу",
+      "title_orig": "Dance In The Vampire Bund",
+      "other_title": "Dansu in za vanpaia bando",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2010,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "494666",
+      "imdb_id": "tt1586814",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7422",
+      "shikimori_id": "6747",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-01-04T11:52:34Z",
+      "updated_at": "2020-01-04T11:52:34Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Танец на Вампирском берегу",
+        "title_en": "Dansu in za vanpaia bando",
+        "other_titles_en": [
+          "Dance in the Vampire Bund"
+        ],
+        "other_titles_jp": [
+          "ダンスインザヴァンパイアバンド"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2010,
+        "tagline": "The World's Not Ready For Her Reign.",
+        "description": "Веками сородичи графа Дракулы тайно правили миром и скрывали свое существование, уводя людской интерес в сторону фольклора и выдумок. Но ничто не длится вечно, и дальний потомок графа, принцесса Мина Цепеш, юная правительница всех вампиров, решила открыться миру и поселиться среди людей. Для этого понадобилось всего-то уплатить государственный долг одной азиатской страны и втихомолку, не называя заказчика, воздвигнуть в Токийском заливе огромный искусственный остров, который очень скоро все станут звать Берегом Вампиров.\n\rПризнание существования расы вампиров и новость о создании их анклава на территории Японии произвели во всем мире эффект разорвавшейся бомбы. Очень многие люди и нелюди, мягко говоря, не обрадовались подобному заявлению, а еще большее число решило половить рыбку в мутной воде. Покушения на Мину Цепеш посыпались с обеих сторон, да вот убить бессмертную правительницу непросто, особенно когда ее защищают верные люди, а среди них Акира Кобураги Регендорф – молодой вервольф и личный телохранитель принцессы, с детства принесший ей клятву верности. Но что может получиться из вампирского Гонконга – Вавилона нового времени, места смешения рас и культур",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/494666.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/b2b5f9ff235107a6c022ada041cee6729852dc69.jpg",
+          "https://shikimori.one/system/screenshots/original/57feb38b9df43e559f45a0c81ad52bc3f1302949.jpg"
+        ],
+        "duration": 25,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Вампиры",
+          "Сверхъестественное",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Shaft"
+        ],
+        "kinopoisk_rating": 6.4,
+        "kinopoisk_votes": 881,
+        "imdb_rating": 6.7,
+        "imdb_votes": 672,
+        "shikimori_rating": 7.06,
+        "shikimori_votes": 5777,
+        "premiere_world": "2010-01-07",
+        "aired_at": "2010-01-07",
+        "released_at": "2010-04-01",
+        "rating_mpaa": "R+",
+        "minimal_age": 0,
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Юити Накамура",
+          "Моника Риал",
+          "Алексис Типтон",
+          "Эрик Вейл",
+          "Коллин Клинкенберд",
+          "Терри Доти",
+          "Джейми Марчи",
+          "Аои Юки",
+          "Юко Каида",
+          "Йоси Танака"
+        ],
+        "directors": [
+          "Акиюки Синбо",
+          "Масахиро Сонода",
+          "Тацува Наоюки",
+          "Нобухару Каманака",
+          "Хироси Кимура",
+          "Ёсихиро Мори",
+          "Хатано Кохэй"
+        ],
+        "producers": [
+          "Тосиаки Асака",
+          "Ацуси Ивасаки",
+          "Мицутоси Кубота",
+          "Таро Маки",
+          "Ясухиро Миками",
+          "Нобухиро Осава",
+          "Сиро Сасаки",
+          "Ken Baba",
+          "Хиромаса Минами",
+          "Синобу Ёсинума"
+        ],
+        "writers": [
+          "Нодзому Тамаки",
+          "Хироюки Ёсино"
+        ],
+        "composers": [
+          "Акио Добаши"
+        ],
+        "editors": [
+          "Кадзухико Сэки"
+        ],
+        "designers": [
+          "Кодзи Адзума"
+        ],
+        "operators": [
+          "Томофуми Фудзита"
+        ]
+      }
+    },
+    {
       "id": "serial-20650",
       "type": "anime-serial",
       "link": "",
@@ -79,7 +781,7 @@
           "Toei Animation"
         ],
         "shikimori_rating": 7.27,
-        "shikimori_votes": 768,
+        "shikimori_votes": 629,
         "aired_at": "2009-10-13",
         "released_at": "2010-06-08",
         "rating_mpaa": "PG",
@@ -185,7 +887,7 @@
         "imdb_rating": 7.7,
         "imdb_votes": 1136,
         "shikimori_rating": 7.35,
-        "shikimori_votes": 5172,
+        "shikimori_votes": 4878,
         "premiere_world": "2010-07-04",
         "aired_at": "2010-07-04",
         "released_at": "2010-09-26",
@@ -2477,9 +3179,9 @@
           "J.C.Staff"
         ],
         "kinopoisk_rating": 8.1,
-        "kinopoisk_votes": 6881,
+        "kinopoisk_votes": 6999,
         "imdb_rating": 7.8,
-        "imdb_votes": 3210,
+        "imdb_votes": 3309,
         "shikimori_rating": 8.21,
         "shikimori_votes": 48326,
         "premiere_world": "2012-10-09",
@@ -5368,10 +6070,10 @@
         "anime_studios": [
           "8bit"
         ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 480,
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 490,
         "imdb_rating": 7.3,
-        "imdb_votes": 322,
+        "imdb_votes": 334,
         "shikimori_rating": 7.85,
         "shikimori_votes": 14859,
         "aired_at": "2015-04-19",
@@ -6267,8 +6969,8 @@
         "kinopoisk_votes": 1521,
         "imdb_rating": 7.4,
         "imdb_votes": 1294,
-        "shikimori_rating": 7.53,
-        "shikimori_votes": 17503,
+        "shikimori_rating": 7.52,
+        "shikimori_votes": 16571,
         "premiere_world": "2019-10-02",
         "aired_at": "2019-10-02",
         "released_at": "2019-12-27",
@@ -6735,7 +7437,7 @@
         "imdb_rating": 5.4,
         "imdb_votes": 700,
         "shikimori_rating": 5.32,
-        "shikimori_votes": 327,
+        "shikimori_votes": 272,
         "aired_at": "1986-05-21",
         "rating_mpaa": "R+",
         "episodes_total": 1,
@@ -8191,7 +8893,7 @@
         "imdb_rating": 6.6,
         "imdb_votes": 35,
         "shikimori_rating": 6.19,
-        "shikimori_votes": 42,
+        "shikimori_votes": 16,
         "aired_at": "1999-06-25",
         "released_at": "1999-09-30",
         "rating_mpaa": "R",
@@ -8506,7 +9208,7 @@
         "imdb_rating": 6.5,
         "imdb_votes": 35,
         "shikimori_rating": 7.34,
-        "shikimori_votes": 604,
+        "shikimori_votes": 526,
         "premiere_world": "2009-03-06",
         "aired_at": "2009-03-06",
         "rating_mpaa": "PG-13",
@@ -8697,7 +9399,7 @@
           "Hal Film Maker"
         ],
         "shikimori_rating": 6.36,
-        "shikimori_votes": 255,
+        "shikimori_votes": 198,
         "premiere_world": "2008-03-28",
         "aired_at": "2008-02-29",
         "released_at": "2008-03-28",
@@ -8792,7 +9494,7 @@
         "imdb_rating": 5.2,
         "imdb_votes": 13,
         "shikimori_rating": 6.36,
-        "shikimori_votes": 255,
+        "shikimori_votes": 198,
         "premiere_world": "2008-02-29",
         "aired_at": "2008-02-29",
         "released_at": "2008-03-28",
@@ -9977,387 +10679,6 @@
         ],
         "operators": [
           "Вэнь Юн Хуан"
-        ]
-      }
-    },
-    {
-      "id": "movie-46992",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Купидон один",
-      "title_orig": "Oi san yat ho",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1985,
-      "kinopoisk_id": "222133",
-      "imdb_id": "tt0088686",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-02T14:28:24Z",
-      "updated_at": "2020-01-02T14:28:24Z",
-      "material_data": {
-        "title": "Купидон один",
-        "title_en": "Oi san yat ho",
-        "year": 1985,
-        "description": "Дочка богатых родителей, Мэй, помолвлена Дэнни, но её не очень устраивает этот брак, поэтому с вечеринки по случаю помолвки она сбегает и в конце концов оказывается на пришвартованной к берегу чужой яхте. Но с утра Мэй просыпается в море – наёмный капитан Кеунг должен пригнать яхту в Тайланд, а насчет «зайцев» на борту он не был в курсе. Грубый и неотёсанный Кеунг поначалу на дух не переносит избалованную и капризную Мэй, но впоследствии его чувства сменяются любовью…",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/222133.jpg",
-        "duration": 95,
-        "countries": [
-          "Гонконг"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "imdb_rating": 6.4,
-        "imdb_votes": 41,
-        "actors": [
-          "Эрик Чан Ка Кеи",
-          "Чун Чан",
-          "Марк Чэн",
-          "Сунь Вонг",
-          "Салли Е",
-          "Ю Миу-Линь"
-        ],
-        "directors": [
-          "Ринго Лам"
-        ],
-        "producers": [
-          "Дин Шек",
-          "Рэймонд Вон",
-          "Катрин Хун",
-          "Карл Мака"
-        ],
-        "writers": [
-          "Веллингтон Фанг",
-          "Ринго Лам"
-        ]
-      }
-    },
-    {
-      "id": "movie-46993",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Ладонь Будды и кулак Дракона",
-      "title_orig": "Liu xing fei ying",
-      "translation": {
-        "id": 590,
-        "title": "Кузнецов",
-        "type": "voice"
-      },
-      "year": 1980,
-      "kinopoisk_id": "80627",
-      "imdb_id": "tt0200073",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-02T14:27:42Z",
-      "updated_at": "2020-01-02T14:27:42Z",
-      "material_data": {
-        "title": "Ладонь Будды и кулак Дракона",
-        "title_en": "Liu xing fei ying",
-        "year": 1980,
-        "description": "Парень хочет отомстить отцу, так что идет в школу кунг-фу, тоже учиться, чтобы стать бойцом, он знакомится с мастером, который может помочь ему стать бойцом кунг-фу и берет на себя задачу мести.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/80627.jpg",
-        "duration": 85,
-        "countries": [
-          "Тайвань"
-        ],
-        "genres": [
-          "боевик"
-        ],
-        "imdb_rating": 6,
-        "imdb_votes": 52,
-        "minimal_age": 0,
-        "actors": [
-          "Чи Куаньчунь",
-          "И-Мин Ли",
-          "Ева Лин",
-          "Сунь Шупэй",
-          "Чунг Ву Чинг",
-          "Куо Чунг Чинг",
-          "Ke Chu",
-          "Sap-Yee Gam",
-          "Ching-Hsiang Han",
-          "Ан Чанг Ху"
-        ],
-        "directors": [
-          "Ших Хао Ко"
-        ],
-        "producers": [
-          "Чанг Лью Ли",
-          "Фанг Ванг",
-          "Энни Вонг",
-          "Менг Хуа Чанг"
-        ],
-        "writers": [
-          "Фенг Чэн"
-        ],
-        "composers": [
-          "Моу Шан Хуанг"
-        ],
-        "editors": [
-          "Чи Куй Хуанг"
-        ],
-        "operators": [
-          "Си Лок Чен"
-        ]
-      }
-    },
-    {
-      "id": "movie-46994",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Ловкая рука, ловкий меч",
-      "title_orig": "Ling long yu shao jian ling long",
-      "translation": {
-        "id": 697,
-        "title": "Прокс",
-        "type": "voice"
-      },
-      "year": 1978,
-      "kinopoisk_id": "384744",
-      "imdb_id": "tt1062938",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-02T14:26:52Z",
-      "updated_at": "2020-01-02T14:26:52Z",
-      "material_data": {
-        "title": "Ling long yu shao jian ling long",
-        "year": 1978,
-        "countries": [
-          "Гонконг",
-          "Тайвань"
-        ],
-        "genres": [
-          "боевик"
-        ],
-        "premiere_world": "1978-06-17",
-        "actors": [
-          "Пэн Тиэнь",
-          "Линг Чанг",
-          "Джен Чен",
-          "Так Конг Кеи",
-          "Чунь Лун",
-          "Куин Менг",
-          "Танг Мей Чин",
-          "Линг Фэн",
-          "Юнг Пенг Син",
-          "Синг Хсие"
-        ],
-        "directors": [
-          "Пао Сюэли"
-        ],
-        "producers": [
-          "Фэй Гао"
-        ],
-        "writers": [
-          "Шу Мей Чин",
-          "Ку Лун"
-        ],
-        "designers": [
-          "Чиа Хо"
-        ],
-        "operators": [
-          "Куо Хсиао Ву"
-        ]
-      }
-    },
-    {
-      "id": "movie-46995",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Мертвый и смертоносный",
-      "title_orig": "Ren xia ren",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1982,
-      "kinopoisk_id": "37157",
-      "imdb_id": "tt0084587",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-02T14:26:16Z",
-      "updated_at": "2020-01-02T14:26:16Z",
-      "material_data": {
-        "title": "Мертвый и смертоносный",
-        "title_en": "Ren xia ren",
-        "year": 1982,
-        "description": "В маленький городок возвращается Лунг Чан, один из его бывших жителей, уехавший много лет назад на поиски счастья, - но ногами вперед. Тело сопровождает беременная жена, ее брат и двое охранников, и вдове сочувствуют все, кроме помощника местного священника по имени Толстяк, прекрасно осведомленного о том, что усопший был импотентом, так что живот у девушки ну никак не мог появиться благодаря ему. Как выясняется вскоре, все это всего лишь афера, придуманная самим «трупом» - когда его будут хоронить, прижимистый отец положит в гроб немало драгоценностей. Но подельники решают не делиться с Лунг Чаном и убивают его в ночь похорон по-настоящему, и тогда его призрак обращается за помощью к своему единственному другу при жизни - Толстяку.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/37157.jpg",
-        "duration": 97,
-        "countries": [
-          "Гонконг"
-        ],
-        "genres": [
-          "боевик",
-          "ужасы",
-          "фэнтези"
-        ],
-        "kinopoisk_rating": 6.4,
-        "kinopoisk_votes": 79,
-        "imdb_rating": 6.3,
-        "imdb_votes": 363,
-        "minimal_age": 0,
-        "actors": [
-          "Саммо Хун",
-          "У Ма",
-          "Лам Чин-Ин",
-          "Чери Чун",
-          "Чун Фат",
-          "Mei Hui Leung",
-          "Чинг По Чанг",
-          "Ланг Чан",
-          "Ка Ли",
-          "Чинь Ют-Сан"
-        ],
-        "directors": [
-          "У Ма"
-        ],
-        "producers": [
-          "Рэймонд Чоу",
-          "Саммо Хун"
-        ],
-        "writers": [
-          "Саммо Хун",
-          "Бэрри Вонг"
-        ],
-        "operators": [
-          "Ю-Цоу Чунг",
-          "Рики Лау",
-          "Ю-танг Ли"
-        ]
-      }
-    },
-    {
-      "id": "movie-46996",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Теппаньяки",
-      "title_orig": "Tie ban shao",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1984,
-      "kinopoisk_id": "314058",
-      "imdb_id": "tt0088268",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-02T14:24:52Z",
-      "updated_at": "2020-01-02T14:24:52Z",
-      "material_data": {
-        "title": "Теппаньяки",
-        "title_en": "Tie ban shao",
-        "year": 1984,
-        "description": "Джонни вроде бы неплохо устроился в жизни, но это только на первый взгляд. Его жена – сущая стерва, а его не пыльную работу в ресторане на самом деле контролирует тесть – настоящий дьявол во плоти. Джонни мечтает о том, что когда-нибудь встретит шикарную модель и окажется с ней в райском уголке и однажды его мечта сбывается – на него обращает внимание красавица Сиси. Вот только как избавиться от неприятного «семейного багажа»?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/314058.jpg",
-        "duration": 89,
-        "countries": [
-          "Гонконг"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "imdb_rating": 6.1,
-        "imdb_votes": 149,
-        "premiere_world": "1984-01-26",
-        "minimal_age": 0,
-        "actors": [
-          "Майкл Хуэй",
-          "Салли Е",
-          "Фрэнсис Йип",
-          "Ло Хой-Пан",
-          "Mei-Yi Tsou",
-          "Пол Че",
-          "Йинг Сау Хуи",
-          "Майкл Лай",
-          "Chun-Ying Cheung",
-          "Йен Пинг Ли"
-        ],
-        "directors": [
-          "Майкл Хуэй"
-        ],
-        "writers": [
-          "Майкл Хуэй"
-        ],
-        "composers": [
-          "Крис Бабида"
-        ],
-        "editors": [
-          "Питер Чун"
-        ],
-        "designers": [
-          "Сиу-Юн Лау"
-        ],
-        "operators": [
-          "Юэнь Чи Сиу"
-        ]
-      }
-    },
-    {
-      "id": "movie-46997",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Мистер Любовница",
-      "title_orig": "Hun wai qing",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1988,
-      "kinopoisk_id": "135524",
-      "imdb_id": "tt0121383",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-02T14:24:08Z",
-      "updated_at": "2020-01-02T14:24:08Z",
-      "material_data": {
-        "title": "Мистер Любовница",
-        "title_en": "Hun wai qing",
-        "year": 1988,
-        "description": "Винсент представляет крупную компанию, которой позарез нужен контракт с мисс Элис Чунг – звездой аэробики, ненадолго приехавшей в Гонконг из Америки. Для этого Винсенту приходится повсюду следовать за девушкой, которой как раз не хватает внимания. А тем временем за женой Винсента начинает ухаживать пронырливый менеджер Элис.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/135524.jpg",
-        "duration": 102,
-        "countries": [
-          "Гонконг"
-        ],
-        "genres": [
-          "драма",
-          "комедия",
-          "мелодрама"
-        ],
-        "imdb_rating": 6.1,
-        "imdb_votes": 10,
-        "premiere_world": "1988-05-17",
-        "actors": [
-          "Сау Сунь Хо",
-          "Чери Чун",
-          "Нина Ли Чи",
-          "Эрик Цан",
-          "Чарин Чань",
-          "Ман-Ха Чэн",
-          "Цан-Сан Чун",
-          "Мей Фанг Чоу",
-          "Доминик Лам",
-          "Ching-Ho Law"
-        ],
-        "directors": [
-          "Пак Лам Чуй"
-        ],
-        "producers": [
-          "Нг Сиюэнь"
         ]
       }
     }

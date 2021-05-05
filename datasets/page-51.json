@@ -1,6 +1,765 @@
 {
   "results": [
     {
+      "id": "movie-64439",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Концерт на экране",
+      "title_orig": "Kontsert na ekrane",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1940,
+      "kinopoisk_id": "44912",
+      "imdb_id": "tt0031541",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-15T10:57:08Z",
+      "updated_at": "2020-12-15T10:57:08Z",
+      "material_data": {
+        "title": "Концерт на экране",
+        "year": 1940,
+        "description": "Фильм-концерт. В программе сцены из спектаклей, балетов и опер, народные песни и романсы.",
+        "duration": 69,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "мюзикл"
+        ],
+        "imdb_rating": 7.1,
+        "imdb_votes": 8,
+        "actors": [
+          "Николай Черкасов",
+          "Наталья Дудинская",
+          "Вахтанг Чабукиани",
+          "Иван Москвин",
+          "Кето Джапаридзе",
+          "Петр Березов",
+          "Владимир Хенкин",
+          "Роман Юрьев-Лунц",
+          "Сергей Образцов",
+          "Борис Эдер"
+        ],
+        "directors": [
+          "Семен Тимошенко"
+        ],
+        "writers": [
+          "Семен Тимошенко"
+        ],
+        "composers": [
+          "Исаак Дунаевский"
+        ],
+        "editors": [
+          "Н. Разумова",
+          "Евгения Маханькова"
+        ],
+        "designers": [
+          "Семён Мандель",
+          "Яков Ривош"
+        ],
+        "operators": [
+          "Владимир Данашевский",
+          "Анатолий Назаров"
+        ]
+      }
+    },
+    {
+      "id": "serial-19427",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Ван-Пис [ТВ]",
+      "title_orig": "One Piece",
+      "other_title": "Ван Пис / Wan pîsu: One Piece / One Piece: Wan pîsu",
+      "translation": {
+        "id": 910,
+        "title": "AniStar",
+        "type": "voice"
+      },
+      "year": 1999,
+      "last_season": 1,
+      "last_episode": 927,
+      "episodes_count": 20,
+      "kinopoisk_id": "382731",
+      "imdb_id": "tt0388629",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=803",
+      "shikimori_id": "21",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-10-28T08:34:51Z",
+      "updated_at": "2020-12-15T10:37:20Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "908": "",
+            "909": "",
+            "910": "",
+            "911": "",
+            "912": "",
+            "913": "",
+            "914": "",
+            "915": "",
+            "916": "",
+            "917": "",
+            "918": "",
+            "919": "",
+            "920": "",
+            "921": "",
+            "922": "",
+            "923": "",
+            "924": "",
+            "925": "",
+            "926": "",
+            "927": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Ван-Пис",
+        "title_en": "One Piece: Wan pîsu",
+        "other_titles": [
+          "Большой куш",
+          "Одним куском"
+        ],
+        "other_titles_en": [
+          "One Piece"
+        ],
+        "other_titles_jp": [
+          "ONE PIECE"
+        ],
+        "anime_license_name": "One Piece",
+        "anime_kind": "tv",
+        "anime_status": "ongoing",
+        "year": 1999,
+        "tagline": "Set sail for One Piece!",
+        "description": "Гол Д. Роджер — король пиратов, добившийся за свою жизнь богатства, славы и власти - спрятал где-то на просторах этого мира загадочное сокровище, которое все называют «Ван-Пис». После смерти Роджера множество смельчаков кинулись на поиски этого большого куша. И наступила великая эпоха пиратов! Вот и паренёк по имени Луффи, живущий в маленькой прибрежной деревушке, мечтает стать пиратом. Ещё в детстве он ненароком съел дьявольский плод «резина-резина» и приобрёл невероятные способности. Повзрослев, он покидает родные места в погоне за величайшим сокровищем!",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/382731.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/6509546176c00115fdbeb46970253d5984610a92.jpg",
+          "https://shikimori.one/system/screenshots/original/683e43db112e3aa81d39ce50204af542c20cf501.jpg"
+        ],
+        "duration": 22,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Комедия",
+          "Приключения",
+          "Супер сила",
+          "Сёнен",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Toei Animation"
+        ],
+        "kinopoisk_rating": 8.2,
+        "kinopoisk_votes": 11765,
+        "imdb_rating": 8.8,
+        "imdb_votes": 74791,
+        "shikimori_rating": 8.54,
+        "shikimori_votes": 23325,
+        "premiere_ru": "2012-04-16",
+        "premiere_world": "1999-10-20",
+        "aired_at": "1999-10-20",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 16,
+        "episodes_total": 0,
+        "episodes_aired": 972,
+        "actors": [
+          "Маюми Танака",
+          "Тони Бек",
+          "Лорен Вернен",
+          "Акэми Окамура",
+          "Каппэи Ямагути",
+          "Кадзуя Накаи",
+          "Хироаки Хирата",
+          "Икуэ Отани",
+          "Масато Оба",
+          "Юрико Ямагути"
+        ],
+        "directors": [
+          "Сакаи Мунэхиса",
+          "Коносукэ Уда",
+          "Хироаки Миямото",
+          "Дзюндзи Симидзу",
+          "Мамору Хосода"
+        ],
+        "producers": [
+          "Ёсихиро Судзуки",
+          "Альфред Кан",
+          "Гэн Фукунага",
+          "Джастин Кук",
+          "Карли Хантер",
+          "Майк МакФарланд",
+          "Норман Дж. Гроссфелд",
+          "Васио Такаси",
+          "Кохэй Обара",
+          "З. Чарльз Болтон"
+        ],
+        "writers": [
+          "Эйитиро Ода",
+          "Бонни Клинкенберд",
+          "Ёсиюки Суга",
+          "Шон Уитли",
+          "Эрик Вейл",
+          "Дзин Танака",
+          "Джон Бургмейер",
+          "Дзюнки Такэгами",
+          "Хирохико Уэсака",
+          "Митиру Симада"
+        ],
+        "composers": [
+          "Сиро Хамагути",
+          "Кохэй Танака",
+          "Элик Альварез",
+          "Фредди Шейнфилд"
+        ],
+        "editors": [
+          "Синъити Фукумицу",
+          "Масахиро Гото",
+          "Нобутака Маки"
+        ]
+      }
+    },
+    {
+      "id": "serial-30454",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Давайте сыграем",
+      "title_orig": "Asobi Asobase",
+      "other_title": "Развлекательные развлечения",
+      "translation": {
+        "id": 1068,
+        "title": "Crunchyroll",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1223938",
+      "imdb_id": "tt8515062",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9551",
+      "shikimori_id": "37171",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-12-15T09:27:36Z",
+      "updated_at": "2020-12-15T10:06:48Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Давайте сыграем",
+        "title_en": "Asobi Asobase",
+        "other_titles": [
+          "Играть с игрой"
+        ],
+        "other_titles_en": [
+          "Asobi Asobase: Workshop of Fun"
+        ],
+        "other_titles_jp": [
+          "あそびあそばせ"
+        ],
+        "anime_license_name": "Развлекательные развлечения",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2018,
+        "description": "Касуми хороша в играх, но ненавидит их. Оливия пытается выдавать себя иностранку, хотя родилась и выросла в Японии. А Ханако любит наблюдать за играми первых двух. Школьные будни девушек наполнены комедией и абсурдом.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1223938.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/52d9ba88a91502ea097c97e1c366c985f60988c1.jpg",
+          "https://shikimori.one/system/screenshots/original/428d61ea606a7709cbcee95cd94f9a3734135e19.jpg"
+        ],
+        "duration": 24,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Сейнен",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Lerche"
+        ],
+        "kinopoisk_rating": 7.2,
+        "kinopoisk_votes": 277,
+        "imdb_rating": 7.9,
+        "imdb_votes": 731,
+        "shikimori_rating": 8.19,
+        "shikimori_votes": 6289,
+        "premiere_world": "2018-07-08",
+        "aired_at": "2018-07-08",
+        "released_at": "2018-09-23",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Хина Кино",
+          "Кономи Кохара",
+          "Рика Нагаэ",
+          "Маки Идзава",
+          "Рёко Маэкава",
+          "Хонока Иноэ",
+          "Рётаро Окиаю",
+          "Маи Канадзава",
+          "Мицуки Саига",
+          "Акира Сэкинэ"
+        ],
+        "directors": [
+          "Сэидзи Киси",
+          "Такахиро Мадзима",
+          "Shota Hamada",
+          "Yusuke Shibata",
+          "Синъитиро Кимура",
+          "Акира Мано",
+          "Юдзи Оя",
+          "Сумито Сасаки",
+          "Housei Suzuki",
+          "Такуо Судзуки"
+        ],
+        "writers": [
+          "Юко Какихара",
+          "Rin Suzukawa"
+        ],
+        "editors": [
+          "Масаки Сакамото"
+        ],
+        "designers": [
+          "Yuki Umino"
+        ],
+        "operators": [
+          "Синъя Кондо"
+        ]
+      }
+    },
+    {
+      "id": "serial-24268",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Лига по борьбе с мошенничеством",
+      "title_orig": "Fan Pian Tian Xia",
+      "other_title": "Anti-Fraud League",
+      "translation": {
+        "id": 912,
+        "title": "FireDub.Net",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 24,
+      "kinopoisk_id": "1351534",
+      "imdb_id": "tt11358006",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-03-31T19:08:45Z",
+      "updated_at": "2020-12-15T09:12:21Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "21": "",
+            "22": "",
+            "23": "",
+            "24": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Fan Pian Tian Xia",
+        "year": 2019,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "premiere_world": "2019-12-04",
+        "minimal_age": 0,
+        "actors": [
+          "Meng Fan",
+          "Гао Жэнь",
+          "Янг Лью",
+          "Yuliang Xiao"
+        ],
+        "directors": [
+          "Shengkai Zhou"
+        ],
+        "writers": [
+          "Ke Guo",
+          "Liang Ma"
+        ]
+      }
+    },
+    {
+      "id": "movie-64414",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Жизнь в пекле пустыни",
+      "title_orig": "Vivir Allí No Es el Infierno Es el Fuego del Desierto La Plenitud de la Vida Quedó Ahí Como un Árbol",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1232694",
+      "imdb_id": "tt9640694",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-15T09:08:47Z",
+      "updated_at": "2020-12-15T09:08:47Z",
+      "material_data": {
+        "title": "Vivir Allí No Es el Infierno Es el Fuego del Desierto La Plenitud de la Vida Quedó Ahí Como un Árbol",
+        "year": 2018,
+        "duration": 58,
+        "countries": [
+          "Бразилия",
+          "Чили"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "premiere_world": "2018-10-08",
+        "minimal_age": 0,
+        "actors": [
+          "Рауль Лопез",
+          "Гильермо Моралес",
+          "Сара Моралес",
+          "Рамон Вега"
+        ],
+        "directors": [
+          "Javiera Veliz Fajardo"
+        ],
+        "producers": [
+          "Bárbara Pestan Florás",
+          "Erick Ricco",
+          "Fernanda Salgado"
+        ],
+        "writers": [
+          "Javiera Veliz Fajardo"
+        ],
+        "composers": [
+          "Francisco San Roman"
+        ],
+        "editors": [
+          "Javiera Veliz Fajardo"
+        ],
+        "operators": [
+          "Javiera Veliz Fajardo"
+        ]
+      }
+    },
+    {
+      "id": "movie-64416",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Формула света",
+      "title_orig": "Formula sveta",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1982,
+      "kinopoisk_id": "44426",
+      "imdb_id": "tt0251701",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-15T09:08:09Z",
+      "updated_at": "2020-12-15T09:08:09Z",
+      "material_data": {
+        "title": "Формула света",
+        "year": 1982,
+        "description": "Маховиков назначен очередным начальником строительства ГЭС. Прибыв на два дня раньше на стройку, практически замороженную прежними руководителями, он узнает истинное положение дел и решительно берется за дело.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/44426.jpg",
+        "duration": 86,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "actors": [
+          "Петр Глебов",
+          "Тамара Сёмина",
+          "Сергей Сазонтьев",
+          "Анатолий Веденкин",
+          "Олег Голубицкий",
+          "Виктор Шульгин",
+          "Виктор Филиппов",
+          "Михаил Зимин",
+          "Николай Симкин",
+          "Роман Хомятов"
+        ],
+        "directors": [
+          "Александр Светлов"
+        ],
+        "writers": [
+          "Александр Лапшин"
+        ],
+        "composers": [
+          "Андрей Эшпай"
+        ],
+        "operators": [
+          "Виктор Шейнин"
+        ]
+      }
+    },
+    {
+      "id": "movie-64417",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Хлеб пахнет порохом",
+      "title_orig": "Khleb pakhnet porokhom",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1974,
+      "kinopoisk_id": "44771",
+      "imdb_id": "tt0316107",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-15T09:07:03Z",
+      "updated_at": "2020-12-15T09:07:03Z",
+      "material_data": {
+        "title": "Хлеб пахнет порохом",
+        "year": 1973,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/44771.jpg",
+        "duration": 98,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "история"
+        ],
+        "premiere_world": "1974-06-17",
+        "actors": [
+          "Владимир Самойлов",
+          "Сергей Сазонтьев",
+          "Михаил Кокшенов",
+          "Георгий Георгиу",
+          "Валентина Карева",
+          "Иван Мацкевич",
+          "Фома Воронецкий",
+          "Борис Борисёнок"
+        ],
+        "directors": [
+          "Вячеслав Никифоров"
+        ],
+        "writers": [
+          "Иван Шамякин"
+        ],
+        "composers": [
+          "Олег Янченко"
+        ],
+        "designers": [
+          "Евгений Ганкин"
+        ],
+        "operators": [
+          "Эдуард Садриев"
+        ]
+      }
+    },
+    {
+      "id": "movie-64418",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Новая Москва",
+      "title_orig": "Novaya Moskva",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1938,
+      "kinopoisk_id": "46467",
+      "imdb_id": "tt0174990",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-15T09:06:18Z",
+      "updated_at": "2020-12-15T09:06:18Z",
+      "material_data": {
+        "title": "Новая Москва",
+        "year": 1938,
+        "description": "О приключениях юного изобретателя-провинциала, приезжающего в Москву с макетом тотальной реконструкции столицы. В финале механизм макета заедает и начинается грандиозный аттракцион - движение идет обратным ходом, и на месте новых дворцов возникают снесенные храмы во главе с Христом-Спасителем. Показ фильма был запрещен.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/46467.jpg",
+        "duration": 95,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 452,
+        "imdb_rating": 6.2,
+        "imdb_votes": 106,
+        "minimal_age": 12,
+        "actors": [
+          "Даниил Сагал",
+          "Нина Алисова",
+          "Мария Барабанова",
+          "Мария Блюменталь-Тамарина",
+          "Павел Суханов",
+          "Владимир Яворский",
+          "Александр Граве",
+          "Лидия Смирнова",
+          "Елена Ануфриева",
+          "Николай Пажитнов"
+        ],
+        "directors": [
+          "Александр Медведкин"
+        ],
+        "writers": [
+          "Александр Медведкин"
+        ],
+        "composers": [
+          "Владимир Юровский"
+        ],
+        "editors": [
+          "Татьяна Лихачева"
+        ],
+        "designers": [
+          "Г. Павлович",
+          "Абрам Гончарский",
+          "Андрей Никулин"
+        ],
+        "operators": [
+          "Игорь Гелейн"
+        ]
+      }
+    },
+    {
+      "id": "movie-64419",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Поют жаворонки",
+      "title_orig": "Poyut zhavoronki",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1953,
+      "kinopoisk_id": "542273",
+      "imdb_id": "tt5229498",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-15T09:05:17Z",
+      "updated_at": "2020-12-15T09:05:17Z",
+      "material_data": {
+        "title": "Поют жаворонки",
+        "title_en": "",
+        "year": 1953,
+        "description": "Микола Верас, знатный бригадир колхоза «Новая нива», и Настя, агротехник колхоза «Светлый путь», собираются пожениться. Они пытаются понять, какой из двух колхозов лучший, чтобы там им жить и работать вместе. В «Новой ниве» выше заработки, и хлеба на трудодень дают больше, но отстает социальная сфера - нет электричества, радио, клуба. Но председатель колхоза Пытлеванный считает всё это несущественными мелочами. Ошибки председателя вскрывает обком партии, ему указывают на недопустимость такого состояния. Осенью, вырастив богатый урожай и получив свет в свои дома, колхозники весело празднуют свадьбу Миколы и Насти.",
+        "duration": 81,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "premiere_world": "1953-06-15",
+        "minimal_age": 0,
+        "actors": [
+          "Лилия Дроздова",
+          "Иван Шатило",
+          "Вера Полло",
+          "Владимир Дедюшко",
+          "Глеб Глебов",
+          "Павел Молчанов",
+          "Борис Платонов",
+          "Лидия Ржецкая",
+          "Леонид Баранчик",
+          "Константин Сенкевич"
+        ],
+        "directors": [
+          "Владимир Корш-Саблин",
+          "Константин Санников"
+        ],
+        "writers": [
+          "Кондрат Крапива"
+        ],
+        "composers": [
+          "Григорий Пукст"
+        ],
+        "designers": [
+          "Евгений Ганкин",
+          "Григорий Пукст"
+        ],
+        "operators": [
+          "Александр Гинцбург"
+        ]
+      }
+    },
+    {
       "id": "movie-64420",
       "type": "russian-movie",
       "link": "",
@@ -552,7 +1311,6 @@
       "updated_at": "2020-12-15T08:50:59Z",
       "material_data": {
         "title": "Любой ценой",
-        "title_en": "",
         "year": 1959,
         "poster_url": "https://st.kp.yandex.net/images/film_big/45163.jpg",
         "countries": [
@@ -564,6 +1322,7 @@
           "приключения"
         ],
         "premiere_world": "1960-09-12",
+        "minimal_age": 0,
         "actors": [
           "Ада Войцик",
           "Григорий Плужник",
@@ -745,9 +1504,9 @@
           "мелодрама"
         ],
         "kinopoisk_rating": 7.1,
-        "kinopoisk_votes": 7075,
-        "imdb_rating": 6.4,
-        "imdb_votes": 140,
+        "kinopoisk_votes": 7149,
+        "imdb_rating": 6.5,
+        "imdb_votes": 142,
         "premiere_world": "1966-05-23",
         "minimal_age": 0,
         "actors": [
@@ -2516,7 +3275,7 @@
           "драма"
         ],
         "kinopoisk_rating": 7.5,
-        "kinopoisk_votes": 1516,
+        "kinopoisk_votes": 1527,
         "imdb_rating": 7.1,
         "imdb_votes": 116,
         "premiere_world": "1981-10-27",
@@ -5368,7 +6127,7 @@
         "imdb_rating": 6.8,
         "imdb_votes": 1839,
         "shikimori_rating": 6.87,
-        "shikimori_votes": 24447,
+        "shikimori_votes": 23347,
         "premiere_world": "2010-04-03",
         "aired_at": "2010-04-03",
         "released_at": "2010-06-19",
@@ -5827,7 +6586,7 @@
         "imdb_rating": 7.5,
         "imdb_votes": 1731,
         "shikimori_rating": 7.97,
-        "shikimori_votes": 19944,
+        "shikimori_votes": 18962,
         "premiere_world": "2012-12-31",
         "aired_at": "2012-12-31",
         "rating_mpaa": "R",
@@ -7724,1165 +8483,6 @@
         ],
         "writers": [
           "Такамицу Коно"
-        ]
-      }
-    },
-    {
-      "id": "serial-30426",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Любовь, выборы и шоколад",
-      "title_orig": "Koi to Senkyo to Chocolate",
-      "other_title": "Koi to senkyo to chokoreto",
-      "translation": {
-        "id": 1060,
-        "title": "MiraiDUB",
-        "type": "voice"
-      },
-      "year": 2012,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 13,
-      "kinopoisk_id": "710680",
-      "imdb_id": "tt2266660",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=962",
-      "shikimori_id": "12175",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-12-14T08:00:28Z",
-      "updated_at": "2020-12-14T08:00:28Z",
-      "seasons": {
-        "0": {
-          "title": "Спешл",
-          "link": "",
-          "episodes": {
-            "1": ""
-          }
-        },
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Любовь, выборы и шоколад",
-        "title_en": "Koi to senkyo to chokoreto",
-        "other_titles": [
-          "Koichoco"
-        ],
-        "other_titles_en": [
-          "Love, Election and Chocolate"
-        ],
-        "other_titles_jp": [
-          "恋と選挙とチョコレート"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2012,
-        "description": "В престижной частной школе Такафудзи близятся выборы президента Школьного совета, и шансов больше всего у Сацуки Синономэ. Девушка является сторонницей экономии и сразу после избрания собирается сократить «ненужные» клубы, нацеленные лишь на развлечение. На первом месте в списке – клуб изучения сладостей, в котором состоят главные героини. Они собираются вместе, пробуют различные конфеты и кондитерские изделия, ставят им оценки и мило общаются. Да, не очень продуктивно, но чем это хуже икэбаны или чайной церемонии? Потому на экстренном собрании было принято решение выдвинуть на выборы собственного кандидата.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/710680.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/aa8f01ce8a44630aa53536d40d0ac1a4cbfe4eab.jpg",
-          "https://shikimori.one/system/screenshots/original/a2759bd65b95ba922ee20babeace1395be18cbcd.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Романтика",
-          "Школа"
-        ],
-        "anime_studios": [
-          "AIC Build"
-        ],
-        "kinopoisk_rating": 6.6,
-        "kinopoisk_votes": 509,
-        "imdb_rating": 6.6,
-        "imdb_votes": 114,
-        "shikimori_rating": 7.1,
-        "shikimori_votes": 6731,
-        "premiere_world": "2012-07-06",
-        "aired_at": "2012-07-06",
-        "released_at": "2012-09-28",
-        "rating_mpaa": "PG-13",
-        "minimal_age": 0,
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Асами Имаи",
-          "Эрико Накамура",
-          "Юити Накамура"
-        ],
-        "directors": [
-          "Тору Китахата"
-        ],
-        "writers": [
-          "Кацухико Такаяма"
-        ]
-      }
-    },
-    {
-      "id": "serial-30425",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Связь сердец",
-      "title_orig": "Kokoro Connect",
-      "other_title": "Единение сердец / Соединенные сердца",
-      "translation": {
-        "id": 1060,
-        "title": "MiraiDUB",
-        "type": "voice"
-      },
-      "year": 2012,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 17,
-      "kinopoisk_id": "694435",
-      "imdb_id": "tt2250034",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1920",
-      "shikimori_id": "11887",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-12-14T07:29:24Z",
-      "updated_at": "2020-12-14T07:29:24Z",
-      "seasons": {
-        "0": {
-          "title": "Спешлы",
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": ""
-          }
-        },
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Связь сердец",
-        "title_en": "Kokoro Connect",
-        "other_titles": [
-          "Kokoroco"
-        ],
-        "other_titles_en": [
-          "Kokoro Connect"
-        ],
-        "other_titles_jp": [
-          "ココロコネクト"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2012,
-        "description": "Они - не друзья детства и не знают друг друга десяток лет. Нет, трое девчонок и двое парней встретились уже в старшей школе Ямабоси, где познакомились и подружились. Никто из них не сумел найти клуб по душе, так и родилось «Общество молодежной культуры». Президентом стала веселая и общительная Иори, её замом – строгая и рассудительная Химэко, а замкнула женский коллектив симпатичная модница Юй. С парнями тоже всё ясно: Тайти – всеобщий помощник, а Ёсифуми – местный мачо, что не стесняется признаваться Юй в любви по два раза на дню. А вот беднягу Тайти умом тянет к Химэко, сердцем – к Иори, сам же он решить ничего не может. Помощь неожиданно пришла от некоего существа – бога, демона или пришельца, что до поры скрылся под маской учителя Гото. Члены клуба вдруг стали ненадолго меняться телами, причем обмен происходил непредсказуемо, попарно или втроем.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/694435.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/8e7e53b99ec5c6926a7415e94c4185faa75c5cb2.jpg",
-          "https://shikimori.one/system/screenshots/original/a75f4261afe1cfc887a9a218915d3996a1c1d7b8.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Комедия",
-          "Повседневность",
-          "Романтика",
-          "Сверхъестественное",
-          "Школа"
-        ],
-        "anime_studios": [
-          "SILVER LINK."
-        ],
-        "kinopoisk_rating": 7.3,
-        "kinopoisk_votes": 1159,
-        "imdb_rating": 7.5,
-        "imdb_votes": 1757,
-        "shikimori_rating": 7.82,
-        "shikimori_votes": 18244,
-        "premiere_world": "2012-07-07",
-        "aired_at": "2012-07-08",
-        "released_at": "2012-09-30",
-        "rating_mpaa": "PG-13",
-        "minimal_age": 0,
-        "episodes_total": 13,
-        "episodes_aired": 13,
-        "actors": [
-          "Такахиро Мидзусима",
-          "Аки Тоёсаки",
-          "Миюки Савасиро",
-          "Хисако Канэмото",
-          "Такума Тэрасима",
-          "Крис Эйрс",
-          "Грег Эирс",
-          "Клинт Бикхэм",
-          "Люси Кристиан",
-          "Шеннон Эмерик"
-        ],
-        "directors": [
-          "Масая Кавамо",
-          "Син Онума",
-          "Дзюн Фукуда",
-          "Томока Нагаока",
-          "Дзин Тамамура",
-          "Ютака Хирата",
-          "Масато Дзимбо",
-          "Ёрифуса Ямагути",
-          "Томоюки Курокава"
-        ],
-        "producers": [
-          "Эиити Такахаси",
-          "Дэвид Дель Рио",
-          "Хаято Канэко",
-          "Джон Лэдфорд",
-          "Даисукэ Масаки",
-          "Дзиро Накагава",
-          "Масако Такаяма",
-          "Такахиро Яманака"
-        ],
-        "writers": [
-          "Анда Саданацу",
-          "Фумихико Симо"
-        ],
-        "composers": [
-          "Ясухиро Мисава"
-        ],
-        "editors": [
-          "Масато Ёситакэ"
-        ],
-        "designers": [
-          "Такахиро Мацуура"
-        ],
-        "operators": [
-          "Кадзухиро Ямада"
-        ]
-      }
-    },
-    {
-      "id": "serial-30424",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Кланнад [ТВ-2]",
-      "title_orig": "Clannad After Story",
-      "other_title": "Кланнад: Продолжение истории",
-      "translation": {
-        "id": 1060,
-        "title": "MiraiDUB",
-        "type": "voice"
-      },
-      "year": 2008,
-      "last_season": 2,
-      "last_episode": 25,
-      "episodes_count": 25,
-      "kinopoisk_id": "455443",
-      "imdb_id": "tt1298820",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6888",
-      "shikimori_id": "4181",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-12-14T07:07:52Z",
-      "updated_at": "2020-12-14T07:17:06Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Кланнад: Продолжение истории",
-        "title_en": "Clannad: After Story",
-        "other_titles_en": [
-          "Clannad ~After Story~"
-        ],
-        "other_titles_jp": [
-          "CLANNAD〜AFTER STORY〜 クラナド アフターストーリー"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2008,
-        "description": "Миновали летние каникулы, подходит к концу последний школьный год большинства основных героев. Томоя Окадзаки сделал выбор и теперь живет у своей девушки, Нагисы Фурукавы, семью которой до сих пор считает чудом – ведь это то, чего он был так долго лишен в детстве и юности. Поняв себя, Томоя открылся миру, и теперь вокруг него не только любимая и ее близкие, но и все, кому он помог, принес добро и подарил частичку счастья.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/455443.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/b6b252f3e5b5aaa9ddfbe52a1e22005c4189b9be.png",
-          "https://shikimori.one/system/screenshots/original/bc96fe41502b66930eb56fbcccf1c583d3093be0.png"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Комедия",
-          "Повседневность",
-          "Романтика",
-          "Сверхъестественное"
-        ],
-        "anime_studios": [
-          "Kyoto Animation"
-        ],
-        "kinopoisk_rating": 8.4,
-        "kinopoisk_votes": 3939,
-        "imdb_rating": 8.6,
-        "imdb_votes": 9178,
-        "shikimori_rating": 8.96,
-        "shikimori_votes": 17472,
-        "premiere_world": "2008-10-02",
-        "aired_at": "2008-10-03",
-        "released_at": "2009-03-27",
-        "rating_mpaa": "PG-13",
-        "minimal_age": 0,
-        "episodes_total": 24,
-        "episodes_aired": 0,
-        "actors": [
-          "Юити Накамура",
-          "Дэвид Матранга",
-          "Люси Кристиан",
-          "Маи Накахара",
-          "Кикуко Иноуэ",
-          "Кара Гринберг",
-          "Эндрю Лав",
-          "Рётаро Окиаю",
-          "Шеннон Эмерик",
-          "Рё Хирохаси"
-        ],
-        "directors": [
-          "Тацуя Исихара",
-          "Норико Такао"
-        ],
-        "producers": [
-          "Джон Лэдфорд",
-          "Дэвид Дель Рио",
-          "Наохиро Футоно",
-          "Ёко Хатта",
-          "Синъити Накамура",
-          "Ёсихиса Накаяма",
-          "Эиити Такахаси",
-          "Кэн Сакамото"
-        ],
-        "writers": [
-          "Клинт Бикхэм",
-          "Дзюн Маэда",
-          "Кэн Сакамото",
-          "Фумихико Симо"
-        ],
-        "composers": [
-          "Дзюн Маэда",
-          "Синдзи Орито",
-          "Магомэ Тогоси"
-        ],
-        "editors": [
-          "Кэнго Сигэмура"
-        ],
-        "designers": [
-          "Муцуо Синохара"
-        ],
-        "operators": [
-          "Рин Ямамото"
-        ]
-      }
-    },
-    {
-      "id": "serial-30423",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Кланнад [ТВ-1]",
-      "title_orig": "Clannad",
-      "translation": {
-        "id": 1060,
-        "title": "MiraiDUB",
-        "type": "voice"
-      },
-      "year": 2007,
-      "last_season": 1,
-      "last_episode": 24,
-      "episodes_count": 24,
-      "kinopoisk_id": "431254",
-      "imdb_id": "tt1118804",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6410",
-      "shikimori_id": "2167",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-12-14T06:51:53Z",
-      "updated_at": "2020-12-14T06:51:53Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Кланнад",
-        "title_en": "Clannad",
-        "other_titles_en": [
-          "Clannad"
-        ],
-        "other_titles_jp": [
-          "CLANNAD"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2007,
-        "description": "Томоя Окадзаки, ученик выпускного класса, разочаровался в жизни. После трагической гибели матери, отец его спился, а сам он обрел славу хулигана. Вместо подготовки к выпускным экзаменам, Томоя слоняется по школе, пропуская уроки и делает, что придет в голову. Но все меняется, когда весной он встречает вернувшуюся в школу Нагису Фурукаву - милую и странную девушку, которая обожает булочки, разговоры с самой собой, а еще мечтает возродить театральный кружок.\n\rПомогая Нагисе, Томоя понимает, что жизнь не кончилась, а сердце его начинает оттаивать. Кроме Нагисы и старого приятеля, Сунохары, в жизнь Томои входят сестры Кё и Рё, сильная и целеустремленная Томоё, школьный гений Котоми, абсолютно беспомощная в реальной жизни, и уж совсем странная Фуко - любительница морских звезд и школьных свадеб.\n\rПостепенно Томоя замечает, что вокруг него вращаются жизни и судьбы многих людей... и осознает, что это не случайно. Ответ лежит в странном мире по ту сторону снов, в котором ждет юная девушка, чем-то похожая на него самого.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/431254.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/2890b72cd335ff8e50f3a24d5297bfdad8ebf6e3.jpg",
-          "https://shikimori.one/system/screenshots/original/7c16b134228c70382b81f3235aed522da11dd54f.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Комедия",
-          "Повседневность",
-          "Романтика",
-          "Сверхъестественное",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Kyoto Animation"
-        ],
-        "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 3548,
-        "imdb_rating": 7.9,
-        "imdb_votes": 7998,
-        "shikimori_rating": 8.06,
-        "shikimori_votes": 20941,
-        "premiere_world": "2007-10-04",
-        "aired_at": "2007-10-05",
-        "released_at": "2008-03-28",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 23,
-        "episodes_aired": 0,
-        "actors": [
-          "Юити Накамура",
-          "Дэвид Матранга",
-          "Маи Накахара",
-          "Люси Кристиан",
-          "Рё Хирохаси",
-          "Шелли Карлин-Блэк",
-          "Акэми Канда",
-          "Дайсукэ Сакагути",
-          "Бриттни Карбовски",
-          "Грег Эирс"
-        ],
-        "directors": [
-          "Тацуя Исихара",
-          "Нориюки Китанохара",
-          "Таити Исидатэ",
-          "Норико Такао",
-          "Ясухиро Такэмото",
-          "Томоэ Аратани",
-          "Ёсидзи Кигами",
-          "Мицуёси Ёнэда",
-          "Наоко Ямада"
-        ],
-        "producers": [
-          "Мая Фудзино",
-          "Наохиро Футоно",
-          "Ёко Хатта",
-          "Джон Лэдфорд",
-          "Юити Мацунага",
-          "Синъити Накамура",
-          "Ёсихиса Накаяма",
-          "Нагахару Охаси",
-          "Дэвид Дель Рио",
-          "Эиити Такахаси"
-        ],
-        "writers": [
-          "Клинт Бикхэм",
-          "Стив Фостер",
-          "Дзюн Маэда",
-          "Фумихико Симо",
-          "Дженис Уильямс"
-        ],
-        "composers": [
-          "Дзюн Маэда",
-          "Синдзи Орито",
-          "Магомэ Тогоси"
-        ],
-        "editors": [
-          "Кэнго Сигэмура",
-          "Томоко Сато"
-        ],
-        "designers": [
-          "Муцуо Синохара"
-        ],
-        "operators": [
-          "Рюта Накагами"
-        ]
-      }
-    },
-    {
-      "id": "movie-64362",
-      "type": "anime",
-      "link": "",
-      "title": "Люпен III: Первый",
-      "title_orig": "Lupin III: The First",
-      "other_title": "Lupin Sansei: The First",
-      "translation": {
-        "id": 706,
-        "title": "iTunes",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1282029",
-      "imdb_id": "tt10621032",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10159",
-      "shikimori_id": "40082",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-12-14T06:10:36Z",
-      "updated_at": "2020-12-14T06:10:36Z",
-      "material_data": {
-        "title": "Люпен III: Первый",
-        "title_en": "Lupin III: The First",
-        "other_titles": [
-          "Lupin Sansei: The First"
-        ],
-        "other_titles_en": [
-          "Lupin the 3rd: The First"
-        ],
-        "other_titles_jp": [
-          "ルパン三世 THE FIRST"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2019,
-        "tagline": "'Well, let's get started.' (Japanese)",
-        "description": "Известный вор Люпен III объединяется с женщиной по имени Летиция, чтобы украсть дневник Брессона - сокровище, заполучить которое оказалось не по зубам даже его знаменитому деду.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1282029.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/18c6e8c98fcf26976efd765bdecfb7c92cd2f3bf.jpg",
-          "https://shikimori.one/system/screenshots/original/4903b29e3f41d0b3da7bc202191c1f4d2eff3b67.jpg"
-        ],
-        "duration": 93,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Комедия",
-          "Приключения",
-          "Сейнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "TMS Entertainment",
-          "Marza Animation Planet"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 686,
-        "imdb_rating": 6.9,
-        "imdb_votes": 1857,
-        "shikimori_rating": 7.79,
-        "shikimori_votes": 642,
-        "premiere_world": "2019-12-06",
-        "aired_at": "2019-12-06",
-        "rating_mpaa": "PG-13",
-        "minimal_age": 12,
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Канъити Курита",
-          "Дэвид Бриммер",
-          "Ричард Эпкар",
-          "Даг Эрхольц",
-          "Тацуя Фудзивара",
-          "Paul Guyet",
-          "Судзу Хиросэ",
-          "Лори Хаймс",
-          "Киёси Кобаяси",
-          "Алексис Лэнг"
-        ],
-        "directors": [
-          "Такаси Ямадзаки"
-        ],
-        "producers": [
-          "Такэси Ито",
-          "Наоаки Китадзима",
-          "Кодзи Нодзаки",
-          "Сюдзи Абэ",
-          "Хибики Ито",
-          "Рёта Като",
-          "Сюхэй Като",
-          "Хироясу Синохара",
-          "Маюми Татикава"
-        ],
-        "writers": [
-          "Манки Панч",
-          "Такаси Ямадзаки"
-        ],
-        "composers": [
-          "Юдзи Оно"
-        ],
-        "editors": [
-          "Томокадзу Такахаси"
-        ],
-        "designers": [
-          "Тосия Умэда"
-        ],
-        "operators": [
-          "Ёсукэ Сакаи"
-        ]
-      }
-    },
-    {
-      "id": "movie-64361",
-      "type": "anime",
-      "link": "",
-      "title": "Проза бродячих псов. Фильм",
-      "title_orig": "Bungo sutorei doggusu: deddo appuru",
-      "other_title": "Великий из бродячих псов: Сгнившее яблоко / Bungou Stray Dogs: Dead Apple",
-      "translation": {
-        "id": 963,
-        "title": "Amazing Dubbing",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1096004",
-      "imdb_id": "tt8391976",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9144",
-      "shikimori_id": "34944",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-12-13T20:01:09Z",
-      "updated_at": "2020-12-13T20:01:09Z",
-      "material_data": {
-        "title": "Проза бродячих псов. Фильм",
-        "title_en": "Bungo sutorei doggusu: deddo appuru",
-        "other_titles": [
-          "Проза бродячих псов. Фильм",
-          "Бродячие псы: Литературные гении. Фильм",
-          "Бродячие псы литературы. Фильм"
-        ],
-        "other_titles_jp": [
-          "文豪ストレイドッグス DEAD APPLE"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2018,
-        "description": "Сотни людей с экстраординарными способностями заканчивают жизнь самоубийством, а на месте их гибели остается загадочный туман. За расследование этого дела берется «Боевое Детективное Агентство», сотрудники которого тоже обладают сверхъестественной силой.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1096004.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/5615490babe411b038ae066b70bba0f563da464a.jpg",
-          "https://shikimori.one/system/screenshots/original/539aa3b2ec6cd63449889cadbd6fa3ceac51744a.jpg"
-        ],
-        "duration": 92,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Комедия",
-          "Сверхъестественное",
-          "Супер сила",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Bones"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 9229,
-        "imdb_rating": 7.3,
-        "imdb_votes": 782,
-        "shikimori_rating": 7.85,
-        "shikimori_votes": 10894,
-        "premiere_ru": "2018-11-01",
-        "premiere_world": "2018-03-03",
-        "aired_at": "2018-03-03",
-        "rating_mpaa": "R",
-        "minimal_age": 18,
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Юто Уэмура",
-          "Кадзуя Накаи",
-          "Акира Исида",
-          "Мамору Мияно",
-          "Сумирэ Морохоси",
-          "Ёсимаса Хосоя",
-          "Кисё Танияма",
-          "Дзюн Фукуяма",
-          "Кэнсё Оно",
-          "Хироси Камия"
-        ],
-        "directors": [
-          "Такуя Игараси"
-        ],
-        "writers": [
-          "Кафка Асагири",
-          "Ёдзи Энокидо"
-        ],
-        "composers": [
-          "Таку Ивасаки"
-        ],
-        "editors": [
-          "Сигэру Нисияма"
-        ],
-        "designers": [
-          "Юмико Кондо"
-        ],
-        "operators": [
-          "Цуёси Канбаяси"
-        ]
-      }
-    },
-    {
-      "id": "movie-64360",
-      "type": "anime",
-      "link": "",
-      "title": "Задушевный голос",
-      "title_orig": "Kimi no Koe wo Todoketai",
-      "other_title": "Хочу услышать твой голос",
-      "translation": {
-        "id": 963,
-        "title": "Amazing Dubbing",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1047859",
-      "imdb_id": "tt7283052",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9202",
-      "shikimori_id": "33218",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-12-13T20:00:29Z",
-      "updated_at": "2020-12-13T20:00:29Z",
-      "material_data": {
-        "title": "Задушевный голос",
-        "title_en": "Kimi no Koe wo Todoketai",
-        "other_titles": [
-          "Я хочу передать тебе свой голос",
-          "I Want to Deliver Your Voice"
-        ],
-        "other_titles_en": [
-          "Your Voice -KIMIKOE-"
-        ],
-        "other_titles_jp": [
-          "きみの声をとどけたい"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2017,
-        "description": "Бабушка из приморского городка рассказывает внучке-старшекласснице про синтоистскую магию котодама — умение вдохнуть в простое слово жизнь, а потом воплотить ожившее слово в реальности. Однажды девочка находит заброшенную радиостанцию, запускает ее и начинает регулярно выходить в эфир. Детская забава приводит к неожиданным последствиям.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1047859.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/544d2b766d578d3484de58c68177f38ffc999c4c.jpg",
-          "https://shikimori.one/system/screenshots/original/31499aad1ce740ba97db053211737552d4773fcd.jpg"
-        ],
-        "duration": 100,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма"
-        ],
-        "anime_studios": [
-          "Madhouse"
-        ],
-        "kinopoisk_rating": 6.6,
-        "kinopoisk_votes": 223,
-        "imdb_rating": 6.1,
-        "imdb_votes": 128,
-        "shikimori_rating": 7.04,
-        "shikimori_votes": 706,
-        "premiere_world": "2017-08-25",
-        "aired_at": "2017-08-25",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Мисако Иино",
-          "Момонэ Ивабути",
-          "Юки Кадзи",
-          "Мицухо Камбэ",
-          "Мина Катахира",
-          "Судзуко Мимори",
-          "Масако Нодзава",
-          "Хитоми Судзуки",
-          "Тацухиса Судзуки",
-          "Юки Танака"
-        ],
-        "directors": [
-          "Наоюки Ито"
-        ],
-        "writers": [
-          "Исикава Манабу"
-        ],
-        "composers": [
-          "Акито Мацуда"
-        ]
-      }
-    },
-    {
-      "id": "movie-64359",
-      "type": "anime",
-      "link": "",
-      "title": "Как смотреть фейерверк",
-      "title_orig": "Uchiage hanabi, shita kara miru ka? Yoko kara miru ka?",
-      "other_title": "Откуда лучше всего видно фейерверк? Снизу или сбоку?",
-      "translation": {
-        "id": 963,
-        "title": "Amazing Dubbing",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1009544",
-      "imdb_id": "tt6317962",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9052",
-      "shikimori_id": "34498",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-12-13T19:59:43Z",
-      "updated_at": "2020-12-13T19:59:43Z",
-      "material_data": {
-        "title": "Как смотреть фейерверк",
-        "title_en": "Uchiage hanabi, shita kara miru ka? Yoko kara miru ka?",
-        "other_titles": [
-          "Фейерверк",
-          "Откуда лучше всего видно фейерверк: снизу или сбоку?",
-          "Откуда нужно смотреть на фейерверк: снизу или сбоку?",
-          "Fireworks",
-          "Should We See it from the Side or the Bottom?"
-        ],
-        "other_titles_en": [
-          "Fireworks, Should We See It from the Side or the Bottom?"
-        ],
-        "other_titles_jp": [
-          "打ち上げ花火、下から見るか？横から見るか？"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2017,
-        "tagline": "Kurikaesu natsuyasumi no ichinichi, nando de mo kimi ni koi o suru (One repeated day of summer vacation, again and again fall in love with you)",
-        "description": "Однажды летом ученики шестого класса поспорили, круглые фейерверки на самом деле или плоские. Но как это узнать, если не знаешь, как правильно на них смотреть? Между тем их одноклассница Надзуна Оикава, страдает от того, что мама снова вышла замуж, и девушка решает выбрать одного из мальчиков и сбежать.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1009544.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/e41b1239bf566b022069cbc51f3511de992dec17.jpg",
-          "https://shikimori.one/system/screenshots/original/004735f4e677895e0e3564d1046f1dfbcfe09519.jpg"
-        ],
-        "duration": 90,
-        "countries": [
-          "США",
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Романтика",
-          "Фантастика"
-        ],
-        "anime_studios": [
-          "Shaft"
-        ],
-        "kinopoisk_rating": 6,
-        "kinopoisk_votes": 574,
-        "imdb_rating": 5.6,
-        "imdb_votes": 2671,
-        "shikimori_rating": 6.1,
-        "shikimori_votes": 4384,
-        "premiere_world": "2017-08-18",
-        "aired_at": "2017-08-18",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Судзу Хиросэ",
-          "Масаки Суда",
-          "Мамору Мияно",
-          "Синтаро Асанума",
-          "Тосиюки Тоёнага",
-          "Юки Кадзи",
-          "Синъитиро Мики",
-          "Кана Ханадзава",
-          "Такахиро Сакурай",
-          "Митико Нэя"
-        ],
-        "directors": [
-          "Акиюки Синбо",
-          "Нобуюки Такэути"
-        ],
-        "producers": [
-          "Гэнки Кавамура"
-        ],
-        "writers": [
-          "Сюндзи Иваи",
-          "Хитоси Онэ",
-          "Christian La Monte"
-        ],
-        "composers": [
-          "Сатору Косаки"
-        ],
-        "editors": [
-          "Риэ Мацухара"
-        ],
-        "designers": [
-          "Yuaki Funato",
-          "Shuji Iijima",
-          "Аюми Миякоси",
-          "Noriyuki Takeuchi"
-        ],
-        "operators": [
-          "Такаюки Аидзу",
-          "Рэи Эгава"
-        ]
-      }
-    },
-    {
-      "id": "movie-64358",
-      "type": "anime",
-      "link": "",
-      "title": "Лиз и синяя птица",
-      "title_orig": "Rizu to aoi tori",
-      "other_title": "Liz and the Blue Bird",
-      "translation": {
-        "id": 963,
-        "title": "Amazing Dubbing",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1074011",
-      "imdb_id": "tt7089878",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9413",
-      "shikimori_id": "35677",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-12-13T19:59:15Z",
-      "updated_at": "2020-12-13T19:59:15Z",
-      "material_data": {
-        "title": "Лиз и синяя птица",
-        "title_en": "Rizu to aoi tori",
-        "other_titles": [
-          "Звучи, эуфониум! История Мизорэ и Нозоми",
-          "Лиз и голубая птица",
-          "Gekijouban Hibike! Euphonium: Mizore to Nozomi no Monogatari",
-          "Hibike! Euphonium: The Story of Mizore and Nozomi",
-          "Hibike! Euphonium Movie: Mizore to Nozomi no Monogatari",
-          "Liz and the Blue Bird"
-        ],
-        "other_titles_en": [
-          "Liz and the Blue Bird"
-        ],
-        "other_titles_jp": [
-          "リズと青い鳥"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2018,
-        "description": "Две лучшие подруги Мидзорэ и Нодзоми учатся в выпускном классе и состоят в клубе школьного духового оркестра. Тихая и застенчивая Мидзорэ играет на гобое, а жизнерадостная Нодзоми — на флейте. Однажды клуб начинает репетировать музыку, вдохновлённую сказкой «Лиз и голубая птица». Флейта и гобой изображают Лиз и Девушку, которые в конце обязательно расстаются. Погрузившись в эту удивительную историю, Мидзорэ и Нодзоми начинают осознавать, что сами не смогут быть вместе всегда.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1074011.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/9b6e46f56cc27d6abb9ccf7e90abd675209485c0.png",
-          "https://shikimori.one/system/screenshots/original/2396f54797e7e744196ec487b72f969ec8662f3c.png"
-        ],
-        "duration": 90,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Музыка",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Kyoto Animation"
-        ],
-        "kinopoisk_rating": 7.5,
-        "kinopoisk_votes": 396,
-        "imdb_rating": 7.2,
-        "imdb_votes": 1168,
-        "shikimori_rating": 8.21,
-        "shikimori_votes": 2545,
-        "premiere_world": "2018-04-21",
-        "aired_at": "2018-04-21",
-        "rating_mpaa": "PG-13",
-        "minimal_age": 0,
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Ацуми Танэдзаки",
-          "Нао Тояма",
-          "Мию Хонда",
-          "Кономи Фудзимура",
-          "Юри Ямаока",
-          "Сиори Сугиура",
-          "Томоё Куросава",
-          "Аяка Асаи",
-          "Моэ Тоёта",
-          "Тика Андзаи"
-        ],
-        "directors": [
-          "Наоко Ямада"
-        ],
-        "producers": [
-          "Синъити Накамура",
-          "Эхару Охаси",
-          "Сигэру Саито",
-          "Рири Сэнами",
-          "Ёсифуми Яримидзу",
-          "Ёко Фурукава",
-          "Хидэаки Хатта",
-          "Ёко Хатта",
-          "Сюндзи Иноэ",
-          "Ёта Цуруока"
-        ],
-        "writers": [
-          "Аяно Такэда",
-          "Рэйко Ёсида"
-        ],
-        "composers": [
-          "Акито Мацуда",
-          "Кэнсукэ Усио"
-        ],
-        "editors": [
-          "Кэнго Сигэмура"
-        ],
-        "designers": [
-          "Муцуо Синохара"
-        ],
-        "operators": [
-          "Кадзуя Такао"
         ]
       }
     }

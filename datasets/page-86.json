@@ -1,6 +1,614 @@
 {
   "results": [
     {
+      "id": "serial-28809",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Желание",
+      "title_orig": "Marzi",
+      "translation": {
+        "id": 948,
+        "title": "Crazy Cat studio",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 6,
+      "episodes_count": 6,
+      "kinopoisk_id": "1264435",
+      "imdb_id": "tt10305992",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-19T15:36:01Z",
+      "updated_at": "2020-08-19T15:36:01Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Marzi",
+        "year": 2020,
+        "duration": 43,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 7.2,
+        "imdb_votes": 1569,
+        "premiere_world": "2020-03-03",
+        "minimal_age": 0,
+        "actors": [
+          "Раджив Кханделвал",
+          "Ахана Кумра",
+          "Вивек Мушран",
+          "Шивани Танксале",
+          "Rajiv Siddhartha",
+          "Сухаас Ахуджа",
+          "Pavleen Gujral",
+          "Abhay Verma",
+          "Даршан Пандья"
+        ],
+        "directors": [
+          "Анил Сеньор"
+        ],
+        "producers": [
+          "Vineet Batra",
+          "Aakansha Bisht",
+          "Sukesh Motwani",
+          "Aparna Ramachandran",
+          "Persis Siganporia",
+          "Mautik Tolia"
+        ],
+        "writers": [
+          "Радхика Ананд"
+        ],
+        "editors": [
+          "Kathikuloth Praveen"
+        ],
+        "designers": [
+          "Vijay Dulguch",
+          "Dona Saha",
+          "Vinay Vishwakarma",
+          "Roshni Bose"
+        ],
+        "operators": [
+          "Сунил Пиллаи"
+        ]
+      }
+    },
+    {
+      "id": "serial-24514",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Арте",
+      "title_orig": "Arte",
+      "other_title": "アルテ",
+      "translation": {
+        "id": 761,
+        "title": "Onibaku",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1323563",
+      "imdb_id": "tt11754514",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10165",
+      "shikimori_id": "40128",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-06T20:39:10Z",
+      "updated_at": "2020-08-19T14:54:45Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Арте",
+        "title_en": "Arte",
+        "other_titles_en": [
+          "Arte"
+        ],
+        "other_titles_jp": [
+          "アルテ"
+        ],
+        "anime_license_name": "ARTE",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2020,
+        "description": "Флоренция начала XVI века, закат Ренессанса. Молодая аристократка Арте мечтает рисовать картины и посвятить свою жизнь искусству. Вот только мать девушки не особо заботят её желания — в отличие от замужества. Женщина хочет поскорее найти дочери достойную партию, чтобы вернуть былое влияние семьи, поэтому Арте бросает родной дом и просится в ученики в мастерскую, где начинается её путь в искусство.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1323563.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/1874571c20a37f0735087ff9a0f91198a817b943.png",
+          "https://shikimori.one/system/screenshots/original/28d6b0c0a7317f3c549e0ded110260e18b86a852.png"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "драма",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Исторический",
+          "Повседневность",
+          "Романтика",
+          "Сейнен"
+        ],
+        "anime_studios": [
+          "Seven Arcs"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 193,
+        "imdb_rating": 6.9,
+        "imdb_votes": 223,
+        "shikimori_rating": 7.17,
+        "shikimori_votes": 2836,
+        "premiere_world": "2020-04-04",
+        "aired_at": "2020-04-04",
+        "released_at": "2020-06-20",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 0,
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Микако Комацу",
+          "Дзюнъя Эноки",
+          "Мао Итимити",
+          "Кацуя Кониси",
+          "Косукэ Ториуми",
+          "Саяка Охара"
+        ],
+        "directors": [
+          "Такаюки Хамана"
+        ],
+        "writers": [
+          "Рэйко Ёсида"
+        ]
+      }
+    },
+    {
+      "id": "serial-27420",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Гайвер OVA",
+      "title_orig": "Kyoushoku Soukou Guyver",
+      "other_title": "The Guyver: Bio-Booster Armor",
+      "translation": {
+        "id": 963,
+        "title": "Amazing Dubbing",
+        "type": "voice"
+      },
+      "year": 1989,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "160997",
+      "imdb_id": "tt0143353",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=715",
+      "shikimori_id": "6016",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-07-04T09:57:03Z",
+      "updated_at": "2020-08-19T14:49:49Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Гайвер: Био-ударное оружие",
+        "title_en": "Kyôshoku sôkô Guyver",
+        "other_titles": [
+          "Bio-Booster Armor Guyver",
+          "The Guyver",
+          "Гайвер",
+          "Guyver: The Bio-boosted Armor"
+        ],
+        "other_titles_en": [
+          "The Guyver: Bio-Booster Armor"
+        ],
+        "other_titles_jp": [
+          "強殖装甲ガイバー"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "year": 1989,
+        "description": "К подростку Шо неожиданно попадает сильнейшее оружие - костюм Гайвер. Оставив находку у себя он подвергает собственную жизнь и жизни друзей под угрозу, бывшие владельцы супер-оружия желают вернуть потерянное...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/160997.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/979bb9d660d53f2f4fca5401447e849938f6bd7d.jpg",
+          "https://shikimori.one/system/screenshots/original/b2e8d9f2ff19592d0f3b04a53adb295f0d8e1103.jpg"
+        ],
+        "duration": 53,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Супер сила",
+          "Ужасы",
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "animate Film"
+        ],
+        "kinopoisk_rating": 7.9,
+        "kinopoisk_votes": 1281,
+        "imdb_rating": 7.7,
+        "imdb_votes": 791,
+        "shikimori_rating": 7.12,
+        "shikimori_votes": 663,
+        "premiere_world": "1989-09-25",
+        "aired_at": "1989-09-25",
+        "released_at": "1990-02-25",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 6,
+        "episodes_aired": 0,
+        "actors": [
+          "Такэси Кусао",
+          "Юко Мидзутани",
+          "Кодзо Сиоя",
+          "Хидэюки Танака",
+          "Стивен Блум",
+          "Мелисса Чарльз",
+          "Том Чарльз",
+          "Виктор Гарсия",
+          "Хиротака Судзуоки",
+          "Марвин Биркетт"
+        ],
+        "directors": [
+          "Койти Ишигуро"
+        ],
+        "writers": [
+          "Ёсики Такая"
+        ],
+        "composers": [
+          "Рэидзиро Короку"
+        ],
+        "designers": [
+          "Хидэтоси Омори"
+        ],
+        "operators": [
+          "Кодзи Аоки",
+          "Кацуаки Камата",
+          "Кодзи Савада"
+        ]
+      }
+    },
+    {
+      "id": "serial-28244",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "10 секретов",
+      "title_orig": "10 no Himitsu",
+      "other_title": "Секреты / Десять секретов / The Secrets / Ten Secrets",
+      "translation": {
+        "id": 646,
+        "title": "XDUB Dorama",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "1325014",
+      "imdb_id": "tt11322788",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-01T17:17:58Z",
+      "updated_at": "2020-08-19T14:05:59Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "10 секретов",
+        "title_en": "10 no Himitsu",
+        "year": 2020,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "детектив",
+          "драма"
+        ],
+        "imdb_rating": 6,
+        "imdb_votes": 8,
+        "premiere_world": "2020-01-14",
+        "minimal_age": 0,
+        "actors": [
+          "Осаму Мукаи",
+          "Юкиэ Накама",
+          "Рииса Нака",
+          "Юя Эндо",
+          "Мицухиро Фудзивара",
+          "Аканэ Хотта",
+          "Хана Кавамура",
+          "Хокуто Мацумура",
+          "Таики Накабаяси",
+          "Юко Натори"
+        ],
+        "directors": [
+          "Тадааки Хорай"
+        ],
+        "writers": [
+          "Норико Гото"
+        ]
+      }
+    },
+    {
+      "id": "serial-28807",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Похищение",
+      "title_orig": "Apharan",
+      "translation": {
+        "id": 948,
+        "title": "Crazy Cat studio",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1154814",
+      "imdb_id": "tt8392006",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-19T13:35:00Z",
+      "updated_at": "2020-08-19T13:35:59Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Похищение",
+        "title_en": "Apharan",
+        "year": 2018,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1154814.jpg",
+        "duration": 45,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "боевик",
+          "триллер"
+        ],
+        "imdb_rating": 8.3,
+        "imdb_votes": 8523,
+        "premiere_world": "2018-12-14",
+        "minimal_age": 0,
+        "actors": [
+          "Арунодай Синкх",
+          "Нидхи Сингх",
+          "Махи Гилл",
+          "Санджай Батра",
+          "Саананд Верма",
+          "Monica Chaudhary",
+          "Варун Бадола",
+          "Devender Chaudhry",
+          "Неха Каул",
+          "Раджа Капсе"
+        ],
+        "directors": [
+          "Сиддхартх Сенгупта"
+        ],
+        "writers": [
+          "Варун Бадола",
+          "Umesh Padalkar",
+          "Сиддхартх Сенгупта",
+          "Mohinder Pratap Singh"
+        ],
+        "composers": [
+          "Anuj Danait",
+          "Shivam Sengupta"
+        ],
+        "editors": [
+          "Imran",
+          "Jaskaran Singh"
+        ],
+        "operators": [
+          "Anil Katke",
+          "Vishal Sangwai"
+        ]
+      }
+    },
+    {
+      "id": "serial-28663",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Будни с соседом злодеем",
+      "title_orig": "Farewell My Villain",
+      "other_title": "Прощай, мой злодей! / He fan pai tong ju de ri zi",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "imdb_id": "tt12098248",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-14T14:18:14Z",
+      "updated_at": "2020-08-19T13:32:03Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      }
+    },
+    {
+      "id": "serial-28804",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Воспоминания",
+      "title_orig": "Memories",
+      "translation": {
+        "id": 948,
+        "title": "Crazy Cat studio",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "1172921",
+      "imdb_id": "tt10963584",
+      "quality": "HDTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-19T13:12:41Z",
+      "updated_at": "2020-08-19T13:12:41Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Memories",
+        "title_en": "",
+        "year": 2018,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "криминал",
+          "мелодрама",
+          "триллер"
+        ],
+        "imdb_rating": 7.8,
+        "imdb_votes": 210,
+        "premiere_world": "2018-07-01",
+        "actors": [
+          "Surleen Kaur",
+          "Harsh Singh"
+        ]
+      }
+    },
+    {
       "id": "serial-28802",
       "type": "foreign-serial",
       "link": "",
@@ -4763,14 +5371,14 @@
         "kinopoisk_votes": 20304,
         "imdb_rating": 7.5,
         "imdb_votes": 37777,
-        "shikimori_rating": 7.22,
-        "shikimori_votes": 285,
+        "shikimori_rating": 7.21,
+        "shikimori_votes": 179,
         "premiere_world": "1998-09-08",
         "aired_at": "2019-11-17",
         "rating_mpaa": "PG",
         "minimal_age": 12,
         "episodes_total": 0,
-        "episodes_aired": 61,
+        "episodes_aired": 64,
         "writers": [
           "Дзюнъити Масуда",
           "Кэн Сугимори",
@@ -5592,7 +6200,7 @@
         "imdb_rating": 6.3,
         "imdb_votes": 36,
         "shikimori_rating": 6.36,
-        "shikimori_votes": 727,
+        "shikimori_votes": 575,
         "premiere_world": "2020-04-04",
         "aired_at": "2020-04-04",
         "released_at": "2020-08-08",
@@ -6324,6 +6932,7 @@
         "aired_at": "2005-10-04",
         "released_at": "2006-03-28",
         "rating_mpaa": "PG-13",
+        "minimal_age": 0,
         "episodes_total": 24,
         "episodes_aired": 0,
         "actors": [
@@ -8204,6 +8813,8 @@
           "короткометражка",
           "мультфильм"
         ],
+        "kinopoisk_rating": 6.2,
+        "kinopoisk_votes": 90,
         "minimal_age": 0,
         "directors": [
           "Акмаль Акбарходжаев"
@@ -8718,7 +9329,7 @@
       "updated_at": "2020-08-17T07:17:24Z",
       "material_data": {
         "title": "Kaitei Daisensou: Ai no 20.000 Miles",
-        "title_en": "",
+        "title_en": "Kaitei Daisensou: Ai no 20,000 Miles",
         "other_titles": [
           "На охоте: В 20,000 милях от любви",
           "Бой под водой",
@@ -8750,12 +9361,13 @@
           "Tatsunoko Production"
         ],
         "imdb_rating": 4.7,
-        "imdb_votes": 9,
+        "imdb_votes": 10,
         "shikimori_rating": 5.38,
         "shikimori_votes": 19,
         "premiere_world": "1981-01-03",
         "aired_at": "1981-01-03",
         "rating_mpaa": "G",
+        "minimal_age": 0,
         "episodes_total": 1,
         "episodes_aired": 0,
         "actors": [
@@ -8902,7 +9514,7 @@
           "Fairy Dust"
         ],
         "shikimori_rating": 5.8,
-        "shikimori_votes": 28,
+        "shikimori_votes": 9,
         "aired_at": "2006-03-23",
         "released_at": "2006-05-31",
         "rating_mpaa": "R+",
@@ -9272,381 +9884,6 @@
         ],
         "designers": [
           "Гражина Брашишките"
-        ]
-      }
-    },
-    {
-      "id": "movie-58987",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Потерялась внучка",
-      "title_orig": "Poteryalas vnuchka",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1966,
-      "kinopoisk_id": "259967",
-      "imdb_id": "tt3389434",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-17T06:14:16Z",
-      "updated_at": "2020-08-17T06:14:16Z",
-      "material_data": {
-        "title": "Потерялась внучка",
-        "year": 1966,
-        "description": "Как милиция помогла дедушке найти пропавшую внучку.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/259967.jpg",
-        "duration": 20,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 6.6,
-        "kinopoisk_votes": 167,
-        "imdb_rating": 5.8,
-        "imdb_votes": 22,
-        "premiere_world": "2013-12-21",
-        "minimal_age": 0,
-        "directors": [
-          "Роман Качанов"
-        ],
-        "writers": [
-          "Анатолий Митяев"
-        ],
-        "composers": [
-          "Никита Богословский"
-        ],
-        "designers": [
-          "Леонид Шварцман"
-        ],
-        "operators": [
-          "Теодор Бунимович"
-        ]
-      }
-    },
-    {
-      "id": "movie-58988",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Весенние гости",
-      "title_orig": "Gazapkhulis stumrebi",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1949,
-      "kinopoisk_id": "273602",
-      "imdb_id": "tt0781030",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-17T06:13:17Z",
-      "updated_at": "2020-08-17T06:13:17Z",
-      "material_data": {
-        "title": "Весенние гости",
-        "year": 1949,
-        "description": "О преобразовании природы и ее сохранении.",
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "minimal_age": 0,
-        "directors": [
-          "Владимир Муджири"
-        ],
-        "writers": [
-          "Ладо Карсанидзе"
-        ],
-        "composers": [
-          "Андрей Баланчивадзе"
-        ],
-        "designers": [
-          "А. Канделаки",
-          "Хахябян",
-          "Н. Раманашвили"
-        ],
-        "operators": [
-          "Любовь Квалиашвили",
-          "Сарра Спарсиашвили"
-        ]
-      }
-    },
-    {
-      "id": "movie-58989",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Заяц Коська и Родничок",
-      "title_orig": "Zayats Koska i rodnichok",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1974,
-      "kinopoisk_id": "260098",
-      "imdb_id": "tt6631024",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-17T06:12:14Z",
-      "updated_at": "2020-08-17T06:12:14Z",
-      "material_data": {
-        "title": "Заяц Коська и Родничок",
-        "year": 1974,
-        "description": "Познавательный фильм для самых маленьких о круговороте воды в природе.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/260098.jpg",
-        "duration": 10,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "детский",
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 7.1,
-        "kinopoisk_votes": 1208,
-        "imdb_rating": 6.7,
-        "imdb_votes": 19,
-        "minimal_age": 6,
-        "actors": [
-          "Мария Виноградова",
-          "Петр Вишняков",
-          "Лидия Катаева",
-          "Александра Бабаева",
-          "Тамара Дмитриева"
-        ],
-        "directors": [
-          "Юрий Прытков"
-        ],
-        "writers": [
-          "Николай Грибачев"
-        ],
-        "composers": [
-          "Евгений Птичкин"
-        ],
-        "editors": [
-          "Г. Смирнова"
-        ],
-        "designers": [
-          "Татьяна Сазонова"
-        ],
-        "operators": [
-          "Михаил Друян"
-        ]
-      }
-    },
-    {
-      "id": "movie-58990",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Подарок из Африки",
-      "title_orig": "Подарок из Африки",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1975,
-      "kinopoisk_id": "1047211",
-      "quality": "VHSRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-17T06:10:43Z",
-      "updated_at": "2020-08-17T06:10:43Z",
-      "material_data": {
-        "title": "Подарок из Африки",
-        "title_en": "",
-        "year": 1975,
-        "duration": 10,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "directors": [
-          "Арнольд Буровс"
-        ],
-        "composers": [
-          "Петерис Плакидис"
-        ],
-        "operators": [
-          "М. Масальскис"
-        ]
-      }
-    },
-    {
-      "id": "movie-58991",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Письмо",
-      "title_orig": "Pismo",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1970,
-      "kinopoisk_id": "259960",
-      "imdb_id": "tt0393595",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-17T06:09:23Z",
-      "updated_at": "2020-08-17T06:09:23Z",
-      "material_data": {
-        "title": "Письмо",
-        "year": 1970,
-        "description": "Поэтический рассказ о душевной чуткости и отзывчивости ребенка, сыне моряка, помогающем маме.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/259960.jpg",
-        "duration": 9,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 169,
-        "imdb_rating": 6.4,
-        "imdb_votes": 35,
-        "minimal_age": 0,
-        "directors": [
-          "Роман Качанов"
-        ],
-        "writers": [
-          "Жанна Витензон"
-        ],
-        "designers": [
-          "Леонид Шварцман"
-        ]
-      }
-    },
-    {
-      "id": "movie-58992",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Пиф-паф, ой-ой-ой",
-      "title_orig": "Pif-paf, oy-oy-oy!",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1980,
-      "kinopoisk_id": "417795",
-      "imdb_id": "tt1291069",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-17T06:08:26Z",
-      "updated_at": "2020-08-17T06:08:26Z",
-      "material_data": {
-        "title": "Пиф-паф, ой-ой-ой",
-        "year": 1980,
-        "description": "Пародия на театральные штампы, разыгранная на сюжет популярного шуточного стихотворения.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/417795.jpg",
-        "duration": 17,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 4685,
-        "imdb_rating": 7.7,
-        "imdb_votes": 173,
-        "minimal_age": 0,
-        "actors": [
-          "Ролан Быков",
-          "Ян Арлазоров",
-          "Владимир Качан",
-          "Ирина Муравьёва",
-          "Вячеслав Богачёв",
-          "Жанна Рождественская"
-        ],
-        "directors": [
-          "Гарри Бардин",
-          "Виталий Песков"
-        ],
-        "writers": [
-          "Юрий Энтин"
-        ],
-        "composers": [
-          "Максим Дунаевский"
-        ],
-        "editors": [
-          "Любовь Георгиева"
-        ],
-        "designers": [
-          "Виталий Песков"
-        ],
-        "operators": [
-          "Игорь Шкамарда"
-        ]
-      }
-    },
-    {
-      "id": "movie-58993",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Заокеанский репортёр",
-      "title_orig": "Заокеанский репортёр",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1961,
-      "kinopoisk_id": "1115355",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-17T06:07:32Z",
-      "updated_at": "2020-08-17T06:07:32Z",
-      "material_data": {
-        "title": "Заокеанский репортёр",
-        "year": 1961,
-        "description": "Фильм о «лживой» американской пропаганде.",
-        "duration": 17,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "minimal_age": 0,
-        "directors": [
-          "Григорий Ломидзе"
-        ],
-        "writers": [
-          "Евгений Агранович"
-        ],
-        "composers": [
-          "Сигизмунд Кац"
-        ],
-        "designers": [
-          "Евгений Шукаев"
-        ],
-        "operators": [
-          "Николай Гринберг",
-          "Иосиф Голомб"
         ]
       }
     }

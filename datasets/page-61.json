@@ -1,6 +1,610 @@
 {
   "results": [
     {
+      "id": "movie-64724",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Хранитель дворца",
+      "title_orig": "Guardian of the Palace",
+      "translation": {
+        "id": 791,
+        "title": "RealFake",
+        "type": "voice"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1424711",
+      "imdb_id": "tt12849496",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-11-10T19:12:33Z",
+      "updated_at": "2020-11-10T19:12:33Z",
+      "material_data": {
+        "title": "Хранитель дворца",
+        "title_en": "Sha hai zhu long",
+        "year": 2020,
+        "description": "В городе Хэйшуй свирепствует чума. Остановить её способен только драгоценный камень Золотой Луны. По приказу генерала Фэнь Пэйчуаня на его поиски отправляются Тянья и его сестра. Но они еще не знают, что у генерала есть и другие планы на сокровище.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1424711.jpg",
+        "duration": 90,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "боевик",
+          "фэнтези"
+        ],
+        "imdb_rating": 4.1,
+        "imdb_votes": 78,
+        "premiere_world": "2020-07-31",
+        "minimal_age": 0,
+        "actors": [
+          "Yusi Peng",
+          "Mark Du",
+          "Yirong He",
+          "Lu Qiwei",
+          "Yiming Chen",
+          "Long Li",
+          "Сэмми Хун",
+          "Чан Жао",
+          "Yunfeng Nian",
+          "Ge Mu"
+        ],
+        "directors": [
+          "Юйхай Вэй"
+        ],
+        "producers": [
+          "Shanna Ma",
+          "Fuan Qu",
+          "Wenshui Wang",
+          "Yiran Wang",
+          "Юйхай Вэй"
+        ],
+        "writers": [
+          "Guang Cheng",
+          "Ge Wu"
+        ],
+        "composers": [
+          "Haiyin Jin",
+          "Peng Li"
+        ],
+        "editors": [
+          "Ji Ke"
+        ],
+        "designers": [
+          "Guang Cheng",
+          "Jessica Fan",
+          "У Мин",
+          "Лю Нин",
+          "Longbo Ding"
+        ],
+        "operators": [
+          "Lu Chen"
+        ]
+      }
+    },
+    {
+      "id": "serial-27341",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Мой настоящий друг",
+      "title_orig": "Wo de zhen peng you",
+      "other_title": "My True Friend / My Real Best Friend",
+      "translation": {
+        "id": 918,
+        "title": "Дораманутая / W³: voices",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 6,
+      "episodes_count": 6,
+      "kinopoisk_id": "1268066",
+      "imdb_id": "tt10357596",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-07-01T18:35:01Z",
+      "updated_at": "2020-11-10T16:55:14Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Мой настоящий друг",
+        "title_en": "Wo de zhen peng you",
+        "year": 2019,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1268066.jpg",
+        "duration": 45,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "драма",
+          "мелодрама"
+        ],
+        "imdb_rating": 7.7,
+        "imdb_votes": 52,
+        "premiere_world": "2019-05-19",
+        "minimal_age": 0,
+        "actors": [
+          "Анджела Бейби",
+          "Дэн Лунь",
+          "Чжу Илун",
+          "Тань Кай",
+          "Яо Аньлянь",
+          "Сюй Хао",
+          "Daniela Bessia",
+          "Дин Цзяли",
+          "Ли Сяофэн",
+          "Xinyi Li"
+        ],
+        "directors": [
+          "Zhang Lin"
+        ],
+        "writers": [
+          "Yingju Mei"
+        ]
+      }
+    },
+    {
+      "id": "serial-30068",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Ты моя судьба (китайская версия)",
+      "title_orig": "Ni shi wo de ming zhong zhu ding",
+      "other_title": "Ты мой судьба / Обречен любить тебя / You Are My Destiny (China) / Fated to Love You",
+      "translation": {
+        "id": 910,
+        "title": "AniStar",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 36,
+      "episodes_count": 36,
+      "kinopoisk_id": "1384324",
+      "imdb_id": "tt12357958",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-11-10T16:28:36Z",
+      "updated_at": "2020-11-10T16:28:36Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "21": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "33": "",
+            "34": "",
+            "35": "",
+            "36": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Ты – моя судьба",
+        "title_en": "Ni shi wo de ming zhong zhu ding",
+        "year": 2020,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1384324.jpg",
+        "duration": 45,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 7.3,
+        "imdb_votes": 101,
+        "premiere_world": "2020-06-05",
+        "minimal_age": 0,
+        "actors": [
+          "Цай Ган",
+          "Long Chang",
+          "Кравдия Чоу",
+          "Tara Clance",
+          "Jing Fu",
+          "Лян Цзе",
+          "Цзю Хао",
+          "Zhou Jun-Chao",
+          "Лиэнн Лау",
+          "Линь Фэнсун"
+        ],
+        "directors": [
+          "Чжоу Сяопэн"
+        ]
+      }
+    },
+    {
+      "id": "serial-30067",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Мой странный друг",
+      "title_orig": "Wo de qi guai peng you",
+      "other_title": "Особый друг / Мои странные друзья / My Strange Friend / Super Talent",
+      "translation": {
+        "id": 910,
+        "title": "AniStar",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 24,
+      "kinopoisk_id": "1354925",
+      "imdb_id": "tt12928760",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-11-10T16:25:08Z",
+      "updated_at": "2020-11-10T16:25:08Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "21": "",
+            "22": "",
+            "23": "",
+            "24": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Мой странный друг",
+        "title_en": "Wo de qi guai peng you",
+        "year": 2020,
+        "description": "История о подростках со сверхспособностями.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1354925.jpg",
+        "duration": 35,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "комедия",
+          "фантастика"
+        ],
+        "imdb_rating": 8,
+        "imdb_votes": 94,
+        "premiere_world": "2020-08-19",
+        "minimal_age": 0,
+        "actors": [
+          "Ван Ибо",
+          "Чжан Ицзе",
+          "Ван Мэнли",
+          "Чжан Нань",
+          "Сяо Сюй"
+        ],
+        "directors": [
+          "Син Сяо"
+        ],
+        "producers": [
+          "Дерек И"
+        ],
+        "writers": [
+          "Лян Цзяхао"
+        ]
+      }
+    },
+    {
+      "id": "serial-30066",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Бакуган: Бронированный альянс",
+      "title_orig": "Bakugan: Armored Alliance",
+      "other_title": "爆丸アーマードアライアンス",
+      "translation": {
+        "id": 859,
+        "title": "Cartoon Network",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 8,
+      "last_episode": 14,
+      "episodes_count": 14,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10422",
+      "shikimori_id": "41405",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-11-10T16:23:17Z",
+      "updated_at": "2020-11-10T16:23:17Z",
+      "seasons": {
+        "8": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Бакуган: Бронированный альянс",
+        "title_en": "Bakugan: Armored Alliance",
+        "other_titles": [
+          "Бакуган: Вооружённый альянс"
+        ],
+        "other_titles_jp": [
+          "爆丸アーマードアライアンス"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "poster_url": "https://shikimori.one/system/animes/original/41405.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/be25812a56e8d40b44adfa3cf0e9735f4a9dfffa.jpg",
+          "https://shikimori.one/system/screenshots/original/d85035bc63d7e7ba35aa21512d5119d695970c98.jpg"
+        ],
+        "anime_genres": [
+          "Игры",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "TMS Entertainment"
+        ],
+        "shikimori_rating": 5.64,
+        "shikimori_votes": 136,
+        "aired_at": "2020-04-03",
+        "released_at": "2021-03-26",
+        "rating_mpaa": "PG",
+        "episodes_total": 52,
+        "episodes_aired": 6
+      }
+    },
+    {
+      "id": "serial-26632",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Ты для меня целый мир",
+      "title_orig": "Quan shi jie zui hao de ni",
+      "other_title": "В моих мыслях только лучшее о тебе / The Best of You in My Mind / The Best of You All Over the World",
+      "translation": {
+        "id": 918,
+        "title": "Дораманутая / W³: voices",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 24,
+      "episodes_count": 24,
+      "kinopoisk_id": "1380370",
+      "imdb_id": "tt12193126",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-06-09T13:07:39Z",
+      "updated_at": "2020-11-10T13:34:16Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "21": "",
+            "22": "",
+            "23": "",
+            "24": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Ты для меня – целый мир",
+        "title_en": "Quan shi jie zui hao de ni",
+        "year": 2020,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1380370.jpg",
+        "duration": 41,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "мелодрама"
+        ],
+        "imdb_rating": 7.2,
+        "imdb_votes": 18,
+        "premiere_world": "2020-04-10",
+        "minimal_age": 0,
+        "actors": [
+          "Ze Chen",
+          "Xinyu Guo",
+          "Ли Цзунлинь",
+          "Лесли Ма",
+          "Цюй Цзинцзин",
+          "Meixuan Song",
+          "Ирен Сун",
+          "Чжан Яо"
+        ],
+        "directors": [
+          "Su Haoqi"
+        ],
+        "writers": [
+          "Yayi Chen",
+          "Chenxiu Tao",
+          "Xiaying Zhao"
+        ]
+      }
+    },
+    {
+      "id": "movie-801",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Младенец на $30 000 000",
+      "title_orig": "Bo bui gai wak",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2006,
+      "kinopoisk_id": "196952",
+      "imdb_id": "tt0485976",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2014-07-20T17:38:41Z",
+      "updated_at": "2020-11-10T10:40:10Z",
+      "material_data": {
+        "title": "Младенец на $30 000 000",
+        "title_en": "Bo bui gai wak",
+        "year": 2006,
+        "tagline": "Ползи, малыш, ползи!",
+        "description": "Для бездельника и игрока Тонгза есть только одна вещь пострашнее кредиторов под дверью - плачущий младенец. Но что если этот самый ребенок способен сделать его богатым? Сумеет ли Тонгз преодолеть свой панический страх перед памперсами, бутылочками со смесью и заунывными колыбельными?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/196952.jpg",
+        "duration": 136,
+        "countries": [
+          "Гонконг"
+        ],
+        "genres": [
+          "боевик",
+          "драма",
+          "триллер"
+        ],
+        "kinopoisk_rating": 7.1,
+        "kinopoisk_votes": 14233,
+        "imdb_rating": 6.6,
+        "imdb_votes": 13398,
+        "premiere_world": "2006-09-08",
+        "minimal_age": 12,
+        "actors": [
+          "Джеки Чан",
+          "Луис Ку",
+          "Мэттью Медведев",
+          "Майкл Хуэй",
+          "Чарлин Чой",
+          "Юэнь Бяо",
+          "Гао Юаньюань",
+          "Тереза Карпио",
+          "Теренс Инь",
+          "Конвой Чан"
+        ],
+        "directors": [
+          "Бенни Чан"
+        ],
+        "producers": [
+          "Бенни Чан",
+          "Солон Со",
+          "Ван Чжунлэй",
+          "Джеки Чан",
+          "Уилли Чан",
+          "Ван Чжунцзюнь",
+          "Альберт Юн"
+        ],
+        "writers": [
+          "Джеки Чан",
+          "Бенни Чан",
+          "Алан Юэнь"
+        ],
+        "composers": [
+          "Фай Янг Чан"
+        ],
+        "editors": [
+          "Яу Чи-вай"
+        ],
+        "designers": [
+          "Джеймс Чу",
+          "Вонг Чинг Чинг",
+          "Синди Чунг Фонг-Тай",
+          "Томас Чун"
+        ],
+        "operators": [
+          "Энтони Пунь"
+        ]
+      }
+    },
+    {
       "id": "movie-43386",
       "type": "foreign-movie",
       "link": "",
@@ -2239,7 +2843,7 @@
         "aired_at": "2020-10-25",
         "released_at": "2021-05-09",
         "episodes_total": 60,
-        "episodes_aired": 58
+        "episodes_aired": 59
       }
     },
     {
@@ -2427,7 +3031,7 @@
         "imdb_rating": 6.3,
         "imdb_votes": 155,
         "shikimori_rating": 6.91,
-        "shikimori_votes": 1740,
+        "shikimori_votes": 1447,
         "premiere_world": "2019-10-12",
         "aired_at": "2019-10-12",
         "released_at": "2020-03-28",
@@ -3763,9 +4367,9 @@
           "P.A. Works"
         ],
         "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 208,
+        "kinopoisk_votes": 213,
         "imdb_rating": 6.9,
-        "imdb_votes": 242,
+        "imdb_votes": 247,
         "shikimori_rating": 7.31,
         "shikimori_votes": 2320,
         "premiere_world": "2020-04-10",
@@ -3874,8 +4478,8 @@
         "anime_studios": [
           "Studio A-CAT"
         ],
-        "imdb_rating": 6.3,
-        "imdb_votes": 36,
+        "imdb_rating": 6.4,
+        "imdb_votes": 39,
         "shikimori_rating": 5.73,
         "shikimori_votes": 289,
         "premiere_world": "2020-04-01",
@@ -5166,9 +5770,9 @@
           "P.A. Works"
         ],
         "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 208,
+        "kinopoisk_votes": 213,
         "imdb_rating": 6.9,
-        "imdb_votes": 242,
+        "imdb_votes": 247,
         "shikimori_rating": 7.31,
         "shikimori_votes": 2320,
         "premiere_world": "2020-04-10",
@@ -6334,7 +6938,7 @@
           "Studio Deen"
         ],
         "shikimori_rating": 6.85,
-        "shikimori_votes": 490,
+        "shikimori_votes": 377,
         "premiere_world": "2018-08-03",
         "aired_at": "2020-07-07",
         "released_at": "2020-09-22",
@@ -8739,633 +9343,6 @@
         "rating_mpaa": "PG-13",
         "episodes_total": 0,
         "episodes_aired": 36
-      }
-    },
-    {
-      "id": "movie-26960",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Битва при Сэкигахара",
-      "title_orig": "Sekigahara",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "994639",
-      "imdb_id": "tt5954284",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-09-25T06:06:02Z",
-      "updated_at": "2020-11-06T13:30:42Z",
-      "material_data": {
-        "title": "Битва при Сэкигахара",
-        "title_en": "Sekigahara",
-        "year": 2017,
-        "description": "21 октября 1600 года на равнине Сэкигараха состоялось самое значительное сражение в истории Японии. Схватка между Восточным альянсом Токугавы Иэясу и Западной армией наследников клана Тоётоми, решившая судьбу новой объединенной Японии.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/994639.jpg",
-        "duration": 149,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "боевик",
-          "военный",
-          "история"
-        ],
-        "kinopoisk_rating": 5.8,
-        "kinopoisk_votes": 247,
-        "imdb_rating": 6.3,
-        "imdb_votes": 659,
-        "premiere_world": "2017-08-26",
-        "actors": [
-          "Дзюнъити Окада",
-          "Касуми Аримура",
-          "Кодзи Якусё",
-          "Такэхиро Хира",
-          "Масахиро Хигасидэ",
-          "Ясумаса Оба",
-          "Кэнъити Мацуяма",
-          "Сихо Харуми",
-          "Сю Накадзима",
-          "Норико Накагоси"
-        ],
-        "directors": [
-          "Масато Харада"
-        ],
-        "writers": [
-          "Рётаро Сиба"
-        ]
-      }
-    },
-    {
-      "id": "movie-21399",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Китайский продавец",
-      "title_orig": "China Salesman",
-      "translation": {
-        "id": 704,
-        "title": "Дублированный",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1000238",
-      "imdb_id": "tt6015706",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-03-06T07:19:51Z",
-      "updated_at": "2020-11-06T13:12:45Z",
-      "material_data": {
-        "title": "Китайский продавец",
-        "title_en": "China Salesman",
-        "year": 2017,
-        "tagline": "'Who are you?' 'I am a CHINA salesman.'",
-        "description": "Ян Цзянь, молодой китайский IT-инженер, отправляется в Северную Африку на конкурс. За право контролировать минеральные ресурсы страны будет бороться и Майкл, французский шпион. Он нанял лучшего наемника Африки и бывшего генерала Кабба, чтобы выиграть. Ян единственный, кто может их остановить.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1000238.jpg",
-        "duration": 110,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "боевик",
-          "приключения"
-        ],
-        "kinopoisk_rating": 4.4,
-        "kinopoisk_votes": 502,
-        "imdb_rating": 2.9,
-        "imdb_votes": 1269,
-        "premiere_world": "2017-06-16",
-        "actors": [
-          "Итан Ли",
-          "Майк Тайсон",
-          "Жанике Аскевольд",
-          "Ли Ай",
-          "Эрик Эбони",
-          "Стивен Сигал",
-          "Ван Цзыцзянь",
-          "Bryan Byrne",
-          "Шери Чэн",
-          "Энтони Гавард"
-        ],
-        "directors": [
-          "Тань Бин"
-        ],
-        "producers": [
-          "Скотт Аткинс",
-          "Марси Левитас Хэмилтон",
-          "Стрэтфорд Хэмилтон"
-        ],
-        "writers": [
-          "Тань Бин",
-          "Скотт Сэлтер"
-        ]
-      }
-    },
-    {
-      "id": "movie-21229",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Китайский продавец",
-      "title_orig": "China Salesman",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1000238",
-      "imdb_id": "tt6015706",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-02-26T14:51:39Z",
-      "updated_at": "2020-11-06T13:12:40Z",
-      "material_data": {
-        "title": "Китайский продавец",
-        "title_en": "China Salesman",
-        "year": 2017,
-        "tagline": "'Who are you?' 'I am a CHINA salesman.'",
-        "description": "Ян Цзянь, молодой китайский IT-инженер, отправляется в Северную Африку на конкурс. За право контролировать минеральные ресурсы страны будет бороться и Майкл, французский шпион. Он нанял лучшего наемника Африки и бывшего генерала Кабба, чтобы выиграть. Ян единственный, кто может их остановить.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1000238.jpg",
-        "duration": 110,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "боевик",
-          "приключения"
-        ],
-        "kinopoisk_rating": 4.4,
-        "kinopoisk_votes": 502,
-        "imdb_rating": 2.9,
-        "imdb_votes": 1269,
-        "premiere_world": "2017-06-16",
-        "actors": [
-          "Итан Ли",
-          "Майк Тайсон",
-          "Жанике Аскевольд",
-          "Ли Ай",
-          "Эрик Эбони",
-          "Стивен Сигал",
-          "Ван Цзыцзянь",
-          "Bryan Byrne",
-          "Шери Чэн",
-          "Энтони Гавард"
-        ],
-        "directors": [
-          "Тань Бин"
-        ],
-        "producers": [
-          "Скотт Аткинс",
-          "Марси Левитас Хэмилтон",
-          "Стрэтфорд Хэмилтон"
-        ],
-        "writers": [
-          "Тань Бин",
-          "Скотт Сэлтер"
-        ]
-      }
-    },
-    {
-      "id": "movie-5709",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Звонок 2",
-      "title_orig": "Ringu 2",
-      "translation": {
-        "id": 598,
-        "title": "Сербин",
-        "type": "voice"
-      },
-      "year": 1999,
-      "kinopoisk_id": "55323",
-      "imdb_id": "tt0218553",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-04-05T03:42:08Z",
-      "updated_at": "2020-11-06T12:21:27Z",
-      "material_data": {
-        "title": "Звонок 2",
-        "title_en": "Ringu 2",
-        "year": 1999,
-        "tagline": "Перед тем как ты умрешь, ты услышишь...",
-        "description": "Смертоносная кассета снова затягивает в свои сети доверчивых людей. Зловещий призрак из телевизора Садако Ямамура возвращается. Ассистентка погибшего профессора пытается выйти на след того, что стоит за ужасающим проклятьем.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/55323.jpg",
-        "duration": 95,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "детектив",
-          "ужасы",
-          "фантастика"
-        ],
-        "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 4408,
-        "imdb_rating": 5.9,
-        "imdb_votes": 12664,
-        "premiere_world": "1999-01-23",
-        "minimal_age": 18,
-        "actors": [
-          "Мики Накатани",
-          "Хитоми Сато",
-          "Кёко Фукада",
-          "Фумиё Кохината",
-          "Кэндзиро Исимару",
-          "Юрэи Янаги",
-          "Рикия Отака",
-          "Ёити Нумата",
-          "Масако",
-          "Мивако Кадзи"
-        ],
-        "directors": [
-          "Хидэо Наката"
-        ],
-        "producers": [
-          "Такасигэ Итисэ",
-          "Макото Исихара",
-          "Масато Хара"
-        ],
-        "writers": [
-          "Хироси Такахаси",
-          "Кодзи Судзуки"
-        ],
-        "composers": [
-          "Кэндзи Каваи"
-        ],
-        "editors": [
-          "Нобуюки Такахаси"
-        ],
-        "designers": [
-          "Ивао Саито"
-        ],
-        "operators": [
-          "Хидэо Ямамото"
-        ]
-      }
-    },
-    {
-      "id": "serial-8519",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Мобильный ГАНДАМ Дубль-вэ [ТВ]",
-      "title_orig": "Shin Kidou Senki Gundam W TV",
-      "other_title": "Shin kidô senki Gundam W",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 1995,
-      "last_season": 1,
-      "last_episode": 49,
-      "episodes_count": 49,
-      "kinopoisk_id": "408504",
-      "imdb_id": "tt0159193",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=356",
-      "shikimori_id": "90",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-01-08T16:20:44Z",
-      "updated_at": "2020-11-06T09:37:38Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": "",
-            "26": "",
-            "27": "",
-            "28": "",
-            "29": "",
-            "30": "",
-            "31": "",
-            "32": "",
-            "33": "",
-            "34": "",
-            "35": "",
-            "36": "",
-            "37": "",
-            "38": "",
-            "39": "",
-            "40": "",
-            "41": "",
-            "42": "",
-            "43": "",
-            "44": "",
-            "45": "",
-            "46": "",
-            "47": "",
-            "48": "",
-            "49": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Мобильный Гандам Дубль-вэ",
-        "title_en": "Shin kidô senki Gundam W",
-        "other_titles": [
-          "New Mobile Report Gundam Wing",
-          "Shin Kidou Senki Gundam Wing"
-        ],
-        "other_titles_en": [
-          "Mobile Suit Gundam Wing"
-        ],
-        "other_titles_jp": [
-          "新機動戦記ガンダムW"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 1995,
-        "description": "Идет война между Землей и космическими колониями. В борьбе за независимость колонии используют 5 новейших мобильных воинов - Гандамов. Пятеро молодых пилотов ещё не знают, что являются игрушками в руках войны. Они попадают в ловушку дезинформации, от них отказываются колонии, за свободу которых они боролись, они преследуемы и ненавидимы всеми мирными людьми. И в этой обстановке они проявляют свои лучшие качества, показывают себя настоящими солдатами и настоящими людьми.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/408504.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/8f8c0782da2b4023888c3ef07645992b439f12a1.JPG",
-          "https://shikimori.one/system/screenshots/original/19ac98f06ef7d1ffc201758df1fc11a85bd669f5.JPG"
-        ],
-        "duration": 30,
-        "countries": [
-          "США",
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фантастика"
-        ],
-        "anime_genres": [
-          "Военное",
-          "Драма",
-          "Космос",
-          "Меха",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Sunrise"
-        ],
-        "imdb_rating": 8.1,
-        "imdb_votes": 4047,
-        "shikimori_rating": 7.72,
-        "shikimori_votes": 424,
-        "premiere_world": "1995-04-07",
-        "aired_at": "1995-04-07",
-        "released_at": "1996-03-29",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 49,
-        "episodes_aired": 0,
-        "actors": [
-          "Хикару Мидорикава",
-          "Тосихико Сэки",
-          "Рюдзо Исино",
-          "Акио Оцука",
-          "Лиза Энн Бели",
-          "Брайан Драммонд",
-          "Марк Хилдрет",
-          "Крис Калун",
-          "Дэвид Кэй",
-          "Скотт МакНил"
-        ],
-        "directors": [
-          "Масаси Икэда",
-          "Масато Сато",
-          "Мишель Портер"
-        ],
-        "producers": [
-          "Масуо Уэда",
-          "Хидэюки Томиока",
-          "Джерри Чу",
-          "Кэн Иядоми",
-          "Ричард Кекахуна",
-          "Kumi Kiyonari",
-          "Ёсиаки Коидзуми",
-          "Чарльз МакКартер",
-          "Rika Davis"
-        ],
-        "writers": [
-          "Хадзимэ Ятатэ",
-          "Ёсиюки Томино",
-          "Кацуюки Сумидзава",
-          "Рика Такахаси"
-        ],
-        "composers": [
-          "Ко Отани"
-        ],
-        "editors": [
-          "Тосио Хэнми",
-          "Сигэюки Ямамори"
-        ],
-        "designers": [
-          "Масару Сато",
-          "Юсукэ Такэда",
-          "Ютака Идзубути"
-        ],
-        "operators": [
-          "Ёити Огами"
-        ]
-      }
-    },
-    {
-      "id": "movie-62869",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Черно-желтое такси",
-      "title_orig": "Khaali Peeli",
-      "translation": {
-        "id": 959,
-        "title": "OnisFilms",
-        "type": "voice"
-      },
-      "year": 2020,
-      "kinopoisk_id": "1302559",
-      "imdb_id": "tt10885444",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-11-06T09:26:33Z",
-      "updated_at": "2020-11-06T09:26:33Z",
-      "material_data": {
-        "title": "Чёрно-жёлтое такси",
-        "title_en": "Khaali Peeli",
-        "year": 2020,
-        "description": "Невероятные приключения начинаются, когда водитель такси соглашается подвести сбежавшую со свадьбы девушку с сумкой полной денег.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1302559.jpg",
-        "duration": 119,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "комедия",
-          "мелодрама"
-        ],
-        "imdb_rating": 2.4,
-        "imdb_votes": 7816,
-        "premiere_world": "2020-10-02",
-        "minimal_age": 0,
-        "actors": [
-          "Ишан Капур",
-          "Анания Пандей",
-          "Джайдип Ахлават",
-          "Сатиш Каушик",
-          "Кабир",
-          "Rrahul Sudhir",
-          "Маной Тивари",
-          "Suyash Tilak",
-          "Saket Saurav",
-          "Ranjit Punia"
-        ],
-        "directors": [
-          "Магбул Кхан"
-        ],
-        "producers": [
-          "Химаншу Мера",
-          "Али Аббас Зафар",
-          "Ануп Поддар"
-        ],
-        "writers": [
-          "Sima Agarwal",
-          "Яш"
-        ],
-        "composers": [
-          "Вишал Дадлани",
-          "Шехар Равджиани"
-        ],
-        "designers": [
-          "Дурга Прасад Мохапатра",
-          "Vishal Gyan Chandani",
-          "Смита Камбли",
-          "RajuKumar Sahani",
-          "Наташа Чарак",
-          "Никита Моханти"
-        ],
-        "operators": [
-          "Адиль Афсар"
-        ]
-      }
-    },
-    {
-      "id": "serial-29266",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Незаконченная любовь",
-      "title_orig": "Yarim Kalan Asklar",
-      "other_title": "Незаконченный круг любви",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 8,
-      "episodes_count": 8,
-      "kinopoisk_id": "1407221",
-      "imdb_id": "tt12466076",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-09-13T17:17:13Z",
-      "updated_at": "2020-11-06T09:06:38Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Незавершенная любовь",
-        "title_en": "Yarim Kalan Asklar",
-        "year": 2020,
-        "description": "Журналисты Озан и Элиф влюблены друг в друга и собираются пожениться. Однажды Озан, охотясь за секретной информацией, попадает в автокатастрофу и погибает. Его душа мечется между двумя мирами и в конце концов реинкарнируется в другое тело. Теперь перевоплощенному Озану предстоит выяснить, кто его убил, и рассказать Элиф всю правду.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1407221.jpg",
-        "duration": 60,
-        "countries": [
-          "Турция"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама",
-          "триллер"
-        ],
-        "imdb_rating": 7.8,
-        "imdb_votes": 1625,
-        "premiere_world": "2020-09-10",
-        "minimal_age": 0,
-        "actors": [
-          "Джихат Сувариоглу",
-          "Бурак Дениз",
-          "Дилан Чичек Дениз",
-          "Джем Давран",
-          "Gizem Ünsal",
-          "Назлы Булум",
-          "Эсра Русан",
-          "Zeynep Naz Kasap",
-          "Onur Gürçay",
-          "Basak Gümülcinelioglu"
-        ],
-        "directors": [
-          "Умур Турагай"
-        ],
-        "writers": [
-          "Хакан Бономо",
-          "Ethem Ozisik",
-          "Ercan Ugur"
-        ],
-        "composers": [
-          "Emre Altaç",
-          "Алп Ениэр"
-        ],
-        "editors": [
-          "Айлин Тинель",
-          "Эрхан Акар мл."
-        ],
-        "designers": [
-          "Hatice Cihangiroglu"
-        ],
-        "operators": [
-          "Йон Томас"
-        ]
       }
     }
   ]

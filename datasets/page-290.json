@@ -1,6 +1,285 @@
 {
   "results": [
     {
+      "id": "movie-34765",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Возвращайтесь домой",
+      "title_orig": "Let’s Go Home",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2018,
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-11T11:03:08Z",
+      "updated_at": "2019-04-11T11:03:08Z"
+    },
+    {
+      "id": "movie-31111",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Лиловый шар",
+      "title_orig": "Lilovyy shar",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "45101",
+      "imdb_id": "tt0093419",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-22T23:18:33Z",
+      "updated_at": "2019-04-11T08:11:24Z",
+      "material_data": {
+        "title": "Лиловый шар",
+        "year": 1987,
+        "description": "Сказочная история, произошедшая в 21 веке. Экипаж космического корабля обнаруживает в заброшенной инопланетной станции данные о доставленном на Землю много тысяч лет назад лиловом шаре, в котором находится вирус вражды.\n\rЭтот вирус может привести к гибели людей. Героиня фильма – бесстрашная девочка Алиса на машине времени отправляется в эпоху легенд, чтобы найти и обезвредить лиловый шар.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/45101.jpg",
+        "duration": 77,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "приключения",
+          "фантастика",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 4826,
+        "imdb_rating": 5.9,
+        "imdb_votes": 325,
+        "premiere_world": "1988-01-09",
+        "minimal_age": 6,
+        "actors": [
+          "Александр Гусев",
+          "Наталья Мурашкевич",
+          "Вячеслав Невинный",
+          "Борис Щербаков",
+          "Вячеслав Баранов",
+          "Светлана Харитонова",
+          "Игорь Ясулович",
+          "Виктор Павлов",
+          "Сергей Никоненко",
+          "Владимир Носик"
+        ],
+        "directors": [
+          "Павел Арсенов"
+        ],
+        "writers": [
+          "Кир Булычёв"
+        ],
+        "composers": [
+          "Евгений Крылатов"
+        ],
+        "editors": [
+          "Тамара Кривошеина"
+        ],
+        "designers": [
+          "Петр Пашкевич"
+        ],
+        "operators": [
+          "Сергей Ткаченко"
+        ]
+      }
+    },
+    {
+      "id": "movie-31191",
+      "type": "russian-cartoon",
+      "link": "",
+      "title": "Большой Ух",
+      "title_orig": "Bolshoj Uh",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1989,
+      "kinopoisk_id": "430455",
+      "imdb_id": "tt1796414",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-01-23T22:14:43Z",
+      "updated_at": "2019-04-11T08:06:14Z",
+      "material_data": {
+        "title": "Большой Ух",
+        "year": 1989,
+        "description": "Чудик с большими ушами слушал музыку звезд и не замечал звуков живой жизни. А маленький волчонок спешил на помощь по первому зову...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/430455.jpg",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "детский",
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 8,
+        "kinopoisk_votes": 26527,
+        "imdb_rating": 7.4,
+        "imdb_votes": 226,
+        "minimal_age": 0,
+        "actors": [
+          "Александр Пожаров",
+          "Зоя Пыльнова",
+          "Александр Ильин"
+        ],
+        "directors": [
+          "Юрий Бутырин"
+        ],
+        "writers": [
+          "Михаил Шелехов"
+        ],
+        "composers": [
+          "Ираклий Габели"
+        ],
+        "editors": [
+          "С. Симухина"
+        ],
+        "designers": [
+          "Юрий Исайкин",
+          "Татьяна Арешкова"
+        ],
+        "operators": [
+          "Эрнст Гаман"
+        ]
+      }
+    },
+    {
+      "id": "movie-34742",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Кот и Ко",
+      "title_orig": "Kot i Ko.",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1990,
+      "kinopoisk_id": "260073",
+      "imdb_id": "tt0907124",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-11T08:02:38Z",
+      "updated_at": "2019-04-11T08:02:38Z",
+      "material_data": {
+        "title": "Кот и Ко",
+        "year": 1990,
+        "description": "Cюжет о том, как мыши кота хоронили...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/260073.jpg",
+        "duration": 9,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 404,
+        "imdb_rating": 6.7,
+        "imdb_votes": 40,
+        "minimal_age": 0,
+        "directors": [
+          "Александр Гурьев"
+        ],
+        "writers": [
+          "Владимир Голованов"
+        ],
+        "composers": [
+          "Владимир Назаров"
+        ],
+        "editors": [
+          "Елена Белявская",
+          "Татьяна Папорова"
+        ],
+        "designers": [
+          "Т. Ильина"
+        ],
+        "operators": [
+          "Александр Чеховский"
+        ]
+      }
+    },
+    {
+      "id": "movie-34743",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Кот, который умел петь",
+      "title_orig": "Kot, kotoryy umel pet",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1988,
+      "kinopoisk_id": "460092",
+      "imdb_id": "tt5873798",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-11T08:01:48Z",
+      "updated_at": "2019-04-11T08:01:48Z",
+      "material_data": {
+        "title": "Кот, который умел петь",
+        "title_en": "",
+        "year": 1988,
+        "description": "История об очень смешном коте, который вечерами пел для своей знакомой кошки.Но кошка целыми днями смотрела телевизор и на кота внимания не обращала.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/460092.jpg",
+        "duration": 8,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7.1,
+        "kinopoisk_votes": 1169,
+        "imdb_rating": 6.9,
+        "imdb_votes": 22,
+        "minimal_age": 12,
+        "actors": [
+          "Наталия Ченчик",
+          "Эдуард Назаров",
+          "Александр Леньков",
+          "Зоя Пыльнова"
+        ],
+        "directors": [
+          "Натан Лернер"
+        ],
+        "writers": [
+          "Людмила Петрушевская"
+        ],
+        "composers": [
+          "Михаил Меерович"
+        ],
+        "editors": [
+          "Н. Снесарева"
+        ],
+        "designers": [
+          "Аркадий Шер",
+          "Владимир Зуйков",
+          "Марина Игнатенко",
+          "Елена Гагарина",
+          "Людмила Бирюкова"
+        ],
+        "operators": [
+          "Кабул Расулов"
+        ]
+      }
+    },
+    {
       "id": "movie-34744",
       "type": "russian-movie",
       "link": "",
@@ -1742,9 +2021,8 @@
       "updated_at": "2019-04-11T06:59:30Z",
       "material_data": {
         "title": "Опасные гастроли",
-        "title_en": "",
         "year": 1969,
-        "description": "1910 год. Одесса. Некий француз, виконт де Кордель, с дозволения губернатора и «отцов» города организует театр-кабаре. В нем выступают эстрадные артисты: куплетист Бенгальский, очаровательная танцовщица, цыганский дуэт и, конечно же, кордебалет. \r\n\r\nОднако на самом деле это шикарное заведение создано... большевиками. Для конспирации: революционная работа целой группы подпольщиков под носом у врага с такой ширмой, как это кабаре, - лучше и не придумать!",
+        "description": "1910 год, Одесса. Некий французский виконт де Кордель с дозволения губернатора и отцов города организует театр-кабаре. В нем выступают эстрадные артисты: куплетист Бенгальский, очаровательная танцовщица, цыганский дуэт и, конечно же, кордебалет. Но на самом деле это шикарное заведение создано большевиками для конспирации. Революционная работа целой группы подпольщиков под носом у врага с такой ширмой как кабаре — лучше и не придумать!",
         "poster_url": "https://st.kp.yandex.net/images/film_big/42776.jpg",
         "duration": 87,
         "countries": [
@@ -1755,10 +2033,10 @@
           "история",
           "мюзикл"
         ],
-        "kinopoisk_rating": 7,
-        "kinopoisk_votes": 1800,
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 1915,
         "imdb_rating": 6.4,
-        "imdb_votes": 134,
+        "imdb_votes": 138,
         "premiere_world": "1970-01-05",
         "minimal_age": 6,
         "actors": [
@@ -2920,7 +3198,6 @@
       "updated_at": "2019-04-10T08:30:48Z",
       "material_data": {
         "title": "Адмирал Нахимов",
-        "title_en": "",
         "year": 1946,
         "description": "Россия. 1853 год. После победы русского флота под командованием адмирала Нахимова над турками создается мощная антирусская коалиция. Душой Севастополя вновь становится Нахимов...",
         "poster_url": "https://st.kp.yandex.net/images/film_big/43408.jpg",
@@ -2934,9 +3211,9 @@
           "драма"
         ],
         "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 993,
+        "kinopoisk_votes": 1068,
         "imdb_rating": 6.4,
-        "imdb_votes": 116,
+        "imdb_votes": 120,
         "premiere_world": "1947-01-02",
         "minimal_age": 0,
         "actors": [
@@ -3195,7 +3472,6 @@
       "updated_at": "2019-04-10T08:24:40Z",
       "material_data": {
         "title": "Укрощение строптивой",
-        "title_en": "",
         "year": 1961,
         "description": "Гордая красавица, дочь богатого патриция делает все возможное, чтобы унизить своих женихов, которых подыскивает ей несчастный отец. Но однажды нашелся человек, который сумел подчинить себе ее неукротимый нрав.",
         "poster_url": "https://st.kp.yandex.net/images/film_big/42514.jpg",
@@ -3208,9 +3484,9 @@
           "мелодрама"
         ],
         "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 1581,
-        "imdb_rating": 7.7,
-        "imdb_votes": 90,
+        "kinopoisk_votes": 1686,
+        "imdb_rating": 7.6,
+        "imdb_votes": 98,
         "premiere_world": "1961-09-24",
         "minimal_age": 0,
         "actors": [
@@ -3756,7 +4032,6 @@
       "updated_at": "2019-04-10T08:12:22Z",
       "material_data": {
         "title": "Пакет",
-        "title_en": "",
         "year": 1965,
         "description": "По одноименному рассказу Л.Пантелеева. О подвиге молодого красноармейца Петра Трофимова, который, выполняя задание, доставляет пакет с донесением в штаб армии Буденного.",
         "poster_url": "https://st.kp.yandex.net/images/film_big/331748.jpg",
@@ -3770,9 +4045,9 @@
           "семейный"
         ],
         "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 457,
+        "kinopoisk_votes": 486,
         "imdb_rating": 8,
-        "imdb_votes": 42,
+        "imdb_votes": 43,
         "premiere_world": "1965-11-07",
         "minimal_age": 0,
         "actors": [
@@ -5451,7 +5726,6 @@
       "updated_at": "2019-04-09T06:41:25Z",
       "material_data": {
         "title": "Фронт",
-        "title_en": "",
         "year": 1943,
         "description": "Фильм рассказывает о необходимой смене поколений на высших командных должностях в Красной Армии, продиктованной новыми условиями ведения военных действий в период Великой Отечественной войны.",
         "poster_url": "https://st.kp.yandex.net/images/film_big/44437.jpg",
@@ -5463,9 +5737,9 @@
           "драма"
         ],
         "kinopoisk_rating": 6.6,
-        "kinopoisk_votes": 173,
-        "imdb_rating": 6.7,
-        "imdb_votes": 14,
+        "kinopoisk_votes": 196,
+        "imdb_rating": 6.5,
+        "imdb_votes": 15,
         "premiere_world": "1943-12-27",
         "minimal_age": 12,
         "actors": [
@@ -5968,7 +6242,7 @@
         "imdb_rating": 6.9,
         "imdb_votes": 1582,
         "shikimori_rating": 6.77,
-        "shikimori_votes": 4475,
+        "shikimori_votes": 4154,
         "premiere_world": "2008-10-04",
         "aired_at": "2018-10-05",
         "released_at": "2019-04-05",
@@ -6524,9 +6798,9 @@
           "комедия"
         ],
         "kinopoisk_rating": 6.2,
-        "kinopoisk_votes": 740,
+        "kinopoisk_votes": 746,
         "imdb_rating": 6.1,
-        "imdb_votes": 71,
+        "imdb_votes": 72,
         "premiere_world": "2007-01-21",
         "minimal_age": 12,
         "actors": [
@@ -6781,360 +7055,6 @@
         ],
         "operators": [
           "Генри Абрамян"
-        ]
-      }
-    },
-    {
-      "id": "movie-3238",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Печки-лавочки",
-      "title_orig": "Печки-лавочки",
-      "other_title": "Печки - лавочки",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1972,
-      "kinopoisk_id": "42910",
-      "imdb_id": "tt0069068",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2014-11-19T14:02:32Z",
-      "updated_at": "2019-04-08T11:23:34Z",
-      "material_data": {
-        "title": "Печки-лавочки",
-        "year": 1972,
-        "description": "История о путешествии к южному морю семейной пары из далёкого алтайского села. Супруги впервые в жизни едут в отпуск по выделенной профкомом путёвке, да ещё в отдельном купе! Дорожные приключения и ритм новой жизни увлекают их, но и среди красот южной природы не могут они забыть о родных местах и близких людях, которые ждут их возвращения.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/42910.jpg",
-        "duration": 103,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "kinopoisk_rating": 7.8,
-        "kinopoisk_votes": 9057,
-        "imdb_rating": 7.5,
-        "imdb_votes": 417,
-        "premiere_world": "1972-04-02",
-        "minimal_age": 6,
-        "actors": [
-          "Лидия Федосеева-Шукшина",
-          "Василий Шукшин",
-          "Всеволод Санаев",
-          "Георгий Бурков",
-          "Зиновий Гердт",
-          "Иван Рыжов",
-          "Станислав Любшин",
-          "Вадим Захарченко",
-          "Елизавета Уварова",
-          "Любовь Мышева"
-        ],
-        "directors": [
-          "Василий Шукшин"
-        ],
-        "writers": [
-          "Василий Шукшин"
-        ],
-        "composers": [
-          "Павел Чекалов"
-        ],
-        "editors": [
-          "Наталья Логинова"
-        ],
-        "designers": [
-          "Петр Пашкевич",
-          "Яков Ривош",
-          "Борис Дукшт"
-        ],
-        "operators": [
-          "Анатолий Заболоцкий"
-        ]
-      }
-    },
-    {
-      "id": "movie-32873",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Третий тайм",
-      "title_orig": "Tretiy taym",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1962,
-      "kinopoisk_id": "42285",
-      "imdb_id": "tt0056615",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-02-25T21:47:28Z",
-      "updated_at": "2019-04-08T11:22:22Z",
-      "material_data": {
-        "title": "Третий тайм",
-        "year": 1962,
-        "description": "В основе фильма лежит реальный факт - футбольный матч между немецкой командой и командой советских военнопленных, бывших «Динамовцев». Это произошло в Киеве 22 июня 1942 года. Предвидя возможность проигрыша, немцы ставили условие - поражение или смерть. В случае победы немцев советским футболистам была обещана свобода...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/42285.jpg",
-        "duration": 88,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "военный",
-          "драма",
-          "спорт"
-        ],
-        "kinopoisk_rating": 7.4,
-        "kinopoisk_votes": 905,
-        "imdb_rating": 7.5,
-        "imdb_votes": 60,
-        "premiere_world": "1963-04-11",
-        "minimal_age": 12,
-        "actors": [
-          "Юрий Волков",
-          "Владимир Кашпур",
-          "Леонид Куравлёв",
-          "Юрий Назаров",
-          "Вячеслав Невинный",
-          "Глеб Стриженов",
-          "Геннадий Юхтин",
-          "Алексей Эйбоженко",
-          "Валентина Шарыкина",
-          "Игорь Пушкарев"
-        ],
-        "directors": [
-          "Евгений Карелов"
-        ],
-        "writers": [
-          "Александр Борщаговский"
-        ],
-        "composers": [
-          "Андрей Петров"
-        ],
-        "editors": [
-          "Клавдия Алеева"
-        ],
-        "designers": [
-          "Феликс Богуславский",
-          "Борис Царев"
-        ],
-        "operators": [
-          "Сергей Зайцев"
-        ]
-      }
-    },
-    {
-      "id": "movie-34580",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Запасной игрок",
-      "title_orig": "Zapasnoy igrok",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1954,
-      "kinopoisk_id": "45229",
-      "imdb_id": "tt0047895",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-08T11:21:14Z",
-      "updated_at": "2019-04-08T11:21:14Z",
-      "material_data": {
-        "title": "Запасной игрок",
-        "year": 1954,
-        "description": "Заводская команда «Синих Стрел» выходит в финал и отправляется в Сухуми на теплоходе для встречи с «Вымпелом», считающимся фаворитом. Но перед матчем лучший нападающий Саша Веснушкин паникует, не веря в победу своей команды, поэтому Сашу заменяют запасным игроком, его братом Васей. Исход волнующей встречи под угрозой.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/45229.jpg",
-        "duration": 83,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "комедия",
-          "спорт"
-        ],
-        "kinopoisk_rating": 7.4,
-        "kinopoisk_votes": 2277,
-        "imdb_rating": 6.7,
-        "imdb_votes": 175,
-        "premiere_world": "1954-12-03",
-        "minimal_age": 0,
-        "actors": [
-          "Георгий Вицин",
-          "Всеволод Кузнецов",
-          "Павел Кадочников",
-          "Татьяна Конюхова",
-          "Валентина Ушакова",
-          "Марк Бернес",
-          "Владимир Белокуров",
-          "Елена Тяпкина",
-          "Николай Рыбников",
-          "Константин Адашевский"
-        ],
-        "directors": [
-          "Семен Тимошенко"
-        ],
-        "writers": [
-          "Семен Тимошенко"
-        ],
-        "composers": [
-          "Исаак Дунаевский"
-        ],
-        "editors": [
-          "А. Рузанова"
-        ],
-        "designers": [
-          "Семен Малкин",
-          "Георгий Кропачев"
-        ],
-        "operators": [
-          "Евгений Шапиро"
-        ]
-      }
-    },
-    {
-      "id": "movie-34581",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Далеко от Москвы",
-      "title_orig": "Daleko ot Moskvy",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1950,
-      "kinopoisk_id": "44091",
-      "imdb_id": "tt0042371",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-08T11:20:04Z",
-      "updated_at": "2019-04-08T11:20:04Z",
-      "material_data": {
-        "title": "Далеко от Москвы",
-        "year": 1950,
-        "description": "Экранизация популярного романа Василия Ажаева. «Далеко от Москвы», в таежных сибирских краях идет строительство нефтепровода, но великолепные молодые красавцы-спецы предпочли бы совершать не трудовые подвиги в тылу, а боевые - на передовой. Истории сурового шика, по преимуществу во френчах.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/44091.jpg",
-        "duration": 111,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "kinopoisk_rating": 6.5,
-        "kinopoisk_votes": 174,
-        "imdb_rating": 5.9,
-        "imdb_votes": 18,
-        "premiere_world": "1950-12-19",
-        "minimal_age": 0,
-        "actors": [
-          "Николай Охлопков",
-          "Лев Свердлин",
-          "Павел Кадочников",
-          "Валериан Квачадзе",
-          "Александр Ханов",
-          "Григорий Кириллов",
-          "Татьяна Махова",
-          "Иветта Киселева",
-          "Владимир Владиславский",
-          "Сергей Столяров"
-        ],
-        "directors": [
-          "Александр Столпер"
-        ],
-        "writers": [
-          "Василий Ажаев",
-          "Михаил Папава"
-        ],
-        "composers": [
-          "Николай Крюков"
-        ],
-        "designers": [
-          "Евгений Куманьков",
-          "В. Этингер",
-          "Михаил Карякин"
-        ],
-        "operators": [
-          "Чен Ю Лан",
-          "Александр Шеленков"
-        ]
-      }
-    },
-    {
-      "id": "movie-34584",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Блокада: Фильм 1: Лужский рубеж, Пулковский меридиан",
-      "title_orig": "Blokada: Luzhskiy rubezh, Pulkovskiy meredian",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1975,
-      "kinopoisk_id": "46149",
-      "imdb_id": "tt0144111",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-04-08T11:18:10Z",
-      "updated_at": "2019-04-08T11:18:10Z",
-      "material_data": {
-        "title": "Блокада: Фильм 1: Лужский рубеж, Пулковский меридиан",
-        "year": 1974,
-        "description": "Фильм посвящен мужеству и стойкости ленинградцев в трудные дни блокады Ленинграда 1941-1944 годов.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/46149.jpg",
-        "duration": 185,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "военный",
-          "драма"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 2634,
-        "imdb_rating": 6.7,
-        "imdb_votes": 114,
-        "premiere_world": "1974-12-01",
-        "minimal_age": 12,
-        "actors": [
-          "Юрий Соломин",
-          "Евгений Лебедев",
-          "Ирина Акулова",
-          "Лев Золотухин",
-          "Владислав Стржельчик",
-          "Михаил Ульянов",
-          "Даниил Сагал",
-          "Борис Горбатов",
-          "Сергей Харченко",
-          "Георгий Гегечкори"
-        ],
-        "directors": [
-          "Михаил Ершов"
-        ],
-        "writers": [
-          "Борис Горбатов",
-          "Арнольд Витоль",
-          "Александр Чаковский"
-        ],
-        "composers": [
-          "Вениамин Баснер"
-        ],
-        "designers": [
-          "Михаил Иванов"
-        ],
-        "operators": [
-          "Анатолий Назаров"
         ]
       }
     }

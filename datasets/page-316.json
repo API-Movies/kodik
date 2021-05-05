@@ -1,6 +1,429 @@
 {
   "results": [
     {
+      "id": "movie-24789",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Никому не верь",
+      "title_orig": "Corrupt",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "876957",
+      "imdb_id": "tt4048628",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-05T03:08:51Z",
+      "updated_at": "2018-07-05T05:17:25Z",
+      "material_data": {
+        "title": "Corrupt",
+        "title_en": "",
+        "year": 2016,
+        "tagline": "They killed her witness, she might be next ...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/876957.jpg",
+        "duration": 88,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "триллер"
+        ],
+        "imdb_rating": 5.1,
+        "imdb_votes": 142,
+        "premiere_world": "2016-02-10",
+        "actors": [
+          "Николь де Бур",
+          "Скотт Гибсон",
+          "Питер Майкл Диллон",
+          "Стив Бэран",
+          "Эллисон Бреннан",
+          "Виктор Корнфут",
+          "Tristan Crigger",
+          "Vanessa Fournier",
+          "Дэннис Лафон",
+          "Raymond Levesque"
+        ],
+        "directors": [
+          "Кертис Кроуфорд"
+        ],
+        "producers": [
+          "Роберт Мензес",
+          "Mary Gillanders",
+          "Дональд М. Осборн",
+          "Пьер-Андре Роше",
+          "Кирк Шоу",
+          "Деви Сингх"
+        ],
+        "writers": [
+          "Кертис Кроуфорд",
+          "Cathy McKernan",
+          "Венди МакКернан"
+        ],
+        "composers": [
+          "Дэвид Файндлей"
+        ],
+        "editors": [
+          "Джордан Дженсен"
+        ],
+        "designers": [
+          "Лиза Сопер",
+          "Kayla Irwin",
+          "Ted Kennedy"
+        ],
+        "operators": [
+          "Билл Ст. Джон"
+        ]
+      }
+    },
+    {
+      "id": "movie-24787",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Молодость",
+      "title_orig": "Fang hua",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1045296",
+      "imdb_id": "tt6654316",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-05T03:07:23Z",
+      "updated_at": "2018-07-05T05:12:58Z",
+      "material_data": {
+        "title": "Молодость",
+        "title_en": "Fang hua",
+        "year": 2017,
+        "description": "Китай, 1970-е годы. В сплочённый коллектив военно-патриотического ансамбля песни и пляски вливается новенькая, Хэ Сяопин. Но отношения с другими девушками у неё сразу не ладятся - она без спросу берёт форму одной из них, чтобы сфотографироваться и послать фотографию отцу, чем навлекает на себя дружный гнев и порицание. Хорошо к Сяопин относится только Лю Фэн, невероятно положительный и добрый парень, и к тому же - мастер на все руки.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1045296.jpg",
+        "duration": 136,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "военный",
+          "драма",
+          "история"
+        ],
+        "kinopoisk_rating": 6.5,
+        "kinopoisk_votes": 130,
+        "imdb_rating": 7.1,
+        "imdb_votes": 2674,
+        "premiere_world": "2017-09-08",
+        "minimal_age": 0,
+        "actors": [
+          "Хуан Сюань",
+          "Мяо Мяо",
+          "Ян Цайюй",
+          "Элейн Чжун",
+          "Ли Сяофэн",
+          "Ван Тяньчэнь",
+          "Су Янь",
+          "Ло Пань",
+          "Суй Юань",
+          "Хай Тао"
+        ],
+        "directors": [
+          "Фэн Сяоган"
+        ],
+        "producers": [
+          "Фэн Сяоган",
+          "Гун Юй",
+          "Сун Гэ",
+          "Ван Чжунцзюнь",
+          "Ван Чжунлэй",
+          "Ду Ян"
+        ],
+        "writers": [
+          "Янь Гэлин"
+        ],
+        "composers": [
+          "Чжао Линь"
+        ],
+        "editors": [
+          "Чжан Ци"
+        ],
+        "designers": [
+          "Ши Хайин",
+          "Лю Сяоли"
+        ],
+        "operators": [
+          "Ло Пань"
+        ]
+      }
+    },
+    {
+      "id": "serial-10243",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Чайная «Рокуходо»",
+      "title_orig": "Rokuhoudou Yotsuio Biyori",
+      "other_title": "鹿楓堂よついろ日和",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2018,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1112805",
+      "imdb_id": "tt7725942",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9425",
+      "shikimori_id": "36513",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2018-04-25T19:51:53Z",
+      "updated_at": "2018-07-05T03:02:11Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Чайная «Рокуходо»",
+        "title_en": "Rokuhoudou Yotsuio Biyori",
+        "other_titles": [
+          "Чайный магазин «Рокуходо»"
+        ],
+        "other_titles_en": [
+          "Yotsuiro Biyori"
+        ],
+        "other_titles_jp": [
+          "鹿楓堂よついろ日和"
+        ],
+        "anime_license_name": "Чудесные дни в «Рокуходо»",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2018,
+        "description": "История разворачивается в японском чайном доме «Рокуходо», который благодаря усилиям работников пользуется большой популярностью. Кёсуй, Грегорио, Токитака и Цубаки не только гостеприимны к своим клиентам, но время от времени также помогают им с их заботами. Серия восхитительных историй, которые происходят в этом уютном ресторанчике. Итак, кто же будет их клиентами сегодня?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1112805.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/276ae3488f610db8f15c28ff3bff2a6d4ea2816e.jpg",
+          "https://shikimori.one/system/screenshots/original/02c568ff7ef5785f35eb4526e4c8cc024f737490.jpg"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Повседневность",
+          "Сейнен"
+        ],
+        "anime_studios": [
+          "Zexcs"
+        ],
+        "imdb_rating": 7.7,
+        "imdb_votes": 47,
+        "shikimori_rating": 7.6,
+        "shikimori_votes": 886,
+        "premiere_world": "2018-04-11",
+        "aired_at": "2018-04-11",
+        "released_at": "2018-06-27",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 0,
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Юити Накамура",
+          "Даисукэ Оно",
+          "Дзюнъити Сувабэ"
+        ]
+      }
+    },
+    {
+      "id": "movie-24779",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Всё сложно",
+      "title_orig": "Entanglement",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "934071",
+      "imdb_id": "tt3534294",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-04T11:47:13Z",
+      "updated_at": "2018-07-04T11:47:13Z",
+      "material_data": {
+        "title": "Всё сложно",
+        "title_en": "Entanglement",
+        "year": 2017,
+        "description": "После попытки самоубийства Бен Лейтон пошёл на поправку, но неожиданно встретил девушку, влюбился, и с ним опять стали происходить странные вещи.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/934071.jpg",
+        "duration": 85,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "драма",
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 5.9,
+        "imdb_votes": 683,
+        "premiere_world": "2017-05-19",
+        "minimal_age": 0,
+        "actors": [
+          "Томас Миддлдитч",
+          "Джесс Вейкслер",
+          "Джоанна Ньюмарк",
+          "МакКензи Грэй",
+          "Диана Пан",
+          "Эрик Кинлисайд",
+          "Б.Дж. Харрисон",
+          "Николь ЛаПлаца",
+          "Шона Йоханнесен",
+          "Рендал Эдвардс"
+        ],
+        "directors": [
+          "Джейсон Джеймс"
+        ],
+        "producers": [
+          "Джейсон Джеймс",
+          "Эмбер Рипли",
+          "Jhod Cardinal",
+          "Тим Гэмбл",
+          "Криста Келлоуэй",
+          "Кирстен Смит"
+        ],
+        "writers": [
+          "Джейсон Фильятро"
+        ],
+        "composers": [
+          "Эндрю Харрис"
+        ],
+        "editors": [
+          "Джэми Ален",
+          "Гарет С. Скейлс",
+          "Christopher Watson"
+        ],
+        "designers": [
+          "Скотт Молтон",
+          "Kara Hornland",
+          "Секива Ви-Афедзи"
+        ],
+        "operators": [
+          "Джеймс Листон"
+        ]
+      }
+    },
+    {
+      "id": "movie-24770",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Жестокий полицейский",
+      "title_orig": "Sono otoko, kyôbô ni tsuki",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 1989,
+      "kinopoisk_id": "48589",
+      "imdb_id": "tt0098360",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-07-04T10:34:22Z",
+      "updated_at": "2018-07-04T10:34:22Z",
+      "material_data": {
+        "title": "Жестокий полицейский",
+        "title_en": "Sono otoko, kyôbô ni tsuki",
+        "year": 1989,
+        "description": "Детектив Адзума - далеко не образец для подражания. Он азартный, но неудачливый игрок; грубый и нетерпимый человек, решающий практически все проблемы при помощи кулаков. Единственное, что отличает его от сослуживцев, так это особые методы работы. Адзума отстаивает справедливость яростно и жестоко, не останавливаясь ни перед чем. Расследование серии ужасных убийств приведёт детектива к извращенному преступнику-садисту.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/48589.jpg",
+        "duration": 103,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма",
+          "криминал",
+          "триллер"
+        ],
+        "kinopoisk_rating": 7.2,
+        "kinopoisk_votes": 3628,
+        "imdb_rating": 7.2,
+        "imdb_votes": 10763,
+        "premiere_world": "1989-08-12",
+        "minimal_age": 18,
+        "actors": [
+          "Такеши Китано",
+          "Маико Каваками",
+          "Макото Асикава",
+          "Сиро Сано",
+          "Сэи Хираидзуми",
+          "Микико Отонаси",
+          "Хакурю",
+          "Иттоку Кисибэ",
+          "Кэн Ёсидзава",
+          "Хироюки Кацубэ"
+        ],
+        "directors": [
+          "Такеши Китано"
+        ],
+        "producers": [
+          "Тосио Набэсима",
+          "Такио Ёсида",
+          "Сёдзо Итияма",
+          "Акинори Курода",
+          "Кадзуёси Окуяма"
+        ],
+        "writers": [
+          "Хисаси Нодзава",
+          "Такеши Китано"
+        ],
+        "composers": [
+          "Дайсаку Кумэ"
+        ],
+        "editors": [
+          "Нобутакэ Камия"
+        ],
+        "designers": [
+          "Масутэру Мотидзуки",
+          "Кадзуёси Савадзи"
+        ],
+        "operators": [
+          "Ясуси Сасакибара"
+        ]
+      }
+    },
+    {
       "id": "movie-24772",
       "type": "foreign-movie",
       "link": "",
@@ -266,8 +689,9 @@
           "криминал"
         ],
         "imdb_rating": 5.5,
-        "imdb_votes": 145,
+        "imdb_votes": 144,
         "premiere_world": "2017-12-01",
+        "minimal_age": 0,
         "actors": [
           "Ё Оидзуми",
           "Рюхэй Мацуда",
@@ -3491,8 +3915,9 @@
           "комедия"
         ],
         "imdb_rating": 6.5,
-        "imdb_votes": 704,
+        "imdb_votes": 714,
         "premiere_world": "2018-06-17",
+        "minimal_age": 0,
         "actors": [
           "Хесус Савала",
           "Мауро Моад",
@@ -3513,7 +3938,7 @@
           "Марк Алазраки",
           "Carolina Caicedo",
           "Мария Сервера",
-          "Артуро Диаз Рамос",
+          "Артуро Диас",
           "Иса Гуерра",
           "Джек Мур",
           "Хуан Уручурту",
@@ -3532,7 +3957,7 @@
           "Мойзес Чивер"
         ],
         "composers": [
-          "Benjamin Shwartz"
+          "Бенжамин Шварц"
         ],
         "editors": [
           "Хесус Хьюидобро",
@@ -6598,6 +7023,7 @@
         "genres": [
           "триллер"
         ],
+        "minimal_age": 0,
         "actors": [
           "Аннетт Блум",
           "Давид Бредин",
@@ -8190,404 +8616,6 @@
         ],
         "directors": [
           "Phan Minh"
-        ]
-      }
-    },
-    {
-      "id": "movie-24317",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Миссис МакКатчен",
-      "title_orig": "Mrs McCutcheon",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1030437",
-      "imdb_id": "tt6480442",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-06-18T06:02:55Z",
-      "updated_at": "2018-06-18T06:02:55Z",
-      "material_data": {
-        "title": "Mrs McCutcheon",
-        "year": 2017,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1030437.jpg",
-        "duration": 17,
-        "countries": [
-          "Австралия"
-        ],
-        "genres": [
-          "драма",
-          "комедия",
-          "короткометражка"
-        ],
-        "imdb_rating": 5.9,
-        "imdb_votes": 178,
-        "premiere_world": "2017-05-11",
-        "minimal_age": 0,
-        "actors": [
-          "Koko Crozier",
-          "Ava Allen",
-          "Mikayla Borchard",
-          "Jackson Bremner-Giles",
-          "Hugh Campbell",
-          "Шарина Клэнтон",
-          "Николас Когхлан",
-          "Надин Гарнер",
-          "Вирджиния Гэй",
-          "Alec Golinger"
-        ],
-        "directors": [
-          "Джон Шиди"
-        ],
-        "producers": [
-          "Andre Lima",
-          "Jenny Vila",
-          "Sky Davies"
-        ],
-        "writers": [
-          "Джон Шиди",
-          "Бен Янг"
-        ],
-        "composers": [
-          "Iain Grandage"
-        ],
-        "editors": [
-          "Джоанна Скотт"
-        ],
-        "designers": [
-          "Marg Horwell"
-        ],
-        "operators": [
-          "Sky Davies"
-        ]
-      }
-    },
-    {
-      "id": "movie-24292",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Проказники",
-      "title_orig": "Paavada",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "958386",
-      "imdb_id": "tt5068280",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-06-16T09:15:18Z",
-      "updated_at": "2018-06-18T05:56:11Z",
-      "material_data": {
-        "title": "Проказники",
-        "title_en": "Paavada",
-        "year": 2016,
-        "description": "Джой и Бабу знакомятся в наркологическом центре, где их лечат от алкоголизма. Через несколько дней они сбегают из клиники и становятся закадычными друзьями. Но вскоре обнаруживается, что они связаны друг с другом гораздо теснее, чем можно было предполагать. Джой находит в доме Бабу коробку с кинопленкой фильма, который некогда разрушил жизнь их обоих...",
-        "duration": 147,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "комедия"
-        ],
-        "imdb_rating": 6.2,
-        "imdb_votes": 1301,
-        "premiere_world": "2016-01-15",
-        "minimal_age": 16,
-        "actors": [
-          "Притхвирадж Сукумаран",
-          "Ануп",
-          "Миа Джордж",
-          "Аша Шаратх",
-          "Калабхаван Шаджон",
-          "Binu Adimali",
-          "Мурали Гопи",
-          "Калабхаван Ханиф",
-          "Джаякришнан",
-          "Чимбан Винод Джозе"
-        ],
-        "directors": [
-          "G. Marthandan"
-        ],
-        "producers": [
-          "Манияпилла Раджу"
-        ],
-        "writers": [
-          "Бипин Чандран",
-          "Shibin Francis"
-        ],
-        "composers": [
-          "Aby Tom Cyriac",
-          "Гопи Сундар"
-        ],
-        "editors": [
-          "John Kutty"
-        ],
-        "designers": [
-          "Sameera Saneesh"
-        ],
-        "operators": [
-          "Прадип Нэйр"
-        ]
-      }
-    },
-    {
-      "id": "movie-24319",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Девушка пробуждается",
-      "title_orig": "Girl Asleep",
-      "translation": {
-        "id": 660,
-        "title": "GreenРай Studio",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "866593",
-      "imdb_id": "tt3955894",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-06-18T05:54:29Z",
-      "updated_at": "2018-06-18T05:54:29Z",
-      "material_data": {
-        "title": "Девушка пробуждается",
-        "title_en": "Girl Asleep",
-        "year": 2015,
-        "tagline": "Fifteen is going to turn a corner. It has to.",
-        "description": "Мир надвигается на Грету Дрисколл. Ей скоро 15, но она не может оставить детство - там ей комфортно и спокойно, чего не скажешь о непостижимом и новом мире.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/866593.jpg",
-        "duration": 77,
-        "countries": [
-          "Австралия"
-        ],
-        "genres": [
-          "комедия",
-          "семейный",
-          "фэнтези"
-        ],
-        "kinopoisk_rating": 6.4,
-        "kinopoisk_votes": 323,
-        "imdb_rating": 6.2,
-        "imdb_votes": 2528,
-        "premiere_world": "2015-10-20",
-        "minimal_age": 0,
-        "actors": [
-          "Бетани Витмор",
-          "Harrison Feldman",
-          "Эмбер МакМахон",
-          "Мэттью Уиттэт",
-          "Имон Фэррен",
-          "Тильда Кобэм-Херви",
-          "Имоджен Арчер",
-          "Майя Стюардсон",
-          "Fiona Dawson",
-          "Grace Dawson"
-        ],
-        "directors": [
-          "Розмари Майерс"
-        ],
-        "producers": [
-          "Джо Дайер",
-          "Teena Munn",
-          "Розмари Майерс"
-        ],
-        "writers": [
-          "Мэттью Уиттэт"
-        ],
-        "composers": [
-          "Harry Covill"
-        ],
-        "editors": [
-          "Каррин де Синк"
-        ],
-        "designers": [
-          "Jonathon Oxlade",
-          "Эрика Брайан"
-        ],
-        "operators": [
-          "Эндрю Коммис"
-        ]
-      }
-    },
-    {
-      "id": "movie-24315",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Лучший аромат в мире 2",
-      "title_orig": "Dünyanin En Güzel Kokusu 2",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1102099",
-      "imdb_id": "tt7535900",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2018-06-18T04:49:20Z",
-      "updated_at": "2018-06-18T04:49:20Z",
-      "material_data": {
-        "title": "Лучший аромат в мире 2",
-        "title_en": "Dünyanin En Güzel Kokusu 2",
-        "year": 2017,
-        "description": "После смерти Дерьи, Хакан продолжает жить только ради их общей дочери. Однажды он встречает Джандан, у которой своя душевная боль. Смогут ли они исцелить раны друг друга?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1102099.jpg",
-        "countries": [
-          "Турция"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "imdb_rating": 5.4,
-        "imdb_votes": 581,
-        "premiere_world": "2017-11-03",
-        "actors": [
-          "Рыза Коджаоглу",
-          "Туба Унсал",
-          "Бестемсу Оздемир",
-          "Бурак Алтай",
-          "Эге Айдан",
-          "Эсра Русан",
-          "Биллур Ильмаз"
-        ],
-        "directors": [
-          "Mustafa Ugur Yagcioglu"
-        ],
-        "producers": [
-          "Фират Парлак",
-          "Корай Сахин"
-        ],
-        "writers": [
-          "Mustafa Ugur Yagcioglu"
-        ],
-        "composers": [
-          "Mert Tünay"
-        ]
-      }
-    },
-    {
-      "id": "serial-5452",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Волшебница-медсестра Комуги-тян R",
-      "title_orig": "Nurse Witch Komugi-chan R",
-      "other_title": "Волшебная медсестричка Комугичка R",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "973742",
-      "imdb_id": "tt5347634",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8521",
-      "shikimori_id": "31890",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-01T20:35:25Z",
-      "updated_at": "2018-06-17T22:31:04Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Волшебница-медсестра Комуги-тян R",
-        "title_en": "Nurse Witch Komugi-chan R",
-        "other_titles_jp": [
-          "ナースウィッチ小麦ちゃんR"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2016,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/973742.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/531603c14a85eab2c1b6ea6b00e37ca9a62defb3.jpg",
-          "https://shikimori.one/system/screenshots/original/bd954c91a496c73405ebb5cf090e9313180363ab.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Магия",
-          "Пародия"
-        ],
-        "anime_studios": [
-          "Tatsunoko Production"
-        ],
-        "imdb_rating": 5.8,
-        "imdb_votes": 19,
-        "shikimori_rating": 5.95,
-        "shikimori_votes": 161,
-        "premiere_world": "2016-01-23",
-        "aired_at": "2016-01-10",
-        "released_at": "2016-03-27",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Кэи Томоэ",
-          "Эрии Ямадзаки",
-          "Макото Коити",
-          "Аканэ Кохината",
-          "Даисукэ Намикава",
-          "Эрико Мацуи",
-          "Харуко Момои",
-          "Хироюки Ёсино",
-          "Кэндзи Нодзима",
-          "Кэнта Миякэ"
-        ],
-        "directors": [
-          "Кэйитиро Кавагути"
-        ],
-        "producers": [
-          "Момоко Мураками"
-        ],
-        "writers": [
-          "Кадзуюки Фудэясу",
-          "Момоко Мураками"
-        ],
-        "composers": [
-          "Косукэ Ямасита"
         ]
       }
     }
