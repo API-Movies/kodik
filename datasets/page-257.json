@@ -1,6 +1,814 @@
 {
   "results": [
     {
+      "id": "movie-41737",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Девушка из прошлого",
+      "title_orig": "Yesterday's Girl",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1005928",
+      "imdb_id": "tt6077540",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-03T04:48:45Z",
+      "updated_at": "2019-09-03T04:48:45Z",
+      "material_data": {
+        "title": "Yesterday's Girl",
+        "duration": 89,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "боевик",
+          "триллер",
+          "фантастика"
+        ],
+        "minimal_age": 0,
+        "actors": [
+          "Ёдзи Тацута",
+          "Tayla Holborow",
+          "Грег Кеннеди",
+          "Джон Майкл Бёрдон",
+          "Tobin Bush",
+          "Heidi Bush",
+          "Mitch Connolly",
+          "Frank Oaks",
+          "Dustin Bush",
+          "Daniel Stranger"
+        ],
+        "directors": [
+          "Mike Garrick"
+        ],
+        "producers": [
+          "Steve Heath",
+          "Mike Garrick",
+          "Хэрел Голдштейн",
+          "Чарльз Моррис мл.",
+          "Рик Романо"
+        ],
+        "composers": [
+          "Тико Ласола"
+        ],
+        "editors": [
+          "Eyal Avraham"
+        ],
+        "operators": [
+          "Brendan Quinton"
+        ]
+      }
+    },
+    {
+      "id": "movie-41711",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Особая зона",
+      "title_orig": "Special Zone",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1300860",
+      "imdb_id": "tt10902226",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-02T23:53:22Z",
+      "updated_at": "2019-09-02T23:53:22Z",
+      "material_data": {
+        "title": "Special Zone",
+        "year": 2019,
+        "duration": 88,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "premiere_world": "2019-04-02",
+        "minimal_age": 0,
+        "actors": [
+          "Лени Лань",
+          "Mingwei Hai",
+          "Ят-лонг Ли",
+          "Zhang Zhicheng"
+        ],
+        "directors": [
+          "Ят-лонг Ли"
+        ],
+        "writers": [
+          "Yao Wang"
+        ]
+      }
+    },
+    {
+      "id": "serial-17561",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Отель «Дель Луна»",
+      "title_orig": "Hotel Delluna",
+      "other_title": "Отель дель Луна / Отель Луны / Hotel del Luna",
+      "translation": {
+        "id": 927,
+        "title": "VOICE PROJECT STUDIO",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "1228049",
+      "imdb_id": "tt10220588",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-07-15T01:59:44Z",
+      "updated_at": "2019-09-02T21:06:47Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Отель «Дель Луна»",
+        "title_en": "Hotel Delluna",
+        "year": 2019,
+        "description": "Из-за странного происшествия парень начинает работать менеджером в отеле «Дель Луна». Управляющая отелем - женщина строгая и даже иногда жестока с подчинёнными, а всё потому, что 1000 лет назад на неё было наложено проклятие. Клиентами этого странного отеля являются призраки.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1228049.jpg",
+        "duration": 80,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "мелодрама",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 8,
+        "kinopoisk_votes": 4771,
+        "imdb_rating": 8.2,
+        "imdb_votes": 4031,
+        "premiere_world": "2019-07-13",
+        "minimal_age": 0,
+        "actors": [
+          "Ли Джи-ын",
+          "Ё Джин-гу",
+          "Чо Хён-чхоль",
+          "Пак Ю-на",
+          "Щин Джон-гын",
+          "Пэ Хэ-сон",
+          "Пио",
+          "Кан Ми-на",
+          "Чон Дон-хван",
+          "Со И-сук"
+        ],
+        "directors": [
+          "О Чхун-хван"
+        ],
+        "writers": [
+          "Хон Джон-ын",
+          "Хон Ми-ран"
+        ]
+      }
+    },
+    {
+      "id": "serial-18309",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Цветочки после ягодок 2",
+      "title_orig": "Hana yori dango 2",
+      "other_title": "Цветочки после ягодок 2. Возвращение / Boys over Flowers 2. Returns / Hana yori dango 2. Returns",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2007,
+      "last_season": 1,
+      "last_episode": 11,
+      "episodes_count": 11,
+      "kinopoisk_id": "401467",
+      "imdb_id": "tt0902618",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-09-02T21:04:10Z",
+      "updated_at": "2019-09-02T21:04:10Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Цветочки после ягодок 2",
+        "title_en": "Hana yori dango 2",
+        "year": 2007,
+        "description": "Домёдзи улетел в Америку и поначалу всё шло хорошо. Но три месяца назад он перестал отвечать на звонки. Макино летит в штаты, чтобы лично во всём разобраться. Однако кроме неприятностей она там ничего не находит. Сначала сумку украли, потом на хулиганов нарвалась, а тут ещё и Домёдзи ей заявляет, что вырос и больше не собирается играть в её детские игры. В общем в Японию Макино возвращается одна и с разбитым сердцем.\n\rТем временем мать Цукасы заявляет, что он должен вернуться в Токио, где состоится вечеринка по поводу празднования его дня рождения. Макино также туда приглашает. Но на этом сюрпризы не заканчиваются. На самом приёме она объявляет о помолвке Домёдзи и представляет общественности, и в первую очередь самой Макино, его невесту...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/401467.jpg",
+        "duration": 46,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 8.1,
+        "kinopoisk_votes": 1701,
+        "imdb_rating": 7.9,
+        "imdb_votes": 1540,
+        "premiere_world": "2007-01-05",
+        "minimal_age": 0,
+        "actors": [
+          "Мао Иноуэ",
+          "Дзюн Мацумото",
+          "Сюн Огури",
+          "Сёта Мацуда",
+          "Цуёси Абэ",
+          "Кэйко Ниси",
+          "Мэгуми Сато",
+          "Дэвид Ито",
+          "Эрика Тода",
+          "Марк Чиннери"
+        ],
+        "directors": [
+          "Исии Ясухару",
+          "Тосио Цубои",
+          "Дзюн Муто",
+          "Синити Санжо",
+          "Осаму Катаяма",
+          "Даисукэ Ямамуро"
+        ],
+        "producers": [
+          "Мика Накамура",
+          "Синити Санжо",
+          "Сэтогути Кацуаки"
+        ],
+        "writers": [
+          "Ёко Камио",
+          "Такаюки Такума",
+          "Сюко Арай",
+          "Юки Фудзимото",
+          "Нацуко Такахаси"
+        ],
+        "composers": [
+          "Косукэ Ямасита"
+        ]
+      }
+    },
+    {
+      "id": "serial-17543",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Отель «Дель Луна»",
+      "title_orig": "Hotel Delluna",
+      "other_title": "Отель дель Луна / Отель Луны / Hotel del Luna",
+      "translation": {
+        "id": 639,
+        "title": "SoftBox",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "kinopoisk_id": "1228049",
+      "imdb_id": "tt10220588",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-07-14T09:49:49Z",
+      "updated_at": "2019-09-02T19:39:05Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Отель «Дель Луна»",
+        "title_en": "Hotel Delluna",
+        "year": 2019,
+        "description": "Из-за странного происшествия парень начинает работать менеджером в отеле «Дель Луна». Управляющая отелем - женщина строгая и даже иногда жестока с подчинёнными, а всё потому, что 1000 лет назад на неё было наложено проклятие. Клиентами этого странного отеля являются призраки.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1228049.jpg",
+        "duration": 80,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "мелодрама",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 8,
+        "kinopoisk_votes": 4771,
+        "imdb_rating": 8.2,
+        "imdb_votes": 4031,
+        "premiere_world": "2019-07-13",
+        "minimal_age": 0,
+        "actors": [
+          "Ли Джи-ын",
+          "Ё Джин-гу",
+          "Чо Хён-чхоль",
+          "Пак Ю-на",
+          "Щин Джон-гын",
+          "Пэ Хэ-сон",
+          "Пио",
+          "Кан Ми-на",
+          "Чон Дон-хван",
+          "Со И-сук"
+        ],
+        "directors": [
+          "О Чхун-хван"
+        ],
+        "writers": [
+          "Хон Джон-ын",
+          "Хон Ми-ран"
+        ]
+      }
+    },
+    {
+      "id": "movie-41706",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мерантау",
+      "title_orig": "Merantau",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2009,
+      "kinopoisk_id": "460611",
+      "imdb_id": "tt1368116",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-02T15:20:19Z",
+      "updated_at": "2019-09-02T15:20:19Z",
+      "material_data": {
+        "title": "Мерантау",
+        "title_en": "Merantau",
+        "year": 2009,
+        "tagline": "Every journey must begin with one small step.",
+        "description": "В посёлке Минангкабау, что в Западной Суматре, юноша по имени Юда, изучающий стиль Харимау Силат, находится на финальной стадии подготовки к «Мерантау». Смысл этого древнего обряда заключается в том, что молодые люди при достижении определённого возраста должны забыть обо всех удобствах идиллического посёлка и добиться успеха в городе Джакарта.\n\rПосле ряда неудач, бездомный и лишенный всяких надежд на будущее, Юда случайно спасает сироту Астри от банды европейцев, похитителей людей, которую возглавляют психопат Рэтгер и его помощник Люк.\n\rРаненый в схватке Рэтгер жаждет кровавого возмездия и возврата «живого» товара. Знакомство Юды с городом начинается с «крещения огнем» — ему необходимо скрываться от погони вместе с Астри и ее младшим братом Адитом, а все сутенёры и бандиты, населяющие улицы ночного города, следуют за ними по пятам.\n\rОсознав, что бегство бесполезно, у Юды не остается другого выхода — он должен сразиться с врагами в захватывающем и насыщенном адреналином финале.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/460611.jpg",
+        "duration": 134,
+        "countries": [
+          "Индонезия"
+        ],
+        "genres": [
+          "боевик",
+          "драма"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 2658,
+        "imdb_rating": 6.7,
+        "imdb_votes": 10028,
+        "premiere_world": "2009-08-06",
+        "rating_mpaa": "R",
+        "actors": [
+          "Ико Уайс",
+          "Сиска Джессика",
+          "Кристин Хаким",
+          "Мадс Коудал",
+          "Юсуф Аулиа",
+          "Алекс Аббад",
+          "Яян Рухьян",
+          "Лоран Бюсон",
+          "Донни Аламшя",
+          "Ратна Галих"
+        ],
+        "directors": [
+          "Гарет Эванс"
+        ],
+        "producers": [
+          "Арио Саганторо",
+          "Ранга Майя Барак-Эванс",
+          "Дайванне Ралие"
+        ],
+        "writers": [
+          "Гарет Эванс",
+          "Дайванне Ралие"
+        ],
+        "composers": [
+          "Ария Прайоги",
+          "Фаджар Юскемал"
+        ],
+        "editors": [
+          "Гарет Эванс"
+        ],
+        "operators": [
+          "Мэтт Флэннери"
+        ]
+      }
+    },
+    {
+      "id": "movie-41707",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Буйный",
+      "title_orig": "Nanpokhan girok",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1272313",
+      "imdb_id": "tt10660436",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-02T15:19:45Z",
+      "updated_at": "2019-09-02T15:19:45Z",
+      "material_data": {
+        "title": "Буйный",
+        "title_en": "Nanpokhan girok",
+        "year": 2019,
+        "description": "Бывший детектив, который живет с застрявшим лезвием ножа в голове, северокорейский перебежчик и женщина, чья сестра оказалась в лапах мафии, разыскивают преступного босса с целью отомстить.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1272313.jpg",
+        "duration": 90,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "боевик",
+          "криминал"
+        ],
+        "imdb_rating": 4.7,
+        "imdb_votes": 55,
+        "premiere_world": "2019-07-11",
+        "minimal_age": 0,
+        "actors": [
+          "Чон Ду-хон",
+          "Рю Док-хван",
+          "Со Ын-а",
+          "Чон И-гап",
+          "Ким Са-гвон",
+          "Ким Хэ-ин",
+          "Юн Сын-хун",
+          "Ли Хэ-ён",
+          "Хан Гук-чин",
+          "Чон Ён-ги"
+        ],
+        "directors": [
+          "Ха Вон-джун"
+        ],
+        "editors": [
+          "Ким Ми-джу"
+        ],
+        "designers": [
+          "Ким Ха-гён"
+        ]
+      }
+    },
+    {
+      "id": "movie-41709",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Кардек",
+      "title_orig": "Kardec",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1207277",
+      "imdb_id": "tt9213932",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-02T15:16:29Z",
+      "updated_at": "2019-09-02T15:16:29Z",
+      "material_data": {
+        "title": "Kardec",
+        "year": 2019,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1207277.jpg",
+        "duration": 110,
+        "countries": [
+          "Бразилия"
+        ],
+        "genres": [
+          "биография"
+        ],
+        "imdb_rating": 6.1,
+        "imdb_votes": 1283,
+        "premiere_world": "2019-05-16",
+        "minimal_age": 0,
+        "actors": [
+          "Леонардо Медейрос",
+          "Сандра Корвелони",
+          "Кристиан Бальтосс",
+          "Дэниэл Барселос",
+          "João Barreto",
+          "Lola Bell",
+          "Лола Боргес",
+          "Летисия Брага",
+          "Лоизи Д’Туани",
+          "Генезио де Баррош"
+        ],
+        "directors": [
+          "Вагнер Де Ассис"
+        ],
+        "producers": [
+          "Элиана Соарес",
+          "Мирела Джирарди",
+          "Clarisse Goulart"
+        ],
+        "writers": [
+          "Л.Ж. Байан",
+          "Вагнер Де Ассис"
+        ],
+        "composers": [
+          "Тревор Гурекис"
+        ],
+        "designers": [
+          "Клаудио Амарал Пейшоту",
+          "Helcio Pugliese",
+          "Элис Карвальо"
+        ],
+        "operators": [
+          "Нонато Стела"
+        ]
+      }
+    },
+    {
+      "id": "movie-41676",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Кровь 13",
+      "title_orig": "Xue shi san",
+      "other_title": "Blood 13",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1128648",
+      "imdb_id": "tt6264928",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-02T03:52:58Z",
+      "updated_at": "2019-09-02T15:10:16Z",
+      "material_data": {
+        "title": "Кровь 13",
+        "title_en": "Xue shi san",
+        "year": 2018,
+        "description": "Женщина-детектив Синминь расследует убийство. Жертву нашли в подвале, обескровленную и подвешенную вверх ногами, а полицейский ветеран уверен, что это продолжение серии убийств проституток 15-летней давности, когда он не смог поймать преступника. Синминь недолюбливает представительниц древнейшей профессии по личным причинам, но всё-таки решает сама выступить в качестве приманки для маньяка.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1128648.jpg",
+        "duration": 99,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "детектив",
+          "криминал",
+          "триллер"
+        ],
+        "imdb_rating": 5.6,
+        "imdb_votes": 159,
+        "premiere_world": "2018-06-15",
+        "minimal_age": 0,
+        "actors": [
+          "Хуан Лу",
+          "Се Ган",
+          "Цянь Бо",
+          "Heng Li",
+          "Ли Бинь",
+          "Xiaoran Chang",
+          "Xinhua Chen",
+          "Changwei Chu",
+          "Yafei Dai",
+          "Yan Deng"
+        ],
+        "directors": [
+          "Кэнди Ли"
+        ],
+        "producers": [
+          "Чжао Цянь",
+          "Стив Яндрич"
+        ],
+        "writers": [
+          "Ху Ту"
+        ],
+        "composers": [
+          "Пантавит Кингсири"
+        ],
+        "editors": [
+          "Такаси Утида"
+        ],
+        "designers": [
+          "Xi Chen",
+          "Wei Wu",
+          "Lin Ai"
+        ],
+        "operators": [
+          "Хироюки Хага"
+        ]
+      }
+    },
+    {
+      "id": "movie-41678",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Урияди 2",
+      "title_orig": "Uriyadi 2",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1290621",
+      "imdb_id": "tt10121762",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-09-02T03:54:55Z",
+      "updated_at": "2019-09-02T14:38:54Z",
+      "material_data": {
+        "title": "Uriyadi 2",
+        "year": 2019,
+        "duration": 119,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "боевик",
+          "триллер"
+        ],
+        "imdb_rating": 7.1,
+        "imdb_votes": 721,
+        "premiere_world": "2019-04-05",
+        "minimal_age": 0,
+        "actors": [
+          "Vijay Kumar",
+          "Vismaya",
+          "Судхакар",
+          "Shankar Thas",
+          "Abbas",
+          "Abbas Atto"
+        ],
+        "directors": [
+          "Vijay Kumar"
+        ],
+        "producers": [
+          "Сурья Шивакумар",
+          "Vijay Kumar"
+        ],
+        "writers": [
+          "Vijay Kumar"
+        ],
+        "composers": [
+          "Govind Savantha"
+        ],
+        "editors": [
+          "Linu M."
+        ],
+        "operators": [
+          "N. Praveen Kumar"
+        ]
+      }
+    },
+    {
+      "id": "movie-41662",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Игра окончена",
+      "title_orig": "Game Over",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1202404",
+      "imdb_id": "tt8914492",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-08-31T19:08:02Z",
+      "updated_at": "2019-09-02T12:45:43Z",
+      "material_data": {
+        "title": "Игра окончена",
+        "title_en": "Game Over",
+        "year": 2019,
+        "tagline": "We all have two lives. The second one starts when we realise we only have one.",
+        "description": "На прошлый Новый год Сапна пережила нападение и изнасилование. Большая фанатка классических видеоигр, девушка работает геймдизайнером и уже почти оправилась от произошедшего, только до сих пор испытывает панические атаки при выключенном свете. Внезапно у неё начинает болеть татуировка на руке, которую она сделала именно год назад, когда в округе продолжают происходить ужасные убийства женщин.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1202404.jpg",
+        "duration": 102,
+        "countries": [
+          "Индия",
+          "Турция"
+        ],
+        "genres": [
+          "драма",
+          "криминал",
+          "триллер"
+        ],
+        "imdb_rating": 7.1,
+        "imdb_votes": 6307,
+        "premiere_world": "2019-06-13",
+        "minimal_age": 0,
+        "actors": [
+          "Таапси Панну",
+          "Аниш Курувилла",
+          "Парватхи Т.",
+          "Винодхини Ваидинатхан",
+          "Санчана Натараджан",
+          "Рамья Субраманиан"
+        ],
+        "directors": [
+          "Ашвин Сараванан"
+        ],
+        "producers": [
+          "С. Сашикантх",
+          "Muthuramalingam",
+          "Чакраватхи Рамачандра"
+        ],
+        "writers": [
+          "Рамкумар Каавья",
+          "Суман Кумар",
+          "Shruti Madan",
+          "Ашвин Сараванан",
+          "Kacharla Venkat"
+        ],
+        "composers": [
+          "Рон Этан Ёхаан"
+        ],
+        "editors": [
+          "Ричард Кевин"
+        ],
+        "designers": [
+          "Сива Шанкар",
+          "Н.К. Нандини"
+        ],
+        "operators": [
+          "А. Васант"
+        ]
+      }
+    },
+    {
       "id": "movie-41702",
       "type": "foreign-movie",
       "link": "",
@@ -3446,9 +4254,9 @@
           "триллер"
         ],
         "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 290,
+        "kinopoisk_votes": 295,
         "imdb_rating": 7.6,
-        "imdb_votes": 188,
+        "imdb_votes": 190,
         "premiere_world": "2013-05-27",
         "minimal_age": 0,
         "actors": [
@@ -6337,7 +7145,7 @@
           "музыка"
         ],
         "imdb_rating": 6.7,
-        "imdb_votes": 800,
+        "imdb_votes": 808,
         "premiere_world": "2019-08-09",
         "minimal_age": 0,
         "actors": [
@@ -7214,1138 +8022,6 @@
         ],
         "operators": [
           "Волкан Ак"
-        ]
-      }
-    },
-    {
-      "id": "serial-13333",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Индекс волшебства [ТВ-3]",
-      "title_orig": "Toaru Majutsu no Index III",
-      "other_title": "A Certain Magical Index III",
-      "translation": {
-        "id": 654,
-        "title": "AniFilm",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 3,
-      "last_episode": 26,
-      "episodes_count": 26,
-      "kinopoisk_id": "437359",
-      "imdb_id": "tt1308089",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9416",
-      "shikimori_id": "36432",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2018-11-19T10:56:17Z",
-      "updated_at": "2019-08-24T09:57:25Z",
-      "seasons": {
-        "3": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": "",
-            "26": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Индекс волшебства",
-        "title_en": "To aru majutsu no indekkusu",
-        "other_titles_en": [
-          "A Certain Magical Index III"
-        ],
-        "other_titles_jp": [
-          "とある魔術の禁書目録Ⅲ"
-        ],
-        "anime_license_name": "Некий магический индекс 3",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2008,
-        "description": "Действие разворачивается в параллельном мире, где наука спетена с магией, и сверхъестественные способности давно никого не удивляют. Их носители делятся на две категории: эсперов, которые в результате направленной мутации получили один, пусть и мощный дар, и магов, которые могут быть слабее, но диапазон возможностей у них куда шире. Юных эсперов со всей Японии собирают в единый образовательный центр – город под названием Академия. \n\rТам и учится Тома Камидзё. Дар у парня весьма странный: его правая рука – универсальный негатор, то есть обнуляет любое парафизическое, магическое или божественное воздействие. А раз так, считает Тома, то и немногие крупицы счастья, посылаемые судьбой, до него просто не доходят, и вся его жизнь – полная невезуха. То на телефон наступит, то не с теми парнями свяжется, то обнаружит на перилах собственного балкона на редкость милое и голодное юное создание в костюме монашки.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/437359.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/adc4fb5d318a836e9a2497092656b12f258996a0.png",
-          "https://shikimori.one/system/screenshots/original/fc3e28f17fcff0557fc9304216586c9e6ec6e273.png"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фантастика"
-        ],
-        "anime_genres": [
-          "Магия",
-          "Супер сила",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "J.C.Staff"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 2260,
-        "imdb_rating": 6.9,
-        "imdb_votes": 1582,
-        "shikimori_rating": 6.77,
-        "shikimori_votes": 4154,
-        "premiere_world": "2008-10-04",
-        "aired_at": "2018-10-05",
-        "released_at": "2019-04-05",
-        "rating_mpaa": "PG-13",
-        "minimal_age": 0,
-        "episodes_total": 26,
-        "episodes_aired": 26,
-        "actors": [
-          "Ацуси Абэ",
-          "Юка Игути",
-          "Рина Сато",
-          "Нобухико Окамото",
-          "Кимико Кояма",
-          "Ёсихиса Кавахара",
-          "Кисё Танияма",
-          "Сатоми Араи",
-          "Мамико Ното",
-          "Анри Кацу"
-        ],
-        "directors": [
-          "Масая Кавамо",
-          "Хироси Нисикиори"
-        ],
-        "producers": [
-          "Гэн Фукунага",
-          "Ясутака Кимура",
-          "Кадзума Мики",
-          "Нобухиро Накаяма",
-          "Сатоси Фудзита",
-          "Кохэй Кавасэ",
-          "Наоко Кояма",
-          "Юдзи Мацукура",
-          "З. Чарльз Болтон",
-          "Джастин Кук"
-        ],
-        "writers": [
-          "Масанао Акахоси",
-          "Джон Бургмейер",
-          "Бонни Клинкенберд",
-          "Киётака Хаймура",
-          "Кадзума Камати",
-          "Сэиси Минаками",
-          "Сатору Нисидзоно",
-          "Акира Танидзаки"
-        ],
-        "composers": [
-          "Маико Иути",
-          "Ивэ"
-        ],
-        "editors": [
-          "Сигэру Нисияма"
-        ],
-        "designers": [
-          "Томонори Курода",
-          "Ёсинори Хиросэ"
-        ],
-        "operators": [
-          "Синго Фукуё"
-        ]
-      }
-    },
-    {
-      "id": "serial-17370",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Магмел синего моря",
-      "title_orig": "Gunjou no Magmell",
-      "other_title": "群青のマグメル",
-      "translation": {
-        "id": 739,
-        "title": "Animedia",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "1246754",
-      "imdb_id": "tt9826314",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9685",
-      "shikimori_id": "37806",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-07-05T16:19:47Z",
-      "updated_at": "2019-08-24T09:55:38Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Архипелаг Магмел",
-        "title_en": "Gunjou no Magmell",
-        "other_titles": [
-          "Magmel of the Sea Blue",
-          "Gunjou no Magmel",
-          "Ultramarine Magmell"
-        ],
-        "other_titles_jp": [
-          "群青のマグメル"
-        ],
-        "anime_license_name": "Ультрамариновый Магмел",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2019,
-        "description": "В один прекрасный день случилось чудо — посреди Тихого океана из ниоткуда вдруг появился целый континент! Этот новый материк оказался родным домом для целого сонма новых загадочных видов растений, животных и минералов. Человечество вовсю будоражит от восторга и трясёт от предвкушения приключений. Так начинается новая захватывающая эра первооткрывателей и исследователей!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1246754.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/5094412fd362441ad47d3442d292efb8a77d5399.png",
-          "https://shikimori.one/system/screenshots/original/4aebbdf9caebb40d5590ab43c9a6fc2cfa3b57ea.png"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Приключения",
-          "Супер сила",
-          "Сёнен",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Pierrot Plus"
-        ],
-        "imdb_rating": 6.1,
-        "imdb_votes": 451,
-        "shikimori_rating": 6.04,
-        "shikimori_votes": 2284,
-        "premiere_world": "2019-04-07",
-        "aired_at": "2019-04-07",
-        "released_at": "2019-06-30",
-        "rating_mpaa": "PG-13",
-        "minimal_age": 0,
-        "episodes_total": 13,
-        "episodes_aired": 13,
-        "actors": [
-          "Джонатан Фан",
-          "Мао Итимити",
-          "Кэнго Каваниси",
-          "Тосиюки Морикава",
-          "Кристина Валенсуэла",
-          "Хибику Ямамура",
-          "Мао",
-          "Griffin Puatu"
-        ],
-        "directors": [
-          "Хаято Датэ"
-        ]
-      }
-    },
-    {
-      "id": "serial-18162",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Кэнган Асура",
-      "title_orig": "Kengan Ashura",
-      "other_title": "Асура Кэнгана",
-      "translation": {
-        "id": 910,
-        "title": "AniStar",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1235053",
-      "imdb_id": "tt9058134",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9641",
-      "shikimori_id": "36903",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-08-24T09:52:42Z",
-      "updated_at": "2019-08-24T09:52:42Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Кэнган Асура",
-        "title_en": "Kengan Ashura",
-        "other_titles_jp": [
-          "ケンガンアシュラ"
-        ],
-        "anime_license_name": "Кэнган Асура",
-        "anime_kind": "ona",
-        "anime_status": "released",
-        "year": 2019,
-        "description": "С периода Эдо в Японии проводятся гладиаторские бои. Бизнесмены и купцы нанимают бойцов для участия в рукопашных схватках, где «владелец» победителя получает все. Ома Токита по прозвищу Асура, постоянный участник подобных боев, раз за разом одерживает верх над своими противниками. Это привлекает внимание многих бизнесменов, включая председателя Nogi Group Хидэки Ноги.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1235053.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/d5540a915028ff329390ef9af7315def742d98a1.png",
-          "https://shikimori.one/system/screenshots/original/9333dbdeee4f6e9e1c16b4a2ac073790a3796e2e.png"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Боевые искусства",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Larx Entertainment"
-        ],
-        "kinopoisk_rating": 7.5,
-        "kinopoisk_votes": 1105,
-        "imdb_rating": 8,
-        "imdb_votes": 3344,
-        "shikimori_rating": 7.45,
-        "shikimori_votes": 2354,
-        "premiere_world": "2019-07-31",
-        "aired_at": "2019-07-31",
-        "rating_mpaa": "R",
-        "minimal_age": 18,
-        "episodes_total": 12,
-        "episodes_aired": 0,
-        "actors": [
-          "Тан Каидзи"
-        ],
-        "directors": [
-          "Сэидзи Киси"
-        ],
-        "producers": [
-          "Хироо Маруяма"
-        ],
-        "writers": [
-          "Макото Уэдзу"
-        ]
-      }
-    },
-    {
-      "id": "serial-18155",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Опавший лист",
-      "title_orig": "Bai Mai Tee Plid Plew",
-      "other_title": "Летящий лист / The Fallen Leaf / Bai Mai Tee Bplit Bpliew / The Leaves",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 21,
-      "episodes_count": 1,
-      "kinopoisk_id": "1301876",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-08-24T00:15:07Z",
-      "updated_at": "2019-08-24T00:15:07Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "21": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Опавший лист",
-        "title_en": "Bai Mai Tee Plid Plew",
-        "year": 2019,
-        "description": "Нира – невероятно красивая девушка, которая с легкостью покоряет сердца всех мужчин. Однако никто и не догадывается, что раньше Нира была парнем по имени Вай.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1301876.jpg",
-        "duration": 60,
-        "countries": [
-          "Таиланд"
-        ],
-        "genres": [
-          "мелодрама"
-        ],
-        "premiere_world": "2019-06-10",
-        "minimal_age": 0,
-        "actors": [
-          "Пимчанок Льювайзетпайбун",
-          "Путтичаи Касетсин"
-        ]
-      }
-    },
-    {
-      "id": "serial-18153",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Школьные истории о привидениях",
-      "title_orig": "Gakkô no kaidan",
-      "other_title": "Ghosts At School / Ghost Stories in School / School's Ghost Story / 学校の怪談",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2000,
-      "last_season": 1,
-      "last_episode": 20,
-      "episodes_count": 20,
-      "kinopoisk_id": "724891",
-      "imdb_id": "tt0285368",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=3468",
-      "shikimori_id": "1281",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-08-23T23:55:50Z",
-      "updated_at": "2019-08-23T23:55:50Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Школьные истории о привидениях",
-        "title_en": "Gakkô no kaidan",
-        "other_titles": [
-          "Ghosts at School"
-        ],
-        "other_titles_en": [
-          "Ghost Stories"
-        ],
-        "other_titles_jp": [
-          "学校の怪談"
-        ],
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2000,
-        "description": "Семья Мияносита – вдовый отец и двое детей, дочь Сацуки и сын Кёйсиро – возвращается в родной городок. Сиротам предстоит обживать старый дом и привыкать к новой школе. Но в первый же учебный день Сацуки и Кёйсиро заносит в старинный корпус школы, здание, о котором ходит дурная слава. И они тотчас убеждаются, что означенная слава ветхой постройкой полностью заслужена: мимо них со свистом проносится безголовый байкер, с перекрытий свисают безумные маленькие девочки, а по коридорам бродят ожившие статуи...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/724891.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/1478f3c79591b65058ad05be99221deb284cae4c.jpg",
-          "https://shikimori.one/system/screenshots/original/96bc8cd7ae6a8dec5c72bb7dcd23de68f567d8f7.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "ужасы"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Сверхъестественное",
-          "Ужасы"
-        ],
-        "anime_studios": [
-          "Studio Pierrot"
-        ],
-        "imdb_rating": 7.9,
-        "imdb_votes": 1089,
-        "shikimori_rating": 7.68,
-        "shikimori_votes": 370,
-        "premiere_world": "2000-10-22",
-        "aired_at": "2000-10-22",
-        "released_at": "2001-03-25",
-        "rating_mpaa": "PG-13",
-        "minimal_age": 0,
-        "episodes_total": 19,
-        "episodes_aired": 0,
-        "actors": [
-          "Такако Хонда",
-          "Куруми Мамия",
-          "Томоко Каваками",
-          "Макото Цумура",
-          "Куми Сакума",
-          "Рюсэй Накао",
-          "Ютака Аояма",
-          "Такэхиро Муродзоно",
-          "Котоно Мицуиси",
-          "Бриттни Карбовски"
-        ],
-        "directors": [
-          "Нориюки Абэ",
-          "Акихиро Еномото",
-          "Сигэки Хатакэяма",
-          "Харумэ Косака",
-          "Хироюки Исидо",
-          "Дзёхэй Мацуура",
-          "Сигэнори Кагэяма",
-          "Дзюнъя Косиба",
-          "Акира Иванага"
-        ],
-        "producers": [
-          "Кэн Хагино",
-          "Хидэо Кацумата",
-          "Джон Лэдфорд",
-          "Юрико Накамура",
-          "Юдзи Нунокава",
-          "Кэндзи Симидзу",
-          "Рюдзо Сиракава"
-        ],
-        "writers": [
-          "Стив Фостер",
-          "Хироси Хасимото",
-          "Масаси Сого",
-          "Рёта Ямагути",
-          "Акацуки Яматоя",
-          "Хироко Нака"
-        ],
-        "composers": [
-          "Каору Вада"
-        ],
-        "designers": [
-          "Takeda Shigenori"
-        ],
-        "operators": [
-          "Тосиюки Фукусима"
-        ]
-      }
-    },
-    {
-      "id": "movie-41402",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Проект «Итака»",
-      "title_orig": "Project Ithaca",
-      "translation": {
-        "id": 882,
-        "title": "English",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1038323",
-      "imdb_id": "tt6490930",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-23T11:24:37Z",
-      "updated_at": "2019-08-23T11:24:37Z",
-      "material_data": {
-        "title": "Проект «Итака»",
-        "title_en": "Project Ithaca",
-        "year": 2019,
-        "tagline": "They Were Always Here",
-        "description": "Шестеро незнакомых друг с другом людей оказываются в странном месте. Они не помнят, как сюда попали. Их тела связаны и они не могут пошевелиться. При попытке освободиться натяжение нитей только усиливается. Становится понятно, что они находятся на объекте внеземного происхождения. Однако зачем они здесь и чего от них хотят? Поодиночке они умрут, но если объединятся, то у них есть шанс найти дорогу домой.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1038323.jpg",
-        "duration": 85,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "триллер",
-          "фантастика"
-        ],
-        "kinopoisk_rating": 4.4,
-        "kinopoisk_votes": 8859,
-        "imdb_rating": 4,
-        "imdb_votes": 1089,
-        "premiere_world": "2019-06-07",
-        "rating_mpaa": "R",
-        "minimal_age": 0,
-        "actors": [
-          "Джеймс Гэллэндерс",
-          "Дераг Кэмпбелл",
-          "Дэниэл Фазерс",
-          "Каролина Рейно",
-          "Алекс Вудс",
-          "Конима Паркинсон-Джонс",
-          "Taylor Thorne",
-          "Джон Новак",
-          "Джастин Джеймс Ремейкис",
-          "Hannah Galway"
-        ],
-        "directors": [
-          "Николас Хемфрис"
-        ],
-        "producers": [
-          "Anthony Artibello",
-          "Jason Ross Jallet",
-          "James Milligan",
-          "Kevin C. Bjerkness",
-          "Perry Dellelce",
-          "Paul Flint",
-          "Эсхил Поулос"
-        ],
-        "writers": [
-          "Anthony Artibello",
-          "Kevin C. Bjerkness"
-        ],
-        "composers": [
-          "Oliver Wickham"
-        ],
-        "editors": [
-          "Michael Cunningham"
-        ],
-        "designers": [
-          "Винсент Московец",
-          "Джастин Реу",
-          "Софи Леннокс-Кинг"
-        ],
-        "operators": [
-          "Айзек Эллиот-Фишер"
-        ]
-      }
-    },
-    {
-      "id": "serial-18151",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Апач: жизнь Карлоса Тевеса",
-      "title_orig": "Apache: La vida de Carlos Tevez",
-      "translation": {
-        "id": 611,
-        "title": "ColdFilm",
-        "type": "voice"
-      },
-      "year": 2019,
-      "last_season": 1,
-      "last_episode": 8,
-      "episodes_count": 8,
-      "kinopoisk_id": "1292471",
-      "imdb_id": "tt10715172",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2019-08-23T10:33:41Z",
-      "updated_at": "2019-08-23T10:33:41Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Апач: жизнь Карлоса Тевеса",
-        "title_en": "Apache: La vida de Carlos Tevez",
-        "year": 2019,
-        "description": "Жизнь известного аргентинского футболиста Карлоса Тевеса многим кажется сказкой. Известность и миллионы поклонников по всему миру, занятие любимым делом и финансовая независимость – лишь часть наград за полную отдачу командному спорту. Но вырос Карлос в Буэнос-Айресе в одном из самых криминальных районов города, в котором убийства и наркотики были частью повседневной жизни.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1292471.jpg",
-        "countries": [
-          "Аргентина"
-        ],
-        "genres": [
-          "драма",
-          "криминал",
-          "триллер"
-        ],
-        "imdb_rating": 6.6,
-        "imdb_votes": 1350,
-        "premiere_world": "2019-08-16",
-        "minimal_age": 0,
-        "actors": [
-          "Бальтасар Мурильо",
-          "Ванеса Гонсалес",
-          "Альберто Ахака",
-          "София Гала",
-          "Matías Recalt",
-          "Gregorio Barrios",
-          "Fernando Contigiani García",
-          "Osqui Guzmán",
-          "Diego Gallardo",
-          "Хулиан Ларкьер Телларини"
-        ],
-        "directors": [
-          "Адриан Каэтано"
-        ],
-        "producers": [
-          "Адриана Мартинес Баррон"
-        ],
-        "writers": [
-          "Гизела Бенензон",
-          "Маркос Осорио Видал"
-        ],
-        "composers": [
-          "Diego Caetano Guerra"
-        ],
-        "editors": [
-          "Анабелла Латтанцио",
-          "Mariano Saban"
-        ],
-        "designers": [
-          "Juan Giribaldi"
-        ]
-      }
-    },
-    {
-      "id": "serial-18010",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "В объезд",
-      "title_orig": "The Detour",
-      "translation": {
-        "id": 935,
-        "title": "TUMBLER Studio",
-        "type": "voice"
-      },
-      "year": 2016,
-      "last_season": 4,
-      "last_episode": 10,
-      "episodes_count": 4,
-      "kinopoisk_id": "927628",
-      "imdb_id": "tt4903242",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2016-06-03T08:48:24Z",
-      "updated_at": "2019-08-23T10:20:42Z",
-      "seasons": {
-        "4": {
-          "link": "",
-          "episodes": {
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "В объезд",
-        "title_en": "The Detour",
-        "year": 2016,
-        "tagline": "Life has no safe word.",
-        "description": "История небольшой семьи с двумя детьми, которая решила отправиться в долгое путешествие от родного дома прямиком до Флориды. Путь непростой, но герои всегда оптимистичны - они верят в себя, а их путь благоволит им. Кажется, что впереди их ждет долгая дорога, полная интересных открытий. Однако поездка оказывается не такой удачной! Вскоре положительный настрой сменяется упадническими чувствами, ведь героев начинают преследовать неудачи... одна за другой. И отбоя от них нет!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/927628.jpg",
-        "duration": 30,
-        "genres": [
-          "комедия",
-          "приключения"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 690,
-        "imdb_rating": 7.8,
-        "imdb_votes": 6112,
-        "premiere_world": "2016-04-11",
-        "minimal_age": 0,
-        "actors": [
-          "Джейсон Джонс",
-          "Натали Зи",
-          "Эшли Герасимович",
-          "Лайам Кэрролл",
-          "Даниэлла Пинеда",
-          "Лаура Бенанти",
-          "Макс Казелла",
-          "Фил Ривз",
-          "Мэри Грилл",
-          "Мамуду Ати"
-        ],
-        "directors": [
-          "Бреннан Шрофф",
-          "Джейсон Джонс",
-          "Джефф Томсич",
-          "Дэйл Штерн",
-          "Стив Пинк",
-          "Джо Кесслер",
-          "Натали Зи",
-          "Тимоти Гринберг"
-        ],
-        "producers": [
-          "Тони Эрнандез",
-          "Чад Картер",
-          "Джейсон Джонс",
-          "Саманта Би",
-          "Бреннан Шрофф",
-          "Майкл Фрислев",
-          "Чад Оакес",
-          "Дэвид Бауш",
-          "Пол Леонардо мл.",
-          "Йен Бергер"
-        ],
-        "writers": [
-          "Саманта Би",
-          "Джейсон Джонс",
-          "Джесс Лочер",
-          "Чад Картер",
-          "Майк Бивер",
-          "Бреннан Шрофф",
-          "Нина Бебер",
-          "Kristy Lopez-Bernal",
-          "Moujan Zolfaghari",
-          "Йен Бергер"
-        ],
-        "composers": [
-          "Роб Колар"
-        ],
-        "editors": [
-          "Эдвард Чин",
-          "Эрика Фрид",
-          "Элизабет Меррик",
-          "Джесси Гордон",
-          "Lilli Janney",
-          "John Rafanelli"
-        ],
-        "designers": [
-          "Ив Коли",
-          "Рик Робертс",
-          "Тинк",
-          "Джон Дьюхигг Кокс",
-          "Marion Spencer",
-          "Jessica Fish",
-          "Тейлор Беннетт",
-          "Ник Франконе",
-          "Эрин Догерти",
-          "Кэрол Кейс"
-        ],
-        "operators": [
-          "Джо Кесслер",
-          "Джонатан Фурмаски",
-          "Уолт Ллойд"
-        ]
-      }
-    },
-    {
-      "id": "movie-41389",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Доктор Джекилл и мистер Хайд",
-      "title_orig": "Dr. Jekyll and Mr. Hyde",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2008,
-      "kinopoisk_id": "401941",
-      "imdb_id": "tt1159984",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-23T08:53:18Z",
-      "updated_at": "2019-08-23T08:53:18Z",
-      "material_data": {
-        "title": "Доктор Джекилл и мистер Хайд",
-        "title_en": "Dr. Jekyll and Mr. Hyde",
-        "year": 2008,
-        "tagline": "Everyone has a dark side",
-        "description": "Молодой адвокат Клэр Уитон получает предложение от очень странного человека. Преуспевающий учёный Генри Джекилл просит защитить его в суде по обвинению в серии убийств. Он утверждает, что все эти преступления совершило его вырвавшееся на свободу тёмное начало - мистер Эдвард Хайд. Решив, что имеет дело с сумасшедшим, Клэр пытается избавиться от ненормального клиента.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/401941.jpg",
-        "duration": 89,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "триллер",
-          "ужасы",
-          "фантастика"
-        ],
-        "kinopoisk_rating": 5.4,
-        "kinopoisk_votes": 408,
-        "imdb_rating": 4.7,
-        "imdb_votes": 1168,
-        "premiere_world": "2008-01-06",
-        "minimal_age": 16,
-        "actors": [
-          "Дюгрей Скотт",
-          "Криста Бриджес",
-          "Том Скеррит",
-          "Дэннетт Маккэй",
-          "Кэс Анвар",
-          "Эллен Дэвид",
-          "Власта Врана",
-          "Йен Финлэй",
-          "Кэтлин Фи",
-          "Патрик Костильо"
-        ],
-        "directors": [
-          "Паоло Барзмен"
-        ],
-        "producers": [
-          "Роберт Холми ст.",
-          "Ирен Литинский",
-          "Джесси Прупас",
-          "Майкл Прупас",
-          "Франсуа Сильвестр"
-        ],
-        "writers": [
-          "Пол Б. Маргулис",
-          "Роберт Льюис Стивенсон"
-        ],
-        "composers": [
-          "Фм Ле Сюр"
-        ],
-        "editors": [
-          "Энни Илков"
-        ],
-        "designers": [
-          "Зои Сакелларопуло",
-          "Пьер Перро",
-          "Марианн Картер"
-        ],
-        "operators": [
-          "Пьер Джодоин"
-        ]
-      }
-    },
-    {
-      "id": "movie-41391",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Бог игроков 2",
-      "title_orig": "Dou san 2",
-      "translation": {
-        "id": 712,
-        "title": "Проф. Двухголосый",
-        "type": "voice"
-      },
-      "year": 1994,
-      "kinopoisk_id": "5339",
-      "imdb_id": "tt0109683",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-23T08:38:19Z",
-      "updated_at": "2019-08-23T08:38:19Z",
-      "material_data": {
-        "title": "Бог игроков 2",
-        "title_en": "Dou san 2",
-        "year": 1994,
-        "description": "Ко Чун после событий первой части ушел из мира карточных игр и последние четыре года жил во Франции, где и познакомился со своей нынешней женой, как две капли воды похожей на его девушку из первой части. У них должен родиться ребенок, но из тюрьмы выходит Чау Сиу Линг, карточный игрок, претендующий на благотворительный фонд в 16 миллиардов долларов, который должен перейти во власть того, кто станет Королем Азартных игр. \n\rСиу Линг убивает жену Ко Чуна, и перед смертью она берет с Ко обещание не играть и не раскрывать, кто он есть на самом деле, в течение одного года. Ко этот год проводит в путешествиях, но буквально за две недели до истечения срока обещания, знакомится с главой игорного дома в Тайване, который пытается прибрать к рукам как раз Чау Сиу Линг. Ко решает помочь им, но пока он не может раскрыть свою личность, он берет себе в подручные двух мошенников от карт...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/5339.jpg",
-        "duration": 126,
-        "countries": [
-          "Гонконг"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "комедия"
-        ],
-        "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 470,
-        "imdb_rating": 6.8,
-        "imdb_votes": 2404,
-        "premiere_world": "1994-12-15",
-        "minimal_age": 0,
-        "actors": [
-          "Чоу Юнь-Фат",
-          "Тони Люн Ка-Фай",
-          "Жаклин Нг",
-          "Чарльз Хён",
-          "Чингми Яу",
-          "Син-куо Ву",
-          "Шарла Чун",
-          "Блэки Ко",
-          "Чан Чи Фай Санни",
-          "Лау Ка-Ин"
-        ],
-        "directors": [
-          "Вон Цзин"
-        ],
-        "producers": [
-          "Чарльз Хён",
-          "Джимми Хеунг",
-          "Айви Кон"
-        ],
-        "writers": [
-          "Вон Цзин"
-        ],
-        "composers": [
-          "Лоуэлл Ло"
-        ],
-        "editors": [
-          "Пун Хун"
-        ],
-        "designers": [
-          "Алекс Мок",
-          "Джейсон Мок"
-        ],
-        "operators": [
-          "Дэвид Чунг",
-          "Гиго Ли",
-          "Юнхен Хуан"
-        ]
-      }
-    },
-    {
-      "id": "movie-41371",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Большие шары",
-      "title_orig": "Gutterballs",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2008,
-      "kinopoisk_id": "396202",
-      "imdb_id": "tt1087853",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-08-23T08:33:56Z",
-      "updated_at": "2019-08-23T08:33:56Z",
-      "material_data": {
-        "title": "Большие шары",
-        "title_en": "Gutterballs",
-        "year": 2008,
-        "tagline": "Do You Have The Balls?",
-        "description": "Во время дискотеки в одной из популярных боулинг клубов происходит садистское изнасилование с последующими убийствами. Один за другим игроки двух команд встречают свою отвратительную и ужасную смерть в лице убийцы в маске и в перчатках для боулинга. К утру весь клуб перекрашивается в кровавый цвет.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/396202.jpg",
-        "duration": 96,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "комедия",
-          "спорт",
-          "ужасы"
-        ],
-        "kinopoisk_rating": 3,
-        "kinopoisk_votes": 232,
-        "imdb_rating": 4.6,
-        "imdb_votes": 3189,
-        "premiere_world": "2008-01-18",
-        "minimal_age": 18,
-        "actors": [
-          "Аластер Гэмбл",
-          "Михола Терзич",
-          "Нэйтан Уитти",
-          "Вэйд Гибб",
-          "Кэндис Леуолд",
-          "Джереми Беланд",
-          "Тревор Джемма",
-          "Нэйтан Дэшвуд",
-          "Скотт Алонсо",
-          "Джимми Блэ"
-        ],
-        "directors": [
-          "Райан Николсон"
-        ],
-        "producers": [
-          "Грэйс Ван",
-          "Мишель Грэйди",
-          "Рой Николсон",
-          "Райан Николсон",
-          "Дэн Уолтон"
-        ],
-        "writers": [
-          "Райан Николсон"
-        ],
-        "composers": [
-          "Патрик Кобл",
-          "Стив Мур"
-        ],
-        "editors": [
-          "Ларс Симкинс"
-        ],
-        "designers": [
-          "Ларс Симкинс",
-          "Доун Грэй",
-          "Колин Фотерби"
-        ],
-        "operators": [
-          "Марк Аткинс"
         ]
       }
     }
