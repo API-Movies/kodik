@@ -1,6 +1,474 @@
 {
   "results": [
     {
+      "id": "serial-28964",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Рай Сэнгоку",
+      "title_orig": "Sengoku Paradise: Kiwami",
+      "other_title": "戦国☆パラダイス -極-",
+      "translation": {
+        "id": 1408,
+        "title": "Симбад",
+        "type": "voice"
+      },
+      "year": 2011,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "678784",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1471",
+      "shikimori_id": "11547",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-08-24T15:21:22Z",
+      "updated_at": "2020-08-24T15:21:22Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Утопия Сенгоку: Дальние края",
+        "title_en": "Sengoku Paradise: Kiwami",
+        "other_titles_jp": [
+          "戦国☆パラダイス-極-（きわみ）"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2011,
+        "description": "Забавные истории из жизни военачальников эпохи Сенгоку.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/678784.jpg",
+        "duration": 3,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "комедия",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Драма",
+          "Исторический",
+          "Комедия",
+          "Романтика",
+          "Самураи",
+          "Сёдзё",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Milky Cartoon",
+          "LMD"
+        ],
+        "shikimori_rating": 6.06,
+        "shikimori_votes": 80,
+        "premiere_world": "2011-10-04",
+        "aired_at": "2011-10-04",
+        "released_at": "2012-03-27",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 0,
+        "episodes_total": 26,
+        "episodes_aired": 0,
+        "actors": [
+          "Асами Имаи",
+          "Даити Канбара",
+          "Даисукэ Намикава",
+          "Дзюнити Янагида",
+          "Канэхира Ямамото",
+          "Рёта Осака",
+          "Таиси Мурата",
+          "Такуя Эгути",
+          "Тэцуя Какихара",
+          "Хатано Ватару"
+        ],
+        "directors": [
+          "Кацуя Кикути"
+        ],
+        "writers": [
+          "Гуия Ота"
+        ]
+      }
+    },
+    {
+      "id": "movie-59370",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Соблазнительница",
+      "title_orig": "La Seductora",
+      "translation": {
+        "id": 819,
+        "title": "AlphaProject",
+        "type": "voice"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1217033",
+      "imdb_id": "tt9342622",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-24T15:20:06Z",
+      "updated_at": "2020-08-24T15:20:06Z",
+      "material_data": {
+        "title": "La Seductora",
+        "year": 2020,
+        "duration": 96,
+        "countries": [
+          "Мексика"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "premiere_world": "2020-06-12",
+        "minimal_age": 0,
+        "actors": [
+          "Кандела Маркес",
+          "Педро Морено",
+          "Марио Сарагоса",
+          "Paty Blanco",
+          "Эктор Котсифакис",
+          "Анхель Сото",
+          "Matt Blanher",
+          "Карлос Сегура",
+          "Рикардо Морено Вилья",
+          "Joel Navarro"
+        ],
+        "directors": [
+          "Гонсало Гонзалез"
+        ],
+        "producers": [
+          "Tony Gonzaga",
+          "Carolina Bilbao",
+          "Гонсало Гонзалез",
+          "Джеймс М. МакНамара",
+          "Педжман Парьели",
+          "Valeria Viera"
+        ],
+        "writers": [
+          "Эрик Эрнандез"
+        ],
+        "editors": [
+          "Даниэль Карвахаль"
+        ],
+        "designers": [
+          "Dioselvina Marinett Espino"
+        ],
+        "operators": [
+          "Jorge Roman"
+        ]
+      }
+    },
+    {
+      "id": "movie-59371",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Королева чёрной магии",
+      "title_orig": "Ratu Ilmu Hitam",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1287167",
+      "imdb_id": "tt10656188",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-24T15:19:38Z",
+      "updated_at": "2020-08-24T15:19:38Z",
+      "material_data": {
+        "title": "Королева чёрной магии",
+        "title_en": "Ratu Ilmu Hitam",
+        "year": 2019,
+        "description": "Ханиф с семьёй едет в детский дом, где он вырос, повидаться со стареньким больным директором приюта и по дороге сбивает оленя. Туда же приезжают два его друга детства с жёнами. Приютские дети отправились на автобусе на экскурсию, а одна из оставшихся девочек рассказывает сыну Ханифа местную легенду о хромой воспитательнице, которую уличили в использовании чёрной магии. Вся компания планирует остаться на ночь, но Ханифу не даёт покоя сбитый олень. Вместе с другом он отправляется на то место и обнаруживает окровавленную девочку возле дороги, а чуть дальше — автобус с детьми. Но все они мертвы.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1287167.jpg",
+        "duration": 99,
+        "countries": [
+          "Индонезия"
+        ],
+        "genres": [
+          "ужасы"
+        ],
+        "kinopoisk_rating": 5.7,
+        "kinopoisk_votes": 405,
+        "imdb_rating": 6.6,
+        "imdb_votes": 1279,
+        "premiere_world": "2019-11-07",
+        "minimal_age": 0,
+        "actors": [
+          "Арио Баю",
+          "Ханна аль Рашид",
+          "Адистри Зара",
+          "Музакки Рамдан",
+          "Ари Ирхам",
+          "Адэ Фирман Хаким",
+          "Шейла Дара Аиша",
+          "Танта Гинтин",
+          "Миллер Кхан",
+          "Имельда Теринн"
+        ],
+        "directors": [
+          "Кимо Стамбол"
+        ],
+        "producers": [
+          "Гопе Т. Самтани",
+          "Прия Н.К.",
+          "Вики В. Олиндо",
+          "Сунар С. Самтани",
+          "Сунил Самтани",
+          "Лани Сонда"
+        ],
+        "writers": [
+          "Джоко Анвар"
+        ],
+        "composers": [
+          "Юдхи Арфани",
+          "Фаджар Юскемал"
+        ],
+        "editors": [
+          "Арифин Куунк"
+        ],
+        "designers": [
+          "Рико Марпаун",
+          "Алди Харра"
+        ],
+        "operators": [
+          "Патрик Ташадиан"
+        ]
+      }
+    },
+    {
+      "id": "movie-59372",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Раскрываясь перед тобой",
+      "title_orig": "Letting You Know Me",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1176582",
+      "imdb_id": "tt8258662",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-24T15:18:36Z",
+      "updated_at": "2020-08-24T15:18:36Z",
+      "material_data": {
+        "title": "Letting You Know Me",
+        "year": 2018,
+        "duration": 88,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "premiere_world": "2018-11-05",
+        "minimal_age": 0,
+        "actors": [
+          "Thomas Bradley",
+          "Кирби Бёрджесс",
+          "Эмили Хэвеа",
+          "Yvette Lee",
+          "Donna Turner"
+        ],
+        "directors": [
+          "Линкольн Холл"
+        ],
+        "producers": [
+          "Линкольн Холл"
+        ],
+        "writers": [
+          "Линкольн Холл"
+        ],
+        "composers": [
+          "Grace Huie Robbins"
+        ],
+        "editors": [
+          "Линкольн Холл"
+        ],
+        "operators": [
+          "Reuben van Weeren"
+        ]
+      }
+    },
+    {
+      "id": "movie-59374",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Существа",
+      "title_orig": "Nilalang",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "954893",
+      "imdb_id": "tt5216674",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-24T15:14:03Z",
+      "updated_at": "2020-08-24T15:14:03Z",
+      "material_data": {
+        "title": "Существа",
+        "title_en": "Nilalang",
+        "year": 2015,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/954893.jpg",
+        "duration": 90,
+        "countries": [
+          "Филиппины"
+        ],
+        "genres": [
+          "боевик",
+          "триллер",
+          "ужасы"
+        ],
+        "imdb_rating": 4.6,
+        "imdb_votes": 168,
+        "premiere_world": "2015-12-25",
+        "minimal_age": 0,
+        "actors": [
+          "Сесар Монтано",
+          "Мария Одзава",
+          "Мэг Империал",
+          "Ям Консепшн",
+          "Чоло Барретто",
+          "Дидо де ла Пас",
+          "Kiko Matos",
+          "Обри Майлз",
+          "Джефф Центари",
+          "Александр Шарле"
+        ],
+        "directors": [
+          "Pedring Lopez"
+        ],
+        "producers": [
+          "Rex Lopez",
+          "Roy Lopez",
+          "Pedring Lopez",
+          "Трой Монтеро",
+          "Wesley Villarica",
+          "Maia Yambao",
+          "Ава Яп"
+        ],
+        "writers": [
+          "Pedring Lopez",
+          "Dennis Empalmado"
+        ],
+        "composers": [
+          "Jessie Lasaten"
+        ],
+        "editors": [
+          "Jason Cahapay"
+        ],
+        "designers": [
+          "Mimi Sanson Viola"
+        ],
+        "operators": [
+          "Пао Орендаин"
+        ]
+      }
+    },
+    {
+      "id": "movie-59375",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "20 лет: разведена и великолепна",
+      "title_orig": "Veinteañera: Divorciada y Fantástica",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2020,
+      "kinopoisk_id": "1212442",
+      "imdb_id": "tt7909434",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-08-24T15:12:58Z",
+      "updated_at": "2020-08-24T15:12:58Z",
+      "material_data": {
+        "title": "Veinteañera: Divorciada y Fantástica",
+        "year": 2020,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1212442.jpg",
+        "duration": 93,
+        "countries": [
+          "Мексика"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "imdb_rating": 5.1,
+        "imdb_votes": 230,
+        "premiere_world": "2020-03-13",
+        "minimal_age": 0,
+        "actors": [
+          "Паулина Гото",
+          "Хесус Савала",
+          "Вадир Дербес",
+          "Natalia Téllez",
+          "Эла Вельден",
+          "Хиселья Кури",
+          "Ana Gonzalez Bello",
+          "Эдуардо Арроюэло",
+          "Хуан Карлос Баррето",
+          "Клаудио Рокка"
+        ],
+        "directors": [
+          "Noé Santillán-López"
+        ],
+        "producers": [
+          "Jose Manuel Flandes",
+          "Хосе Альберто Лопез",
+          "Владимир Флорес"
+        ],
+        "writers": [
+          "Jose Manuel Flandes",
+          "Хуан Карлос Гарсон",
+          "Angélica Gudiño",
+          "Хосе Альберто Лопез"
+        ],
+        "composers": [
+          "Дэн Злотник"
+        ],
+        "editors": [
+          "Паоло Карбальяр",
+          "Вероника Лопес Эскалона"
+        ],
+        "designers": [
+          "Juan Carlos Castillo",
+          "Наоми Креспо"
+        ],
+        "operators": [
+          "Марио Галлегос",
+          "Emmanuel Guerrero"
+        ]
+      }
+    },
+    {
       "id": "serial-26581",
       "type": "foreign-serial",
       "link": "",
@@ -225,7 +693,7 @@
           "A-1 Pictures"
         ],
         "shikimori_rating": 7.19,
-        "shikimori_votes": 4736,
+        "shikimori_votes": 4739,
         "aired_at": "2013-08-16",
         "rating_mpaa": "PG-13",
         "episodes_total": 1,
@@ -476,7 +944,7 @@
         "imdb_rating": 7,
         "imdb_votes": 536,
         "shikimori_rating": 6.97,
-        "shikimori_votes": 5251,
+        "shikimori_votes": 5255,
         "premiere_world": "2020-04-05",
         "aired_at": "2020-04-05",
         "released_at": "2020-06-21",
@@ -3782,7 +4250,7 @@
           "мультфильм"
         ],
         "kinopoisk_rating": 6,
-        "kinopoisk_votes": 125,
+        "kinopoisk_votes": 127,
         "minimal_age": 0,
         "actors": [
           "Ефим Кациров",
@@ -6451,441 +6919,6 @@
         "rating_mpaa": "PG-13",
         "episodes_total": 1,
         "episodes_aired": 0
-      }
-    },
-    {
-      "id": "movie-59277",
-      "type": "anime",
-      "link": "",
-      "title": "С днем рождения! Жизнь как вспышка",
-      "title_orig": "Happy Birthday Inochi Kagayaku Toki",
-      "other_title": "ハッピーバースデー 命かがやく瞬間",
-      "translation": {
-        "id": 1391,
-        "title": "Кошка БесТиЯ & codevip",
-        "type": "voice"
-      },
-      "year": 1999,
-      "kinopoisk_id": "417671",
-      "imdb_id": "tt0829187",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7318",
-      "shikimori_id": "9931",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-23T05:48:26Z",
-      "updated_at": "2020-08-23T05:48:26Z",
-      "material_data": {
-        "title": "С днем рождения! Жизнь как вспышка",
-        "title_en": "Happy Birthday Inochi Kagayaku Toki",
-        "other_titles": [
-          "С днём рождения! Жизнь как вспышка"
-        ],
-        "other_titles_en": [
-          "Re-Birthday"
-        ],
-        "other_titles_jp": [
-          "ハッピーバースデー 命かがやく瞬間"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 1999,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/417671.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/5b90b9e3e119917d2b414257ba2043cbb1c2eb86.jpg",
-          "https://shikimori.one/system/screenshots/original/09380a5483fa486db72525ff246b5a23636d61fd.jpg"
-        ],
-        "duration": 79,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Детское",
-          "Драма",
-          "Повседневность"
-        ],
-        "anime_studios": [
-          "Magic Bus"
-        ],
-        "imdb_rating": 7,
-        "imdb_votes": 12,
-        "shikimori_rating": 7.15,
-        "shikimori_votes": 132,
-        "premiere_world": "1999-07-27",
-        "aired_at": "1999-07-27",
-        "rating_mpaa": "G",
-        "minimal_age": 0,
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Набуко Сакума",
-          "Рэико Тадзима"
-        ],
-        "directors": [
-          "Сатоси Дэдзаки"
-        ],
-        "producers": [
-          "Содзабуро Кацура"
-        ],
-        "editors": [
-          "Нобутакэ Камия"
-        ]
-      }
-    },
-    {
-      "id": "movie-59276",
-      "type": "anime",
-      "link": "",
-      "title": "Да! Милое лекарство 5 — Вперёд! Радостный день рождения в стране сладостей",
-      "title_orig": "Iesu! Purikyua 5 gô gô! Okashi no kuni no happî bâsudei",
-      "other_title": "Eiga Yes! Precure 5 GoGo! Okashi no Kuni no Happy Birthday / Yes! Precure 5 GoGo! Happy Birthday in the Land of Sweets",
-      "translation": {
-        "id": 1322,
-        "title": "Helona",
-        "type": "voice"
-      },
-      "year": 2008,
-      "kinopoisk_id": "431060",
-      "imdb_id": "tt1319629",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7235",
-      "shikimori_id": "4703",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-23T05:47:06Z",
-      "updated_at": "2020-08-23T05:47:06Z",
-      "material_data": {
-        "title": "Iesu! Purikyua 5 gô gô! Okashi no kuni no happî bâsudei",
-        "title_en": "",
-        "other_titles": [
-          "Eiga Yes! Pretty Cure 5 GoGo!: Okashi no Kuni no Happy Birthday",
-          "Eiga Yes! Pretty Cure 5 GoGo!: Happy Birthday in the Sweets Kingdom"
-        ],
-        "other_titles_jp": [
-          "映画　Yes! プリキュア５ GoGo! お菓子の国のハッピーバースデイ"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2008,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/431060.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/bd921dd4fa8c042167d7927ec82f1968150d2675.jpg",
-          "https://shikimori.one/system/screenshots/original/a76a3157d0014df4028b8c16ba3e9521a1c3839e.jpg"
-        ],
-        "duration": 75,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Детское",
-          "Магия",
-          "Романтика",
-          "Супер сила",
-          "Сёдзё",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Toei Animation"
-        ],
-        "imdb_rating": 6.8,
-        "imdb_votes": 16,
-        "shikimori_rating": 7.21,
-        "shikimori_votes": 45,
-        "premiere_world": "2008-11-08",
-        "aired_at": "2008-11-08",
-        "rating_mpaa": "G",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Мария Исэ",
-          "Аи Маэда",
-          "Аи Нагано",
-          "Юко Санпэи",
-          "Дзюнко Такэути"
-        ],
-        "directors": [
-          "Тацуя Нагаминэ"
-        ],
-        "producers": [
-          "Харуки Накаяма",
-          "Хироси Такахаси",
-          "Katsunobu Watanabe"
-        ]
-      }
-    },
-    {
-      "id": "movie-59275",
-      "type": "anime",
-      "link": "",
-      "title": "Диоксиновое лето",
-      "title_orig": "Inochi no Chikyuu: Dioxin no Natsu",
-      "other_title": "Tracing the Gray Summer",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2001,
-      "kinopoisk_id": "263671",
-      "imdb_id": "tt0829134",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7319",
-      "shikimori_id": "9495",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-22T23:03:04Z",
-      "updated_at": "2020-08-22T23:03:04Z",
-      "material_data": {
-        "title": "Диоксиновое лето",
-        "title_en": "Inochi no Chikyuu: Dioxin no Natsu",
-        "other_titles_en": [
-          "The Summer of Dioxin"
-        ],
-        "other_titles_jp": [
-          "いのちの地球 ダイオキシンの夏"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2001,
-        "description": "Действие фильма разворачивается вокруг техногенной катастрофы около итальянского города Севезо в 1976 году. Компания из пяти подростков пытается разобраться, чем же их всех травят.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/263671.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/fcd9b4dd8deb8f4dd2cb6bf4b73d454b1a920aff.jpg",
-          "https://shikimori.one/system/screenshots/original/39ea313e6af90c8502e51d8d6ccce3b2a24ab944.jpg"
-        ],
-        "duration": 83,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма"
-        ],
-        "anime_studios": [
-          "Magic Bus"
-        ],
-        "shikimori_rating": 6.43,
-        "shikimori_votes": 75,
-        "premiere_world": "2001-08-18",
-        "aired_at": "2001-08-18",
-        "minimal_age": 0,
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Тиэко Байсё",
-          "Аи Орикаса",
-          "Набуко Сакума",
-          "Сидзука Сасаки",
-          "Юри Сиратори"
-        ],
-        "directors": [
-          "Сатоси Дэдзаки"
-        ],
-        "producers": [
-          "Содзабуро Кацура"
-        ],
-        "editors": [
-          "Нобутакэ Камия"
-        ]
-      }
-    },
-    {
-      "id": "movie-59274",
-      "type": "anime",
-      "link": "",
-      "title": "Несравненная принцесса любви OVA-1",
-      "title_orig": "Koihime Musou OVA",
-      "other_title": "Несравненная принцесса любви ОВА",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2009,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7250",
-      "shikimori_id": "5305",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-22T22:58:52Z",
-      "updated_at": "2020-08-22T22:58:52Z",
-      "material_data": {
-        "title": "Несравненная принцесса любви OVA",
-        "title_en": "Koihime†Musou: Gunyuu, Seitoukaichou no Za wo Neratte Aiarasou no Koto - Ato, Porori mo Aru yo!",
-        "other_titles": [
-          "Koihime†Musou OVA"
-        ],
-        "other_titles_jp": [
-          "恋姫†無双 群雄, 生徒会長の座を狙って相争うのこと ~あと, ポロリもあるよ!~"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "poster_url": "https://shikimori.one/system/animes/original/5305.jpg",
-        "anime_genres": [
-          "Комедия",
-          "Фэнтези",
-          "Школа",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Doga Kobo"
-        ],
-        "shikimori_rating": 6.65,
-        "shikimori_votes": 162,
-        "aired_at": "2009-04-01",
-        "rating_mpaa": "R+",
-        "episodes_total": 1,
-        "episodes_aired": 0
-      }
-    },
-    {
-      "id": "movie-59273",
-      "type": "anime",
-      "link": "",
-      "title": "Несносные пришельцы: Соревнования по плаванию с препятствиями",
-      "title_orig": "Urusei Yatsura: Za Shougaibutsu Suiei Taikai",
-      "translation": {
-        "id": 1436,
-        "title": "Rise",
-        "type": "voice"
-      },
-      "year": 2008,
-      "kinopoisk_id": "1018267",
-      "imdb_id": "tt6332034",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7808",
-      "shikimori_id": "6567",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-22T22:57:34Z",
-      "updated_at": "2020-08-22T22:57:34Z",
-      "material_data": {
-        "title": "Несносные пришельцы: Соревнования по плаванию с препятствиями",
-        "title_en": "Urusei Yatsura: Za Shougaibutsu Suiei Taikai",
-        "other_titles": [
-          "Urusei Yatsura: Za Shougaibutsu Suiei Taikai",
-          "Urusei Yatsura: The Obstacle Course Swim Meet",
-          "It's a Rumic World: Urusei Yatsura"
-        ],
-        "other_titles_jp": [
-          "ザ障害物水泳大会"
-        ],
-        "anime_kind": "special",
-        "anime_status": "released",
-        "year": 2008,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1018267.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/4243841f60124e8b407a1e83bfd7f56cb485a07f.jpg",
-          "https://shikimori.one/system/screenshots/original/412f2538de59f1e719c79d77babaa2b5ee10d3b0.jpg"
-        ],
-        "duration": 30,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Романтика",
-          "Фантастика",
-          "Школа",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Sunrise"
-        ],
-        "shikimori_rating": 7.09,
-        "shikimori_votes": 78,
-        "premiere_world": "2008-12-23",
-        "aired_at": "2008-12-23",
-        "rating_mpaa": "PG-13",
-        "minimal_age": 0,
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Тосио Фурукава",
-          "Мэгуми Хаясибара",
-          "Фуми Хирано",
-          "Акира Камия",
-          "Мами Кояма",
-          "Юко Мита",
-          "Норико Охара",
-          "Саэко Симадзу",
-          "Кадзуко Сугияма",
-          "Каппэи Ямагути"
-        ],
-        "directors": [
-          "Ёситомо Ёнэтани"
-        ],
-        "writers": [
-          "Румико Такахаси",
-          "Митико Ёкотэ"
-        ]
-      }
-    },
-    {
-      "id": "movie-59272",
-      "type": "anime",
-      "link": "",
-      "title": "Вместе с господином OVA-1",
-      "title_orig": "Tono to Issho OVA",
-      "other_title": "殿といっしょ OVA",
-      "translation": {
-        "id": 564,
-        "title": "OSLIKt",
-        "type": "voice"
-      },
-      "year": 2010,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7723",
-      "shikimori_id": "7591",
-      "quality": "TVRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-22T22:56:23Z",
-      "updated_at": "2020-08-22T22:56:23Z",
-      "material_data": {
-        "title": "Вместе с господином OVA",
-        "title_en": "Tono to Issho",
-        "other_titles_jp": [
-          "殿といっしょ"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "description": "Существует множество комедий, происходящих в период Сэнгоку, и пародий на исторических персонажей того времени. Но «Вместе с господином» в абсурдности переплюнула, пожалуй, их всех. Масамунэ Датэ, помешанный на повязках? Здесь. Кэнсин Уэсуги, расхаживающий в костюме Дораэмона? Здесь. Исторические факты выворачиваются наизнанку и придумываются на ходу. Такого вы ещё не видели!",
-        "poster_url": "https://shikimori.one/system/animes/original/7591.jpg",
-        "anime_genres": [
-          "Исторический",
-          "Комедия",
-          "Пародия",
-          "Самураи",
-          "Сейнен"
-        ],
-        "anime_studios": [
-          "Gathering"
-        ],
-        "shikimori_rating": 6.55,
-        "shikimori_votes": 100,
-        "aired_at": "2010-03-25",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 1
       }
     }
   ]

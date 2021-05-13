@@ -1,6 +1,440 @@
 {
   "results": [
     {
+      "id": "movie-2053",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мэри и Макс",
+      "title_orig": "Mary and Max",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2009,
+      "kinopoisk_id": "378246",
+      "imdb_id": "tt0978762",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2014-09-22T21:03:21Z",
+      "updated_at": "2016-05-17T09:29:12Z",
+      "material_data": {
+        "title": "Мэри и Макс",
+        "title_en": "Mary and Max",
+        "year": 2009,
+        "tagline": "Two unlikely people. Two different worlds come together in a story about a most unusual friendship.",
+        "description": "История отношений 8-летней девочки Мэри Динкль, которая скучает в пригороде далекого австралийского Мельбурна, и Макса Хоровица, 44-летнего одинокого еврея, жителя шумного нью-йоркского хаоса. Разделенные разницей в возрасте и двумя континентами, Мэри и Макс проносят свою необычную дружбу через годы.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/378246.jpg",
+        "duration": 92,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "драма",
+          "комедия",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 7.9,
+        "kinopoisk_votes": 28405,
+        "imdb_rating": 8.1,
+        "imdb_votes": 165781,
+        "premiere_ru": "2009-12-03",
+        "premiere_world": "2009-01-15",
+        "minimal_age": 16,
+        "actors": [
+          "Кристофер Мэсси",
+          "Oliver Marks",
+          "Daisy Kocher",
+          "Daniel Marks",
+          "Хамиш Хьюз",
+          "Дэн Доэрти",
+          "Джули Форсайт",
+          "Mandy Mao",
+          "Эрик Бана",
+          "Патрик МакКейб"
+        ],
+        "directors": [
+          "Адам Бенжамин Эллиот"
+        ],
+        "producers": [
+          "Эйн Каннинг",
+          "Мелани Кумбс",
+          "Марк Гудер",
+          "Пол Хардарт",
+          "Том Хардарт",
+          "Генри Карджалайнен",
+          "Эндрю Маки",
+          "Брайс Мензес",
+          "Джонатан Пейдж",
+          "Ричард Пейтен"
+        ],
+        "writers": [
+          "Адам Бенжамин Эллиот"
+        ],
+        "composers": [
+          "Дэйл Корнелиус"
+        ],
+        "editors": [
+          "Билл Мерфи"
+        ],
+        "designers": [
+          "Адам Бенжамин Эллиот",
+          "Крэйг Фисон",
+          "Изабель Пеппард",
+          "Клер Теннант"
+        ],
+        "operators": [
+          "Джералд Томпсон"
+        ]
+      }
+    },
+    {
+      "id": "serial-764",
+      "type": "russian-cartoon-serial",
+      "link": "",
+      "title": "Ну, погоди!",
+      "title_orig": "Ну, погоди!",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1969,
+      "last_season": 1,
+      "last_episode": 2,
+      "episodes_count": 2,
+      "kinopoisk_id": "470109",
+      "imdb_id": "tt1315588",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2016-05-16T17:23:16Z",
+      "updated_at": "2016-05-16T17:23:16Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Ну, погоди!",
+        "year": 1969,
+        "description": "Первый сюжет, из которого вырос знаменитый сериал. Здесь зайчик - малыш в коляске, а Волк только начинает свою знаменитую погоню.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/470109.jpg",
+        "duration": 3,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 6.8,
+        "kinopoisk_votes": 2192,
+        "imdb_rating": 7.6,
+        "imdb_votes": 244,
+        "minimal_age": 0,
+        "directors": [
+          "Геннадий Сокольский"
+        ],
+        "writers": [
+          "Аркадий Хайт",
+          "Феликс Камов",
+          "Александр Курляндский"
+        ],
+        "designers": [
+          "Геннадий Сокольский"
+        ]
+      }
+    },
+    {
+      "id": "movie-6195",
+      "type": "soviet-cartoon",
+      "link": "",
+      "title": "Шел трамвай десятый номер",
+      "title_orig": "Шел трамвай десятый номер",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1974,
+      "kinopoisk_id": "477524",
+      "imdb_id": "tt7416992",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-04-26T11:12:58Z",
+      "updated_at": "2016-05-16T17:18:33Z",
+      "material_data": {
+        "title": "Шел трамвай десятый номер",
+        "title_en": "",
+        "year": 1974,
+        "description": "В стихотворной форме рассказывается о пионере Николае, уступившем место старушке...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/477524.jpg",
+        "duration": 15,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 391,
+        "minimal_age": 12,
+        "actors": [
+          "Олег Анофриев",
+          "Мария Виноградова"
+        ],
+        "directors": [
+          "Наталия Голованова"
+        ],
+        "writers": [
+          "Сергей Михалков",
+          "Владимир Голованов"
+        ],
+        "composers": [
+          "Юрий Саульский"
+        ],
+        "editors": [
+          "Б. Герасимова"
+        ],
+        "designers": [
+          "Вячеслав Наумов"
+        ],
+        "operators": [
+          "Борис Котов"
+        ]
+      }
+    },
+    {
+      "id": "movie-6196",
+      "type": "soviet-cartoon",
+      "link": "",
+      "title": "Что там под маской?",
+      "title_orig": "Что там под маской?",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1991,
+      "kinopoisk_id": "478641",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-04-26T11:15:20Z",
+      "updated_at": "2016-05-16T16:39:53Z",
+      "material_data": {
+        "title": "Что там под маской?",
+        "year": 1991,
+        "description": "Сюжет строится на взаимоотношениях актеров традиционной комедии дель арте на сцене и за кулисами.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/478641.jpg",
+        "duration": 19,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "minimal_age": 0,
+        "directors": [
+          "Станислав Соколов"
+        ],
+        "writers": [
+          "Михаил Липскеров"
+        ],
+        "composers": [
+          "Игорь Егиков"
+        ],
+        "designers": [
+          "Елена Ливанова"
+        ],
+        "operators": [
+          "Вадим Прудников",
+          "Александр Виханский"
+        ]
+      }
+    },
+    {
+      "id": "serial-3093",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Темное дитя",
+      "title_orig": "Orphan Black",
+      "translation": {
+        "id": 666,
+        "title": "To4ka",
+        "type": "voice"
+      },
+      "year": 2013,
+      "last_season": 3,
+      "last_episode": 10,
+      "episodes_count": 30,
+      "kinopoisk_id": "725538",
+      "imdb_id": "tt2234222",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-01-25T17:18:51Z",
+      "updated_at": "2016-05-16T08:42:47Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+          }
+        },
+        "2": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+          }
+        },
+        "3": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Темное дитя",
+        "title_en": "Orphan Black",
+        "year": 2013,
+        "tagline": "She's been duped.",
+        "description": "Сара - сирота, которой выпало перенести немало лишений в жизни. Лишенная родительской любви и заботы, Сара чувствует себя отрешенной от этого мира, в котором, как ей кажется, она никому не нужна. Нет ни единого человека, который бы заботился о ней. Но вот и без того нерадостная жизнь девушки однажды омрачается одним трагическим происшествием. Сара невольно становится свидетельницей того, как молодая женщина накладывает на себя руки. Самое страшное - покойная пугающе похожа на саму Сару. Сара совершает странный поступок - она заменяет собой погибшую, выдав себя за неё. Но это становится началом ряда несчастливых событий, которые лишь добавляют Саре проблем. Но на этом не заканчивается. Сара понимает, что она и погибшая не только невероятно похожи друг на друга…",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/725538.jpg",
+        "duration": 43,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "боевик",
+          "драма",
+          "фантастика"
+        ],
+        "kinopoisk_rating": 7.7,
+        "kinopoisk_votes": 9377,
+        "imdb_rating": 8.3,
+        "imdb_votes": 102172,
+        "premiere_world": "2013-03-30",
+        "minimal_age": 0,
+        "actors": [
+          "Татьяна Маслани",
+          "Джордан Джаварис",
+          "Мария Дойл Кеннеди",
+          "Дилан Брюс",
+          "Кевин Ханчард",
+          "Кристиан Бруун",
+          "Скайлер Уэкслер",
+          "Josh Vokey",
+          "Эри Миллен",
+          "Эвелин Брошу"
+        ],
+        "directors": [
+          "Джон Фоусет",
+          "Дэвид Фрэйзи",
+          "Кен Джиротти",
+          "Т.Дж. Скотт",
+          "Грант Харви",
+          "Хелен Шейвер",
+          "Аарон Мортон",
+          "Дэвид Уэллингтон",
+          "Бретт Салливан",
+          "Крис Грисмер"
+        ],
+        "producers": [
+          "Керри Эпплярд",
+          "Джон Фоусет",
+          "Дэвид Фортье",
+          "Алекс Ливайн",
+          "Грэм Мэнсон",
+          "Иван Шнеберг",
+          "Клер Уэлланд",
+          "МакКензи Дональдсон",
+          "Татьяна Маслани",
+          "Расс Кокрейн"
+        ],
+        "writers": [
+          "Kim Coghill",
+          "Эндрю Де Анджелис",
+          "Jeff Detsky",
+          "Джон Фоусет",
+          "Адам Хиггс",
+          "Алекс Ливайн",
+          "Bob Mackowycz Jr.",
+          "Грэм Мэнсон",
+          "Элиз Морган",
+          "Peter Rowley"
+        ],
+        "composers": [
+          "Тревор Юил"
+        ],
+        "editors": [
+          "Jay Prychidny",
+          "Д. Джиллиан Трастер",
+          "Бретт Салливан",
+          "Реджинальд Харкема",
+          "Стивен Лоуренс",
+          "Стивен Филипсон",
+          "Стефен Рок",
+          "Мэттью Анас"
+        ],
+        "designers": [
+          "Джон Дондертмэн",
+          "Йен Брок",
+          "Михаэла Чейн",
+          "Джоди Линн Клемент",
+          "Ким Карон",
+          "Дебра Хэнсон",
+          "Лори Дрю",
+          "Элизабет Колдерхед",
+          "Энди Лоу"
+        ],
+        "operators": [
+          "Аарон Мортон",
+          "Дэвид Фрэйзи",
+          "Майкл Маршалл"
+        ]
+      }
+    },
+    {
       "id": "movie-8772",
       "type": "russian-movie",
       "link": "",
@@ -5690,10 +6124,11 @@
           "приключения",
           "фантастика"
         ],
-        "imdb_rating": 6.7,
-        "imdb_votes": 1049,
+        "imdb_rating": 4.3,
+        "imdb_votes": 526,
         "premiere_world": "2015-10-10",
         "rating_mpaa": "R",
+        "minimal_age": 0,
         "actors": [
           "Адам Ти Перкинс",
           "Кира Кейн",
@@ -7431,337 +7866,6 @@
         ],
         "operators": [
           "Thamnoon Ar-Taroprayoon"
-        ]
-      }
-    },
-    {
-      "id": "movie-7656",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Высокая горка",
-      "title_orig": "Высокая горка",
-      "translation": {
-        "id": 592,
-        "title": "Михалев",
-        "type": "voice"
-      },
-      "year": 1951,
-      "kinopoisk_id": "45971",
-      "imdb_id": "tt0218706",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-10-08T05:42:34Z",
-      "updated_at": "2015-10-08T05:42:34Z",
-      "material_data": {
-        "title": "Высокая горка",
-        "year": 1951,
-        "description": "По мотивам рассказа В.Бианки.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/45971.jpg",
-        "duration": 20,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "детский",
-          "короткометражка",
-          "мультфильм",
-          "семейный"
-        ],
-        "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 1946,
-        "imdb_rating": 7.4,
-        "imdb_votes": 55,
-        "minimal_age": 0,
-        "actors": [
-          "Ирина Гошева",
-          "Георгий Вицин",
-          "Анастасия Зуева",
-          "Клементина Ростовцева"
-        ],
-        "directors": [
-          "Леонид Амальрик",
-          "Владимир Полковников"
-        ],
-        "writers": [
-          "Михаил Вольпин",
-          "Григорий Колтунов",
-          "Виталий Бианки"
-        ],
-        "composers": [
-          "Виктор Оранский"
-        ],
-        "editors": [
-          "А. Фирсова"
-        ],
-        "designers": [
-          "Александр Трусов"
-        ],
-        "operators": [
-          "Михаил Друян"
-        ]
-      }
-    },
-    {
-      "id": "movie-3945",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Китайский квартал Чолон",
-      "title_orig": "Bui Doi Cho Lon",
-      "translation": {
-        "id": 815,
-        "title": "Двухголосый",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "730917",
-      "imdb_id": "tt2592594",
-      "quality": "Workprint-AVC",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2014-12-20T21:01:10Z",
-      "updated_at": "2015-09-30T17:29:56Z",
-      "material_data": {
-        "title": "Китайский квартал Чолон",
-        "title_en": "Bui doi Cho Lon",
-        "year": 2013,
-        "description": "Отсидевший 10 лет в тюрьме Лам вспоминает о своём детстве и юности. Лам вырос со своим старшим братом Хунгом в самом криминальном районе Хошимина - в китайском квартале Тёлоне. Их отец рано умер и так братья стали «буйдоями» - безотцовщиной, отверженными беспризорниками большого южного вьетнамского города-порта. Старший брат Хунг стал главарём уличной банды всего Тёлона. Его так и стали называть - Хунг Тёлон. Хунг учил Лама не сдаваться в драках. Но Лам в детстве был хилым, слабым и безвольным. Когда Лам подрос и стал молодым парнем, он ушёл от брата из Тёлона. Но криминальный мир не отпускает буйдоев так просто. Однажды Лам завёл знакомство с девушкой Хыонг. А Хыонг оказалась подругой Тая - влиятельного главаря другой большой банды Хошимина, распространявшей наркотики по всему городу. Ламу с Хыонг ничего не оставалось делать, как спасаться бегством на территорию Тёлона под защиту брата Хунга Тёлона.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/730917.jpg",
-        "duration": 85,
-        "countries": [
-          "Вьетнам"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "криминал"
-        ],
-        "imdb_rating": 6.8,
-        "imdb_votes": 412,
-        "premiere_world": "2013-04-01",
-        "minimal_age": 0,
-        "actors": [
-          "Long Dien",
-          "Ha Hien",
-          "Бич Фонг Хюн",
-          "Хоанг Фук Нгуен",
-          "Джонни Нгуен",
-          "Кейт Нюнг"
-        ],
-        "directors": [
-          "Чарли Нгуен"
-        ],
-        "producers": [
-          "Мартин Нгуйен",
-          "Джимми Пэм",
-          "Дженни Тран Ле",
-          "Thanh Truc «Tawny» Nguyen",
-          "Хьеп Тонг"
-        ],
-        "writers": [
-          "Чарли Нгуен"
-        ],
-        "composers": [
-          "Кристофер Вон"
-        ],
-        "editors": [
-          "Куок Бао Тран"
-        ],
-        "designers": [
-          "Тран Трунг Лин"
-        ],
-        "operators": [
-          "Таль Лазар"
-        ]
-      }
-    },
-    {
-      "id": "movie-7537",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Аммар: Заказ джина",
-      "title_orig": "Ammar",
-      "translation": {
-        "id": 613,
-        "title": "DeadSno & den904",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "840112",
-      "imdb_id": "tt3594510",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-09-25T17:07:38Z",
-      "updated_at": "2015-09-25T17:07:38Z",
-      "material_data": {
-        "title": "Аммар: Заказ джина",
-        "title_en": "Ammar",
-        "year": 2014,
-        "description": "Фериде и её соседка решили провести выходные с друзьями в загородном доме. Но кто бы мог подумать, что обычный уик-энд превратится в демонический ужас со сверхъестественными головоломками и пугающими событиями в лабиринте страха.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/840112.jpg",
-        "duration": 81,
-        "countries": [
-          "Турция"
-        ],
-        "genres": [
-          "ужасы"
-        ],
-        "kinopoisk_rating": 3.5,
-        "kinopoisk_votes": 122,
-        "imdb_rating": 4,
-        "imdb_votes": 567,
-        "premiere_world": "2014-03-21",
-        "actors": [
-          "Озан Акбаба",
-          "Alican Cokogur",
-          "Дилшах Демир",
-          "Юнус Эмре Денизоглу",
-          "Селим Эрдоган",
-          "Берке Хюрджан",
-          "Nezahat Oynar",
-          "Дуйгу Параджыкоглу",
-          "Сезаи Параджиоглу",
-          "Eylül Su Sapan"
-        ],
-        "directors": [
-          "Özgür Bakar"
-        ],
-        "producers": [
-          "Sami Dündar",
-          "Ebru Hamamcioglu"
-        ],
-        "writers": [
-          "Özgür Bakar",
-          "Alper Kivicim"
-        ],
-        "editors": [
-          "Мустафа Прешева"
-        ],
-        "designers": [
-          "Джанан Озкан",
-          "Nilay Kocak"
-        ],
-        "operators": [
-          "Угур Каплан"
-        ]
-      }
-    },
-    {
-      "id": "movie-7529",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Кинотеатр ужаса",
-      "title_orig": "Admission by Guts",
-      "translation": {
-        "id": 694,
-        "title": "Береговых",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "927614",
-      "imdb_id": "tt6448408",
-      "quality": "HDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-09-23T20:54:07Z",
-      "updated_at": "2015-09-23T20:54:07Z",
-      "material_data": {
-        "title": "Кинотеатр ужаса",
-        "title_en": "Admission by Guts",
-        "year": 2015,
-        "description": "Однажды, несколько молодых людей идут к полуночи смотреть фильм ужасов в кинотеатр. Неожиданно, фильм ужасов перевоплощается в реальность.",
-        "poster_url": "https://st.kp.yandex.net/images/film_iphone/iphone360_927614.jpg",
-        "duration": 84,
-        "countries": [
-          "Китай"
-        ],
-        "genres": [
-          "триллер"
-        ],
-        "kinopoisk_rating": 3.5,
-        "kinopoisk_votes": 85,
-        "premiere_world": "2015-06-19"
-      }
-    },
-    {
-      "id": "movie-7528",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Тайна двухколесного экипажа ",
-      "title_orig": "The Mystery of a Hansom Cab",
-      "translation": {
-        "id": 816,
-        "title": "Одноголосый",
-        "type": "voice"
-      },
-      "year": 2012,
-      "kinopoisk_id": "684136",
-      "imdb_id": "tt2174072",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-09-23T20:51:42Z",
-      "updated_at": "2015-09-23T20:51:42Z",
-      "material_data": {
-        "title": "Тайна двухколесного экипажа",
-        "title_en": "The Mystery of a Hansom Cab",
-        "year": 2012,
-        "description": "История убийства в Мельбурне (Австралия), в которой тело убитого было обнаружено вечером внутри двухколесного экипажа.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/684136.jpg",
-        "duration": 100,
-        "countries": [
-          "Австралия"
-        ],
-        "genres": [
-          "драма",
-          "криминал",
-          "триллер"
-        ],
-        "kinopoisk_rating": 6,
-        "kinopoisk_votes": 150,
-        "imdb_rating": 6.1,
-        "imdb_votes": 374,
-        "premiere_world": "2012-10-28",
-        "minimal_age": 0,
-        "actors": [
-          "Джон Уотерс",
-          "Marco Chiappi",
-          "Шэйн Джейкобсон",
-          "Джессика Де Гау",
-          "Оливер Экланд",
-          "Челси Престон-Крейфорд",
-          "Феликс Уильямсон",
-          "Чарли Казинс",
-          "Джерри Коннолли",
-          "Хелен Морс"
-        ],
-        "directors": [
-          "Шон Сит"
-        ],
-        "producers": [
-          "Марго МакДональд",
-          "Ивэн Барнетт",
-          "Кристофер Гист",
-          "Carole Sklan"
-        ],
-        "writers": [
-          "Глен Долмэн",
-          "Фергус Хьюм"
-        ],
-        "composers": [
-          "Цезари Скубижевски"
-        ],
-        "editors": [
-          "Денис Харатзис"
-        ],
-        "designers": [
-          "Отелло Стольфо",
-          "Лэнс Уайтхаус",
-          "Венди Корк"
-        ],
-        "operators": [
-          "Джэмс Грант"
         ]
       }
     }

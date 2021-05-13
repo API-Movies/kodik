@@ -1,6 +1,454 @@
 {
   "results": [
     {
+      "id": "serial-29180",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Вихрь",
+      "title_orig": "Bhanwar",
+      "translation": {
+        "id": 948,
+        "title": "Crazy Cat studio",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 8,
+      "episodes_count": 8,
+      "imdb_id": "tt12798292",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-09-03T06:51:47Z",
+      "updated_at": "2020-09-03T06:51:47Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": ""
+          }
+        }
+      }
+    },
+    {
+      "id": "movie-59891",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Крокодил Данди",
+      "title_orig": "Crocodile Dundee",
+      "translation": {
+        "id": 779,
+        "title": "Первый канал",
+        "type": "voice"
+      },
+      "year": 1986,
+      "kinopoisk_id": "8126",
+      "imdb_id": "tt0090555",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-03T06:43:28Z",
+      "updated_at": "2020-09-03T06:43:28Z",
+      "material_data": {
+        "title": "Крокодил Данди",
+        "title_en": "Crocodile Dundee",
+        "year": 1986,
+        "tagline": "The Wizard of Auz hits The Big Apple!",
+        "description": "Американская журналистка приезжает в глубинку Австралии, и охотник на крокодилов знакомит ее с местными достопримечательностями. Она же приглашает его в Нью-Йорк, и там отважный охотник попадает в неведомые ему джунгли...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/8126.jpg",
+        "duration": 97,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "боевик",
+          "комедия",
+          "приключения"
+        ],
+        "kinopoisk_rating": 7.2,
+        "kinopoisk_votes": 27506,
+        "imdb_rating": 6.6,
+        "imdb_votes": 93815,
+        "premiere_world": "1986-04-24",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 12,
+        "actors": [
+          "Пол Хоган",
+          "Линда Козловски",
+          "Джон Майллон",
+          "Дэвид Галпилил",
+          "Ричи Сингер",
+          "Мэгги Блинко",
+          "Дональд Керр",
+          "Джерри Скилтон",
+          "Терри Гилл",
+          "Питер Тернбулл"
+        ],
+        "directors": [
+          "Питер Фэймен"
+        ],
+        "producers": [
+          "Джон Корнелл",
+          "Джейн Скотт",
+          "Вейн Янг"
+        ],
+        "writers": [
+          "Кен Шэди",
+          "Джон Корнелл",
+          "Пол Хоган"
+        ],
+        "composers": [
+          "Питер Бест"
+        ],
+        "editors": [
+          "Дэвид Стивен"
+        ],
+        "designers": [
+          "Грэм «Грэйс» Уолкер",
+          "Норма Морисо"
+        ],
+        "operators": [
+          "Рассел Бойд"
+        ]
+      }
+    },
+    {
+      "id": "movie-59890",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Крокодил Данди",
+      "title_orig": "Crocodile Dundee",
+      "translation": {
+        "id": 728,
+        "title": "НТВ",
+        "type": "voice"
+      },
+      "year": 1986,
+      "kinopoisk_id": "8126",
+      "imdb_id": "tt0090555",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-03T06:42:45Z",
+      "updated_at": "2020-09-03T06:42:45Z",
+      "material_data": {
+        "title": "Крокодил Данди",
+        "title_en": "Crocodile Dundee",
+        "year": 1986,
+        "tagline": "The Wizard of Auz hits The Big Apple!",
+        "description": "Американская журналистка приезжает в глубинку Австралии, и охотник на крокодилов знакомит ее с местными достопримечательностями. Она же приглашает его в Нью-Йорк, и там отважный охотник попадает в неведомые ему джунгли...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/8126.jpg",
+        "duration": 97,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "боевик",
+          "комедия",
+          "приключения"
+        ],
+        "kinopoisk_rating": 7.2,
+        "kinopoisk_votes": 27506,
+        "imdb_rating": 6.6,
+        "imdb_votes": 93815,
+        "premiere_world": "1986-04-24",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 12,
+        "actors": [
+          "Пол Хоган",
+          "Линда Козловски",
+          "Джон Майллон",
+          "Дэвид Галпилил",
+          "Ричи Сингер",
+          "Мэгги Блинко",
+          "Дональд Керр",
+          "Джерри Скилтон",
+          "Терри Гилл",
+          "Питер Тернбулл"
+        ],
+        "directors": [
+          "Питер Фэймен"
+        ],
+        "producers": [
+          "Джон Корнелл",
+          "Джейн Скотт",
+          "Вейн Янг"
+        ],
+        "writers": [
+          "Кен Шэди",
+          "Джон Корнелл",
+          "Пол Хоган"
+        ],
+        "composers": [
+          "Питер Бест"
+        ],
+        "editors": [
+          "Дэвид Стивен"
+        ],
+        "designers": [
+          "Грэм «Грэйс» Уолкер",
+          "Норма Морисо"
+        ],
+        "operators": [
+          "Рассел Бойд"
+        ]
+      }
+    },
+    {
+      "id": "movie-59889",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Крокодил Данди",
+      "title_orig": "Crocodile Dundee",
+      "translation": {
+        "id": 1018,
+        "title": "DDV",
+        "type": "voice"
+      },
+      "year": 1986,
+      "kinopoisk_id": "8126",
+      "imdb_id": "tt0090555",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-03T06:42:09Z",
+      "updated_at": "2020-09-03T06:42:09Z",
+      "material_data": {
+        "title": "Крокодил Данди",
+        "title_en": "Crocodile Dundee",
+        "year": 1986,
+        "tagline": "The Wizard of Auz hits The Big Apple!",
+        "description": "Американская журналистка приезжает в глубинку Австралии, и охотник на крокодилов знакомит ее с местными достопримечательностями. Она же приглашает его в Нью-Йорк, и там отважный охотник попадает в неведомые ему джунгли...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/8126.jpg",
+        "duration": 97,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "боевик",
+          "комедия",
+          "приключения"
+        ],
+        "kinopoisk_rating": 7.2,
+        "kinopoisk_votes": 27506,
+        "imdb_rating": 6.6,
+        "imdb_votes": 93815,
+        "premiere_world": "1986-04-24",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 12,
+        "actors": [
+          "Пол Хоган",
+          "Линда Козловски",
+          "Джон Майллон",
+          "Дэвид Галпилил",
+          "Ричи Сингер",
+          "Мэгги Блинко",
+          "Дональд Керр",
+          "Джерри Скилтон",
+          "Терри Гилл",
+          "Питер Тернбулл"
+        ],
+        "directors": [
+          "Питер Фэймен"
+        ],
+        "producers": [
+          "Джон Корнелл",
+          "Джейн Скотт",
+          "Вейн Янг"
+        ],
+        "writers": [
+          "Кен Шэди",
+          "Джон Корнелл",
+          "Пол Хоган"
+        ],
+        "composers": [
+          "Питер Бест"
+        ],
+        "editors": [
+          "Дэвид Стивен"
+        ],
+        "designers": [
+          "Грэм «Грэйс» Уолкер",
+          "Норма Морисо"
+        ],
+        "operators": [
+          "Рассел Бойд"
+        ]
+      }
+    },
+    {
+      "id": "movie-59888",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Крокодил Данди",
+      "title_orig": "Crocodile Dundee",
+      "translation": {
+        "id": 782,
+        "title": "СТС",
+        "type": "voice"
+      },
+      "year": 1986,
+      "kinopoisk_id": "8126",
+      "imdb_id": "tt0090555",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-03T06:41:25Z",
+      "updated_at": "2020-09-03T06:41:25Z",
+      "material_data": {
+        "title": "Крокодил Данди",
+        "title_en": "Crocodile Dundee",
+        "year": 1986,
+        "tagline": "The Wizard of Auz hits The Big Apple!",
+        "description": "Американская журналистка приезжает в глубинку Австралии, и охотник на крокодилов знакомит ее с местными достопримечательностями. Она же приглашает его в Нью-Йорк, и там отважный охотник попадает в неведомые ему джунгли...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/8126.jpg",
+        "duration": 97,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "боевик",
+          "комедия",
+          "приключения"
+        ],
+        "kinopoisk_rating": 7.2,
+        "kinopoisk_votes": 27506,
+        "imdb_rating": 6.6,
+        "imdb_votes": 93815,
+        "premiere_world": "1986-04-24",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 12,
+        "actors": [
+          "Пол Хоган",
+          "Линда Козловски",
+          "Джон Майллон",
+          "Дэвид Галпилил",
+          "Ричи Сингер",
+          "Мэгги Блинко",
+          "Дональд Керр",
+          "Джерри Скилтон",
+          "Терри Гилл",
+          "Питер Тернбулл"
+        ],
+        "directors": [
+          "Питер Фэймен"
+        ],
+        "producers": [
+          "Джон Корнелл",
+          "Джейн Скотт",
+          "Вейн Янг"
+        ],
+        "writers": [
+          "Кен Шэди",
+          "Джон Корнелл",
+          "Пол Хоган"
+        ],
+        "composers": [
+          "Питер Бест"
+        ],
+        "editors": [
+          "Дэвид Стивен"
+        ],
+        "designers": [
+          "Грэм «Грэйс» Уолкер",
+          "Норма Морисо"
+        ],
+        "operators": [
+          "Рассел Бойд"
+        ]
+      }
+    },
+    {
+      "id": "movie-59887",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Крокодил Данди",
+      "title_orig": "Crocodile Dundee",
+      "translation": {
+        "id": 882,
+        "title": "English",
+        "type": "voice"
+      },
+      "year": 1986,
+      "kinopoisk_id": "8126",
+      "imdb_id": "tt0090555",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-03T06:40:16Z",
+      "updated_at": "2020-09-03T06:40:16Z",
+      "material_data": {
+        "title": "Крокодил Данди",
+        "title_en": "Crocodile Dundee",
+        "year": 1986,
+        "tagline": "The Wizard of Auz hits The Big Apple!",
+        "description": "Американская журналистка приезжает в глубинку Австралии, и охотник на крокодилов знакомит ее с местными достопримечательностями. Она же приглашает его в Нью-Йорк, и там отважный охотник попадает в неведомые ему джунгли...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/8126.jpg",
+        "duration": 97,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "боевик",
+          "комедия",
+          "приключения"
+        ],
+        "kinopoisk_rating": 7.2,
+        "kinopoisk_votes": 27506,
+        "imdb_rating": 6.6,
+        "imdb_votes": 93815,
+        "premiere_world": "1986-04-24",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 12,
+        "actors": [
+          "Пол Хоган",
+          "Линда Козловски",
+          "Джон Майллон",
+          "Дэвид Галпилил",
+          "Ричи Сингер",
+          "Мэгги Блинко",
+          "Дональд Керр",
+          "Джерри Скилтон",
+          "Терри Гилл",
+          "Питер Тернбулл"
+        ],
+        "directors": [
+          "Питер Фэймен"
+        ],
+        "producers": [
+          "Джон Корнелл",
+          "Джейн Скотт",
+          "Вейн Янг"
+        ],
+        "writers": [
+          "Кен Шэди",
+          "Джон Корнелл",
+          "Пол Хоган"
+        ],
+        "composers": [
+          "Питер Бест"
+        ],
+        "editors": [
+          "Дэвид Стивен"
+        ],
+        "designers": [
+          "Грэм «Грэйс» Уолкер",
+          "Норма Морисо"
+        ],
+        "operators": [
+          "Рассел Бойд"
+        ]
+      }
+    },
+    {
       "id": "movie-1226",
       "type": "foreign-movie",
       "link": "",
@@ -914,6 +1362,7 @@
         "imdb_rating": 6.4,
         "imdb_votes": 36,
         "premiere_world": "2017-10-29",
+        "minimal_age": 0,
         "actors": [
           "Кассандра Чангеротти",
           "Густаво Санчес Парра",
@@ -1344,7 +1793,7 @@
         "imdb_rating": 6.9,
         "imdb_votes": 72,
         "shikimori_rating": 6.85,
-        "shikimori_votes": 942,
+        "shikimori_votes": 943,
         "premiere_world": "2018-09-03",
         "aired_at": "2018-09-30",
         "released_at": "2018-12-23",
@@ -2876,7 +3325,6 @@
       "updated_at": "2020-09-01T12:54:32Z",
       "material_data": {
         "title": "Алло! Вас слышу!",
-        "title_en": "",
         "year": 1971,
         "description": "История телеграфа, телефона и радио.",
         "poster_url": "https://st.kp.yandex.net/images/film_big/591978.jpg",
@@ -2885,12 +3333,13 @@
           "СССР"
         ],
         "genres": [
+          "детский",
           "короткометражка",
           "мультфильм"
         ],
         "kinopoisk_rating": 7.1,
-        "kinopoisk_votes": 244,
-        "minimal_age": 6,
+        "kinopoisk_votes": 291,
+        "minimal_age": 0,
         "actors": [
           "Анатолий Папанов"
         ],
@@ -3102,7 +3551,7 @@
           "фэнтези"
         ],
         "kinopoisk_rating": 7.5,
-        "kinopoisk_votes": 850,
+        "kinopoisk_votes": 864,
         "imdb_rating": 7.1,
         "imdb_votes": 50,
         "minimal_age": 6,
@@ -7406,469 +7855,6 @@
         "operators": [
           "Масато Макино"
         ]
-      }
-    },
-    {
-      "id": "movie-59674",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "До скорой встречи",
-      "title_orig": "Long Time No Sea",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1206881",
-      "imdb_id": "tt7475882",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-31T05:47:11Z",
-      "updated_at": "2020-08-31T05:47:11Z",
-      "material_data": {
-        "title": "Long Time No Sea",
-        "year": 2018,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1206881.jpg",
-        "duration": 96,
-        "countries": [
-          "Тайвань"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 7.1,
-        "imdb_votes": 67,
-        "premiere_world": "2018-06-15",
-        "minimal_age": 0,
-        "actors": [
-          "Ling Chang",
-          "Хуан Шанхо",
-          "Feng-Ying Lee",
-          "Pangoyod Si"
-        ],
-        "directors": [
-          "Heather Tsui"
-        ],
-        "producers": [
-          "Pao-Ying Chen",
-          "Gwo-Shing Su",
-          "Heather Tsui",
-          "Джин Яо"
-        ],
-        "writers": [
-          "Heather Tsui"
-        ],
-        "composers": [
-          "Cincin Lee"
-        ],
-        "editors": [
-          "Heather Tsui",
-          "Джин Яо",
-          "Zhi-Han You"
-        ],
-        "designers": [
-          "Wen-Jing Luo",
-          "Xiu-Mei Shi"
-        ],
-        "operators": [
-          "Ляо Цзинъяо"
-        ]
-      }
-    },
-    {
-      "id": "serial-26825",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Поцелуй кобры",
-      "title_orig": "Kiss of the Cobra",
-      "other_title": "Asorapit / Jao Mae Asorapit",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 28,
-      "episodes_count": 28,
-      "mdl_id": "38929-jao-mae-asorapit",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-15T12:48:32Z",
-      "updated_at": "2020-08-31T05:45:52Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": "",
-            "26": "",
-            "27": "",
-            "28": ""
-          }
-        }
-      }
-    },
-    {
-      "id": "movie-45891",
-      "type": "anime",
-      "link": "",
-      "title": "Вайолет Эвергарден: Вечность и призрак пера",
-      "title_orig": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
-      "other_title": "Violet Evergarden: Eternity and the Auto Memories Doll",
-      "translation": {
-        "id": 818,
-        "title": "Reanimedia",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1272450",
-      "imdb_id": "tt10477558",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10116",
-      "shikimori_id": "39741",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-12-05T17:19:47Z",
-      "updated_at": "2020-08-31T05:11:52Z",
-      "material_data": {
-        "title": "Вайолет Эвергарден: Вечность и призрак пера",
-        "title_en": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
-        "other_titles": [
-          "Вайолет Эвергарден: Вечность и автозапоминающая кукла",
-          "Violet Evergarden Side Story: Eternity and the Auto Memories Doll"
-        ],
-        "other_titles_en": [
-          "Violet Evergarden I: Eternity and the Auto Memory Doll"
-        ],
-        "other_titles_jp": [
-          "ヴァイオレット・エヴァーガーデン 外伝 -永遠と自動手記人形-"
-        ],
-        "anime_license_name": "Вайолет Эвергарден: Вечность и призрак пера",
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2019,
-        "description": "Сотрудница почты Вайолет получает новое задание — отправиться в пансион благородных девиц и научить манерам богатую наследницу Изабеллу. Сначала та не горит желанием становиться настоящей леди, но постепенно сближается с Вайолет и даже просит помочь написать письмо младшей сестре Тейлор, с которой её недавно разлучили.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1272450.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/e24119ed4c2ee291caba87d1345cf691b216ca62.png",
-          "https://shikimori.one/system/screenshots/original/014216794577b6d39da4002134317df6e9b59a96.png"
-        ],
-        "duration": 90,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Повседневность",
-          "Фэнтези"
-        ],
-        "anime_studios": [
-          "Kyoto Animation"
-        ],
-        "kinopoisk_rating": 7.4,
-        "kinopoisk_votes": 3322,
-        "imdb_rating": 7.4,
-        "imdb_votes": 2663,
-        "shikimori_rating": 8.4,
-        "shikimori_votes": 7934,
-        "premiere_ru": "2019-11-21",
-        "premiere_world": "2019-09-06",
-        "aired_at": "2019-09-06",
-        "rating_mpaa": "PG-13",
-        "minimal_age": 12,
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Минако Котобуки",
-          "Юи Исикава",
-          "Минори Тихара",
-          "Ая Эндо",
-          "Такэхито Коясу",
-          "Харука Томацу",
-          "Коки Утияма",
-          "Аои Юки"
-        ],
-        "directors": [
-          "Харука Фудзита",
-          "Таити Исидатэ"
-        ],
-        "producers": [
-          "Хидэаки Хатта",
-          "Синъитиро Хатта"
-        ],
-        "writers": [
-          "Кана Акацуки",
-          "Рэйко Ёсида",
-          "Такааки Судзуки",
-          "Тацухико Урахата"
-        ],
-        "composers": [
-          "Эван Колл"
-        ],
-        "designers": [
-          "Микико Ватанабэ"
-        ],
-        "operators": [
-          "Кохэй Фунамото"
-        ]
-      }
-    },
-    {
-      "id": "movie-46583",
-      "type": "anime",
-      "link": "",
-      "title": "Мой сосед Тоторо",
-      "title_orig": "Tonari no Totoro",
-      "other_title": "My Neighbor Totoro",
-      "translation": {
-        "id": 1017,
-        "title": "Киномания",
-        "type": "voice"
-      },
-      "year": 1988,
-      "kinopoisk_id": "8221",
-      "imdb_id": "tt0096283",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=62",
-      "shikimori_id": "523",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2019-12-22T16:36:43Z",
-      "updated_at": "2020-08-31T05:09:28Z",
-      "material_data": {
-        "title": "Мой сосед Тоторо",
-        "title_en": "Tonari no Totoro",
-        "other_titles": [
-          "My Neighbour Totoro"
-        ],
-        "other_titles_en": [
-          "My Neighbor Totoro"
-        ],
-        "other_titles_jp": [
-          "となりのトトロ"
-        ],
-        "anime_license_name": "Мой сосед Тоторо",
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 1988,
-        "description": "Сестры Сацуки и Мэй переезжают вместе с папой в деревенский дом. Однажды девочки обнаруживают, что по соседству с ними живут лесные духи — хранители леса во главе со своим могущественным, но добрым повелителем Тоторо. Постепенно Тоторо становится другом девочек, помогая им в их повседневных приключениях.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/8221.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/e5fe9a45ced277cb8f9b6f61ec421476de975fc4.jpg",
-          "https://shikimori.one/system/screenshots/original/7e6040b255491b68adfc367594201d8220f26df6.jpg"
-        ],
-        "duration": 86,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Приключения",
-          "Сверхъестественное"
-        ],
-        "anime_studios": [
-          "Studio Ghibli"
-        ],
-        "kinopoisk_rating": 8.2,
-        "kinopoisk_votes": 139528,
-        "imdb_rating": 8.2,
-        "imdb_votes": 296154,
-        "shikimori_rating": 8.3,
-        "shikimori_votes": 35422,
-        "premiere_ru": "2008-03-20",
-        "premiere_world": "1988-04-16",
-        "aired_at": "1988-04-16",
-        "rating_mpaa": "G",
-        "minimal_age": 0,
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Норико Хидака",
-          "Тика Сакамото",
-          "Хитоси Такаги",
-          "Таниэ Китабаяси",
-          "Суми Симамото",
-          "Сигэсато Итои",
-          "Тосиюки Амагаса",
-          "Масаси Хиросэ",
-          "Юко Маруяма",
-          "Юко Мидзутани"
-        ],
-        "directors": [
-          "Хаяо Миядзаки"
-        ],
-        "producers": [
-          "Тору Хара",
-          "Эико Танака",
-          "Ясуёси Токума"
-        ],
-        "writers": [
-          "Хаяо Миядзаки"
-        ],
-        "composers": [
-          "Дзё Хисаиси"
-        ],
-        "editors": [
-          "Такэси Сэяма"
-        ],
-        "designers": [
-          "Кадзуо Ога"
-        ],
-        "operators": [
-          "Хисао Сираи"
-        ]
-      }
-    },
-    {
-      "id": "movie-59670",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Эвакуатор",
-      "title_orig": "Rekka",
-      "translation": {
-        "id": 647,
-        "title": "Колобок",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1301700",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-08-31T05:06:46Z",
-      "updated_at": "2020-08-31T05:06:46Z",
-      "material_data": {
-        "title": "Эвакуатор",
-        "title_en": "Rekka",
-        "year": 2019,
-        "description": "Водитель эвакуатора становится невольным свидетелем похищения девочки.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1301700.jpg",
-        "duration": 70,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "криминал",
-          "триллер"
-        ],
-        "premiere_world": "2019-10-11",
-        "minimal_age": 0,
-        "actors": [
-          "Ли Тхэ-сон",
-          "Кан Ги-дун",
-          "Чо Хи-бон",
-          "Чан Юль",
-          "Чон Бэ-су",
-          "Ю Су-бин"
-        ],
-        "directors": [
-          "Ли Хо"
-        ],
-        "writers": [
-          "Юн Джи-хён"
-        ]
-      }
-    },
-    {
-      "id": "serial-27097",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Дорога любви",
-      "title_orig": "Cupid Pathway",
-      "other_title": "Tang Parn Kammathep",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2015,
-      "last_season": 1,
-      "last_episode": 34,
-      "episodes_count": 34,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-06-23T07:42:36Z",
-      "updated_at": "2020-08-31T04:08:13Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": "",
-            "26": "",
-            "27": "",
-            "28": "",
-            "29": "",
-            "30": "",
-            "31": "",
-            "32": "",
-            "33": "",
-            "34": ""
-          }
-        }
       }
     }
   ]

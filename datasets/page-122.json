@@ -1,6 +1,429 @@
 {
   "results": [
     {
+      "id": "movie-55370",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Голубые молнии",
+      "title_orig": "Golubye molnii",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1978,
+      "kinopoisk_id": "44546",
+      "imdb_id": "tt0314112",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-16T03:32:06Z",
+      "updated_at": "2020-05-16T03:32:06Z",
+      "material_data": {
+        "title": "Голубые молнии",
+        "year": 1978,
+        "description": "Юный столичный пижон, не поступив в престижный институт, оказался в армии. Более того, его призвали в десантные войска. И пришлось избалованному парню привыкать к совсем другой жизни, постигая нелегкую армейскую науку….",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/44546.jpg",
+        "duration": 86,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "драма",
+          "приключения"
+        ],
+        "kinopoisk_rating": 6.1,
+        "kinopoisk_votes": 278,
+        "imdb_rating": 4.9,
+        "imdb_votes": 18,
+        "minimal_age": 6,
+        "actors": [
+          "Андрей Градов",
+          "Ольга Жулина",
+          "Сергей Подгорный",
+          "Виктор Бутов",
+          "Юрий Каморный",
+          "Николай Воронин"
+        ],
+        "directors": [
+          "Исаак Шмарук"
+        ],
+        "writers": [
+          "Александр Кулешов",
+          "Кирилл Рапопорт"
+        ],
+        "composers": [
+          "Леонид Афанасьев"
+        ],
+        "designers": [
+          "Владимир Агранов"
+        ],
+        "operators": [
+          "Алексей Прокопенко"
+        ]
+      }
+    },
+    {
+      "id": "serial-25361",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Легенда о Белом Коте",
+      "title_orig": "Da Li Si Ri Zhi",
+      "other_title": "High Court's Journal / The Journal of Dali Temple / White Cat Legend / Dali Si Rizhi",
+      "translation": {
+        "id": 825,
+        "title": "AniMaunt",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 7,
+      "episodes_count": 7,
+      "imdb_id": "tt12516564",
+      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=88585",
+      "shikimori_id": "38742",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-03T13:25:51Z",
+      "updated_at": "2020-05-15T17:57:47Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Легенда о Белом Коте",
+        "title_en": "Da Li Si Rizhi",
+        "other_titles": [
+          "Dalisi Rizhi",
+          "The Journal of Dali Temple"
+        ],
+        "other_titles_en": [
+          "White Cat Legend"
+        ],
+        "other_titles_jp": [
+          "大理寺日志"
+        ],
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "poster_url": "https://shikimori.one/system/animes/original/38742.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/556ca87ed12d9b88c8139e4772d10c041fa1b3cd.jpg",
+          "https://shikimori.one/system/screenshots/original/159be81329f3d77fe5df4cf406752d118bdc18fe.jpg"
+        ],
+        "anime_genres": [
+          "Боевые искусства",
+          "Демоны",
+          "Детектив",
+          "Исторический",
+          "Комедия",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Nice Boat Animation"
+        ],
+        "shikimori_rating": 6.75,
+        "shikimori_votes": 262,
+        "aired_at": "2020-04-10",
+        "released_at": "2020-07-03",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12
+      }
+    },
+    {
+      "id": "movie-23940",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Бремя",
+      "title_orig": "Cargo",
+      "translation": {
+        "id": 794,
+        "title": "HDrezka Studio",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "979795",
+      "imdb_id": "tt3860916",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-05-30T03:51:26Z",
+      "updated_at": "2020-05-15T17:38:35Z",
+      "material_data": {
+        "title": "Бремя",
+        "title_en": "Cargo",
+        "year": 2017,
+        "tagline": "He is her only hope. And her greatest threat.",
+        "description": "Во время зомби-апокалипсиса у мужчины погибает жена, и он остается с дочерью-младенцем. Но его тоже укусили, и теперь у отца осталось 48 часов, чтобы успеть найти опекунов для малышки.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/979795.jpg",
+        "duration": 105,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "драма",
+          "ужасы"
+        ],
+        "kinopoisk_rating": 6.2,
+        "kinopoisk_votes": 5660,
+        "imdb_rating": 6.3,
+        "imdb_votes": 38586,
+        "premiere_world": "2017-10-06",
+        "minimal_age": 0,
+        "actors": [
+          "Simone Landers",
+          "Мартин Фриман",
+          "Marlee Jane McPherson-Dobbins",
+          "Lily Anne McPherson-Dobbins",
+          "Finlay Sjoberg",
+          "Nova Sjoberg",
+          "Сьюзи Портер",
+          "Ella Barter",
+          "Aiden Squire",
+          "Alexandra Schulze"
+        ],
+        "directors": [
+          "Бен Хоулинг",
+          "Иоланда Рамке"
+        ],
+        "producers": [
+          "Расселл Экерман",
+          "Кристина Кейтон",
+          "Саманта Дженнингс",
+          "Марк Паттерсон",
+          "Джон Шенфельдер",
+          "Zak Brilliant",
+          "Сэлли Кларк",
+          "Хилари Дэвис",
+          "Ian Dawson",
+          "Крэйг Дикер"
+        ],
+        "writers": [
+          "Иоланда Рамке"
+        ],
+        "editors": [
+          "Дэни Купер",
+          "Шон Лахифф"
+        ],
+        "designers": [
+          "Жозефин Форд",
+          "Софи Нэш",
+          "Хезер Уоллес",
+          "Кристиан Петерсен"
+        ],
+        "operators": [
+          "Джефри Симпсон"
+        ]
+      }
+    },
+    {
+      "id": "movie-55368",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Дыхание",
+      "title_orig": "Breath",
+      "translation": {
+        "id": 794,
+        "title": "HDrezka Studio",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "487378",
+      "imdb_id": "tt1553659",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-05-15T16:57:06Z",
+      "updated_at": "2020-05-15T16:57:06Z",
+      "material_data": {
+        "title": "Дыхание",
+        "title_en": "Breath",
+        "year": 2017,
+        "description": "Австралия, 70-е годы ХХ столетия. Подросток Пайклет знакомится с белобрысым мальчишкой Луни, и вскоре ребята становятся лучшими друзьями. Вместе они катаются на велосипедах по округе, купаются в речке, проводят время на побережье, наблюдая за сёрферами на волнах океана. Мечтая так же покорять волны, Пайклет с другом принимаются за создание своих досок из пенопласта. Знакомство с матёрым сёрфером Сандо кардинально меняет жизнь друзей.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/487378.jpg",
+        "duration": 115,
+        "countries": [
+          "Австралия"
+        ],
+        "genres": [
+          "драма",
+          "мелодрама",
+          "приключения"
+        ],
+        "kinopoisk_rating": 6.5,
+        "kinopoisk_votes": 476,
+        "imdb_rating": 6.7,
+        "imdb_votes": 2839,
+        "premiere_world": "2017-09-10",
+        "minimal_age": 0,
+        "actors": [
+          "Элизабет Дебики",
+          "Саймон Бейкер",
+          "Ричард Роксбург",
+          "Меган Смарт",
+          "Рэйчел Блейк",
+          "Яцек Коман",
+          "Самсон Култер",
+          "Ben Spence",
+          "Brock Fitzgerald",
+          "Миранда Франгоу"
+        ],
+        "directors": [
+          "Саймон Бейкер"
+        ],
+        "producers": [
+          "Саймон Бейкер",
+          "Джэми Хилтон",
+          "Марк Джонсон",
+          "Дэйв Хансен",
+          "Джонни Мак",
+          "Лаура Ристер",
+          "Крис Вирхьюис",
+          "Том Уильямс"
+        ],
+        "writers": [
+          "Джерард Ли",
+          "Саймон Бейкер",
+          "Тим Уинтон"
+        ],
+        "composers": [
+          "Гарри Грегсон-Уильямс"
+        ],
+        "editors": [
+          "Дэни Купер"
+        ],
+        "designers": [
+          "Стивен Джонс-Эванс",
+          "Максин Деннетт",
+          "Терри Ламера",
+          "Кристин Линч"
+        ],
+        "operators": [
+          "Мэрден Дин",
+          "Рик Рифичи"
+        ]
+      }
+    },
+    {
+      "id": "serial-25713",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Преступный мир",
+      "title_orig": "Paatal Lok",
+      "translation": {
+        "id": 611,
+        "title": "ColdFilm",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 9,
+      "episodes_count": 9,
+      "kinopoisk_id": "1371852",
+      "imdb_id": "tt9680440",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-05-15T12:08:14Z",
+      "updated_at": "2020-05-15T16:36:48Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Преступный мир",
+        "title_en": "Paatal Lok",
+        "year": 2020,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1371852.jpg",
+        "duration": 44,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "драма",
+          "криминал",
+          "триллер"
+        ],
+        "imdb_rating": 7.8,
+        "imdb_votes": 40954,
+        "premiere_world": "2020-05-15",
+        "minimal_age": 0,
+        "actors": [
+          "Джайдип Ахлават",
+          "Нирадж Каби",
+          "Ishwak Singh",
+          "Абхишек Банерджи",
+          "Джагджит Сандху",
+          "Лира Датт",
+          "Свастика Мукхерджи",
+          "Гуль Кират Панаг",
+          "Аасиф Кхан",
+          "Mairembam Ronaldo Singh"
+        ],
+        "directors": [
+          "Авинаш Арун",
+          "Прозит Рой"
+        ],
+        "producers": [
+          "Рохит Джаясвал",
+          "Саурабх Малхотра",
+          "Маной Миттра",
+          "Рави Сарин",
+          "Анушка Шарма",
+          "Судип Шарма",
+          "Карнеш Шарма"
+        ],
+        "writers": [
+          "Судип Шарма",
+          "Gunjit Chopra",
+          "Sagar Haveli",
+          "Hardik Mehta"
+        ],
+        "composers": [
+          "Нарен Чандваркар",
+          "Бенедикт Тейлор"
+        ],
+        "editors": [
+          "Санукта Каза"
+        ],
+        "designers": [
+          "Мукунд Гупта",
+          "Вахи Шаикх",
+          "Кирти Колванкар",
+          "Мария Тхаракан"
+        ],
+        "operators": [
+          "Авинаш Арун",
+          "Саурабх Госвами"
+        ]
+      }
+    },
+    {
       "id": "serial-24104",
       "type": "anime-serial",
       "link": "",
@@ -357,15 +780,16 @@
         "anime_studios": [
           "Bones"
         ],
-        "kinopoisk_rating": 7.3,
-        "kinopoisk_votes": 4049,
+        "kinopoisk_rating": 7.2,
+        "kinopoisk_votes": 4229,
         "imdb_rating": 7.5,
-        "imdb_votes": 6961,
+        "imdb_votes": 7247,
         "shikimori_rating": 7.66,
         "shikimori_votes": 14234,
         "premiere_world": "2018-08-03",
         "aired_at": "2018-08-03",
         "rating_mpaa": "PG-13",
+        "minimal_age": 0,
         "episodes_total": 1,
         "episodes_aired": 1,
         "actors": [
@@ -864,7 +1288,7 @@
         "kinopoisk_rating": 6.4,
         "kinopoisk_votes": 106,
         "shikimori_rating": 6.69,
-        "shikimori_votes": 1084,
+        "shikimori_votes": 907,
         "premiere_world": "2012-01-05",
         "aired_at": "2012-01-06",
         "released_at": "2012-03-28",
@@ -2028,7 +2452,7 @@
           "Экшен"
         ],
         "shikimori_rating": 6.3,
-        "shikimori_votes": 293,
+        "shikimori_votes": 224,
         "aired_at": "2020-05-07",
         "released_at": "2020-08-13",
         "rating_mpaa": "PG-13",
@@ -5382,7 +5806,7 @@
           "мюзикл"
         ],
         "kinopoisk_rating": 7.1,
-        "kinopoisk_votes": 778,
+        "kinopoisk_votes": 785,
         "minimal_age": 0,
         "actors": [
           "Клара Румянова",
@@ -6457,10 +6881,11 @@
           "мелодрама"
         ],
         "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 98,
+        "kinopoisk_votes": 102,
         "imdb_rating": 7.9,
-        "imdb_votes": 138,
+        "imdb_votes": 141,
         "premiere_world": "2003-09-15",
+        "minimal_age": 0,
         "actors": [
           "Рэйн",
           "Кон Хё-джин",
@@ -6635,9 +7060,9 @@
           "Telescreen"
         ],
         "kinopoisk_rating": 8,
-        "kinopoisk_votes": 940,
+        "kinopoisk_votes": 1056,
         "imdb_rating": 8.3,
-        "imdb_votes": 3560,
+        "imdb_votes": 3748,
         "shikimori_rating": 8.13,
         "shikimori_votes": 424,
         "premiere_world": "1990-04-12",
@@ -6996,10 +7421,10 @@
         "kinopoisk_rating": 6.9,
         "kinopoisk_votes": 234,
         "shikimori_rating": 7.36,
-        "shikimori_votes": 2905,
+        "shikimori_votes": 2543,
         "premiere_world": "2012-09-26",
         "aired_at": "2012-09-26",
-        "released_at": "2021-05-01",
+        "released_at": "2021-05-25",
         "rating_mpaa": "PG-13",
         "minimal_age": 0,
         "episodes_total": 6,
@@ -8303,351 +8728,6 @@
         ],
         "operators": [
           "Cameron Frost"
-        ]
-      }
-    },
-    {
-      "id": "movie-55236",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Богатство",
-      "title_orig": "Daulat",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1982,
-      "kinopoisk_id": "224683",
-      "imdb_id": "tt0262359",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-13T07:09:59Z",
-      "updated_at": "2020-05-13T07:09:59Z",
-      "material_data": {
-        "title": "Богатство",
-        "title_en": "Daulat",
-        "year": 1982,
-        "description": "Для большинства людей, деньги - самое главное на свете. Но этот привлекательный и храбрый мужчина решил, что существующая денежная система порождает бедность. Поэтому он отнимает деньги от тех, у кого они есть, и раздает их тем, кто в них нуждается. В этом деле ему противостоят эгоистичные люди, и так начинается основное противостояние...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/224683.jpg",
-        "duration": 150,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик",
-          "драма",
-          "криминал"
-        ],
-        "imdb_rating": 6.1,
-        "imdb_votes": 35,
-        "minimal_age": 0,
-        "actors": [
-          "Винод Кханна",
-          "Зинат Аман",
-          "Амджад Кхан",
-          "Радж Баббар",
-          "Шрирам Лагу",
-          "Рамеш Део",
-          "Сима Део",
-          "Сарика",
-          "Девен Верма",
-          "Дев Кумар"
-        ],
-        "directors": [
-          "Мохан Сегал"
-        ],
-        "producers": [
-          "Jawaharlal B. Bafana",
-          "Васант Доши",
-          "К.Д. Мехта",
-          "B.N. Shah"
-        ],
-        "composers": [
-          "Рахул Дев Бурман"
-        ]
-      }
-    },
-    {
-      "id": "movie-55237",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Могильщик",
-      "title_orig": "Chandaal",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1998,
-      "kinopoisk_id": "713489",
-      "imdb_id": "tt4053580",
-      "quality": "VHSRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-13T07:09:15Z",
-      "updated_at": "2020-05-13T07:09:15Z",
-      "material_data": {
-        "title": "Могильщик",
-        "title_en": "Chandaal",
-        "year": 1998,
-        "tagline": "Карающий меч не знает пощады",
-        "description": "Главарю мафии Сахабу сильно досаждает инспектор полиции Индраджит. Сахаб уничтожает семью Индраджита, сваливая всю вину за преступление на инспектора. Выйдя из тюрьмы и устроившись на кладбище могильщиком, Индраджит безжалостно мстит за родственников.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/713489.jpg",
-        "duration": 134,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "боевик"
-        ],
-        "imdb_rating": 5.7,
-        "imdb_votes": 40,
-        "premiere_world": "1998-03-13",
-        "minimal_age": 16,
-        "actors": [
-          "Митхун Чакраборти",
-          "Снеха",
-          "Рами Редди",
-          "Пунит Иссар",
-          "Хемант Бирдж",
-          "Джек Гауд",
-          "Автар Гилл",
-          "Касам Али",
-          "Ашвин Каушал",
-          "Лекха Говил"
-        ],
-        "directors": [
-          "Т.Л.В. Прасад"
-        ],
-        "producers": [
-          "Раджив Баббар",
-          "Anuj Bhatiani",
-          "Rajat Bhatiani",
-          "Рахул Баббар"
-        ],
-        "writers": [
-          "Т.Л.В. Прасад"
-        ],
-        "composers": [
-          "Ананд Шривастав",
-          "Милинд Шривастав"
-        ],
-        "editors": [
-          "Д.Н. Малик"
-        ],
-        "operators": [
-          "Др. Прасад Бабу"
-        ]
-      }
-    },
-    {
-      "id": "movie-55238",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Везде и всегда",
-      "title_orig": "Engeyum Eppodhum",
-      "translation": {
-        "id": 764,
-        "title": "Red Media",
-        "type": "voice"
-      },
-      "year": 2011,
-      "kinopoisk_id": "630197",
-      "imdb_id": "tt2065924",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-13T07:08:34Z",
-      "updated_at": "2020-05-13T07:08:34Z",
-      "material_data": {
-        "title": "Везде и всегда",
-        "title_en": "Engeyum Eppodhum",
-        "year": 2011,
-        "description": "Никогда не знаешь, где встретишь свою судьбу. Робкая провинциалка Амудха, приехавшая в Ченнаи на собеседование, найдет ее на автобусной остановке и проведет со своим случайным попутчиком незабываемый день. А боевая независимая Манимеккалаи увидит своего застенчивого героя Кадиресанана веранде соседнего дома. Кто-то встретит свою судьбу в автобусе Тричи-Ченнаи. И если ты потерял свою любовь, ты просто можешь сесть на автобус, чтобы снова ее найти. Но на дорогах иногда случаются аварии. Никогда не знаешь, где ты найдешь свою любовь. Поэтому будь готов к встрече с ней, везде и всегда.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/630197.jpg",
-        "duration": 138,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "комедия",
-          "мелодрама"
-        ],
-        "imdb_rating": 7.9,
-        "imdb_votes": 1759,
-        "premiere_world": "2011-09-16",
-        "minimal_age": 0,
-        "actors": [
-          "Джай",
-          "Шарвананд",
-          "Анджали",
-          "Анания",
-          "Винодхини Ваидинатхан",
-          "Vatsan",
-          "Митхун"
-        ],
-        "directors": [
-          "M. Saravanan"
-        ],
-        "producers": [
-          "А.Р. Муругадосс"
-        ],
-        "writers": [
-          "M. Saravanan"
-        ],
-        "composers": [
-          "Сатия"
-        ],
-        "editors": [
-          "Т.Е. Кишор"
-        ],
-        "designers": [
-          "jacki"
-        ],
-        "operators": [
-          "Велрадж"
-        ]
-      }
-    },
-    {
-      "id": "movie-55239",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Музыкант Харипада",
-      "title_orig": "Haripada Bandwala",
-      "translation": {
-        "id": 605,
-        "title": "Люб. Двухголосый",
-        "type": "voice"
-      },
-      "year": 2016,
-      "kinopoisk_id": "1046178",
-      "imdb_id": "tt6786690",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-13T07:07:50Z",
-      "updated_at": "2020-05-13T07:07:50Z",
-      "material_data": {
-        "title": "Haripada Bandwala",
-        "year": 2016,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1046178.jpg",
-        "duration": 240,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "комедия",
-          "мелодрама"
-        ],
-        "imdb_rating": 4.4,
-        "imdb_votes": 168,
-        "premiere_world": "2016-12-23",
-        "minimal_age": 0,
-        "actors": [
-          "Biswanath Bose",
-          "Прадип Дхар",
-          "Раджатабха Дутта",
-          "Суприё Датт",
-          "Ankush Hazra",
-          "Нусрат Джехан",
-          "Кхарадж Мукхерджи",
-          "Kanchan Mullick",
-          "Лабони Саркар"
-        ],
-        "directors": [
-          "Pathikrit Basu"
-        ],
-        "writers": [
-          "Anurag Singh"
-        ],
-        "composers": [
-          "Indraadip Dasgupta"
-        ],
-        "editors": [
-          "Md. Kalam"
-        ],
-        "operators": [
-          "Iswar Chandra Barik"
-        ]
-      }
-    },
-    {
-      "id": "movie-55240",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Мой муж только мой",
-      "title_orig": "Mera Pati Sirf Mera Hai",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 1990,
-      "kinopoisk_id": "34957",
-      "imdb_id": "tt0363810",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-05-13T07:07:14Z",
-      "updated_at": "2020-05-13T07:07:14Z",
-      "material_data": {
-        "title": "Мой муж только мой",
-        "title_en": "Mera Pati Sirf Mera Hai",
-        "year": 1990,
-        "description": "Рупа с мужем и дочерью Пинки богаты, но несчастливы. Ревнивая Рупа подозревает своего мужа в любовной связи с соседкой Шардой. Распуская о сопернице грязные слухи, она лишает Шарду шансов достойно выйти замуж. В свою очередь Шарда также хочет преподать Рупе урок. Она переезжает к ним в дом и утверждает, что Пракаш действительно является ее любовником. Пракаш ничего не отрицает. Тогда Рупа возвращается жить к своим родителям. Но однажды Пинки исчезает. Полицейские подозревают в ее исчезновении Шарду. Действительно ли она похитила девочку и какие отношения ее связывают с Пракашем?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/34957.jpg",
-        "duration": 142,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "семейный"
-        ],
-        "imdb_rating": 3.9,
-        "imdb_votes": 36,
-        "premiere_world": "1990-08-06",
-        "minimal_age": 0,
-        "actors": [
-          "Джитендра",
-          "Рекха",
-          "Радхика",
-          "Анупам Кхер",
-          "Утпал Датт",
-          "Гульшан Гровер",
-          "Сатиш Шах",
-          "Махавир Шах",
-          "Чандрашекхар",
-          "Прадип Рават"
-        ],
-        "directors": [
-          "Монобала"
-        ],
-        "producers": [
-          "Джаясудха",
-          "Нитин Капур"
-        ],
-        "writers": [
-          "Нарьяна Рао Дасари",
-          "Kallai Mani",
-          "Ачала Нагар"
-        ],
-        "composers": [
-          "Ананд Шривастав",
-          "Милинд Шривастав"
-        ],
-        "editors": [
-          "Krishnam Raju B."
-        ],
-        "designers": [
-          "Б. Сурья Кумар"
-        ],
-        "operators": [
-          "Рагху М.В."
         ]
       }
     }

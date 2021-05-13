@@ -1,6 +1,422 @@
 {
   "results": [
     {
+      "id": "movie-20060",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мачете",
+      "title_orig": "The Cutlass",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1040901",
+      "imdb_id": "tt5789310",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-12-17T15:51:50Z",
+      "updated_at": "2017-12-17T15:51:50Z",
+      "material_data": {
+        "title": "Мачете",
+        "title_en": "The Cutlass",
+        "year": 2017,
+        "description": "Девушка попадает в плен к опасному социопату. Будучи оторванной от мира, она набирается смелости и начинает противостояние с психически нестабильным похитителем.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1040901.jpg",
+        "duration": 97,
+        "genres": [
+          "драма",
+          "триллер"
+        ],
+        "imdb_rating": 4.4,
+        "imdb_votes": 240,
+        "premiere_world": "2017-08-02",
+        "minimal_age": 0,
+        "actors": [
+          "Lisa-Bel Hirschmann",
+          "Arnold Goindhan",
+          "Кирк Балц",
+          "Rebecca M Foster",
+          "Michael De Souza",
+          "Gary Moore",
+          "Ruby Parris",
+          "Конрад Паррис",
+          "Jonathan Agostini",
+          "Alister Edwards"
+        ],
+        "directors": [
+          "Darisha J. Beresford"
+        ],
+        "producers": [
+          "Jamil Agard",
+          "Darisha J. Beresford",
+          "Tikira Beresford",
+          "Stephen Broadbridge",
+          "Juliette McCawley",
+          "Teneille Newallo",
+          "Leslie Sweetman",
+          "Drew Umland",
+          "Брент Уэбстер",
+          "Бен Йенни"
+        ],
+        "writers": [
+          "Teneille Newallo"
+        ],
+        "composers": [
+          "Jeanine S. Ruiz"
+        ],
+        "editors": [
+          "Drew Umland"
+        ],
+        "designers": [
+          "Aaron Schnieder"
+        ],
+        "operators": [
+          "Йен Блум"
+        ]
+      }
+    },
+    {
+      "id": "serial-7006",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Мелохолик",
+      "title_orig": "Melroholrik",
+      "other_title": "Мелоголик / Meloholic / Mellohollik / Melo Holic",
+      "translation": {
+        "id": 622,
+        "title": "HighHopes",
+        "type": "voice"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "1045436",
+      "imdb_id": "tt7521734",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-12-05T17:24:53Z",
+      "updated_at": "2017-12-14T21:48:36Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Мелохолик",
+        "title_en": "Melroholrik",
+        "year": 2017,
+        "description": "Ю Ын-хо имеет удивительную особенность: он умеет читать мысли других людей, стоит лишь к ним прикоснуться. Однако эти способности только усложняют юноше жизнь. Однажды он встречает Хан Е-ри и понимает, что она говорит то, что на самом деле думает. Но вместе с тем растерянный Ын-хо узнаёт, что внутри девушки живут две совершенно разные личности.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1045436.jpg",
+        "duration": 60,
+        "countries": [
+          "Корея Южная"
+        ],
+        "genres": [
+          "мелодрама",
+          "фантастика"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 241,
+        "imdb_rating": 6.5,
+        "imdb_votes": 159,
+        "premiere_world": "2017-11-06",
+        "minimal_age": 0,
+        "actors": [
+          "Чон Юн-хо",
+          "Кён Су-джин",
+          "Сольбин",
+          "Сон Ю-джи",
+          "Ко Мин-щи",
+          "Хан Джэ-сок",
+          "Чхве Дэ-чхоль",
+          "Юн Со-хи",
+          "Ким Мин-гю",
+          "Чхон Ха-ын"
+        ],
+        "directors": [
+          "Сон Хён-ук"
+        ],
+        "writers": [
+          "Пак Со-ён"
+        ]
+      }
+    },
+    {
+      "id": "serial-7167",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Не отпускай меня",
+      "title_orig": "Watashi wo hanasanai de",
+      "other_title": "Never Let Me Go",
+      "translation": {
+        "id": 620,
+        "title": "GREEN TEA",
+        "type": "voice"
+      },
+      "year": 2016,
+      "last_season": 1,
+      "last_episode": 10,
+      "episodes_count": 10,
+      "kinopoisk_id": "970157",
+      "imdb_id": "tt5214252",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2017-12-14T15:08:32Z",
+      "updated_at": "2017-12-14T15:08:32Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Не отпускай меня",
+        "title_en": "Watashi wo hanasanai de",
+        "year": 2016,
+        "description": "Кёко присматривает за человеком на операционном столе. На её лице нет никаких эмоций. Она выглядит так, будто сдалась. У Кёко есть миссия. \n\r20 лет назад, Кёко, Томохико и Мива жили и учились в интернате Ёко, который был изолирован от мира и находился в горах. Директор, Эбису Камикава, говорит детям: «С тех пор, как вы родились, у вас есть миссия».",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/970157.jpg",
+        "duration": 54,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "драма",
+          "мелодрама",
+          "фантастика"
+        ],
+        "imdb_rating": 7.1,
+        "imdb_votes": 198,
+        "premiere_world": "2016-01-15",
+        "minimal_age": 0,
+        "actors": [
+          "Харука Аясэ",
+          "Харума Миура",
+          "Асами Мидзукава",
+          "Рио Судзуки",
+          "Цубаса Накагава",
+          "Мидзуки Сакура",
+          "Сэи Матобу",
+          "Аюми Ито",
+          "Масахиро Комото",
+          "Юми Асо"
+        ],
+        "directors": [
+          "Юитиро Хиракава",
+          "Такэёси Ямамото",
+          "Кэн Ёсида"
+        ],
+        "producers": [
+          "Кадзутака Иида",
+          "Акихико Ватасэ"
+        ],
+        "writers": [
+          "Кадзуо Исигуро",
+          "Ёсико Морисита"
+        ],
+        "composers": [
+          "Ютака Ямада"
+        ]
+      }
+    },
+    {
+      "id": "movie-19994",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Отец полицейского 2",
+      "title_orig": "De père en flic 2",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1010024",
+      "imdb_id": "tt6148090",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-12-12T19:10:19Z",
+      "updated_at": "2017-12-14T08:46:41Z",
+      "material_data": {
+        "title": "Отец полицейского 2",
+        "title_en": "De père en flic 2",
+        "year": 2017,
+        "description": "Полицейский пытается выбить признание из преступника, попутно решая свои проблемы с собственным отцом и девушкой, да ещё и находясь под прикрытием.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1010024.jpg",
+        "duration": 117,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "imdb_rating": 6.7,
+        "imdb_votes": 739,
+        "premiere_world": "2017-07-13",
+        "minimal_age": 0,
+        "actors": [
+          "Мишель Коте",
+          "Луи-Жозе Уд",
+          "Карин Ванасс",
+          "Патрис Робитейлл",
+          "Жюли ЛеБретон",
+          "Хелен Буржуа Леклерк",
+          "Соня Вашон",
+          "Диана Лавалли",
+          "Ив Жак",
+          "Mariana Mazza"
+        ],
+        "directors": [
+          "Эмиль Годро"
+        ],
+        "producers": [
+          "Дениз Робер"
+        ],
+        "writers": [
+          "Eric K. Boulianne",
+          "Эмиль Годро",
+          "Sébastien Ravary"
+        ],
+        "composers": [
+          "Фм Ле Сюр"
+        ],
+        "editors": [
+          "Артур Тарновски"
+        ],
+        "designers": [
+          "Жинетт Маньи"
+        ],
+        "operators": [
+          "Женевьева Перрон"
+        ]
+      }
+    },
+    {
+      "id": "movie-20007",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Совет да любовь",
+      "title_orig": "Mubarakan",
+      "translation": {
+        "id": 605,
+        "title": "Люб. Двухголосый",
+        "type": "voice"
+      },
+      "year": 2017,
+      "kinopoisk_id": "1022341",
+      "imdb_id": "tt6272828",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2017-12-14T06:55:05Z",
+      "updated_at": "2017-12-14T06:55:05Z",
+      "material_data": {
+        "title": "Совет да любовь",
+        "title_en": "Mubarakan",
+        "year": 2017,
+        "description": "Каран и Чаран - близнецы, которые по воле судьбы оказываются двоюродными братьями. Один вырос в Чандигархе, другой - в Лондоне, и оба настолько разные, насколько только могут быть разными братья. Самое смешное начинается тогда, когда их семьи принимаются искать им невест, не зная, что у обоих уже есть подруги. Сможет ли хитроумный дядюшка Картар помочь братьям выбраться из этой неразберихи или запутает все еще больше?",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1022341.jpg",
+        "duration": 156,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "комедия",
+          "мелодрама"
+        ],
+        "imdb_rating": 5.5,
+        "imdb_votes": 3514,
+        "premiere_ru": "2017-08-10",
+        "premiere_world": "2017-07-27",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 0,
+        "actors": [
+          "Анил Капур",
+          "Арджун Капур",
+          "Илеана Д’Крус",
+          "Атья Шетти",
+          "Неха Шарма",
+          "Винит Кумар Сингх",
+          "Паван Малхотра",
+          "Рэтна Патхак",
+          "Каран Кундра",
+          "Анил Чаранджитт"
+        ],
+        "directors": [
+          "Анис Базми"
+        ],
+        "producers": [
+          "Мурад Кхетани",
+          "Ашвин Варде",
+          "Ollwyn Dsouza",
+          "Джим Эдгар",
+          "Джатин Паван Гиротра",
+          "Balwinder Singh Janjua",
+          "Химаншу Джоши",
+          "Фирузи Кхан",
+          "Pranjal Khandhdiya",
+          "Нирадж Котхари"
+        ],
+        "writers": [
+          "Рапиндер Чахал",
+          "Раджеш Чавла",
+          "Balwinder Singh Janjua"
+        ],
+        "composers": [
+          "Амаль Маллик",
+          "Rishi Rich",
+          "Gourav Roshan"
+        ],
+        "editors": [
+          "Sandeep Kurup"
+        ],
+        "designers": [
+          "Дурга Прасад Мохапатра",
+          "Смита Камбли",
+          "John Murphy",
+          "Anupamey Sawale",
+          "Дипика Лал",
+          "Анирудх Сингх",
+          "Субод Шривастава"
+        ],
+        "operators": [
+          "Химман Дхамиджа",
+          "Jitan Harmeet Singh"
+        ]
+      }
+    },
+    {
       "id": "movie-19997",
       "type": "foreign-movie",
       "link": "",
@@ -920,8 +1336,9 @@
           "мелодрама"
         ],
         "imdb_rating": 5.9,
-        "imdb_votes": 1047,
+        "imdb_votes": 1056,
         "premiere_world": "2017-11-12",
+        "minimal_age": 0,
         "actors": [
           "Алекса ПенаВега",
           "Карлос ПенаВега",
@@ -6033,7 +6450,7 @@
         "anime_kind": "tv",
         "anime_status": "released",
         "year": 2012,
-        "description": "Конец XIX века. Неосторожно завернув на повороте, повозка с молодой семьей разбилась. Случайно оказавшийся там человек по имени Дарио Брандо решил обокрасть похожего на аристократа пострадавшего. Но, к его сожалению, мужчина оказался жив. Поблагодарив Дарио за спасение жизни, сэр Джостар как истинный джентльмен пообещал не остаться в долгу.\n\rСпустя 12 лет, умирая, Дарио через сына передал Джостару письмо, с просьбой приютить молодого отпрыска. После смерти отца Дио Брандо отправился в поместье, где он мгновенно испортил отношения с единственным сыном владельца дома Джонатаном. Джо усердно старался выглядеть как джентльмен, но это ему плохо удавалось, а с появлением Дио его беззаботная жизнь и вовсе превратилась в кошмар.",
+        "description": "Англия, конец XIX века. Богатый аристократ Джордж Джостар, верный некогда данному слову, принимает в семью осиротевшего бедного парня Дио и теперь относится к нему как к сыну. Родной же сын Джорджа Джонатан совсем не рад новому «брату», ведь тот превосходит его во всём, но вскоре благородство отца обернётся для него настоящей трагедией. Внимание Дио привлекает Каменная маска — семейная реликвия, украв которую он высвобождает древние силы, способные превратить его в неуязвимого вампира. На протяжении многих десятилетий против зла будут сражаться представители разных поколений семьи Джостар: Джонатан Джостар, Джозеф Джостар, Дзётаро Кудзё, Дзёсукэ Хигасиката, Джорно Джованна, Джолин Кудзё.",
         "poster_url": "https://st.kp.yandex.net/images/film_big/707636.jpg",
         "screenshots": [
           "https://shikimori.one/system/screenshots/original/bc56d7ad4c587532f3791a62ec250fcf00a6c515.jpg",
@@ -6060,12 +6477,12 @@
           "David Production"
         ],
         "kinopoisk_rating": 8.6,
-        "kinopoisk_votes": 18971,
+        "kinopoisk_votes": 19585,
         "imdb_rating": 8.4,
-        "imdb_votes": 10584,
+        "imdb_votes": 11364,
         "shikimori_rating": 8.03,
         "shikimori_votes": 42520,
-        "premiere_world": "2012-10-05",
+        "premiere_world": "2012-10-04",
         "aired_at": "2012-10-06",
         "released_at": "2013-04-06",
         "rating_mpaa": "R",
@@ -6073,16 +6490,16 @@
         "episodes_total": 26,
         "episodes_aired": 26,
         "actors": [
-          "Даисукэ Оно",
+          "Кадзуюки Окицу",
+          "Томокадзу Сугита",
           "Унсё Исидзука",
+          "Даисукэ Оно",
+          "Юки Оно",
+          "Кэнсё Оно",
+          "Аи Файруз",
           "Тору Окава",
           "Фумитомо Комацу",
-          "Юки Оно",
-          "Дайсукэ Хиракава",
-          "Кэнта Миякэ",
-          "Такэхито Коясу",
-          "Ватару Такаги",
-          "Юки Кадзи"
+          "Даисукэ Хиракава"
         ],
         "directors": [
           "Кэнъити Судзуки",
@@ -6970,8 +7387,9 @@
           "история"
         ],
         "imdb_rating": 6.9,
-        "imdb_votes": 90,
+        "imdb_votes": 97,
         "premiere_world": "2017-10-19",
+        "minimal_age": 0,
         "actors": [
           "Чо Джин-ун",
           "Сон Сын-хон",
@@ -9763,455 +10181,6 @@
         ],
         "operators": [
           "Янник Нолин"
-        ]
-      }
-    },
-    {
-      "id": "movie-19603",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Невиновный",
-      "title_orig": "8 Thottakkal",
-      "translation": {
-        "id": 764,
-        "title": "Red Media",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1057521",
-      "imdb_id": "tt6747242",
-      "quality": "SATRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-11-14T06:37:24Z",
-      "updated_at": "2017-11-14T06:37:24Z",
-      "material_data": {
-        "title": "8 пуль",
-        "title_en": "8 Thottakkal",
-        "year": 2017,
-        "description": "Еще в детстве Сатье пришлось столкнуться с несправедливостью. Он отсидел восемь лет в колонии для несовершеннолетних за убийство, которого не совершал. По рекомендации надзирателя, который проникся симпатией к смышлёному и прилежному парнишке, повзрослевший Сатья идёт служить в полицию. Но и здесь его преследуют неудачи. Однажды в автобусе карманник вытаскивает у него служебный пистолет. В чьих руках окажется оружие, и к каким несчастьям это приведёт?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1057521.jpg",
-        "duration": 145,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "триллер"
-        ],
-        "imdb_rating": 7.6,
-        "imdb_votes": 1600,
-        "premiere_world": "2017-04-07",
-        "minimal_age": 0,
-        "actors": [
-          "Ветри",
-          "М.С. Бхаскар",
-          "Апарна Баламурали",
-          "Нассер",
-          "Маникандан",
-          "Миме Гопи",
-          "Мира Митхун",
-          "Ранджит",
-          "Р.С. Шиваджи",
-          "Т. Сива"
-        ],
-        "directors": [
-          "Sri Ganesh"
-        ],
-        "producers": [
-          "M. Vellapandian"
-        ],
-        "writers": [
-          "Sri Ganesh"
-        ],
-        "composers": [
-          "K.S. Sundaramurthy"
-        ],
-        "editors": [
-          "Nagooran"
-        ],
-        "operators": [
-          "Dinesh K. Babu"
-        ]
-      }
-    },
-    {
-      "id": "serial-6011",
-      "type": "russian-serial",
-      "link": "",
-      "title": "Макар-следопыт",
-      "title_orig": "Макар-следопыт",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1984,
-      "last_season": 1,
-      "last_episode": 3,
-      "episodes_count": 3,
-      "kinopoisk_id": "95620",
-      "imdb_id": "tt0263692",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-13T22:13:29Z",
-      "updated_at": "2017-11-13T22:13:29Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Макар-следопыт",
-        "year": 1984,
-        "description": "Юные герои фильма, подростки, переживают множество увлекательных и опасных приключений, активно участвуя в событиях гражданской войны...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/95620.jpg",
-        "duration": 202,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "семейный"
-        ],
-        "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 1804,
-        "imdb_rating": 7.6,
-        "imdb_votes": 77,
-        "premiere_world": "1984-11-07",
-        "minimal_age": 0,
-        "actors": [
-          "Максим Минин",
-          "Сергей Саватеев",
-          "Ангелина Полянчукова",
-          "Александр Леньков",
-          "Андрей Ростоцкий",
-          "Иван Краско",
-          "Владимир Этуш",
-          "Олег Борисов",
-          "Александр Липов",
-          "Алексей Горбунов"
-        ],
-        "directors": [
-          "Николай Ковальский"
-        ],
-        "writers": [
-          "Анатолий Козак",
-          "Лев Остроумов"
-        ],
-        "composers": [
-          "Виктор Лебедев"
-        ],
-        "designers": [
-          "Валерий Юркевич"
-        ],
-        "operators": [
-          "Александр Чечулин"
-        ]
-      }
-    },
-    {
-      "id": "serial-6006",
-      "type": "russian-serial",
-      "link": "",
-      "title": "Любовь с привилегиями",
-      "title_orig": "Любовь с привилегиями",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1989,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "kinopoisk_id": "45156",
-      "imdb_id": "tt0097797",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2017-11-13T22:05:50Z",
-      "updated_at": "2017-11-13T22:05:50Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Любовь с привилегиями",
-        "year": 1989,
-        "description": "СССР, конец 80-х. Бывший заместитель председателя Совмина Кожемякин приезжает отдыхать в Ялту. Встретить его на вокзале попросили Ирину, которая работает водителем автофургона. Случайное курортное знакомство неожиданно переросло в нечто большее. Ни разница в возрасте, ни в социальном положении не стали помехой. Ирина соглашается стать женой Кожемякина и переезжает в Москву.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/45156.jpg",
-        "duration": 135,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.4,
-        "kinopoisk_votes": 3504,
-        "imdb_rating": 7,
-        "imdb_votes": 107,
-        "premiere_world": "1990-11-01",
-        "minimal_age": 16,
-        "actors": [
-          "Любовь Полищук",
-          "Вячеслав Тихонов",
-          "Олег Табаков",
-          "Лидия Федосеева-Шукшина",
-          "Игорь Волков",
-          "Петр Щербаков",
-          "Александр Феклистов",
-          "Светлана Жгун",
-          "Юрий Саранцев",
-          "Александра Назарова"
-        ],
-        "directors": [
-          "Владимир Кучинский"
-        ],
-        "writers": [
-          "Эмиль Брагинский",
-          "Валентин Черных"
-        ],
-        "composers": [
-          "Алемдар Караманов"
-        ],
-        "designers": [
-          "Геннадий Бабуров"
-        ],
-        "operators": [
-          "Феликс Кефчиян"
-        ]
-      }
-    },
-    {
-      "id": "movie-19614",
-      "type": "anime",
-      "link": "",
-      "title": "Блам!",
-      "title_orig": "Blame! Movie",
-      "other_title": "Блам! (фильм)",
-      "translation": {
-        "id": 677,
-        "title": "BadBajo",
-        "type": "voice"
-      },
-      "year": 2017,
-      "kinopoisk_id": "1042658",
-      "imdb_id": "tt6574146",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8566",
-      "shikimori_id": "32086",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-11-14T19:12:50Z",
-      "updated_at": "2017-11-13T12:06:24Z",
-      "material_data": {
-        "title": "Блейм!",
-        "title_en": "Blame! Movie",
-        "other_titles": [
-          "Blame!: The Ancient Terminal City",
-          "Blame!: Tanmatsu Ikou Toshi"
-        ],
-        "other_titles_jp": [
-          "BLAME!"
-        ],
-        "anime_license_name": "BLAME!",
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2017,
-        "tagline": "Inside a vast, self-replicating city bent on eliminating all life, mysterious loner Killy emerges to guide a remnant of humanity desperate to survive.",
-        "description": "Далёкое будущее. После распространения инфекции люди теряют связь с сетевой сферой. Из под контроля выходят роботы-строители и стражники: строители бесконтрольно перестраивают город, стражники объявляют жителей города вне закона и принимаются за их истребление. Группе людей удаётся выжить в одном поселении благодаря периметру, за который стражникам не пройти. Однако отсутствие пищи заставляет людей покидать безопасное укрытие и отправляться на поиски пропитания. Однажды один из отрядов встречает чужестранца по имени Килли. Он ищет геном сетевого терминала, чтобы с его помощью вернуть людям власть над машинами.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1042658.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/903325379e393073f522ff4f5f33a1e2deef85dd.jpg",
-          "https://shikimori.one/system/screenshots/original/db9b5fb373c454b84454149b28c43be63e4a259a.jpg"
-        ],
-        "duration": 110,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фантастика"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Меха",
-          "Психологическое",
-          "Сейнен",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Polygon Pictures"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 2081,
-        "imdb_rating": 6.7,
-        "imdb_votes": 7119,
-        "shikimori_rating": 7.13,
-        "shikimori_votes": 5388,
-        "premiere_world": "2017-05-20",
-        "aired_at": "2017-05-20",
-        "rating_mpaa": "PG-13",
-        "minimal_age": 0,
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Такахиро Сакурай",
-          "Кана Ханадзава",
-          "Сора Амамия",
-          "Мамору Мияно",
-          "Ая Судзаки",
-          "Симадзаки Нобунага",
-          "Юки Кадзи",
-          "Котаро Нисияма",
-          "Нанако Мори",
-          "Кадзухиро Ямадзи"
-        ],
-        "directors": [
-          "Хироюки Сэсита"
-        ],
-        "producers": [
-          "Ютака Акита",
-          "Сёко Яда",
-          "Ёсихико Ямадзаки",
-          "Юко Акаги",
-          "Дзюн Фукуда",
-          "Исао Хидака",
-          "Норико Матида",
-          "Такуя Мацусита",
-          "Акио Мисима",
-          "Хидэки Мория"
-        ],
-        "writers": [
-          "Садаюки Мураи",
-          "Цутому Нихэй"
-        ],
-        "composers": [
-          "Юго Канно"
-        ],
-        "editors": [
-          "Хироми Аманаи"
-        ],
-        "designers": [
-          "Наоя Танака",
-          "Хироси Такигути"
-        ],
-        "operators": [
-          "Мицунори Катама"
-        ]
-      }
-    },
-    {
-      "id": "movie-19583",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Запретная комната",
-      "title_orig": "The Forbidden Room",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2015,
-      "kinopoisk_id": "783569",
-      "imdb_id": "tt3066630",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2017-11-13T16:57:40Z",
-      "updated_at": "2017-11-13T11:31:45Z",
-      "material_data": {
-        "title": "Запретная комната",
-        "title_en": "The Forbidden Room",
-        "year": 2015,
-        "description": "Таинственный дровосек появляется на борту подводной лодки, которая несколько месяцев находится под водой в ловушке из-за нестабильного груза. Это событие заставляет команду обреченного судна встретиться с своими самыми потаенными страхами.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/783569.jpg",
-        "duration": 130,
-        "countries": [
-          "Канада"
-        ],
-        "genres": [
-          "детектив",
-          "комедия"
-        ],
-        "kinopoisk_rating": 6.2,
-        "kinopoisk_votes": 540,
-        "imdb_rating": 6.1,
-        "imdb_votes": 2952,
-        "premiere_world": "2015-01-26",
-        "minimal_age": 0,
-        "actors": [
-          "Рой Дюпюи",
-          "Клара Фьюри",
-          "Луис Негин",
-          "Удо Кир",
-          "Григорий Гладий",
-          "Матьё Амальрик",
-          "Ноэль Бертон",
-          "Джеральдин Чаплин",
-          "Поль Амарани",
-          "Кэрелин Деверне"
-        ],
-        "directors": [
-          "Гай Мэддин",
-          "Эван Джонсон"
-        ],
-        "producers": [
-          "Фиби Гринберг",
-          "Филлис Лэйн",
-          "Гай Мэддин",
-          "Пенни Манкусо",
-          "Паскаль Барнвилль",
-          "Дэвид Кристенсен",
-          "François-Pierre Clavel",
-          "Olivia Cooper Hadjian",
-          "Жан Ду Ту",
-          "Бастьен Эузан"
-        ],
-        "writers": [
-          "Гай Мэддин",
-          "Эван Джонсон",
-          "Robert Kotyk",
-          "John Ashbery",
-          "Ким Морган"
-        ],
-        "composers": [
-          "Гален Джонсон",
-          "Гай Мэддин",
-          "Джейсон Стацек"
-        ],
-        "editors": [
-          "Джон Гурдебеке"
-        ],
-        "designers": [
-          "Гален Джонсон",
-          "Бриджитт Генри",
-          "Крис Лэвис",
-          "Мацек Щербовски",
-          "Джули Чэрленд",
-          "Оливье Лижан",
-          "Элоди Мард-Паскуалини",
-          "Yso South"
-        ],
-        "operators": [
-          "Бенджамин Касулке",
-          "Стефани Энн Вебер Бирон"
         ]
       }
     }
