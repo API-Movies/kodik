@@ -1,6 +1,757 @@
 {
   "results": [
     {
+      "id": "movie-60528",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Зайчишка заблудился",
+      "title_orig": "Zaychishka zabludilsya",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1973,
+      "kinopoisk_id": "586446",
+      "imdb_id": "tt9089842",
+      "quality": "DVBRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T10:43:44Z",
+      "updated_at": "2020-09-16T10:43:44Z",
+      "material_data": {
+        "title": "Зайчишка заблудился",
+        "year": 1973,
+        "description": "Приключения зайчишки, который убежал из дома и заблудился в лесу.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/586446.jpg",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 6.4,
+        "kinopoisk_votes": 136,
+        "imdb_rating": 6.7,
+        "imdb_votes": 10,
+        "minimal_age": 6,
+        "actors": [
+          "Людмила Козуб",
+          "Людмила Игнатенко",
+          "Владимир Коршун",
+          "Лина Будник"
+        ],
+        "directors": [
+          "Владимир Гончаров"
+        ],
+        "writers": [
+          "Владимир Капустян"
+        ],
+        "composers": [
+          "В. Крутиков"
+        ],
+        "designers": [
+          "Радна Сахалтуев",
+          "Владимир Гончаров"
+        ],
+        "operators": [
+          "Анатолий Гаврилов"
+        ]
+      }
+    },
+    {
+      "id": "movie-27795",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Падре",
+      "title_orig": "The Padre",
+      "translation": {
+        "id": 794,
+        "title": "HDrezka Studio",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1090419",
+      "imdb_id": "tt6782276",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T14:34:05Z",
+      "updated_at": "2020-09-16T10:40:04Z",
+      "material_data": {
+        "title": "Падре",
+        "title_en": "The Padre",
+        "year": 2018,
+        "description": "Немолодой вор Падре скрывается от полиции на угнанной машине, не заметив, что в салоне спряталась девочка-подросток. Неудобная попутчица уговаривает Падре сделать ее своей напарницей и вместе провернуть по-настоящему крупное ограбление.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1090419.jpg",
+        "duration": 98,
+        "countries": [
+          "Канада"
+        ],
+        "genres": [
+          "драма",
+          "криминал"
+        ],
+        "kinopoisk_rating": 5.8,
+        "kinopoisk_votes": 406,
+        "imdb_rating": 5.8,
+        "imdb_votes": 1363,
+        "premiere_world": "2018-09-28",
+        "rating_mpaa": "R",
+        "minimal_age": 0,
+        "actors": [
+          "Тим Рот",
+          "Ник Нолти",
+          "Луис Гусман",
+          "Хуана Арболеда",
+          "Хулио Пачон",
+          "Нельсон Камайо",
+          "Diego Figueroa",
+          "Бенжамин Петерсен",
+          "Obeida Benavidez",
+          "Ana Maria Arguelles"
+        ],
+        "directors": [
+          "Джонатан Собол"
+        ],
+        "producers": [
+          "Гарри Черняк",
+          "Леа Джаунземс",
+          "Берри Майровиц",
+          "Алан Молони",
+          "Сьюзэн Маллен",
+          "Джефф Сэкман",
+          "Николас Табаррок"
+        ],
+        "writers": [
+          "Стивен Кунц"
+        ],
+        "composers": [
+          "Грэйсон Мэтьюз"
+        ],
+        "editors": [
+          "Брайан Эткинсон"
+        ],
+        "designers": [
+          "Иниго Наварро",
+          "Шила Фицпатрик",
+          "Мария Андреа Рангель"
+        ],
+        "operators": [
+          "Пол Шарошши"
+        ]
+      }
+    },
+    {
+      "id": "serial-16426",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Рилаккума и Каору",
+      "title_orig": "Rilakkuma to Kaoru-san",
+      "other_title": "Rilakkuma and Kaoru",
+      "translation": {
+        "id": 869,
+        "title": "Субтитры",
+        "type": "subtitles"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 13,
+      "episodes_count": 13,
+      "kinopoisk_id": "1219152",
+      "imdb_id": "tt9348716",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9890",
+      "shikimori_id": "35777",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-04-21T04:47:04Z",
+      "updated_at": "2020-09-16T08:16:05Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Рилаккума и Каору",
+        "title_en": "Rilakkuma to Kaorusan",
+        "other_titles_en": [
+          "Rilakkuma and Kaoru"
+        ],
+        "other_titles_jp": [
+          "リラックマとカオルさん"
+        ],
+        "anime_license_name": "Рилаккума и Каору",
+        "anime_kind": "ona",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "Будни офисной работницы Каору и внезапно поселившегося у неё медведя по имени Рилаккума с молнией-застёжкой на спине, который только и хочет, что есть и валяться днями напролёт.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1219152.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/c53e4852639af8a054bd41ff79e0a4ae0abf7c2e.jpg",
+          "https://shikimori.one/system/screenshots/original/72ace43931c3b1f8e41d5d377b09a66be42e31b4.jpg"
+        ],
+        "duration": 12,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "семейный"
+        ],
+        "anime_genres": [
+          "Детское"
+        ],
+        "anime_studios": [
+          "dwarf"
+        ],
+        "kinopoisk_rating": 7.8,
+        "kinopoisk_votes": 200,
+        "imdb_rating": 8.4,
+        "imdb_votes": 1381,
+        "shikimori_rating": 7.65,
+        "shikimori_votes": 85,
+        "premiere_world": "2019-04-19",
+        "aired_at": "2019-04-19",
+        "rating_mpaa": "PG",
+        "minimal_age": 6,
+        "episodes_total": 13,
+        "episodes_aired": 13,
+        "actors": [
+          "Микако Табэ",
+          "Маи Канадзава",
+          "Сигэру Сугимото",
+          "Иссэи Такубо",
+          "Соки Мацумото",
+          "Такаюки Ямада",
+          "Кана Оодаира",
+          "Аяно Кинаси",
+          "Хитоси Хонма",
+          "Юкари Какиути"
+        ],
+        "directors": [
+          "Масахито Кобаяси"
+        ],
+        "producers": [
+          "Норико Мацумото",
+          "Юрико Окада",
+          "Хироки Ито"
+        ],
+        "writers": [
+          "Аки Кондо",
+          "Наоко Огигами"
+        ],
+        "composers": [
+          "Сигэру Кисида"
+        ],
+        "designers": [
+          "Хиро Минэгиси",
+          "Франческа Р. Натали"
+        ]
+      }
+    },
+    {
+      "id": "movie-60501",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Девочка и лев",
+      "title_orig": "Девочка и лев",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1974,
+      "kinopoisk_id": "661267",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T07:58:21Z",
+      "updated_at": "2020-09-16T07:58:21Z",
+      "material_data": {
+        "title": "Девочка и лев",
+        "title_en": "Devochka i lev",
+        "year": 1974,
+        "description": "О девочке, которая вылечила больного льва.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/661267.jpg",
+        "duration": 16,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "minimal_age": 0,
+        "actors": [
+          "Нина Паластрова",
+          "Галина Малиновская",
+          "М. Зубарева",
+          "И. Христолюбова"
+        ],
+        "directors": [
+          "Леонид Кощеников"
+        ],
+        "writers": [
+          "Яков Аким"
+        ],
+        "composers": [
+          "Олег Хромушин"
+        ],
+        "designers": [
+          "Л. Романова"
+        ],
+        "operators": [
+          "Станислав Ольшевский"
+        ]
+      }
+    },
+    {
+      "id": "movie-60502",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Властелин быта",
+      "title_orig": "Vlastelin byta",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1932,
+      "kinopoisk_id": "45797",
+      "imdb_id": "tt0174324",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T07:57:39Z",
+      "updated_at": "2020-09-16T07:57:39Z",
+      "material_data": {
+        "title": "Властелин быта",
+        "year": 1932,
+        "description": "О борьбе за утверждение новых бытовых норм.",
+        "duration": 15,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "комедия",
+          "короткометражка",
+          "мультфильм"
+        ],
+        "imdb_rating": 7,
+        "imdb_votes": 9,
+        "minimal_age": 0,
+        "actors": [
+          "Н. Бравин"
+        ],
+        "directors": [
+          "Александр Птушко"
+        ],
+        "writers": [
+          "Николай Ренков",
+          "Александр Птушко"
+        ],
+        "composers": [
+          "Сергей Ряузов"
+        ],
+        "operators": [
+          "Николай Ренков"
+        ]
+      }
+    },
+    {
+      "id": "movie-60503",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Боевые страницы",
+      "title_orig": "Boevye stranitsy",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1939,
+      "kinopoisk_id": "635117",
+      "imdb_id": "tt4190670",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T07:56:46Z",
+      "updated_at": "2020-09-16T07:56:46Z",
+      "material_data": {
+        "title": "Боевые страницы",
+        "year": 1939,
+        "description": "Политическое кинообозрение о Советской Армии и ее борьбе с врагами Советского Союза.",
+        "duration": 9,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "военный",
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 5.3,
+        "kinopoisk_votes": 116,
+        "minimal_age": 0,
+        "directors": [
+          "Дмитрий Бабиченко"
+        ],
+        "writers": [
+          "М. Коссовский",
+          "Дмитрий Бабиченко"
+        ],
+        "editors": [
+          "Алексей Аксенов"
+        ],
+        "designers": [
+          "А. Баженов",
+          "Григорий Козлов"
+        ],
+        "operators": [
+          "К. Крылова"
+        ]
+      }
+    },
+    {
+      "id": "movie-60504",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Блэк энд уайт",
+      "title_orig": "Blek end uayt (Chernoe i beloe)",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1932,
+      "kinopoisk_id": "416491",
+      "imdb_id": "tt1240905",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T07:55:37Z",
+      "updated_at": "2020-09-16T07:55:37Z",
+      "material_data": {
+        "title": "Блэк энд уайт",
+        "year": 1932,
+        "description": "По мотивам одноименного стихотворения Маяковского.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/416491.jpg",
+        "duration": 3,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 5.7,
+        "kinopoisk_votes": 278,
+        "imdb_rating": 6.5,
+        "imdb_votes": 105,
+        "premiere_world": "1932-11-23",
+        "minimal_age": 0,
+        "actors": [
+          "Константин Эггерт"
+        ],
+        "directors": [
+          "Леонид Амальрик",
+          "Иван Иванов-Вано"
+        ],
+        "writers": [
+          "Владимир Маяковский",
+          "Иосиф Склют"
+        ],
+        "composers": [
+          "Герман Гамбург"
+        ]
+      }
+    },
+    {
+      "id": "movie-60505",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Вожак",
+      "title_orig": "Вожак",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1978,
+      "kinopoisk_id": "694590",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T07:54:44Z",
+      "updated_at": "2020-09-16T07:54:44Z",
+      "material_data": {
+        "title": "Вожак",
+        "year": 1978,
+        "description": "Вожак гусиной стаи рассказывает о жестокости людей.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/694590.jpg",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "minimal_age": 0,
+        "actors": [
+          "Василий Лановой",
+          "Александр Мовчан",
+          "Борис Вознюк",
+          "Давид Бабаев"
+        ],
+        "directors": [
+          "Константин Чикин"
+        ],
+        "writers": [
+          "Юлиан Семенов"
+        ],
+        "composers": [
+          "Борис Буевский"
+        ],
+        "editors": [
+          "Юлия Сребницкая"
+        ],
+        "designers": [
+          "Генрих Уманский"
+        ],
+        "operators": [
+          "Александр Мухин"
+        ]
+      }
+    },
+    {
+      "id": "movie-60507",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Скрипка пионера",
+      "title_orig": "The Pioneer's Violin",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1971,
+      "kinopoisk_id": "478804",
+      "imdb_id": "tt1943844",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T07:52:31Z",
+      "updated_at": "2020-09-16T07:52:31Z",
+      "material_data": {
+        "title": "Скрипка пионера",
+        "year": 1971,
+        "description": "Рассказ о подвиге юного героя, отдавшего жизнь во имя Родины.",
+        "duration": 8,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 5.9,
+        "kinopoisk_votes": 142,
+        "imdb_rating": 6.5,
+        "imdb_votes": 38,
+        "minimal_age": 0,
+        "directors": [
+          "Борис Степанцев"
+        ],
+        "writers": [
+          "Юрий Яковлев"
+        ],
+        "composers": [
+          "Михаил Зив"
+        ],
+        "designers": [
+          "Анатолий Савченко"
+        ],
+        "operators": [
+          "Михаил Друян"
+        ]
+      }
+    },
+    {
+      "id": "movie-60508",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Шубка для тучи",
+      "title_orig": "Шубка для тучи",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "585201",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T07:51:19Z",
+      "updated_at": "2020-09-16T07:51:19Z",
+      "material_data": {
+        "title": "Шубка для тучи",
+        "year": 1987,
+        "description": "Как волшебник-портной превратил невзрачный уголок в цветущую долину.",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "minimal_age": 0,
+        "directors": [
+          "Мунавар Мансурходжаев"
+        ],
+        "writers": [
+          "И. Демин"
+        ],
+        "composers": [
+          "Геннадий Александров"
+        ],
+        "operators": [
+          "Александр Шабатаев"
+        ]
+      }
+    },
+    {
+      "id": "movie-60509",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Савушкин, который не верил в чудеса",
+      "title_orig": "Savushkin, kotoryy ne veril v chudesa",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1983,
+      "kinopoisk_id": "540820",
+      "imdb_id": "tt6118550",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T07:50:17Z",
+      "updated_at": "2020-09-16T07:50:17Z",
+      "material_data": {
+        "title": "Савушкин, который не верил в чудеса",
+        "year": 1983,
+        "description": "Сколько раз приходило чудо к прагматичному клерку Савушкину - и каждый раз он отмахивался от него, а потом бессильно наблюдал, как чудо и счастье достаются другому.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/540820.jpg",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 142,
+        "minimal_age": 6,
+        "actors": [
+          "Георгий Кислюк",
+          "А. Ганинский",
+          "Давид Бабаев",
+          "Лидия Яремчук",
+          "Мальвина Швидлер"
+        ],
+        "directors": [
+          "Елена Баринова"
+        ],
+        "writers": [
+          "Елена Баринова",
+          "Владлен Бахнов"
+        ],
+        "composers": [
+          "Владимир Быстряков"
+        ],
+        "designers": [
+          "Наталия Чернышева",
+          "О. Янковская",
+          "Т. Черни"
+        ],
+        "operators": [
+          "Анатолий Гаврилов"
+        ]
+      }
+    },
+    {
+      "id": "movie-60510",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Просчитался",
+      "title_orig": "Proschitalsya",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1972,
+      "kinopoisk_id": "1044386",
+      "imdb_id": "tt6782604",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-09-16T07:49:15Z",
+      "updated_at": "2020-09-16T07:49:15Z",
+      "material_data": {
+        "title": "Просчитался",
+        "year": 1972,
+        "description": "Фильм про расчетливого хозяина, который решил сэкономить на страховке дома, и что из этого получилось…",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1044386.jpg",
+        "duration": 10,
+        "countries": [
+          "СССР"
+        ],
+        "genres": [
+          "короткометражка",
+          "мультфильм"
+        ],
+        "minimal_age": 0,
+        "directors": [
+          "Валентин Караваев"
+        ],
+        "writers": [
+          "Святослав Спасский"
+        ],
+        "editors": [
+          "Валентин Караваев"
+        ],
+        "designers": [
+          "Виктор Никитин"
+        ]
+      }
+    },
+    {
       "id": "movie-60511",
       "type": "russian-movie",
       "link": "",
@@ -2212,7 +2963,7 @@
         "imdb_rating": 8.2,
         "imdb_votes": 8493,
         "shikimori_rating": 8.19,
-        "shikimori_votes": 17924,
+        "shikimori_votes": 17927,
         "premiere_world": "2006-04-04",
         "aired_at": "2006-04-05",
         "released_at": "2006-09-27",
@@ -2498,10 +3249,10 @@
         "anime_studios": [
           "Tezuka Productions"
         ],
-        "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 1496,
-        "imdb_rating": 7.5,
-        "imdb_votes": 2055,
+        "kinopoisk_rating": 7.1,
+        "kinopoisk_votes": 1537,
+        "imdb_rating": 7.6,
+        "imdb_votes": 2150,
         "shikimori_rating": 7.64,
         "shikimori_votes": 14981,
         "premiere_world": "2019-01-11",
@@ -6097,743 +6848,6 @@
         ],
         "composers": [
           "Кэидзи Инаи"
-        ]
-      }
-    },
-    {
-      "id": "movie-60404",
-      "type": "anime",
-      "link": "",
-      "title": "Певчая птица крыльями не машет: Тучи сгущаются",
-      "title_orig": "Saezuru Tori Wa Habatakanai: The Clouds Gather",
-      "other_title": "Певчая птица крыльями не машет",
-      "translation": {
-        "id": 910,
-        "title": "AniStar",
-        "type": "voice"
-      },
-      "year": 2020,
-      "kinopoisk_id": "1289091",
-      "imdb_id": "tt10675392",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10079",
-      "shikimori_id": "39761",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-15T07:53:23Z",
-      "updated_at": "2020-09-15T07:55:42Z",
-      "material_data": {
-        "title": "Певчая птица крыльями не машет: Тучи сгущаются",
-        "title_en": "Saezuru Tori Wa Habatakanai: The Clouds Gather",
-        "other_titles": [
-          "Twittering Birds Never Fly"
-        ],
-        "other_titles_jp": [
-          "囀る鳥は羽ばたかない The clouds gather"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2020,
-        "description": "Ясиро – молодой лидер группировки якудза и президент Shinseikai Enterprise. На первый взгляд, он обычный успешный бизнесмен, но у него есть мазохистские наклонности. Он никогда не пересекает грань рабочих отношений с подчинёнными, но в его новом телохранителе Тикаре Домэки есть что-то, чему он не может сопротивляться. Ясиро оказывает Домэки знаки внимания, но у того есть причины для отказа. Так начинается история двух мужчин, один из которых злоупотребляет своей властью, чтобы причинить себе боль, а другой добросовестно исполняет каждый его приказ.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1289091.jpg",
-        "duration": 85,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Яой"
-        ],
-        "anime_studios": [
-          "GRIZZLY"
-        ],
-        "imdb_rating": 7.2,
-        "imdb_votes": 337,
-        "shikimori_rating": 7.51,
-        "shikimori_votes": 674,
-        "premiere_world": "2020-02-15",
-        "aired_at": "2020-02-15",
-        "rating_mpaa": "R+",
-        "minimal_age": 0,
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Тарусукэ Сингаки",
-          "Хатано Ватару",
-          "Кэнта Миякэ",
-          "Такахиро Миякэ",
-          "Тору Окава",
-          "Кадзуюки Окицу",
-          "Юки Оно",
-          "Такуя Сато",
-          "Акимицу Такасэ",
-          "Хироки Ясумото"
-        ],
-        "directors": [
-          "Каори Макита"
-        ],
-        "writers": [
-          "Хироси Сэко",
-          "Ко Ёнэда"
-        ],
-        "composers": [
-          "Hzettrio"
-        ],
-        "designers": [
-          "Такаёси Фукусима",
-          "Масару Сато"
-        ],
-        "operators": [
-          "Мицухиро Сато"
-        ]
-      }
-    },
-    {
-      "id": "serial-29278",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Моя геройская академия: Сделай это! Тренировка на выживание",
-      "title_orig": "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren",
-      "other_title": "My Hero Academia: Make It! Do-or-Die Survival Training",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10565",
-      "shikimori_id": "42603",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-09-15T06:23:24Z",
-      "updated_at": "2020-09-15T06:23:24Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Моя геройская академия: Сделай это! Тренировка на выживание",
-        "title_en": "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren",
-        "other_titles_en": [
-          "My Hero Academia: Make It! Do-or-Die Survival Training"
-        ],
-        "other_titles_jp": [
-          "僕のヒーローアカデミア 生き残れ！決死のサバイバル訓練"
-        ],
-        "anime_license_name": "Моя геройская академия: Сделай это! Тренировка навыков выживания",
-        "anime_kind": "ona",
-        "anime_status": "released",
-        "description": "Студенты класса 1-А отправляются оттачивать навыки на тренировке по выживанию. Однако они быстро обнаруживают, что опасность, с которой они столкнулись, вполне серьёзна! Им потребуются вся их подготовка, умение работать в команде и быстро принимать решения, если они хотят успешно завершить это задание.",
-        "poster_url": "https://shikimori.one/system/animes/original/42603.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/1264b15e1eb7180807873285792a89b2b0e1d20f.jpg",
-          "https://shikimori.one/system/screenshots/original/fc95ae3954733b37f7ccab463844e41fdbcde987.jpg"
-        ],
-        "anime_genres": [
-          "Супер сила",
-          "Сёнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Bones"
-        ],
-        "shikimori_rating": 7.13,
-        "shikimori_votes": 1653,
-        "aired_at": "2020-08-16",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 2,
-        "episodes_aired": 0
-      }
-    },
-    {
-      "id": "movie-60403",
-      "type": "anime",
-      "link": "",
-      "title": "Люпен III: Украденный Люпен",
-      "title_orig": "Rupan sansei: Nusumareta rupan",
-      "other_title": "Люпен III: Украденный Люпен (спецвыпуск 16)",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2004,
-      "kinopoisk_id": "308265",
-      "imdb_id": "tt0834584",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2773",
-      "shikimori_id": "1429",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-15T04:39:46Z",
-      "updated_at": "2020-09-15T04:39:46Z",
-      "material_data": {
-        "title": "Люпен III: Украденный Люпен",
-        "title_en": "Rupan sansei: Nusumareta rupan",
-        "other_titles": [
-          "Lupin III: Stolen Lupin",
-          "Rupan Sansei: Nusumareta Rupan",
-          "Lupin III: Stolen Lupin - Copycat Summer Butterflies"
-        ],
-        "other_titles_jp": [
-          "ルパン三世 「盗まれたルパン ～コピーキャットは真夏の蝶～」"
-        ],
-        "anime_kind": "special",
-        "anime_status": "released",
-        "year": 2004,
-        "tagline": "Lupin the 3rd: Stolen Lupin",
-        "description": "Во время очередной операции по похищению сокровищ Люпен был схвачен неизвестными. Похитители ставят перед легендарным вором условие - выкрасть из сверхохраняемого музея «Глаз Быка», камень, который по преданиям проклят и приносит смерть каждому своему владельцу.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/308265.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/1be12cf863c2cf6cec1131a03d728fca40c9dfd9.jpg",
-          "https://shikimori.one/system/screenshots/original/f4bc2b71ac6d9bf043983fa2fc1a75af8ad5eeb1.jpg"
-        ],
-        "duration": 91,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "боевик",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Комедия",
-          "Приключения",
-          "Сейнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "TMS Entertainment"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 98,
-        "imdb_rating": 7,
-        "imdb_votes": 155,
-        "shikimori_rating": 7.09,
-        "shikimori_votes": 99,
-        "premiere_world": "2004-07-30",
-        "aired_at": "2004-07-30",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Такэси Аоно",
-          "Ю Асакава",
-          "Макио Иноэ",
-          "Киёси Кобаяси",
-          "Канъити Курита",
-          "Эйко Масуяма",
-          "Киёмицу Мидзути",
-          "Кодзи Наката",
-          "Горо Ная",
-          "Тору Синагава"
-        ],
-        "directors": [
-          "Уэда Хидэхито"
-        ],
-        "producers": [
-          "Риеко Оно",
-          "Озаки",
-          "Дзюнъити Ииока"
-        ],
-        "writers": [
-          "Тосимити Окава",
-          "Манки Панч"
-        ],
-        "composers": [
-          "Юдзи Оно"
-        ],
-        "editors": [
-          "Дзюн Тагума"
-        ],
-        "designers": [
-          "Акира Судзуки"
-        ]
-      }
-    },
-    {
-      "id": "serial-28805",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Скованные судьбой",
-      "title_orig": "Soh Waree",
-      "other_title": "So Wayree / Soh Wari",
-      "translation": {
-        "id": 1512,
-        "title": "FSG Yoga.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 15,
-      "episodes_count": 15,
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-08-19T13:31:41Z",
-      "updated_at": "2020-09-14T17:04:58Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": ""
-          }
-        }
-      }
-    },
-    {
-      "id": "movie-60389",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Мартышка и смычки",
-      "title_orig": "Martyshka i smychki",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1970,
-      "kinopoisk_id": "487053",
-      "imdb_id": "tt9239288",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-14T15:21:38Z",
-      "updated_at": "2020-09-14T15:21:38Z",
-      "material_data": {
-        "title": "Мартышка и смычки",
-        "year": 1970,
-        "description": "Как Мартышка участвовала в конкурсе музыкантов.",
-        "duration": 15,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "imdb_rating": 6.2,
-        "imdb_votes": 6,
-        "minimal_age": 0,
-        "directors": [
-          "Валерий Фомин",
-          "Анатолий Аляшев"
-        ],
-        "writers": [
-          "Валерий Фомин"
-        ],
-        "composers": [
-          "Владислав Казенин"
-        ],
-        "operators": [
-          "В. Живков"
-        ]
-      }
-    },
-    {
-      "id": "movie-60391",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Мы за солнышком идем",
-      "title_orig": "My Za Solnyshkom Idyom",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1958,
-      "kinopoisk_id": "257965",
-      "imdb_id": "tt6052634",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-14T15:20:27Z",
-      "updated_at": "2020-09-14T15:20:27Z",
-      "material_data": {
-        "title": "Мы за солнышком идем",
-        "year": 1958,
-        "description": "С неба пропало солнышко, его закрыли тучи, и зверята отправились искать где оно живет, умыли его и дождь прекратился...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/257965.jpg",
-        "duration": 10,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 6.4,
-        "kinopoisk_votes": 236,
-        "imdb_rating": 5.8,
-        "imdb_votes": 8,
-        "minimal_age": 0,
-        "directors": [
-          "Владимир Дегтярев"
-        ],
-        "writers": [
-          "Р. Нагорная"
-        ],
-        "composers": [
-          "Никита Богословский"
-        ],
-        "designers": [
-          "Владимир Данилевич"
-        ],
-        "operators": [
-          "Николай Гринберг"
-        ]
-      }
-    },
-    {
-      "id": "movie-60392",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Найда",
-      "title_orig": "Nayda",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1984,
-      "kinopoisk_id": "465013",
-      "imdb_id": "tt6052736",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-14T15:19:29Z",
-      "updated_at": "2020-09-14T15:19:29Z",
-      "material_data": {
-        "title": "Найда",
-        "year": 1984,
-        "description": "Об ответственности за «братьев меньших», о том, что нельзя бросать своих маленьких четвероногих друзей.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/465013.jpg",
-        "duration": 16,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 7.5,
-        "kinopoisk_votes": 294,
-        "imdb_rating": 6.9,
-        "imdb_votes": 16,
-        "minimal_age": 0,
-        "actors": [
-          "Григорий Толчинский",
-          "Юрий Пузырёв",
-          "Н. Авдеева"
-        ],
-        "directors": [
-          "Олег Чуркин"
-        ],
-        "writers": [
-          "Сергей Иванов"
-        ],
-        "composers": [
-          "Виктор Бабушкин"
-        ],
-        "editors": [
-          "С. Симухина"
-        ],
-        "designers": [
-          "Светлана Сичкарь"
-        ],
-        "operators": [
-          "Владимир Милованов"
-        ]
-      }
-    },
-    {
-      "id": "movie-60393",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Настоящий медвежонок",
-      "title_orig": "Nastoyashchiy medvezhonok",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1977,
-      "kinopoisk_id": "579594",
-      "imdb_id": "tt6369626",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-14T15:18:35Z",
-      "updated_at": "2020-09-14T15:18:35Z",
-      "material_data": {
-        "title": "Настоящий медвежонок",
-        "year": 1977,
-        "description": "Мультфильм для малышей о медвежонке, попавшем в город...",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/579594.jpg",
-        "duration": 9,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "minimal_age": 6,
-        "directors": [
-          "Анатолий Кирик"
-        ],
-        "writers": [
-          "М. Журавлев",
-          "Н. Лень"
-        ],
-        "composers": [
-          "Антон Муха"
-        ],
-        "designers": [
-          "О. Охримец"
-        ],
-        "operators": [
-          "В. Антоненко",
-          "Т. Прошина"
-        ]
-      }
-    },
-    {
-      "id": "movie-60394",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Осторожно, караси!",
-      "title_orig": "Осторожно, караси!",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1987,
-      "kinopoisk_id": "838968",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-14T15:17:42Z",
-      "updated_at": "2020-09-14T15:17:42Z",
-      "material_data": {
-        "title": "Осторожно, караси!",
-        "year": 1987,
-        "description": "Мелиоратор не решился переделывать красивый уголок природы.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/838968.jpg",
-        "duration": 10,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "directors": [
-          "Виктор Довнар"
-        ],
-        "writers": [
-          "Наталья Лось"
-        ],
-        "composers": [
-          "Сергей Кортес"
-        ],
-        "operators": [
-          "Александр Бетев"
-        ]
-      }
-    },
-    {
-      "id": "movie-60395",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Отчего кошку назвали кошкой",
-      "title_orig": "Otchego koshku nazvali koshkoy",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1982,
-      "kinopoisk_id": "670129",
-      "imdb_id": "tt8987748",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-14T15:16:48Z",
-      "updated_at": "2020-09-14T15:16:48Z",
-      "material_data": {
-        "title": "Отчего кошку назвали кошкой",
-        "year": 1982,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/670129.jpg",
-        "duration": 3,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 6.6,
-        "kinopoisk_votes": 159,
-        "imdb_rating": 7.2,
-        "imdb_votes": 9,
-        "minimal_age": 0,
-        "actors": [
-          "Юрий Яковлев"
-        ],
-        "directors": [
-          "Мария Муат"
-        ],
-        "writers": [
-          "Виктор Мережко",
-          "Самуил Маршак"
-        ],
-        "composers": [
-          "Игорь Ефремов"
-        ],
-        "editors": [
-          "Любовь Георгиева"
-        ],
-        "designers": [
-          "Юрий Исайкин"
-        ],
-        "operators": [
-          "Игорь Скидан-Босин"
-        ]
-      }
-    },
-    {
-      "id": "movie-60396",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Представление начинается",
-      "title_orig": "Представление начинается",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1966,
-      "kinopoisk_id": "1271103",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-14T15:15:55Z",
-      "updated_at": "2020-09-14T15:15:55Z",
-      "material_data": {
-        "title": "Представление начинается",
-        "year": 1966,
-        "description": "Съемки «на скорую» спектакля самодеятельного кукольного театра Ленинградского кораблестроительного института.",
-        "duration": 21,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "minimal_age": 0,
-        "directors": [
-          "Э. Серебренников"
-        ],
-        "writers": [
-          "Э. Серебренников"
-        ],
-        "operators": [
-          "Вячеслав Бабенков"
-        ]
-      }
-    },
-    {
-      "id": "movie-60397",
-      "type": "russian-movie",
-      "link": "",
-      "title": "Приключения малыша Гиппопо",
-      "title_orig": "Priklyucheniya malysha Gippopo",
-      "translation": {
-        "id": 703,
-        "title": "Не требуется",
-        "type": "voice"
-      },
-      "year": 1974,
-      "kinopoisk_id": "678709",
-      "imdb_id": "tt9272834",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-09-14T15:14:38Z",
-      "updated_at": "2020-09-14T15:14:38Z",
-      "material_data": {
-        "title": "Приключения малыша Гиппопо",
-        "year": 1974,
-        "description": "Бегемотик ищет Маму, похищенную Охотником.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/678709.jpg",
-        "duration": 9,
-        "countries": [
-          "СССР"
-        ],
-        "genres": [
-          "короткометражка",
-          "мультфильм"
-        ],
-        "kinopoisk_rating": 7.2,
-        "kinopoisk_votes": 107,
-        "imdb_rating": 7.6,
-        "imdb_votes": 14,
-        "minimal_age": 6,
-        "actors": [
-          "Людмила Игнатенко",
-          "Георгий Кислюк",
-          "Людмила Козуб",
-          "Наталья Ковязина"
-        ],
-        "directors": [
-          "Владимир Гончаров"
-        ],
-        "writers": [
-          "Светлана Куценко"
-        ],
-        "composers": [
-          "В. Крутиков"
-        ],
-        "designers": [
-          "Иван Будз"
-        ],
-        "operators": [
-          "Анатолий Гаврилов"
         ]
       }
     }

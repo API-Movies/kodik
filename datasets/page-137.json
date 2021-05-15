@@ -1,6 +1,937 @@
 {
   "results": [
     {
+      "id": "movie-53422",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мир обманщика",
+      "title_orig": "Vanjagar Ulagam",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1140683",
+      "imdb_id": "tt7933564",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-04-11T08:22:12Z",
+      "updated_at": "2020-04-11T08:22:12Z",
+      "material_data": {
+        "title": "Vanjagar Ulagam",
+        "year": 2018,
+        "duration": 161,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "боевик",
+          "драма",
+          "триллер"
+        ],
+        "imdb_rating": 6.1,
+        "imdb_votes": 215,
+        "premiere_world": "2018-09-07",
+        "minimal_age": 0,
+        "actors": [
+          "Аниша Амброзе",
+          "Cibi Bhuvana Chandran",
+          "Hareesh Peradi",
+          "Jayaprakash Radhakrishnan",
+          "Guru Somasundaram",
+          "Chandini Tamilarasan",
+          "Vishagan Vanangamudi",
+          "Джон Виджай",
+          "Васу Викрам"
+        ],
+        "directors": [
+          "Manoj Beedha"
+        ],
+        "producers": [
+          "Manjula Beedha",
+          "Prasanna Jk"
+        ],
+        "writers": [
+          "Manoj Beedha",
+          "V. Vinayak"
+        ],
+        "composers": [
+          "Сам К.С."
+        ],
+        "editors": [
+          "Энтони"
+        ],
+        "operators": [
+          "Rodrigo del Rio Herrera",
+          "Р. Сараванан"
+        ]
+      }
+    },
+    {
+      "id": "serial-19376",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Винтовка прекрасна",
+      "title_orig": "Chidori RSC",
+      "other_title": "Rifle is Beautiful",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "imdb_id": "tt10707854",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10081",
+      "shikimori_id": "38529",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-10-25T20:55:11Z",
+      "updated_at": "2020-04-11T00:12:48Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Винтовка прекрасна",
+        "title_en": "Rifle Is Beautiful",
+        "other_titles_en": [
+          "Chidori RSC"
+        ],
+        "other_titles_jp": [
+          "ライフル・イズ・ビューティフル"
+        ],
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "description": "Хикари Кокура — ученица первого класса старшей школы, обожающая стрельбу из винтовки. Решая, куда поступить, она выбрала школу Тидори, потому что там был стрелковый клуб. Каково же было её разочарование, когда оказалось, что клуб был расформирован, а для его восстановления — необходимо найти новых участников за один день! К счастью, Хикари встретила трёх первокурсниц, когда-то участвовавших в соревнованиях по стрельбе, которые согласились принять её приглашение.\r\nТак начинается повседневная деятельность стрелкового клуба школы Тидори.",
+        "poster_url": "https://shikimori.one/system/animes/original/38529.jpg",
+        "anime_genres": [
+          "Комедия",
+          "Повседневность",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Studio 3Hz"
+        ],
+        "shikimori_rating": 6.19,
+        "shikimori_votes": 344,
+        "aired_at": "2019-10-13",
+        "released_at": "2020-01-18",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 12,
+        "episodes_aired": 12
+      }
+    },
+    {
+      "id": "serial-24669",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Власть книжного червя OVA",
+      "title_orig": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen OVA",
+      "other_title": "本好きの下剋上 司書になるためには手段を選んでいられません OVA",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 2,
+      "episodes_count": 2,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10317",
+      "shikimori_id": "40841",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-04-11T00:08:03Z",
+      "updated_at": "2020-04-11T00:08:03Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Власть книжного червя OVA",
+        "title_en": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen OVA",
+        "other_titles_jp": [
+          "本好きの下剋上 ～司書になるためには手段を選んでいられません～ OVA"
+        ],
+        "anime_license_name": "Власть книжного червя — Юстас ведёт расследование в нижнем городе",
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "description": "Дополнительный эпизод аниме-сериала «Власть книжного червя», поделённый на две части:\r\n\r\nПервая часть расскажет о двух дворянах, посетивших район простолюдинов по просьбе Фердинанда, дабы исследовать Майн и попытаться понять, кем же она является.\r\n\r\nВторая часть расскажет о том, как Майн, Тьюли и Ева навещают Коринну.",
+        "poster_url": "https://shikimori.one/system/animes/original/40841.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/9ecc0fb49d39448890bb7b8ff5ab89680ffe61e0.jpg",
+          "https://shikimori.one/system/screenshots/original/002a33fa393bf04b506dbab4b70d68beeb743f10.jpg"
+        ],
+        "anime_genres": [
+          "Повседневность",
+          "Фэнтези"
+        ],
+        "anime_studios": [
+          "Ajia-Do"
+        ],
+        "shikimori_rating": 7.48,
+        "shikimori_votes": 1735,
+        "aired_at": "2020-03-10",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 1,
+        "episodes_aired": 0
+      }
+    },
+    {
+      "id": "movie-20628",
+      "type": "anime",
+      "link": "",
+      "title": "Призрак в доспехах",
+      "title_orig": "Kokaku Kidotai",
+      "other_title": "Призрак в доспехах: Новый фильм / Koukaku Kidoutai: Shin Gekijouban / Ghost in the Shell: The New Movie",
+      "translation": {
+        "id": 651,
+        "title": "Люб. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "kinopoisk_id": "899784",
+      "imdb_id": "tt4337072",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8201",
+      "shikimori_id": "27411",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2018-01-21T14:19:45Z",
+      "updated_at": "2020-04-10T20:40:44Z",
+      "material_data": {
+        "title": "Призрак в доспехах",
+        "title_en": "Kokaku Kidotai",
+        "other_titles": [
+          "Ghost in the Shell (2015)"
+        ],
+        "other_titles_en": [
+          "Ghost in the Shell: The New Movie"
+        ],
+        "other_titles_jp": [
+          "攻殻機動隊 新劇場版"
+        ],
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2015,
+        "tagline": "The definitive cyber-punk series returns to the big screen.",
+        "description": "После окончания очередной мировой войны наука сделала невероятные шаги - теперь каждый человек может продлевать свою жизнь с помощью кибернетических частей тела. Все жители планеты связаны в общую сеть под названием Призраки, и широко распространились кибератаки на отдельных людей с целью кражи их памяти и тел. После убийства премьер-министра Японии майор Мотоко Кусанаги и её Девятый отдел выходят на след киберпреступников.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/899784.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/8ad57c95c5c32a8bc0d0a078fac6650b9b0c65b3.jpg",
+          "https://shikimori.one/system/screenshots/original/a79a27e1261344266adc12bf161c13610eec6494.jpg"
+        ],
+        "duration": 100,
+        "countries": [
+          "США",
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Меха",
+          "Полиция",
+          "Психологическое",
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Production I.G"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 1001,
+        "imdb_rating": 6.7,
+        "imdb_votes": 3520,
+        "shikimori_rating": 7.48,
+        "shikimori_votes": 1417,
+        "premiere_world": "2015-06-20",
+        "aired_at": "2015-06-20",
+        "rating_mpaa": "R",
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Маая Сакамото",
+          "Кэнъитиро Мацуда",
+          "Иккю Дзюку",
+          "Кадзуя Накаи",
+          "Кэндзи Нодзима",
+          "Маюми Асано",
+          "Мэгуми Хан",
+          "Миюки Савасиро",
+          "Мугихито",
+          "Наото"
+        ],
+        "directors": [
+          "Кадзутика Кисэ",
+          "Кадзуя Номура"
+        ],
+        "producers": [
+          "Джастин Кук",
+          "Майкл Харкорт",
+          "Гэн Фукунага"
+        ],
+        "writers": [
+          "Масамунэ Сиро",
+          "Джон Бургмейер",
+          "Клинт Бикхэм",
+          "То Убуката"
+        ],
+        "composers": [
+          "Кэиго Оямада"
+        ]
+      }
+    },
+    {
+      "id": "movie-49985",
+      "type": "anime",
+      "link": "",
+      "title": "Фури-кури: Альтернатива",
+      "title_orig": "FLCL Alternative",
+      "other_title": "Фури-кури 3",
+      "translation": {
+        "id": 735,
+        "title": "2x2",
+        "type": "voice"
+      },
+      "year": 2018,
+      "kinopoisk_id": "1070378",
+      "imdb_id": "tt7112162",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9639",
+      "shikimori_id": "35842",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-02-20T15:56:31Z",
+      "updated_at": "2020-04-10T20:33:48Z",
+      "material_data": {
+        "title": "Фури-кури: Альтернатива",
+        "title_en": "FLCL Alternative",
+        "other_titles": [
+          "Фури-кури: Альтернатив",
+          "Fooly Cooly Alternative",
+          "Furi Kuri Alternative"
+        ],
+        "other_titles_en": [
+          "FLCL Alternative"
+        ],
+        "other_titles_jp": [
+          "フリクリ オルタナ"
+        ],
+        "anime_license_name": "FLCL: альт",
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 2018,
+        "description": "Жизнь обычной 17-летней школьницы Каны ее подруг меняется, когда они встречают Харуко, которая ищет странное существо и просит девушек помочь ей с поисками.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1070378.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/adbbc80647267afeb9a178d823cc877b7ab7b540.png",
+          "https://shikimori.one/system/screenshots/original/1f3386d862866bf00a12d8f3df74d6620956bcaa.png"
+        ],
+        "duration": 135,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фантастика"
+        ],
+        "anime_genres": [
+          "Безумие",
+          "Комедия",
+          "Меха",
+          "Пародия",
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Production I.G",
+          "Nut",
+          "Revoroot"
+        ],
+        "kinopoisk_rating": 5.7,
+        "kinopoisk_votes": 162,
+        "imdb_rating": 5.9,
+        "imdb_votes": 365,
+        "shikimori_rating": 6.56,
+        "shikimori_votes": 1833,
+        "premiere_world": "2018-09-07",
+        "aired_at": "2018-09-07",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 0,
+        "episodes_total": 1,
+        "episodes_aired": 6,
+        "actors": [
+          "Ютака Аояма",
+          "Рихо Иида",
+          "Мики Ито",
+          "Кацуюки Конъиси",
+          "Махо Масака",
+          "Кая Мацутани",
+          "Карэн Мияма",
+          "Кацудзи Мори",
+          "Такума Нагацука",
+          "Маюми Синтани"
+        ],
+        "directors": [
+          "Кацуюки Мотохиро",
+          "Киётака Судзуки",
+          "Ютака Уэмура"
+        ],
+        "producers": [
+          "Маки Тэрасима-Фурута",
+          "Мицухиса Исикава",
+          "Гэнки Ито",
+          "Фуми Морихиро",
+          "Кэндзи Ота"
+        ],
+        "writers": [
+          "Хидэто Иваи"
+        ],
+        "composers": [
+          "R.O.N."
+        ],
+        "designers": [
+          "Аяка Фудзии"
+        ]
+      }
+    },
+    {
+      "id": "movie-53404",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Друзья навек",
+      "title_orig": "Mueng Ku",
+      "other_title": "Друзья навек / Meung-Guu paean gun jon wan tai / My true friend",
+      "translation": {
+        "id": 680,
+        "title": "den904",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "713225",
+      "imdb_id": "tt2449180",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-04-10T20:30:13Z",
+      "updated_at": "2020-04-10T20:30:13Z",
+      "material_data": {
+        "title": "Друзья навек",
+        "title_en": "Mueng Ku",
+        "year": 2012,
+        "description": "Сон, обычный парень из Бангкока переезжает жить к своей сестре в Ченмэй. Он типичный интроверт. У паренька нет друзей, над ним все время издеваются окружающие. И вот.. в школе он знакомится с парнем по имени Ган, литером молодежной группировки «SPERM». Что не день, Ган с дружками затевает драку, ведь они считают себя королями всех гангстеров. Сон старается держаться от ребят подальше, но когда у него назревают неприятности, Ган со своими парнями приходят к нему на помощь. Вскоре, Сон понимает какие эти парни на самом деле.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/713225.jpg",
+        "duration": 108,
+        "countries": [
+          "Таиланд"
+        ],
+        "genres": [
+          "боевик"
+        ],
+        "kinopoisk_rating": 7.8,
+        "kinopoisk_votes": 200,
+        "imdb_rating": 6.6,
+        "imdb_votes": 305,
+        "premiere_world": "2012-01-19",
+        "actors": [
+          "Ranee Campen",
+          "Натча Джунтапан",
+          "Марио Морер",
+          "Kamolned Ruengsri",
+          "Mo Monchanok Saengchaipiangpen"
+        ],
+        "directors": [
+          "Atsajun Sattakovit"
+        ]
+      }
+    },
+    {
+      "id": "movie-38138",
+      "type": "anime",
+      "link": "",
+      "title": "Принцесса Мононоке",
+      "title_orig": "Mononoke-hime",
+      "other_title": "Princess Mononoke / Mononoke Hime",
+      "translation": {
+        "id": 818,
+        "title": "Reanimedia",
+        "type": "voice"
+      },
+      "year": 1997,
+      "kinopoisk_id": "441",
+      "imdb_id": "tt0119698",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=77",
+      "shikimori_id": "164",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-06-09T09:40:58Z",
+      "updated_at": "2020-04-10T20:25:04Z",
+      "material_data": {
+        "title": "Принцесса Мононоке",
+        "title_en": "Mononoke-hime",
+        "other_titles": [
+          "Принцесса Мононокэ",
+          "Mononoke Hime"
+        ],
+        "other_titles_en": [
+          "Princess Mononoke"
+        ],
+        "other_titles_jp": [
+          "もののけ姫"
+        ],
+        "anime_license_name": "Принцесса Мононоке",
+        "anime_kind": "movie",
+        "anime_status": "released",
+        "year": 1997,
+        "tagline": "Live on.",
+        "description": "Убив вепря, юный принц Аситака навлек на себя смертельное проклятие. Старая знахарка предсказала, что только он сам способен изменить свою судьбу, и отважный воин отправился в опасное путешествие. Так он оказался в загадочной стране, где люди под предводительством злой госпожи Эбоси воевали с обитателями леса: духами, демонами и гигантскими существами, каких Аситака раньше никогда не видел. \n\rИ была с ними принцесса Мононоке - повелительница зверей и дочь волчицы. Теперь судьба всех зависит только от одного воина - принца Аситаки.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/441.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/502a6a1346cb0b787eb52bb9a418a13572791f91.jpg",
+          "https://shikimori.one/system/screenshots/original/7bfc5f5971b4ae04cbeeea1089d0c8f9d09337e9.jpg"
+        ],
+        "duration": 134,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм",
+          "фэнтези"
+        ],
+        "anime_genres": [
+          "Приключения",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Studio Ghibli"
+        ],
+        "kinopoisk_rating": 8.2,
+        "kinopoisk_votes": 110513,
+        "imdb_rating": 8.4,
+        "imdb_votes": 339888,
+        "shikimori_rating": 8.71,
+        "shikimori_votes": 36235,
+        "premiere_ru": "2010-06-24",
+        "premiere_world": "1997-07-12",
+        "aired_at": "1997-07-12",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 12,
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Ёдзи Мацуда",
+          "Юрико Исида",
+          "Цунэхико Камидзё",
+          "Юко Танака",
+          "Мицуко Мори",
+          "Каору Кобаяси",
+          "Масахико Нисимура",
+          "Акихиро Мива",
+          "Хисая Морисигэ",
+          "Суми Симамото"
+        ],
+        "directors": [
+          "Хаяо Миядзаки"
+        ],
+        "producers": [
+          "Тосио Судзуки",
+          "Ютака Нарита",
+          "Сэйдзи Окуда",
+          "Ясуёси Токума",
+          "Сэйитиро Удзииэ",
+          "Такахиро Ёнэдзава"
+        ],
+        "writers": [
+          "Хаяо Миядзаки"
+        ],
+        "composers": [
+          "Дзё Хисаиси"
+        ],
+        "editors": [
+          "Хаяо Миядзаки",
+          "Такэси Сэяма"
+        ],
+        "designers": [
+          "Сатоси Курода",
+          "Кадзуо Ога",
+          "Ёдзи Такэсигэ",
+          "Наоя Танака",
+          "Нидзо Ямамото"
+        ],
+        "operators": [
+          "Ацуси Окуи"
+        ]
+      }
+    },
+    {
+      "id": "movie-53403",
+      "type": "anime",
+      "link": "",
+      "title": "Цугумомо OVA",
+      "title_orig": "Tsugumomo (2020)",
+      "other_title": "つぐもも (2020)",
+      "translation": {
+        "id": 767,
+        "title": "SHIZA Project",
+        "type": "voice"
+      },
+      "year": 2020,
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10244",
+      "shikimori_id": "39470",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-04-10T19:59:49Z",
+      "updated_at": "2020-04-10T19:59:49Z",
+      "material_data": {
+        "title": "Цугумомо OVA",
+        "title_en": "Tsugumomo OVA",
+        "other_titles": [
+          "Chotto H-na OVA"
+        ],
+        "other_titles_en": [
+          "Tsugumomo2 OVA"
+        ],
+        "other_titles_jp": [
+          "つぐもも OVA"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "poster_url": "https://shikimori.one/system/animes/original/39470.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/117d9e162b9463c226d536907c56c012b0ed18ba.jpg",
+          "https://shikimori.one/system/screenshots/original/c2e160d6843fea37dc26668f9564992b0a7176d2.jpg"
+        ],
+        "anime_genres": [
+          "Комедия",
+          "Сверхъестественное",
+          "Сейнен",
+          "Школа",
+          "Экшен",
+          "Этти"
+        ],
+        "anime_studios": [
+          "Zero-G"
+        ],
+        "shikimori_rating": 6.88,
+        "shikimori_votes": 526,
+        "aired_at": "2020-01-22",
+        "rating_mpaa": "R+",
+        "episodes_total": 1,
+        "episodes_aired": 0
+      }
+    },
+    {
+      "id": "serial-16254",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Пропавшие феи [ТВ-1]",
+      "title_orig": "Fairy Gone",
+      "other_title": "Закат эпохи фей",
+      "translation": {
+        "id": 609,
+        "title": "AniDUB",
+        "type": "voice"
+      },
+      "year": 2019,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "1245260",
+      "imdb_id": "tt9828600",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9963",
+      "shikimori_id": "39063",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2019-04-08T15:11:34Z",
+      "updated_at": "2020-04-10T19:54:35Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Закат эпохи фей",
+        "title_en": "Fairy Gone",
+        "other_titles": [
+          "Исчезнувшие феи",
+          "Исход фей",
+          "Закат эпохи фей",
+          "Феи в деле"
+        ],
+        "other_titles_jp": [
+          "Fairy gone フェアリーゴーン"
+        ],
+        "anime_license_name": "Ушедшие феи",
+        "anime_kind": "tv",
+        "anime_status": "released",
+        "year": 2019,
+        "description": "Мария живёт в мире, где после войны между феями и людьми прошло уже девять лет. Феи могли завладевать телами животных, наделяя их сверхъестественными способностями, а люди пересаживали органы этих животных, чтобы использовать способность частичного призыва фей в качестве оружия. Тяжелое военное время закончилось, и бывшие солдаты начали становиться преступниками или работать на правительство. Из-за нестабильной политической ситуации некоторые становятся террористами, а Мария - частью организации «Доротея», которая расследует и предотвращает преступления, связанные с феями.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1245260.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/b8b2b7e5c2332b4d2a58c956d119230fc09ded8e.png",
+          "https://shikimori.one/system/screenshots/original/d7512e495b93e9101860f1f50750572afb314acc.png"
+        ],
+        "duration": 23,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "боевик",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Демоны",
+          "Магия",
+          "Сверхъестественное",
+          "Фэнтези",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "P.A. Works"
+        ],
+        "kinopoisk_rating": 5.5,
+        "kinopoisk_votes": 292,
+        "imdb_rating": 5.8,
+        "imdb_votes": 288,
+        "shikimori_rating": 5.8,
+        "shikimori_votes": 3179,
+        "premiere_world": "2019-04-08",
+        "aired_at": "2019-04-08",
+        "released_at": "2019-06-24",
+        "rating_mpaa": "PG-13",
+        "minimal_age": 0,
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Кана Итиносэ",
+          "Томоаки Маэно",
+          "Аяка Фукухара",
+          "Ёсимаса Хосоя"
+        ],
+        "directors": [
+          "Кэнъити Судзуки"
+        ],
+        "composers": [
+          "(K)NoW_NAME"
+        ]
+      }
+    },
+    {
+      "id": "movie-4523",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Между Дели и Лахором",
+      "title_orig": "Kya Dilli Kya Lahore",
+      "translation": {
+        "id": 689,
+        "title": "PashaUp aka Павел Морозов",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "635113",
+      "imdb_id": "tt2063745",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-01-12T11:07:50Z",
+      "updated_at": "2020-04-10T18:55:31Z",
+      "material_data": {
+        "title": "Между Дели и Лахором",
+        "title_en": "Kya Dilli Kya Lahore",
+        "year": 2014,
+        "description": "История двух солдат соседних враждебных государств, которые, забыв о языке пуль, учатся говорить на языке любви. Самартх — беженец. Он переехал в Индию на постоянное место жительства из Лахора, где прожил 35 лет. Али Рахмат — мухаджир («беженец» на урду). Он недавно переселился в Пакистан из Старого Дели, из знаменитой Чандни Чаук, где родился и прожил первые 32 года. Коренные жители и Индии, и Пакистана не признают их своими, считают «гаддарами» — предателями. По их мнению, и Самартх, и Рахмат никогда не забудут свою первую родину и в любой момент могут совершить предательство.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/635113.jpg",
+        "duration": 98,
+        "countries": [
+          "Индия",
+          "Фиджи"
+        ],
+        "genres": [
+          "военный",
+          "драма",
+          "история"
+        ],
+        "imdb_rating": 7.4,
+        "imdb_votes": 1831,
+        "premiere_world": "2014-05-02",
+        "actors": [
+          "Виджай Рааз",
+          "Маню Риши",
+          "Радж Зутши",
+          "Вишваджит Прадхан"
+        ],
+        "directors": [
+          "Виджай Рааз",
+          "Каран Арора"
+        ],
+        "producers": [
+          "Каран Арора",
+          "Alaisha",
+          "Chintan A. Kapadia",
+          "Маной Миттра",
+          "Ануп Поддар"
+        ],
+        "writers": [
+          "Асим Арора",
+          "Маню Риши",
+          "Сампуран Сингх Гульзар",
+          "Pratham Jolly",
+          "Sandeep Sinha"
+        ],
+        "editors": [
+          "Арчит Д Растоги"
+        ],
+        "designers": [
+          "Аман Мохан Видхате",
+          "Нандита Саху"
+        ],
+        "operators": [
+          "Радж Чакраварти"
+        ]
+      }
+    },
+    {
+      "id": "movie-53387",
+      "type": "anime",
+      "link": "",
+      "title": "Страна чудес смертников",
+      "title_orig": "Deadman Wonderland",
+      "other_title": "Страна Чудес Смертников ОВА / Deadman Wonderland: The Red Knife Wielder OVA",
+      "translation": {
+        "id": 999,
+        "title": "OpenDub",
+        "type": "voice"
+      },
+      "year": 2011,
+      "kinopoisk_id": "677712",
+      "imdb_id": "tt3153270",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=951",
+      "shikimori_id": "10418",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-04-10T15:56:03Z",
+      "updated_at": "2020-04-10T18:05:49Z",
+      "material_data": {
+        "title": "Страна чудес смертников: Владелец красного ножа",
+        "title_en": "Deadman Wonderland: Akai Knife Tsukai",
+        "other_titles": [
+          "Deadman Wonderland OVA"
+        ],
+        "other_titles_en": [
+          "Deadman Wonderland: The Red Knife Wielder"
+        ],
+        "other_titles_jp": [
+          "デッドマン・ワンダーランド 赤いナイフ使い"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "year": 2011,
+        "description": "До основания «Страны чудес смертников», 2015 год, через два года после магнитной аномалии в центре Токио. История о молодости Киёмасы Сэндзи, его слуужбе в полиции, о его возлюбленной и первых встреченных обладателей Ветви Греха.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/677712.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/f6bf4e7a6642ea84edaa160d6bbad9a1bd0211eb.png",
+          "https://shikimori.one/system/screenshots/original/31ac58a48427f5bf1d134314210587ac6e4b0c09.png"
+        ],
+        "duration": 27,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "аниме",
+          "короткометражка",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Сёнен",
+          "Ужасы",
+          "Фантастика",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "Manglobe"
+        ],
+        "kinopoisk_rating": 6.8,
+        "kinopoisk_votes": 378,
+        "shikimori_rating": 6.97,
+        "shikimori_votes": 4420,
+        "premiere_world": "2011-10-08",
+        "aired_at": "2011-10-08",
+        "rating_mpaa": "R",
+        "minimal_age": 0,
+        "episodes_total": 1,
+        "episodes_aired": 0,
+        "actors": [
+          "Масаюки Като",
+          "Унсё Исидзука",
+          "Кэндзи Хамада",
+          "Аи Каяно",
+          "Фуюка Оура",
+          "Кисё Танияма"
+        ],
+        "directors": [
+          "Коити Хацуми"
+        ],
+        "composers": [
+          "Нарасаки"
+        ]
+      }
+    },
+    {
       "id": "movie-53372",
       "type": "foreign-movie",
       "link": "",
@@ -2978,8 +3909,9 @@
           "криминал"
         ],
         "imdb_rating": 5.6,
-        "imdb_votes": 410,
+        "imdb_votes": 408,
         "premiere_world": "2016-03-23",
+        "minimal_age": 0,
         "actors": [
           "Энтони Вон",
           "Чэпман То",
@@ -3156,7 +4088,7 @@
           "мелодрама"
         ],
         "kinopoisk_rating": 7.8,
-        "kinopoisk_votes": 137,
+        "kinopoisk_votes": 138,
         "premiere_world": "2008-03-27",
         "minimal_age": 0,
         "actors": [
@@ -6181,10 +7113,11 @@
           "мелодрама"
         ],
         "kinopoisk_rating": 7.8,
-        "kinopoisk_votes": 339,
-        "imdb_rating": 7,
-        "imdb_votes": 43,
+        "kinopoisk_votes": 354,
+        "imdb_rating": 7.1,
+        "imdb_votes": 46,
         "premiere_world": "2010-10-10",
+        "minimal_age": 0,
         "actors": [
           "Ким Гю-ри",
           "Ки Тхэ-ён",
@@ -6409,7 +7342,7 @@
         "imdb_rating": 7.3,
         "imdb_votes": 101,
         "shikimori_rating": 7.46,
-        "shikimori_votes": 5786,
+        "shikimori_votes": 5789,
         "premiere_world": "2017-04-07",
         "aired_at": "2017-04-07",
         "released_at": "2017-06-23",
@@ -6846,910 +7779,6 @@
           "Moshe Mishali",
           "Нитай Нецер"
         ]
-      }
-    },
-    {
-      "id": "serial-24610",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Пламенный лабиринт",
-      "title_orig": "Honoo no Labyrinth",
-      "other_title": "Пламенный лабиринт OAV",
-      "translation": {
-        "id": 654,
-        "title": "AniFilm",
-        "type": "voice"
-      },
-      "year": 2000,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "kinopoisk_id": "351330",
-      "imdb_id": "tt0314017",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=763",
-      "shikimori_id": "581",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-09T12:23:27Z",
-      "updated_at": "2020-04-09T12:23:27Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Пламенный лабиринт",
-        "title_en": "Honô no rabirinsu",
-        "other_titles_en": [
-          "Labyrinth Of Flames"
-        ],
-        "other_titles_jp": [
-          "炎のらびりんす"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 2000,
-        "description": "Студент Галан, лелеющий мечту стать настоящим самураем, приезжает погостить в деревню к своей однокурснице Нацу, которая неожиданно оказывается местной принцессой. Здесь ему становится известно, что Нацу планирует выйти за него замуж, а сама невеста узнаёт, что за время её отсутствия у её отца появилась парочка подозрительных сожительниц.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/351330.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/9a602b346138044b67d8469a1db15ca399ae32d8.jpg",
-          "https://shikimori.one/system/screenshots/original/b0b563875003217223ba1bfd7fafb20602589c5b.jpg"
-        ],
-        "duration": 60,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Приключения",
-          "Самураи",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Studio Fantasia"
-        ],
-        "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 149,
-        "imdb_rating": 6.3,
-        "imdb_votes": 98,
-        "shikimori_rating": 6.24,
-        "shikimori_votes": 403,
-        "aired_at": "2000-09-25",
-        "released_at": "2000-12-21",
-        "rating_mpaa": "R+",
-        "minimal_age": 0,
-        "episodes_total": 2,
-        "episodes_aired": 0,
-        "actors": [
-          "Коити Тотика",
-          "Юки Масуда",
-          "Сёдзо Идзука",
-          "Юрико Сасаки",
-          "Mami Kanatsuki",
-          "Юкари Тамура",
-          "Сусуму Тиба",
-          "Рури Асано",
-          "Синдзи Накаэ",
-          "Джессика Калвелло"
-        ],
-        "directors": [
-          "Кацухико Нисидзима",
-          "Тэцуя Ватанабэ"
-        ],
-        "producers": [
-          "Киёси Сугияма",
-          "Джон О’Доннелл",
-          "Katsumichi Umezawa"
-        ],
-        "writers": [
-          "Кэнъити Канэмаки",
-          "Кацухико Нисидзима"
-        ],
-        "composers": [
-          "Коуичи Фудзино"
-        ],
-        "designers": [
-          "Кадзуо Огура"
-        ],
-        "operators": [
-          "Садаси Сано"
-        ]
-      }
-    },
-    {
-      "id": "serial-24609",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Пламенный лабиринт",
-      "title_orig": "Honoo no Labyrinth",
-      "other_title": "Пламенный лабиринт OAV",
-      "translation": {
-        "id": 829,
-        "title": "Animegroup",
-        "type": "voice"
-      },
-      "year": 2000,
-      "last_season": 1,
-      "last_episode": 2,
-      "episodes_count": 2,
-      "kinopoisk_id": "351330",
-      "imdb_id": "tt0314017",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=763",
-      "shikimori_id": "581",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-09T12:12:55Z",
-      "updated_at": "2020-04-09T12:12:55Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Пламенный лабиринт",
-        "title_en": "Honô no rabirinsu",
-        "other_titles_en": [
-          "Labyrinth Of Flames"
-        ],
-        "other_titles_jp": [
-          "炎のらびりんす"
-        ],
-        "anime_kind": "ova",
-        "anime_status": "released",
-        "year": 2000,
-        "description": "Студент Галан, лелеющий мечту стать настоящим самураем, приезжает погостить в деревню к своей однокурснице Нацу, которая неожиданно оказывается местной принцессой. Здесь ему становится известно, что Нацу планирует выйти за него замуж, а сама невеста узнаёт, что за время её отсутствия у её отца появилась парочка подозрительных сожительниц.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/351330.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/9a602b346138044b67d8469a1db15ca399ae32d8.jpg",
-          "https://shikimori.one/system/screenshots/original/b0b563875003217223ba1bfd7fafb20602589c5b.jpg"
-        ],
-        "duration": 60,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Приключения",
-          "Самураи",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Studio Fantasia"
-        ],
-        "kinopoisk_rating": 6.3,
-        "kinopoisk_votes": 149,
-        "imdb_rating": 6.3,
-        "imdb_votes": 98,
-        "shikimori_rating": 6.24,
-        "shikimori_votes": 403,
-        "aired_at": "2000-09-25",
-        "released_at": "2000-12-21",
-        "rating_mpaa": "R+",
-        "minimal_age": 0,
-        "episodes_total": 2,
-        "episodes_aired": 0,
-        "actors": [
-          "Коити Тотика",
-          "Юки Масуда",
-          "Сёдзо Идзука",
-          "Юрико Сасаки",
-          "Mami Kanatsuki",
-          "Юкари Тамура",
-          "Сусуму Тиба",
-          "Рури Асано",
-          "Синдзи Накаэ",
-          "Джессика Калвелло"
-        ],
-        "directors": [
-          "Кацухико Нисидзима",
-          "Тэцуя Ватанабэ"
-        ],
-        "producers": [
-          "Киёси Сугияма",
-          "Джон О’Доннелл",
-          "Katsumichi Umezawa"
-        ],
-        "writers": [
-          "Кэнъити Канэмаки",
-          "Кацухико Нисидзима"
-        ],
-        "composers": [
-          "Коуичи Фудзино"
-        ],
-        "designers": [
-          "Кадзуо Огура"
-        ],
-        "operators": [
-          "Садаси Сано"
-        ]
-      }
-    },
-    {
-      "id": "serial-21065",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Не люблю боль, поэтому собираюсь вложить всё в защиту",
-      "title_orig": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
-      "other_title": "Не люблю боль, поэтому собираюсь вкачать всё в защиту / Из тянки в танки: Я не люблю боль, поэтому вложу всё в защиту",
-      "translation": {
-        "id": 609,
-        "title": "AniDUB",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "1334288",
-      "imdb_id": "tt11428630",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10185",
-      "shikimori_id": "38790",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-01-12T07:14:18Z",
-      "updated_at": "2020-04-09T11:21:38Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Не люблю боль, поэтому собираюсь вложить всё в защиту",
-        "title_en": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
-        "other_titles": [
-          "I hate being in pain, so I think I'll make a full defense build.",
-          "I Hate Getting Hurt, So I Put All My Skill Points Into Defense"
-        ],
-        "other_titles_en": [
-          "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense."
-        ],
-        "other_titles_jp": [
-          "痛いのは嫌なので防御力に極振りしたいと思います。"
-        ],
-        "anime_license_name": "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",
-        "anime_kind": "tv",
-        "anime_status": "released",
-        "year": 2020,
-        "description": "Получив приглашение от подруги, Каэдэ погружается в VRMMO-игру «New World Online». Не имея ни малейшего представления о том, как играть, она расходует все очки на защиту, в результате чего её движения становятся медленными, Каэдэ не может использовать магию и даже подвергается нападению кроликов. Тем не менее, она получает навык абсолютной защиты, который убивает одним ударом и полностью блокирует атаки врага. Так Каэдэ, играя в стиле мобильной крепости, отправляется навстречу приключениям.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1334288.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/a5a4553156927af4ebccbade6296c695d3bccb90.jpg",
-          "https://shikimori.one/system/screenshots/original/b75cbb013a92c8d1143243bc2a1bec54a12bf527.jpg"
-        ],
-        "duration": 23,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Игры",
-          "Комедия",
-          "Приключения",
-          "Фантастика",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "SILVER LINK."
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 964,
-        "imdb_rating": 7.5,
-        "imdb_votes": 876,
-        "shikimori_rating": 7.57,
-        "shikimori_votes": 9621,
-        "premiere_world": "2020-01-08",
-        "aired_at": "2020-01-08",
-        "released_at": "2020-03-25",
-        "rating_mpaa": "PG-13",
-        "minimal_age": 0,
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Каэдэ Хондо",
-          "Рурико Ногути"
-        ],
-        "directors": [
-          "Син Онума"
-        ]
-      }
-    },
-    {
-      "id": "movie-53284",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Пригородные птицы",
-      "title_orig": "Jiao qu de niao",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1177932",
-      "imdb_id": "tt8747304",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-09T11:08:19Z",
-      "updated_at": "2020-04-09T11:08:19Z",
-      "material_data": {
-        "title": "Пригородные птицы",
-        "title_en": "Jiao qu de niao",
-        "year": 2018,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1177932.jpg",
-        "duration": 118,
-        "countries": [
-          "Китай",
-          "Тайвань"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 5.9,
-        "imdb_votes": 199,
-        "premiere_world": "2018-07-24",
-        "actors": [
-          "Хуан Лу",
-          "Мэйсон Ли",
-          "Гун Цзыхань"
-        ],
-        "directors": [
-          "Цю Шэн"
-        ],
-        "producers": [
-          "Патрик Хуан",
-          "Чэнь Цзинсу",
-          "Jun Ma",
-          "Чжан Чжаовэй",
-          "Xiaoyi Yu"
-        ],
-        "writers": [
-          "Цю Шэн"
-        ],
-        "composers": [
-          "Сяохэ"
-        ],
-        "editors": [
-          "Jin Di",
-          "Ляо Цинсун"
-        ],
-        "designers": [
-          "Юй Цзыян"
-        ],
-        "operators": [
-          "Сюй Жаньцзюнь"
-        ]
-      }
-    },
-    {
-      "id": "movie-7155",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Общество «Болиголова»",
-      "title_orig": "Hemlock Society",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2012,
-      "kinopoisk_id": "693461",
-      "imdb_id": "tt2266600",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2015-07-22T23:10:37Z",
-      "updated_at": "2020-04-09T11:04:52Z",
-      "material_data": {
-        "title": "Общество «Болиголова»",
-        "title_en": "Hemlock Society",
-        "year": 2012,
-        "description": "У Мегхны Шаркар всё в жизни было прекрасно. Заботливые родственники, любимый жених Шантану, собственная уютная квартирка, и вполне престижная работа. По вечерам она отдыхает в небольшом клубе под песни своего любимого певца и композитора Сиддхартха Роя. Почти райская жизнь на вершине среднего класса бенгальского общества. Но в один вечер всё благоденствие рассыпается подобно карточному домику. Мегхна чувствует, что больше не нужна отцу. На работе ей грозит увольнение, а в довершении всего её любимый Шантану, которого она знала вот уже без малого 14 лет, совершенно бесцеремонно уходит от неё к другой, буквально за неделю до женитьбы на Мегхне.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/693461.jpg",
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "комедия",
-          "мелодрама"
-        ],
-        "imdb_rating": 7.4,
-        "imdb_votes": 2888,
-        "premiere_world": "2012-06-22",
-        "minimal_age": 0,
-        "actors": [
-          "Коел Маллик",
-          "Парамбрата Чаттерджи",
-          "Рупали Гангули",
-          "Депанкар Де",
-          "Shilajit Majumdar",
-          "Saheb Chatterjee",
-          "Сумитра Чаттерджи",
-          "Сабитри Чаттерджи",
-          "Сабьясачи Чакраборти",
-          "Братья Басу"
-        ],
-        "directors": [
-          "Сриджит Мукхерджи"
-        ],
-        "producers": [
-          "Шрикант Мохта",
-          "Махендра Сони",
-          "Притам Чаудхари"
-        ],
-        "writers": [
-          "Сриджит Мукхерджи"
-        ],
-        "composers": [
-          "Анупам Рой"
-        ],
-        "editors": [
-          "Бодхадитья Банерджи"
-        ],
-        "designers": [
-          "Ананда Адья"
-        ],
-        "operators": [
-          "Соумик Халдар"
-        ]
-      }
-    },
-    {
-      "id": "movie-53285",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Бала",
-      "title_orig": "Bala",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 1976,
-      "kinopoisk_id": "1252329",
-      "imdb_id": "tt0074177",
-      "quality": "WEB-DLRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-09T11:03:49Z",
-      "updated_at": "2020-04-09T11:03:49Z",
-      "material_data": {
-        "title": "Бала",
-        "title_en": "Bala",
-        "year": 1976,
-        "description": "О танцовщице бхаратанатьям Баласарасвати.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1252329.jpg",
-        "duration": 31,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "документальный",
-          "короткометражка"
-        ],
-        "imdb_rating": 7.6,
-        "imdb_votes": 75,
-        "minimal_age": 0,
-        "directors": [
-          "Сатьяджит Рай"
-        ]
-      }
-    },
-    {
-      "id": "movie-53286",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Каждое любящее сердце",
-      "title_orig": "Har Dil Jo Pyar Karega...",
-      "translation": {
-        "id": 734,
-        "title": "Проф. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2000,
-      "kinopoisk_id": "64539",
-      "imdb_id": "tt0250415",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-09T11:03:00Z",
-      "updated_at": "2020-04-09T11:03:00Z",
-      "material_data": {
-        "title": "Каждое любящее сердце",
-        "title_en": "Har Dil Jo Pyar Karega...",
-        "year": 2000,
-        "tagline": "Love can happen... anytime",
-        "description": "Красавица Пуджа, дочка состоятельных родителей попадает в автомобильную катастрофу. Жизнь ей спасает Раджа, мечтающий о карьере певца и с этой целью приехавший из Гоа в Мумбай. Он своевременно доставляет её в больницу, но она впадает в кому и жизнь ее находится в опасности.\n\rПознакомившиеся с Раджой, родители Пуджи принимают его за мужа своей дочери, а он не торопится разуверять их, так как надеется, что они смогут помочь ему стать популярным певцом.    Вскоре    приезжает Джанви, ближайшая подруга Пуджи. Раджа влюбляется в неё и она отвечает ему взаимностью.\n\rК всеобщей радости Пуджа наконец-то выходит из комы, но, выздоровев, она начинает оказывать внимание Радже. У того появляется шанс жениться на ней и с помощью её родителей преуспеть в артистической деятельности.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/64539.jpg",
-        "duration": 173,
-        "countries": [
-          "Индия"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама",
-          "мюзикл"
-        ],
-        "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 1050,
-        "imdb_rating": 5.2,
-        "imdb_votes": 4057,
-        "premiere_world": "2000-07-24",
-        "minimal_age": 12,
-        "actors": [
-          "Салман Кхан",
-          "Прити Зинта",
-          "Рани Мукхерджи",
-          "Шах Рукх Кхан",
-          "Камини Каушал",
-          "Пареш Раваль",
-          "Шакти Капур",
-          "Сатиш Шах",
-          "Раджив Верма",
-          "Аджит Вачани"
-        ],
-        "directors": [
-          "Радж Канвар"
-        ],
-        "producers": [
-          "Саджид Надиадвала"
-        ],
-        "writers": [
-          "Руми Джаффери"
-        ],
-        "composers": [
-          "Ану Малик",
-          "Сурендра Сингх Содхи"
-        ],
-        "editors": [
-          "Санджай Верма"
-        ],
-        "designers": [
-          "Шармишта Рой",
-          "Шабина Кхан",
-          "Нита Лулла",
-          "Ручика Пандей",
-          "Викрам Фаднис"
-        ],
-        "operators": [
-          "В.Б. Рао"
-        ]
-      }
-    },
-    {
-      "id": "movie-53280",
-      "type": "anime",
-      "link": "",
-      "title": "Чудачество любви не помеха! Положись на меня",
-      "title_orig": "Eiga Chuunibyou demo koi ga shitai! Take On Me",
-      "other_title": "Чудачество любви не помеха! (фильм) / Чудачество любви не помеха!: Положись на меня / Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
-      "translation": {
-        "id": 651,
-        "title": "Люб. Многоголосый",
-        "type": "voice"
-      },
-      "year": 2018,
-      "kinopoisk_id": "1046594",
-      "imdb_id": "tt6915208",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9266",
-      "shikimori_id": "35608",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-09T10:02:01Z",
-      "updated_at": "2020-04-09T10:02:01Z",
-      "material_data": {
-        "title": "Чудачество любви не помеха! Положись на меня",
-        "title_en": "Eiga Chuunibyou demo koi ga shitai! Take On Me",
-        "other_titles": [
-          "Eiga Chuunibyou demo Koi ga Shitai! Take On Me"
-        ],
-        "other_titles_jp": [
-          "映画 中二病でも恋がしたい！-Take On Me-"
-        ],
-        "anime_license_name": "Чудачество любви не помеха! Положись на меня",
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 2018,
-        "description": "Юта и Рикка учатся в старшей школе. Но Тока заявляет, что заберет Рикку в Италию, так как они должны жить вместе. Друзья предлагают Юте, который не хочет расставаться со своей возлюбленной, бежать вместе с ней.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1046594.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/f63fcb6726214c097bac7ef23994292816d75b1a.jpg",
-          "https://shikimori.one/system/screenshots/original/fbc8486e3db84d64f90de834f2e500fa8f900085.jpg"
-        ],
-        "duration": 94,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "аниме",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Комедия",
-          "Повседневность",
-          "Романтика",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Kyoto Animation"
-        ],
-        "kinopoisk_rating": 7.4,
-        "kinopoisk_votes": 1943,
-        "imdb_rating": 7.4,
-        "imdb_votes": 595,
-        "shikimori_rating": 8.14,
-        "shikimori_votes": 9240,
-        "premiere_world": "2018-01-06",
-        "aired_at": "2018-01-06",
-        "rating_mpaa": "PG-13",
-        "minimal_age": 16,
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Дзюн Фукуяма",
-          "Маая Утида",
-          "Акасаки Тинацу",
-          "Адзуми Асакура",
-          "Сумирэ Уэсака"
-        ],
-        "directors": [
-          "Тацуя Исихара"
-        ],
-        "writers": [
-          "Дзюкки Ханада",
-          "Торако"
-        ],
-        "composers": [
-          "Акито Мацуда"
-        ],
-        "operators": [
-          "Акихиро Юра"
-        ]
-      }
-    },
-    {
-      "id": "movie-53282",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Аким",
-      "title_orig": "Аким",
-      "translation": {
-        "id": 670,
-        "title": "Синема УС",
-        "type": "voice"
-      },
-      "year": 2019,
-      "kinopoisk_id": "1320413",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-09T09:34:31Z",
-      "updated_at": "2020-04-09T09:34:31Z",
-      "material_data": {
-        "title": "Аким",
-        "year": 2019,
-        "description": "Молодого мажора по имени Азамат, привыкшего к комфортной городской жизни, по стечению обстоятельств, отправляют работать акимом в отдаленный посёлок. Чтобы продвинуться по карьерной лестнице в Нур-Султане, которую ему обещал папа со связями, парню сначала нужно пройти боевое крещение на посту акима в поселке Таза-Булак.\n\rОн вынужден согласиться. В итоге молодой аким начинает по-другому смотреть на жизнь сельчан и всеми силами пытается помочь жителям.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1320413.jpg",
-        "duration": 110,
-        "countries": [
-          "Казахстан"
-        ],
-        "genres": [
-          "комедия"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 1774,
-        "imdb_rating": 6.9,
-        "imdb_votes": 47,
-        "premiere_world": "2019-11-07",
-        "minimal_age": 0,
-        "actors": [
-          "Нуртас Адамбай",
-          "Гульназ Жоланова",
-          "Жан Байжанбаев",
-          "Гульнара Дусматова",
-          "Кайрат Адилгерей",
-          "Ашим Ахметов",
-          "Дархан Дайырбек"
-        ],
-        "directors": [
-          "Нуртас Адамбай"
-        ],
-        "producers": [
-          "Нуртас Адамбай"
-        ],
-        "writers": [
-          "Нуртас Адамбай"
-        ],
-        "operators": [
-          "Азамат Дулатов"
-        ]
-      }
-    },
-    {
-      "id": "movie-53278",
-      "type": "anime",
-      "link": "",
-      "title": "Дораэмон: Дорабские ночи Нобиты",
-      "title_orig": "Doraemon: Nobita no Dorabian Nights",
-      "other_title": "Doraemon - Nobita no Dorabian Nights / Doraemon Nobita no Drabian Night",
-      "translation": {
-        "id": 827,
-        "title": "Persona99",
-        "type": "voice"
-      },
-      "year": 1991,
-      "kinopoisk_id": "427065",
-      "imdb_id": "tt1147508",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2535",
-      "shikimori_id": "2670",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-09T09:04:03Z",
-      "updated_at": "2020-04-09T09:04:03Z",
-      "material_data": {
-        "title": "Дораэмон: Дорабские ночи Нобиты",
-        "title_en": "Doraemon: Nobita no Dorabian Naito",
-        "other_titles": [
-          "Doraemon: Nobita in Dorabian Nights"
-        ],
-        "other_titles_en": [
-          "Doraemon the Movie: Nobita's Dorabian Nights"
-        ],
-        "other_titles_jp": [
-          "映画 ドラえもん のび太のドラビアンナイト"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "year": 1991,
-        "description": "C помощью волшебных ботинок из кармашка Дораэмона Нобита путешествует по любимым сказкам. Одной парой он поделился и с Шизукой, чтобы ощутить магию книг вместе. Но вот незадача  - девочка потерялась в одной из сказок про Синбада, и теперь Дораэмон с ребятами должны найти способ спасти ее.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/427065.jpg",
-        "duration": 99,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "мультфильм",
-          "фантастика",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Детское",
-          "Комедия",
-          "Приключения",
-          "Сёнен",
-          "Фэнтези"
-        ],
-        "imdb_rating": 7,
-        "imdb_votes": 404,
-        "shikimori_rating": 7.19,
-        "shikimori_votes": 3,
-        "premiere_world": "1991-03-09",
-        "aired_at": "1991-03-09",
-        "rating_mpaa": "PG",
-        "minimal_age": 0,
-        "episodes_total": 1,
-        "episodes_aired": 1,
-        "actors": [
-          "Нобуё Ояма",
-          "Норико Охара",
-          "Митико Номура",
-          "Канэта Кимоцуки",
-          "Кадзуя Такэкабэ"
-        ],
-        "directors": [
-          "Цутому Сибаяма"
-        ],
-        "writers": [
-          "Ф. Фудзио Фудзико"
-        ]
-      }
-    },
-    {
-      "id": "movie-53277",
-      "type": "anime",
-      "link": "",
-      "title": "Играй, эуфониум! (фильм второй)",
-      "title_orig": "Gekijouban Hibike! Euphonium: Chikai no Finale",
-      "other_title": "Звучи! Эуфониум: Последняя Клятва / Sound! Euphonium: The Movie - Our Promise - A Brand New Day",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 2019,
-      "imdb_id": "tt7089882",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9283",
-      "shikimori_id": "35678",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-04-09T09:02:30Z",
-      "updated_at": "2020-04-09T09:02:30Z",
-      "material_data": {
-        "title": "Звучи, эуфониум! Последняя клятва",
-        "title_en": "Hibike! Euphonium Movie 3: Chikai no Finale",
-        "other_titles": [
-          "Звучи! Эуфониум: Клятвенный финал",
-          "Gekijouban Hibike! Euphonium: Chikai no Finale",
-          "Sound! Euphonium: Oath's Finale"
-        ],
-        "other_titles_en": [
-          "Sound! Euphonium: Our Promise: A Brand New Day"
-        ],
-        "other_titles_jp": [
-          "劇場版 響け！ユーフォニアム～誓いのフィナーレ～"
-        ],
-        "anime_kind": "movie",
-        "anime_status": "released",
-        "description": "Наступил новый, очень важный для теперь уже второгодки Кумико Омаэ год. Аска Танака и другие девушки выпустились. Теперь Кумико, вместе с Томоэ Кабэ, предстоит направлять новых участников духового оркестра, к которому также присоединились Канадэ Хисаиши, Мотому Цукинага, Мирэй Сузуки и Сацуки Сузуки. Близится музыкальный фестиваль «Sunrise» и прослушивания в основной оркестр, которым по-прежнему руководит Нобору Таки. Но, кажется, всё будет не так просто, и членам духового оркестра старшей школы Китауджи придётся преодолеть ряд проблем. Справятся ли они?",
-        "poster_url": "https://shikimori.one/system/animes/original/35678.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/4748a7a81bf83177c86ede0324162914fe4da1c0.jpg",
-          "https://shikimori.one/system/screenshots/original/bf02865bcd73d82aec2039ab6ae8e0d5a4abb60c.jpg"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Музыка",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Kyoto Animation"
-        ],
-        "shikimori_rating": 7.76,
-        "shikimori_votes": 746,
-        "aired_at": "2019-04-19",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0
       }
     }
   ]

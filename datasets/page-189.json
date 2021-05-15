@@ -1,6 +1,745 @@
 {
   "results": [
     {
+      "id": "movie-47724",
+      "type": "anime",
+      "link": "",
+      "title": "Люпен III: Возвращение волшебника",
+      "title_orig": "Lupin Sansei: Ikiteita Majutsushi",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2002,
+      "imdb_id": "tt0420138",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=2766",
+      "shikimori_id": "1427",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-15T12:25:04Z",
+      "updated_at": "2020-01-15T12:25:04Z",
+      "material_data": {
+        "title": "Люпен III: Возвращение волшебника",
+        "title_en": "Lupin III: Ikiteita Majutsushi",
+        "other_titles": [
+          "Lupin III: Return of Pycal",
+          "Rupan Sansei: Ikiteita Majutsushi",
+          "Lupin III: Return of the Magician",
+          "Lupin III: ~ The Living Magician ~ Return of Pycal"
+        ],
+        "other_titles_jp": [
+          "ルパン三世『生きていた魔術師』"
+        ],
+        "anime_kind": "ova",
+        "anime_status": "released",
+        "poster_url": "https://shikimori.one/system/animes/original/1427.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/2bdee794c7e07bb50aac70e64b27b877d1eeb78f.jpg",
+          "https://shikimori.one/system/screenshots/original/c16e55222f32068be36b2c14e160998b3a872037.jpg"
+        ],
+        "anime_genres": [
+          "Детектив",
+          "Комедия",
+          "Приключения",
+          "Сейнен",
+          "Экшен"
+        ],
+        "anime_studios": [
+          "TMS Entertainment"
+        ],
+        "shikimori_rating": 6.02,
+        "shikimori_votes": 96,
+        "aired_at": "2002-04-03",
+        "rating_mpaa": "R+",
+        "episodes_total": 1,
+        "episodes_aired": 0
+      }
+    },
+    {
+      "id": "movie-47727",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Потерянные в Пекине",
+      "title_orig": "Ping guo",
+      "translation": {
+        "id": 734,
+        "title": "Проф. Многоголосый",
+        "type": "voice"
+      },
+      "year": 2007,
+      "kinopoisk_id": "279603",
+      "imdb_id": "tt0949489",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-15T12:24:53Z",
+      "updated_at": "2020-01-15T12:24:53Z",
+      "material_data": {
+        "title": "Потерянные в Пекине",
+        "title_en": "Ping guo",
+        "year": 2007,
+        "tagline": "Хаос любовных хитросплетений",
+        "description": "Пинго работает массажисткой в Дворце массажа ног «Золотой таз» — популярном массажном заведении, принадлежащем Линь Дуну, бизнесмену средних лет. Однажды девушка напивается, и Дун пользуется ситуацией, чтобы заняться с ней сексом. А Муж Пинго, Ань Кунь, который работает мойщиком окон высотных зданий, становится этому свидетелем. После этого сомнительного изнасилования Пинго забеременела. Ань Кунь шантажирует Линь Дуна: либо тот заплатит компенсацию, либо он подаст жалобу об изнасиловании.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/279603.jpg",
+        "duration": 112,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 7,
+        "kinopoisk_votes": 343,
+        "imdb_rating": 6.7,
+        "imdb_votes": 2129,
+        "premiere_ru": "2008-02-21",
+        "premiere_world": "2007-02-16",
+        "minimal_age": 18,
+        "actors": [
+          "Фань Бинбин",
+          "Тун Давэй",
+          "Тони Люн Ка-Фай",
+          "Элэйн Цзинь",
+          "Цзэн Мэйхуэйцзы",
+          "Бао Чжэньцзян",
+          "Фан Ли",
+          "Чжэн Цзиньхан",
+          "Чжан Маньян",
+          "Хуан Айлин"
+        ],
+        "directors": [
+          "Ли Юй"
+        ],
+        "producers": [
+          "Фан Ли",
+          "Пегги Чао",
+          "Алексис Дантек",
+          "Изабель Глашан",
+          "Мань Хун Тун",
+          "Йип Ток Вэй",
+          "Чжао Вел"
+        ],
+        "writers": [
+          "Фан Ли",
+          "Ли Юй",
+          "Эмиле Саада"
+        ],
+        "composers": [
+          "Пейман Язданьян"
+        ],
+        "editors": [
+          "Цзэн Цзянь"
+        ],
+        "designers": [
+          "Лю Вэйсинь",
+          "Сюй Чжэнь"
+        ],
+        "operators": [
+          "Ван Юй"
+        ]
+      }
+    },
+    {
+      "id": "movie-47728",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Жить и любить",
+      "title_orig": "Aao Pyaar Karen",
+      "translation": {
+        "id": 712,
+        "title": "Проф. Двухголосый",
+        "type": "voice"
+      },
+      "year": 1994,
+      "kinopoisk_id": "78620",
+      "imdb_id": "tt0112269",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-15T12:22:33Z",
+      "updated_at": "2020-01-15T12:22:33Z",
+      "material_data": {
+        "title": "Жить и любить",
+        "title_en": "Aao Pyaar Karen",
+        "year": 1994,
+        "description": "Анжали Прасад Синха поклялась своему умирающему мужу, что никогда не пустит в дом их сына Сурая, который женился а простой девушке, вопреки их воли. Сурай и его жена погибают в автокатастрофе, но перед смертью они успевают сказать своему сыну Ражу, что он должен любой ценой вернуть благосклонность своей бабки.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/78620.jpg",
+        "duration": 141,
+        "countries": [
+          "Индия"
+        ],
+        "genres": [
+          "мелодрама"
+        ],
+        "imdb_rating": 4.2,
+        "imdb_votes": 157,
+        "premiere_world": "1994-11-25",
+        "actors": [
+          "Саиф Али Кхан",
+          "Шилпа Шетти",
+          "Соми Али",
+          "Апараджита",
+          "Арджун",
+          "Ракеш Беди",
+          "Бхарти",
+          "Прем Чопра",
+          "Гульшан Гровер",
+          "Мукеш Ханна"
+        ],
+        "directors": [
+          "Равиндра Пипат"
+        ],
+        "producers": [
+          "Гаутам Бокадиа"
+        ],
+        "composers": [
+          "Адеш Шривастава"
+        ],
+        "operators": [
+          "Срипад Нату"
+        ]
+      }
+    },
+    {
+      "id": "movie-47729",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Принцесса подворотен",
+      "title_orig": "Ma lu xiao ying xiong",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 1973,
+      "kinopoisk_id": "53141",
+      "imdb_id": "tt0070348",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-15T12:21:13Z",
+      "updated_at": "2020-01-15T12:21:13Z",
+      "material_data": {
+        "title": "Принцесса подворотен",
+        "title_en": "Ma lu xiao ying xiong",
+        "year": 1973,
+        "description": "Полли Кван и Сэм Хуи - мошенники, которые живут в подворотнях и добывают пропитание воровством и обманом. Однажды они подружились с компанией уличных торговцев и акробатов, и те пригласили их пожить у себя. Группа постоянно оказывается перед финансовыми проблемами. Полли Кван постоянно лжет, обманывает и ворует, чтобы добыть денег для себя и своего товарища, переодически помогая деньгами новым приятелям. Ситуация усложняется, когда головорезы местной триады похищают дочь семьи и продают ее боссу триады, прикончив брата девушки, который отчаянно пытался ее защитить. Группа разрабатывает план - они решают подослать героинь Полли Кван и Анжелы Мао к бандитам под видом девушек, которых продал их собственный отец, нуждающийся в деньгах.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/53141.jpg",
+        "duration": 122,
+        "countries": [
+          "Гонконг"
+        ],
+        "genres": [
+          "боевик",
+          "драма",
+          "комедия"
+        ],
+        "imdb_rating": 6.7,
+        "imdb_votes": 39,
+        "premiere_world": "1973-02-17",
+        "minimal_age": 0,
+        "actors": [
+          "Лин Фенг",
+          "Сэм Хуэй",
+          "Анджела Мао",
+          "Фанг Йи",
+          "Тони Лю",
+          "Инь-Чиэ Хань",
+          "Картер Вон",
+          "Лаи Ванг",
+          "Хелен Ма",
+          "Чинь Ют-Сан"
+        ],
+        "directors": [
+          "Ло Вэй"
+        ],
+        "producers": [
+          "Рэймонд Чоу",
+          "Лю Лянхуа"
+        ],
+        "writers": [
+          "Ло Вэй"
+        ],
+        "composers": [
+          "Джозеф Ку"
+        ],
+        "editors": [
+          "Питер Чун"
+        ],
+        "designers": [
+          "Чин-Шэнь Чен"
+        ],
+        "operators": [
+          "Чин-Чу Чэнь"
+        ]
+      }
+    },
+    {
+      "id": "movie-47730",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Проигравший рыцарь 2",
+      "title_orig": "Ying han 2: Feng pei dao di",
+      "translation": {
+        "id": 680,
+        "title": "den904",
+        "type": "voice"
+      },
+      "year": 2011,
+      "kinopoisk_id": "584767",
+      "imdb_id": "tt1883397",
+      "quality": "HDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-15T12:19:04Z",
+      "updated_at": "2020-01-15T12:19:04Z",
+      "material_data": {
+        "title": "Проигравший рыцарь 2",
+        "title_en": "Ying han 2: Feng pei dao di",
+        "year": 2011,
+        "description": "Бывший офицер военно-морского флота, перенесший травму головного мозга при исполнении, случайно оказывается в банке во время ограбления и мешает грабителям осуществить дерзкий план.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/584767.jpg",
+        "duration": 86,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "боевик",
+          "криминал"
+        ],
+        "kinopoisk_rating": 6.8,
+        "kinopoisk_votes": 77,
+        "imdb_rating": 6,
+        "imdb_votes": 158,
+        "premiere_world": "2011-04-01",
+        "minimal_age": 0,
+        "actors": [
+          "Лю Е",
+          "En-Chun Chiao",
+          "Чжан Цзылинь",
+          "Ю Сын-джун",
+          "Ду Юймин",
+          "Мадхури",
+          "Dongmei Xu",
+          "Чжан Лу"
+        ],
+        "directors": [
+          "Дин Шэн"
+        ],
+        "writers": [
+          "Дин Шэн"
+        ]
+      }
+    },
+    {
+      "id": "movie-47731",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Проигравший рыцарь",
+      "title_orig": "Ying han",
+      "translation": {
+        "id": 674,
+        "title": "Люб. Одноголосый",
+        "type": "voice"
+      },
+      "year": 2008,
+      "kinopoisk_id": "394821",
+      "imdb_id": "tt1087906",
+      "quality": "HDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-15T12:18:09Z",
+      "updated_at": "2020-01-15T12:18:09Z",
+      "material_data": {
+        "title": "Проигравший рыцарь",
+        "title_en": "Ying han",
+        "year": 2008,
+        "description": "Лао Сан - молодой и опытный, но туповатый боец кунг-фу. После того как он устраивается телохранителем к коллекционеру антиквариата, Лао Сан узнает о планах своего хозяина обокрасть национальный музей. Но он этого сделать не позволит.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/394821.jpg",
+        "duration": 95,
+        "countries": [
+          "Гонконг",
+          "Китай"
+        ],
+        "genres": [
+          "боевик",
+          "комедия"
+        ],
+        "kinopoisk_rating": 6,
+        "kinopoisk_votes": 108,
+        "imdb_rating": 6.1,
+        "imdb_votes": 431,
+        "premiere_world": "2008-11-28",
+        "minimal_age": 0,
+        "actors": [
+          "Лю Е",
+          "Энтони Вон",
+          "Ю Юн",
+          "Сунь Хунлэй",
+          "Юй Жунгуан",
+          "Янг Лью",
+          "Цао Хуа",
+          "Эллен Чань",
+          "Стивен Цзянь",
+          "Ма Цзинъу"
+        ],
+        "directors": [
+          "Дин Шэн"
+        ],
+        "producers": [
+          "Вон Цзин",
+          "Ма Чжунцзинь",
+          "Вольфганг Вильке"
+        ],
+        "writers": [
+          "Вон Цзин"
+        ]
+      }
+    },
+    {
+      "id": "movie-47732",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Счастья нет, но есть пила",
+      "title_orig": "Negatibu happî chênsô ejji",
+      "translation": {
+        "id": 680,
+        "title": "den904",
+        "type": "voice"
+      },
+      "year": 2007,
+      "kinopoisk_id": "398838",
+      "imdb_id": "tt1024856",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-15T12:16:53Z",
+      "updated_at": "2020-01-15T12:16:53Z",
+      "material_data": {
+        "title": "Счастья нет, но есть пила",
+        "title_en": "Negatibu happî chênsô ejji",
+        "year": 2007,
+        "description": "Однажды ночью, школьник Ёcyкэ Ямoмoтo встречает красивую девушку. На вопрос, что она делает так поздно в одиночестве в парке, она грубо советует ему убираться, пока Он не появился. Узнaть, кто такой Он, Ёcyкэ незамедлительно предоставляется возможность, когда в следюущий момент на него с неба обрушивается огромный монстр, вооруженный бензопилой.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/398838.jpg",
+        "duration": 109,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "комедия",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 176,
+        "imdb_rating": 5.6,
+        "imdb_votes": 303,
+        "premiere_world": "2007-10-25",
+        "minimal_age": 0,
+        "actors": [
+          "Ёсукэ Асари",
+          "Тэрутака Хасэгава",
+          "Хаято Итихара",
+          "Ицудзи Итао",
+          "Ая Кигути",
+          "Харума Миура",
+          "Махо Нонами",
+          "Мэгуми Сэки",
+          "Хироми Шине",
+          "Бари Судзуки"
+        ],
+        "directors": [
+          "Такудзи Китамура"
+        ],
+        "producers": [
+          "Казухиро Хиросе",
+          "Сугуру Мацумура",
+          "Акира Ямамото"
+        ],
+        "writers": [
+          "Тацухико Такимото",
+          "Хиротоси Кобаяси"
+        ]
+      }
+    },
+    {
+      "id": "movie-47733",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Последний звонок",
+      "title_orig": "End Call",
+      "translation": {
+        "id": 613,
+        "title": "DeadSno & den904",
+        "type": "voice"
+      },
+      "year": 2008,
+      "kinopoisk_id": "410532",
+      "imdb_id": "tt1141253",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-15T12:16:12Z",
+      "updated_at": "2020-01-15T12:16:12Z",
+      "material_data": {
+        "title": "Последний звонок",
+        "title_en": "End Call",
+        "year": 2008,
+        "tagline": "The Last Call You'll Ever Make",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/410532.jpg",
+        "duration": 94,
+        "countries": [
+          "Япония"
+        ],
+        "genres": [
+          "ужасы"
+        ],
+        "kinopoisk_rating": 4.9,
+        "kinopoisk_votes": 63,
+        "imdb_rating": 4.4,
+        "imdb_votes": 199,
+        "premiere_world": "2010-10-16",
+        "minimal_age": 0,
+        "actors": [
+          "Юриа Хага",
+          "Асами Усуда",
+          "Тасуку Нагаока",
+          "Рина Мацуки",
+          "Таро Сува",
+          "Хитоми Мива",
+          "Тэцу Ватанабэ",
+          "Ери Такада",
+          "Томоми Юджи"
+        ],
+        "directors": [
+          "Киёси Ямамото"
+        ],
+        "producers": [
+          "Акира Ямагути",
+          "Хитоси Абе",
+          "Андреа Де Либерато",
+          "Такэити Хонда",
+          "Хироки Кавасима",
+          "Синди Нельсон-Муллен",
+          "Юи Сибата",
+          "Мишель Таверна"
+        ],
+        "composers": [
+          "Джон Лиссауэр"
+        ],
+        "designers": [
+          "Томоя Имаи"
+        ],
+        "operators": [
+          "Ясутака Нагано"
+        ]
+      }
+    },
+    {
+      "id": "movie-47734",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Бойцовский клуб зомби",
+      "title_orig": "Shi cheng",
+      "translation": {
+        "id": 599,
+        "title": "Хихикающий доктор",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "839371",
+      "imdb_id": "tt3560742",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-15T12:14:06Z",
+      "updated_at": "2020-01-15T12:14:06Z",
+      "material_data": {
+        "title": "Бойцовский клуб зомби",
+        "title_en": "Shi cheng",
+        "year": 2014,
+        "tagline": "You only die twice.",
+        "description": "Мир впал во мрак. Города стали кладбищами, а кладбища - городами. В доме одновременно оказываются разные люди, пришедшие туда с разными целями. Полицейские, наркодилеры, школьницы, рэперы, девицы легкого поведения, тусовщики. Они первыми и оказываются жертвами.\n\rНебоскрёб превращается в кладбище восставших мертвецов. Эпидемия выходит на улицы города, но она меняет людей, превращая их не только в зомби. Милый и когда-то добрый учитель химии становится хозяином бойцовой арены, на которой люди сражаются с мертвецами.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/839371.jpg",
+        "duration": 95,
+        "countries": [
+          "Тайвань"
+        ],
+        "genres": [
+          "боевик",
+          "ужасы"
+        ],
+        "kinopoisk_rating": 3.7,
+        "kinopoisk_votes": 358,
+        "imdb_rating": 4,
+        "imdb_votes": 653,
+        "premiere_world": "2014-10-23",
+        "minimal_age": 18,
+        "actors": [
+          "Энди Он",
+          "Джессика Си",
+          "Майкл Вон",
+          "Теренс Инь",
+          "Джек Као",
+          "Эбби Фанг",
+          "Heng-Yin Chou",
+          "Sharon Hsu",
+          "Филип Нг",
+          "MC HotDog"
+        ],
+        "directors": [
+          "Джо Цзе"
+        ],
+        "producers": [
+          "Гордон Чан",
+          "Пол Чэн",
+          "Пако Вон",
+          "Элвин Чоу",
+          "Mei-Lam Cheng",
+          "Алекс Тон",
+          "Florence Poon"
+        ]
+      }
+    },
+    {
+      "id": "movie-18379",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Душа на кожаном шнурке",
+      "title_orig": "Pi sheng shang de hun",
+      "translation": {
+        "id": 677,
+        "title": "BadBajo",
+        "type": "voice"
+      },
+      "year": 2016,
+      "kinopoisk_id": "997810",
+      "imdb_id": "tt5974624",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-15T15:34:05Z",
+      "updated_at": "2020-01-15T12:12:36Z",
+      "material_data": {
+        "title": "Душа на кожаном шнурке",
+        "title_en": "Pi sheng shang de hun",
+        "year": 2016,
+        "description": "Воскрешенный монахами после прямого попадания молнии киллер соглашается выполнить для них важное и опасное задание.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/997810.jpg",
+        "duration": 144,
+        "countries": [
+          "Китай"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 6.7,
+        "imdb_votes": 209,
+        "premiere_world": "2016-06-15",
+        "minimal_age": 0,
+        "actors": [
+          "Цзиньпа",
+          "Чоэни Церин",
+          "Siano Dudiom Zahi"
+        ],
+        "directors": [
+          "Чжан Ян"
+        ],
+        "producers": [
+          "Ли Ли",
+          "Чжан Ян"
+        ],
+        "writers": [
+          "Чжан Ян",
+          "Таши Дава"
+        ],
+        "composers": [
+          "Чжан Цзиань"
+        ],
+        "designers": [
+          "Лэй Цзин"
+        ],
+        "operators": [
+          "Го Дамин"
+        ]
+      }
+    },
+    {
+      "id": "movie-47735",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Семейные бомбы",
+      "title_orig": "Ba er san pao zhan",
+      "translation": {
+        "id": 974,
+        "title": "Рутилов",
+        "type": "voice"
+      },
+      "year": 1986,
+      "kinopoisk_id": "512509",
+      "imdb_id": "tt1468824",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-01-15T12:10:54Z",
+      "updated_at": "2020-01-15T12:10:54Z",
+      "material_data": {
+        "title": "Семейные бомбы",
+        "title_en": "Ba er san pao zhan",
+        "year": 1986,
+        "description": "Кинмен был до 1949 г мирной территорией, пока Чан Кайши не превратил остров в оборонительный укрепрайон против коммунистов, вытеснивших его национальную армию с материка. Его изначальным планом было организовать на острове лечение раненых солдат и подготовиться к наступлению на позиции Мао Цзе Дуна, однако всё случилось иначе. На острове было объявлено военное положение, и он превратился в последнюю горячую точку гражданской войны. Кинмен подвергался массированному артобстрелу с материка в течение 1950-х и 60-х гг. В частности, 23 августа 1958 г коммунисты устроили сильнейший артиллерийский обстрел Кинмена. Всё полыхали огнём, имелись большие жертвы. Фильм рассказывает о 823 артиллерийской батарее под командованием полковника Килианга Чена и событиях того времени.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/512509.jpg",
+        "countries": [
+          "Тайвань"
+        ],
+        "genres": [
+          "военный",
+          "драма"
+        ],
+        "imdb_rating": 5.7,
+        "imdb_votes": 15,
+        "premiere_world": "1986-10-09",
+        "minimal_age": 0,
+        "actors": [
+          "Чун Хсианг Ко",
+          "Ау Танг Сунь",
+          "Chung-Kun Huang",
+          "Чинг Чанг",
+          "Cheng-Yu Chen",
+          "Минг Чианг",
+          "Цзян Ян ",
+          "En-Chun Chiao",
+          "Min-Li Chi",
+          "Чарли Чинь"
+        ],
+        "directors": [
+          "Дин Шаньси"
+        ],
+        "producers": [
+          "Hsin-chi Hui",
+          "Yang-hsien Nieh"
+        ],
+        "writers": [
+          "Чи-пинь Чао",
+          "Дин Шаньси"
+        ],
+        "composers": [
+          "Kuo-Hsien Yu"
+        ],
+        "editors": [
+          "Чи Янг Ванг"
+        ],
+        "designers": [
+          "Fu-Shung Li",
+          "Heng-tzu Pan"
+        ],
+        "operators": [
+          "Хуи Кунг Чанг"
+        ]
+      }
+    },
+    {
       "id": "movie-47736",
       "type": "foreign-movie",
       "link": "",
@@ -2069,7 +2808,7 @@
         "imdb_rating": 7.7,
         "imdb_votes": 2317,
         "shikimori_rating": 7.7,
-        "shikimori_votes": 2002,
+        "shikimori_votes": 1623,
         "premiere_world": "1993-12-05",
         "aired_at": "1993-12-05",
         "rating_mpaa": "PG-13",
@@ -2288,7 +3027,7 @@
           "J.C.Staff"
         ],
         "shikimori_rating": 6.53,
-        "shikimori_votes": 642,
+        "shikimori_votes": 645,
         "aired_at": "1998-04-21",
         "rating_mpaa": "PG-13",
         "episodes_total": 1,
@@ -5542,8 +6281,8 @@
         ],
         "imdb_rating": 4.8,
         "imdb_votes": 139,
-        "shikimori_rating": 5.14,
-        "shikimori_votes": 251,
+        "shikimori_rating": 5.12,
+        "shikimori_votes": 210,
         "aired_at": "1996-07-31",
         "rating_mpaa": "R+",
         "minimal_age": 18,
@@ -5674,7 +6413,7 @@
         "imdb_rating": 4.5,
         "imdb_votes": 104,
         "shikimori_rating": 6.06,
-        "shikimori_votes": 207,
+        "shikimori_votes": 208,
         "premiere_world": "2002-08-31",
         "aired_at": "2002-08-31",
         "released_at": "2002-11-21",
@@ -5881,7 +6620,7 @@
         "imdb_rating": 6.2,
         "imdb_votes": 750,
         "shikimori_rating": 5.91,
-        "shikimori_votes": 238,
+        "shikimori_votes": 242,
         "premiere_world": "1987-09-01",
         "aired_at": "1987-09-01",
         "rating_mpaa": "PG-13",
@@ -6352,7 +7091,7 @@
         "imdb_rating": 7.5,
         "imdb_votes": 36582,
         "shikimori_rating": 7.82,
-        "shikimori_votes": 6752,
+        "shikimori_votes": 6771,
         "premiere_world": "2004-03-06",
         "aired_at": "2004-03-06",
         "rating_mpaa": "PG-13",
@@ -6788,7 +7527,7 @@
         "imdb_rating": 6.4,
         "imdb_votes": 2638,
         "shikimori_rating": 6.16,
-        "shikimori_votes": 412,
+        "shikimori_votes": 414,
         "premiere_world": "1988-10-25",
         "aired_at": "1988-10-25",
         "rating_mpaa": "R",
@@ -6892,9 +7631,9 @@
           "Madhouse"
         ],
         "kinopoisk_rating": 6,
-        "kinopoisk_votes": 256,
+        "kinopoisk_votes": 255,
         "imdb_rating": 6.1,
-        "imdb_votes": 450,
+        "imdb_votes": 451,
         "shikimori_rating": 6.11,
         "shikimori_votes": 187,
         "premiere_world": "1994-03-21",
@@ -7012,9 +7751,9 @@
           "Studio 4°C"
         ],
         "kinopoisk_rating": 7.6,
-        "kinopoisk_votes": 841,
+        "kinopoisk_votes": 842,
         "imdb_rating": 7.1,
-        "imdb_votes": 439,
+        "imdb_votes": 441,
         "shikimori_rating": 7.4,
         "shikimori_votes": 1302,
         "premiere_world": "2002-05-02",
@@ -8175,812 +8914,6 @@
         ],
         "operators": [
           "Чо Сан-юн"
-        ]
-      }
-    },
-    {
-      "id": "movie-47677",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Спящая красавица",
-      "title_orig": "Seulliping byuti",
-      "translation": {
-        "id": 680,
-        "title": "den904",
-        "type": "voice"
-      },
-      "year": 2008,
-      "kinopoisk_id": "673373",
-      "imdb_id": "tt1594540",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-14T12:40:07Z",
-      "updated_at": "2020-01-14T12:40:07Z",
-      "material_data": {
-        "title": "Спящая красавица",
-        "title_en": "Seulliping byuti",
-        "year": 2008,
-        "description": "До-ён - ученица шестого класса. Она встречается с сыном брата своей матери в день похорон бабушки. В последний день похорон До-ён и Сан-джун идут вместе в пустующую школу, где получают первый в своей жизни сексуальный опыт.\n\rИ-ре - одинокая женщина 50-ти с лишним лет. Она живёт со своим отцом, у которого болезнь Альцгеймера. Из-за эпидемии птичьего гриппа она вынуждена была избавиться от птицы в своём хозяйстве. Физическое и моральное состояние отца постоянно ухудшается, да так, что он даже просит её потрогать его неподобающим образом.\n\r17-летнюю Су-джин с матерью провезли в страну контрабандисты. Её удочерила семья, живущая на ферме в пригороде. В первый же день на ферме она была изнасилована своим приёмным отцом. Периодически Су-джин подвергается приставаниям. Она чувствует себя хорошо только рядом с внуком приёмного отца, который принимает и понимает её и то положение, в котором она оказалась.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/673373.jpg",
-        "duration": 109,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "драма"
-        ],
-        "imdb_rating": 6.6,
-        "imdb_votes": 48,
-        "premiere_world": "2008-10-23",
-        "minimal_age": 0,
-        "actors": [
-          "Лим А-ён",
-          "Ким Джа-ён",
-          "Ли На-ри",
-          "Ким Ён-бин",
-          "Хан Гён-хи",
-          "Хван Джон-ук",
-          "Чи Чхан-ук",
-          "Сон Ин-гап"
-        ],
-        "directors": [
-          "Ли Хан-на"
-        ],
-        "writers": [
-          "Ли Хан-на"
-        ]
-      }
-    },
-    {
-      "id": "movie-47678",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Красивая жизнь",
-      "title_orig": "Mei li ren sheng",
-      "translation": {
-        "id": 620,
-        "title": "GREEN TEA",
-        "type": "voice"
-      },
-      "year": 2011,
-      "kinopoisk_id": "586466",
-      "imdb_id": "tt1934335",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-14T12:39:20Z",
-      "updated_at": "2020-01-14T12:39:20Z",
-      "material_data": {
-        "title": "Красивая жизнь",
-        "title_en": "Mei Li Ren Sheng",
-        "year": 2011,
-        "description": "Она - девушка из Гонконга, приехавшая в Пекин в поисках лучшей жизни. Она носит туфли на высоких каблуках и верит, что всё ещё может обойтись без мужчин и их денег. У неё проблемы с алкоголем и её парнем, ей грустно и одиноко в этом огромном мире.\n\rОн - пекинский полицейский. Каждый день он патрулирует улицы города, а после работы всецело посвящает себя заботе о младшем брате, который не способен сам заботится о себе. Однажды обжегшись, он не спешит вновь связывать себя узами брака.\n\rКак-то раз они встретились в ночном караоке-клубе. Что это? Случайная встреча или начало красивой жизни?",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/586466.jpg",
-        "duration": 122,
-        "countries": [
-          "Гонконг",
-          "Китай"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 7.3,
-        "kinopoisk_votes": 218,
-        "imdb_rating": 6.7,
-        "imdb_votes": 806,
-        "premiere_world": "2011-05-13",
-        "minimal_age": 0,
-        "actors": [
-          "Шу Ци",
-          "Лю Е",
-          "Энтони Вон",
-          "Тянь Лян",
-          "Даньин Фэн",
-          "Рина Са",
-          "Чжан Сунвэнь",
-          "Тянь Гао",
-          "Эндрю Линь",
-          "Стивен Дасс"
-        ],
-        "directors": [
-          "Эндрю Лау"
-        ],
-        "producers": [
-          "Джон Чон",
-          "Эндрю Лау",
-          "Юй Дун"
-        ],
-        "writers": [
-          "Синди Тэнг"
-        ],
-        "composers": [
-          "Комфорт Чан"
-        ],
-        "editors": [
-          "Азраэль Чун"
-        ],
-        "designers": [
-          "Че Киу Лам"
-        ],
-        "operators": [
-          "Лай Иу-Фай",
-          "Эндрю Лау"
-        ]
-      }
-    },
-    {
-      "id": "movie-47679",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Ын-гё",
-      "title_orig": "Eungyo",
-      "translation": {
-        "id": 689,
-        "title": "PashaUp aka Павел Морозов",
-        "type": "voice"
-      },
-      "year": 2012,
-      "kinopoisk_id": "679611",
-      "imdb_id": "tt2390253",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-14T12:38:30Z",
-      "updated_at": "2020-01-14T12:38:30Z",
-      "material_data": {
-        "title": "Ын-гё",
-        "title_en": "Eungyo",
-        "year": 2012,
-        "description": "История знаменитого корейского поэта Ли Джок-ё, который в возрасте семидесяти лет влюбляется в юную и прекрасную семнадцатилетнюю девушку Хан Ын-гё. Гений не может сопротивляться чувству, которое угрожает поглотить его целиком и ведет его к отчаянию и саморазрушению. Ситуация становится ещё более запутанной, когда участником любовного треугольника становится ученик поэта Со Джи-у, завидующий таланту своего наставника.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/679611.jpg",
-        "duration": 129,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 246,
-        "imdb_rating": 6.7,
-        "imdb_votes": 1799,
-        "premiere_world": "2012-04-25",
-        "minimal_age": 0,
-        "actors": [
-          "Пак Хэ-иль",
-          "Ким Му-ёль",
-          "Ким Го-ын",
-          "Чон Ман-щик",
-          "Пак Чхоль-хён",
-          "Чан Юн-щиль",
-          "Чон Со-ин",
-          "Ким Гён-иль",
-          "Ан Мин-ён",
-          "Им Ми-ён"
-        ],
-        "directors": [
-          "Чон Джи-у"
-        ],
-        "producers": [
-          "Ан Ын-ми",
-          "Чон Джи-у"
-        ],
-        "writers": [
-          "Чон Джи-у",
-          "Пак Пом-щин"
-        ],
-        "composers": [
-          "Ён Ри-мок"
-        ],
-        "editors": [
-          "Ким Джэ-бом",
-          "Ким Сан-бом"
-        ],
-        "designers": [
-          "Ким Щи-ён",
-          "Пак Чэ-ван",
-          "Чхве И-ён"
-        ],
-        "operators": [
-          "Ким Тхэ-гён"
-        ]
-      }
-    },
-    {
-      "id": "movie-47680",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Сочувствие господину Месть",
-      "title_orig": "Boksuneun naui geot",
-      "translation": {
-        "id": 598,
-        "title": "Сербин",
-        "type": "voice"
-      },
-      "year": 2002,
-      "kinopoisk_id": "75872",
-      "imdb_id": "tt0310775",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-14T12:37:31Z",
-      "updated_at": "2020-01-14T12:37:31Z",
-      "material_data": {
-        "title": "Сочувствие господину Месть",
-        "title_en": "Boksuneun naui geot",
-        "year": 2002,
-        "tagline": "Поэма о мести",
-        "description": "Глухонемой Рю живет вместе с больной сестрой, которая нуждается в пересадке почки. Рю только что уволили, и он со своей подружкой решает похитить дочь начальника, чтобы на полученный выкуп сделать трансплантацию. Но все идет катастрофически не так.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/75872.jpg",
-        "duration": 129,
-        "countries": [
-          "Корея Южная"
-        ],
-        "genres": [
-          "драма",
-          "криминал",
-          "триллер"
-        ],
-        "kinopoisk_rating": 7.4,
-        "kinopoisk_votes": 13512,
-        "imdb_rating": 7.6,
-        "imdb_votes": 63713,
-        "premiere_world": "2002-03-29",
-        "rating_mpaa": "R",
-        "minimal_age": 18,
-        "actors": [
-          "Щин Ха-гюн",
-          "Пэ Ду-на",
-          "Сон Кан-хо",
-          "Лим Джи-ын",
-          "Хан Бо-бэ",
-          "Ким Сэ-дон",
-          "Ли Дэ-ён",
-          "Масаси Фудзимото",
-          "Ки Джу-бон",
-          "Чон Гю-су"
-        ],
-        "directors": [
-          "Пак Чхан-ук"
-        ],
-        "producers": [
-          "Ли Джэ-сун",
-          "Лим Джин-гю",
-          "Ли Ган-бок",
-          "Сок Тон-джун"
-        ],
-        "writers": [
-          "Ли Джэ-сун",
-          "Ли Джон-ён",
-          "Ли Му-ён",
-          "Пак Чхан-ук"
-        ],
-        "composers": [
-          "Пэк Хён-джин",
-          "Чан Ён-гю",
-          "Ли Бён-хун"
-        ],
-        "editors": [
-          "Ким Джэ-бом",
-          "Ким Сан-бом"
-        ],
-        "designers": [
-          "Чхве Джон-хва",
-          "О Джэ-вон",
-          "О Сан-ман",
-          "Щин Сын-хи"
-        ],
-        "operators": [
-          "Ким Бён-иль"
-        ]
-      }
-    },
-    {
-      "id": "movie-47681",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Карманники",
-      "title_orig": "Tai fong siu sau",
-      "translation": {
-        "id": 580,
-        "title": "Дольский",
-        "type": "voice"
-      },
-      "year": 1982,
-      "kinopoisk_id": "37158",
-      "imdb_id": "tt0083828",
-      "quality": "BDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-14T12:35:59Z",
-      "updated_at": "2020-01-14T12:35:59Z",
-      "material_data": {
-        "title": "Карманники",
-        "title_en": "Tai fong siu sau",
-        "year": 1982,
-        "description": "Двое неразлучных друзей-карманников в компании своего учителя и его дочери каждый день «зарабатывают» своим незаконным ремеслом баснословные суммы.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/37158.jpg",
-        "duration": 96,
-        "countries": [
-          "Гонконг"
-        ],
-        "genres": [
-          "боевик"
-        ],
-        "kinopoisk_rating": 6.7,
-        "kinopoisk_votes": 84,
-        "imdb_rating": 6.7,
-        "imdb_votes": 181,
-        "premiere_world": "1982-03-31",
-        "minimal_age": 0,
-        "actors": [
-          "Саммо Хун",
-          "Фрэнки Чан",
-          "Динни Ип",
-          "Билли Чан",
-          "Chik Wai Chan",
-          "Лап Бан Чан",
-          "Люн Чан",
-          "Ланг Чан",
-          "Ming-Wei Chen",
-          "Ти-ко Чен"
-        ],
-        "directors": [
-          "Саммо Хун"
-        ],
-        "producers": [
-          "Фрэнки Чан",
-          "Гай Лаи"
-        ],
-        "writers": [
-          "Бэрри Вонг"
-        ],
-        "composers": [
-          "Фрэнки Чан"
-        ],
-        "editors": [
-          "Питер Чун",
-          "Чен Дак Геунг"
-        ],
-        "designers": [
-          "Уильям Чан"
-        ],
-        "operators": [
-          "Рики Лау"
-        ]
-      }
-    },
-    {
-      "id": "movie-47660",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Дредноут",
-      "title_orig": "Yong zhe wu ju",
-      "translation": {
-        "id": 572,
-        "title": "Визгунов",
-        "type": "voice"
-      },
-      "year": 1981,
-      "kinopoisk_id": "53127",
-      "imdb_id": "tt0083352",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-14T12:32:33Z",
-      "updated_at": "2020-01-14T12:32:33Z",
-      "material_data": {
-        "title": "Дредноут",
-        "title_en": "Yong zhe wu ju",
-        "year": 1981,
-        "description": "Парень по кличке Мышонок даже не осознает, что он может дать сдачи обидчикам - он слишком труслив. Сестра научила его стилю «коготь орла», но практикует он его исключительно на грязном белье, которое стирает. А в это время в Кантон прибывает беглый убийца, устраивающийся в местную труппу китайской оперы. Воспоминания о жене, которую убили законники, выражается у него исключительно в звоне колокольчиков, и Мышонок становится его главной мишенью как раз из-за них - звенящего амулета, болтающегося у него на шее.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/53127.jpg",
-        "duration": 91,
-        "countries": [
-          "Гонконг"
-        ],
-        "genres": [
-          "боевик",
-          "комедия"
-        ],
-        "imdb_rating": 7.4,
-        "imdb_votes": 688,
-        "premiere_world": "1988-06-11",
-        "minimal_age": 0,
-        "actors": [
-          "Юэнь Бяо",
-          "Люн Ка-Янь",
-          "Юэнь Шуньи",
-          "Куань Такхин",
-          "Чунг Ву Чинг",
-          "Юн-Кин Чоу",
-          "Lee Chun-Wa",
-          "Фань Мэйшэн",
-          "Фун Хак-Он",
-          "Kar-Fung Kam"
-        ],
-        "directors": [
-          "Юэнь Ву-Пин"
-        ],
-        "writers": [
-          "Вон Цзин"
-        ]
-      }
-    },
-    {
-      "id": "movie-47662",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Мечты на продажу",
-      "title_orig": "Yume uru futari",
-      "translation": {
-        "id": 791,
-        "title": "RealFake",
-        "type": "voice"
-      },
-      "year": 2012,
-      "kinopoisk_id": "612060",
-      "imdb_id": "tt1970077",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-14T12:25:30Z",
-      "updated_at": "2020-01-14T12:25:30Z",
-      "material_data": {
-        "title": "Мечты на продажу",
-        "title_en": "Yume uru futari",
-        "year": 2012,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/612060.jpg",
-        "duration": 134,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "драма",
-          "криминал"
-        ],
-        "imdb_rating": 6.7,
-        "imdb_votes": 407,
-        "premiere_world": "2012-09-08",
-        "actors": [
-          "Юсукэ Исэя",
-          "Такако Мацу",
-          "Тэруюки Кагава",
-          "Тамаэ Андо",
-          "Рэна Танака",
-          "Кана Курасина",
-          "Кандзи Фурутати",
-          "Таэ Кимура",
-          "Садао Абэ",
-          "Кёсукэ Ябэ"
-        ],
-        "directors": [
-          "Мива Нисикава"
-        ],
-        "producers": [
-          "Косукэ Осида",
-          "Кадзуми Кавасиро",
-          "Сиро Сасаки"
-        ],
-        "writers": [
-          "Мива Нисикава"
-        ],
-        "editors": [
-          "Рюдзи Миядзима"
-        ],
-        "designers": [
-          "Кэйко Мицумацу"
-        ],
-        "operators": [
-          "Кацуми Янагисима"
-        ]
-      }
-    },
-    {
-      "id": "movie-5293",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Безрассудно влюбленные",
-      "title_orig": "Hakoiri musuko no koi",
-      "translation": {
-        "id": 674,
-        "title": "Люб. Одноголосый",
-        "type": "voice"
-      },
-      "year": 2013,
-      "kinopoisk_id": "710791",
-      "imdb_id": "tt2407064",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-14T15:34:04Z",
-      "updated_at": "2020-01-14T12:24:35Z",
-      "material_data": {
-        "title": "Любовь слепа",
-        "title_en": "Hakoiri musuko no koi",
-        "year": 2013,
-        "description": "35-летный Кэнтаро за всю жизнь ни разу не ходил на свидание с девушкой. Он живет с родителями и занимает скромную должность в мэрии. У Кэнтаро нет друзей, и он уже 13 лет работает без повышения. Его родители обеспокоенные тем, чтобы он не остался одиноким до конца своей жизни, решают вмешаться.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/710791.jpg",
-        "duration": 117,
-        "countries": [
-          "Япония"
-        ],
-        "genres": [
-          "комедия",
-          "мелодрама"
-        ],
-        "kinopoisk_rating": 6.9,
-        "kinopoisk_votes": 147,
-        "imdb_rating": 6.5,
-        "imdb_votes": 182,
-        "premiere_ru": "2017-11-24",
-        "premiere_world": "2013-06-08",
-        "actors": [
-          "Гэн Хосино",
-          "Кахо",
-          "Сэи Хираидзуми",
-          "Рёко Морияма",
-          "Рен Осуги",
-          "Хитоми Куроки",
-          "Хонока Исибаси",
-          "Сюнтаро Янаги",
-          "Кандзи Фурутати",
-          "Мияко Такэути"
-        ],
-        "directors": [
-          "Масахидэ Итии"
-        ],
-        "producers": [
-          "Тикако Накабаяси",
-          "Юмико Такэбэ",
-          "Джейсон Грэй",
-          "Кен Исаак",
-          "Наоя Киносита",
-          "Масахико Мидзугути"
-        ],
-        "writers": [
-          "Масахидэ Итии",
-          "Такахиро Тамура"
-        ],
-        "composers": [
-          "Рэн Такада"
-        ],
-        "editors": [
-          "Тиэко Судзаки"
-        ],
-        "designers": [
-          "Мицусэ Мацуда"
-        ],
-        "operators": [
-          "Даисукэ Сома"
-        ]
-      }
-    },
-    {
-      "id": "movie-47663",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Маркова",
-      "title_orig": "Markova: Comfort Gay",
-      "translation": {
-        "id": 569,
-        "title": "Алексеев",
-        "type": "voice"
-      },
-      "year": 2000,
-      "kinopoisk_id": "119120",
-      "imdb_id": "tt0292097",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-14T12:20:50Z",
-      "updated_at": "2020-01-14T12:20:50Z",
-      "material_data": {
-        "title": "Маркова",
-        "title_en": "Markova: Comfort Gay",
-        "year": 2000,
-        "description": "Фильм рассказывает реальную историю жизни парня Уолтера Дэмпстера младшего, также известного как Маркова, который во время 2 мировой войны был для японцев, оккупировавших Филиппины, как бесплатная проститутка - замена женщинам. Фильм начинается с того, что показывается, как в наши дни Маркова живет в доме для престарелых геев в Маниле. Он стар, но все еще элегантен. Как-то раз он смотрит по телевизору программу, рассказывающую о присутствии японских войск на Филиппинах в первой половине 40-х годов. И видя, сколько в программе умалчивается, он решает рассказать правду",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/119120.jpg",
-        "duration": 97,
-        "countries": [
-          "Филиппины"
-        ],
-        "genres": [
-          "биография",
-          "военный",
-          "драма"
-        ],
-        "imdb_rating": 6.7,
-        "imdb_votes": 139,
-        "premiere_world": "2000-12-25",
-        "minimal_age": 0,
-        "actors": [
-          "Долфи",
-          "Eric Quizon",
-          "Джеффри Кисон",
-          "Тони Буено",
-          "Риччи Чан",
-          "Декстер Дория",
-          "Р.С. Франциско",
-          "Нандинг Хосеф",
-          "Джоэль Ламанган",
-          "Мелвин Ли"
-        ],
-        "directors": [
-          "Gil Portes"
-        ],
-        "producers": [
-          "Долфи",
-          "Долор Гевара",
-          "Рене Паскуаль"
-        ],
-        "writers": [
-          "Клодуальдо дель Мундо мл."
-        ],
-        "composers": [
-          "Джей Марфил"
-        ],
-        "editors": [
-          "Джордж Ярлего"
-        ],
-        "designers": [
-          "Kay Abano"
-        ],
-        "operators": [
-          "Джонни Араохо"
-        ]
-      }
-    },
-    {
-      "id": "movie-47664",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Подельники",
-      "title_orig": "Gong fan",
-      "translation": {
-        "id": 863,
-        "title": "Колобок & XDUB Dorama",
-        "type": "voice"
-      },
-      "year": 2014,
-      "kinopoisk_id": "823466",
-      "imdb_id": "tt3415554",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-14T12:18:59Z",
-      "updated_at": "2020-01-14T12:18:59Z",
-      "material_data": {
-        "title": "Подельники",
-        "title_en": "Gong fan",
-        "year": 2014,
-        "description": "По дороге в школу Хуан становится свидетелем смерти Чиа, подростка из его школы. Вместе с ним свидетелями преступления становятся его друзья Линь и Ёх. Убийство шокирует учеников и связывает их судьбы вместе. Они поневоле становятся соучастниками преступления. Хуан, Линь и Ёх начинают собственное расследование, чтобы найти настоящего убийцу Чиа.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/823466.jpg",
-        "duration": 89,
-        "countries": [
-          "Тайвань"
-        ],
-        "genres": [
-          "драма",
-          "криминал",
-          "триллер"
-        ],
-        "imdb_rating": 6.5,
-        "imdb_votes": 242,
-        "premiere_world": "2014-06-27",
-        "minimal_age": 0,
-        "actors": [
-          "Тэн Юйкай",
-          "Yu-Ching Hung",
-          "Kai-Yuan Cheng",
-          "Oliver Chou",
-          "Элис Хуан",
-          "Хуан Тэнхуэй",
-          "Элис Ко",
-          "Ли Ле",
-          "Винсент Лян",
-          "Xavier Lin"
-        ],
-        "directors": [
-          "Чан Цзюн-Чи"
-        ],
-        "producers": [
-          "Вульф Чэнь",
-          "Джеки Пан",
-          "Е-чэн Чань",
-          "Чи Хсианг Чуэнг",
-          "Mimi Wang"
-        ],
-        "composers": [
-          "Вэнь Цыцзе"
-        ],
-        "editors": [
-          "Нисса Ли"
-        ],
-        "designers": [
-          "У Жоюнь"
-        ],
-        "operators": [
-          "Джимми Юй"
-        ]
-      }
-    },
-    {
-      "id": "movie-47666",
-      "type": "foreign-movie",
-      "link": "",
-      "title": "Расчлененка",
-      "title_orig": "Cheun",
-      "translation": {
-        "id": 833,
-        "title": "СВ Студия",
-        "type": "voice"
-      },
-      "year": 2009,
-      "kinopoisk_id": "501201",
-      "imdb_id": "tt1603807",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-01-14T11:48:54Z",
-      "updated_at": "2020-01-14T11:48:54Z",
-      "material_data": {
-        "title": "Расчлененка",
-        "title_en": "Cheun",
-        "year": 2009,
-        "description": "В городе объявился изощренно убивающий, серийный убийца. Следствие зашло в тупик, так как связи между жертвами нет, кроме того что всех их упаковывают в красный дорожный чемодан. Тай, наёмный убийца, мотающий срок в тюрьме, только он может найти маньяка.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/501201.jpg",
-        "duration": 99,
-        "countries": [
-          "Таиланд"
-        ],
-        "genres": [
-          "детектив",
-          "криминал",
-          "триллер"
-        ],
-        "kinopoisk_rating": 6.6,
-        "kinopoisk_votes": 428,
-        "imdb_rating": 6.9,
-        "imdb_votes": 695,
-        "premiere_world": "2009-10-22",
-        "minimal_age": 0,
-        "actors": [
-          "Арак Аморнсупасири",
-          "Сонтхая Читмани",
-          "Джессика Пасапхан",
-          "Чатчай Пленгпанич",
-          "Сикарин Полюонг",
-          "Артхаран Пулсавад"
-        ],
-        "directors": [
-          "Конгкиат Кхомсири"
-        ],
-        "producers": [
-          "Киаткамон Ианфунгпорн"
-        ],
-        "writers": [
-          "Конгкиат Кхомсири",
-          "Висит Сасанатьенг"
-        ],
-        "composers": [
-          "Erik Lindestad",
-          "Li Stanley",
-          "Вайлд Эт Харт"
-        ],
-        "editors": [
-          "Суний Асавиникул"
-        ],
-        "designers": [
-          "Тхана Майкаумпут",
-          "Вутхикорн Срипотхонг",
-          "Киатчай Кирисри"
-        ],
-        "operators": [
-          "Тханачарт Бунла"
         ]
       }
     }
