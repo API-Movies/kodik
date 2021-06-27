@@ -1,6 +1,931 @@
 {
   "results": [
     {
+      "id": "movie-64463",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Дрожь",
+      "title_orig": "Tremor Iê",
+      "translation": {
+        "id": 670,
+        "title": "Синема УС",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1275311",
+      "imdb_id": "tt10468526",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-15T18:25:45Z",
+      "updated_at": "2020-12-15T18:25:45Z",
+      "material_data": {
+        "title": "Tremor Iê",
+        "year": 2019,
+        "duration": 87,
+        "countries": [
+          "Бразилия"
+        ],
+        "all_genres": [
+          "фантастика"
+        ],
+        "genres": [
+          "фантастика"
+        ],
+        "premiere_world": "2019-01-22",
+        "actors": [
+          "Lila M. Salú",
+          "Deyse Mara",
+          "Getúlio Abelha",
+          "Petrus de Bairros",
+          "Amanda de Oliveira",
+          "Родриго Фернандес",
+          "Paula Haesney",
+          "Micinete Lima",
+          "Ivna Lundgren",
+          "Sarah Nobre"
+        ],
+        "directors": [
+          "Lívia de Paiva",
+          "Elena Meirelles"
+        ],
+        "producers": [
+          "Ticiana Augusto Lima"
+        ],
+        "writers": [
+          "Lila M. Salú",
+          "Deyse Mara",
+          "Elena Meirelles",
+          "Petrus de Bairros",
+          "Lívia de Paiva"
+        ],
+        "composers": [
+          "Auri D'Yruá",
+          "Micinete Lima",
+          "Lila M. Salú",
+          "Ricardo Pereira Dos Santos",
+          "Flávia Soledade"
+        ],
+        "editors": [
+          "Lívia de Paiva",
+          "Elena Meirelles",
+          "Линкольн Периклс"
+        ],
+        "operators": [
+          "Lívia de Paiva",
+          "Raoni Shaira"
+        ]
+      },
+      "screenshots": [
+        "https://i.kodik.biz/screenshots/video/64463/1.jpg",
+        "https://i.kodik.biz/screenshots/video/64463/2.jpg",
+        "https://i.kodik.biz/screenshots/video/64463/3.jpg",
+        "https://i.kodik.biz/screenshots/video/64463/4.jpg",
+        "https://i.kodik.biz/screenshots/video/64463/5.jpg"
+      ]
+    },
+    {
+      "id": "serial-29207",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Молодой хвастливый кочевник",
+      "title_orig": "Dahua Zhi Shaonian You",
+      "other_title": "Da Hua Zhi Shao Nian You",
+      "translation": {
+        "id": 1043,
+        "title": "Animy",
+        "type": "voice"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 16,
+      "episodes_count": 16,
+      "worldart_link": "http://www.world-art.ru/cinema/cinema.php?id=90797",
+      "shikimori_id": "41920",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-09-06T08:00:22Z",
+      "updated_at": "2020-12-15T16:56:55Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Молодой хвастливый кочевник",
+        "title_en": "Dahua Zhi Shaonian You",
+        "other_titles_jp": [
+          "大话之少年游"
+        ],
+        "anime_kind": "ona",
+        "all_status": "released",
+        "anime_status": "released",
+        "poster_url": "https://shikimori.one/system/animes/original/41920.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/46449b3b6cfd8d1d1fd1df4efd09cde93dbb4cd0.jpg",
+          "https://shikimori.one/system/screenshots/original/f14b89319ad482dc44e016501ee9d1ae7c99b12e.jpg"
+        ],
+        "duration": 12,
+        "all_genres": [
+          "Экшен"
+        ],
+        "anime_genres": [
+          "Экшен"
+        ],
+        "shikimori_rating": 0,
+        "shikimori_votes": 23,
+        "aired_at": "2020-08-15",
+        "released_at": "2020-11-20",
+        "rating_mpaa": "PG-13",
+        "episodes_total": 16,
+        "episodes_aired": 16
+      },
+      "screenshots": [
+        "https://i.kodik.biz/screenshots/seria/717539/1.jpg",
+        "https://i.kodik.biz/screenshots/seria/717539/2.jpg",
+        "https://i.kodik.biz/screenshots/seria/717539/3.jpg",
+        "https://i.kodik.biz/screenshots/seria/717539/4.jpg",
+        "https://i.kodik.biz/screenshots/seria/717539/5.jpg"
+      ]
+    },
+    {
+      "id": "serial-30169",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Ты такая милая",
+      "title_orig": "You Are So Sweet",
+      "other_title": "Твой сладкий голос / Ni Ting Qi Lai Hen Tian / You Sound Very Sweet / You Sound Sweet",
+      "translation": {
+        "id": 1332,
+        "title": "FSG Be Mine.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2020,
+      "last_season": 1,
+      "last_episode": 8,
+      "episodes_count": 8,
+      "imdb_id": "tt13364856",
+      "mdl_id": "51979-you-are-so-sweet",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2020-11-21T15:53:38Z",
+      "updated_at": "2020-12-15T16:55:38Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": ""
+          }
+        }
+      },
+      "material_data": {
+        "title_en": "You Are So Sweet",
+        "other_titles": [
+          "Ni Ting Qi Lai Hen Tian",
+          "You Sound Sweet",
+          "你聽起來很甜",
+          "You Sound Very Sweet",
+          "Ni ting qilai hen tian"
+        ],
+        "all_status": "released",
+        "drama_status": "released",
+        "poster_url": "https://i.mydramalist.com/Rbx6R_4f.jpg",
+        "duration": 45,
+        "countries": [
+          "Китай"
+        ],
+        "all_genres": [
+          "комедия",
+          "романтика",
+          "драма"
+        ],
+        "drama_genres": [
+          "комедия",
+          "романтика",
+          "драма"
+        ],
+        "mydramalist_rating": 8,
+        "mydramalist_votes": 1609,
+        "aired_at": "2020-11-05",
+        "released_at": "2020-11-21",
+        "minimal_age": 13,
+        "episodes_total": 24,
+        "actors": [
+          "Eden Zhao",
+          "Gu Chen Yu / \"Mo Bu Yu\"",
+          "Amy Sun",
+          "Xia Xiao Ning / \"Hua Xiao Ning\"",
+          "Li Xiang Zhe",
+          "Minyee Chen"
+        ]
+      },
+      "screenshots": [
+        "https://i.kodik.biz/screenshots/seria/734904/1.jpg",
+        "https://i.kodik.biz/screenshots/seria/734904/2.jpg",
+        "https://i.kodik.biz/screenshots/seria/734904/3.jpg",
+        "https://i.kodik.biz/screenshots/seria/734904/4.jpg",
+        "https://i.kodik.biz/screenshots/seria/734904/5.jpg"
+      ]
+    },
+    {
+      "id": "movie-64456",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Вы не виноваты",
+      "title_orig": "The Fault Is Not Yours",
+      "translation": {
+        "id": 647,
+        "title": "Колобок",
+        "type": "voice"
+      },
+      "year": 2019,
+      "kinopoisk_id": "1144173",
+      "imdb_id": "tt11341210",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-15T16:06:57Z",
+      "updated_at": "2020-12-15T16:06:57Z",
+      "material_data": {
+        "title": "Вы не виноваты",
+        "title_en": "Eojae ileun modu gwaenchana",
+        "year": 2019,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1144173.jpg",
+        "duration": 107,
+        "countries": [
+          "Корея Южная"
+        ],
+        "all_genres": [
+          "драма"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "imdb_rating": 7.7,
+        "imdb_votes": 11,
+        "premiere_world": "2019-05-04",
+        "actors": [
+          "Ким Джэ-чхоль",
+          "Юн Чхан-ён",
+          "Сон Сан-ён",
+          "Ким Мин-джу",
+          "Ким Джин-ён",
+          "Ким Джон-су",
+          "Ли Ын-сэм",
+          "Ким Сон-гон",
+          "Пак Чи-хун"
+        ],
+        "directors": [
+          "Ли Сон-хан"
+        ],
+        "writers": [
+          "Ли Сон-хан"
+        ]
+      },
+      "screenshots": [
+        "https://i.kodik.biz/screenshots/video/64456/1.jpg",
+        "https://i.kodik.biz/screenshots/video/64456/2.jpg",
+        "https://i.kodik.biz/screenshots/video/64456/3.jpg",
+        "https://i.kodik.biz/screenshots/video/64456/4.jpg",
+        "https://i.kodik.biz/screenshots/video/64456/5.jpg"
+      ]
+    },
+    {
+      "id": "movie-64459",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Ненависть",
+      "title_orig": "Nenavist",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1977,
+      "kinopoisk_id": "46393",
+      "imdb_id": "tt0073443",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-15T15:57:57Z",
+      "updated_at": "2020-12-15T15:57:57Z",
+      "material_data": {
+        "title": "Ненависть",
+        "year": 1977,
+        "description": "Гражданская война. Умирая, старый Булыга решил помирить сыновей, чьи пути разошлись еще в начале революции. Поэтому и позвал их. Но встреча братьев его не обрадовала — глубоко затаили они вражду друг на друга.\n\nПохоронили отца. Едва выехали за околицу, как в село ворвался отряд и стал бесчинствовать. И тогда братья устремились по следам банды...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/46393.jpg",
+        "duration": 72,
+        "countries": [
+          "СССР"
+        ],
+        "all_genres": [
+          "приключения"
+        ],
+        "genres": [
+          "приключения"
+        ],
+        "kinopoisk_rating": 4.5,
+        "kinopoisk_votes": 239,
+        "imdb_rating": 5,
+        "imdb_votes": 28,
+        "premiere_world": "1977-10-11",
+        "actors": [
+          "Евгений Соляков",
+          "Иван Мацкевич",
+          "Евгений Леонов-Гладышев",
+          "Елена Цыплакова",
+          "Элгуджа Бурдули",
+          "Павел Кормунин",
+          "Лев Перфилов",
+          "Константин Степанков",
+          "Владимир Акимов",
+          "Николай Бармин"
+        ],
+        "directors": [
+          "Самвел Гаспаров"
+        ],
+        "writers": [
+          "Никита Михалков",
+          "Эдуард Володарский"
+        ],
+        "composers": [
+          "Евгений Стихин"
+        ],
+        "designers": [
+          "Михаил Кац",
+          "Владимир Шинкевич"
+        ],
+        "operators": [
+          "Эдуард Тимлин"
+        ]
+      },
+      "screenshots": [
+        "https://i.kodik.biz/screenshots/video/64459/1.jpg",
+        "https://i.kodik.biz/screenshots/video/64459/2.jpg",
+        "https://i.kodik.biz/screenshots/video/64459/3.jpg",
+        "https://i.kodik.biz/screenshots/video/64459/4.jpg",
+        "https://i.kodik.biz/screenshots/video/64459/5.jpg"
+      ]
+    },
+    {
+      "id": "movie-64460",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Музыканты одного полка",
+      "title_orig": "Muzykanty odnogo polka",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1965,
+      "kinopoisk_id": "46751",
+      "imdb_id": "tt0232147",
+      "quality": "SATRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-15T15:36:51Z",
+      "updated_at": "2020-12-15T15:36:51Z",
+      "material_data": {
+        "title": "Музыканты одного полка",
+        "year": 1965,
+        "description": "Северный городок молодой республики Советов покидают интервенты. Отважный подпольщик Алексей Илютинский проникает в музыкальную команду, организованную для развлечения командования белой армии и поднятия духа населения.\n\nНовый валторнист, начисто лишенный музыкального слуха, передает красным план обороны белых и спасает большевика Макеева, бывшего председателя губисполкома, от расстрела.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/46751.jpg",
+        "duration": 85,
+        "countries": [
+          "СССР"
+        ],
+        "all_genres": [
+          "комедия"
+        ],
+        "genres": [
+          "комедия"
+        ],
+        "kinopoisk_rating": 6.5,
+        "kinopoisk_votes": 139,
+        "imdb_rating": 6.3,
+        "imdb_votes": 17,
+        "premiere_world": "1965-09-13",
+        "minimal_age": 12,
+        "actors": [
+          "Игорь Горбачев",
+          "Александр Мельников",
+          "Игорь Боголюбов",
+          "Анатолий Подшивалов",
+          "Юрий Соломин",
+          "Николай Еременко ст.",
+          "Павел Кадочников",
+          "Николай Боярский",
+          "Константин Адашевский",
+          "Константин Кадочников"
+        ],
+        "directors": [
+          "Павел Кадочников",
+          "Геннадий Казанский"
+        ],
+        "writers": [
+          "Леонид Любашевский"
+        ],
+        "composers": [
+          "Владислав Кладницкий"
+        ],
+        "designers": [
+          "Иван Иванов"
+        ],
+        "operators": [
+          "Геннадий Черешко"
+        ]
+      },
+      "screenshots": [
+        "https://i.kodik.biz/screenshots/video/64460/1.jpg",
+        "https://i.kodik.biz/screenshots/video/64460/2.jpg",
+        "https://i.kodik.biz/screenshots/video/64460/3.jpg",
+        "https://i.kodik.biz/screenshots/video/64460/4.jpg",
+        "https://i.kodik.biz/screenshots/video/64460/5.jpg"
+      ]
+    },
+    {
+      "id": "movie-64461",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Моя любовь на третьем курсе",
+      "title_orig": "Moya lyubov na tretyem kurse",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1976,
+      "kinopoisk_id": "46719",
+      "imdb_id": "tt0074925",
+      "quality": "VHSRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-15T15:35:49Z",
+      "updated_at": "2020-12-15T15:35:49Z",
+      "material_data": {
+        "title": "Моя любовь на третьем курсе",
+        "year": 1976,
+        "description": "Студенческий отряд приехал провести свой трудовой семестр в одном из целинных совхозов с девизом — жить и работать по принципу коммуны. Но даже на ограниченном участке пространства и времени это оказалось непросто.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/46719.jpg",
+        "duration": 88,
+        "countries": [
+          "СССР"
+        ],
+        "all_genres": [
+          "драма"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 6.7,
+        "kinopoisk_votes": 209,
+        "imdb_rating": 7,
+        "imdb_votes": 41,
+        "actors": [
+          "Анвар Молдабеков",
+          "Наталья Головко",
+          "Тимофей Спивак",
+          "Алексей Шейнин",
+          "Галина Борисова",
+          "Аскар Карабаев",
+          "Михаил Жиров",
+          "Алексей Мокроусов",
+          "Виктор Коношенков",
+          "Наталья Потапова"
+        ],
+        "directors": [
+          "Юрий Борецкий"
+        ],
+        "writers": [
+          "Михаил Шатров"
+        ],
+        "composers": [
+          "Александра Пахмутова"
+        ],
+        "designers": [
+          "Виктор Тихомиров"
+        ],
+        "operators": [
+          "Энуар Даулбаев"
+        ]
+      },
+      "screenshots": [
+        "https://i.kodik.biz/screenshots/video/64461/1.jpg",
+        "https://i.kodik.biz/screenshots/video/64461/2.jpg",
+        "https://i.kodik.biz/screenshots/video/64461/3.jpg",
+        "https://i.kodik.biz/screenshots/video/64461/4.jpg",
+        "https://i.kodik.biz/screenshots/video/64461/5.jpg"
+      ]
+    },
+    {
+      "id": "movie-35161",
+      "type": "russian-movie",
+      "link": "",
+      "title": "«Мерседес» уходит от погони",
+      "title_orig": "Mersedes ukhodit ot pogoni",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1980,
+      "kinopoisk_id": "46610",
+      "imdb_id": "tt0230519",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2019-04-17T06:52:58Z",
+      "updated_at": "2020-12-15T15:32:43Z",
+      "material_data": {
+        "title": "«Мерседес» уходит от погони",
+        "year": 1980,
+        "description": "История одной боевой операции времен Второй мировой войны. На трофейном «Мерседесе» несколько смельчаков совершают дерзкий рейд в тыл противника. Их путь идет по дорогам, патрулируемым фашистами.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/46610.jpg",
+        "duration": 79,
+        "countries": [
+          "СССР"
+        ],
+        "all_genres": [
+          "военный"
+        ],
+        "genres": [
+          "военный"
+        ],
+        "kinopoisk_rating": 6.8,
+        "kinopoisk_votes": 978,
+        "imdb_rating": 6.3,
+        "imdb_votes": 58,
+        "minimal_age": 12,
+        "actors": [
+          "Герман Юшко",
+          "Михаил Голубович",
+          "Анатолий Рудаков",
+          "Игорь Ливанов",
+          "Анатолий Барчук",
+          "Борис Юрченко",
+          "Вилорий Пащенко",
+          "Алексей Горячев",
+          "Виталий Васильев",
+          "Юрий Моцарев"
+        ],
+        "directors": [
+          "Юрий Ляшенко"
+        ],
+        "writers": [
+          "Андрей Локотош",
+          "Игорь Шевцов"
+        ],
+        "composers": [
+          "Евгений Дога"
+        ],
+        "designers": [
+          "Олег Костюченко"
+        ],
+        "operators": [
+          "Николай Журавлев"
+        ]
+      },
+      "screenshots": [
+        "https://i.kodik.biz/screenshots/video/35161/1.jpg",
+        "https://i.kodik.biz/screenshots/video/35161/2.jpg",
+        "https://i.kodik.biz/screenshots/video/35161/3.jpg",
+        "https://i.kodik.biz/screenshots/video/35161/4.jpg",
+        "https://i.kodik.biz/screenshots/video/35161/5.jpg"
+      ]
+    },
+    {
+      "id": "movie-64445",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Красное, синее, зеленое",
+      "title_orig": "Krasnoye, sineye, zelyonoye",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1967,
+      "kinopoisk_id": "438287",
+      "imdb_id": "tt5048540",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-15T15:28:03Z",
+      "updated_at": "2020-12-15T15:28:03Z",
+      "material_data": {
+        "title": "Красное, синее, зеленое",
+        "year": 1967,
+        "description": "Три интермедии о том, что к своей работе надо относиться с душой, и тогда окружающий мир будет расцвечен всеми цветами радуги.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/438287.jpg",
+        "duration": 62,
+        "countries": [
+          "СССР"
+        ],
+        "all_genres": [
+          "мюзикл",
+          "фэнтези"
+        ],
+        "genres": [
+          "мюзикл",
+          "фэнтези"
+        ],
+        "kinopoisk_rating": 6,
+        "kinopoisk_votes": 160,
+        "premiere_ru": "1967-05-01",
+        "premiere_world": "1967-05-01",
+        "minimal_age": 0,
+        "actors": [
+          "Валентина Решетникова",
+          "Георгий Вицин",
+          "Алексей Смирнов",
+          "Савелий Крамаров",
+          "Владимир Шишкин",
+          "Леонид Швачкин",
+          "Александр Жеромский",
+          "Юрий Соковнин"
+        ],
+        "directors": [
+          "Михаил Григорьев"
+        ],
+        "writers": [
+          "Дмитрий Иванов",
+          "Владимир Трифонов"
+        ],
+        "composers": [
+          "Георгий Фиртич"
+        ],
+        "designers": [
+          "Леонид Перцев"
+        ],
+        "operators": [
+          "Валентин Железняков"
+        ]
+      },
+      "screenshots": [
+        "https://i.kodik.biz/screenshots/video/64445/1.jpg",
+        "https://i.kodik.biz/screenshots/video/64445/2.jpg",
+        "https://i.kodik.biz/screenshots/video/64445/3.jpg",
+        "https://i.kodik.biz/screenshots/video/64445/4.jpg",
+        "https://i.kodik.biz/screenshots/video/64445/5.jpg"
+      ]
+    },
+    {
+      "id": "movie-64446",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Бросок, или всё началось в субботу",
+      "title_orig": "Brosok, ili Vsyo nachalos v subbotu",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1976,
+      "kinopoisk_id": "466438",
+      "imdb_id": "tt5375068",
+      "quality": "TVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-15T15:19:04Z",
+      "updated_at": "2020-12-15T15:19:04Z",
+      "material_data": {
+        "title": "Бросок, или всё началось в субботу",
+        "year": 1976,
+        "description": "История о реализации человеческих способностей. Герой фильма - обыкновенный «середнячок», никогда не блиставший способностями к спорту, вдруг обретает способность с абсолютной точностью кидать предметы. Он пытается стать баскетболистом...",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/466438.jpg",
+        "duration": 63,
+        "countries": [
+          "СССР"
+        ],
+        "all_genres": [
+          "фантастика"
+        ],
+        "genres": [
+          "фантастика"
+        ],
+        "kinopoisk_rating": 5.7,
+        "kinopoisk_votes": 105,
+        "actors": [
+          "Асанали Ашимов",
+          "Лев Тёмкин",
+          "Жексен Каирлиев",
+          "Галина Шетенова",
+          "Танат Жайлибеков",
+          "К. Каримов",
+          "Есболган Жайсанбаев",
+          "Гульзия Бельбаева",
+          "Римма Кабдалиева",
+          "Виталий Гришко"
+        ],
+        "directors": [
+          "Серик Райбаев"
+        ],
+        "writers": [
+          "Феликс Французов",
+          "Александр Шлепянов",
+          "Кир Булычёв"
+        ],
+        "composers": [
+          "Александр Зацепин"
+        ],
+        "designers": [
+          "Павел Зальцман"
+        ],
+        "operators": [
+          "Михаил Аранышев"
+        ]
+      },
+      "screenshots": [
+        "https://i.kodik.biz/screenshots/video/64446/1.jpg",
+        "https://i.kodik.biz/screenshots/video/64446/2.jpg",
+        "https://i.kodik.biz/screenshots/video/64446/3.jpg",
+        "https://i.kodik.biz/screenshots/video/64446/4.jpg",
+        "https://i.kodik.biz/screenshots/video/64446/5.jpg"
+      ]
+    },
+    {
+      "id": "movie-64447",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Аэропорт со служебного входа",
+      "title_orig": "Aeroport so sluzhebnogo vkhoda",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1987,
+      "kinopoisk_id": "43419",
+      "imdb_id": "tt0090596",
+      "quality": "IPTVRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-15T15:18:23Z",
+      "updated_at": "2020-12-15T15:18:23Z",
+      "material_data": {
+        "title": "Аэропорт со служебного входа",
+        "year": 1987,
+        "description": "Аэропорт большого областного города. Одна из обычных, хотя и чрезвычайно опасных ситуаций становится серьезным испытанием для главных героев картины — начальника смены Тужина и начальника аэродромной службы Мягкова.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/43419.jpg",
+        "duration": 86,
+        "countries": [
+          "СССР"
+        ],
+        "all_genres": [
+          "драма"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 7,
+        "kinopoisk_votes": 226,
+        "imdb_rating": 7.2,
+        "imdb_votes": 8,
+        "premiere_world": "1987-02-02",
+        "minimal_age": 12,
+        "actors": [
+          "Петр Щербаков",
+          "Дальвин Щербаков",
+          "Георгий Юматов",
+          "Алена Охлупина",
+          "Сергей Чекан",
+          "Лариса Борушко",
+          "Виктор Филиппов",
+          "Анатолий Салимоненко",
+          "Юрий Беляев",
+          "Татьяна Агафонова"
+        ],
+        "directors": [
+          "Борис Яшин"
+        ],
+        "writers": [
+          "Александр Лапшин"
+        ],
+        "composers": [
+          "Владислав Казенин"
+        ],
+        "designers": [
+          "Николай Маркин"
+        ],
+        "operators": [
+          "Роман Веселер"
+        ]
+      },
+      "screenshots": [
+        "https://i.kodik.biz/screenshots/video/64447/1.jpg",
+        "https://i.kodik.biz/screenshots/video/64447/2.jpg",
+        "https://i.kodik.biz/screenshots/video/64447/3.jpg",
+        "https://i.kodik.biz/screenshots/video/64447/4.jpg",
+        "https://i.kodik.biz/screenshots/video/64447/5.jpg"
+      ]
+    },
+    {
+      "id": "movie-64448",
+      "type": "russian-movie",
+      "link": "",
+      "title": "Дело для настоящих мужчин",
+      "title_orig": "Delo dlya nastoyashchikh muzhchin",
+      "translation": {
+        "id": 703,
+        "title": "Не требуется",
+        "type": "voice"
+      },
+      "year": 1984,
+      "kinopoisk_id": "44124",
+      "imdb_id": "tt0252365",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2020-12-15T15:16:17Z",
+      "updated_at": "2020-12-15T15:16:17Z",
+      "material_data": {
+        "title": "Дело для настоящих мужчин",
+        "year": 1983,
+        "description": "В окрестностях речного порта мальчишки обнаружили склад немецких боеприпасов, сохранившийся со Второй мировой войны. Чтобы спасти город от нечаянного взрыва, к делу подключили отряд воинов-саперов.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/44124.jpg",
+        "duration": 68,
+        "countries": [
+          "СССР"
+        ],
+        "all_genres": [
+          "драма"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 6.2,
+        "kinopoisk_votes": 125,
+        "imdb_rating": 6.4,
+        "imdb_votes": 8,
+        "premiere_world": "1984-02-20",
+        "minimal_age": 0,
+        "actors": [
+          "Борислав Брондуков",
+          "Геннадий Давыдько",
+          "Владимир Носик",
+          "Василий Петренко",
+          "Любовь Виролайнен",
+          "Ольга Белявская",
+          "Татьяна Лебедева",
+          "Виталий Котовицкий",
+          "Николай Манохин",
+          "Валерий Филатов"
+        ],
+        "directors": [
+          "Валерий Пономарев"
+        ],
+        "writers": [
+          "Аркадий Пинчук"
+        ],
+        "composers": [
+          "Валерий Иванов"
+        ],
+        "designers": [
+          "Юрий Альбицкий"
+        ],
+        "operators": [
+          "Виталий Николаев"
+        ]
+      },
+      "screenshots": [
+        "https://i.kodik.biz/screenshots/video/64448/1.jpg",
+        "https://i.kodik.biz/screenshots/video/64448/2.jpg",
+        "https://i.kodik.biz/screenshots/video/64448/3.jpg",
+        "https://i.kodik.biz/screenshots/video/64448/4.jpg",
+        "https://i.kodik.biz/screenshots/video/64448/5.jpg"
+      ]
+    },
+    {
       "id": "movie-64449",
       "type": "russian-movie",
       "link": "",
@@ -1558,15 +2483,15 @@
         "imdb_rating": 8.8,
         "imdb_votes": 78284,
         "shikimori_rating": 8.56,
-        "shikimori_votes": 23919,
+        "shikimori_votes": 23937,
         "premiere_ru": "2012-04-16",
         "premiere_world": "1999-10-20",
         "aired_at": "1999-10-20",
-        "next_episode_at": "2021-06-27T00:30:00Z",
+        "next_episode_at": "2021-07-04T00:30:00Z",
         "rating_mpaa": "PG-13",
         "minimal_age": 16,
         "episodes_total": 0,
-        "episodes_aired": 979,
+        "episodes_aired": 980,
         "actors": [
           "Маюми Танака",
           "Тони Бек",
@@ -6541,7 +7466,7 @@
         "imdb_rating": 7.2,
         "imdb_votes": 64,
         "mydramalist_rating": 7,
-        "mydramalist_votes": 550,
+        "mydramalist_votes": 552,
         "premiere_world": "2004-07-19",
         "aired_at": "2004-07-19",
         "released_at": "2004-09-07",
@@ -7003,1728 +7928,6 @@
         "https://i.kodik.biz/screenshots/seria/741936/3.jpg",
         "https://i.kodik.biz/screenshots/seria/741936/4.jpg",
         "https://i.kodik.biz/screenshots/seria/741936/5.jpg"
-      ]
-    },
-    {
-      "id": "serial-30449",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Ждём тебя летом",
-      "title_orig": "Ano Natsu de Matteru",
-      "other_title": "Мы ждём тебя летом / Waiting in the Summer",
-      "translation": {
-        "id": 1060,
-        "title": "MiraiDUB",
-        "type": "voice"
-      },
-      "year": 2012,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "678681",
-      "imdb_id": "tt2187287",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1973",
-      "shikimori_id": "11433",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-12-14T15:13:33Z",
-      "updated_at": "2020-12-14T15:13:33Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Ждем тебя летом",
-        "title_en": "Ano natsu de matteru",
-        "other_titles_en": [
-          "Waiting in the Summer"
-        ],
-        "other_titles_jp": [
-          "あの夏で待ってる"
-        ],
-        "anime_kind": "tv",
-        "all_status": "released",
-        "anime_status": "released",
-        "year": 2012,
-        "description": "Японским старшеклассникам летними ночами опасно подходить к местным водоемам! А вот 16-летний Кайто Кирисима не утерпел и пошел на ночь глядя пробовать новую кинокамеру, но не успел ничего снять, как в озеро упал космический корабль! Утром Кайто списал все на дурные сны и направился в школу. Смутные сомнения зашевелились в душе, когда Кирисима увидел новую ученицу по имени Итика Такацуки. Чувствуя, что его незримо тянет к красавице с ярко-красными волосами, герой никак не мог решиться, да помог Тэцуро, лучший друг и первый парень на деревне. Он представил Кайто как кинолюбителя и в шутку предложил новенькой стать звездой нового фильма. Та с удовольствием согласилась!\n\nТак все и завертелось перед летними каникулами. Сценарий взяла на себя таинственная малышка Рэмон, на вторые роли подписались одноклассницы героя Мио и Канна (причем одну из них вторая роль совсем не устраивала!). Сам же Кайто обнаружил, что под влиянием общения с Итикой таинственным образом раскрепощается и начинает вести себя не как хлипкий очкарик, а как нормальный парень, то есть почище Тэцуро. Иначе как объяснить, что в тот же день новая знакомая поселилась у него, а старшая сестра и вездесущая Канна вечером застали беднягу в весьма двусмысленном положении? Им ведь не докажешь, что это был сеанс галактической генной терапии!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/678681.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/bde370c0bf8cf3b957615d73ea3c99c78a2e85d2.jpg",
-          "https://shikimori.one/system/screenshots/original/ff49b6646ffc74e896869b7eb64f501cc84869ab.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "all_genres": [
-          "аниме",
-          "комедия",
-          "мелодрама",
-          "мультфильм",
-          "Драма",
-          "Комедия",
-          "Повседневность",
-          "Романтика",
-          "Фантастика"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мелодрама",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Комедия",
-          "Повседневность",
-          "Романтика",
-          "Фантастика"
-        ],
-        "anime_studios": [
-          "J.C.Staff"
-        ],
-        "kinopoisk_rating": 7,
-        "kinopoisk_votes": 691,
-        "imdb_rating": 7.1,
-        "imdb_votes": 494,
-        "shikimori_rating": 7.48,
-        "shikimori_votes": 8208,
-        "premiere_world": "2012-01-09",
-        "aired_at": "2012-01-10",
-        "released_at": "2012-03-27",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Кана Асуми",
-          "Рина Хидака",
-          "Ая Хисакава",
-          "Каори Исихара",
-          "Хидэки Огихара",
-          "Симадзаки Нобунага",
-          "Юкари Тамура",
-          "Харука Томацу"
-        ],
-        "directors": [
-          "Тацуюки Нагаи",
-          "Кацуси Сакураби",
-          "Кэнтаро Судзуки",
-          "Даисукэ Такасима",
-          "Ацуси Нисигори",
-          "Тикара Сакурай",
-          "Каору Судзуки"
-        ],
-        "producers": [
-          "Рютаро Саки",
-          "Джон Лэдфорд",
-          "Юдзи Мацукура",
-          "Мицутоси Огура"
-        ],
-        "writers": [
-          "Ёсукэ Курода"
-        ],
-        "composers": [
-          "Маико Иути"
-        ],
-        "editors": [
-          "Сигэру Нисияма"
-        ],
-        "designers": [
-          "Аю Кавамото"
-        ],
-        "operators": [
-          "Ёсио Окоти"
-        ]
-      },
-      "screenshots": [
-        "https://i.kodik.biz/screenshots/seria/741924/1.jpg",
-        "https://i.kodik.biz/screenshots/seria/741924/2.jpg",
-        "https://i.kodik.biz/screenshots/seria/741924/3.jpg",
-        "https://i.kodik.biz/screenshots/seria/741924/4.jpg",
-        "https://i.kodik.biz/screenshots/seria/741924/5.jpg"
-      ]
-    },
-    {
-      "id": "serial-30448",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Защитница Химари",
-      "title_orig": "Omamori Himari",
-      "other_title": "Моя хранительница Химари",
-      "translation": {
-        "id": 1060,
-        "title": "MiraiDUB",
-        "type": "voice"
-      },
-      "year": 2010,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "kinopoisk_id": "780911",
-      "imdb_id": "tt3029762",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7497",
-      "shikimori_id": "6324",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-12-14T15:12:38Z",
-      "updated_at": "2020-12-14T15:12:38Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Моя хранительница Химари",
-        "title_en": "Omamori Himari",
-        "other_titles": [
-          "Protective Charm Himari",
-          "OmaHima"
-        ],
-        "other_titles_en": [
-          "Omamori Himari"
-        ],
-        "other_titles_jp": [
-          "おまもりひまり"
-        ],
-        "anime_kind": "tv",
-        "all_status": "released",
-        "anime_status": "released",
-        "year": 2010,
-        "description": "Юто Амакава происходит из клана борцов с демонами, которые, как известно, существуют и делают все, чтобы извести немногих людей, способных причинить им вред. Родители мальчика погибли и успели лишь оставить маленькому сыну талисман, призванный хранить его от потусторонних сил – но только до 16 лет. Так Юто и дожил до совершеннолетия под присмотром подруги детства Ринко Кудзаки, не ведая о своей судьбе и боясь только кошек, на которых у него аллергия. Но не успели злые силы обрадоваться, как на смену одному амулету пришел другой, живой – дух кошки-оборотня по имени Химари, с которой дед главного героя когда-то взял клятву защищать последнего потомка клана.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/780911.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/9ed163876cce3858da937769a0f86018ce67e57c.jpg",
-          "https://shikimori.one/system/screenshots/original/c76c4ea169033022a6c252a3aa0bb7f52eb404b0.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "all_genres": [
-          "аниме",
-          "комедия",
-          "мультфильм",
-          "фэнтези",
-          "Гарем",
-          "Демоны",
-          "Комедия",
-          "Романтика",
-          "Сверхъестественное",
-          "Фэнтези",
-          "Экшен",
-          "Этти"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Демоны",
-          "Комедия",
-          "Романтика",
-          "Сверхъестественное",
-          "Фэнтези",
-          "Экшен",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Zexcs"
-        ],
-        "kinopoisk_rating": 6.4,
-        "kinopoisk_votes": 660,
-        "imdb_rating": 6.5,
-        "imdb_votes": 197,
-        "shikimori_rating": 6.92,
-        "shikimori_votes": 6688,
-        "premiere_world": "2010-01-06",
-        "aired_at": "2010-01-07",
-        "released_at": "2010-03-25",
-        "rating_mpaa": "R+",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Даисукэ Хиракава",
-          "Ами Косимидзу",
-          "Юки Мацуока",
-          "Иори Номидзу",
-          "Кэи Синдо",
-          "Огамэ Асука",
-          "Асука Огамэ"
-        ],
-        "directors": [
-          "Синдзи Усиро"
-        ],
-        "writers": [
-          "Милан Матра"
-        ]
-      },
-      "screenshots": [
-        "https://i.kodik.biz/screenshots/seria/741912/1.jpg",
-        "https://i.kodik.biz/screenshots/seria/741912/2.jpg",
-        "https://i.kodik.biz/screenshots/seria/741912/3.jpg",
-        "https://i.kodik.biz/screenshots/seria/741912/4.jpg",
-        "https://i.kodik.biz/screenshots/seria/741912/5.jpg"
-      ]
-    },
-    {
-      "id": "serial-24909",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Френдзона",
-      "title_orig": "Friend Zone",
-      "other_title": "Френдзона: Желать, отдавать, получать",
-      "translation": {
-        "id": 871,
-        "title": "Asian Miracle Group",
-        "type": "voice"
-      },
-      "year": 2018,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 12,
-      "mdl_id": "27352-friend-zone",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-04-18T18:42:42Z",
-      "updated_at": "2020-12-14T13:46:29Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title_en": "Friend Zone",
-        "other_titles": [
-          "Friend Zone: The Series"
-        ],
-        "all_status": "released",
-        "drama_status": "released",
-        "poster_url": "https://i.mydramalist.com/QKnmWf.jpg",
-        "duration": 48,
-        "countries": [
-          "Таиланд"
-        ],
-        "all_genres": [
-          "дружба",
-          "романтика",
-          "драма",
-          "взрослая жизнь"
-        ],
-        "drama_genres": [
-          "дружба",
-          "романтика",
-          "драма",
-          "взрослая жизнь"
-        ],
-        "mydramalist_rating": 7.3,
-        "mydramalist_votes": 2851,
-        "aired_at": "2018-11-11",
-        "released_at": "2019-02-03",
-        "minimal_age": 18,
-        "episodes_total": 12,
-        "actors": [
-          "Lee Thanat Lowkhunsombat",
-          "Good",
-          "Pearwah Nichaphat Chatchaipholrat",
-          "Boyo",
-          "Singto Prachaya Ruangroj",
-          "Plustor Pronpiphat Pattanasettanon",
-          "Stud",
-          "Nat Sakdatorn",
-          "Dr. Sam",
-          "Namtan Tipnaree Weerawatnodom"
-        ],
-        "directors": [
-          "Jojo Tichakorn Phukhaotong",
-          "Chakorn Chaiprecha"
-        ],
-        "writers": [
-          "Jojo Tichakorn Phukhaotong",
-          "Chakorn Chaiprecha"
-        ]
-      },
-      "screenshots": [
-        "https://i.kodik.biz/screenshots/seria/632147/1.jpg",
-        "https://i.kodik.biz/screenshots/seria/632147/2.jpg",
-        "https://i.kodik.biz/screenshots/seria/632147/3.jpg",
-        "https://i.kodik.biz/screenshots/seria/632147/4.jpg",
-        "https://i.kodik.biz/screenshots/seria/632147/5.jpg"
-      ]
-    },
-    {
-      "id": "serial-29276",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Мы все одиноки",
-      "title_orig": "Guai ni guo fen mei li",
-      "other_title": "We Are All Alone (2020)",
-      "translation": {
-        "id": 1349,
-        "title": "Luna Studio",
-        "type": "voice"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 5,
-      "episodes_count": 5,
-      "kinopoisk_id": "1382090",
-      "imdb_id": "tt12357952",
-      "mdl_id": "35251-we-are-all-alone",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-09-14T18:37:35Z",
-      "updated_at": "2020-12-14T13:46:18Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Guai ni guo fen mei li",
-        "title_en": "We Are All Alone",
-        "other_titles": [
-          "Guai Ni Guo Fen Mei Li",
-          "Blame You Too Beautiful"
-        ],
-        "all_status": "released",
-        "drama_status": "released",
-        "year": 2020,
-        "poster_url": "https://i.mydramalist.com/xYVKXf.jpg",
-        "duration": 45,
-        "countries": [
-          "Китай"
-        ],
-        "all_genres": [
-          "драма",
-          "мелодрама",
-          "романтика",
-          "повседневность"
-        ],
-        "genres": [
-          "драма",
-          "мелодрама"
-        ],
-        "drama_genres": [
-          "романтика",
-          "повседневность",
-          "драма"
-        ],
-        "imdb_rating": 7.9,
-        "imdb_votes": 15,
-        "mydramalist_rating": 8,
-        "mydramalist_votes": 159,
-        "premiere_world": "2020-06-08",
-        "aired_at": "2020-06-08",
-        "released_at": "2020-07-01",
-        "episodes_total": 36,
-        "actors": [
-          "Цинь Лань",
-          "Boogie Wang",
-          "Дэвид Ван",
-          "Го Сяотин",
-          "Сяньцзы",
-          "Бо Пенг",
-          "Qian Li",
-          "Ziteng Wang",
-          "Tan Zhang",
-          "Heng Yi"
-        ],
-        "directors": [
-          "Ван Чжи"
-        ],
-        "producers": [
-          "Dai Ying",
-          "Лян Чжэньхуа",
-          "Jingjing Shen",
-          "Ван Исюй",
-          "Mi Xu",
-          "Wei Zai",
-          "Kehui Zhou"
-        ],
-        "writers": [
-          "Peng Su",
-          "Zai Wei"
-        ]
-      },
-      "screenshots": [
-        "https://i.kodik.biz/screenshots/seria/719268/1.jpg",
-        "https://i.kodik.biz/screenshots/seria/719268/2.jpg",
-        "https://i.kodik.biz/screenshots/seria/719268/3.jpg",
-        "https://i.kodik.biz/screenshots/seria/719268/4.jpg",
-        "https://i.kodik.biz/screenshots/seria/719268/5.jpg"
-      ]
-    },
-    {
-      "id": "serial-30268",
-      "type": "foreign-serial",
-      "link": "",
-      "title": "Обращение к ангелу",
-      "title_orig": "Request to the Angel: The Last Wish of My Life",
-      "other_title": "Tenshi ni Request wo: Jinsei Saigo no Negai",
-      "translation": {
-        "id": 1581,
-        "title": "FSG Black Pearl.Subtitles",
-        "type": "subtitles"
-      },
-      "year": 2020,
-      "last_season": 1,
-      "last_episode": 5,
-      "episodes_count": 5,
-      "mdl_id": "58817-tenshi-ni-rikuesuto-o-jinsei-saigo-no-negai",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-12-01T17:43:32Z",
-      "updated_at": "2020-12-14T13:34:18Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": ""
-          }
-        }
-      },
-      "material_data": {
-        "title_en": "Tenshi ni Request wo",
-        "other_titles": [
-          "Request to the Angel",
-          "Request to an Angel - The Last Wish of my Life",
-          "天使にリクエストを～人生最後の願い～"
-        ],
-        "all_status": "released",
-        "drama_status": "released",
-        "poster_url": "https://i.mydramalist.com/ZWOmJ_4f.jpg",
-        "duration": 49,
-        "countries": [
-          "Япония"
-        ],
-        "all_genres": [
-          "повседневность",
-          "драма"
-        ],
-        "drama_genres": [
-          "повседневность",
-          "драма"
-        ],
-        "mydramalist_rating": 8.2,
-        "mydramalist_votes": 43,
-        "aired_at": "2020-09-19",
-        "released_at": "2020-10-17",
-        "minimal_age": 15,
-        "episodes_total": 5,
-        "actors": [
-          "Eguchi Yosuke",
-          "Kamishiraishi Moka",
-          "Shison Jun",
-          "Baisho  Mitsuko"
-        ],
-        "directors": [
-          "Keiji Kataoka"
-        ],
-        "writers": [
-          "Omori Sumio"
-        ]
-      },
-      "screenshots": [
-        "https://i.kodik.biz/screenshots/seria/737965/1.jpg",
-        "https://i.kodik.biz/screenshots/seria/737965/2.jpg",
-        "https://i.kodik.biz/screenshots/seria/737965/3.jpg",
-        "https://i.kodik.biz/screenshots/seria/737965/4.jpg",
-        "https://i.kodik.biz/screenshots/seria/737965/5.jpg"
-      ]
-    },
-    {
-      "id": "serial-30447",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Код Гиас: Восставший Лелуш (второй сезон)",
-      "title_orig": "Code Geass Hangyaku no Lelouch R2",
-      "other_title": "Код Гиас: Восстание Лелуша ТВ-2 / Код Гиас: Восставший Лелуш R2 / Код Гиас: Восставший Лелуш 2",
-      "translation": {
-        "id": 1060,
-        "title": "MiraiDUB",
-        "type": "voice"
-      },
-      "year": 2008,
-      "last_season": 2,
-      "last_episode": 25,
-      "episodes_count": 25,
-      "kinopoisk_id": "408674",
-      "imdb_id": "tt0994314",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=6804",
-      "shikimori_id": "2904",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-12-14T13:34:02Z",
-      "updated_at": "2020-12-14T13:34:02Z",
-      "seasons": {
-        "2": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Код Гиас: Восставший Лелуш",
-        "title_en": "Kôdo giasu - Hangyaku no rurûshu: Code Geass - Lelouch of the Rebellion",
-        "other_titles": [
-          "Code Geass: Hangyaku no Lelouch 2nd Season",
-          "Code Geass: Hangyaku no Lelouch Second Season"
-        ],
-        "other_titles_en": [
-          "Code Geass: Lelouch of the Rebellion R2"
-        ],
-        "other_titles_jp": [
-          "コードギアス 反逆のルルーシュ 続編"
-        ],
-        "anime_kind": "tv",
-        "all_status": "released",
-        "anime_status": "released",
-        "year": 2006,
-        "tagline": "Once friends, now enemies.",
-        "description": "Альтернативная реальность: Британская империя захватила треть мира, обрушивая на непокорных мощь своей военной машины.\n\nВ Японии, захваченной и переименованной в Зону 11, вместе с младшей сестрой живёт старшеклассник Лелуш – изгнанный сын Императора, потерявший мать и право на престол. Юноша отличается от сверстников не только происхождением – он весьма одарённая личность, только где применить эти способности? Неожиданно Лелуш оказывается вовлечён в столкновение между японскими террористами и британскими солдатами. Так он знакомится с загадочной девушкой C.C. Она дарует ему сверхъестественную способность Гиас, позволяющую подчинять себе волю других людей.\n\nСкрывая лицо под маской и под именем Зеро, Лелуш присоединяется к подпольному движению, горя желанием отомстить Британии и отцу. Будучи студентом Академии Ашфорд, юноша вынужден вести двойную жизнь.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/408674.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/2af02e8e168702b2a8b03c6aef19a3bf60d96244.jpg",
-          "https://shikimori.one/system/screenshots/original/426594265ff730e90166925db55fc9ebb94d9355.jpg"
-        ],
-        "duration": 22,
-        "countries": [
-          "Япония"
-        ],
-        "all_genres": [
-          "аниме",
-          "драма",
-          "мультфильм",
-          "приключения",
-          "триллер",
-          "фантастика",
-          "Военное",
-          "Драма",
-          "Меха",
-          "Супер сила",
-          "Фантастика",
-          "Экшен"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм",
-          "приключения",
-          "триллер",
-          "фантастика"
-        ],
-        "anime_genres": [
-          "Военное",
-          "Драма",
-          "Меха",
-          "Супер сила",
-          "Фантастика",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Sunrise"
-        ],
-        "kinopoisk_rating": 8.5,
-        "kinopoisk_votes": 28956,
-        "imdb_rating": 8.7,
-        "imdb_votes": 54316,
-        "shikimori_rating": 8.91,
-        "shikimori_votes": 49740,
-        "premiere_world": "2006-10-05",
-        "aired_at": "2008-04-06",
-        "released_at": "2008-09-28",
-        "rating_mpaa": "R",
-        "episodes_total": 25,
-        "episodes_aired": 0,
-        "actors": [
-          "Дзюн Фукуяма",
-          "Такахиро Сакурай",
-          "Юкана Ногами",
-          "Ами Косимидзу",
-          "Кикуко Иноуэ",
-          "Тэцу Сиратори",
-          "Мицуаки Мадоно",
-          "Фумико Орикаса",
-          "Нориаки Сугияма",
-          "Саяка Охара"
-        ],
-        "directors": [
-          "Горо Танигути",
-          "Нориаки Акитая",
-          "Кацуо Миякэ",
-          "Масато Миёси",
-          "Кадзуя Мурата",
-          "Макото Баба"
-        ],
-        "producers": [
-          "Ёситака Кавагути",
-          "Такуо Минэгиси",
-          "Хироси Моротоми",
-          "Ацуси Юкава",
-          "Осаму Хосокава",
-          "Хирофуми Инагаки",
-          "Кэндзиро Исида",
-          "Кэн Иядоми",
-          "Харуё Канэсаку",
-          "Ютака Масэба"
-        ],
-        "writers": [
-          "Макото Баба",
-          "Кламп",
-          "Юити Номура",
-          "Горо Танигути",
-          "Хироюки Ёсино",
-          "Итиро Окоти"
-        ],
-        "composers": [
-          "Котаро Накагава",
-          "Хитоми Куроиси"
-        ],
-        "editors": [
-          "Сэидзи Морита",
-          "Юри Тамура"
-        ],
-        "designers": [
-          "Ёсинори Хисинума"
-        ],
-        "operators": [
-          "Сота Оя"
-        ]
-      },
-      "screenshots": [
-        "https://i.kodik.biz/screenshots/seria/741866/1.jpg",
-        "https://i.kodik.biz/screenshots/seria/741866/2.jpg",
-        "https://i.kodik.biz/screenshots/seria/741866/3.jpg",
-        "https://i.kodik.biz/screenshots/seria/741866/4.jpg",
-        "https://i.kodik.biz/screenshots/seria/741866/5.jpg"
-      ]
-    },
-    {
-      "id": "serial-30446",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Код Гиас: Восставший Лелуш (первый сезон)",
-      "title_orig": "Code Geass Hangyaku no Lelouch",
-      "other_title": "Code Geass: Lelouch of the Rebellion",
-      "translation": {
-        "id": 1060,
-        "title": "MiraiDUB",
-        "type": "voice"
-      },
-      "year": 2006,
-      "last_season": 1,
-      "last_episode": 25,
-      "episodes_count": 25,
-      "kinopoisk_id": "408674",
-      "imdb_id": "tt0994314",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=5921",
-      "shikimori_id": "1575",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-12-14T12:59:00Z",
-      "updated_at": "2020-12-14T13:17:36Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Код Гиас: Восставший Лелуш",
-        "title_en": "Kôdo giasu - Hangyaku no rurûshu: Code Geass - Lelouch of the Rebellion",
-        "other_titles": [
-          "Code Geass"
-        ],
-        "other_titles_en": [
-          "Code Geass: Lelouch of the Rebellion"
-        ],
-        "other_titles_jp": [
-          "コードギアス 反逆のルルーシュ"
-        ],
-        "anime_kind": "tv",
-        "all_status": "released",
-        "anime_status": "released",
-        "year": 2006,
-        "tagline": "Once friends, now enemies.",
-        "description": "Альтернативная реальность: Британская империя захватила треть мира, обрушивая на непокорных мощь своей военной машины.\n\nВ Японии, захваченной и переименованной в Зону 11, вместе с младшей сестрой живёт старшеклассник Лелуш – изгнанный сын Императора, потерявший мать и право на престол. Юноша отличается от сверстников не только происхождением – он весьма одарённая личность, только где применить эти способности? Неожиданно Лелуш оказывается вовлечён в столкновение между японскими террористами и британскими солдатами. Так он знакомится с загадочной девушкой C.C. Она дарует ему сверхъестественную способность Гиас, позволяющую подчинять себе волю других людей.\n\nСкрывая лицо под маской и под именем Зеро, Лелуш присоединяется к подпольному движению, горя желанием отомстить Британии и отцу. Будучи студентом Академии Ашфорд, юноша вынужден вести двойную жизнь.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/408674.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/7e42b705c7fbe95cb1d174ba46aec9d300a69562.jpg",
-          "https://shikimori.one/system/screenshots/original/7f9f57bc80d0be97710667685ce713a29f795492.jpg"
-        ],
-        "duration": 22,
-        "countries": [
-          "Япония"
-        ],
-        "all_genres": [
-          "аниме",
-          "драма",
-          "мультфильм",
-          "приключения",
-          "триллер",
-          "фантастика",
-          "Военное",
-          "Драма",
-          "Меха",
-          "Супер сила",
-          "Фантастика",
-          "Школа",
-          "Экшен"
-        ],
-        "genres": [
-          "аниме",
-          "драма",
-          "мультфильм",
-          "приключения",
-          "триллер",
-          "фантастика"
-        ],
-        "anime_genres": [
-          "Военное",
-          "Драма",
-          "Меха",
-          "Супер сила",
-          "Фантастика",
-          "Школа",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Sunrise"
-        ],
-        "kinopoisk_rating": 8.5,
-        "kinopoisk_votes": 28956,
-        "imdb_rating": 8.7,
-        "imdb_votes": 54316,
-        "shikimori_rating": 8.71,
-        "shikimori_votes": 57328,
-        "premiere_world": "2006-10-05",
-        "aired_at": "2006-10-06",
-        "released_at": "2007-07-29",
-        "rating_mpaa": "R",
-        "episodes_total": 25,
-        "episodes_aired": 0,
-        "actors": [
-          "Дзюн Фукуяма",
-          "Такахиро Сакурай",
-          "Юкана Ногами",
-          "Ами Косимидзу",
-          "Кикуко Иноуэ",
-          "Тэцу Сиратори",
-          "Мицуаки Мадоно",
-          "Фумико Орикаса",
-          "Нориаки Сугияма",
-          "Саяка Охара"
-        ],
-        "directors": [
-          "Горо Танигути",
-          "Нориаки Акитая",
-          "Кацуо Миякэ",
-          "Масато Миёси",
-          "Кадзуя Мурата",
-          "Макото Баба"
-        ],
-        "producers": [
-          "Ёситака Кавагути",
-          "Такуо Минэгиси",
-          "Хироси Моротоми",
-          "Ацуси Юкава",
-          "Осаму Хосокава",
-          "Хирофуми Инагаки",
-          "Кэндзиро Исида",
-          "Кэн Иядоми",
-          "Харуё Канэсаку",
-          "Ютака Масэба"
-        ],
-        "writers": [
-          "Макото Баба",
-          "Кламп",
-          "Юити Номура",
-          "Горо Танигути",
-          "Хироюки Ёсино",
-          "Итиро Окоти"
-        ],
-        "composers": [
-          "Котаро Накагава",
-          "Хитоми Куроиси"
-        ],
-        "editors": [
-          "Сэидзи Морита",
-          "Юри Тамура"
-        ],
-        "designers": [
-          "Ёсинори Хисинума"
-        ],
-        "operators": [
-          "Сота Оя"
-        ]
-      },
-      "screenshots": [
-        "https://i.kodik.biz/screenshots/seria/741827/1.jpg",
-        "https://i.kodik.biz/screenshots/seria/741827/2.jpg",
-        "https://i.kodik.biz/screenshots/seria/741827/3.jpg",
-        "https://i.kodik.biz/screenshots/seria/741827/4.jpg",
-        "https://i.kodik.biz/screenshots/seria/741827/5.jpg"
-      ]
-    },
-    {
-      "id": "serial-30445",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Городской охотник 3",
-      "title_orig": "City Hunter 3",
-      "other_title": "シティーハンター3",
-      "translation": {
-        "id": 869,
-        "title": "Субтитры",
-        "type": "subtitles"
-      },
-      "year": 1989,
-      "last_season": 3,
-      "last_episode": 13,
-      "episodes_count": 13,
-      "kinopoisk_id": "229701",
-      "imdb_id": "tt0159208",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=746",
-      "shikimori_id": "1472",
-      "quality": "DVDRip",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-12-14T12:56:37Z",
-      "updated_at": "2020-12-14T13:10:56Z",
-      "seasons": {
-        "3": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Городской охотник",
-        "title_en": "City Hunter",
-        "other_titles_jp": [
-          "シティーハンター3"
-        ],
-        "anime_kind": "tv",
-        "all_status": "released",
-        "anime_status": "released",
-        "year": 1987,
-        "description": "Главный герой произведения, Рё Саэба, — своеобразный «чистильщик», который стремится очистить Токио от преступности.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/229701.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/5cd44d59684881454d4a426db55c2a2fce45ea34.jpg",
-          "https://shikimori.one/system/screenshots/original/401bdc3fa4414d834114584fec55aa59b2a9e22e.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "all_genres": [
-          "аниме",
-          "комедия",
-          "мультфильм",
-          "приключения",
-          "Детектив",
-          "Комедия",
-          "Сёнен",
-          "Экшен"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм",
-          "приключения"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Комедия",
-          "Сёнен",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Sunrise"
-        ],
-        "kinopoisk_rating": 7,
-        "kinopoisk_votes": 212,
-        "imdb_rating": 7.8,
-        "imdb_votes": 1218,
-        "shikimori_rating": 7.82,
-        "shikimori_votes": 210,
-        "premiere_world": "1987-04-06",
-        "aired_at": "1989-10-15",
-        "released_at": "1990-01-21",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 13,
-        "episodes_aired": 0,
-        "actors": [
-          "Акира Камия",
-          "Кадзуэ Икура",
-          "Ёко Асагами",
-          "Тэссё Гэнда",
-          "Хидэюки Танака",
-          "Мами Кояма",
-          "Макото Косака",
-          "Эрико Хара",
-          "Yuri Kobayashi",
-          "Ёко Мацуока"
-        ],
-        "directors": [
-          "Кэндзи Кодама",
-          "Киёси Эгами",
-          "Такаси Иманиси",
-          "Мицуко Касэ",
-          "Ёсихиро Ямагути",
-          "Ёситака Фудзимото",
-          "Юдзи Муто",
-          "Тэцуро Амино",
-          "Юзо Аоки",
-          "Кадзунори Танабаси"
-        ],
-        "producers": [
-          "Митихико Сува",
-          "Масуо Уэда"
-        ],
-        "writers": [
-          "Цукаса Ходзё",
-          "Акинори Эндо",
-          "Хироюки Хосияма",
-          "Дзюнки Такэгами",
-          "Тосики Иноэ",
-          "Сёдзи Тонойкэ",
-          "Ясуси Хирано",
-          "Содзи Ёсикава",
-          "Yûichi Higurashi",
-          "Кэндзи Кодама"
-        ],
-        "composers": [
-          "Тэцуя Комуро",
-          "Ryouichi Kuniyoshi",
-          "Ко Отани",
-          "Тацуми Яно",
-          "Масатоси Нисимура"
-        ],
-        "designers": [
-          "Дзюнъити Хигаси",
-          "Мицухару Миямаэ"
-        ],
-        "operators": [
-          "Итта Кобаяси"
-        ]
-      },
-      "screenshots": [
-        "https://i.kodik.biz/screenshots/seria/741825/1.jpg",
-        "https://i.kodik.biz/screenshots/seria/741825/2.jpg",
-        "https://i.kodik.biz/screenshots/seria/741825/3.jpg",
-        "https://i.kodik.biz/screenshots/seria/741825/4.jpg",
-        "https://i.kodik.biz/screenshots/seria/741825/5.jpg"
-      ]
-    },
-    {
-      "id": "serial-30444",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Истории подделок",
-      "title_orig": "Nisemonogatari",
-      "other_title": "偽物語",
-      "translation": {
-        "id": 1060,
-        "title": "MiraiDUB",
-        "type": "voice"
-      },
-      "year": 2012,
-      "last_season": 1,
-      "last_episode": 11,
-      "episodes_count": 11,
-      "kinopoisk_id": "660976",
-      "imdb_id": "tt2178501",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=300",
-      "shikimori_id": "11597",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-12-14T12:53:38Z",
-      "updated_at": "2020-12-14T12:53:38Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Истории подделок",
-        "title_en": "Nisemonogatari",
-        "other_titles": [
-          "Impostory"
-        ],
-        "other_titles_en": [
-          "Nisemonogatari"
-        ],
-        "other_titles_jp": [
-          "偽物語"
-        ],
-        "anime_kind": "tv",
-        "all_status": "released",
-        "anime_status": "released",
-        "year": 2012,
-        "description": "Жил-был старшеклассник Коёми Арараги, нормальный такой парень, бывший вампир. Пережить ему пришлось столько, что друзей-ровесников у Коёми не было, зато было много подруг. Правда, как на грех, все подруги оказалось прокляты богами или демонами, но с кем не бывает! Пользуясь новыми силами и связями в оккультном мире, Арараги сумел помочь своим девушкам, а с любимой по имени Хитаги Сэндзёгахара проклятие, кажется, удалось снять полностью (хотя в минуты слабости герой в этом очень сомневается!). И вроде бы все стало хорошо, живи себе, поживай, к экзаменам готовься...\n\rУвы, в жизни так не бывает. Сначала пропал Мэмэ Осино, старый хиппи, он же гуру и духовный учитель. Потом до Коёми стали доходить слухи, что его младшие сестры Карэн и Цукихи, под влиянием братика объявившие себя «рыцарями правосудия» и даже заработавшие кличку «огненные сестры школы Цуга», слегка заигрались. Увы, по сравнению с такими фигурами, как Осино, да и сам Арараги, «огненные сестренки» – лишь подделки, пародия на серьезных специалистов. Имитируя бурную деятельность, Карэн и Цукихи среди фальшивок и иллюзий наткнулись на нечто серьезное и не очень дружелюбное. В итоге свои неприятности они получили, а брату опять расхлебывать!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/660976.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/22180cd7cb3b1dd6230986d300856d7a21d1d196.jpg",
-          "https://shikimori.one/system/screenshots/original/e52d43bdbb853ff8bd00b8cee3ebcee192f96e5c.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "all_genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези",
-          "Детектив",
-          "Комедия",
-          "Сверхъестественное",
-          "Этти"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Детектив",
-          "Комедия",
-          "Сверхъестественное",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Shaft"
-        ],
-        "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 1830,
-        "imdb_rating": 7.7,
-        "imdb_votes": 2182,
-        "shikimori_rating": 8.18,
-        "shikimori_votes": 23108,
-        "premiere_world": "2012-01-07",
-        "aired_at": "2012-01-08",
-        "released_at": "2012-03-18",
-        "rating_mpaa": "R",
-        "episodes_total": 11,
-        "episodes_aired": 11,
-        "actors": [
-          "Хироси Камия",
-          "Юка Игути",
-          "Эри Китамура",
-          "Маая Сакамото",
-          "Саито Тива",
-          "Юи Хориэ",
-          "Синъитиро Мики",
-          "Эмири Като",
-          "Миюки Савасиро",
-          "Рёко Сираиси"
-        ],
-        "directors": [
-          "Итамура Томоюки",
-          "Акиюки Синбо",
-          "Юки Ясэ",
-          "Сюнсукэ Исикава",
-          "Такаси Кавабата",
-          "Юкихиро Миямото",
-          "Yoshito Mikan",
-          "Тацува Наоюки"
-        ],
-        "producers": [
-          "Атасухиро Иваками",
-          "Кодзуэ Канэнива",
-          "Синъитиро Касивада",
-          "Мицутоси Кубота",
-          "Такуя Мацусита",
-          "Акико Ёдо",
-          "Мику Осима"
-        ],
-        "writers": [
-          "Юкито Кидзава",
-          "Мунэо Накамото",
-          "Акиюки Синбо",
-          "Фуяси То"
-        ],
-        "composers": [
-          "Сатору Косаки"
-        ],
-        "editors": [
-          "Риэ Мацухара",
-          "Henshuushitsu Seyama"
-        ],
-        "designers": [
-          "Нобуюки Такэути"
-        ],
-        "operators": [
-          "Такаюки Аидзу"
-        ]
-      },
-      "screenshots": [
-        "https://i.kodik.biz/screenshots/seria/741814/1.jpg",
-        "https://i.kodik.biz/screenshots/seria/741814/2.jpg",
-        "https://i.kodik.biz/screenshots/seria/741814/3.jpg",
-        "https://i.kodik.biz/screenshots/seria/741814/4.jpg",
-        "https://i.kodik.biz/screenshots/seria/741814/5.jpg"
-      ]
-    },
-    {
-      "id": "movie-64364",
-      "type": "anime",
-      "link": "",
-      "title": "Белая коробка. Фильм",
-      "title_orig": "Gekijôban Shirobako",
-      "other_title": "Белая коробка (фильм)",
-      "translation": {
-        "id": 910,
-        "title": "AniStar",
-        "type": "voice"
-      },
-      "year": 2020,
-      "kinopoisk_id": "1281923",
-      "imdb_id": "tt8346438",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=9679",
-      "shikimori_id": "37804",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "created_at": "2020-12-14T12:52:36Z",
-      "updated_at": "2020-12-14T12:52:36Z",
-      "material_data": {
-        "title": "Белая коробка. Фильм",
-        "title_en": "Gekijôban Shirobako",
-        "other_titles": [
-          "White Box Movie"
-        ],
-        "other_titles_jp": [
-          "劇場版 SHIROBAKO"
-        ],
-        "anime_kind": "movie",
-        "all_status": "released",
-        "anime_status": "released",
-        "year": 2020,
-        "poster_url": "https://st.kp.yandex.net/images/film_big/1281923.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/3afde34ed5089528197bf11c2d5eebf0838c4669.jpg",
-          "https://shikimori.one/system/screenshots/original/e4dd8866a195ee17e4f4d16a0fb379b057489c2d.jpg"
-        ],
-        "duration": 119,
-        "countries": [
-          "Япония"
-        ],
-        "all_genres": [
-          "аниме",
-          "комедия",
-          "мультфильм",
-          "Драма",
-          "Комедия"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Драма",
-          "Комедия"
-        ],
-        "anime_studios": [
-          "P.A. Works"
-        ],
-        "imdb_rating": 7.2,
-        "imdb_votes": 75,
-        "shikimori_rating": 7.78,
-        "shikimori_votes": 173,
-        "premiere_world": "2020-02-29",
-        "aired_at": "2020-02-29",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 1,
-        "episodes_aired": 0,
-        "actors": [
-          "Ёсицугу Мацуока",
-          "Аянэ Сакура",
-          "Аи Каяно",
-          "Юсукэ Кобаяси",
-          "Масая Мацукадзэ",
-          "Маи Накахара",
-          "Харука Тисуга",
-          "Дзюри Кимура",
-          "Ацуси Тамару",
-          "Харука Ёсимура"
-        ],
-        "directors": [
-          "Цутому Мидзусима"
-        ],
-        "writers": [
-          "Митико Ёкотэ"
-        ],
-        "composers": [
-          "Сиро Хамагути"
-        ],
-        "editors": [
-          "Аюму Такахаси"
-        ],
-        "designers": [
-          "Цукаса Какидзаки",
-          "Юсукэ Такэда"
-        ],
-        "operators": [
-          "Юкиё Кадзивара"
-        ]
-      },
-      "screenshots": [
-        "https://i.kodik.biz/screenshots/video/64364/1.jpg",
-        "https://i.kodik.biz/screenshots/video/64364/2.jpg",
-        "https://i.kodik.biz/screenshots/video/64364/3.jpg",
-        "https://i.kodik.biz/screenshots/video/64364/4.jpg",
-        "https://i.kodik.biz/screenshots/video/64364/5.jpg"
-      ]
-    },
-    {
-      "id": "serial-30442",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Князь тьмы с задней парты",
-      "title_orig": "Ichiban Ushiro no Daimaou",
-      "other_title": "Demon King Daimao",
-      "translation": {
-        "id": 1060,
-        "title": "MiraiDUB",
-        "type": "voice"
-      },
-      "year": 2010,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 13,
-      "kinopoisk_id": "511942",
-      "imdb_id": "tt1636694",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=7716",
-      "shikimori_id": "7088",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-12-14T12:42:46Z",
-      "updated_at": "2020-12-14T12:42:46Z",
-      "seasons": {
-        "0": {
-          "title": "Спешл",
-          "link": "",
-          "episodes": {
-            "1": ""
-          }
-        },
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Князь тьмы с задней парты",
-        "title_en": "Ichiban ushiro no daimaou",
-        "other_titles": [
-          "Ichiban Ushiro no Dai Mao"
-        ],
-        "other_titles_en": [
-          "Demon King Daimao"
-        ],
-        "other_titles_jp": [
-          "いちばんうしろの大魔王"
-        ],
-        "anime_kind": "tv",
-        "all_status": "released",
-        "anime_status": "released",
-        "year": 2010,
-        "description": "История «любви, магии и схватках» повествует про парня Акуто Саи, стремящегося стать частью высшего ордена магов своей страны и принести пользу обществу в качестве духовенства. В тот день, когда он поступает в магическую академию Constan, его тест способностей предсказал следующее: «Будущая деятельность... Король демонов». С этого началась его сложная школьная жизнь, в которой он отвержен девушкой - главой своего класса, желаем девочкой с таинственными силами и защищен прекрасной женщиной-андроидом.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/511942.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/a58d9330b8ee14f6ee9cec94678bee982d5029a2.jpg",
-          "https://shikimori.one/system/screenshots/original/6f64e11f14cc0d519d5f0ec1c60ffb86460bcca1.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "all_genres": [
-          "аниме",
-          "комедия",
-          "мультфильм",
-          "приключения",
-          "фэнтези",
-          "Гарем",
-          "Комедия",
-          "Магия",
-          "Фэнтези",
-          "Школа",
-          "Экшен",
-          "Этти"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм",
-          "приключения",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Комедия",
-          "Магия",
-          "Фэнтези",
-          "Школа",
-          "Экшен",
-          "Этти"
-        ],
-        "anime_studios": [
-          "Artland"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 3530,
-        "imdb_rating": 6.8,
-        "imdb_votes": 1927,
-        "shikimori_rating": 6.87,
-        "shikimori_votes": 23629,
-        "premiere_world": "2010-04-03",
-        "aired_at": "2010-04-03",
-        "released_at": "2010-06-19",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Такаси Кондо",
-          "Ёко Хикаса",
-          "Цубаса Ёнага",
-          "Аои Юки",
-          "Аки Тоёсаки",
-          "Сидзука Ито",
-          "Рё Хирохаси",
-          "Тарусукэ Сингаки",
-          "Харука Томацу",
-          "Аяна Такэтацу"
-        ],
-        "directors": [
-          "Такаси Ватанабэ",
-          "Масато Дзимбо",
-          "Даисукэ Такасима"
-        ],
-        "producers": [
-          "Джон Лэдфорд",
-          "Мунэюки Канбэ",
-          "Хадзимэ Маруяма",
-          "Юка Сакураи",
-          "Масааки Ёкота",
-          "Shinobu Yoshimura"
-        ],
-        "writers": [
-          "Такао Ёсиока"
-        ],
-        "composers": [
-          "Тацуя Като"
-        ],
-        "editors": [
-          "Хидэаки Мурай",
-          "Юмико Накаба"
-        ],
-        "designers": [
-          "Синдзи Каваи"
-        ]
-      },
-      "screenshots": [
-        "https://i.kodik.biz/screenshots/seria/741783/1.jpg",
-        "https://i.kodik.biz/screenshots/seria/741783/2.jpg",
-        "https://i.kodik.biz/screenshots/seria/741783/3.jpg",
-        "https://i.kodik.biz/screenshots/seria/741783/4.jpg",
-        "https://i.kodik.biz/screenshots/seria/741783/5.jpg"
-      ]
-    },
-    {
-      "id": "serial-30441",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Клуб добрых дел",
-      "title_orig": "GJ-bu",
-      "other_title": "Клуб \"Good Job\" / GJ Club",
-      "translation": {
-        "id": 1060,
-        "title": "MiraiDUB",
-        "type": "voice"
-      },
-      "year": 2013,
-      "last_season": 1,
-      "last_episode": 12,
-      "episodes_count": 13,
-      "kinopoisk_id": "739627",
-      "imdb_id": "tt2595478",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=1129",
-      "shikimori_id": "14811",
-      "quality": "BDRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2020-12-14T12:41:16Z",
-      "updated_at": "2020-12-14T12:41:16Z",
-      "seasons": {
-        "0": {
-          "title": "Спешл",
-          "link": "",
-          "episodes": {
-            "1": ""
-          }
-        },
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Клуб добрых дел",
-        "title_en": "GJ-bu",
-        "other_titles": [
-          "Good Job-bu"
-        ],
-        "other_titles_en": [
-          "GJ Club"
-        ],
-        "other_titles_jp": [
-          "GJ部"
-        ],
-        "anime_kind": "tv",
-        "all_status": "released",
-        "anime_status": "released",
-        "year": 2013,
-        "description": "История повествует о клубе с таинственным названием «GJ», в котором собрались те ещё ребята: девочка-гений, цундэре, всеобщая любимица Муги... ой, я хотел сказать Мэгу, которая отвечает за чаёк, обычный японский школьник Кёро и некомими-тян. Да, будет весело — я уже проверил на своей шкуре. Так что, ребята и девчата, усаживайтесь поудобнее. Мы начинаем!",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/739627.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/2431c9a958f1704b364c9d7adc60dcdb95112358.jpg",
-          "https://shikimori.one/system/screenshots/original/4ffdb35999482740ba244ff5d727c6f85912ce78.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "all_genres": [
-          "аниме",
-          "комедия",
-          "мультфильм",
-          "Комедия",
-          "Повседневность",
-          "Школа"
-        ],
-        "genres": [
-          "аниме",
-          "комедия",
-          "мультфильм"
-        ],
-        "anime_genres": [
-          "Комедия",
-          "Повседневность",
-          "Школа"
-        ],
-        "anime_studios": [
-          "Doga Kobo"
-        ],
-        "kinopoisk_rating": 6,
-        "kinopoisk_votes": 217,
-        "imdb_rating": 6.8,
-        "imdb_votes": 74,
-        "shikimori_rating": 7.34,
-        "shikimori_votes": 4514,
-        "premiere_world": "2013-01-10",
-        "aired_at": "2013-01-10",
-        "released_at": "2013-03-28",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Тика Аракава",
-          "Судзуко Мимори",
-          "Юмэ Миямото",
-          "Хиро Симоно",
-          "Маая Утида"
-        ]
-      },
-      "screenshots": [
-        "https://i.kodik.biz/screenshots/seria/741770/1.jpg",
-        "https://i.kodik.biz/screenshots/seria/741770/2.jpg",
-        "https://i.kodik.biz/screenshots/seria/741770/3.jpg",
-        "https://i.kodik.biz/screenshots/seria/741770/4.jpg",
-        "https://i.kodik.biz/screenshots/seria/741770/5.jpg"
       ]
     }
   ]
