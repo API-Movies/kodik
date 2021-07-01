@@ -1,22 +1,22 @@
-# :tv: Movies and TV `35,855` (kodik)
+# :tv: Movies and TV `35,880` (kodik)
 
 <a href="https://API-Movies.github.io"><img src="https://API-Movies.github.io/banner.png?cache"></a>
 
-### :date: 2021-06-30
-- Movies `19,585`
-  - [x] <a href="https://API-Movies.github.io/kodik/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `15,327`
-  - [x] <a href="https://API-Movies.github.io/kodik/movie_imdb_ids.json">IMDb IDs</a> `14,876`
+### :date: 2021-07-01
+- Movies `19,608`
+  - [x] <a href="https://API-Movies.github.io/kodik/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `15,330`
+  - [x] <a href="https://API-Movies.github.io/kodik/movie_imdb_ids.json">IMDb IDs</a> `14,879`
   - [ ] TMDb IDs `0`
-  - [x] <a href="https://API-Movies.github.io/kodik/movie_world_art_ids.json">World-Art IDs</a> `1,557`
-  - [x] <a href="https://API-Movies.github.io/kodik/movie_shikimori_ids.json">Shikimori IDs</a> `1,196`
+  - [x] <a href="https://API-Movies.github.io/kodik/movie_world_art_ids.json">World-Art IDs</a> `1,560`
+  - [x] <a href="https://API-Movies.github.io/kodik/movie_shikimori_ids.json">Shikimori IDs</a> `1,199`
   - [x] None IDs `145`
-- TV `16,270`
-  - [x] <a href="https://API-Movies.github.io/kodik/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `5,758`
-  - [x] <a href="https://API-Movies.github.io/kodik/tv_imdb_ids.json">IMDb IDs</a> `6,002`
+- TV `16,272`
+  - [x] <a href="https://API-Movies.github.io/kodik/tv_kinopoisk_ids.json">KinoPoisk IDs</a> `5,761`
+  - [x] <a href="https://API-Movies.github.io/kodik/tv_imdb_ids.json">IMDb IDs</a> `6,005`
   - [ ] TMDb IDs `0`
-  - [x] <a href="https://API-Movies.github.io/kodik/tv_world_art_ids.json">World-Art IDs</a> `3,786`
-  - [x] <a href="https://API-Movies.github.io/kodik/tv_shikimori_ids.json">Shikimori IDs</a> `3,006`
-  - [x] None IDs `837`
+  - [x] <a href="https://API-Movies.github.io/kodik/tv_world_art_ids.json">World-Art IDs</a> `3,788`
+  - [x] <a href="https://API-Movies.github.io/kodik/tv_shikimori_ids.json">Shikimori IDs</a> `3,008`
+  - [x] None IDs `836`
 #### Test errors
 - <a href='https://api-movies.github.io/test.html#kodik'>https://api-movies.github.io/test.html#kodik</a>
 #### JSON API
