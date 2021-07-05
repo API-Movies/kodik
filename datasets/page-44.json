@@ -577,8 +577,8 @@
         "kinopoisk_votes": 1725,
         "imdb_rating": 6.8,
         "imdb_votes": 2483,
-        "mydramalist_rating": 7.9,
-        "mydramalist_votes": 493,
+        "mydramalist_rating": 8,
+        "mydramalist_votes": 506,
         "premiere_world": "2020-09-23",
         "released_at": "2020-09-23",
         "minimal_age": 15,
@@ -1786,11 +1786,11 @@
           "драма"
         ],
         "kinopoisk_rating": 7.9,
-        "kinopoisk_votes": 4085,
+        "kinopoisk_votes": 4183,
         "imdb_rating": 8.2,
-        "imdb_votes": 2999,
+        "imdb_votes": 3065,
         "mydramalist_rating": 8.4,
-        "mydramalist_votes": 26705,
+        "mydramalist_votes": 26767,
         "premiere_world": "2020-12-09",
         "aired_at": "2020-12-09",
         "released_at": "2021-02-04",
@@ -2094,7 +2094,7 @@
         "imdb_rating": 7.5,
         "imdb_votes": 155,
         "mydramalist_rating": 8,
-        "mydramalist_votes": 1711,
+        "mydramalist_votes": 1717,
         "premiere_world": "2020-12-21",
         "aired_at": "2020-12-21",
         "released_at": "2021-02-09",
@@ -2511,164 +2511,6 @@
         "https://i.kodik.biz/screenshots/video/67542/3.jpg",
         "https://i.kodik.biz/screenshots/video/67542/4.jpg",
         "https://i.kodik.biz/screenshots/video/67542/5.jpg"
-      ]
-    },
-    {
-      "id": "serial-31880",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Маг-целитель: Новый старт",
-      "title_orig": "Kaifuku Jutsushi no Yarinaoshi",
-      "other_title": "Redo of Healer",
-      "translation": {
-        "id": 1237,
-        "title": "Jisedai",
-        "type": "voice"
-      },
-      "year": 2021,
-      "last_season": 1,
-      "last_episode": 4,
-      "episodes_count": 4,
-      "kinopoisk_id": "2044807",
-      "imdb_id": "tt13370404",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10293",
-      "shikimori_id": "40750",
-      "quality": "WEB-DLRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-01-16T07:19:28Z",
-      "updated_at": "2021-02-10T05:14:38Z",
-      "seasons": {
-        "1": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Маг-целитель: Новый старт",
-        "title_en": "Kaifuku Jutsushi no Yarinaoshi",
-        "other_titles": [
-          "Kaiyari"
-        ],
-        "other_titles_en": [
-          "Redo of Healer"
-        ],
-        "other_titles_jp": [
-          "回復術士のやり直し"
-        ],
-        "anime_kind": "tv",
-        "all_status": "released",
-        "anime_status": "released",
-        "year": 2021,
-        "description": "Когда Кэяру получил способность исцелять любого независимо от серьезности ран, казалось, что его ждет великое будущее. Но вместо этого он годами подвергался адским пыткам и издевательствам. Исцеляющие навыки Кэяру позволяли ему тайно собирать воспоминания и способности тех, кого он лечил, и постепенно делали его сильнее. Но к тому времени, когда он полностью раскрыл свой потенциал, было слишком поздно — он уже все потерял.\n\nТогда Кэяру решает применить мощное исцеляющее заклинание, которое вернет весь мир в то время, когда юноша только начал страдать от ужасной судьбы. Помня о трудном прошлом, он клянется все изменить и отомстить тем, кто его обидел.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/2044807.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/c2355d7fbd4612a76f8c6980403d0e4c45c92e05.jpg",
-          "https://shikimori.one/system/screenshots/original/52dfe65e05edc69a2c484133524f9c30bb0c604b.jpg"
-        ],
-        "duration": 24,
-        "countries": [
-          "Япония"
-        ],
-        "all_genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези",
-          "Гарем",
-          "Драма",
-          "Магия",
-          "Приключения",
-          "Фэнтези",
-          "Этти"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Гарем",
-          "Драма",
-          "Магия",
-          "Приключения",
-          "Фэнтези",
-          "Этти"
-        ],
-        "anime_studios": [
-          "TNK"
-        ],
-        "kinopoisk_rating": 6.8,
-        "kinopoisk_votes": 1205,
-        "imdb_rating": 6.3,
-        "imdb_votes": 1523,
-        "shikimori_rating": 6.31,
-        "shikimori_votes": 9468,
-        "premiere_world": "2021-01-13",
-        "aired_at": "2021-01-13",
-        "released_at": "2021-03-31",
-        "rating_mpaa": "R+",
-        "episodes_total": 12,
-        "episodes_aired": 12,
-        "actors": [
-          "Юя Ходзуми",
-          "Аяно Сибуя",
-          "Сидзука Исигами",
-          "Нацуки Аикава",
-          "Ясуаки Такуми",
-          "Мами Фудзита",
-          "Тэцу Инада",
-          "Нацуми Такамори",
-          "Минами Цуда",
-          "Такая Хаси"
-        ],
-        "directors": [
-          "Такуя Асаока"
-        ],
-        "producers": [
-          "Akiyoshi Ando",
-          "Sojiro Arimizu",
-          "Ая Иидзука",
-          "Сэйити Кавасима",
-          "Taiyo Matsuda",
-          "Natsuki Miyagawa",
-          "Сатоси Мотонага",
-          "Shun'ichi Okabe",
-          "Фумихико Синодзаки",
-          "Сё Танака"
-        ],
-        "writers": [
-          "Кадзуюки Фудэясу",
-          "Руи Цукиё"
-        ],
-        "composers": [
-          "Кэндзи Фудзисава",
-          "Йоханнес Нилссон",
-          "Акинари Судзуки"
-        ],
-        "editors": [
-          "Ая Хида"
-        ],
-        "designers": [
-          "Томоясу Фудзисэ",
-          "Сатору Хираянаги",
-          "Масатоси Каи"
-        ],
-        "operators": [
-          "Тадаси Китаока"
-        ]
-      },
-      "screenshots": [
-        "https://i.kodik.biz/screenshots/seria/768989/1.jpg",
-        "https://i.kodik.biz/screenshots/seria/768989/2.jpg",
-        "https://i.kodik.biz/screenshots/seria/768989/3.jpg",
-        "https://i.kodik.biz/screenshots/seria/768989/4.jpg",
-        "https://i.kodik.biz/screenshots/seria/768989/5.jpg"
       ]
     },
     {
@@ -3331,7 +3173,7 @@
         "imdb_rating": 6.6,
         "imdb_votes": 19604,
         "mydramalist_rating": 8.4,
-        "mydramalist_votes": 7414,
+        "mydramalist_votes": 7442,
         "premiere_world": "2021-01-29",
         "released_at": "2021-02-05",
         "minimal_age": 18,
@@ -3746,7 +3588,7 @@
         "imdb_rating": 5.4,
         "imdb_votes": 360,
         "mydramalist_rating": 7.6,
-        "mydramalist_votes": 370,
+        "mydramalist_votes": 373,
         "premiere_world": "2020-03-20",
         "released_at": "2020-03-20",
         "actors": [
@@ -6545,7 +6387,7 @@
         "imdb_rating": 7.4,
         "imdb_votes": 53,
         "mydramalist_rating": 7.6,
-        "mydramalist_votes": 519,
+        "mydramalist_votes": 521,
         "premiere_world": "2020-12-11",
         "aired_at": "2020-12-11",
         "released_at": "2021-02-06",
@@ -6814,7 +6656,7 @@
         "imdb_rating": 7.4,
         "imdb_votes": 53,
         "mydramalist_rating": 7.6,
-        "mydramalist_votes": 519,
+        "mydramalist_votes": 521,
         "premiere_world": "2020-12-11",
         "aired_at": "2020-12-11",
         "released_at": "2021-02-06",
@@ -7368,151 +7210,6 @@
         "https://i.kodik.biz/screenshots/video/67414/3.jpg",
         "https://i.kodik.biz/screenshots/video/67414/4.jpg",
         "https://i.kodik.biz/screenshots/video/67414/5.jpg"
-      ]
-    },
-    {
-      "id": "serial-31903",
-      "type": "anime-serial",
-      "link": "",
-      "title": "Семь смертных грехов [ТВ-4]",
-      "title_orig": "Nanatsu no Taizai: Fundo no Shinpan",
-      "other_title": "Семь смертных грехов: Суд ярости / Семь смертных грехов: Яростное правосудие / The Seven Deadly Sins: Dragon's Judgement",
-      "translation": {
-        "id": 1237,
-        "title": "Jisedai",
-        "type": "voice"
-      },
-      "year": 2021,
-      "last_season": 4,
-      "last_episode": 3,
-      "episodes_count": 3,
-      "kinopoisk_id": "843954",
-      "imdb_id": "tt3909224",
-      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=10443",
-      "shikimori_id": "41491",
-      "quality": "HDTVRip 720p",
-      "camrip": false,
-      "blocked_countries": [],
-      "blocked_seasons": {},
-      "created_at": "2021-01-16T22:00:08Z",
-      "updated_at": "2021-02-08T15:16:49Z",
-      "seasons": {
-        "4": {
-          "link": "",
-          "episodes": {
-            "1": "",
-            "2": "",
-            "3": ""
-          }
-        }
-      },
-      "material_data": {
-        "title": "Семь смертных грехов",
-        "title_en": "Nanatsu no Taizai: The Seven Deadly Sins",
-        "other_titles": [
-          "Семь смертных грехов: Суд ярости",
-          "The Seven Deadly Sins: Judgement of Fury"
-        ],
-        "other_titles_en": [
-          "The Seven Deadly Sins: Dragon's Judgement"
-        ],
-        "other_titles_jp": [
-          "七つの大罪 憤怒の審判"
-        ],
-        "anime_kind": "tv",
-        "all_status": "released",
-        "anime_status": "released",
-        "year": 2014,
-        "description": "Семь смертных грехов - давным-давно так называли семерых могущественных рыцарей, обвинённых в заговоре с целью свергнуть короля Британии. Воины были казнены благородным Орденом священных рыцарей, однако ходят слухи, что Семь грехов ещё живы. Десять лет спустя священные рыцари устроили государственный переворот и вероломно убили монарха, установив собственную тиранию в королевстве. Элизабет, третья дочь короля, отправляется на поиски Семи смертных грехов, дабы, заручившись их поддержкой, вернуть в страну закон и справедливость.",
-        "poster_url": "https://st.kp.yandex.net/images/film_big/843954.jpg",
-        "screenshots": [
-          "https://shikimori.one/system/screenshots/original/617c9d3acc0fae5ac49eea28eac597a0c8090433.jpg",
-          "https://shikimori.one/system/screenshots/original/fa075dad429de9aa67b45f619acd611d5ad459b3.jpg"
-        ],
-        "duration": 25,
-        "countries": [
-          "Япония"
-        ],
-        "all_genres": [
-          "аниме",
-          "мультфильм",
-          "приключения",
-          "фэнтези",
-          "Магия",
-          "Приключения",
-          "Сверхъестественное",
-          "Сёнен",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "genres": [
-          "аниме",
-          "мультфильм",
-          "приключения",
-          "фэнтези"
-        ],
-        "anime_genres": [
-          "Магия",
-          "Приключения",
-          "Сверхъестественное",
-          "Сёнен",
-          "Фэнтези",
-          "Экшен"
-        ],
-        "anime_studios": [
-          "Studio Deen"
-        ],
-        "kinopoisk_rating": 7.8,
-        "kinopoisk_votes": 11748,
-        "imdb_rating": 8,
-        "imdb_votes": 25540,
-        "shikimori_rating": 6.62,
-        "shikimori_votes": 2534,
-        "premiere_world": "2014-09-01",
-        "aired_at": "2021-01-13",
-        "released_at": "2021-06-23",
-        "rating_mpaa": "PG-13",
-        "episodes_total": 24,
-        "episodes_aired": 24,
-        "actors": [
-          "Юки Кадзи",
-          "Сора Амамия",
-          "Мисаки Куно",
-          "Аои Юки",
-          "Тацухиса Судзуки",
-          "Дзюн Фукуяма",
-          "Маая Сакамото",
-          "Кацуюки Конъиси",
-          "Мамору Мияно",
-          "Такахиро Сакурай"
-        ],
-        "directors": [
-          "Томокадзу Токоро",
-          "Тэнсаи Окамура"
-        ],
-        "producers": [
-          "Такамицу Иноэ",
-          "Кодзуэ Канэнива",
-          "Кэнсукэ Татэиси",
-          "Рю Хасимото",
-          "Хиро Маруяма",
-          "Такуя Мацусита",
-          "Томонори Отикоси",
-          "Хироюки Симидзу"
-        ],
-        "writers": [
-          "Сётаро Суга"
-        ],
-        "composers": [
-          "Хироюки Савано"
-        ]
-      },
-      "screenshots": [
-        "https://i.kodik.biz/screenshots/seria/769417/1.jpg",
-        "https://i.kodik.biz/screenshots/seria/769417/2.jpg",
-        "https://i.kodik.biz/screenshots/seria/769417/3.jpg",
-        "https://i.kodik.biz/screenshots/seria/769417/4.jpg",
-        "https://i.kodik.biz/screenshots/seria/769417/5.jpg"
       ]
     },
     {
@@ -9247,8 +8944,8 @@
         "kinopoisk_votes": 1042,
         "imdb_rating": 4.7,
         "imdb_votes": 1987,
-        "shikimori_rating": 5.62,
-        "shikimori_votes": 245,
+        "shikimori_rating": 5.61,
+        "shikimori_votes": 244,
         "premiere_ru": "2021-03-25",
         "premiere_world": "2020-10-18",
         "aired_at": "2020-12-30",
@@ -9649,7 +9346,7 @@
         "imdb_rating": 7.4,
         "imdb_votes": 5,
         "mydramalist_rating": 7.6,
-        "mydramalist_votes": 702,
+        "mydramalist_votes": 704,
         "premiere_world": "2020-11-03",
         "aired_at": "2020-11-03",
         "released_at": "2020-11-22",
@@ -9811,7 +9508,7 @@
           "драма"
         ],
         "mydramalist_rating": 6.9,
-        "mydramalist_votes": 233,
+        "mydramalist_votes": 234,
         "aired_at": "2020-12-10",
         "released_at": "2021-01-16",
         "minimal_age": 13,
@@ -10235,6 +9932,259 @@
         "https://i.kodik.biz/screenshots/seria/760850/3.jpg",
         "https://i.kodik.biz/screenshots/seria/760850/4.jpg",
         "https://i.kodik.biz/screenshots/seria/760850/5.jpg"
+      ]
+    },
+    {
+      "id": "serial-32517",
+      "type": "anime-serial",
+      "link": "",
+      "title": "Дьявольские возлюбленные [ТВ-2]",
+      "title_orig": "Diabolik Lovers More, Blood",
+      "other_title": "Дьявольские возлюбленные. Больше крови",
+      "translation": {
+        "id": 1060,
+        "title": "MiraiDUB",
+        "type": "voice"
+      },
+      "year": 2015,
+      "last_season": 1,
+      "last_episode": 12,
+      "episodes_count": 12,
+      "kinopoisk_id": "807626",
+      "imdb_id": "tt3114350",
+      "worldart_link": "http://www.world-art.ru/animation/animation.php?id=8225",
+      "shikimori_id": "29974",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-02-08T07:25:26Z",
+      "updated_at": "2021-02-08T07:25:26Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Дьявольские возлюбленные",
+        "title_en": "Diabolik Lovers",
+        "other_titles": [
+          "Diabolik Lovers 2nd Season",
+          "Diabolik Lovers Second Season"
+        ],
+        "other_titles_en": [
+          "Diabolik Lovers II: More,Blood"
+        ],
+        "other_titles_jp": [
+          "DIABOLIK LOVERS MORE,BLOOD"
+        ],
+        "anime_kind": "tv",
+        "all_status": "released",
+        "anime_status": "released",
+        "year": 2013,
+        "description": "Юи Комори — юная дочь священника. Из-за отъезда отца девушке приходится переехать в таинственный особняк к своим дальним родственникам. Там она встречает шестерых братьев Сакамаки, которые оказываются самыми настоящими вампирами-садистами. Однако, братья сразу дают девушке понять: Юи для них — лишь сосуд крови. Сперва Комори пытается совершить побег, но тут же становится ясно, что это сделать нереально. Более того, если подобное произойдет ещё раз, братья-вампиры обещают девушке жестокую расправу. В итоге, Юи приходится начать посещать элитную школу «Рётэй», где по ночам учатся знаменитости и различные сверхъестественные существа.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/807626.jpg",
+        "screenshots": [
+          "https://shikimori.one/system/screenshots/original/bd0235a6d6f08ff312aad6082f446d3560aa6af5.JPG",
+          "https://shikimori.one/system/screenshots/original/d0c6b4332f7d02808b94764928ef52b3c1975ce8.JPG"
+        ],
+        "duration": 15,
+        "countries": [
+          "Япония"
+        ],
+        "all_genres": [
+          "аниме",
+          "мультфильм",
+          "Вампиры",
+          "Гарем",
+          "Сёдзё",
+          "Школа"
+        ],
+        "genres": [
+          "аниме",
+          "мультфильм"
+        ],
+        "anime_genres": [
+          "Вампиры",
+          "Гарем",
+          "Сёдзё",
+          "Школа"
+        ],
+        "anime_studios": [
+          "Zexcs"
+        ],
+        "kinopoisk_rating": 5.2,
+        "kinopoisk_votes": 6497,
+        "imdb_rating": 5.2,
+        "imdb_votes": 1159,
+        "shikimori_rating": 5.63,
+        "shikimori_votes": 5052,
+        "premiere_world": "2013-09-16",
+        "aired_at": "2015-09-24",
+        "released_at": "2015-12-10",
+        "rating_mpaa": "R",
+        "episodes_total": 12,
+        "episodes_aired": 12,
+        "actors": [
+          "Bryson Baugus",
+          "Люси Кристиан",
+          "Шеннон Эмерик",
+          "Мэгги Флекно",
+          "Тиффани Грант",
+          "Джош Грелл",
+          "Кори Хартзог",
+          "Даисукэ Хиракава",
+          "Бриттни Карбовски",
+          "Такаси Кондо"
+        ],
+        "directors": [
+          "Синобу Тагасира"
+        ],
+        "producers": [
+          "Джон Лэдфорд"
+        ],
+        "composers": [
+          "Юки Хаяси"
+        ],
+        "operators": [
+          "Риэко Коикэ"
+        ]
+      },
+      "screenshots": [
+        "https://i.kodik.biz/screenshots/seria/782519/1.jpg",
+        "https://i.kodik.biz/screenshots/seria/782519/2.jpg",
+        "https://i.kodik.biz/screenshots/seria/782519/3.jpg",
+        "https://i.kodik.biz/screenshots/seria/782519/4.jpg",
+        "https://i.kodik.biz/screenshots/seria/782519/5.jpg"
+      ]
+    },
+    {
+      "id": "serial-32516",
+      "type": "foreign-serial",
+      "link": "",
+      "title": "Записки детектива",
+      "title_orig": "Tui li bi ji",
+      "other_title": "Inference Notes",
+      "translation": {
+        "id": 1563,
+        "title": "FSG Fizlog.Subtitles",
+        "type": "subtitles"
+      },
+      "year": 2017,
+      "last_season": 1,
+      "last_episode": 20,
+      "episodes_count": 20,
+      "kinopoisk_id": "1119910",
+      "imdb_id": "tt7601732",
+      "mdl_id": "26145-inference-notes",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "blocked_seasons": {},
+      "created_at": "2021-02-08T06:28:52Z",
+      "updated_at": "2021-02-08T06:28:52Z",
+      "seasons": {
+        "1": {
+          "link": "",
+          "episodes": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "9": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": ""
+          }
+        }
+      },
+      "material_data": {
+        "title": "Записки детектива",
+        "title_en": "Tui li bi ji",
+        "other_titles": [
+          "Tui Li Bi Ji"
+        ],
+        "all_status": "released",
+        "drama_status": "released",
+        "year": 2017,
+        "poster_url": "https://st.kp.yandex.net/images/film_big/1119910.jpg",
+        "duration": 24,
+        "countries": [
+          "Китай"
+        ],
+        "all_genres": [
+          "детектив",
+          "криминал",
+          "триллер",
+          "неизвестность",
+          "мистика",
+          "драма",
+          "расследование"
+        ],
+        "genres": [
+          "детектив",
+          "криминал",
+          "триллер"
+        ],
+        "drama_genres": [
+          "неизвестность",
+          "мистика",
+          "драма",
+          "детектив",
+          "расследование"
+        ],
+        "mydramalist_rating": 7.8,
+        "mydramalist_votes": 215,
+        "premiere_world": "2017-11-03",
+        "aired_at": "2017-11-03",
+        "released_at": "2017-11-24",
+        "episodes_total": 20,
+        "actors": [
+          "Чжан Цзыфэн",
+          "Хоу Минхао",
+          "Тони Ван",
+          "Эдисон Ван",
+          "Синди Ень",
+          "Стивен Сунь",
+          "Шэрон Кван",
+          "Грег Сюй"
+        ],
+        "directors": [
+          "Линь Цинчжэнь"
+        ]
+      },
+      "screenshots": [
+        "https://i.kodik.biz/screenshots/seria/782476/1.jpg",
+        "https://i.kodik.biz/screenshots/seria/782476/2.jpg",
+        "https://i.kodik.biz/screenshots/seria/782476/3.jpg",
+        "https://i.kodik.biz/screenshots/seria/782476/4.jpg",
+        "https://i.kodik.biz/screenshots/seria/782476/5.jpg"
       ]
     }
   ]
