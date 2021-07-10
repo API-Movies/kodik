@@ -1,6 +1,496 @@
 {
   "results": [
     {
+      "id": "movie-7230",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Национальная безопасность",
+      "title_orig": "National Security",
+      "translation": {
+        "id": 680,
+        "title": "den904",
+        "type": "voice"
+      },
+      "year": 2012,
+      "kinopoisk_id": "717250",
+      "imdb_id": "tt2466786",
+      "quality": "HDTVRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-08-05T19:32:41Z",
+      "updated_at": "2015-08-05T19:32:41Z",
+      "material_data": {
+        "title": "Национальная безопасность",
+        "title_en": "Namyeongdong 1985",
+        "year": 2012,
+        "description": "4 сентября 1985 года в Сеуле 37-летний политический деятель и бывший лидер демократической федерации молодежи Ким Джон-тхэ, выступавший против военной диктатуры Чон Ду-хвана, был незаконно арестован на глазах жены и детей и доставлен в специальный центр допросов в районе Намёндон.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/717250.jpg",
+        "duration": 110,
+        "countries": [
+          "Корея Южная"
+        ],
+        "all_genres": [
+          "биография",
+          "драма",
+          "история",
+          "триллер"
+        ],
+        "genres": [
+          "биография",
+          "драма",
+          "история",
+          "триллер"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 132,
+        "imdb_rating": 7.1,
+        "imdb_votes": 238,
+        "premiere_world": "2012-10-06",
+        "actors": [
+          "Пак Вон-сан",
+          "Ли Гён-ён",
+          "Мён Ге-нам",
+          "Ким И-сон",
+          "Со Дон-су",
+          "Ким Джун-ги",
+          "Ли Чхон-хи",
+          "Мун Сон-кун",
+          "У Хи-джин",
+          "Пэ Ён-гын"
+        ],
+        "directors": [
+          "Чон Джи-ён"
+        ],
+        "producers": [
+          "Ким Джи-ён",
+          "Чон Сан-мин"
+        ],
+        "writers": [
+          "Ли Дэ-иль",
+          "Чон Сан-хёп",
+          "Ким Гын-тхэ",
+          "Кан Мин-хи",
+          "Чон Джи-ён"
+        ],
+        "composers": [
+          "Щин Мин"
+        ],
+        "editors": [
+          "Ко Им-пхё"
+        ],
+        "designers": [
+          "Чхве Ён-щик"
+        ],
+        "operators": [
+          "Со Мин-су"
+        ]
+      },
+      "screenshots": []
+    },
+    {
+      "id": "movie-7222",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Пойман",
+      "title_orig": "Busted ",
+      "translation": {
+        "id": 816,
+        "title": "Одноголосый",
+        "type": "voice"
+      },
+      "year": 2014,
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-08-05T19:13:47Z",
+      "updated_at": "2015-08-05T19:13:47Z",
+      "screenshots": []
+    },
+    {
+      "id": "movie-7196",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Отчаянный поступок",
+      "title_orig": "A Desperate Deed",
+      "translation": {
+        "id": 814,
+        "title": "Многоголосый",
+        "type": "voice"
+      },
+      "year": 2011,
+      "imdb_id": "tt1809218",
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-07-28T22:10:36Z",
+      "updated_at": "2015-07-28T22:10:36Z",
+      "screenshots": []
+    },
+    {
+      "id": "movie-7182",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Резня ",
+      "title_orig": "Cut ",
+      "translation": {
+        "id": 816,
+        "title": "Одноголосый",
+        "type": "voice"
+      },
+      "year": 2013,
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-07-25T18:45:31Z",
+      "updated_at": "2015-07-25T18:45:31Z",
+      "screenshots": []
+    },
+    {
+      "id": "movie-7180",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Сафф И Джен",
+      "title_orig": "Saff And Jen",
+      "translation": {
+        "id": 814,
+        "title": "Многоголосый",
+        "type": "voice"
+      },
+      "year": 2013,
+      "quality": "WEB-DLRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-07-25T18:41:07Z",
+      "updated_at": "2015-07-25T18:41:07Z",
+      "screenshots": []
+    },
+    {
+      "id": "movie-7175",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Мы братья",
+      "title_orig": "Urineun Hyeongjeimnida",
+      "translation": {
+        "id": 613,
+        "title": "DeadSno & den904",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "843255",
+      "imdb_id": "tt4314832",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-07-25T18:32:08Z",
+      "updated_at": "2015-07-25T18:32:08Z",
+      "material_data": {
+        "title": "Мы — братья",
+        "title_en": "Urineun hyeongjeipnida",
+        "year": 2014,
+        "description": "Двух братьев разлучили в детстве в детском доме. Годы спустя они встречаются вновь и решают вместе найти свою мать, которая неожиданно исчезла как раз перед воссоединением семьи.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/843255.jpg",
+        "duration": 102,
+        "countries": [
+          "Корея Южная"
+        ],
+        "all_genres": [
+          "драма",
+          "комедия"
+        ],
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "imdb_rating": 6.2,
+        "imdb_votes": 150,
+        "premiere_world": "2014-10-23",
+        "actors": [
+          "Чо Джин-ун",
+          "Ким Сон-гюн",
+          "Ким Ён-э",
+          "Юн Джин-и",
+          "Майлз Мейли",
+          "Венди Тейлор",
+          "Чан Хёк-чин",
+          "Чо Бон-нэ",
+          "Ли Хё-джэ",
+          "Пэ Джэ-ги"
+        ],
+        "directors": [
+          "Чан Джин"
+        ],
+        "producers": [
+          "Hyeon-Seok Cho",
+          "Ли Ын-ха"
+        ],
+        "writers": [
+          "Пэ Сэ-ён"
+        ],
+        "editors": [
+          "Ким Сон-мин"
+        ],
+        "designers": [
+          "Ким Хё-щин",
+          "Хан Хэ-сук"
+        ],
+        "operators": [
+          "Ким Сон-ан"
+        ]
+      },
+      "screenshots": []
+    },
+    {
+      "id": "movie-7164",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Сестричка-мечница 2",
+      "title_orig": "Oneechanbara: The Movie - Vortex",
+      "translation": {
+        "id": 816,
+        "title": "Одноголосый",
+        "type": "voice"
+      },
+      "year": 2009,
+      "kinopoisk_id": "471949",
+      "imdb_id": "tt1438499",
+      "quality": "DVDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-07-23T01:19:55Z",
+      "updated_at": "2015-07-23T01:19:55Z",
+      "material_data": {
+        "title": "Сестричка-мечница 2",
+        "title_en": "Oneechanbara: The Movie - Vortex",
+        "year": 2009,
+        "tagline": "Chanbara Girl Goes Again!",
+        "description": "Фильм про вирус, созданный какой-то секретной организацией под управлением некой Химико, превративший население земли в зомби, и про девушку в ковбойской шляпе, красных трусах и лифчике, по имени Ая которая шинкует зомби своими фамильными катанами вместе с младшенькой сестричкой Саки.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/471949.jpg",
+        "duration": 85,
+        "countries": [
+          "Япония"
+        ],
+        "all_genres": [
+          "ужасы"
+        ],
+        "genres": [
+          "ужасы"
+        ],
+        "kinopoisk_rating": 4.3,
+        "kinopoisk_votes": 94,
+        "imdb_rating": 4.2,
+        "imdb_votes": 303,
+        "premiere_world": "2009-06-06",
+        "actors": [
+          "Ю Тэдзима",
+          "Акари Одзава",
+          "Рика Кавамура",
+          "Тика Аракава",
+          "Ёхей Хосина",
+          "Kaoru Yuki",
+          "Куми Имура"
+        ],
+        "directors": [
+          "Цуёси Сёдзи"
+        ],
+        "writers": [
+          "Фукусима Ёсики"
+        ],
+        "editors": [
+          "Цуёси Сёдзи"
+        ]
+      },
+      "screenshots": []
+    },
+    {
+      "id": "movie-7151",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Офицер года",
+      "title_orig": "Chae-po-wang",
+      "translation": {
+        "id": 704,
+        "title": "Дублированный",
+        "type": "voice"
+      },
+      "year": 2011,
+      "kinopoisk_id": "591945",
+      "imdb_id": "tt1942825",
+      "quality": "BDRip 720p",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-07-22T21:33:44Z",
+      "updated_at": "2015-07-22T21:33:44Z",
+      "material_data": {
+        "title": "Офицер года",
+        "title_en": "Chepowang",
+        "year": 2011,
+        "description": "Хван Джэ-сон возглавляет специальный полицейский отдел расследований. Он - гроза преступников соседних кварталов и славится своим умением выслеживать самых хитроумных негодяев. Хван умеет сделать так, что преступники из соседних кварталов попадают в район, где работает он, и уж тогда им не скрыться. Но у Хван Джэ-сона есть соперник - Чон И-чхан. Такой же сыщик из соседнего полицейского участка, который в своем профессионализме и честолюбии не уступает Хвану. \n\nКаждый из них усердно исполняет свой долг, но однажды Чон упускает нескольких преступников, и Хван перехватывает их прямо у него под носом. Тогда Чон твердо решает во что бы то ни стало сравнять счет.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/591945.jpg",
+        "duration": 117,
+        "countries": [
+          "Корея Южная"
+        ],
+        "all_genres": [
+          "боевик",
+          "детектив",
+          "комедия",
+          "криминал"
+        ],
+        "genres": [
+          "боевик",
+          "детектив",
+          "комедия",
+          "криминал"
+        ],
+        "kinopoisk_rating": 6.9,
+        "kinopoisk_votes": 301,
+        "imdb_rating": 6.1,
+        "imdb_votes": 207,
+        "premiere_world": "2011-05-04",
+        "actors": [
+          "Пак Чун-хун",
+          "Ли Сон-гюн",
+          "Ли Сон-мин",
+          "Ким Джон-тхэ",
+          "Чхве Дон-мун",
+          "Ко Джу-ён",
+          "Хан Су-ён",
+          "Ли Сын-чхоль",
+          "Кан Ги-хва",
+          "Чон До-вон"
+        ],
+        "directors": [
+          "Лим Чхан-ик"
+        ],
+        "producers": [
+          "Ли Чхун-ён"
+        ],
+        "writers": [
+          "Лим Чхан-ик",
+          "Чхве Джин-вон"
+        ],
+        "composers": [
+          "Ким Тхэ-сон"
+        ],
+        "editors": [
+          "Щин Мин-гён"
+        ],
+        "designers": [
+          "Ким Щи-ён",
+          "Чхве И-ён"
+        ],
+        "operators": [
+          "Чо Сан-юн"
+        ]
+      },
+      "screenshots": []
+    },
+    {
+      "id": "movie-7142",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Афета ",
+      "title_orig": "Twilight, The Twilight Saga: Breaking Dawn - Part 1",
+      "translation": {
+        "id": 814,
+        "title": "Многоголосый",
+        "type": "voice"
+      },
+      "year": 2015,
+      "quality": "HDRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-07-22T15:06:23Z",
+      "updated_at": "2015-07-22T15:06:23Z",
+      "screenshots": []
+    },
+    {
+      "id": "movie-7137",
+      "type": "foreign-movie",
+      "link": "",
+      "title": "Теория самоубийства",
+      "title_orig": "The Suicide Theory",
+      "translation": {
+        "id": 815,
+        "title": "Двухголосый",
+        "type": "voice"
+      },
+      "year": 2014,
+      "kinopoisk_id": "724408",
+      "imdb_id": "tt2517300",
+      "quality": "WEB-DLRip",
+      "camrip": false,
+      "blocked_countries": [],
+      "created_at": "2015-07-22T00:49:25Z",
+      "updated_at": "2015-07-22T00:49:25Z",
+      "material_data": {
+        "title": "Теория самоубийства",
+        "title_en": "The Suicide Theory",
+        "year": 2014,
+        "tagline": "Do you believe in fate?",
+        "description": "Человек, решившийся на самоубийство нанимает безумного убийцу, чтобы он помог ему выполнить свой план, но по какой-то причине он выживает каждый раз, когда решается посягнуть на свою собственную жизнь.",
+        "poster_url": "https://st.kp.yandex.net/images/film_big/724408.jpg",
+        "duration": 98,
+        "countries": [
+          "Австралия"
+        ],
+        "all_genres": [
+          "драма"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "kinopoisk_rating": 6.1,
+        "kinopoisk_votes": 323,
+        "imdb_rating": 6.6,
+        "imdb_votes": 2498,
+        "premiere_world": "2014-06-04",
+        "rating_mpaa": "R",
+        "actors": [
+          "Стив Музакис",
+          "Леон Кэйн",
+          "Джосс МакУильям",
+          "Мэттью Скалли",
+          "Тодд Леви",
+          "Николас Купер",
+          "Уорвик Комбер",
+          "Эрин Коннор",
+          "Крис Бартоломью",
+          "Рон Келли"
+        ],
+        "directors": [
+          "Дрю Браун"
+        ],
+        "producers": [
+          "Дрю Браун",
+          "Дэн МакАртур",
+          "Кристиан МакКарти",
+          "Дарвин Брукс",
+          "Аарон МакКарти",
+          "Jacob McCarty",
+          "Мелани Пул",
+          "Джейк Риди",
+          "Waynne Videroni"
+        ],
+        "writers": [
+          "Michael J. Kospiah"
+        ],
+        "composers": [
+          "Рольф Мейер"
+        ],
+        "editors": [
+          "Ахмад Халими"
+        ],
+        "designers": [
+          "Melinda Dimond"
+        ],
+        "operators": [
+          "Дэн МакАртур"
+        ]
+      },
+      "screenshots": []
+    },
+    {
       "id": "movie-7131",
       "type": "foreign-movie",
       "link": "",
@@ -121,9 +611,8 @@
           "комедия"
         ],
         "imdb_rating": 4.8,
-        "imdb_votes": 131,
+        "imdb_votes": 138,
         "premiere_world": "2012-09-27",
-        "minimal_age": 0,
         "actors": [
           "Нэвин Поули",
           "Намита Прамод",
@@ -3935,7 +4424,7 @@
         "title": "Обгоняя ветер",
         "title_en": "Race Gurram",
         "year": 2014,
-        "description": "Лаки и Рам – два брата - абсолютные противоположности друг другу. Рам привык жить честно и свою жизнь посвятил служению Родине, вступив в ряды полиции. А Лаки – бездельник, который прожигает жизнь и привык жить на всё готовое. Стычки интересов братьев происходят ежедневно и их родители, обеспокоенные не на шутку их враждой, молятся, чтобы однажды они зажили в полной гармонии, как Рама и Лакшмана из эпоса «Рамаяна». Тем временем, в штате появляется бандит по имени Шива Редди, сын кровожадного политика Педди Редди. По воле случая, Лаки оказывается замешан в разборках с Шивой. Тут начинается проверка настоящих братских чувств Рама...",
+        "description": "Лаки и Рам – два брата — абсолютные противоположности друг другу. Рам привык жить честно и свою жизнь посвятил служению Родине, вступив в ряды полиции. А Лаки – бездельник, который прожигает жизнь и привык жить на всё готовое. Стычки интересов братьев происходят ежедневно и их родители, обеспокоенные не на шутку их враждой, молятся, чтобы однажды они зажили в полной гармонии, как Рама и Лакшмана из эпоса «Рамаяна». Тем временем, в штате появляется бандит по имени Шива Редди, сын кровожадного политика Педди Редди. По воле случая, Лаки оказывается замешан в разборках с Шивой. Тут начинается проверка настоящих братских чувств Рама...",
         "poster_url": "https://st.kp.yandex.net/images/film_big/793348.jpg",
         "duration": 156,
         "countries": [
@@ -3950,11 +4439,10 @@
           "комедия"
         ],
         "kinopoisk_rating": 7.7,
-        "kinopoisk_votes": 458,
+        "kinopoisk_votes": 474,
         "imdb_rating": 7.2,
-        "imdb_votes": 8803,
+        "imdb_votes": 9054,
         "premiere_world": "2014-04-10",
-        "minimal_age": 0,
         "actors": [
           "Аллу Арджун",
           "Шрути Хасан",
