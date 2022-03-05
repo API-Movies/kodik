@@ -2,7 +2,7 @@
 
 <a href="https://API-Movies.github.io"><img src="https://API-Movies.github.io/banner.png?cache"></a>
 
-### :date: 2022-03-04
+### :date: 2022-03-05
 - Movies `20,060`
   - [x] <a href="https://API-Movies.github.io/kodik/movie_kinopoisk_ids.json">KinoPoisk IDs</a> `15,450`
   - [x] <a href="https://API-Movies.github.io/kodik/movie_imdb_ids.json">IMDb IDs</a> `15,010`
